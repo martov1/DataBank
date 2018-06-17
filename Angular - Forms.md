@@ -186,13 +186,13 @@ a su vez lo vinculas con el template usando `[formControl]="nombreDeVariable"`
 Una vez vinculado actua como un **two way databinding**
 
 sintaxis:
-````
+````html
   <!-- Esta sintaxis te sirve si no estas en un formGroup-->
   <input  [formControl]="miVariable">
 
 ````
 
-````
+````js
   miVariable = new FormControl(valorInicial, [validators], [async validators]);
   
   //LEER VALORES
@@ -212,7 +212,7 @@ Podes acceder a todos los valores del form con **FormGroup.value** en una hermos
 
 
 Sintaxis:
-````
+````js
 // Genero un FormGroup con todos los FormControl dentro
 miFormGroup = new FormGroup ({
     miFormControl1: new FormControl()
@@ -225,7 +225,7 @@ miFormGroup.get('miFormControl1').value //leer el valor de algo en el formGroup
 
 ````
 
-````
+````html
 <!-- novalidate evita que el browser haga validaciones HTML-->
 <form [formGroup]="miFormGroup" novalidate>
 	  <!-- hay que aclarar como se llama el FormControl dentro del FormGroup-->
@@ -243,7 +243,7 @@ mi form es valida?:  {{miFormGroup.valid}}
 Te permite declarar FormGroups y FormControls de forma mas simple y legible. basicaente te ahorras escribir `new FormControl(valorInicial)`.
 
 Esto:
-````
+````js
 // Genero un FormGroup con todos los FormControl dentro
 miFormGroup = new FormGroup ({
     miFormControl1: new FormControl(valorInicial1)
@@ -253,7 +253,7 @@ miFormGroup = new FormGroup ({
 
 Se traduce a esto
 
-````
+````js
 	this.miFormGroup = this.formBuilder.group({
       miFormControl1: valorInicial1, 
 	  miFormControl2: [valorInicial2, Validator1 ], 
@@ -261,7 +261,7 @@ Se traduce a esto
 ````
 
 EJ:
-````
+````js
 this.heroForm = this.fb.group({
       name: ['', Validators.required ],
       street: '',
@@ -277,7 +277,7 @@ this.heroForm = this.fb.group({
 
 Podes anidar FormGroups, esto te permite facilitar la validacion de a pedazos y juntar los datos en una estructura JSON con mas sentido
 
-````
+````js
 this.heroForm = this.fb.group({ // <-- the parent FormGroup
       name: ['', Validators.required ],
       address: this.formBuilder.group({ // <-- the child FormGroup
@@ -292,7 +292,7 @@ this.heroForm.value 	//Obtener todos los valores como Json
 ````
 
 Fijate que en el template hay que agrupar los FormControls que corresponden al nuevo FormGroup dentro de un div con la directiva `formGroupName` apuntando al FormGroup anidado
-````
+````html
 <form [formGroup]="heroForm" novalidate>
 	<input  formControlName="name">
 	<!-- apunta al formgroup "adress" -->
@@ -369,5 +369,5 @@ Tambien podes usar **Validator functions** si fuera necesario, que pueden ser
 
 > hay funciones validator predefinidas con los mismas funciones de validacion que la validacion HTML
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Mzc3NzA4NV19
+eyJoaXN0b3J5IjpbMTM4ODAxODYyNF19
 -->
