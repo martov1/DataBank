@@ -78,9 +78,9 @@ https://www.youtube.com/watch?v=698GsCsmXIk&list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeX
 Los sistemas de bases de datos estan diseñados para:
 
 * **Masivo:** Guardar y manejar cantidades masivas de informacion
-* **Persistente: ** Guarda datos de forma persistente (en disco)
-* **seguro: ** Estan preparados para **sistemas criticos**, tienen grandes garantias. incluso contra cortes de luz.
-* **Concurrentes: ** Muchos usuarios y aplicaciones pueden acceder de forma paralela
+* **Persistente:** Guarda datos de forma persistente (en disco)
+* **seguro:** Estan preparados para **sistemas criticos**, tienen grandes garantias. incluso contra cortes de luz.
+* **Concurrentes:** Muchos usuarios y aplicaciones pueden acceder de forma paralela
 * **Gran Abstraccion:** Las instrucciones para extraer los datos (sql o otra abstraccion) son independientes de la eleccion de algoritmo que la base de datos use para sacar esos datos ó para almacenarlos.
 * **Eficiente:** Es Increiblemente eficiente y optimizado.
 
@@ -88,8 +88,8 @@ Los sistemas de bases de datos estan diseñados para:
 
 Las siguientes definiciones son muy necesarias para hablar sobre bases de datos
 
-**Partes de un sistema de base de datos: **
-* **database: ** Una coleccion de datos organizada de una cierta forma para representar algo. Generalmente esta armada para ser interpretada por un DBMS puntual.
+**Partes de un sistema de base de datos:**
+* **database:** Una coleccion de datos organizada de una cierta forma para representar algo. Generalmente esta armada para ser interpretada por un DBMS puntual.
 * **Database model:** Es la estructura logica abstracta como estan organizados los datos en la base de datos. Ejemplos son: 
 	* **Relacional** - sql, tablas,rows, etc
 	* **Grafo**
@@ -99,9 +99,9 @@ Las siguientes definiciones son muy necesarias para hablar sobre bases de datos
 	* Oracle
 	* MongoDB
 	* Reddis 
-* **Schema: ** Estructura predefinida que deberan tener los datos en la base de datos 
-* **Data Definition Language (DDL): ** Es un lenguaje que permite describir Schemas en el DBMS.
-* **Data Manipulation Language (DML):**Es un lenguaje que permite expresar modificaciones y manipulaciones en los datos para que el DBMS los lleve a cabo.
+* **Schema:** Estructura predefinida que deberan tener los datos en la base de datos 
+* **Data Definition Language (DDL):** Es un lenguaje que permite describir Schemas en el DBMS.
+* **Data Manipulation Language (DML):** Es un lenguaje que permite expresar modificaciones y manipulaciones en los datos para que el DBMS los lleve a cabo.
 
 **Personas involucradas en un sistema de base de datos:**
 
@@ -554,5 +554,5 @@ Por ejemplo:
 * Tiene mas sentido logico tener un conjunto de datos en la misma tabla que normalizarlo en varias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzE5MDA4NF19
+eyJoaXN0b3J5IjpbMzY1NTUxNTM0XX0=
 -->
