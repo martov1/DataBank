@@ -258,8 +258,8 @@ Suma/avg/count/otros los records de una db que cumplan una condicion
 Podes limitar lo que el usuario puede poner eln la DB a una lista predeterminada.
 
 **EL USUARIO VA A VER UN DROPDOWN CON LAS OPCIONES QUE PUEDE ELEGIR**
+![enter image description here](https://lh3.googleusercontent.com/b61I2gelJDXM64JtMjDC7Rwq9e23UmW6y0Pwj9nk-yVIVMsn8BZp-wHM3arBpjDuz9CWoVgKyJ00)
 
-![](http://i.markdownnotes.com/LLLL_d7XWOkZ.jpg)
 
 
 
@@ -275,7 +275,7 @@ Por ejemplo,**a partir de una tabla de ventas, podes armar un pivot table que in
 **Se arman simplemente arrastrado los elementos en el UI**
 
 
-![](http://i.markdownnotes.com/www.jpg)
+![enter image description here](https://lh3.googleusercontent.com/sbYW-y7Po9uj3n_TKNhGgSZLpAcaKyXPc7ccMWlLig5g7nJYrAVSJwxgf4HkhdNskFqcvcc1ARdy)
 
 
 ![](http://i.markdownnotes.com/jjj.jpg)
@@ -628,5 +628,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY3OTU2MDMsMTIyMTk1MDY0Nl19
+eyJoaXN0b3J5IjpbMzkyODQ2NTA1LDEyMjE5NTA2NDZdfQ==
 -->
