@@ -127,7 +127,7 @@ Una vez que hiciste eso, podes **editar el style haciendo click derecho en el ->
 
 Podes escalar para abajo una impresion para que encaje en la hoja de la siguiente manera.
 
-![](http://i.markdownnotes.com/asdasd_TemBlWV.jpg)
+
 
 
 Si usas **custom scaling options podes escalar aumentando el tamaño**
@@ -624,5 +624,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDIyMTU2Ml19
+eyJoaXN0b3J5IjpbLTE5ODgwNDY0MThdfQ==
 -->
