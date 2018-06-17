@@ -36,7 +36,7 @@ Las directivas son basicamente componentes sin templates que se encargan de muta
 
 ## Directivas Comunes
 
-###*ngFor
+### *ngFor
 
 
 Repite el elemento en ngForel que se encuentra la directiva una vez por cada elemento dentro del array "heroes". podes acceder a cada objeto iterado usando hero
@@ -74,7 +74,7 @@ trackByHeroes(index: number, hero: Hero): number { return hero.id; }
 >Podes obtener otros valores, tales como **First, last, even y odd**
 >ver: https://angular.io/api/common/NgForOf
 
-###*ngIf
+### *ngIf
 
 Agrega el elemento en el que esta la directiva al DOM si se cumple una condicion (da true)
 
@@ -83,7 +83,7 @@ Ej: mostrar solo si hay mas de 3 heroes
 <p *ngIf="heroes.length > 3">There are many heroes!</p>
 ````
 
-###ngClass
+### ngClass
 
 Sirve para colocar clases en un elemento
 
@@ -109,7 +109,7 @@ Sirve para colocar clases en un elemento
 ````
 
 
-###ngStyle
+### ngStyle
 
 Sirve para asignar estilos CSS a un elemento
 ````
@@ -146,7 +146,7 @@ setCurrentStyles() {
 }
 ````
 
-###ngModel
+### ngModel
 
 Forma parte del **FormsModule** y sirve para **formar un two-way databinding en forms** 
 
@@ -180,7 +180,7 @@ Tambien existe una forma extendida por si necesitaras hacer algo con los datos a
   (ngModelChange)="hacerAlgoConLosDatos($event)">
 ````
 
-###NgSwitch 
+### NgSwitch 
 
 Basado en una condicion, muestra uno de varios posibles elementos.
 
@@ -203,7 +203,7 @@ ngSwitch no tiene un valor o el valor no es un ngSwitchCase
 
 
 ---
-##Attribute directives customizadas
+## Attribute directives customizadas
 
 Recordemos que las **Attribute directives** son aquellas que **Modifican la apariencia o comporamiento de un elemento existente**, por ejemplo ngModel, ngStyle o ngClass
 
@@ -213,7 +213,7 @@ Algunas caracteristicas basicas son:
 * Hay que agregarlas a **declarations** en el modulo que las contendra
 
 
-###Sintaxis:
+### Sintaxis:
 
 
 ````
@@ -238,5 +238,5 @@ Uso:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzcyNjM2OF19
+eyJoaXN0b3J5IjpbLTE5NjY4OTMxNzhdfQ==
 -->
