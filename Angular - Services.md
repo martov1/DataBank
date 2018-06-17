@@ -3,14 +3,14 @@
 https://angular.io/guide/dependency-injection-in-action#provider-token-alternatives-the-class-interface-and-injectiontoken
 
 
-#Contenido:
+# Contenido:
 
-* [Que es](##Estructura)
-* [Dependency Inyection, uso](##Dependency Inyection)
-* [Service instances](##Service instances)
-	* [Modulos sin lazy loading]
-	* [modulos con lazy loading]
-	* [Mencion en providers de dos modulos diferentes]
+* Que es
+* Dependency Inyection, uso](##Dependency Inyection)
+* Service instances](##Service instances)
+	* Modulos sin lazy loading]
+	* modulos con lazy loading]
+	* Mencion en providers de dos modulos diferentes]
 	* [Mencion en providers de un componente]
 * [Lazy loading y service shadowing](##Lazy loading y service shadowing)
 * [Dependecy inyection](##Dependecy inyection)
@@ -23,7 +23,7 @@ https://angular.io/guide/dependency-injection-in-action#provider-token-alternati
 
 
 
-##Que es
+## Que es
 
 Un servicio es una clase con una funcion bien definida, engloba valores, funciones o cualquier funcionalidad que requieras a lo largo de la aplicacion, **son principalmente consumidos por los components**.
 
@@ -56,7 +56,7 @@ export class HeroService {
 
 ---
 
-##Dependency injection
+## Dependency injection
 
 Es la forma que tiene angular de proveerle a las instancias de las clases con las dependencias que necesitan, **principalmente servicios**.
 
@@ -73,7 +73,7 @@ Para que el inyector sepa que HeroService existe, hay que decirselo. El inyector
 > ** hay que colocar los servicios en el array providers de un modulo o un componente 
 > para que pueda ser inyectado.**
 
-###Crucial
+### Crucial
 
 > Si registras un service en el **array providers del componente** entonces **creas una
 > nueva instancia del service para cada instancia de esecomponente**, si lo haces a nivel **root  component** entonces tenes **la misma instancia del service para todos
@@ -82,20 +82,20 @@ Para que el inyector sepa que HeroService existe, hay que decirselo. El inyector
 
 ---
 
-##Service instances
+## Service instances
 
 Dependiendo de donde se instancie el servicio, es decir **donde sea mencionado en un providers array**, la instancia tendra un comportamiento diferente
 
-###Modulos **sin lazy loading**
+### Modulos **sin lazy loading**
 
 >* Los serivios de los modulos que no son cargados usando **lazy loading** estan  disponibles en toda la aplicacion, son **singletons**
 
-###modulos ** con lazy loading**
+### modulos  **con lazy loading**
 >* Los servicios en el array de prividers de los modulos **eagerly loaded** aun son singletons y podemos accederlos
 * Los servicios en el array de providers de un modulo cargado con **lazy loading** generan **sus propias instancias de servicios**
 * Los componentes creados en el modulo tienen instancias locales de estos servicios
 
-###Mencion en providers de dos modulos diferentes
+### Mencion en providers de dos modulos diferentes
 
 Si dos modulos instancian el mismo servicio en providers, **el segundo sobreescribe al primero**
 
@@ -109,7 +109,7 @@ constructor (@Optional() @SkipSelf() parentModule: CoreModule) {
 }
 ````
 
-###Mencion en providers de un componente
+### Mencion en providers de un componente
 
 Podes instanciar un servicio en un componente, este servicio sera una **instancia aislada solamente accesible para esa instancia de ese componente y sus hijos**
 
@@ -117,7 +117,7 @@ si hay varias instancias de un componente, es decir, aparece varias veces en el 
 
 ---
 
-##Lazy loading y service shadowing
+## Lazy loading y service shadowing
 
 Si un modulo cargado con **lazy loading** necesita de un servicio, puede ser que lo nombre en su array de providers. Esto tiene concecuencias:
 
@@ -149,15 +149,15 @@ export class CoreModule {
 ````
 
 ---
-##Dependecy inyection
+## Dependecy inyection
 
 
-###Inyeccion de servicios
+### Inyeccion de servicios
 En un servicio, cuando **decoras** la clase con el decorator **@inyectable()**, estas indicandole al inyector que esta clase puede ser inyectada como dependencia en otras clases.
 
 Luego podes hacer que esa dependencia sea accesible en el codigo colocandola en un **array de providers**, dependiendo de donde este el array, el **inyector** tendra un comportamiento distinto, descripto en service instances, mas arriba.
 
-###Inyeccion de valores
+### Inyeccion de valores
 
 Podes crear valores/variables/objetos inyectables tambien. para eso agregas un elemento al **array providers** con un objeto que detalle:
 * un **token** que se usa tanto como nombre para ese valor y como type para ese valor
@@ -210,7 +210,7 @@ constructor(
 ````
 
 ---
-##Providers
+## Providers
 
 Los providers son una _receta_ que te permite **proveer un servicio a partir de un determinado token**
 
@@ -222,7 +222,7 @@ Los providers son una _receta_ que te permite **proveer un servicio a partir de 
 ````
 
 
-###Custom providers
+### Custom providers
 
 Generalmente registras tus providers coloclandolos en el providers array. Eso implica que angular crea providers automaticamente a partir de servicios. con **token igual al nombre de la clase del servicio**
 ````
@@ -265,5 +265,6 @@ providers: [ LoggerService, UserContextService, UserService ]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgwOTc5ODVdfQ==
+eyJoaXN0b3J5IjpbLTE1NjE3NzExMTUsLTExMjgwOTc5ODVdfQ
+==
 -->
