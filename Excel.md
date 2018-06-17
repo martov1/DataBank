@@ -277,15 +277,15 @@ Por ejemplo,**a partir de una tabla de ventas, podes armar un pivot table que in
 
 ![enter image description here](https://lh3.googleusercontent.com/sbYW-y7Po9uj3n_TKNhGgSZLpAcaKyXPc7ccMWlLig5g7nJYrAVSJwxgf4HkhdNskFqcvcc1ARdy)
 
+![enter image description here](https://lh3.googleusercontent.com/u6JtuWrkCfAzrUWtQbOZ5QVWY_p3gjMnNQcChWm1HCjrPFqQNL09-cXh5o7mj-H_0N3VhZkd1Tuu)
 
-![](http://i.markdownnotes.com/jjj.jpg)
 
 Podes indicar como queres que se haga el calculo de valores (suma, avg, count, etc)
-![](http://i.markdownnotes.com/qq.jpg)
+![enter image description here](https://lh3.googleusercontent.com/ts4m8JAkMphJ6rCrb3yDZClIYuh5t6wpIWUTgC8zNHSwKhtaS9XCL65IegOu9lt5XMPfXeZVlNDs)
 
 Tambien podes indicar **calculos mas complejos**, por ejemplo comparar con la fila anterior.
+![enter image description here](https://lh3.googleusercontent.com/sZMVkK9RwJadS5G-hweSLPNQkHEmY_rX8v8GWS2ZTugFhrJr2DkC7wzI6d1_ideA6bxykNLgK1Ui)
 
-![](http://i.markdownnotes.com/ffd.jpg)
 
 ### Pivot table grouping
 
@@ -628,5 +628,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyODQ2NTA1LDEyMjE5NTA2NDZdfQ==
+eyJoaXN0b3J5IjpbLTEzOTAyMTI0MjcsMTIyMTk1MDY0Nl19
 -->
