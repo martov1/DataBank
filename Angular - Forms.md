@@ -321,7 +321,7 @@ setValue({
 })
 ````
 
-##2F)FormArray - para agregar controles dinamicamente
+## 2F)FormArray - para agregar controles dinamicamente
 
 A veces queres tener forms que no tienen un tamaño definido. Ej: un form donde queres que el usuario pueda agregar una **cantidad indetermidada de personas**, entonces con un boton **añade mas campos** al form.
 
@@ -369,5 +369,5 @@ Tambien podes usar **Validator functions** si fuera necesario, que pueden ser
 
 > hay funciones validator predefinidas con los mismas funciones de validacion que la validacion HTML
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTgyMjE4Ml19
+eyJoaXN0b3J5IjpbMTYxODY4NTM3NF19
 -->
