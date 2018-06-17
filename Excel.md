@@ -180,13 +180,15 @@ Las listas son reconocidas por excel por:
 
 podes ordenar en varios niveles y usando valores o fechas asi:
 ![enter image description here](https://lh3.googleusercontent.com/QdtnQ075e9INAEAwSzrm4ZjYruVGFgalSD9jeOjTM7d635S5W98lC_kESoGNVP2B515X0WG09QxS)
-![](http://i.markdownnotes.com/hhhhhh_Fczf2yD.jpg)
+
 
 ## Filter
 
 Podes filtrar por los valores de una columna asi
 
-![](http://i.markdownnotes.com/hhhhdds.jpg)
+
+![enter image description here](https://lh3.googleusercontent.com/zsxCjnxiBHDzV9mqBrhQIv0hUI6eRv0WKcbTBP9CdtvJynxQzuFjZIANhtchuMtU7v10ItLFO72p)
+
 
 ## Subtotales
 
@@ -625,5 +627,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3NDcwMzE4XX0=
+eyJoaXN0b3J5IjpbMTIyMTk1MDY0Nl19
 -->
