@@ -418,7 +418,7 @@ Es un metodo de normalizacion **cuyo objetivo es remover la rebundancia causada 
 *  En lugar de hacer referencia a $\bar{B}$ directamente se usa $\bar{A}$ como **Foreign Key**
 >* .$\bar{B}$ no aparece en ningun otro lugar de la DB, salvo que
 >	* .$B_1 \Rightarrow \bar{C}$, en cuyo caso se crea una nueva tabla con $B_1$ como  **Primary key** , y se usara como **Foreign Key** para referirse a $\bar{C}$.
->	* A su vez, tambien puede usarse $\bar{A}$ para referirse a $\bar{B} $ y a $ \bar{C}$
+>	* A su vez, tambien puede usarse $\bar{A}$  para referirse a $\bar{B} $ y a $ \bar{C}$
 
 
 
@@ -554,5 +554,6 @@ Por ejemplo:
 * Tiene mas sentido logico tener un conjunto de datos en la misma tabla que normalizarlo en varias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzc2ODA0MTRdfQ==
+eyJoaXN0b3J5IjpbLTEwMjg4NTg0NDYsLTE2Mzc2ODA0MTRdfQ
+==
 -->
