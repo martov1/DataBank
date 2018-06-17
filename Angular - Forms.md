@@ -3,7 +3,7 @@
 Me quede en dynamic forms
 https://angular.io/guide/dynamic-form#dynamic-forms
 
-#Contenido
+# Contenido
 
 * Notas sobre documentacion
 * Tipos de forms
@@ -21,7 +21,7 @@ https://angular.io/guide/dynamic-form#dynamic-forms
 
 
 
-#Notas sobre documentacion
+# Notas sobre documentacion
 
 para documentacion de implementacion de angular con:
 
@@ -57,7 +57,7 @@ Existen dos formas de manejar forms en Angular.
 
 Utilizan directivas en el template para generar la mayor parte de la funcionalidad, principalmente **NgForm** y **NgModel**
 
-##1)NgForm
+## 1)NgForm
 
 Se crea una instancia de NgForm cada vez que angular detecta un `<form>`.
 
@@ -88,7 +88,7 @@ EJ:
 ---
 
 
-##2) NgModel
+## 2) NgModel
 
 Podemos usar ngModel para **Vincular el form con un modelo en el componente** 
 
@@ -102,7 +102,7 @@ cada instancia de la directiva ngModel:
 	* etc
 * **Añade clases CSS** al elemento basado en esas propiedades ya mencionadas
 
-####La sintaxis es
+#### La sintaxis es
 
 ````
 <input type="text"  
@@ -143,7 +143,7 @@ Adicionalmente en un form podes tener
 
 ---
 
-##2) Reactive forms 
+## 2) Reactive forms 
 
 Cuando usas Reactive forms, **creas un modelo detallado del form en tu componente** y despues lo aplicas al template.
 
@@ -154,7 +154,7 @@ Cuando usas Reactive forms, **creas un modelo detallado del form en tu component
 
 
 
-###Critico
+### Critico
 >Ambos tienen **propiedades similares a NgForm** y podes accederlos **en el controler** o tambien **en el template**:
 * valueChanges - Observable, emite evento si hay cambios
 * valid
@@ -168,7 +168,7 @@ Cuando usas Reactive forms, **creas un modelo detallado del form en tu component
 
 
 
-##2A)FormControl
+## 2A)FormControl
 
 
 
@@ -201,7 +201,7 @@ sintaxis:
 
 
 
-##2B)FormGroup
+## 2B)FormGroup
 
 Un formGroup puede contener varios FormControls
 La  **clase FormGroup** busca una instancia de la **Clase FormGroup** en el componente y la asocia a ese componente.
@@ -238,7 +238,7 @@ miFormGroup.get('miFormControl1').value //leer el valor de algo en el formGroup
 mi form es valida?:  {{miFormGroup.valid}}
 ````
 
-##2C) FormBuilder
+## 2C) FormBuilder
 
 Te permite declarar FormGroups y FormControls de forma mas simple y legible. basicaente te ahorras escribir `new FormControl(valorInicial)`.
 
@@ -273,7 +273,7 @@ this.heroForm = this.fb.group({
     });
 ````
 
-##2D) FormGroups anidados
+## 2D) FormGroups anidados
 
 Podes anidar FormGroups, esto te permite facilitar la validacion de a pedazos y juntar los datos en una estructura JSON con mas sentido
 
@@ -303,7 +303,7 @@ Fijate que en el template hay que agrupar los FormControls que corresponden al n
 </form>	
 ````
 
-##2E)FormGroup - setear valores en el form
+## 2E)FormGroup - setear valores en el form
 
 Una vez que armaste el **form model** con los FormControls y FormGroups, tal vez quieras colocar una serie de datos provenientes del server en el form que creaste, esto se puede hacer con `patchValue` o `setValue`
 
@@ -369,5 +369,5 @@ Tambien podes usar **Validator functions** si fuera necesario, que pueden ser
 
 > hay funciones validator predefinidas con los mismas funciones de validacion que la validacion HTML
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjUzMjc4NTZdfQ==
+eyJoaXN0b3J5IjpbMTAyMTgyMjE4Ml19
 -->
