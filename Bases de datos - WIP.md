@@ -295,7 +295,7 @@ Es cuando borrar una representacion genera el borrado de otra. por ejemplo, si b
 
 Functional dependency es un concepto general que se aplica en varios campos de la computacion, entre ellos la compresion de datos, optimizacion de querys, etc.
 
-Basicamente una dependencia funcional es la implicacion de que **si existe** un dato $A$ entonces debe necesariamente existir **un unico **dato $B$ **para ese** $A$. (Funcion Inyectiva $\Bbb{A} \rightarrow \Bbb{B}$)
+Basicamente una dependencia funcional es la implicacion de que **si existe** un dato $A$ entonces debe necesariamente existir **un unico** dato $B$ **para ese** $A$. (Funcion Inyectiva $\Bbb{A} \rightarrow \Bbb{B}$)
 
 **Por ejemplo:**
 * Para un **DNI** siempre debe **existir un unico nombre y apellido**, 
@@ -554,5 +554,5 @@ Por ejemplo:
 * Tiene mas sentido logico tener un conjunto de datos en la misma tabla que normalizarlo en varias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTMxMTEzNF19
+eyJoaXN0b3J5IjpbLTE2Mzc2ODA0MTRdfQ==
 -->
