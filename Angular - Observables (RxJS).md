@@ -1,16 +1,15 @@
 
 # Contenido:
 
-* Capacidades](##Capacidades)
-* Setup](##Setup)
-* Arquitectura](##Arquitectura)
-	* [Observable](###Observable)
-	* [Observer](###Observer)
-	* [vincular observer a un observable](##vincular observer a un observable)
-
-* [Operadores](##Operadores)
+* Capacidades
+* Setup
+* Arquitectura
+	* Observable
+	* Observer
+	* vincular observer a un observable
+* Operadores
 	* Combinar operators con Chaining y piping
-	* [switchmap/flatmap y mergemap](###Switchmap y mergemap) 
+	* switchmap/flatmap y mergemap
 	* Forkjoin
 	* concat 
 	* merge
@@ -19,14 +18,14 @@
 	* zip
 	* Retry
 	* do / tap
-* [Subjects](##Subjects)
-	* [Son Observables singletons](###Son Observables singletons) 
-	* [Emiten valores a demanda](###Emiten valores a demanda) 
+* Subjects
+	* Son Observables singletons
+	* Emiten valores a demanda
 
 
 
 
-##Arquitectura
+## Arquitectura
 
 La idea principal es que podes tener un **data stream** al cual estas **observando** y multiples **observadores** que hacen cosas cuando ese data stream **recibe nuevos valores**
 
@@ -41,7 +40,7 @@ Por ejemplo, un **Observable que corresponde a llamadas HTTP** puede estar siend
 * **Un servicio de sesiones** para ver si la respuesta del servidor indica que las credenciales caducaron, etc
 
 
-###Observable
+### Observable
 
 Es un **wrapper alrededor de un stream de datos** que sirve para observarlo, puede ser sincronico o asincronico.
 
@@ -452,5 +451,5 @@ subject.subscribe(valor => console.log('consumer B: ' + valor));
 subject.next('valor');
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1NDA4OTI3LC0zNzU4NjcyNF19
+eyJoaXN0b3J5IjpbMTI2MDQ0NDQ2LC0zNzU4NjcyNF19
 -->
