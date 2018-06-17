@@ -52,19 +52,19 @@ El view puede escuchar eventos que suceden y activar funciones o modificar valor
 
 **La sintaxis para escuchar eventos es:**
 
-```` 
+```` js
 (evento)="Template statements" 
 ````
 
 
  **EJ:**
-````
+````html
  <button (click)="miFuncion($event)">Delete hero</button>
 ````
  
  En el componente:
  
-````
+````js
  miFuncion(event: MouseEvent) { 	// with type info
     this.values += (<HTMLInputElement>event.target).value + ' | ';
   }
@@ -104,7 +104,7 @@ El **template es actualizado cuando los valores cambian**
 * Solo pueden mostrar cosas dentro del component o el contexto del template
 * Podes **evitar mostrar undefined o null** con un guard `{{currentHero?.name}}` usando el operador **?**, podes encadenar paths `{{a?.b?.c?}}`. si la propiedad no existen entonces queda en blanco.
 
-````
+````html
 <!--- En texto -->
 <p>{{myHero}}</p> 	
 <!--- En una propiedad -->
@@ -121,12 +121,12 @@ Detras de escena, si haces una interpolacion tal como  `<img src="{{heroImageUrl
 Angular genera un property binding.
 
 en forma generalizada, es asi:
-````
+````js
 [target]="expression"
 ````
 
 Ej:
-````
+````html
 //bindeas una propiedad del componente a  la propiedad SRC del DOM
 <img [src]="heroImageUrl" style="height:30px">
 
@@ -152,13 +152,13 @@ Ej:
 >variable como @Input()**
 
 en forma generalizada, es asi:
-````
+````js
 [target]="expression"
 ````
 
 
 Ej:
-````
+````html
 //Bieneas una propiedad del component a una variable
 //Para hacer esto necesitas que hero tenga el decorador @input!!!
 <app-hero-detail [hero]="currentHero"></app-hero-detail>
@@ -176,7 +176,7 @@ Ej:
 >**Para emitir eventos necesitar usar @output**
 
 **Emitis** un evento custom asi: 
-````
+````js
 //mi componente
 @Output() miEvento = new EventEmitter<Hero>();
 
@@ -189,7 +189,7 @@ decirHola() {
 Despues **escuchas** en el view a ver cuando sucede el evento y haces algo al respecto,
 Esto puede suceder en un **parent component ó directive**.
 
-````
+````html
 //un parent component que escucha un evento custom
 <app-hero-detail (miEvento)="escucharHola($event)">
 	<!-- Cuando haces click en el componente, se emite un evento custom "hola" -->
@@ -211,7 +211,7 @@ Es una mezcla de las dos sintaxis anteriores. es basicamente lo mismo que usar u
 En el template se implementa de la siguiente forma
 * Al cambiar el **target**, el valor de la variable expresada en la **expresion** cambia.
 * Al cambiar el valor de la **expresion** cambia el valor del **target**
-````
+````js
 [(target)]="expresion"
 ````
 
@@ -351,5 +351,5 @@ Utilizan el simbolo de pipe **|**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDY1MTkzMDMsMTE2ODM2MDQwMl19
+eyJoaXN0b3J5IjpbLTcyMjUxNzQ3MiwxMTY4MzYwNDAyXX0=
 -->
