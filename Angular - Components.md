@@ -66,7 +66,7 @@ Los componentes son clases comunes de typescript hasta el momento en el que le a
 
 
 
-````
+````js
 @Component({ 
   changeDetection?: ChangeDetectionStrategy
   viewProviders?: Provider[]
@@ -96,7 +96,7 @@ Los componentes son clases comunes de typescript hasta el momento en el que le a
 
 Podes crear propiedades y metodos desde la clase o dentro del constructor asi
 
-````
+````js
 export class AppCtorComponent {
   //Propiedades directamente en la clase
   title: string;
@@ -121,7 +121,7 @@ Podes poner los estilos **inline** directamente en el campo de metadata **styles
 Existen algunos selectores que no son estandares
 
 * **:host ** - Permite agregar estilos al elemento padre que contiene al componente. puede activarse condicionalmente si el parent tiene una clase en particular
-````
+````css
 :host {
   display: block;
   border: 1px solid black;
@@ -133,7 +133,7 @@ Existen algunos selectores que no son estandares
 ````
 
 * **:host-context()** - es como :host pero se activa si existe una clase en algun parent, no solo en el parent inmediato, esta bueno si queres implmenetar themes
-````
+````css
 :host-context(.theme-light) h2 {
   background-color: #eef;
 }
@@ -146,7 +146,7 @@ Existen algunos selectores que no son estandares
 ### Single slot
 Podes **meter contenido entre los tags de un componente** y decirle a ese componente como manejar ese contenido.
 
-````
+````html
 <!-- quiero que mi componente haga algo con el contenido que le pasess en
 el template -->
 <mi-componente>
@@ -155,7 +155,7 @@ el template -->
 ````
 
 Para eso usamos la directiva `<ng-content>` en el template del componente para **decirle donde colocar lo que le pasamos**
-````
+````html
 <div>
 	<p>Este es mi componente!</p>
 	<ng-content></ng-content>
@@ -168,7 +168,7 @@ Para eso usamos la directiva `<ng-content>` en el template del componente para *
 Podes identificar distintos bloques de contenido con clases de CSS o con slectores customizados.
 
 en el parent component
-````
+````html
  <div class="app">
       <my-component>
 	  <!-- identificado con clase CSS-->
@@ -184,7 +184,7 @@ en el parent component
 ````
 
 en el template de my-component
-````
+````html
 <div class="my-component">
       <div>
 	  <!-- Esto se va a poblar con "mi titulo!!!"-->
@@ -216,7 +216,7 @@ en el template de my-component
 Corre codigo en el momento que se instancia el Componente por primera vez y sus propiedades ya fueron seteadas. Es llamado una unica vez.
 
 Aca colocarias la logica incial, **no en el constructor porque evitaria que el component se renderice rapido**
-````
+````js
 @Component({selector: 'my-cmp', template: `...`})
 class MyComponent implements OnInit {
   ngOnInit() {
@@ -230,7 +230,7 @@ class MyComponent implements OnInit {
 Corre el codigo justo antes de que se destruya el componente.
 
 Aca colocarias logica de limpieza, dessubscripcion a observables, remocion de timers, notificar la eliminacion a otra parte de la aplicacion, etc.
- ````
+ ````js
    ngOnDestroy() {
     // prevent memory leak when component destroyed
     this.mySubscription.unsubscribe();
@@ -251,13 +251,13 @@ Este hook se activa mucho y es caro de implementar. Preferentemente no usar o ma
 
 Se dispara una sola vez cuando el componente y todos sus child components fueron renderizados.
 
----
+
  
 ## Data Binding
 
 Ver Angular - Templates y template syntax
 
----
+
 
 ## API del componente con @Input and #output
 
@@ -519,5 +519,5 @@ Podes usar **componentFactoryResolver** para instanciar un componente a partir d
 })
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2MzIzMjU5LC0xOTIwMjcwMjAzXX0=
+eyJoaXN0b3J5IjpbMTcyMTM1NzA5OSwtMTkyMDI3MDIwM119
 -->
