@@ -33,7 +33,7 @@ Un componente debe pertenecer a un modulo para ser usado por otro componente o a
 
 el componente tiene un **decorator @component** con un objeto que contiene **metadata** y una **clase** 
 
-````
+````js
 //decorador con metadata
 @Component({selector: 'greet', template: 'Hello {{name}}!'})
 class Greet {
@@ -140,7 +140,7 @@ Existen algunos selectores que no son estandares
 ````
 
 ---
-##Proyeccion de contenido
+## Proyeccion de contenido
 
 
 ### Single slot
@@ -163,7 +163,7 @@ Para eso usamos la directiva `<ng-content>` en el template del componente para *
 </div>
 ````
 
-###Multi slot
+### Multi slot
 
 Podes identificar distintos bloques de contenido con clases de CSS o con slectores customizados.
 
@@ -225,7 +225,7 @@ class MyComponent implements OnInit {
 }
 ````
 
-###OnDestroy
+### OnDestroy
 
 Corre el codigo justo antes de que se destruya el componente.
 
@@ -237,12 +237,12 @@ Aca colocarias logica de limpieza, dessubscripcion a observables, remocion de ti
   }
  ````
  
- ###OnChanges
+ ### OnChanges
  
  Corre el codigo cuando **detecta cambios en las _input_ properties.**
  Esta funcion recibe un array con los valores anteriores y los nuevos.
  
-###DoCheck
+### DoCheck
 
 Sirve para buscar cambios que Angular no llega a detectar.
 Este hook se activa mucho y es caro de implementar. Preferentemente no usar o mantener una implementacion super liviana.
@@ -259,7 +259,7 @@ Ver Angular - Templates y template syntax
 
 ---
 
-##API del componente con @Input and #output
+## API del componente con @Input and #output
 
 
 La API de un componente debe ser **especificada expresamente** y consiste en lo siguiente:
@@ -313,7 +313,7 @@ Ademas esta **a la escucha de un evento llamado deleteRequest de un component hi
 ![](http://i.markdownnotes.com/input-output.png)
 
 
-###Alias para la API
+### Alias para la API
 
 El **nombre interno** de los elementos de la API puede ser diferente del **nombre expuesto al exterior**. Esto se hace mediante un **Alias**
 ````
@@ -348,10 +348,10 @@ export class NameChildComponent {
 
 ````
 ---
-##Comunicacion entre componentes
+## Comunicacion entre componentes
 
 
-###Mediante los templates
+### Mediante los templates
 
 Ver **Angular - Templates y template syntax** secciones
 * **Comunicacion componente1->view->componente2**
@@ -359,7 +359,7 @@ Ver **Angular - Templates y template syntax** secciones
 
 
 
-###Inyectar child components/Elements/Directives
+### Inyectar child components/Elements/Directives
 
 Existen decoradores que te permiten inyectar child elements dentro de un componente y manipularlos. 
 
@@ -369,7 +369,7 @@ Existen decoradores que te permiten inyectar child elements dentro de un compone
 * Las **querys se actualizan en tiempo real**, osea que si elmininas el elemento referenciado entonces **la seleccion puede cambiar o ser indefinida**.
 * Podes seleccionar **el compoenente, el elementRef, una directiva o ViewContainerRef ** especificandolo con un parametro read
 
-###1) @ViewChild / @ViewChildren
+### 1) @ViewChild / @ViewChildren
 
 Podes usar ViewChild para inyectar un component/Elemento/Directiva hijo dentro de un component padre y asi tener acceso y control total.
 
@@ -450,7 +450,7 @@ import { ViewChild,ElementRef} from '@angular/core';
  @ViewChild(mycomponentClass) nombreDeVariable: mycomponentClass;
 ````
 
-###2) @ContentChildren / @ContentChild
+### 2) @ContentChildren / @ContentChild
 
 Identico a @ViewChild, pero sirve para seleccionar elementos que se insertaron en un componente mediante **proyeccion de contenido**
 
@@ -477,7 +477,7 @@ EJ:
 
 ---
 
-##Crear componentes dinamicamente
+## Crear componentes dinamicamente
 
 Podes instanciar componentes en run-time si hiciera falta, por ejemplo si queres ir renovando componentes cada tanto (por ej publicidades que tiene estructuras distintas pero sabes donde las queres inyectar)
 
@@ -519,6 +519,5 @@ Podes usar **componentFactoryResolver** para instanciar un componente a partir d
 })
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc3MDU0NDAsLTE5MjAyNzAyMDNdfQ
-==
+eyJoaXN0b3J5IjpbNTA2MzIzMjU5LC0xOTIwMjcwMjAzXX0=
 -->
