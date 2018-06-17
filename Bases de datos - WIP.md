@@ -182,7 +182,7 @@ Es un **lenguaje formal matematico** que forma la base de los lenguajes implemen
 	* $\sigma_{sueldo > 1000 \quad \land \quad horario = tarde}\quad \text{Empleados}= R_f$
 
 
-* . $\Pi_{\text{atributo1,atributo2}}R_i=R_f$ - **Proyect operator**, Selecciona de una relacion,** ciertos atributos** de los **Ntuples** y los devuelve como una relacion.
+* . $\Pi_{\text{atributo1,atributo2}}R_i=R_f$ - **Proyect operator**, Selecciona de una relacion,**ciertos atributos** de los **Ntuples** y los devuelve como una relacion.
 	* EJ: Quiero ver solo el nombre y sueldo de la tabla empleados 
 	$\Pi_{\text{"nombre","sueldo"}}Empleados$
 * . $R_1XR_2=R_3$ - **Cross-product**, A partir de dos relaciones, Genera una relacion que consiste en todas las combinaciones posibles de Ntuples de esas dos relaciones 
@@ -554,5 +554,5 @@ Por ejemplo:
 * Tiene mas sentido logico tener un conjunto de datos en la misma tabla que normalizarlo en varias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDcxODM0XX0=
+eyJoaXN0b3J5IjpbLTI2MzE5MDA4NF19
 -->
