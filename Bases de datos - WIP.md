@@ -148,7 +148,7 @@ En este sistema:
 
 Un **Ntouple1** puede referirse a un **Ntuple2** que tiene informacion adicional teniendo en uno de sus **atributos** una **key de Ntuple2**
 
-![](http://i.markdownnotes.com/defaul1.jpg)
+
 
 ### Indexacion
 
@@ -554,5 +554,6 @@ Por ejemplo:
 * Tiene mas sentido logico tener un conjunto de datos en la misma tabla que normalizarlo en varias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU2OTE5OSw4NzE1OTQ2OTddfQ==
+eyJoaXN0b3J5IjpbMTUxOTQxNTAyNywtMTg2NTY5MTk5LDg3MT
+U5NDY5N119
 -->
