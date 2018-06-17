@@ -107,8 +107,8 @@ cada instancia de la directiva ngModel:
 ````html
 <input type="text"  
 	
-	[(ngModel)]="variableModelo" // two way data binding
-	name="unNombre"  			// requerido por angular forms
+	[(ngModel)]="variableModelo" <!-- two way data binding-->
+	name="unNombre"  			 <!-- requerido por angular forms-->
 	#instanciaDeNgModel="ngModel"> <!-- opcional para acceder a las propiedades-->
 	
 	<!-- Ahora podes acceder a las propiedades de ngModel-->
@@ -120,7 +120,7 @@ para esto necesitas:
 * Que los elementos tenga un atributo **name**
 * Una variable que actue de **modelo** en el componente
 
-````
+````html
 <form (ngSubmit)="onSubmit()" #heroForm="ngForm">
 	<input type="text"  
 	[(ngModel)]="model.alterEgo" 
@@ -369,5 +369,5 @@ Tambien podes usar **Validator functions** si fuera necesario, que pueden ser
 
 > hay funciones validator predefinidas con los mismas funciones de validacion que la validacion HTML
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExMDA0NTIwXX0=
+eyJoaXN0b3J5IjpbLTg5Mzc3NzA4NV19
 -->
