@@ -273,7 +273,7 @@ La API de un componente debe ser **especificada expresamente** y consiste en lo 
 >**EN LUGAR DE ESTO TAMBIEN PODRIAS USAR TEMPLATE VATIABLES PARA MUCHAS DE ESTAS COSAS**
 
 Declaracion de la API
-````
+````js
 //Esto se puede cambiar desde afuera
 @Input()  hero: Hero;	
 //esto se emite hacia afuera
@@ -281,7 +281,7 @@ Declaracion de la API
 ````
 
 Tambien hay una sintaxis de arrays si hay una API extensa
-````
+````js
 @Component({
   inputs: ['hero'],
   outputs: ['deleteRequest'],
@@ -290,14 +290,14 @@ Tambien hay una sintaxis de arrays si hay una API extensa
 
 **@input posibilita el data binding desde otro component o el consumir eventos
 de otro component**
-````
+````html
 //Bieneas una propiedad del component a una variable del componente padre
 //en este caso "currentHero"
 <app-hero-detail [hero]="currentHero"></app-hero-detail>
 ````
 
 **@Output posibilita que otro componente lea los eventos emitidos por el componente**
-````
+````html
 <app-hero-detail (miEvento)="escucharHola($event)">
 	<!-- mi-componente tiene un @Output que emite un evento llamado miEvento -->
 	<mi-componente (click)="decirHola()" ></mi-Componente>
@@ -307,10 +307,8 @@ de otro component**
 
 **Otro ejemplo**
 >En este ejemplo hero-detail **recibe informacion de su parent**, seteando hero-detail.**hero** en la variable del parent llamada **currentHero**.
->
-Ademas esta **a la escucha de un evento llamado deleteRequest de un component hijo** y al escucharlo activa una funcion **deleteHero()**
->
-![](http://i.markdownnotes.com/input-output.png)
+>Ademas esta **a la escucha de un evento llamado deleteRequest de un component hijo** y al escucharlo activa una funcion **deleteHero()**
+>![](http://i.markdownnotes.com/input-output.png)
 
 
 ### Alias para la API
@@ -519,5 +517,5 @@ Podes usar **componentFactoryResolver** para instanciar un componente a partir d
 })
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTM1NzA5OSwtMTkyMDI3MDIwM119
+eyJoaXN0b3J5IjpbNzQzMjI0ODY1LC0xOTIwMjcwMjAzXX0=
 -->
