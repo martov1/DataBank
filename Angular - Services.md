@@ -65,8 +65,8 @@ Se realiza generalmente en el **constructor** de los componentes o de otros serv
 constructor(private service: HeroService) { } //inyectas HeroService
 ````
 
-![](http://i.markdownnotes.com/fotomila.png)
 
+![enter image description here](https://lh3.googleusercontent.com/SAr2AIFg_9OIurd7NQ6AXEiVyebalpGuRTpcpTgYGLbzuxkJJ9s_Z-ByutZkSeToqS4fdJtZKxXA)
 
 Para que el inyector sepa que HeroService existe, hay que decirselo. El inyector busca las cosas que puede inyectar en el array **providers** de cada modulo o componente.
 
@@ -100,7 +100,7 @@ Dependiendo de donde se instancie el servicio, es decir **donde sea mencionado e
 Si dos modulos instancian el mismo servicio en providers, **el segundo sobreescribe al primero**
 
 Podes evitar esto haciendo un chequeo para ver si ya fue importado
-````
+````js
 constructor (@Optional() @SkipSelf() parentModule: CoreModule) {
   if (parentModule) {
     throw new Error(
@@ -265,6 +265,6 @@ providers: [ LoggerService, UserContextService, UserService ]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM2NDQzNTEsLTExMjgwOTc5ODVdfQ
-==
+eyJoaXN0b3J5IjpbLTIwODUxNjI1MzcsLTE4NDM2NDQzNTEsLT
+ExMjgwOTc5ODVdfQ==
 -->
