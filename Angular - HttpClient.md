@@ -193,7 +193,7 @@ Esto es algo propio de los **Observables**, si no te acordas anda a mirar el doc
 
 Podes usar el **RxJS** operator **Retry()** para reintentar un par de veces un request.
 
-````
+````js
 return this.http.get<Config>(URL)
     .pipe(
       retry(3), // retry a failed request up to 3 times
@@ -216,7 +216,7 @@ Un interceptor:
 * **Devuelven objetos HttpEvent** y no **HttpResponse**
 
 sintaxis
-````
+````js
 // se importa de
 import {HttpInterceptor, HttpHandler, HttpRequest} from '@angular/common/http';
 //acordate que tenes que IMPLEMENTAR intercept, NO llamarla
@@ -424,5 +424,6 @@ return this.http.request(req).pipe(
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjM3Njc5OCwtMTI4MjcwNTAzNl19
+eyJoaXN0b3J5IjpbLTIwOTk3MDM2NzgsLTEyODI3MDUwMzZdfQ
+==
 -->
