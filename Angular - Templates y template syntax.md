@@ -169,7 +169,7 @@ Ej:
 
 
 
- ##2) Emitir eventos custom
+ ## 2) Emitir eventos custom
  
 > Un component puede emitir eventos custom asi para que despues sean escuchados por los parent components en el view.
 
@@ -283,7 +283,7 @@ export class SizerComponent {
 
 
 ---
-#Reference variables
+# Reference variables
 
 Son variables que se pueden colocar en el template y referencian un **DOM element, component o directive**. pueden realizar cambios o lecturas directamente sobre esa variable
 
@@ -322,7 +322,7 @@ Ej en una directiva, en este caso NgForm
 
 
 ---
-#Pipes
+# Pipes
 
 Son **funciones simples** que **transofrman un input antes de mostrarlo en el template**, hacen cosas como colocar simbolos, agregar mayusculas, pasar todo a mayusculas/minusculas, etc.
 
@@ -351,5 +351,5 @@ Utilizan el simbolo de pipe **|**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mzg0MjM0NSwxMTY4MzYwNDAyXX0=
+eyJoaXN0b3J5IjpbLTExMDY1MTkzMDMsMTE2ODM2MDQwMl19
 -->
