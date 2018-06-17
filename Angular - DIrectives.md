@@ -201,7 +201,7 @@ ngSwitch no tiene un valor o el valor no es un ngSwitchCase
 ````
 
 
-![](http://i.markdownnotes.com/switch-anim.gif)
+
 
 
 ---
@@ -237,8 +237,6 @@ Uso:
 <p MySelector> contenido!</p>
 ````
 
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NzU0OTk0XX0=
+eyJoaXN0b3J5IjpbLTc1NTIwOTA1LDQ0Njc1NDk5NF19
 -->
