@@ -5,21 +5,21 @@ https://angular.io/guide/structural-directives
 me quede en
 https://angular.io/guide/attribute-directives#respond-to-user-initiated-events
 
-#Contenido:
+# Contenido:
 
-* [Que es](##Estructura)
-* [Directivas comunes](##[Directivas comunes)
-	* [ngFor](###ngFor)
-	* [ngIf](###ngIf)
-	* [ngClass](###ngClass)
-	* [ngStyle](###ngStyle)
-	* [ngModel](###ngModel)
-	* [NgSwitch ](###NgSwitch )
-* [Attribute directives customizadas](##Attribute directives customizadas) 
-	* [sintaxis](###Sintaxis) 
+* Que es
+* Directivas comunes
+	* ngFor
+	* ngIf
+	* ngClass
+	* ngStyle
+	* ngModel
+	* NgSwitch 
+* Attribute directives customizadas
+	* sintaxis
 
 
-##Que es
+## Que es
 
 Las directivas son basicamente componentes sin templates que se encargan de mutar el HTML donde se las coloca, hay de dos tipos
 
@@ -34,7 +34,7 @@ Las directivas son basicamente componentes sin templates que se encargan de muta
 ---
 
 
-##Directivas Comunes
+## Directivas Comunes
 
 ###*ngFor
 
@@ -238,5 +238,5 @@ Uso:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2Mzg1NDY2XX0=
+eyJoaXN0b3J5IjpbLTQxMzcyNjM2OF19
 -->
