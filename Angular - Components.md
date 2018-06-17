@@ -308,13 +308,13 @@ de otro component**
 **Otro ejemplo**
 >En este ejemplo hero-detail **recibe informacion de su parent**, seteando hero-detail.**hero** en la variable del parent llamada **currentHero**.
 >Ademas esta **a la escucha de un evento llamado deleteRequest de un component hijo** y al escucharlo activa una funcion **deleteHero()**
->![](http://i.markdownnotes.com/input-output.png)
+>![enter image description here](https://lh3.googleusercontent.com/xE0SBhS96K9Tjz7uPo4uAotQzyLoYBZzf5x23ehZFA5aX371BF1O8IQZzfla4iXq63Nh_MyGYnWb)
 
 
 ### Alias para la API
 
 El **nombre interno** de los elementos de la API puede ser diferente del **nombre expuesto al exterior**. Esto se hace mediante un **Alias**
-````
+````js
 @Output('nombreExterno') nombreInterno = new EventEmitter<string>(); 
 @Input('nombreExterno') nombreInterno;
 	
@@ -328,7 +328,7 @@ El **nombre interno** de los elementos de la API puede ser diferente del **nombr
 
 Podes usar los getters y setters de typescript para hacer cosas antes de aceptar la nueva variable que ingresa por al api
 
-````
+````js
 @Component({
   selector: 'app-name-child',
   template: '<h3>"{{name}}"</h3>'
@@ -375,7 +375,7 @@ Podes usar ViewChild para inyectar un component/Elemento/Directiva hijo dentro d
 
 **La sintaxis es asi:**
 
-````
+````js
 //Sintaxis simple
   @ViewChild(MiQuery) nombreDeVariable: TypeDeVariable;
   
@@ -385,7 +385,7 @@ Podes usar ViewChild para inyectar un component/Elemento/Directiva hijo dentro d
 
 ````
 
-**Donde: **
+**Donde:** 
 
 * **query** - se usa para determinar que elemento hijo se seleccionara. puede ser:
 	* Template variable
@@ -400,7 +400,7 @@ Podes usar ViewChild para inyectar un component/Elemento/Directiva hijo dentro d
 
 Ejemplo:
 
-````
+````js
 import {AfterViewInit, Component, Directive, ViewChild} from '@angular/core';
 
 @Component({selector: 'someCmp', templateUrl: 'someCmp.html'})
@@ -418,13 +418,13 @@ class SomeCmp implements AfterViewInit {
 
 Parametros que se pueden usar como querys son:
 *  **Template variable**
-````
+````html
 <!-- Podes usar como query la variable de template miVariableDeTemplate-->
 <mycomponent #miVariableDeTemplate></mycomponent>
 <!-- Otro ejemplo, pero con un elemento HTML-->
 <div #miVariableDeTemplate2></div>
 ````
-````
+````js
 // EN EL COMPONENTE
 import { ViewChild,ElementRef} from '@angular/core';
 //Presta atencion a los types.
@@ -433,11 +433,11 @@ import { ViewChild,ElementRef} from '@angular/core';
 ````
 
 *  **Selector**
-````
+````html
 <!-- Podes usar como query la variable de template miVariableDeTemplate-->
 <mycomponent></mycomponent>
 ````
-````
+````js
 // EN EL COMPONENTE
  @ViewChild('mycomponent') nombreDeVariable: mycomponentClass;
 ````
@@ -517,5 +517,5 @@ Podes usar **componentFactoryResolver** para instanciar un componente a partir d
 })
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzMjI0ODY1LC0xOTIwMjcwMjAzXX0=
+eyJoaXN0b3J5IjpbLTk4MDM3NTY4NiwtMTkyMDI3MDIwM119
 -->
