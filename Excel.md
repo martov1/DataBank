@@ -212,7 +212,7 @@ Esto te permite
 
 
 Tenes una serie de opciones aca
-![](http://i.markdownnotes.com/gg.jpg)
+![enter image description here](https://lh3.googleusercontent.com/1J2wrc0Q4ugOWMs8gGJcoiMlaxLqGukr-PklCnHZWzlf-DWivM6YLL4XhL-b-zJTbMH6DybPjCiW)
 
 ## Funciones para tablas / DBs
 
@@ -234,11 +234,12 @@ Tenes una serie de opciones aca
 * **database:** es la tabla
 
 **sumar todos los expenses con concepto = "supplies"**
+![enter image description here](https://lh3.googleusercontent.com/7tpIkRYSANSZdACRB-n7APCpDu3KTigo0CbMy9dhnMc_0-XoIejcBKT5BNRlbzs-eaPF964bLZtD)
 
-![](http://i.markdownnotes.com/yyyyy.jpg)
 
 Las **condiciones pueden ser operadores logicos**
-![](http://i.markdownnotes.com/kkk.jpg)
+![enter image description here](https://lh3.googleusercontent.com/QXYrdYMTsJ9L01Z7yxe2uNvGrwDzEHjwcDDd4tyd5CJKpl1SAkvVSllx4N_NqergmBSrpAVGD_Zs)
+
 
 ### Subtotal()
 
@@ -627,5 +628,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ1MTgxODksMTIyMTk1MDY0Nl19
+eyJoaXN0b3J5IjpbLTIxMDY3OTU2MDMsMTIyMTk1MDY0Nl19
 -->
