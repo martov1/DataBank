@@ -412,7 +412,7 @@ const subscribe = example.subscribe(val => console.log(val));
 
 ### Son Observables singletons
 Aca se puede ver como **los observables no son singletons**
-````
+````js
 //creo un observable
 var observable = Rx.Observable.create(function(source) {
   source.next(Math.random());
@@ -426,7 +426,7 @@ observable.subscribe(valor => console.log('consumer B: ' + valor));
 ````
 
 Cuando suscribamos un subject a un observable todos **los observers que hagan uso del subject compartiran una misma instancia**
-````
+````js
 //creo un observable
 var observable = Rx.Observable.create(function(source) {
   source.next(Math.random());
@@ -446,9 +446,9 @@ subject.subscribe(valor => console.log('consumer B: ' + valor));
 ### Emiten valores a demanda
 
 **Podes emitir valores a demanda usado**
-````
+````js
 subject.next('valor');
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE0NTUwNzcsLTk5MDkxNTE2Ml19
+eyJoaXN0b3J5IjpbLTE5MDI0NTI1MTIsLTk5MDkxNTE2Ml19
 -->
