@@ -1,9 +1,9 @@
 
-#Contenido:
+# Contenido:
 
-* [Capacidades](##Capacidades)
-* [Setup](##Setup)
-* [Arquitectura](##Arquitectura)
+* Capacidades](##Capacidades)
+* Setup](##Setup)
+* Arquitectura](##Arquitectura)
 	* [Observable](###Observable)
 	* [Observer](###Observer)
 	* [vincular observer a un observable](##vincular observer a un observable)
@@ -452,5 +452,5 @@ subject.subscribe(valor => console.log('consumer B: ' + valor));
 subject.next('valor');
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTg2NzI0XX0=
+eyJoaXN0b3J5IjpbOTY1NDA4OTI3LC0zNzU4NjcyNF19
 -->
