@@ -129,7 +129,7 @@ Este problema tiene una solcion **por convencion** que ya se ha visto, la creaci
 
 Ejemplo:
 
-````
+````js
 @NgModule({
   imports:      [ CommonModule ],
   declarations: [ TitleComponent ],
@@ -168,7 +168,7 @@ El token tiene que funcionar como interfaz del valor, pero **typescript borra la
 para esto podes usar la clase  `InjectionToken` que usa un generic con la interfaz.
 EJ:
 
-````
+````js
 // EN algun archivo
 interface ValorInterface { blablabla}
 valor:ValorInterface = {blablabla}
@@ -198,7 +198,7 @@ Cuando inyectas un servicio en un componente, sucede lo siguiente:
 Podes detener este proceso en cualquier punto de la cadena de componentes usando `@host` en el constructor del componente para que angular no siga su busqueda de un servicio en particular.
 
 Podes indicar a angular que si la dependencia no existe, no lance un error, esto se hace usando `@Optional` cuando pedis el servicio en un componente
-````
+````js
 constructor(
       @Host() // limit to the host component's instance of the HeroCacheService
       private heroCache: HeroCacheService,
@@ -215,7 +215,7 @@ constructor(
 Los providers son una _receta_ que te permite **proveer un servicio a partir de un determinado token**
 
 >**Cuando inyectas un servicio en un componente, lo estas buscando por su token:**
-````
+````js
 //Aca estamos inyectando un servicio en el constructor de un componente
 //El inyector busca un servicio con UN TOKEN igual a BackendService
  constructor(private backend: BackendService)
@@ -225,12 +225,12 @@ Los providers son una _receta_ que te permite **proveer un servicio a partir de 
 ### Custom providers
 
 Generalmente registras tus providers coloclandolos en el providers array. Eso implica que angular crea providers automaticamente a partir de servicios. con **token igual al nombre de la clase del servicio**
-````
+````js
 providers: [ LoggerService, UserContextService, UserService ]
 ````
 
 **pero podria ser mas especifico:**
-````
+````js
  providers: [
 	{ provide: Hero,          useValue:    someHero },
 	    { provide: TITLE,         useValue:   'Hero of the Month' },
@@ -251,7 +251,8 @@ providers: [ LoggerService, UserContextService, UserService ]
 		* `{ provide: Hero,          useValue:    someHero  }`
 		* `{ provide: saludo,          useValue:    'hola'  }`
 	* **otro token** - Permite que dos o mas tokens mapeen al mismo servicio
-		* ````
+		*  
+		````
 		{ provide: token1,   useClass:    miServicio }
 		{ provide: token1, useExisting: token2 }
 		````
@@ -265,6 +266,6 @@ providers: [ LoggerService, UserContextService, UserService ]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODUxNjI1MzcsLTE4NDM2NDQzNTEsLT
-ExMjgwOTc5ODVdfQ==
+eyJoaXN0b3J5IjpbMzg4OTM4MTY1LC0xODQzNjQ0MzUxLC0xMT
+I4MDk3OTg1XX0=
 -->
