@@ -451,5 +451,5 @@ subject.subscribe(valor => console.log('consumer B: ' + valor));
 subject.next('valor');
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDkxNTE2MiwtMzc1ODY3MjRdfQ==
+eyJoaXN0b3J5IjpbLTk5MDkxNTE2Ml19
 -->
