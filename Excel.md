@@ -158,15 +158,15 @@ Ademas podes **añadir headers y footers clickenado en esa area**
 Podes imprimir una subseccion de l documento usando **print area**
 Para remover el print area apreta en la flechita del icono
 
+![enter image description here](https://lh3.googleusercontent.com/H_8tD6tRhjQe6vKYVd1wotse0cbgX_QQXy7pzt_el4OQeHugltbvmcH12H1hc7oubxXoy0pWJ5Cr)
 
-![](http://i.markdownnotes.com/hhhhhh.jpg)
 
 
 ### Mantener titulos en todas las pag.
 
 Podes mantener titulos en todas las paginas asi:
+![enter image description here](https://lh3.googleusercontent.com/7rnvPiZwy-Us-pa-U7g243m2CDGeCD2CUjbndFhz-om9qA5YgFF0rNt0wRamuuMrX9mmkrnXJcML)
 
-![](http://i.markdownnotes.com/56556.jpg)
 
 
 # Listas
@@ -179,7 +179,7 @@ Las listas son reconocidas por excel por:
 ## Sort
 
 podes ordenar en varios niveles y usando valores o fechas asi:
-
+![enter image description here](https://lh3.googleusercontent.com/QdtnQ075e9INAEAwSzrm4ZjYruVGFgalSD9jeOjTM7d635S5W98lC_kESoGNVP2B515X0WG09QxS)
 ![](http://i.markdownnotes.com/hhhhhh_Fczf2yD.jpg)
 
 ## Filter
@@ -625,5 +625,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2MzM4NjA3XX0=
+eyJoaXN0b3J5IjpbNTg3NDcwMzE4XX0=
 -->
