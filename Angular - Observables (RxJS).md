@@ -66,7 +66,7 @@ var observable = Rx.Observable.create(function (observer) {
 ````
 
 
-###Observer
+### Observer
 
 Es un objeto con funciones que **hacen algo con los datos nuevos de un Observable**, tiene tres funciones en las que podemos armar nuestra logica.
 
@@ -85,7 +85,7 @@ var observer = {
 };
 ````
 
-###vincular observer a un observable
+### vincular observer a un observable
 
 * **vinculo entre un observable y un observer se llama subscription**
 * puede haber **muchos observers subscriptos a un observable**
@@ -127,14 +127,14 @@ observable.subscribe(
 ````
 
 
-##Operadores
+## Operadores
 
 La principal **motivacion** de **usar observables** es que **podes usar operadores**
 
 
 Los operadores son metodos de los Observables, **no mutan el observable sino que crean una nueva instancia basada en el observable anterior**
 
-####**Critico**:
+#### **Critico**:
 
 > Los operadores **no mutan el observable** sino que crean un **nuevo observable basado en el observable anterior**
 
@@ -153,7 +153,7 @@ Los operadores son metodos de los Observables, **no mutan el observable sino que
 * **Observable.takeWhile(funcion())** - Finaliza el observable cuando la funcion devuelva false
 * **Observable.of(valor1,valor2, valorN)** - crea un observable que emite los valores que colocas como atributos
 
-###Combinar operators con Chaining y piping
+### Combinar operators con Chaining y piping
 
 Podes encadenar operators de dos formas
 
@@ -186,7 +186,7 @@ const source = from([1, 2, 3, 4, 5, 6, 7, 8, 9]);
     );
 ````
 
-###Switchmap/flatmap y mergemap
+### Switchmap/flatmap y mergemap
 
 Cada vez que un observer **emite un valor**, switchmap **crea un observer nuevo**, si ya habia creado uno antes entonces **descarta el anterior**.
 
@@ -258,7 +258,7 @@ valor de stream1  2 9 4		//Nuevo valor!, descarto la instancia stream2 anterior
 etc....
 ````
 
-###Forkjoin
+### Forkjoin
 
 Se usa cuando **tenes multiples observables** y te interesa obtener **el valor final de todos**. por ejemplo **cuando terminan varios http requests**
 
@@ -279,7 +279,7 @@ const example = forkJoin(
 const subscribe = example.subscribe(val => console.log(val));
 ````
 
-###Concat
+### Concat
 
 Forma un queue de observables. **se hacen uno por uno en orden**
 ````
@@ -293,7 +293,7 @@ const example = concat(sourceOne, sourceTwo);
 //output: 1,2,3,4,5,6
 ````
 
-###merge
+### merge
 
 **Transforma muchos observables en uno solo**
 ````
@@ -318,7 +318,7 @@ const subscribe = example.subscribe(val => console.log(val));
 
 ````
 
-###Race
+### Race
 
 agarras el observable que sea el primero que emita un valor
 ````
@@ -338,7 +338,7 @@ const subscribe = example.subscribe(val => console.log(val));
 
 ````
 
-###pairwise
+### pairwise
 
 Cada vez que se emita, agarras el valor actual y el ultimo valor emitido. ambos son integrantes de un array
 
@@ -350,7 +350,7 @@ interval(1000)
 
 ````
 
-###zip
+### zip
 
 Espera a que **todos** los observables emitan un valor y luego emite los valores como array, repite esto cuando **todos** los observables emitan otro valor
 
@@ -365,7 +365,7 @@ const example = zip(
 const subscribe = example.subscribe(val => console.log(val));
 ````
 
-###Retry
+### Retry
 
 vuelve a crear el observable y vuelve a intentar en caso de error. la cantidad de veces a reintentar esta sujeta al attributo que coloques
 
@@ -386,7 +386,7 @@ const example = source.pipe(
 
 ````
 
-###do / tap
+### do / tap
 
 Te permite atajar un valor del observable en algun momento de la cadena de operadores y hacer algo arbitrario con ese valor. No te permite modificarlo y enviar la modificacion mas abajo de la cadena.
 
@@ -405,13 +405,13 @@ const subscribe = example.subscribe(val => console.log(val));
 
 ---
 
-##Subjects
+## Subjects
 
 **Caracteristicas**
 * son como observables pero **son singletons**
 * Pueden **emitir valores a demanda** como si fueran event emitters
 
-###Son Observables singletons
+### Son Observables singletons
 Aca se puede ver como **los observables no son singletons**
 ````
 //creo un observable
@@ -444,12 +444,12 @@ subject.subscribe(valor => console.log('consumer B: ' + valor));
 // consumer B: 0.8495447073368834
 ````
 
-###Emiten valores a demanda
+### Emiten valores a demanda
 
 **Podes emitir valores a demanda usado**
 ````
 subject.next('valor');
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDQ0NDQ2LC0zNzU4NjcyNF19
+eyJoaXN0b3J5IjpbLTk5MDkxNTE2MiwtMzc1ODY3MjRdfQ==
 -->
