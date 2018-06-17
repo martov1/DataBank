@@ -79,7 +79,7 @@ trackByHeroes(index: number, hero: Hero): number { return hero.id; }
 Agrega el elemento en el que esta la directiva al DOM si se cumple una condicion (da true)
 
 Ej: mostrar solo si hay mas de 3 heroes
-````
+````html
 <p *ngIf="heroes.length > 3">There are many heroes!</p>
 ````
 
@@ -90,7 +90,7 @@ Sirve para colocar clases en un elemento
 
 >Con el ultimo ejemplo se pueden controlar las clases desde el component
 
-````
+````html
 
 //como lista de strings
 <some-element [ngClass]="'first second'">...</some-element>
@@ -112,7 +112,7 @@ Sirve para colocar clases en un elemento
 ### ngStyle
 
 Sirve para asignar estilos CSS a un elemento
-````
+````html
 <div [ngStyle]="enItalics ? 'italic' : 'nombal'">
   This div is initially italic, normal weight, and extra large (24px).
 </div>
@@ -120,7 +120,7 @@ Sirve para asignar estilos CSS a un elemento
 
 Puede responder a un objeto con key-value pairs
 
-````
+````html
 <div [ngStyle]="{font-style:italic,font-weight:bold}">
   This div is initially italic, normal weight, and extra large (24px).
 </div>
@@ -128,13 +128,13 @@ Puede responder a un objeto con key-value pairs
 
 El objeto puede estar en el component
 
-````
+````html
 <div [ngStyle]="miObjeto">
   This div is initially italic, normal weight, and extra large (24px).
 </div>
 ````
 
-````
+````js
 //En el component
 setCurrentStyles() {
   // CSS styles: set per current state of component properties
@@ -160,13 +160,13 @@ Es similar a lo que vimos en two way data binding, solo que mas comodo para form
 
 esto:
 
-````
+````html
 <input [(ngModel)]="currentHero.name">
 ````
 
 Es sinonimo de esto:
 
-````
+````html
 //Value e Input son propiedades y eventos nativos del DOM object de <input>
 <input [value]="currentHero.name"
        (input)="currentHero.name=$event.target.value" >
@@ -174,7 +174,7 @@ Es sinonimo de esto:
 
 Tambien existe una forma extendida por si necesitaras hacer algo con los datos antes de guardarlos
 
-````
+````html
 <input
   [ngModel]="currentHero.name"
   (ngModelChange)="hacerAlgoConLosDatos($event)">
@@ -188,10 +188,10 @@ Basado en una condicion, muestra uno de varios posibles elementos.
 algun valor de **ngSwitchCase** entonces se muestra el elemento con esa directiva y
 se oculta el resto.
 
-** *ngSwitchDefault ** es el elemento que sera elegido si la variable asignada a
+* **ngSwitchDefault**  es el elemento que sera elegido si la variable asignada a
 ngSwitch no tiene un valor o el valor no es un ngSwitchCase
 
-````
+````html
 <div [ngSwitch]="currentHero.emotion">
   <app-happy-hero    *ngSwitchCase="'happy'"    [hero]="currentHero"></app-happy-hero>
   <app-sad-hero      *ngSwitchCase="'sad'"      [hero]="currentHero"></app-sad-hero>
@@ -199,7 +199,8 @@ ngSwitch no tiene un valor o el valor no es un ngSwitchCase
   <app-unknown-hero  *ngSwitchDefault           [hero]="currentHero"></app-unknown-hero>
 </div>
 ````
-![](http://i.markdownnotes.com/switch-anim.gif)
+
+![](![http://i.markdownnotes.com/switch-anim.gif](http://i.markdownnotes.com/switch-anim.gif))
 
 
 ---
@@ -238,5 +239,5 @@ Uso:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM3MDE4NjJdfQ==
+eyJoaXN0b3J5IjpbMTkxOTUxMTEwMV19
 -->
