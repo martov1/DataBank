@@ -305,7 +305,7 @@ si haces doble click en un campo de un pivot table, **te lleva a una tabla separ
 Los slicers te permiten **aplicar filtros en las pivot tables de manera mas comoda para alguien que no entiende nada de excel**, te arma unos botones grandes que aplican un flitro en la tabla en vez de apretar en las columnas y usar el filtro desde ahi
 
 ![enter image description here](https://lh3.googleusercontent.com/cgY7CUcVrD0GKMoiouYsR0FqeevEY-lR0CfmD8MAmyozI-IJDRyaSM7mWtgX1vYn-NLXQqac-1xb)
-![](http://i.markdownnotes.com/vvvv.jpg)
+
 
 
 # Powerpivot, modelos relacionales
@@ -320,13 +320,15 @@ Power pivot te permite crear un **modelo relacional a partir de listas y JOINS**
 
 
 Para aañadir tabllas a un model, clickeas en la tabla yy haces esto
-![](http://i.markdownnotes.com/5555_Ax3hF0F.jpg)
+
+![enter image description here](https://lh3.googleusercontent.com/v7v7PWG6K_FAM6yZsQK8j9fqZQDO0qRXuxTOj0KLVxSfQPIpNkA8MhLkm6E7K8eN63G6DEesrJbM)
+
 
 ## Hacer joins
 Para hacer joins, te paras en el diagram view y arrastras las keys que estan relacionadas entre si.
 
+![enter image description here](https://lh3.googleusercontent.com/VPHKzv-Ic877soqV7becRS9QssLAoHUNq4yBCc1i9JcgS5C9eZh6HTqdnZ18PFeF5x3AVnqMQCur)
 
-![](http://i.markdownnotes.com/888.jpg)
 
 ## Hacer pivot tables con data model
 
@@ -631,5 +633,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDYwNjA4OTUsMTIyMTk1MDY0Nl19
+eyJoaXN0b3J5IjpbLTExMjczNjIwNSwxMjIxOTUwNjQ2XX0=
 -->
