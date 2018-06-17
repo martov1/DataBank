@@ -8,21 +8,21 @@
 * Metadata
 * Propiedades y metodos
 * CSS y estilos
-* Proyeccion de contenido](##Proyeccion de contenido)
-* lyfeCycle hooks](##lyfeCycle hooks)
-* Data binding](##Data Binding)
-* API del componente con @Input and @output](##API del componente con @Input and #output)
-	* Alias para la API](#####Alias para la API)
-	* Getters y setters](###Getters y setters)
-* Comunicacion entre componentes](##Comunicacion entre componentes)
-	* Mediante los templates](###Mediante los templates)
-	* Inyectar child components/Elements/Directives](###Inyectar child components/Elements/Directives)
-		* @ViewChild / @ViewChildren](###@ViewChild / @ViewChildren)
-		* @ContentChildren / @ContentChil](###@ContentChildren / @ContentChil)
-* Crear componentes dinamicamente](##Crear componentes dinamicamente)
+* Proyeccion de contenido
+* lyfeCycle hooks
+* Data binding
+* API del componente con @Input and @output
+	* Alias para la API
+	* Getters y setters
+* Comunicacion entre componentes
+	* Mediante los templates
+	* Inyectar child components/Elements/Directives
+		* @ViewChild / @ViewChildren
+		* @ContentChildren / @ContentChil
+* Crear componentes dinamicamente
 
 
-##Que es
+## Que es
 
 Un modulo es un pedazo de logica (**directive**) que tiene a cargo un pedazo de HTML llamado **view**. Los componentes se implementan mediante una **clase** que **interactua con el view** mediante una **API de propiedades y metodos** 
 
@@ -92,7 +92,7 @@ Los componentes son clases comunes de typescript hasta el momento en el que le a
 ````
 
 ---
-##Propiedades y metodos
+## Propiedades y metodos
 
 Podes crear propiedades y metodos desde la clase o dentro del constructor asi
 
@@ -112,7 +112,7 @@ export class AppCtorComponent {
 ````
 
 ---
-##CSS y estilos
+## CSS y estilos
 
 Los estilos de cada componente estan aislados del resto, asique no se pisan.
 
@@ -519,6 +519,6 @@ Podes usar **componentFactoryResolver** para instanciar un componente a partir d
 })
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjIyMDI5NDYsLTE5MjAyNzAyMDNdfQ
+eyJoaXN0b3J5IjpbLTE2MDc3MDU0NDAsLTE5MjAyNzAyMDNdfQ
 ==
 -->
