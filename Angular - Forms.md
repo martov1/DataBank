@@ -311,7 +311,7 @@ Una vez que armaste el **form model** con los FormControls y FormGroups, tal vez
 * **setValue()** - Setea los valores de todas las propiedades del modelo, da error si falta alguna propiedad por setear o si hay propiedades de mas
 
 Sintaxis:
-````
+````js
 setValue({
 	formControl1: valor1,
 	formControl2: valor2
@@ -327,7 +327,7 @@ A veces queres tener forms que no tienen un tamaño definido. Ej: un form donde 
 
 Para eso esta el **FormArray**
 
-````
+````js
 //Sin notacion formBuilder
 const arr = new FormArray([formControl1, formGroup1,formGroup2, .. ]);
 
@@ -350,7 +350,7 @@ this.heroForm.get('miFormArray').push(this.fb.group(miNuevoFormGroup));
 
 Para mostrarlo en el template usamos la directiva **fromArrayName**
 
-````
+````html
 <div formArrayName="secretLairs" class="well well-lg">
   <div *ngFor="let address of miFormArray.controls; let i=index" [formGroupName]="i" >
     <!-- The repeated address template -->
@@ -369,5 +369,5 @@ Tambien podes usar **Validator functions** si fuera necesario, que pueden ser
 
 > hay funciones validator predefinidas con los mismas funciones de validacion que la validacion HTML
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODAxODYyNF19
+eyJoaXN0b3J5IjpbLTEzMDk5Njg5OTldfQ==
 -->
