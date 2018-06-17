@@ -255,7 +255,7 @@ providers: [ LoggerService, UserContextService, UserService ]
 		````
 		{ provide: token1,   useClass:    miServicio }
 		{ provide: token1, useExisting: token2 }
-		````
+	````
 	* **useFactory** - el token llama una funcion que usa ciertas dependencias y devuelve otra fuencion que devuelva el valor/clase/servicio
 		* `{ provide: RUNNERS_UP,    useFactory:  devuelvoFactory(algunValor), deps: [Hero, HeroService] }`
 		
@@ -266,6 +266,6 @@ providers: [ LoggerService, UserContextService, UserService ]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4OTM4MTY1LC0xODQzNjQ0MzUxLC0xMT
+eyJoaXN0b3J5IjpbLTg5OTM0NzcxLC0xODQzNjQ0MzUxLC0xMT
 I4MDk3OTg1XX0=
 -->
