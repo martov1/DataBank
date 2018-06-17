@@ -216,7 +216,7 @@ Es un **lenguaje formal matematico** que forma la base de los lenguajes implemen
 	* Podes combinarlo con proyection operator para encontrar coincidencias en dos relaciones con atributos diferentes.
 	* Encontrar los nombres de aquellos empleados que tambien son operarios
 	$\Pi_{nombre} \text{Empleados} \quad  \cap \quad  \Pi_{nombre} Operarios$ 
-	* ** No añade poder expresivo, es equivalente a**
+	* **No añade poder expresivo, es equivalente a**
 	$\Pi_{nombre} \text{Empl} - (\Pi_{nombre} \text{Empl} -  \Pi_{nombre} Operarios)$
 
 * .$\rho_{R_2(att1,att2,att3)}R_1$ **Rename operator** - Toma una relacion $R_1$ y la renombra a $R_2$, tambien renombra el nombre de sus atributos (su schema) a $att1,att2,att3$. Tiene estos shorthands:
@@ -554,5 +554,5 @@ Por ejemplo:
 * Tiene mas sentido logico tener un conjunto de datos en la misma tabla que normalizarlo en varias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTkzMzQwNV19
+eyJoaXN0b3J5IjpbLTE2MDQ2NzAzMTFdfQ==
 -->
