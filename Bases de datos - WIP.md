@@ -189,7 +189,7 @@ Es un **lenguaje formal matematico** que forma la base de los lenguajes implemen
 	* EJ: $\text{Empresas } X \text{ Empleados}= R_3$ 
 	 Haces un query con el resultad, buscas los Ntuples de los empleados con un sueldo minimo (que esta en la tabla de empleados) y que sea una empresa estatal (tabla empresas):$\sigma_{Empresa.cuit = empleados.cuitEmpleador \land sueldo > 1000\land dueño = "estatal"} R_3$ 
 	 * Notese que $R_3$ tiene dos atributos duplicados, ya que une  "cuitEmpleador" de la relacion "empleados"  y "cuit" de la relacion "empresas", usando ese atributo repetido es que podemos identificar aquellos Ntuples de $R_3$ con ambos valores iguales, implicando que son empleados de esa empresa, el resto de los Ntuples son de poca utilidad.
-![](http://i.markdownnotes.com/cartesian_product.JPG)
+![enter image description here](https://lh3.googleusercontent.com/qmPMqfqx0lIIV1uKeC9AnWhJohW1eLMdIJIqkKMN24tzu4uOObxoWr3coMKDwkoInEKDa-3I4gKc)
 
 * .$R_1\bowtie R_2 = R_3$ **Natural Join** -La combinacion de Ntuples de dos relaciones** cuyos Ntuples tienen uno o mas valores en comun, considerando los atributos repetidos como uno solo**. es un subconjunto del cross product.
 	*  Es identico a decir
@@ -554,5 +554,5 @@ Por ejemplo:
 * Tiene mas sentido logico tener un conjunto de datos en la misma tabla que normalizarlo en varias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NzM3MjAwXX0=
+eyJoaXN0b3J5IjpbMjEwNDcxODM0XX0=
 -->
