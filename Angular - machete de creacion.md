@@ -1,10 +1,10 @@
 
-#Contenido:
+# Contenido:
 
-* [Creacion de proyecto](##Crear proyecto)
-* [Estructura de carpetas](Estructura de carpetas)
-* [Patron de aplicaciones angunlar](##patron de aplicaciones angular)
-* [Crear Feature Modules](##Crear Feature Modules)
+* Creacion de proyecto
+* Estructura de carpetas
+* Patron de aplicaciones angunlar
+* Crear Feature Modules
 	* Hacer el modulo principal y el de routing
 	*  Hacer componentes
 	*  Hacer las rutas
@@ -56,14 +56,14 @@ npm shrinkwrap
  		* **/auth**
 
 
-##patron de aplicaciones angular
+## patron de aplicaciones angular
 
 
    * Cada feature tiene **su propia carpeta**
    * Cada feature tiene **su propio modulo**
    * cada feature tiene un **root component al que se llega con el router** con poco
    contenido y child routes, una de las cuales es la default con path ''
-````
+````js
      {
     path: '',							//root component
     component: CrisisCenterComponent,
@@ -83,9 +83,9 @@ npm shrinkwrap
    * El feature root component tiene su **propio router outlet y child routes**
 
 
-##Crear Feature Modules
+## Crear Feature Modules
 
-###Hacer el modulo principal y el de routing
+### Hacer el modulo principal y el de routing
 
 Para crear un Feature module, podes usar este comando de CLI
 
@@ -106,7 +106,7 @@ Para crear un componente en la carpeta del modulo hacemos:
 
 En tu modulo de **routing pricipal**
 
-````
+````js
 const routes: Routes = [
   {
     path: 'customers',
@@ -120,5 +120,5 @@ const routes: Routes = [
 ];
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3NDQzNDQ2XX0=
+eyJoaXN0b3J5IjpbLTcwMjgxODQ4NF19
 -->
