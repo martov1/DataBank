@@ -9,13 +9,13 @@
 	 * Triggers
 	 * Estados
 	 * Transiciones
- * Transiciones con cambios de estilo
- * :enter y :leave
- * Lectura de propiedades en runtime
- * Animaciones con varios pasos
- * Animaciones paralelas
- * Animar inner elements usando query
- * Animation callbacks
+	 * Transiciones con cambios de estilo
+	 * :enter y :leave
+	 * Lectura de propiedades en runtime
+	 * Animaciones con varios pasos
+	 * Animaciones paralelas
+	 * Animar inner elements usando query
+	 * Animation callbacks
 * ejemplo completo
 * Aplicando las animaciones a elementos HTML
 
@@ -254,5 +254,5 @@ Se coloca el nombre del **trigger** entre corchetes con una @, luego se coloca e
 ````
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTgyNjg0XX0=
+eyJoaXN0b3J5IjpbMTAzNTUyODUxNl19
 -->
