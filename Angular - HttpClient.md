@@ -391,7 +391,7 @@ y usar las respuestas del cache
 [Mas detalle aca](https://angular.io/guide/http#listening-to-progress-events)
 Cuando estas subiendo o bajando archivos podes obtener status reports del browser activando el flag **reportProgress**
 
-````
+````js
 const req = new HttpRequest('POST', '/upload/file', file, {
   reportProgress: true
 });
@@ -406,13 +406,6 @@ return this.http.request(req).pipe(
 );
 ````
 
-
-
----
-
-
-
-
 # Best practices
 
 * Separar en un servicios y no en un componentes
@@ -422,7 +415,7 @@ return this.http.request(req).pipe(
 	* En gets, posts, interceptors, etc 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzgzMjI4MCwtMTI4MjcwNTAzNl19
+eyJoaXN0b3J5IjpbNTQ2MTc2MzM2LC0xMjgyNzA1MDM2XX0=
 -->
