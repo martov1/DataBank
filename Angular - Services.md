@@ -248,10 +248,10 @@ providers: [ LoggerService, UserContextService, UserService ]
 	* **Clase** - Provee una clase, no requere estar definida, sobreescribe al usuario anterior del token si existe
 		* `{ provide: HeroService,   useClass:    HeroService }`
 	* **valor** - Provee un valor que **ya fue definido**
-		* `{ provide: Hero,          useValue:    someHero  }`
-		* `{ provide: saludo,          useValue:    'hola'  }`
+		 `{ provide: Hero,          useValue:    someHero  }`
+		 `{ provide: saludo,          useValue:    'hola'  }`
 	* **otro token** - Permite que dos o mas tokens mapeen al mismo servicio
-		*  
+ 
 		````
 		{ provide: token1,   useClass:    miServicio }
 		{ provide: token1, useExisting: token2 }
@@ -266,5 +266,5 @@ providers: [ LoggerService, UserContextService, UserService ]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTM0NzcxXX0=
+eyJoaXN0b3J5IjpbLTE4MzA5MjAzOTVdfQ==
 -->
