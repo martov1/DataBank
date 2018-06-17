@@ -2,22 +2,22 @@
   
 # Contenido:
 
-* [Consideraciones](##Consideraciones)
-* [Comunicacion view -> component](##Comunicacion view -> componen)
+* Consideraciones
+* Comunicacion view -> component
 	* Escuchar eventos
 	* Eventos predefinidos
-* [Comunicacion componente -> view](##Comunicacion componente -> view)
+* Comunicacion componente -> view
 	* Interpolacion 
 	* Property binding a estilos, propiedades de DOM
-* [Comunicacion componente1->view->componente2](##Comunicacion componente1->view->componente2)
+* Comunicacion componente1->view->componente2
 	* Property binding a componentes y directivas 
 	* Eventos customizados 
-* [comunicacion view <->component](##comunicacion view <->component)
-* [Reference variables #](##Reference variables #)
-* [Pipes](##Pipes)
+* comunicacion view <->component
+* Reference variables 
+* Pipes
 
 
-#Consideraciones
+# Consideraciones
 
 **1)** el tag `<script>` esta prohibido para evitar atques de script inyection. **Angular sanitiza los tags de todos lados para sacarla**
 
@@ -39,10 +39,10 @@
 
 ---
 
-#Comunicacion view -> component
+# Comunicacion view -> component
 
 
-##1) Escuchar eventos
+## 1) Escuchar eventos
 
 El view puede escuchar eventos que suceden y activar funciones o modificar valores en el componente, esto se hace mediante **Template statements**
 
@@ -70,7 +70,7 @@ El view puede escuchar eventos que suceden y activar funciones o modificar valor
   }
 ````
  
-##2) Eventos predefinidos
+## 2) Eventos predefinidos
 
 Podes usar **cualquier evento del dom sin el prefijo ON**
 lista: https://www.w3schools.com/jsref/dom_obj_event.asp
@@ -83,14 +83,14 @@ lista: https://www.w3schools.com/jsref/dom_obj_event.asp
 * **Keypress.enter.q** -- Disparado cuando el user apreta teclas predefinidas
 
 ---
-#Comunicacion componente -> view
+# Comunicacion componente -> view
 
 Se hace mediante 
 * **Interpolacion**
 * **Property binding**
 * **Emision de eventos**
 
-##1) Interpolacion
+## 1) Interpolacion
 
 >Angular reemplaza lo que hay entre {{  }} por variables o el resultado de una expresion
 
@@ -113,7 +113,7 @@ El **template es actualizado cuando los valores cambian**
 <p> el resultado es: {{1 + 1 + getVal()}}</p> 
 ````
 
-##2) Property binding
+## 2) Property binding
 
 >Asigna el valor de una variable/funcion del componente a **propiedad del DOM, componente ó directiva**
 
@@ -139,10 +139,10 @@ Ej:
 
 
 ---
-#Comunicacion componente1->view->componente2
+# Comunicacion componente1->view->componente2
  
  
- ##1) Property binding
+ ## 1) Property binding
 
 >Asigna el valor de una variable/funcion del componente a **propiedad del DOM, componente ó directiva**
 
@@ -351,5 +351,5 @@ Utilizan el simbolo de pipe **|**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODM2MDQwMl19
+eyJoaXN0b3J5IjpbLTQ3Mzg0MjM0NSwxMTY4MzYwNDAyXX0=
 -->
