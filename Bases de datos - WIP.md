@@ -197,13 +197,13 @@ Es un **lenguaje formal matematico** que forma la base de los lenguajes implemen
 	Con un ejemplo practico
 	$\sigma_{Empresa.cuit = empleados.cuitEmpleador} (\text{Empresas } X \text{ Empleados})$
 	* Es una operacion de conveniencia, no añade poder expresivo ya que podriamos decir lo mismo usando el cross product y el selection operator
-	![](http://i.markdownnotes.com/natural_join.jpg)
-
+		![enter image description here](https://lh3.googleusercontent.com/pZ2bMJYJgFRfwAYg-fZqCAEpx2kKjGav97TVFhJz8RUYzcA8PpSwln7HmMHJBkWix-YbmcB2yvV9)
+	
 * .$R_1\bowtie_{\theta} R_2 = R_3$ **Theta Join** - Implica el cross product de dos relaciones a las cuales luego se le seleccionan los Ntuples que **cumplen una condicion** $\theta$. 
 	* Es como el natural join pero en lugar de usar nombres iguales como condicion de unir Ntuples, usa una condicion arbitraria $\theta$
 	* Sinonimo de $\sigma_\theta(R_1 X R_2)$ 
 	* En este ejemplo, $\theta= \text{CarPrice} \geq \text{BoatPrice}$ 
-	![](http://i.markdownnotes.com/theta_join.jpg)
+	![enter image description here](https://lh3.googleusercontent.com/KUJbTHUbKwH-Z6IR_wtjEaa0N0VQzMnGOCqkX2bibRUCW3dZS3VaWVtHIqbapXmLJxiRDY2Z40vX)
 	
 * .$\cup$  **Union** - Es la relacion producto de unir dos relaciones con la misma cantidad y tipo de atributos, es decir, se genera una relacion con los Ntuples de ambas relaciones,los Ntuples repetidos se eliminan.
 	* Se puede usar para combinar resultados de forma vertical, Ej: los Ntuples de dos Proyect operator 
@@ -554,5 +554,5 @@ Por ejemplo:
 * Tiene mas sentido logico tener un conjunto de datos en la misma tabla que normalizarlo en varias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1NTUxNTM0XX0=
+eyJoaXN0b3J5IjpbMjEzNTkzMzQwNV19
 -->
