@@ -193,12 +193,12 @@ Podes filtrar por los valores de una columna asi
 ## Subtotales
 
 Te permiten sumar subconjuntos de listas, cada subconjunto esta definido por el valor de un cell.
+![enter image description here](https://lh3.googleusercontent.com/go1Me9qyQ5P4sc27EmhImNBu9Ui18fvwcH7CelpuPrMPSFLpuf0yZZsvBWCPrVDFWc0W3OdXrSiN)
 
-![](http://i.markdownnotes.com/hhpdppd_tUYKG5p.jpg)
 
 Resultado final
+![enter image description here](https://lh3.googleusercontent.com/ul_jxd9SrjsAeMKa-GK081vJL2keVA1kTBABl9udksNmG6AXIMM1pE7u9rrd2zLPXgeFEhQl6RNs)
 
-![](http://i.markdownnotes.com/ffff.jpg)
 
 ## Formatear como tabla
 
@@ -208,8 +208,8 @@ Esto te permite
 
 **PARA EXTENDER LA TABLA, ARRASTRA LA PUNTITA AZUL EN LA ULTIMA CELL DE LA PARTE INFERIOR IZQUIERDA**
 
+![enter image description here](https://lh3.googleusercontent.com/1FiOZuJHvcaW08RUCBsfxO6UbATXxgSX7PhAu3nvhH5sM5H808sVisACAir-hnm8RyMAUQbuJabJ)
 
-![](http://i.markdownnotes.com/ffff_AvEq59V.jpg)
 
 Tenes una serie de opciones aca
 ![](http://i.markdownnotes.com/gg.jpg)
@@ -627,5 +627,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTk1MDY0Nl19
+eyJoaXN0b3J5IjpbLTExNDQ1MTgxODksMTIyMTk1MDY0Nl19
 -->
