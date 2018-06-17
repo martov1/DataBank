@@ -223,7 +223,7 @@ Es un **lenguaje formal matematico** que forma la base de los lenguajes implemen
 	*  .$\rho_{R_2}R_1$ - Solo cambia el nombre de la relacion (de la tabla) y deja los nombres de los atributos (columnas) iguales
 	*  .$\rho_{R_2(att1,att2,att3)}R_1$ - Deja el nombre de la relacion igual y cambia los nombres de los atributos (columnas)
 	*  EJ: Queres unir una tabla con si misma ($X$ cross-product), si las dos tienen los mismos nombres, como sabe el DBMS a cual de las dos columnas te referis cuando haces un query?, no lo sabe ya que es ambiguo, entonces tenes que renombrar los atributos de una de las dos relaciones para arreglarlo! 
-	![](http://i.markdownnotes.com/self_join_BUAxmJa.jpg)
+	![enter image description here](https://lh3.googleusercontent.com/KRbxNSMibvaiC0bQiQ1j1IxVWVG_iwivI8LTevNdCHRKGb5F61r80Eb3fmodeCIdnbndo3yelgSN)
 
 
 
@@ -554,5 +554,5 @@ Por ejemplo:
 * Tiene mas sentido logico tener un conjunto de datos en la misma tabla que normalizarlo en varias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ2NzAzMTFdfQ==
+eyJoaXN0b3J5IjpbLTUwNTMxMTEzNF19
 -->
