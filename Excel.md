@@ -284,6 +284,7 @@ Podes indicar como queres que se haga el calculo de valores (suma, avg, count, e
 ![enter image description here](https://lh3.googleusercontent.com/ts4m8JAkMphJ6rCrb3yDZClIYuh5t6wpIWUTgC8zNHSwKhtaS9XCL65IegOu9lt5XMPfXeZVlNDs)
 
 Tambien podes indicar **calculos mas complejos**, por ejemplo comparar con la fila anterior.
+
 ![enter image description here](https://lh3.googleusercontent.com/sZMVkK9RwJadS5G-hweSLPNQkHEmY_rX8v8GWS2ZTugFhrJr2DkC7wzI6d1_ideA6bxykNLgK1Ui)
 
 
@@ -291,17 +292,19 @@ Tambien podes indicar **calculos mas complejos**, por ejemplo comparar con la fi
 
 Podes agrupar elementos de un pivot table para lograr un **ordenamiento logico** (EJ: cuatrimestes)
 
-![](http://i.markdownnotes.com/eeee_Oq5FZIJ.jpg)
+![enter image description here](https://lh3.googleusercontent.com/AMxY28bpfWmmRGndiIgEaoY5X1K8nkt4QjeTaPhmlHwyRFA12MzSV5g-_Uvh5aDfHMsnPEbIlZ4e)
+
 
 ### Drill down
 
 si haces doble click en un campo de un pivot table, **te lleva a una tabla separada** donde ves todos los **datosque se sumarizaron en ese cell**
 
-![](http://i.markdownnotes.com/eeeet.jpg)
+![enter image description here](https://lh3.googleusercontent.com/rMFU47JVlgNzQmlZxXtRu-VbdsHOygslD5BWtJrSepkddxkvHIUUZ7VA6nIsU5LjYiflL6m-R5b5)
 
 ### Slicer
 Los slicers te permiten **aplicar filtros en las pivot tables de manera mas comoda para alguien que no entiende nada de excel**, te arma unos botones grandes que aplican un flitro en la tabla en vez de apretar en las columnas y usar el filtro desde ahi
 
+![enter image description here](https://lh3.googleusercontent.com/cgY7CUcVrD0GKMoiouYsR0FqeevEY-lR0CfmD8MAmyozI-IJDRyaSM7mWtgX1vYn-NLXQqac-1xb)
 ![](http://i.markdownnotes.com/vvvv.jpg)
 
 
@@ -628,5 +631,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTAyMTI0MjcsMTIyMTk1MDY0Nl19
+eyJoaXN0b3J5IjpbLTE0MDYwNjA4OTUsMTIyMTk1MDY0Nl19
 -->
