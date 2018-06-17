@@ -334,23 +334,25 @@ Para hacer joins, te paras en el diagram view y arrastras las keys que estan rel
 
 
 Una vez que tenes tu modelo, creas la pavot table y elegirs como queres mostrar esos datos como si fuera un pivot table comun
-![](http://i.markdownnotes.com/4_MuGVjsQ.jpg)
-![](http://i.markdownnotes.com/55.jpg)
+![enter image description here](https://lh3.googleusercontent.com/qjwxX2XuwTqQk4BsmiPBSTjc_SlW9LWb8yQ_cmM6HE5dN-ZXcvzkjkByBkybv_uQniB_8ux_x6HO)
+
+![enter image description here](https://lh3.googleusercontent.com/TiG2YsnfzCT7A5DYSLJFTcaH1i9aOzlBB1fiu3NKb4gfr1heQ_ABSTITPavQWKgUZgv8N5EIOBfy)
+
 
 ## Datos precomputados
 
 Podes calcularcosas en el data model y despues mostrarlas organizadas en un pivot table (por mes, nombre, etc)
 
 EJ: **precomputar la suma de los precios en el modelo y despues en el pivot table mostrar el avg de precio por categoria de producto**
+![enter image description here](https://lh3.googleusercontent.com/1nxmHB1s_YqZ5FycOR6Y31POC6hkKQx0Xm81A8Bx9mpZglReymw1bGLaU_IuwPvH0FFec1fnSrC5)
 
-![](http://i.markdownnotes.com/4444.jpg)
 
 # Agrupar y desagrupar datos
 
 Podes generar un grupo para ocultar/mostrar datos y **generar un UI para colapsar datos facilmente**
 
 
-![](http://i.markdownnotes.com/66.jpg)
+
 
 # Consolidar datos
 
@@ -633,5 +635,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjczNjIwNSwxMjIxOTUwNjQ2XX0=
+eyJoaXN0b3J5IjpbMTMyMjQ5ODY5NiwxMjIxOTUwNjQ2XX0=
 -->
