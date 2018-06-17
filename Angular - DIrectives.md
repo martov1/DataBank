@@ -200,7 +200,8 @@ ngSwitch no tiene un valor o el valor no es un ngSwitchCase
 </div>
 ````
 
-![](![http://i.markdownnotes.com/switch-anim.gif](http://i.markdownnotes.com/switch-anim.gif))
+
+![](http://i.markdownnotes.com/switch-anim.gif)
 
 
 ---
@@ -239,5 +240,5 @@ Uso:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTUxMTEwMV19
+eyJoaXN0b3J5IjpbNDQ2NzU0OTk0XX0=
 -->
