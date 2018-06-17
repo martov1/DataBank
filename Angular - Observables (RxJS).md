@@ -159,7 +159,7 @@ Podes encadenar operators de dos formas
 **Chaining**
 
 Como cada operator devuelve otro observable, podes encadenarlos asi
-````
+````js
 const source = from([1, 2, 3, 4, 5, 6, 7, 8, 9]);
 
 source
@@ -175,7 +175,7 @@ source
 
 Importas los operators como funciones independientes, y los colocas como argumentos de la funcion pipe
 
-````
+````js
 import { from, retry } from 'rxjs/operators';
 
 const source = from([1, 2, 3, 4, 5, 6, 7, 8, 9]);
@@ -189,7 +189,7 @@ const source = from([1, 2, 3, 4, 5, 6, 7, 8, 9]);
 
 Cada vez que un observer **emite un valor**, switchmap **crea un observer nuevo**, si ya habia creado uno antes entonces **descarta el anterior**.
 
-````
+````js
 const stream1 = Rx.Observable.interval(4000)
 
 const resultado = stream1.switchMap(valor => {
@@ -204,7 +204,7 @@ resultado.subscribe(
 ````
 
 por cada valor nuevo de stream1 se crea un observador hijo nuevo y se descarta el anterior
-````
+````js
 valor de stream1  0			
       0						//instancio un observer stream2
       1
@@ -223,7 +223,7 @@ etc....
 ````
 
 > Por esto se llama tambien **flatmap**, porque en vez de devolver un array de arrays con el resultado de cada observable, te da un array de resultados.
-````
+````js
 //flatmap
 ['a','b','c'].switchmap(function(e) {
     return [e, e+ 'x', e+ 'y',  e+ 'z'  ];
@@ -239,7 +239,7 @@ etc....
 
 **mergemap** es igual, pero no descarta las instancias de stream2 que se van creando.
 
-````
+````js
 valor de stream1  0			
       0						//instancio un observer stream2
       1
@@ -261,7 +261,7 @@ etc....
 
 Se usa cuando **tenes multiples observables** y te interesa obtener **el valor final de todos**. por ejemplo **cuando terminan varios http requests**
 
-````
+````js
 const example = forkJoin(
   //emit 'Hello' immediately
   of('Hello'),
@@ -281,7 +281,7 @@ const subscribe = example.subscribe(val => console.log(val));
 ### Concat
 
 Forma un queue de observables. **se hacen uno por uno en orden**
-````
+````js
 //emits 1,2,3
 const sourceOne = of(1, 2, 3);
 //emits 4,5,6
@@ -295,7 +295,7 @@ const example = concat(sourceOne, sourceTwo);
 ### merge
 
 **Transforma muchos observables en uno solo**
-````
+````js
 //emit every 2.5 seconds
 const first = interval(2500);
 //emit every 2 seconds
@@ -320,7 +320,7 @@ const subscribe = example.subscribe(val => console.log(val));
 ### Race
 
 agarras el observable que sea el primero que emita un valor
-````
+````js
 //take the first observable to emit
 const example = race(
   //emit every 1.5s
@@ -341,7 +341,7 @@ const subscribe = example.subscribe(val => console.log(val));
 
 Cada vez que se emita, agarras el valor actual y el ultimo valor emitido. ambos son integrantes de un array
 
-````
+````js
 //Returns: [0,1], [1,2], [2,3], [3,4], [4,5]
 interval(1000)
   .pipe(pairwise(), take(5))
@@ -353,7 +353,7 @@ interval(1000)
 
 Espera a que **todos** los observables emitan un valor y luego emite los valores como array, repite esto cuando **todos** los observables emitan otro valor
 
-````
+````js
 const example = zip(
   sourceOne,
   sourceTwo.pipe(delay(1000)),
@@ -369,7 +369,7 @@ const subscribe = example.subscribe(val => console.log(val));
 vuelve a crear el observable y vuelve a intentar en caso de error. la cantidad de veces a reintentar esta sujeta al attributo que coloques
 
 
-````
+````js
 const source = interval(1000);
 const example = source.pipe(
   mergeMap(val => {
@@ -389,7 +389,7 @@ const example = source.pipe(
 
 Te permite atajar un valor del observable en algun momento de la cadena de operadores y hacer algo arbitrario con ese valor. No te permite modificarlo y enviar la modificacion mas abajo de la cadena.
 
-````
+````js
 //transparently log values from source with 'do'
 const example = source.pipe(
   tap(val => console.log(`BEFORE MAP: ${val}`)),
@@ -450,5 +450,5 @@ subject.subscribe(valor => console.log('consumer B: ' + valor));
 subject.next('valor');
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjI3MDM5LC05OTA5MTUxNjJdfQ==
+eyJoaXN0b3J5IjpbLTE5NTE0NTUwNzcsLTk5MDkxNTE2Ml19
 -->
