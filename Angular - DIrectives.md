@@ -41,7 +41,7 @@ Las directivas son basicamente componentes sin templates que se encargan de muta
 
 Repite el elemento en ngForel que se encuentra la directiva una vez por cada elemento dentro del array "heroes". podes acceder a cada objeto iterado usando hero
 
-````
+````html
  <h1>{{title}}</h1>
   <h2>My favorite hero is: {{myHero}}</h2>
   <p>Heroes:</p>
@@ -53,18 +53,18 @@ Repite el elemento en ngForel que se encuentra la directiva una vez por cada ele
 ````
 
 Tambien podes obtener el **index**
-````
+````html
 <div *ngFor="let hero of heroes; let i=index">{{i + 1}} - {{hero.name}}</div>
 ````
 
 Tambien podes indicarle a Angular **cuando tiene que recrear los elementos del DOM y cuando no**, ya que por default **al detectar un cambio destruye y recrea todos los elementos de la lista**
 
 EJ: ejecute trackByHeroes() para cada elemento, si devuelve algo diferente que la vez anterior entonces cambia **ese elemento** del DOM
-````
+````js
 trackByHeroes(index: number, hero: Hero): number { return hero.id; }
 ````
 
-````
+````html
 <div *ngFor="let hero of heroes; trackBy: trackByHeroes">
   ({{hero.id}}) {{hero.name}}
 </div>
@@ -238,5 +238,5 @@ Uso:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjY4OTMxNzhdfQ==
+eyJoaXN0b3J5IjpbLTE0MzM3MDE4NjJdfQ==
 -->
