@@ -138,25 +138,26 @@ Si usas **custom scaling options podes escalar aumentando el tamaño**
 
 Tambien podes **indicar los margenes y los anchos de cada columna y fila de manera interactiva**
 ![enter image description here](https://lh3.googleusercontent.com/gu3e0bg9sYCgCsfAD9CA-lY9Wtep5GRaajlYW070R_JX08r76doOoZdetpNy-qhgD6sjikwYsOOy)
-![](http://i.markdownnotes.com/hhh_4U8RATP.jpg)
+
 
 ### Page layout
 
 Podes acceder al page layout asi:
 
 
-![](http://i.markdownnotes.com/gggg.jpg)
+![enter image description here](https://lh3.googleusercontent.com/Ml5eNMVk7-IDRpRG6Qu2o5dB-wwbfsG7tgKr5hvxo2igsW-RKROR8iQfLmNecOFtwP40N5p4fJVX)
 
 **desde ahi podes arrastrar y resizear los elementos a gusto hasta que entren**
 
 Ademas podes **añadir headers y footers clickenado en esa area** 
 
-![](http://i.markdownnotes.com/gggg_36Ro3Lr.jpg)
+![enter image description here](https://lh3.googleusercontent.com/_-J-A2U9DPhoY6_rV4B3WfPrScd_aul24ryWmLbZliri5hF7p8aq5VFKlC5LrX9D-2ghkZRllqlE)
 
 ### Print area
 
 Podes imprimir una subseccion de l documento usando **print area**
 Para remover el print area apreta en la flechita del icono
+
 
 ![](http://i.markdownnotes.com/hhhhhh.jpg)
 
@@ -624,5 +625,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTYzNjc0NV19
+eyJoaXN0b3J5IjpbNTY2MzM4NjA3XX0=
 -->
