@@ -216,7 +216,7 @@ En el template se implementa de la siguiente forma
 ````
 
 Mas concretamente
-```` 
+```` html
 <!-- en el template-->
 <miComponente [(miVariable)]="miOtraVariable" >
 	{{miOtraVariable}}
@@ -232,7 +232,7 @@ Para implementarlo en el componente necesitas:
 
 Lo que hace angular entonces con la expresion del template es analogo a hacer un **property binding** para **setear una variable en el view** y un **event listener** para **actualizarla en el componente** cuando cambie en el view.
 
-```` 
+```` html
 <!-- en el template-->
 <miComponente 
 [miVariable]="miOtraVariable" 				//property binding comun: component->view
@@ -247,13 +247,13 @@ Lo que hace angular entonces con la expresion del template es analogo a hacer un
 EJ:
 
 En el template
-````
+````html
 <app-sizer [(size)]="fontSizePx">
 </app-sizer>
 ````
 
 en el component
-````
+````js
 import { Component, EventEmitter, Input, Output } from '@angular/core';
 // En el Template hay botones para cambiar la variable target mediante
 //Una funcion que ademas emite un evento para notificarle al view del cambio
@@ -294,7 +294,7 @@ La sintaxis para la variable que queres referenciar es
 * **ref-nombreDeVariable**
 
 Ej en un elemento del DOM con propiedades estandar
-````
+````html
 //guardo este DOM element en #phone
 <input #phone placeholder="phone number"> 
 //accedo a su propiedad  nativa·"value" y la uso.
@@ -305,7 +305,7 @@ Ej en un elemento del DOM con propiedades estandar
 Ej en una directiva, en este caso NgForm
 
 *Nota: recorda que cuando importas FormsModule todos los tags  `<form>` se transforman en directivas NgForm*
-````
+````html
 //accedi a las variables de esta instancia de NgForm
 <form (ngSubmit)="onSubmit(heroForm)" #heroForm="ngForm">
   <div class="form-group">
@@ -327,7 +327,7 @@ Ej en una directiva, en este caso NgForm
 Son **funciones simples** que **transofrman un input antes de mostrarlo en el template**, hacen cosas como colocar simbolos, agregar mayusculas, pasar todo a mayusculas/minusculas, etc.
 
 Utilizan el simbolo de pipe **|**
-````
+````html
 //La sintaxis es:
 // {{ variable | nombreDeFuncionPipe }}
 // Por ejemlo:
@@ -351,5 +351,5 @@ Utilizan el simbolo de pipe **|**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjUxNzQ3MiwxMTY4MzYwNDAyXX0=
+eyJoaXN0b3J5IjpbLTQ3OTEzOTYxNSwxMTY4MzYwNDAyXX0=
 -->
