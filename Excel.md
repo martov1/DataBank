@@ -398,8 +398,8 @@ es una funcion que se puede anidar en un IF o cualquier otra funcion logica
 ## Anidacion de funciones
 
 Podes anidar funciones libremente.
+![enter image description here](https://lh3.googleusercontent.com/ocMx9k01QJaNd2A5OhGCqr5WsttRGTgg6v00hGyJPMXwqULkKSzPdbFc7NkPFDNOYCxP4x6DTOGa)
 
-![](http://i.markdownnotes.com/5566.jpg)
 
 ## CountIF
 
@@ -407,8 +407,8 @@ Te permite contar/sumar los records que cumplen con una condicion
 
 Acepta el rango de records y una condicion o un valor que buscar para ver si es true
 
+![enter image description here](https://lh3.googleusercontent.com/w_mcZnAt4yYJwQMECqYgjv-NMOUZVwoeYkl3B5VwPepxS2B2JQVCG3YwfR0p0-c-hy7wEdqj3GNa)
 
-![](http://i.markdownnotes.com/555656.jpg)
 
 
 ## SumIf
@@ -420,7 +420,8 @@ Te permite sumar una cantidad de records que cumplan con una condicion
 * **Criteria:** El criterio que se va a usar para determiar si se suma o no
 * **sum_range:** El valor que se va a sumar (cada elemento en range es un criterio para sumar cada elemento de sum_range)
 
-![](http://i.markdownnotes.com/89999.jpg)
+![enter image description here](https://lh3.googleusercontent.com/87ILFsUgdaYkK-683nswe998iuzexWMLMdtH6VOYDVXaJYmhtUD37J17JRdyys8bdEDvMgm8xmze)
+
 
 ## CountIFS, SumIFS..
 
@@ -638,5 +639,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE1MzM5ODIsMTIyMTk1MDY0Nl19
+eyJoaXN0b3J5IjpbNTQ2MzUxMDE5LDEyMjE5NTA2NDZdfQ==
 -->
