@@ -1,8 +1,4 @@
 
-
-
-      
-	  
 Ver structural directives
 https://angular.io/guide/structural-directives
 
@@ -242,5 +238,5 @@ Uso:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzYxMzYyMzBdfQ==
+eyJoaXN0b3J5IjpbNzY2Mzg1NDY2XX0=
 -->
