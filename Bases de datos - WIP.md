@@ -46,8 +46,8 @@ https://www.youtube.com/watch?v=698GsCsmXIk&list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeX
 		* Indexacion  - **POBRE**
 		* Relaciones - **POBRE**
 	* Querys  - **WIP**
-		* Closure y Compositionality  -**  WIP**
-	* Relational agebra ** - RE WIP**
+		* Closure y Compositionality  - **WIP**
+	* Relational agebra **- RE WIP**
 	* SQL
 * Diseño de bases de datos relacionales **- WIP**
 	* Anomalias
@@ -71,9 +71,9 @@ https://www.youtube.com/watch?v=698GsCsmXIk&list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeX
 
 
 
-#Intro
+# Intro
 
-##Caracteristicas de las bases de datos
+## Caracteristicas de las bases de datos
 
 Los sistemas de bases de datos estan diseñados para:
 
@@ -84,7 +84,7 @@ Los sistemas de bases de datos estan diseñados para:
 * **Gran Abstraccion:** Las instrucciones para extraer los datos (sql o otra abstraccion) son independientes de la eleccion de algoritmo que la base de datos use para sacar esos datos ó para almacenarlos.
 * **Eficiente:** Es Increiblemente eficiente y optimizado.
 
-##Glosario
+## Glosario
 
 Las siguientes definiciones son muy necesarias para hablar sobre bases de datos
 
@@ -112,7 +112,7 @@ Las siguientes definiciones son muy necesarias para hablar sobre bases de datos
 
 
 
-#Modelo relacional
+# Modelo relacional
 
 El modelo relacional es un modelo en el cual:
 
@@ -132,7 +132,7 @@ En este sistema:
 * **Consistencia** de la base de datos esta formada por un **schema predefinido y rigido** que indica como deben estar conformados los **tuples** y son enforceadas por el DBMS
 * Basado en algebra relacional
 
-##Key
+## Key
 
 **Un atributo que es unico para ese Ntuple**, generalmente un 
 * UserID
@@ -150,27 +150,27 @@ Un **Ntouple1** puede referirse a un **Ntuple2** que tiene informacion adicional
 
 ![](http://i.markdownnotes.com/defaul1.jpg)
 
-###Indexacion
+### Indexacion
 
 Los DBMS usan keys para ordenar (indexar) los **Ntuples** de tal forma que buscarlos usando ese key sea extremadamente rapido
 
 
 
-##Querys y SQL
+## Querys y SQL
 
 Las **querys** en una base de datos relacional se hacen usando un **high level language** que generalmente es SQL, de esta forma **no necesitamos saber el algornitmo elegido por el DBMS, solo debemos expresar que es lo que deseamos y el sistema lo hace por nosotros**
 
 En este caso **SQL** cumple la funcion de **DDL y DML**.
 
 
-###Closure y Compositionality
+### Closure y Compositionality
 
 **Compositionality:** La capacidad de realizar una query sobre el resultado de otra query
 
 **Closure:**
 
 
-##Relational agebra
+## Relational agebra
 
 Es un **lenguaje formal matematico** que forma la base de los lenguajes implementados para describir querys en una base de datos.
 
@@ -242,7 +242,7 @@ Los operadores **CORE** son aquellos que no se pueden definir con otros operador
 | $\rho_{R(a_1,a_2...a_n)}$	         |    					   |
 
 
-##SQL
+## SQL
 
 Es un lenguaje implementado en base a la relational agebra y su semantica viene principalmente de ahi. Para mas informacion ver _lenguajes/sql_
 
@@ -257,14 +257,14 @@ Sus instrucciones se dividen en:
 
 
 
-#Diseño de bases de datos relacionales
+# Diseño de bases de datos relacionales
 
 En general, se refiere al **_diseño de base de datos relacionales_** a la **seleccion de schemas que se va a usar**.
 
 Existen formas de diseñar las bases de datos que minimizan los problemas a la hora de buscar y modificar informacion.
 
 
-##Anomalias
+## Anomalias
 
 Las anomalias en una base de datos relacional son fenomenos que dificultan el trabajo del administrador de base de datos y que pueden ser evitados usando un schema diferente.
 
@@ -291,7 +291,7 @@ Es cuando borrar una representacion genera el borrado de otra. por ejemplo, si b
 
 
 
-##Functional Dependencies
+## Functional Dependencies
 
 Functional dependency es un concepto general que se aplica en varios campos de la computacion, entre ellos la compresion de datos, optimizacion de querys, etc.
 
@@ -302,7 +302,7 @@ Basicamente una dependencia funcional es la implicacion de que **si existe** un 
 * **No necesariamente** para un **unico nombre y apellido existe un solo DNI** (puede haber varios juan perez) 
 
 
-###Dependencia singular
+### Dependencia singular
 >Es el concepto de que un elemento $B$ aparece siempre con un elemento $A$. Osea que:
 $A \Rightarrow B$
 
@@ -319,7 +319,7 @@ Aca, **DNI** seria $A$ y **nombre** seria $B$, ya que
 | 37.222.222 | Juan   | Quimica                   |
 | 37.222.222 | Juan   | Fisica                    |
 
-###Dependencia multiple
+### Dependencia multiple
 
 >Es el concepto de que una serie de elementos $B_{attr_1},B_{attr_2},B_{attr_3}$ aparece **siempre** que aparece una serie de elementos $A_{attr_1},A_{attr_2},A_{attr_3}$. Simbolizamos esto como una clase de equivalencia:
 $\bar{A} \Rightarrow \bar{B}$
@@ -348,14 +348,14 @@ No asi para **carrera** y **materia** $\bar{C}$, ya que un alumno puede estar an
 >$\bar{A} \Rightarrow \bar{B}$
 
 
-###Identificar functional dependencies
+### Identificar functional dependencies
 
 Las **Functional dependencies** dependen del contexto de los datos y que se asume de ellos, por ejemplo as arriba asumimos que un **DNI** esta siempre **asociado** a un **nombre, apellido y domicilio** y por ende hay una **Relacion funcional**, esto es porque **conocemos la naturaleza del DNI**.
 
 De esta forma, **identificamos relaciones funcionales  cuando los datos y el contexto lo permite.**
 
 
-###Formalizacion como clase de equivalencia
+### Formalizacion como clase de equivalencia
 
 Podemos identificar formalmente las **functional dependencies** como clases de equivlencia, ya que.
 
@@ -366,7 +366,7 @@ $a_1=a_2=a_3 \Rightarrow b_1=b_2=b_3$
 $\bar{A} \Rightarrow \bar{B}$
 
 
-##Closure y FDs como keys
+## Closure y FDs como keys
 
 Dada una o mas **Funcional relations** $\bar{A} \Rightarrow \bar{B}$ se denomina **Closure** a la suma de $\bar{A}$ y toda la informacion $\bar{B}$ que puede ser obtenida solo con $\bar{A}$
 
@@ -374,7 +374,7 @@ A su vez, Si existe una **Functional relation** $\bar{B} \Rightarrow \bar{C}$, e
 
 >Si el **Closure** de $\bar{A}$ resulta ser toda la relacion $R$ entonces podemos decir que **$\bar{A}$ es un key de $R$**
 
-##Multi-Valued Dependencies (MVD) 
+## Multi-Valued Dependencies (MVD) 
 
 Multi-Valued Dependencies es cuando cada valor $a \in A$ esta asociado a multiples valores $\quad b_1,b_2.. \in B \quad$ y $\quad c_1,c_2.. \in C\quad$
 Pero $B$ y $C$ no estan asociados entre si.
@@ -397,14 +397,14 @@ Por ejemplo, cada **DNI** $A$ puede estar asociado a multiples **materias** $B$ 
 >**Notese como aparecen duplicados para poder colocar todas las combinaciones de $B$ y $C$**
 
 
-##Normalizado
+## Normalizado
 
  Es el proceso de organizar los schemas de tal forma que queden:
  * **Sin anomalias**
  * **Sin perdida de informacion**
 
 
-###Boyce–Codd normal form
+### Boyce–Codd normal form
 
 Es un metodo de normalizacion **cuyo objetivo es remover la rebundancia causada por las Functional dependencies**, no genera una normalizacion perfecta ya que **otros tipos de rebundancia pueden persistir** en una base de datos que esta en **BCNF**
 
@@ -495,7 +495,7 @@ Donde asocias las keys de $R_1$ y $R_2$, ya que no existe una **Functional depen
 | 39.555.444  | Fisica         | Fisica 1       |
 
 
-###Fourth normal form
+### Fourth normal form
 
 Es un metodo de normalizacion cuyo objetivo es remover la rebundancia causada por las **Multi-Valued dependencies**. Una DB que esta en **Fourth normal form ya se encuentra siempre en BCNF**
 
@@ -545,7 +545,7 @@ De esta manera **eliminamos la redundancia**
 | 37.222.222  | Algebra 1      |
 | 39.555.444  | Fisica 1       |
 
-##De-Normalizacion
+## De-Normalizacion
 
 No siempre conviene que la base de datos este **totalmente normalizada**, muchas veces es aceptable tener **anomalias** si **encaja mejor con el diseño o el uso que se le va a dar a los datos.**
 
@@ -554,5 +554,5 @@ Por ejemplo:
 * Tiene mas sentido logico tener un conjunto de datos en la misma tabla que normalizarlo en varias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2OTQ0MzM5LDg3MTU5NDY5N119
+eyJoaXN0b3J5IjpbLTE4NjU2OTE5OSw4NzE1OTQ2OTddfQ==
 -->
