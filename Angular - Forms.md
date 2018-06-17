@@ -77,7 +77,7 @@ NgForm tiene las siguientes propiedades y metodos:
 
 EJ:
 
-````
+````html
 <form (ngSubmit)="onSubmit()" #miForm="ngForm">
 	
 	<!-- submit no habilitado si los datos no son validos -->
@@ -104,7 +104,7 @@ cada instancia de la directiva ngModel:
 
 #### La sintaxis es
 
-````
+````html
 <input type="text"  
 	
 	[(ngModel)]="variableModelo" // two way data binding
@@ -369,5 +369,5 @@ Tambien podes usar **Validator functions** si fuera necesario, que pueden ser
 
 > hay funciones validator predefinidas con los mismas funciones de validacion que la validacion HTML
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODY4NTM3NF19
+eyJoaXN0b3J5IjpbODExMDA0NTIwXX0=
 -->
