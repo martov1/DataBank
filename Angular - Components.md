@@ -1,25 +1,25 @@
 
 
      
-#Contenido:
+# Contenido:
 
-* [Que es](##Estructura)
-* [Estructura](##Estructura)
-* [Metadata](##Metadata)
-* [Propiedades y metodos](##Propiedades y metodos)
-* [CSS y estilos](##CSS y estilos)
-* [Proyeccion de contenido](##Proyeccion de contenido)
-* [lyfeCycle hooks](##lyfeCycle hooks)
-* [Data binding](##Data Binding)
-* [API del componente con @Input and @output](##API del componente con @Input and #output)
-	* [Alias para la API](#####Alias para la API)
-	* [Getters y setters](###Getters y setters)
-* [Comunicacion entre componentes](##Comunicacion entre componentes)
-	* [Mediante los templates](###Mediante los templates)
-	* [Inyectar child components/Elements/Directives](###Inyectar child components/Elements/Directives)
-		* [@ViewChild / @ViewChildren](###@ViewChild / @ViewChildren)
-		* [@ContentChildren / @ContentChil](###@ContentChildren / @ContentChil)
-* [Crear componentes dinamicamente](##Crear componentes dinamicamente)
+* Que es
+* Estructura
+* Metadata
+* Propiedades y metodos
+* CSS y estilos
+* Proyeccion de contenido](##Proyeccion de contenido)
+* lyfeCycle hooks](##lyfeCycle hooks)
+* Data binding](##Data Binding)
+* API del componente con @Input and @output](##API del componente con @Input and #output)
+	* Alias para la API](#####Alias para la API)
+	* Getters y setters](###Getters y setters)
+* Comunicacion entre componentes](##Comunicacion entre componentes)
+	* Mediante los templates](###Mediante los templates)
+	* Inyectar child components/Elements/Directives](###Inyectar child components/Elements/Directives)
+		* @ViewChild / @ViewChildren](###@ViewChild / @ViewChildren)
+		* @ContentChildren / @ContentChil](###@ContentChildren / @ContentChil)
+* Crear componentes dinamicamente](##Crear componentes dinamicamente)
 
 
 ##Que es
@@ -519,5 +519,6 @@ Podes usar **componentFactoryResolver** para instanciar un componente a partir d
 })
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjAyNzAyMDNdfQ==
+eyJoaXN0b3J5IjpbLTE3NjIyMDI5NDYsLTE5MjAyNzAyMDNdfQ
+==
 -->
