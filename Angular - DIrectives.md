@@ -218,7 +218,7 @@ Algunas caracteristicas basicas son:
 ### Sintaxis:
 
 
-````
+````js
 import {Directive} from '@angular/core'
 
 @Directive({
@@ -233,11 +233,11 @@ export class MiDirectiva{
 ````
 
 Uso:
-````
+````html
 <p MySelector> contenido!</p>
 ````
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxOTE5ODgsLTc1NTIwOTA1LDQ0Njc1ND
-k5NF19
+eyJoaXN0b3J5IjpbMTg3OTgxMjg0MCwtNzU1MjA5MDUsNDQ2Nz
+U0OTk0XX0=
 -->
