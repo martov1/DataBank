@@ -31,7 +31,7 @@ https://angular.io/guide/http#security-xsrf-protection
 
 Antes que nada tenes que importar el modulo, hay que importarlo **despues de BrowserModule**
 
-````
+````js
 import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
@@ -45,7 +45,7 @@ import { HttpClientModule } from '@angular/common/http';
 
 Despues lo inyectas en tus componentes o servicios
 
-````
+````js
 import { HttpClient } from '@angular/common/http';
 
 @Injectable()
@@ -74,12 +74,12 @@ Podes hacer una solicitud **get**:
 
 
 sintaxis:
-````
+````js
   http.get<MiInterfaz>('Mi url donde hacer la solicitud');
 ````
 
 Parametros:
-````
+````js
       
       
 get(
@@ -106,7 +106,7 @@ get(
 
 
 Ejemplo:
-````
+````js
 // esta interfaz permite a typescript determinar como se vera la respuesta del server
 // y hacer typechecking
   interface misDatos {
@@ -124,7 +124,7 @@ Ejemplo:
 
 Tiene los mismos parametros que GET pero ademas acepta algo que enviar. principalmente un **js object** que envias como **json**
 
-````
+````js
   return this.http.post<MiInterfaz>(URL, objetoEnviado, httpOptions)
     .pipe(
       catchError(this.handleError('addHero', hero))
@@ -134,7 +134,7 @@ Tiene los mismos parametros que GET pero ademas acepta algo que enviar. principa
 
 ## Delete()
 
-````
+````js
 return this.http.delete(url, httpOptions)
     .pipe(
       catchError(this.handleError('deleteHero'))
@@ -143,7 +143,7 @@ return this.http.delete(url, httpOptions)
 
 ## Put()
 
-````
+````js
 
   return this.http.put<Hero>(this.heroesUrl, hero, httpOptions)
     .pipe(
@@ -155,7 +155,7 @@ return this.http.delete(url, httpOptions)
 
 Podes añadir parametros ó headers bien encodeados haces asi:
 
-````
+````js
 misParametros =  new HttpParams()
 	.set('nombreDeParametro1', Valor1) 
 	.set('nombreDeParametro2', Valor2) 
@@ -178,7 +178,7 @@ si hay un error entonces el **Observer** debera estar en condiciones de manejarl
 
 Esto es algo propio de los **Observables**, si no te acordas anda a mirar el documento de RxJS
 
-````
+````js
 
   this.miServicio.obtenerDatos()
     .subscribe(
@@ -424,5 +424,5 @@ return this.http.request(req).pipe(
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI3MDUwMzZdfQ==
+eyJoaXN0b3J5IjpbLTY5MjM3Njc5OCwtMTI4MjcwNTAzNl19
 -->
