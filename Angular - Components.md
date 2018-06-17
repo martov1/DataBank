@@ -443,7 +443,7 @@ import { ViewChild,ElementRef} from '@angular/core';
 ````
 
 *  **Class** (si pasas la clase de un componente se selecciona la primera instancia) 
-````
+````js
 // EN EL COMPONENTE
  @ViewChild(mycomponentClass) nombreDeVariable: mycomponentClass;
 ````
@@ -453,14 +453,14 @@ import { ViewChild,ElementRef} from '@angular/core';
 Identico a @ViewChild, pero sirve para seleccionar elementos que se insertaron en un componente mediante **proyeccion de contenido**
 
 EJ:
-````
+````html
 <tab>
 	<!-- quiero inyectar este contenido a mi componente tab -->
 	<p>My contenido proyectado</p>
 </tab>
 ````
 
-````
+````js
 @Component({
   selector: 'tab',
   template: `
@@ -483,7 +483,7 @@ Podes instanciar componentes en run-time si hiciera falta, por ejemplo si queres
 Podes usar **componentFactoryResolver** para instanciar un componente a partir de una clase. **Hay que instanciar los componentes en un ViewContainerRef**
 
 
-````
+````js
 // busco el contenedor donde quiero instanciar mi componente, necesito
 // un ViewContainerRef
   @ViewChild('myDiv', { read: ViewContainerRef }) divContainerRef: ViewContainerRef;
@@ -508,7 +508,7 @@ Podes usar **componentFactoryResolver** para instanciar un componente a partir d
 
 >Si el componente que queres instanciar **no fue instanciado antes en el template entonces hay que agregarlo al array entryComponents del modulo al cual pertenece**
 
-````
+````js
 @NgModule({
   declarations: [ ....... ],
   imports: [.......],
@@ -517,5 +517,5 @@ Podes usar **componentFactoryResolver** para instanciar un componente a partir d
 })
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDM3NTY4NiwtMTkyMDI3MDIwM119
+eyJoaXN0b3J5IjpbLTY1MDYxMjgyNywtMTkyMDI3MDIwM119
 -->
