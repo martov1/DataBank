@@ -5,10 +5,10 @@
 
 * Setup
 * Estructura de animaciones en angular
-* Definiendo las animaciones
- * Triggers
- * Estados
- * Transiciones
+	* Definiendo las animaciones
+	 * Triggers
+	 * Estados
+	 * Transiciones
  * Transiciones con cambios de estilo
  * :enter y :leave
  * Lectura de propiedades en runtime
@@ -254,5 +254,5 @@ Se coloca el nombre del **trigger** entre corchetes con una @, luego se coloca e
 ````
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDg2NjUyNF19
+eyJoaXN0b3J5IjpbMTcwNTgyNjg0XX0=
 -->
