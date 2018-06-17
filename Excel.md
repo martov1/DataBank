@@ -127,17 +127,17 @@ Una vez que hiciste eso, podes **editar el style haciendo click derecho en el ->
 
 Podes escalar para abajo una impresion para que encaje en la hoja de la siguiente manera.
 
-
+![enter image description here](https://lh3.googleusercontent.com/jC8JAQNpW-PLPfOyuu4RhBj-yIOTSWBFfuka4F76W0pJ_gA0l2y22qKhdp0Zu_EoaYqkqgXm1hvO)
 
 
 Si usas **custom scaling options podes escalar aumentando el tamaño**
 
 
-![](http://i.markdownnotes.com/ss_GxE7LHO.jpg)
+![enter image description here](https://lh3.googleusercontent.com/q9g11tzwHgLuEVYWZMzp5_UkekBCAzSS5-Z3dJ5OGhKSFPqTaOIozYvbq0wAXcl5mAM8z25QBKMj)
 
 
 Tambien podes **indicar los margenes y los anchos de cada columna y fila de manera interactiva**
-
+![enter image description here](https://lh3.googleusercontent.com/gu3e0bg9sYCgCsfAD9CA-lY9Wtep5GRaajlYW070R_JX08r76doOoZdetpNy-qhgD6sjikwYsOOy)
 ![](http://i.markdownnotes.com/hhh_4U8RATP.jpg)
 
 ### Page layout
@@ -624,5 +624,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODgwNDY0MThdfQ==
+eyJoaXN0b3J5IjpbMjA5MTYzNjc0NV19
 -->
