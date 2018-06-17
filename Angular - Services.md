@@ -70,8 +70,7 @@ constructor(private service: HeroService) { } //inyectas HeroService
 
 Para que el inyector sepa que HeroService existe, hay que decirselo. El inyector busca las cosas que puede inyectar en el array **providers** de cada modulo o componente.
 
-> ** hay que colocar los servicios en el array providers de un modulo o un componente 
-> para que pueda ser inyectado.**
+>  **hay que colocar los servicios en el array providers de un modulo o un componente  para que pueda ser inyectado.**
 
 ### Crucial
 
@@ -251,11 +250,8 @@ providers: [ LoggerService, UserContextService, UserService ]
 		 `{ provide: Hero,          useValue:    someHero  }`
 		 `{ provide: saludo,          useValue:    'hola'  }`
 	* **otro token** - Permite que dos o mas tokens mapeen al mismo servicio
- 
-		````
-		{ provide: token1,   useClass:    miServicio }
-		{ provide: token1, useExisting: token2 }
-	````
+			`{ provide: token1,   useClass:    miServicio }`
+			`{ provide: token1, useExisting: token2 }`
 	* **useFactory** - el token llama una funcion que usa ciertas dependencias y devuelve otra fuencion que devuelva el valor/clase/servicio
 		* `{ provide: RUNNERS_UP,    useFactory:  devuelvoFactory(algunValor), deps: [Hero, HeroService] }`
 		
@@ -266,5 +262,5 @@ providers: [ LoggerService, UserContextService, UserService ]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA5MjAzOTVdfQ==
+eyJoaXN0b3J5IjpbLTIwMjU2NzcxMV19
 -->
