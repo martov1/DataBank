@@ -352,23 +352,25 @@ EJ: **precomputar la suma de los precios en el modelo y despues en el pivot tabl
 Podes generar un grupo para ocultar/mostrar datos y **generar un UI para colapsar datos facilmente**
 
 
-
+![enter image description here](https://lh3.googleusercontent.com/ennvz8ptYn-mjLQOK3eDTjA30l0ttMkVMD7u-eR6-QxVE73Kl0npDOIA4UPR_3Xr_Q5yeqLDaKxf)
 
 # Consolidar datos
 
 Te permite tomar varias tablas y combinarlas en una sola haciendo sumas o contando los campos donde los valores son iguales
 
-![](http://i.markdownnotes.com/nhnhnh_jeLH5VQ.jpg)
+![enter image description here](https://lh3.googleusercontent.com/hU7A0bPkHY1qZbvcjpMDQSqEynVXOOzQl-PTnJnwWdg1I0xSFCJRvyBsXwFlKb7wk782hbEi8I4B)
 
 # Name ranges
 
 Te permite nomrar un rango para usar el nombre en tus cuentas
 
 Simplemente selectionas las cells que queres nombrar y escribis el nombre del grupo arriba a la derecha, luego apretas **enter**
-![](http://i.markdownnotes.com/333.jpg)
+![enter image description here](https://lh3.googleusercontent.com/9Ln8eMV6_dt2hB2zZ_aViLl_XRupw0Tf7IKYHAxl5kz34igKPWHLifIYQj_rDnbHJuSzZLLlA6rS)
+
 
 
 Luego podes usar ese nombre en otras formulas
+
 ![](http://i.markdownnotes.com/6666_GcKb3h4.jpg)
 
 # Funciones condicionales
@@ -635,5 +637,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjQ5ODY5NiwxMjIxOTUwNjQ2XX0=
+eyJoaXN0b3J5IjpbLTk2OTM0MjY3NiwxMjIxOTUwNjQ2XX0=
 -->
