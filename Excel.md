@@ -370,8 +370,8 @@ Simplemente selectionas las cells que queres nombrar y escribis el nombre del gr
 
 
 Luego podes usar ese nombre en otras formulas
+![enter image description here](https://lh3.googleusercontent.com/VaqmXlwTIidm-z8ySNLuMx54JgGvKixrBTW9i9lBNPWW5artaBDH5AANCXWdmuI7Fg1IAHaOBrq7)
 
-![](http://i.markdownnotes.com/6666_GcKb3h4.jpg)
 
 # Funciones condicionales
 
@@ -381,16 +381,16 @@ Usa un condicional para determinar el contenido de un cell.
 
 la condicion puede ser una compaacion de dos o mas cells.
 Los valores pueden ser un cell o un valor
+![enter image description here](https://lh3.googleusercontent.com/ZxZ7O8VHF9B8GWeh_mhmrTUAUoHcGLFNVsHdBhqhB7b8X2gJIpZa3erkUsvx0pob1pO5z-NCYwFd)
 
-![](http://i.markdownnotes.com/4545.jpg)
 
 ## AND
 
 es una funcion que se puede anidar en un IF o cualquier otra funcion logica
 **permite corroborar que N condiciones son true con un AND estre ellas**
 
+![enter image description here](https://lh3.googleusercontent.com/fnN6lwUUYGiP7UEAWDceG5FSCKD47PIrMZka_sZQHgnKdFa2jww2SLX04RIMoTAJ7xSCLpqF6YFF)
 
-![](http://i.markdownnotes.com/3333333.jpg)
 
 
 
@@ -398,6 +398,7 @@ es una funcion que se puede anidar en un IF o cualquier otra funcion logica
 ## Anidacion de funciones
 
 Podes anidar funciones libremente.
+
 ![](http://i.markdownnotes.com/5566.jpg)
 
 ## CountIF
@@ -637,5 +638,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTM0MjY3NiwxMjIxOTUwNjQ2XX0=
+eyJoaXN0b3J5IjpbLTIxMDE1MzM5ODIsMTIyMTk1MDY0Nl19
 -->
