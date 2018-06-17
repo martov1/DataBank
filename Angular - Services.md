@@ -6,14 +6,14 @@ https://angular.io/guide/dependency-injection-in-action#provider-token-alternati
 # Contenido:
 
 * Que es
-* Dependency Inyection, uso](##Dependency Inyection)
-* Service instances](##Service instances)
-	* Modulos sin lazy loading]
-	* modulos con lazy loading]
-	* Mencion en providers de dos modulos diferentes]
-	* [Mencion en providers de un componente]
-* [Lazy loading y service shadowing](##Lazy loading y service shadowing)
-* [Dependecy inyection](##Dependecy inyection)
+* Dependency Inyection, uso
+* Service instances
+	* Modulos sin lazy loading
+	* modulos con lazy loading
+	* Mencion en providers de dos modulos diferentes
+	* Mencion en providers de un componente
+* Lazy loading y service shadowing
+* Dependecy inyection
 	* Inyeccion de servicios
 	* Inyeccion de valores
 	* Inyector chain, @host y @optional
@@ -35,7 +35,7 @@ Algunos ejemplos:
 *    application configuration
 
 Un ejemplo de un servicio
-````
+````js
 @inyectable()
 export class HeroService {
   private heroes: Hero[] = [];
@@ -61,7 +61,7 @@ export class HeroService {
 Es la forma que tiene angular de proveerle a las instancias de las clases con las dependencias que necesitan, **principalmente servicios**.
 
 Se realiza generalmente en el **constructor** de los componentes o de otros servicios
-````
+````js
 constructor(private service: HeroService) { } //inyectas HeroService
 ````
 
@@ -265,6 +265,6 @@ providers: [ LoggerService, UserContextService, UserService ]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE3NzExMTUsLTExMjgwOTc5ODVdfQ
+eyJoaXN0b3J5IjpbLTE4NDM2NDQzNTEsLTExMjgwOTc5ODVdfQ
 ==
 -->
