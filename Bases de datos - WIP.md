@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=698GsCsmXIk&list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeX
 * De-Normalizacion
 
 
-#Contenido
+# Contenido
 
 
 * Intro
@@ -43,10 +43,10 @@ https://www.youtube.com/watch?v=698GsCsmXIk&list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeX
 	* Glosario
 * Modelo relacional
 	* Key 
-		* Indexacion ** - POBRE**
-		* Relaciones ** - POBRE**
-	* Querys ** - WIP**
-		* Closure y Compositionality  ** - WIP**
+		* Indexacion  - **POBRE**
+		* Relaciones - **POBRE**
+	* Querys  - **WIP**
+		* Closure y Compositionality  -**  WIP**
 	* Relational agebra ** - RE WIP**
 	* SQL
 * Diseño de bases de datos relacionales **- WIP**
@@ -554,5 +554,5 @@ Por ejemplo:
 * Tiene mas sentido logico tener un conjunto de datos en la misma tabla que normalizarlo en varias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxNTk0Njk3XX0=
+eyJoaXN0b3J5IjpbNjQ2OTQ0MzM5LDg3MTU5NDY5N119
 -->
