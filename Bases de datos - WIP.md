@@ -149,7 +149,7 @@ En este sistema:
 Un **Ntouple1** puede referirse a un **Ntuple2** que tiene informacion adicional teniendo en uno de sus **atributos** una **key de Ntuple2**
 
 
-
+![enter image description here](https://lh3.googleusercontent.com/MI43KpSDlqzz4jA6qMGIkFLCF2aXYllDGvsxMlu_oGpLIYzvc-nQL1RInMK62K0wE3agY7kU9HiL)
 ### Indexacion
 
 Los DBMS usan keys para ordenar (indexar) los **Ntuples** de tal forma que buscarlos usando ese key sea extremadamente rapido
@@ -554,6 +554,5 @@ Por ejemplo:
 * Tiene mas sentido logico tener un conjunto de datos en la misma tabla que normalizarlo en varias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTQxNTAyNywtMTg2NTY5MTk5LDg3MT
-U5NDY5N119
+eyJoaXN0b3J5IjpbNDU3NzM3MjAwXX0=
 -->
