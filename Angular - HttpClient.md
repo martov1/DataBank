@@ -235,7 +235,7 @@ return next.handle(miRequestInterceptada2);
 ````
 
 Ejemplo:
-````
+````js
 import {
   HttpEvent, HttpInterceptor, HttpHandler, HttpRequest
 } from '@angular/common/http';
@@ -260,7 +260,7 @@ export class miInterceptor implements HttpInterceptor {
 
 El interceptor usado para modificar la respuesta es el mismo que el que se usa para modificar la request. lo unico que tenes que hacer es usar el observable **next.handle(req)**, lo que coloques como operador despues de el se ejecuta **despues de todos los intercepts de salida y de que la request haya salido y vuelto del server** y por lo tanto funcionara sobre la **respuesta del server**
 
-````
+````js
 intercept(req: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>> {
     
     return next.handle(req).map((event: HttpEvent<any>) => {
@@ -281,7 +281,7 @@ Si algo falla en el observable **next.handle(req)** entonces podes **atajar el e
 
 PERO Si quisieras **manejarlo dentro del interceptor, podes!** solo tenes que usar el RxJS operator **catch()** que hace que **en lugar de ir a la funcion error del observer, correr una funcion y devolver otro observable**
 
-````
+````js
 intercept(req: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>> {
     
     return next.handle(req)
@@ -305,16 +305,15 @@ Una vez que tenes tu clase que implementa **interceptor()**, tenes que** proveer
 
 >Internamente los providers actuan como dependencias de HttpClient, asi que **hay que definirlos antes de que angular instancia HttpClient**
 
-**Para añadir interceptors a un array de providers, hay que hacerlo asi:
-**
-````
+**Para añadir interceptors a un array de providers, hay que hacerlo asi:**
+````js
 { provide: HTTP_INTERCEPTORS, useClass: miInterceptor, multi: true },
 { provide: HTTP_INTERCEPTORS, useClass: miInterceptor2, multi: true },
 { provide: HTTP_INTERCEPTORS, useClass: miInterceptor3, multi: true }
 ````
 
 **O ponerlos todos en un solo provider**
-````
+````js
 /** en alguna clase: */
 export const MisInterceptores = [
   { provide: HTTP_INTERCEPTORS, useClass: miInterceptor, multi: true },
@@ -424,6 +423,6 @@ return this.http.request(req).pipe(
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk3MDM2NzgsLTEyODI3MDUwMzZdfQ
+eyJoaXN0b3J5IjpbLTE4MzcwNTgxOTcsLTEyODI3MDUwMzZdfQ
 ==
 -->
