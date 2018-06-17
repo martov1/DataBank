@@ -29,8 +29,7 @@
 
 La idea principal es que podes tener un **data stream** al cual estas **observando** y multiples **observadores** que hacen cosas cuando ese data stream **recibe nuevos valores**
 
-![](http://i.markdownnotes.com/aaa.png)
-
+![enter image description here](https://lh3.googleusercontent.com/zhKBn0oBE0zMZia_FyiFhIbcZ0aumdxTntrAE0Qg7FGLu38OvfyiL27re5PezhwD8OmaMUMaUUhN)
 
 **Un Observable invoca funciones en todos los observers que estan subscriptos cuando entra un dato nuevo.**
 
@@ -50,12 +49,12 @@ Es un **wrapper alrededor de un stream de datos** que sirve para observarlo, pue
 * **AJAX**
 
 Podemos crear uno ya predetermiado para **eventos de click** asi:
-````
+````js
 var observable = Rx.Observable.fromEvent(button, 'click')
 ````
 
 Lo podemos crear **desde cero** asi.
-````
+````js
 var observable = Rx.Observable.create(function (observer) {
   observer.next(1); //Devolvemos un dato a los observers usando sus next()
   observer.next(2); //Devolvemos un dato a los observers usando sus next()
@@ -77,7 +76,7 @@ Es un objeto con funciones que **hacen algo con los datos nuevos de un Observabl
 **Algunos observables nunca llamara a la funcion completed** de sus observers porque no siempre tiene sentido (un click event listener nunca deberia terminar).
 
 Un observer se veria asi:
-````
+````js
 var observer = {
   next: (valor) => console.log('el valor es:  ' + valor),
   error: (err) => console.error(err),
@@ -91,19 +90,19 @@ var observer = {
 * puede haber **muchos observers subscriptos a un observable**
 * Cada vez que te suscribis a un observale estas creando **una instancia aparte**
 
-````
+````js
 observable.subscribe(observer)
 ````
 
 y desvincularte con 
-````
+````js
 observable.unsubscribe(observer)
 ````
 
 
 un ejemplo mas completo:
 
-````
+````js
 //configuro el observer
 var observer = {
   next: valor => console.log('el valor es:  ' + valor),
@@ -117,7 +116,7 @@ observable.subscribe(observer)
 ````
 
 Tambien podes declarar el observer de forma directa colocando las **funciones del observer como parametros de la funcion subscribe**. Al hacer esto la linea entre Observer y Observable se torna media dificil de ver.
-````
+````js
 var observable = Rx.Observable.fromEvent(button, 'click')
 observable.subscribe(
 (dato)=>{ mi funcion next},    			//el primer parametro es la funcion next      
@@ -451,5 +450,5 @@ subject.subscribe(valor => console.log('consumer B: ' + valor));
 subject.next('valor');
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDkxNTE2Ml19
+eyJoaXN0b3J5IjpbMTYxMjI3MDM5LC05OTA5MTUxNjJdfQ==
 -->
