@@ -1,3 +1,4 @@
+
 Quede en XSRF Protection
 https://angular.io/guide/http#security-xsrf-protection
 
@@ -328,17 +329,17 @@ providers: [  MisInterceptores],
 ### Orden
 
 El orden de los interceptors en el array de privders es el orden en el que seran usados.
-Si los interceptores son $$A,B,C$$ y **estan en ese orden en el array de providers**, entonces:
+Si los interceptores son $A,B,C$ y **estan en ese orden en el array de providers**, entonces:
 
-**los requests fluyen:** $$A \Rightarrow B \Rightarrow C$$
-**Los responses fluyen:** $$A \Leftarrow B \Leftarrow C$$
+**los requests fluyen:** $A \Rightarrow B \Rightarrow C$
+**Los responses fluyen:** $A \Leftarrow B \Leftarrow C$
 
 
 ### Modificar un request (inmutabilidad del request)
 
 Los requests son inmutables despues de que son creados, si queres modificar algo en un request que ya existe (que es lo que sucede en un interceptor) tenes que clonarlo, no vas a poder modificar sus propiedades
 
-````
+````js
 // Clonar y hacer nuestras modificaciones a la nueva instancia
 const secureReq = req.clone({
   url: req.url.replace('http://', 'https://')
@@ -352,7 +353,7 @@ return next.handle(secureReq);
 ### Cache
 
 Podes cachear respuestas.
-````
+````js
 const noHeaderReq = req.clone({ headers: new HttpHeaders() });
 	// le sacas los headers
   return next.handle(noHeaderReq).pipe(
@@ -367,7 +368,7 @@ const noHeaderReq = req.clone({ headers: new HttpHeaders() });
 
 
 y usar las respuestas del cache
-````
+````js
 
   intercept(req: HttpRequest<any>, next: HttpHandler) {
     // Si la respuesta no es cacheable segun HTTP, seguir de largo
@@ -423,6 +424,5 @@ return this.http.request(req).pipe(
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzcwNTgxOTcsLTEyODI3MDUwMzZdfQ
-==
+eyJoaXN0b3J5IjpbMTA1MzgzMjI4MCwtMTI4MjcwNTAzNl19
 -->
