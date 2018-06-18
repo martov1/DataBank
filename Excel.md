@@ -504,7 +504,8 @@ Toma tres argumentos
 * **to value** - el valor a que queres que llegue esa formula
 * **bu changing cell** - la celda que toma la funcion como imput, y cuyo valor excel debe encontrar para que la formula de el valor deseado
 
-![](http://i.markdownnotes.com/kkkkk_OJ5fmto.jpg)
+![enter image description here](https://lh3.googleusercontent.com/ROPV-HpNv7heEKRT-RABN1I-u9pVA-rP6pN2qnzPtFJiKjiwlObbeJuJ3WVelsTuq-TEnxTyGZ6k)
+
 
 
 # Macros
@@ -521,10 +522,11 @@ podes seleccionar **y dejar grabado** que seleccionas cells **hasta que haya un 
 ## UI para macros
 
 Podes crear botones que corran macros (cosas simples como filtrar o esconder cosas pueden hacerse A prueba de boludos con esto)
+![enter image description here](https://lh3.googleusercontent.com/pzeGikA5TIYFh7uj8xZaGRQAkPtPj7MRJmdGD5q5a8Rp9_3ucRV0QLHsNQrU1ewqd-ZIPx8LcDNX)
 
-![](http://i.markdownnotes.com/gghggg.jpg)
 
-![](http://i.markdownnotes.com/sss.jpg)
+![enter image description here](https://lh3.googleusercontent.com/ypYk7DmWUNsTYIXfjECs_2wrkvSTJsa7it3TzRmtXkdsof6Lc1viTbuDdQoTkdzbvRCHI5nSggBk)
+
 
 
 # VBA
@@ -595,7 +597,7 @@ Navegacion, seleccion y leer valores
 ## User controlls sin forms
 
 Podes poner user controlls y referenciar funciones ("macros") de vba
-
+![enter image description here](https://lh3.googleusercontent.com/Pu8mvrEXv-PiyD-_54FhePpyY_ZB8EsMxwMS7ELOowWpnil0yxvdFxzXDItnNBU-_ALw5ynFNTA-)
 ![](http://i.markdownnotes.com/888_YgpKsMQ.jpg)
 ## User forms
 
@@ -639,5 +641,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyOTQ5MzMwLDEyMjE5NTA2NDZdfQ==
+eyJoaXN0b3J5IjpbOTgyMzc3MzY4LDEyMjE5NTA2NDZdfQ==
 -->
