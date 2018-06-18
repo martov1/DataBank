@@ -10,7 +10,7 @@ https://laravel.com/docs/5.6/eloquent-relationships#querying-relations
 
 
 
-#Contenido
+# Contenido
 
 * Tipos de relaciones
 * Declaracion de relaciones
@@ -62,7 +62,7 @@ https://laravel.com/docs/5.6/eloquent-relationships#querying-relations
 
 
 
-#Tipos de relaciones
+# Tipos de relaciones
 
 
 Elocuent es capaz de varios tipos de relaciones entre modelos
@@ -830,5 +830,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODY3NjY4NV19
+eyJoaXN0b3J5IjpbMzQ0MTU5MTA5XX0=
 -->
