@@ -190,12 +190,12 @@ para creat un grupo tenes que reguistrarlo en el **http kernel** en la variable 
 ```
 
 **Los podes asignar a una ruta como si fueran un sulo middleware:**
-
+```php
 	Route::get('/', function () {
     //
 	})->middleware('miGrupo');
-
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzE3NTQzM119
+eyJoaXN0b3J5IjpbNjkxMDAzMDIzXX0=
 -->
