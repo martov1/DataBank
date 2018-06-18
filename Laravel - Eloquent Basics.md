@@ -345,47 +345,53 @@ Un soft delete no borra los modelos de la base de datos, solamente evita que pue
 		$flights = App\Flight::withTrashed()
 		                ->where('account_id', 1)
 		                ->get();
+	```
 * **Obtener SOLO elementos soft-deleted**
+	```php
 		$flights = App\Flight::onlyTrashed()
 		                ->where('airline_id', 1)
 		                ->get();
+	```
 * **Restaurar elementos soft-deleted**
+	```php
 		//restaurar un modelo
 		$flight->restore();
 		//restaurar varios modelos
 		App\Flight::withTrashed()
 				->where('airline_id', 1)
 				->restore();
+	```
 * **usar hard-delete en un modelo con soft-delete activado**
+	```php
 		$flight->forceDelete();
+	```
+
+# Procesamiento de grandes volumenes
 
 
-#Procesamiento de grandes volumenes
-
-
-##Por chunks
+## Por chunks
 Si tenes que procesar muchos records, podes usar la funcion **chunk()** que te permite computar un **closure** por partes para no saturar el server
-
+```php
 	MiModelo::chunk(CantidadDeRecordsPorVez, functionProcesadora(){});
-	
+```
 **Ej:**
-
+```php
 	Flight::chunk(200, function ($flights) {
 		//hacer cosas con los 200 records de cada tanda
 	    foreach ($flights as $flight) {
 	        //hacer cosas
 	    }
 	});
+```
 	
-	
-##Usando cursores
+## Usando cursores
 
 Podes usar un cursor que itera por la base de datos haciendo **un request a la vez**, esto te **evita tener que cargar todos los datos a la vez**
-
+```php
 	foreach (Flight::where('foo', 'bar')->cursor() as $flight) {
 	    //Hacer cosas con cada record
 	}
-
+```
 #Query Scopes
 
 Los scopes te permiten agregar limitaciones a las querys de un modelo. Por ejemplo los elementos soft-deleted tienen un query scope para no ser encontrados por las querys de todos los modelos.
@@ -579,5 +585,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk2MjY5MDNdfQ==
+eyJoaXN0b3J5IjpbMjgzMjI2ODIzXX0=
 -->
