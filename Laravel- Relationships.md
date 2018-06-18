@@ -4,6 +4,7 @@
 
 
 
+
 **me quede en:**
 Querying Relations
 https://laravel.com/docs/5.6/eloquent-relationships#querying-relations
@@ -68,35 +69,35 @@ https://laravel.com/docs/5.6/eloquent-relationships#querying-relations
 Elocuent es capaz de varios tipos de relaciones entre modelos
 
 * **One to one**
-	* Un usuario $$U$$ tiene un DNI $$D$$
-	* .$$U_1 \Rightarrow D_1$$
+	* Un usuario $U$ tiene un DNI $D$
+	* .$U_1 \Rightarrow D_1$
 
 
 * **One to many**
-	* Un usuario $$U$$ tiene muchas tarjetas de credito $$C$$
-	* .$$U_1 \Rightarrow \{C_1,C_2,C_3\}$$
+	* Un usuario $U$ tiene muchas tarjetas de credito $C$
+	* .$U_1 \Rightarrow \{C_1,C_2,C_3\}$
 
 
 * **Many to Many**
-	* Muchos post $$P$$ comparten muchos tags $$T$$
-	* .$$\{P_1,P_2P_3\} \iff \{T_1,T_2,T_3\}$$
+	* Muchos post $P$ comparten muchos tags $T$
+	* .$\{P_1,P_2P_3\} \iff \{T_1,T_2,T_3\}$
 
 
 * **Has many Through**
-	* Muchos posts $$P$$ fueron creados por usuarios $$U$$ del mismo Pais $$C$$
-	* .$$C_1 \Rightarrow \{U_1,U_2,U_3\}\Rightarrow \{P_1,P_2,P_3\}  $$
+	* Muchos posts $P$ fueron creados por usuarios $U$ del mismo Pais $C$
+	* .$C_1 \Rightarrow \{U_1,U_2,U_3\}\Rightarrow \{P_1,P_2,P_3\}  $
 
 
 * **Relaciones polimorficas**
-	* Un comentario $$C$$ puede ser de UN video $$V$$ o de UNA foto$$P$$
-	* .$$C_1 \Rightarrow V_1 \quad \text{OR} \quad C_1 \Rightarrow P_1$$  
+	* Un comentario $C$ puede ser de UN video $V$ o de UNA foto$P$
+	* .$C_1 \Rightarrow V_1 \quad \text{OR} \quad C_1 \Rightarrow P_1$  
 
 
-* **Relaciones polimorficas Many to Many **
-	* Varios  tags $$T$$ pueden ser de VARIOS videos $$V$$ Y de VARIAS fotos $$P$$
-	* .$$T_1,T_2,T_3 \iff V_1,V_2,V_3 \quad \text{and} \quad T_1,T_2,T_3 \iff P_1,P_2P_3$$  
+* **Relaciones polimorficas Many to Many**
+	* Varios  tags $T$ pueden ser de VARIOS videos $V$ Y de VARIAS fotos $P$
+	* .$T_1,T_2,T_3 \iff V_1,V_2,V_3 \quad \text{and} \quad T_1,T_2,T_3 \iff P_1,P_2P_3$  
 
-#Declaracion de relaciones
+# Declaracion de relaciones
 
 >Las relaciones simepre se declaran en el modelo usando una **funcion relacion** que devuelve el** mismo modelo pero añadiendole la relacion** usando un metodo de eloquent.
 > EJ
@@ -118,7 +119,7 @@ class User extends Model
 ##Declaracion y uso
 
 
-La relacion $$U_1 \Rightarrow D_1$$ es definida por `$this->hasOne('App\Phone')`
+La relacion $U_1 \Rightarrow D_1$ es definida por `$this->hasOne('App\Phone')`
 
 * **Si queres una functional dependency la definis en el modelo asi:**
 		class User extends Model
@@ -143,7 +144,7 @@ La relacion $$U_1 \Rightarrow D_1$$ es definida por `$this->hasOne('App\Phone')`
 
 ##Definir la inversa de la relacion
 
-* Las relaciones one-to-one van de $$A \Rightarrow B$$, podes admeas definir una relacion $$B \Rightarrow A$$ asi:
+* Las relaciones one-to-one van de $A \Rightarrow B$, podes admeas definir una relacion $B \Rightarrow A$ asi:
 		namespace App;
 		use Illuminate\Database\Eloquent\Model;
 		
@@ -204,12 +205,12 @@ La relacion $$U_1 \Rightarrow D_1$$ es definida por `$this->hasOne('App\Phone')`
 
 ##Declaracion y uso
 
-* la relacion $$P_1 \Rightarrow \{C_1,C_2,C_3\}:$$ es definida por  `$this->hasMany('App\Comment');`
+* la relacion $P_1 \Rightarrow \{C_1,C_2,C_3\}:$ es definida por  `$this->hasMany('App\Comment');`
 
 
 
 
-En el ejemplo: $$P=\text{post}$$, $$C=\text{comment}$$, y queres decir que n post tiene varios comments.
+En el ejemplo: $P=\text{post}$, $C=\text{comment}$, y queres decir que n post tiene varios comments.
 
 
 
@@ -231,15 +232,15 @@ En el ejemplo: $$P=\text{post}$$, $$C=\text{comment}$$, y queres decir que n pos
 
 ##Definir la inversa de la relacion
 
-La relacion inversa $$\{C_1,C_2,C_3\} \Rightarrow P_1 :$$ es definida por la funcion `$this->belongsTo('App\Post');`
+La relacion inversa $\{C_1,C_2,C_3\} \Rightarrow P_1 :$ es definida por la funcion `$this->belongsTo('App\Post');`
 
 
 Para poder determinar a que post corresponde un comment, necesitas declarar esa relacion
 
 >Notese que **es una relacion one-to-one de tipo** 
-$$C_1 \Rightarrow P_1$$
-$$C_2 \Rightarrow P_1$$
-$$C_3 \Rightarrow P_1$$
+$C_1 \Rightarrow P_1$
+$C_2 \Rightarrow P_1$
+$C_3 \Rightarrow P_1$
 Y por consiguiente puedo usar la misma funcion que uso en las inversas de one-to-one, que es **belongsTo()**
 
 * **Declaracion: **
@@ -282,13 +283,13 @@ Podes declarar el uso de un foren key diferente de **modelo2_id** o **un primary
 
 
 Es una relacion donde dos modelos estan relacionados entre si.
-**EJ:** Muchos users $$U$$ comparten muchos roles $$R$$
-$$\{U_1,U_2,U_3\} \iff \{R_1,R_2,R_3\}$$
+**EJ:** Muchos users $U$ comparten muchos roles $R$
+$\{U_1,U_2,U_3\} \iff \{R_1,R_2,R_3\}$
 
 **Para eso podemos dividir la relacion en dos:**
-* .$$\{U_1\} \Rightarrow \{R_1,R_2,R_3\}$$
+* .$\{U_1\} \Rightarrow \{R_1,R_2,R_3\}$
 	*  `belongsToMany('App\Role');`
-* .$$\{R_1\} \Rightarrow \{U_1,U_2,U_3\}$$
+* .$\{R_1\} \Rightarrow \{U_1,U_2,U_3\}$
 	* `belongsToMany('App\User'); `
 
 ##Declaracion y uso:
@@ -409,11 +410,11 @@ Podes definir tu propio modelo pivot en caso de que la tabla pivot tenga una com
 #Has Many Through
 
 Esta relacion te permite vincular dos tablas mediante una tabla intermedia
-$$C_1 \Rightarrow \{U_1,U_2,U_3\}\Rightarrow \{P_1,P_2,P_3\}  $$
-Se declara en $$C$$ con 
+$C_1 \Rightarrow \{U_1,U_2,U_3\}\Rightarrow \{P_1,P_2,P_3\}  $
+Se declara en $C$ con 
 `return $this->hasManyThrough(P, U);`
 **Ej:**
-Muchos posts $$P$$ fueron creados por usuarios $$U$$ del mismo Pais $$C$$
+Muchos posts $P$ fueron creados por usuarios $U$ del mismo Pais $C$
 
 
 
@@ -454,14 +455,14 @@ Muchos posts $$P$$ fueron creados por usuarios $$U$$ del mismo Pais $$C$$
 Son relaciones donde un modelo tiene la posibilidad de estar relacionado con varios otros (pero no mas de uno a la vez), es decir **sostiene mas de una relacion one-to-one**
 
 
-.$$C_1 \Rightarrow V_n \quad \text{XOR} \quad C_1 \Rightarrow P_n$$ 
+.$C_1 \Rightarrow V_n \quad \text{XOR} \quad C_1 \Rightarrow P_n$ 
 
 
 
 
 **EJ:**
-Un comentario $$C$$ puede ser de UN video $$V$$ o (**OR EXCLUSIVO**$$\oplus $$) de UNA foto$$P$$
-.$$C_1 \Rightarrow V_n \quad \text{XOR} \quad C_1 \Rightarrow P_n$$  
+Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA foto$P$
+.$C_1 \Rightarrow V_n \quad \text{XOR} \quad C_1 \Rightarrow P_n$  
 
 
 ![](http://i.markdownnotes.com/fhbhhh.png)
@@ -470,11 +471,11 @@ Un comentario $$C$$ puede ser de UN video $$V$$ o (**OR EXCLUSIVO**$$\oplus $$) 
 ##Declaracion y uso:
 
 **Se declara:**
-* indicando que $$C$$ puede tener varias formas definidas por las tablas **NOMBRE_type** y **NOMBRE_id**
+* indicando que $C$ puede tener varias formas definidas por las tablas **NOMBRE_type** y **NOMBRE_id**
 				public function NOMBRE(){
 					return $this->morphTo();
 				}
-* Indicando cuales son $$V$$, $$P$$, $$etc$$
+* Indicando cuales son $V$, $P$, $etc$
 		return $this->morphMany('App\Comment', 'NOMBRE');
 
 
@@ -546,8 +547,8 @@ _return $this->morphMany('App\Comment', '**NOMBRE**');_
 
 
 * **Relaciones polimorficas Many to Many **
-	* Varios  tags $$T$$ pueden ser de VARIOS videos $$V$$ Y de VARIAS fotos $$P$$
-	* .$$T_1,T_2,T_3 \iff V_1,V_2,V_3 \quad \text{and} \quad T_1,T_2,T_3 \iff P_1,P_2P_3$$  
+	* Varios  tags $T$ pueden ser de VARIOS videos $V$ Y de VARIAS fotos $P$
+	* .$T_1,T_2,T_3 \iff V_1,V_2,V_3 \quad \text{and} \quad T_1,T_2,T_3 \iff P_1,P_2P_3$  
 
 
 
@@ -558,16 +559,16 @@ _return $this->morphMany('App\Comment', '**NOMBRE**');_
 
 **La relacion se puede dividir en:**
 
-* .$$V_n \Rightarrow T_1,T_2,T_3 $$  
+* .$V_n \Rightarrow T_1,T_2,T_3 $  
 	* Creamos una funcion **tags()** en el modelo **videos**
 		* Que devuelva `$this->morphToMany('App\Tag', 'taggable'); ` 
-* .$$P_n \Rightarrow  T_1,T_2,T_3$$
+* .$P_n \Rightarrow  T_1,T_2,T_3$
 	* Creamos una funcion **tags()** en el modelo **posts**
 		* Que devuelva `$this->morphToMany('App\Tag', 'taggable'); `
-* .$$T_n \Rightarrow V_1,V_2,V_3 $$
+* .$T_n \Rightarrow V_1,V_2,V_3 $
 	*  Creamos una funcion **posts()** en el modelo **tags** 
 		* `return $this->morphedByMany('App\Post', 'taggable');  ` 
-* .$$T_n \Rightarrow  P_1,P_2,P_3$$
+* .$T_n \Rightarrow  P_1,P_2,P_3$
 	*  Creamos una funcion **videos()** en el modelo **tags** 
 		* `return $this->morphedByMany('App\Video', 'taggable'); `
 
@@ -787,7 +788,7 @@ Son metodos analogos.
 
 #Precargar relacion - Eager loading
 
-Los **datos de una relacion no son cargados hasta que son requeridos**, eso significa que el siguiente codigo hace $$N+1$$ llamadas a la base de datos 
+Los **datos de una relacion no son cargados hasta que son requeridos**, eso significa que el siguiente codigo hace $N+1$ llamadas a la base de datos 
 
 	$books = App\Book::all(); //devuelve 10 libros
 	
@@ -830,5 +831,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MTU5MTA5XX0=
+eyJoaXN0b3J5IjpbLTc3NTM4ODYyOSwzNDQxNTkxMDldfQ==
 -->
