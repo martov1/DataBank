@@ -143,7 +143,7 @@ describe ("saludo",()=>{
 	* **toThrowMatching(funcionEvaluadora)** - Que el resultado sea una excepcion, la cual se pasa como parametro a la funcionEvaluadora que devuelve un bool, si devuelve false entonces el test falla.
 
 
-##Hooks
+## Hooks
 
 
 Los hooks disponibles son:
@@ -155,7 +155,7 @@ Los hooks disponibles son:
 **Ejemplo:**
 Cada vez que haces un test, jasmine NO reinicia el estado del objeto siendo testeado
 
-```
+```js
 describe ("miSuite",()=>{
 	it("aumentar el sueldo en 500",()=>{
 		expect(empleado.aumentar(500)).toBe(1500)
@@ -168,7 +168,7 @@ describe ("miSuite",()=>{
 
 Podemos usar un hook **beforeEach** para reiniciar el valor cada vez que hacemos un nuevo test
 
-```
+```js
 describe ("miSuite",()=>{
 	beforeEach(()=>{
 		empleado.sueldo = 0;
@@ -185,7 +185,7 @@ describe ("miSuite",()=>{
 
 
 
-##Fail manual
+## Fail manual
 
 Podes hacer fallar un test en cualquier momento usando **fail()**
 ```
@@ -197,12 +197,12 @@ it("should not call the callBack", function() {
 
 
 
-##Tests en estado de Pending
+## Tests en estado de Pending
 
 Podes declarar tests pero no escribirlos, y que figuren en el report como pendiente, es similar a escribir un //TODO:
 Podes suits enteras en estado pending con **xdescribe** y tests individuales con **xit ó pending("mensaje")**
 **Pending describe con xdescribe**
-```
+```js
 //Esta suite no se ejecuta, pero aparece en el report como "pending"
 xdescribe("describe pendiente", function() {
   it("test", function() {
@@ -212,7 +212,7 @@ xdescribe("describe pendiente", function() {
 ```
 
 **Pending test con xit ó pending**
-```
+```js
 
 describe("A spec", function() {
     xit("Spec pendiente", function() {
@@ -228,7 +228,7 @@ describe("A spec", function() {
 ```
 
 
-#Function call tests usando Spies
+# Function call tests usando Spies
 
 Dado un objeto con una funcion:
 SpyOn agrega a ese objeto una serie de metodos para anlizar cuando y como es llamada esa funcion. El spy es destruido cuando sale del bloque **it() ó describe** del que fue llamado.
@@ -243,7 +243,7 @@ obj.miFunc()
 expect(obj.miFunc).toHaveBeenCalled() // true!
 ```
 
-###Expects
+### Expects
 * Expect(spy.miFunc)
 	* **.toHaveBeenCalled()** - True si la funcion ya fue llamado
 	* **.toHaveBeenCalledBefore(otro spy)** - true si fue llamado antes que otra funcion
@@ -251,31 +251,31 @@ expect(obj.miFunc).toHaveBeenCalled() // true!
 	* **.toHaveBeenCalledWith(arg1,arg2)** - True si fue llamado con esos argumentos
 
 
-```
+```js
 spyOn(obj, 'miFunc') // assumes obj.miFunc is a function
 expect(obj.miFunc).toHaveBeenCalled() // Verificar que se llamo al metodo
 expect(obj.miFunc).toHaveBeenCalledWith('foo', 'bar') //Verificar si fue llamado con
 ```
 
 
-###Spy Strategy
+### Spy Strategy
 
 Lo que puede hacer el spy con la funcion. como interceptar el llamado e insertar un mock, o devlver un valor fijo.
 
-* **tenes parametros: ** Especificar con que parametros con los que se llama a la funcion usando `.withArgs(ARGUMENTOS).and.`
+* **tenes parametros:** Especificar con que parametros con los que se llama a la funcion usando `.withArgs(ARGUMENTOS).and.`
 * **No tenes parametros** Llamas directamente a los metodos despues de usar `.and.`
 
 **donde el spy es:**
-```
+```js
 spyOn(obj, 'miFunc') // assumes obj.miFunc is a function
 ```
 
-**Se pueden usar: **
+**Se pueden usar:**
 * **obj.withArgs(1, 2, 3).and.**
-	* **.callFake(Function) **
+	* **.callFake(Function)**
 	LLama a otra funcion que remeplaza la
 	original cuando se llame a a obj.miFunc()
-	* **.callThrough() **
+	* **.callThrough()**
 	Llama a la funcion original cuando se llame a obj.miFunc()
 	* **.exec()** - Ejecuta la spy strategy
 	* **.returnValue(valor)** 
@@ -288,7 +288,7 @@ spyOn(obj, 'miFunc') // assumes obj.miFunc is a function
 	* **.stub()** - Indica no hacer nada cuando se llame a obj.miFunc	
 	* **.throwError(something)** - Indica que obj.miFunc() debe devolver esta excepcion
 
-```
+```js
 spyOn(obj, 'miFunc') 
 obj.callFake(Function) 
 obj.callThrough() 
@@ -299,7 +299,7 @@ obj.exec()
 obj.throwError(something) 
 ```
 
-###Otros datos
+### Otros datos
 
 
 Podes obtener los datos de llamadas especificas. ej: parametros, que numero de invocacion es, etc.
@@ -309,7 +309,7 @@ Podes obtener los datos de llamadas especificas. ej: parametros, que numero de i
 	* **.any()** True si se invoco al spy
 	* **.argsFor(int)** Argumentos para la invocacion numero int
 	* **.count()** Cantidad de veces que se invoco el spy
-	* **.first() ** Obtenes los datos de la primera vez que se llamo al spy
+	* **.first()** Obtenes los datos de la primera vez que se llamo al spy
 	* **.mostRecent()**  Obtenes los datos de la ultima vez que se llamo al spy
 	* **.reset()** Resetea el spy, como si nunca hiubiera sido llamado
 
@@ -398,5 +398,5 @@ describe (miFuncion,()=>{
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTI3MzA2MCwzODkwMDQyNF19
+eyJoaXN0b3J5IjpbLTEzNzU4MTM1NzUsMzg5MDA0MjRdfQ==
 -->
