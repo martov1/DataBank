@@ -221,38 +221,40 @@ Podes determinar si el upload fue exitoso asi;
 	if ($request->file('photo')->isValid()) {
 	    //
 	}
-```php
-###Determinar extension
+```
+### Determinar extension
 
 Podes determinar la extension de un archivo a partir de su contenido usando el metodo **extension()**  de la clase UploadedFile.
 
-
+```php
 	$extension = $request->photo->extension();
-
-###Guardar archivos subidos
+```
+### Guardar archivos subidos
 
 Podes guardar el archivo en un **filesystem** configurado (**una carpeta local, amazon storage, etc**) usando el metodo **store()** de la clase **UploadedFile**
 
 * **Store('ubicacion')** - te permite guardar un archivo con un nombre automatico
 	* Acepta un segundo argumento para un **disco o filesystem especifico**
+		```php
 			//Guardar en la carpeta images del filesystem configurado
 			//Devuelve el path donde se guardo
 			$path = $request->photo->store('images');
 			//Guardar en el disco configuado como "s3" (AWS)
 			$path = $request->photo->store('images', 's3');
-	
+		```
 	
 * **storeAs('ubicacion','nombre')** -  te permite guardar un archivo con un **nombre determiado**
+	```php
 		//Guardar en la carpeta images del filesystem configurado
 		$path = $request->photo->storeAs('images', 'filename.jpg');
 		//Guardar en el disco configuado como "s3" (AWS)
 		$path = $request->photo->storeAs('images', 'filename.jpg', 's3');
+	```
 
-
-#Validacion
+# Validacion
 
 >Todos los procesos de validacion forman **validadores**. los metodos para crear validadores y usarlos son:
->* **$request->validate([reglas])** - Crea un validador con las reglas del array y valida el request
+>* `$request->validate([reglas])` - Crea un validador con las reglas del array y valida el request
 >* **Form Requests** - Es una clase que contiene las reglas, genera un validador y valida el request
 >* **Validator::make(loQueValidas,Reglas)** - Crea un validador
 
@@ -506,5 +508,5 @@ Una vez que tenes el validador podes añadirle una logica para validar.
 		    return $input->games >= 100;
 		});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTQwNDk3NF19
+eyJoaXN0b3J5IjpbLTE0NzQyNzYwNTJdfQ==
 -->
