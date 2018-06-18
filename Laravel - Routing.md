@@ -331,10 +331,10 @@ Los grupos te permiten compartir atributos, middleware o namespaces en un grupo 
 	    // Controllers Within The "App\Http\Controllers\Admin" Namespace
 	});
 ```
-##Compartir un subdominio
+## Compartir un subdominio
 
 Por ahi queres agrupar varias rutas dentro de lo que sera un subdominio
-
+```php	
 	Route::domain('misub.dominio.myapp.com')->group(function () {
 		//ruta1
 	    Route::get('user/{id}', function ($account, $id) {
@@ -345,13 +345,13 @@ Por ahi queres agrupar varias rutas dentro de lo que sera un subdominio
 	        //
 	    });
 	});
-	
+```
 
-##Asignar prefixes
+## Asignar prefixes
 
 
 Por ahi queres tener un grupo de rutas **detras de un prefix**.
-
+```php	
 	Route::prefix('admin')->group(function () {
 	
 		// Matches The "/admin/users" URL
@@ -364,27 +364,27 @@ Por ahi queres tener un grupo de rutas **detras de un prefix**.
 	        
 	    });
 	});
-
-##Rate Limiting
+```
+## Rate Limiting
 
 Podes limitar la cantidad de llamadas que hace un usuario por minuto a la API usando el **throttle middleware**, este acepta dos parametros: **cantidad de llamadas, cantidad de minutos** es decir que si pones 60,1 entonces un usuario autenticado podra hacer 60 llamadas por minuto.
-
+```php	
 	Route::middleware('auth:api', 'throttle:60,1')->group(function () {
 	    Route::get('/user', function () {
 	        //
 	    });
 	});
-	
-###Rate limiting dinamico
+```
+### Rate limiting dinamico
 
 Podes condicionar el Rate limiting, por ejemplo, puede depender de un parametro del modelo llamado "miParameto"
-
+```php	
 	Route::middleware('auth:api', 'throttle:miParametro,1')->group(function () {
 	    Route::get('/user', function () {
 	        //
 	    });
 	});
-	
+```
 #Route Model Binding
 
 Te permite a travez de un primary key (el id del modelo por default) inyectar el modelo correspondiente dentro de la ruta o controller
@@ -449,5 +449,5 @@ En blade tambien podrias usar este shorthand
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODc4NDIyMl19
+eyJoaXN0b3J5IjpbLTU2NjE4MDc2Ml19
 -->
