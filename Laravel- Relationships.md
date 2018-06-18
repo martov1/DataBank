@@ -737,32 +737,32 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 		$user->roles()->detach();
 	```
 >Todas estas funciones aceptar **arrays de ids** o **arrays de ids y valores** 
-```
-$user->roles()->detach([1, 2, 3]);
-$user->roles()->attach([
-    1 => ['expires' => $expires],
-    2 => ['expires' => $expires]
-]);
-```
+>```php
+>$user->roles()->detach([1, 2, 3]);
+>$user->roles()->attach([
+>    1 => ['expires' => $expires],
+>    2 => ['expires' => $expires]
+>    ]);
+>```
 
-###Sincronizar relaciones many-to-many
+### Sincronizar relaciones many-to-many
 
 Para borrar todas las relaciones many-to-many de un modelo con otro y establecer nuevas, podes hacer asi
 
-
+```php
 	$user->roles()->sync([1, 2, 3]);
-	
-###Guardar dato en tabla pivot
-
+```
+### Guardar dato en tabla pivot
+```php
 	$user->roles()->updateExistingPivot($roleId, $attributes);
+```
 
 
-
-###Actualizar timestamp del parent model
+### Actualizar timestamp del parent model
 
 Si al modificar un child model con una relacion **belongsTo()** o **belongsToMany()** podes hacer que los timestamps **updated_at** y **created_at** del parent se actualicen solos al modificar el child model
 
-	
+```php
 		//Modelo child
 	  //Indico aca que relaciones deben modificar al parent, 
 	  //en este caso la relacion "post()"
@@ -771,7 +771,7 @@ Si al modificar un child model con una relacion **belongsTo()** o **belongsToMan
   	  {
   	      return $this->belongsTo('App\Post');
   	  }
-	
+```
 
 
 #Verificar existencia de una relacion
@@ -876,5 +876,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDI3OTI0NV19
+eyJoaXN0b3J5IjpbMTMzNjI4MDYyM119
 -->
