@@ -558,7 +558,7 @@ archivo2.html
 ```html
 	@include('archivo1')
 	<p>jorge</p>
-```php
+```
 Podes extender un archivo HTML con otro, y podes tener transclusion con datos de uno a otro.
 
 **extends:**
@@ -566,14 +566,14 @@ Es un include que tiene la capacidad de traer partes de un archivo.
 
 
 archivo1.blade.html
-	
+```html
 	<p>hola</p>
 	@yield('nombre')
 	<p>como estas</p>
 	@yield('respuesta')
-
+```
 archivo2.html
-
+```html
 	@extends('archivo1')
 	@section('nombre')
 	<p>jorge</p>
@@ -581,11 +581,11 @@ archivo2.html
 	@section('respuesta')
 	<p>muy bien, vos?</p>
 	@endsection
+```
 
 
----
 
-##Configuracion y credenciales
+## Configuracion y credenciales
 
 
 La configuracion, credenciales, contraseñas y otros valores que puedan ser usados para loguearse a la base de datos o otros servuicios se guardan en el archivo **.env.NOMBREDEENVIRONMENT**
@@ -603,22 +603,17 @@ Seran entonces **Variables de environmente** accesibles a todos los puntos de la
 * **$_ENV**
 
 Podes acceder al nombre del environment asi:
-
+```php
 	if (App::environment('local')) {
 	    // The environment is local
 	}
+```
 
 
 
+## Database
 
-
-
----
-
-
-##Database
-
-###Migrations
+### Migrations
 
 Laravel usa **migraciones**, eso implica que el schema es definido en codigo.
 
@@ -635,7 +630,7 @@ Laravel usa **migraciones**, eso implica que el schema es definido en codigo.
  **users** para usuarios de nuestra futura app
  **passwors resets** para los passwords resets de nuestra futura app
 			
-###Crear migrations
+### Crear migrations
 
 **Para crear una migracion:**
 
@@ -649,7 +644,7 @@ Laravel usa **migraciones**, eso implica que el schema es definido en codigo.
 	
 **Una vez creada la migracion se puede editar la migracion:**
 
-```
+```php
 public function up(){
 Schema::create('sales', function(Blueprint $table){
 		$table->increments('id');
@@ -663,20 +658,20 @@ Schema::create('sales', function(Blueprint $table){
 ```
 
 
-##ORM query builder
+## ORM query builder
 
 Hacer selects con el ORM directamente de la base de datos.
 Esto se hace con la clase `DB`
 
 **Selects:**
-
+```php
 	//obtener los datos de una tabla
 	$tablita = DB::table('miTabla')->get()
 	$tablita = DB::table('miTabla')->where('created_at', fecha())->get()
 	$tablita = DB::table('miTabla')->where('id','>', 10)
 	$tablita = DB::table('miTabla')->lastest()->get()
 	$tablita = DB::table('miTabla')->find($id)
-
+```php
 ##Eloquent
 
 **los modelos referencian a las tablas mediante concidencia de nombre**
@@ -992,6 +987,6 @@ podes enviarlos asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzEzMDk4NjksMTk5OTU1Nzc5Myw3OD
+eyJoaXN0b3J5IjpbLTEwNTYwMjc2NjMsMTk5OTU1Nzc5Myw3OD
 Y3NTU5NTddfQ==
 -->
