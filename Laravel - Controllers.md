@@ -108,7 +108,7 @@ Podes tener acceso al request desde el controller usando **dependency inyection*
 
 * **Inyeccion del request en el controller**
 
-```php
+	```php
 	//Colocas la clase y el request se inyecta solo por DI
 	use Illuminate\Http\Request
 	
@@ -119,10 +119,10 @@ Podes tener acceso al request desde el controller usando **dependency inyection*
 		
 		}
 	}
-	
+	```
 * **Obtener campos puntuales del request**
 
-
+	```php
 	use Illuminate\Http\Request
 	//Obtener dos campos del request
 	$loQueQuiero = request([´campo1','campo2'])
@@ -130,14 +130,14 @@ Podes tener acceso al request desde el controller usando **dependency inyection*
 	//los mismo pero de otra forma
 	$loQueQuiero = [request()->campo1, request()->campo2]
 	
----
+	```
 
-#Dependency inyection
+# Dependency inyection
 
 Los controllers tienen acceso a dependency inyection de forma natural
 
 
-
+```php
 	namespace App\Http\Controllers;
 	use App\Repositories\UserRepository; //lo que quiero inyectar
 	
@@ -151,21 +151,20 @@ Los controllers tienen acceso a dependency inyection de forma natural
 	        $this->users = $users;
 	    }
 	}
-
-
----
+```
 
 # Validacion de datos
 
 
 La funcion `validate` toma una variable como primer parametro y una serie de validadores en un array del otro.
 
-Si no logra validar:
+**Si no logra validar:**
+
 * Si el http header **Accept application/json** esta, entonces devuelve un error JSON
 * redirecciona a la pagina anterior
 	* A su vez en la pagina anterior puebla la variable `$errors` para que la puedas usar en blade 
 
-
+```php
 	//En el controller
 	public function guardar(){
 	
@@ -174,7 +173,7 @@ Si no logra validar:
 		])
 	}
 	
----
+```
 	
 #Middleware en controllers
 
@@ -325,6 +324,6 @@ Podes añadir metodos customizados directamente en el controller, Pero es import
 	//Rutas del resource
 	Route::resource('photos', 'PhotoController');	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTIzMTU2NjgsLTE4MDczNzkyNjAsNz
-EwNTA3ODg4XX0=
+eyJoaXN0b3J5IjpbLTI4NjQyNzQ1NywtMTgwNzM3OTI2MCw3MT
+A1MDc4ODhdfQ==
 -->
