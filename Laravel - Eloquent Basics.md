@@ -212,19 +212,20 @@ Podes usar un **array de key,value pairs para definir un modelo que crear o actu
 **Permitir modificar todos los campos del modelo pasando un array es peligroso, entonces:**
 
 Para Indicar que campos pueden modificarse (**whitelist**) o que campos prohibis modificar (**blacklist**).
-
+```php
 		//En el modelo
 			//whitelist
 			$fillable = ["columna1", "columna2"]
 			//blacklist
 			$guarded = ["columna1", "columna2"]
-
-###Creacion de modelos usando arrays
+```
+### Creacion de modelos usando arrays
 
 
 * **create():**
 	* Crea un modelo a partir de los datos de un array
-		*  lo **guarda en DB **
+		*  lo **guarda en DB**
+			```php
 				//Pueblo un array con los datos que quiero en la instancia del modelo
 				$LoQueQuierCrear = [
 				'columna1' => 'Flight 10',
@@ -232,18 +233,20 @@ Para Indicar que campos pueden modificarse (**whitelist**) o que campos prohibis
 				]
 				//lo creo y lo guardo en la DB
 				$flight = MiModelo::create($LoQueQuierCrear);
+			```
 			
-		
+.
 * **firstOrCreate()**
 	* Intenta ubicar un modelo con los datos provistos
 	* si no lo encuentra entonces crea uno nuevo con los datos del array
 		* **lo guarda en DB**
+			```php
 				// buscar, si no existe, crearlo y guardarlo
 				$AtributosDeBusqueda =  ['name' => 'Flight 10'], ['delayed' => 1]
 				$flight = App\Flight::firstOrCreate($AtributosDeBusqueda);
+			```
 			
-			
-
+.
 * **firstOrNew()**
 	* Intenta ubicar un modelo con los datos provistos  
 	* si no lo encuentra entonces crea uno nuevo con los datos del array
@@ -565,5 +568,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODQwMjc4MV19
+eyJoaXN0b3J5IjpbMTg5NTg2NTA5MV19
 -->
