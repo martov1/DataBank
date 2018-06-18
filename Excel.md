@@ -598,20 +598,22 @@ Navegacion, seleccion y leer valores
 
 Podes poner user controlls y referenciar funciones ("macros") de vba
 ![enter image description here](https://lh3.googleusercontent.com/Pu8mvrEXv-PiyD-_54FhePpyY_ZB8EsMxwMS7ELOowWpnil0yxvdFxzXDItnNBU-_ALw5ynFNTA-)
-![](http://i.markdownnotes.com/888_YgpKsMQ.jpg)
+
 ## User forms
 
 Podes crear un form haciendo **instert->user form**.
 Podes editar sus propiedades (texto, color, etc) haciendo click sobre el elemento **creado y editando sus propiedades**
 
-![](http://i.markdownnotes.com/222.jpg)
+![enter image description here](https://lh3.googleusercontent.com/6q__qSbWdKO4JPfJ4sd1Yxx3qa8BPBmrdrzU4XltGPyMvhcwbwUbSp0qYnTEyaMU0T_BaoVpcpW4)
+
 
 **Podes agregar controlls usando el controll toolbox:**
+![enter image description here](https://lh3.googleusercontent.com/1LvNw97EGPIByx2PKhrh3E6_BHNxeBJKtqA-SNLUCUQNEWo5DaGoWs2uYWp_iX6XHlhforHE2Xlg)
 
-![](http://i.markdownnotes.com/33.jpg)
 
 
 **Podes ver el codigo del form aca**
+
 ![](http://i.markdownnotes.com/55_molzQdK.jpg)
 
 **y agregar codigo para distintas partes del form asi:**
@@ -641,5 +643,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyMzc3MzY4LDEyMjE5NTA2NDZdfQ==
+eyJoaXN0b3J5IjpbMTMyNDc1MTIwLDEyMjE5NTA2NDZdfQ==
 -->
