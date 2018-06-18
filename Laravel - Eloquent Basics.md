@@ -513,7 +513,7 @@ Los local scopes te permiten definir limitaciones que puedas usar libremente en 
 Son una manera de **expresar un modelo** de eloquent en una **respuesta JSON**.
 Fuenciona como un **template** para el modelo.
 Tambien te permite **combinar modelos**
-```php
+	
 	//Devuelve una coleccion de modelos
 	php artisan make:resource Users --collection
 	//devuelve un modelo
@@ -521,16 +521,18 @@ Tambien te permite **combinar modelos**
 
 
 >Podes generar una coleccion ad-hoc asi
+>```php
 >UserResource::collection(User::all());
+>```
 
 **Uso en el controller:**
-
+```php
 	return new MiModelResource($MiModel)
 	//Devuelve un JSON del modelo
-	
+```
 **Configuracion del resource:**
-En **http/resource/MiModelResource**
-
+En `http/resource/MiModelResource`
+```php
 	use Illuminate\Http\Resources\Json\JsonResource;
 	class User extends JsonResource
 	{
@@ -548,13 +550,14 @@ En **http/resource/MiModelResource**
 	    }
 		
 	}
+```	
 		
-		
-##Condicionales
+## Condicionales
 
 Podes enviar cosas usando condicionales
 
 * **un condicional:**
+	```php
 		public function toArray($request)
 		{
 		    return [
@@ -566,6 +569,7 @@ Podes enviar cosas usando condicionales
 		        'updated_at' => $this->updated_at,
 		    ];
 		}
+```
 * **varios condicionales:**
 
 	public function toArray($request)
@@ -589,5 +593,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzAzMjY5OV19
+eyJoaXN0b3J5IjpbLTE1MzQ2MjgxMTldfQ==
 -->
