@@ -459,11 +459,12 @@ Para remover un global scope para un query, podes:
 
 * **Remover un solo closure asi:**
 	 ```php
-		User::withoutGlobalScope(MiScope::class)->get();
+	User::withoutGlobalScope(MiScope::class)->get();
 	```
 *  **si el scope es un closure**
+	```php
 		User::withoutGlobalScope('MiScope')->get();
-
+	```
 * **Remover todos los scopes**
 		User::withoutGlobalScopes()->get();
 
@@ -586,5 +587,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjgyMDI2MV19
+eyJoaXN0b3J5IjpbMTA5ODU5MTc1M119
 -->
