@@ -765,12 +765,12 @@ Los modelos se referencian dentro del namespace **"App"** con la subclase **NOMB
 Si en la funcion del controller colocas un parametro de type Model, por ejemplo `MiModelo $miModelo`, y si el parametro que recibe la funcion desde la ruta es un **Int** entonces **MEDIANTE DEPENDENCY INYECTION el parametro se reemplaza por el modelo con ese id en la tabla **
 
 Si en tu ruta tenes
-	
+```php
 	//ej usuarios/105545
 	Route::get('usuarios/{id}', 'UserController@mostrar')
-
+```
 y en el controller
-
+```php
 	public function show(User $user){
 		//$user es originalmente '105545' representando el ID de un usuario.
 		//Al colocarlo en la funcion como de clase "User" con nombre de variable 
@@ -779,33 +779,33 @@ y en el controller
 		return $user
 		//{id:105545, name:'jorge', surname:'lopez'}
 	}
-	
+```
 	
 **podes usar otro campo de la tabla en lugar del id**
 	
 EJ: usuarios/jorge
 
 Colocas en el model la funcion **getRouteKeyName**, que debe devolver el campo de la tabla que se matcheara con la ruta:
-
+```php
 	//El model de users
 	public function getRouteKeyName(){
 		return 'name'
 	}
-	
+```
 
 y en el controller
-
+```php
 	public function show(User $user){
 		
 		return $user
 		//{id:105545, name:'jorge', surname:'lopez'}
 	}
+```
 	
 	
 	
 	
-	
-###Joins con IDs
+### Joins con IDs
 
 Si tu modelo tiene un valor con 'modelo2_id' entonces podes hacer esto en tu modelo:
 
@@ -813,7 +813,7 @@ Si tu modelo tiene un valor con 'modelo2_id' entonces podes hacer esto en tu mod
 * **One to many:**
 EJ: comments tiene un valor post_id
 
-
+```php
 	class Post extends Model{
 	
 		public function buscarComentarios() {
@@ -821,11 +821,11 @@ EJ: comments tiene un valor post_id
 			return $this->hasMany(app\comment)
 		}
 	}
-
+```
 
 
 * **One to one:**
-
+```php
 	class Comment extends Model{
 	
 		public function buscarPost() {
@@ -835,10 +835,10 @@ EJ: comments tiene un valor post_id
 		
 	
 	}
-
+```
 * **Guardar algo con el ID de un modelo de forma EXPLICITA:**
 
-
+```php
 	//En el model de Post
 	public function addComment($body){
 		App\Comment::create([
@@ -846,10 +846,10 @@ EJ: comments tiene un valor post_id
 			'post_id'=>$this->id
 		])
 	}
-
+```
 
 * **Guardar algo con el ID de un modelo de forma IMPLICITA**
-
+```php
 		public function obtenerComentarios(){
 			return $this->hasMany(App\comment)
 		}
@@ -860,11 +860,11 @@ EJ: comments tiene un valor post_id
 			//El modelo desde la funcion hasMany
 			$this->obtenerComentarios()->create(['body'=>$body])
 		}
-		
+```		
 * **many to many:**
 
 Aca tenes que tener una tabla intermedia que sea **tabla1_tabla2 con las ids de la primera y segunda tabla**, indicando las relaciones
-
+```php
 	//En el modelo Posts
 		return $this->belongsToMany(App\tag) //obtener tags asignados a este post
 	//Obtener posts y tags
@@ -873,7 +873,7 @@ Aca tenes que tener una tabla intermedia que sea **tabla1_tabla2 con las ids de 
 		$post->tags()->attach('id del tag' | 'instancia del model')
 	//remover relacion
 		$post->tags()->detach('id del tag' | 'instancia del model')
-
+```
 
 
 
@@ -986,6 +986,6 @@ podes enviarlos asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5OTczMjM3LDE5OTk1NTc3OTMsNzg2Nz
-U1OTU3XX0=
+eyJoaXN0b3J5IjpbMTM4ODI4MTkyMywxOTk5NTU3NzkzLDc4Nj
+c1NTk1N119
 -->
