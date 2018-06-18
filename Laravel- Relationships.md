@@ -456,9 +456,10 @@ Muchos posts $P$ fueron creados por usuarios $U$ del mismo Pais $C$
 	    }
 	}
 ```
-##Uso de tablas o keys no default
 
+## Uso de tablas o keys no default
 
+```php
         return $this->hasManyThrough(
             'App\Post',
             'App\User',
@@ -467,10 +468,10 @@ Muchos posts $P$ fueron creados por usuarios $U$ del mismo Pais $C$
             'id', // Local key on countries table...
             'id' // Local key on users table...
         );
-		
+```	
 
 
-#Relaciones polimorficas
+# Relaciones polimorficas
 
 Son relaciones donde un modelo tiene la posibilidad de estar relacionado con varios otros (pero no mas de uno a la vez), es decir **sostiene mas de una relacion one-to-one**
 
@@ -484,20 +485,23 @@ Son relaciones donde un modelo tiene la posibilidad de estar relacionado con var
 Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA foto$P$
 .$C_1 \Rightarrow V_n \quad \text{XOR} \quad C_1 \Rightarrow P_n$  
 
+![enter image description here](https://lh3.googleusercontent.com/HIk5Uvx3PCfsQ8Kt8OohGRrrbLHK0LFapyT0WDDA_2LR-G21EuA1EzuDKmUB74NzyTw791kg_yjj)
 
-![](http://i.markdownnotes.com/fhbhhh.png)
 
 
-##Declaracion y uso:
+## Declaracion y uso:
 
 **Se declara:**
 * indicando que $C$ puede tener varias formas definidas por las tablas **NOMBRE_type** y **NOMBRE_id**
+	```php
 				public function NOMBRE(){
 					return $this->morphTo();
 				}
+	```
 * Indicando cuales son $V$, $P$, $etc$
+	```php
 		return $this->morphMany('App\Comment', 'NOMBRE');
-
+	```p
 
 >Laravel buscara las columnas **NOMBRE_ID** y **NOMBRE_type** con el segundo parametro de la funcion **morphMany()**
 >
@@ -851,5 +855,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODUzNjg4M119
+eyJoaXN0b3J5IjpbLTk0ODc3OTA5M119
 -->
