@@ -8,7 +8,7 @@
 
 
 
-#Intro
+# Intro
 
 Los filesystems estan abstraidos de tal manera que podes cambiar de uno a otro y mantener el resto del codigo igual.
 
@@ -18,7 +18,7 @@ Los filesstems configurados estan en **config/filesystem.php** y se los denomina
 * Las credenciales del storage driver, si las hubiere
 
 
-#Local driver
+# Local driver
 
 ##Public disk
 
@@ -69,5 +69,5 @@ $url= asset('storage/file.txt');
 		
 		Storage::append('file.log', 'Appended Text');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzQxMjU0MV19
+eyJoaXN0b3J5IjpbMTMzNDcwNzgxMV19
 -->
