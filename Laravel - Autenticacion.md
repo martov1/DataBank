@@ -176,8 +176,8 @@ Podes cambiar este comportamiento en el handler de exceptions **app/exceptions/H
 	                ? response()->json(['message' => $exception->getMessage()], 401)
 	                : redirect()->guest(route('login'));
 	}
-
-#Autenticacion manual
+```
+# Autenticacion manual
 
 Podes autenticar manualmente usando las clases de laravel.
 
@@ -185,7 +185,7 @@ La funcion **Auth::attempt($credentials)** acepta un array de key-value pairs y 
 * devuelve **true** 
 * añade una **sesion y cookie** a la respuesta que sera enviada al usuario
 
-
+```php
 	class LoginController extends Controller
 	{
 	    public function authenticate(Request $request)
@@ -202,23 +202,23 @@ La funcion **Auth::attempt($credentials)** acepta un array de key-value pairs y 
 	        }
 	    }
 	}
-
-##Autenticacion con condiciones adicionales
+```
+## Autenticacion con condiciones adicionales
 
 Podes exigir durante el login que otras condiciones se cumplan en la tabla de usuarios
-
+```php
 	//Quiero que el usuario tenga en la columna "active" un 1
 	Auth::attempt(['email' => $email, 'password' => $password, 'active' => 1])
-
-##Autenticacion con un guard especifico
+```
+## Autenticacion con un guard especifico
 
 Podes usar un **guard** customizado para tener diferente autenticacion en diferentes partes de la aplicacion
-
+```php
 	if (Auth::guard('miGuard')->attempt($credentials)) {
 	    //
 	}
-
-##Remember user
+```
+## Remember user
 
 >Esto ya viene de manera automatica en el **LoginController**
 
@@ -226,18 +226,18 @@ Esta funcionalidad te permite **mantener al usuario loguardo indefinidamente** y
 
 
 **Podes mantener al usuario logueado indefinidamente asi:**
-
+```php
 		$remember=true;
 		if (Auth::attempt(['email' => $email, 'password' => $password], $remember)) {
 		    // The user is being remembered...
 		}
-		
+```
 **Podes determinar si el usuario envio la cookie de remember me y loguardlo asi**
-
+```php
 		if (Auth::viaRemember()) {
 		    //
 		}
-
+```
 
 	
 ##Log out
@@ -669,5 +669,5 @@ Podes determinar si un token tiene un scope determinado en codigo asi:
 	$request->user()->tokenCan('mi-scope')
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODkxNjQ1XX0=
+eyJoaXN0b3J5IjpbNjU3NzQyNzc1XX0=
 -->
