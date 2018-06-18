@@ -85,7 +85,7 @@ Elocuent es capaz de varios tipos de relaciones entre modelos
 
 * **Has many Through**
 	* Muchos posts $P$ fueron creados por usuarios $U$ del mismo Pais $C$
-	* .$C_1 \Rightarrow \{U_1,U_2,U_3\}\Rightarrow \{P_1,P_2,P_3\}  $
+	* .$C_1 \Rightarrow \{U_1,U_2,U_3\}\Rightarrow \{P_1,P_2,P_3\}$
 
 
 * **Relaciones polimorficas**
@@ -878,5 +878,5 @@ Cargas todos los datos de contacto de cada autor.
 		}
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk5MTE0NTldfQ==
+eyJoaXN0b3J5IjpbLTExMjY4MzgzMDddfQ==
 -->
