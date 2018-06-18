@@ -1,6 +1,6 @@
 
 
-#Contenido
+# Contenido
 
 
 * Intro
@@ -69,5 +69,5 @@ $url= asset('storage/file.txt');
 		
 		Storage::append('file.log', 'Appended Text');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1NTQ3NzgxXX0=
+eyJoaXN0b3J5IjpbLTgxNzQxMjU0MV19
 -->
