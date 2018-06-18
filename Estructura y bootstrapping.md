@@ -949,9 +949,8 @@ Sirve para guardar algo para la proxima pagina que visite el usuario, despues de
 	session(mensaje) // tiene el valor de 'hola juan'
 ```
 
----
 
-#Enviar emails
+# Enviar emails
 
 
 Usas la clase **Mail** para enviar emails, a su vez necesitas instancias de esta clase que representan templates de emails.
@@ -962,7 +961,7 @@ Usas la clase **Mail** para enviar emails, a su vez necesitas instancias de esta
 
 Podes crear estos templates con **artisan create::mail** y estan en **app/Mail**
 
-	
+```php
 	class miMail extends Mailable{
 	
 		public $parametros
@@ -974,13 +973,13 @@ Podes crear estos templates con **artisan create::mail** y estan en **app/Mail**
 		
 		}
 	}
-
+```
 podes enviarlos asi
-
+```php
 	\Mail::to($user)->send(new miEmail($parametros))
+```
 
-
-#Events y listeners
+# Events y listeners
 
 
 
@@ -988,6 +987,6 @@ podes enviarlos asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc5MzI1ODMsMTk5OTU1Nzc5Myw3OD
-Y3NTU5NTddfQ==
+eyJoaXN0b3J5IjpbMTYzMDQ5MTkxNCwxOTk5NTU3NzkzLDc4Nj
+c1NTk1N119
 -->
