@@ -656,27 +656,26 @@ podes usar los middleware **CheckScopes** y **CheckForAnyScope**
 ```php
 	'scopes' => \Laravel\Passport\Http\Middleware\CheckScopes::class,
 	'scope' => \Laravel\Passport\Http\Middleware\CheckForAnyScope::class,
-```php
+```
 * **scopes** - Determinar si tiene TODOS los scopes de una lista
 * **scope** - Determinar si tiene AL MENOS UNO de los scopes de una lista
 
 **Uso:**
-
-	//Determinar si tiene TODOS los scopes de una lista
+```php	//Determinar si tiene TODOS los scopes de una lista
 	Route::get('/orders', 'controller@accion'})
 	->middleware('scopes:scope1,scope2');
 	
 	//Determinar si tiene AL MENOS UNO de los scopes de una lista
 	Route::get('/orders', 'controller@accion'})
 	->middleware('scope:scope1,scope2');
+```
 
-
-###Determinar si un token tiene un scope
+### Determinar si un token tiene un scope
 
 Podes determinar si un token tiene un scope determinado en codigo asi:
-
+```php
 	$request->user()->tokenCan('mi-scope')
-
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODYyMjI3NV19
+eyJoaXN0b3J5IjpbMzg2NzgyNjIxXX0=
 -->
