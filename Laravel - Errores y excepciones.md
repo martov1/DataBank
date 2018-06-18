@@ -60,7 +60,7 @@ El logueo de errores se maneja en la funcion **report()** de la clase **Handler*
 ### Errores ignorados:
 
 Hay una lista de excepciones ignoradas en la variable **$dontReport**, podes añadir o substraer excepciones
-```
+```php
 	protected $dontReport = [
 	    \Illuminate\Auth\AuthenticationException::class,
 	    \Illuminate\Auth\Access\AuthorizationException::class,
@@ -68,11 +68,11 @@ Hay una lista de excepciones ignoradas en la variable **$dontReport**, podes añ
 	    \Illuminate\Database\Eloquent\ModelNotFoundException::class,
 	    \Illuminate\Validation\ValidationException::class,
 	];
-	```
-##Respuesta HTTP ante errores
+```
+## Respuesta HTTP ante errores
 
 El metodo **render()** se encarga de enviar una respuesta HTTP ante la aparicion de excepciones. si queres una **respuesta diferente a las respuestas default**, podes configurarlas en la funcion render()
-
+```php
 	public function render($request, Exception $exception)
 	{
 	    if ($exception instanceof CustomException) {
@@ -81,12 +81,12 @@ El metodo **render()** se encarga de enviar una respuesta HTTP ante la aparicion
 	
 	    return parent::render($request, $exception);
 	}
-	
-##Excepciones customizadas
+```
+## Excepciones customizadas
 
 Podes crear tus propias excepciones, estas pueden tener su propios metodos **report()** y **render()** o pueden usar los que estan en la clase **Handler**
 
-
+```php
 	namespace App\Exceptions;
 	use Exception;
 	
@@ -101,25 +101,26 @@ Podes crear tus propias excepciones, estas pueden tener su propios metodos **rep
 	        return response(...);
 	    }
 	}
-
-##Triggerear excepciones HTTP (ej 404)
+```
+## Triggerear excepciones HTTP (ej 404)
 
 Hay respuestas predefinidas que corresponden a HTTP codes, podes triggerearlas desde cualquier lugar de tu aplicacion asi
-
+```php
 	abort(404);
 	abort(403, 'Unauthorized action.');
+```
 
-###Templates para excepciones HTTP
+### Templates para excepciones HTTP
 
 Podes crear tus templates para mostrarle al usuario en condiciones de excepcines HTTP solamente creando templates con el nombre del HTTP code
 
-**resources/views/errors/404.blade.php**
+`resources/views/errors/404.blade.php`
 
-
+```html
 	<h2>{{ $exception->getMessage() }}</h2>
+```
 	
-	
-#Logging
+# Logging
 
 la configuracion del sistema de logging se encuentra en **config/logging.php**, alli se indican los **logging channels:**
 
@@ -128,7 +129,7 @@ la configuracion del sistema de logging se encuentra en **config/logging.php**, 
 * Whatsapp
 * Stack (una combinacion de otros channels)
 
-##Channels
+## Channels
 
 los channels son los receptores de los logs, pueden ser
 
@@ -199,5 +200,5 @@ los niveles son:
 	Log::channel('slack')->info('Something happened!');
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTA3Njg0N119
+eyJoaXN0b3J5IjpbLTE5OTE4ODA5NThdfQ==
 -->
