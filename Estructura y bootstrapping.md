@@ -370,9 +370,9 @@ Desde ahi:
 * El Router o controller** devuelven una respuesta** y esta se envia al cliente
 
 
-![enter image description here](https://photos.app.goo.gl/hRpsn9J1BQ4tKQvk7)
+![enter image description here](https://lh3.googleusercontent.com/1hiHL5JaLxKG9eIbT_Gz0bNmNuDrapyCJ5yNMMgCQNexQe23aAmJ3MMzNIm88Gw65DrRWTGIEmvi)
 
-![](https://photos.app.goo.gl/hRpsn9J1BQ4tKQvk7)
+![](http://i.markdownnotes.com/flow_laravel_FUz0i4h_0uUbk89.jpg)
 
 
 ##Dependency inyection 
@@ -993,5 +993,5 @@ podes enviarlos asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzU1NjczOCw3ODY3NTU5NTddfQ==
+eyJoaXN0b3J5IjpbMTk5OTU1Nzc5Myw3ODY3NTU5NTddfQ==
 -->
