@@ -103,22 +103,23 @@ Podes crear un middleware que haga cosas tanto antes del procesamiento como desp
 >**Notese que**:
 >* **terminate() recibe tanto el request como el response como argumentos**
 >* Laravel instancia un **nuevo middleware** para correr **terminate()**
-	* Si queres que sea la misma instancia, tenes que hacer un singleton usando el **service container** 
->	
->```php
->	namespace Illuminate\Session\Middleware;
->	use Closure;
->	
->	class StartSession
->	{
->		//Lo que sucede antes del procesamiento
->	    public function handle($request, Closure $next)
->	    {
->	        return $next($request);
->	    }
->		//lo que sucede despues del procesamiento
->		//Tenes acceso al request y al response
->	    public function terminate($request, $response)
+>	* Si queres que sea la misma instancia, tenes que hacer un singleton usando el **service container** 
+	
+	
+```php
+	namespace Illuminate\Session\Middleware;
+	use Closure;
+	
+	class StartSession
+	{
+		//Lo que sucede antes del procesamiento
+	    public function handle($request, Closure $next)
+	    {
+	        return $next($request);
+	    }
+		//lo que sucede despues del procesamiento
+		//Tenes acceso al request y al response
+	    public function terminate($request, $response)
 	    {
 	        // Hacer cosas cuando el response este listo
 	    }
@@ -197,5 +198,5 @@ para creat un grupo tenes que reguistrarlo en el **http kernel** en la variable 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTQxOTA1OV19
+eyJoaXN0b3J5IjpbMjAwMDEzMTIxM119
 -->
