@@ -303,8 +303,8 @@ $\{U_1,U_2,U_3\} \iff \{R_1,R_2,R_3\}$
 
 ## Declaracion y uso:
 
-Las tablas **users**,** roles **y** users_roles que  es la "tabla pivot"**
-
+Las tablas **users**, **roles** y **users_roles** que  es la **"tabla pivot"**
+![enter image description here](https://lh3.googleusercontent.com/toROiU9phrvqaZBnRNWie87N_udZcu_6BFC6RR4bL7mcd_JMKmv29rOKWPpdXmzHFJxSiD17pkmV)
 ![](http://i.markdownnotes.com/aaaaaa.jpg)
 
 * **Los modelos:**
@@ -840,5 +840,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjQ2MDY2NywzNDQxNTkxMDldfQ==
+eyJoaXN0b3J5IjpbMTY2MTM5MjA1MiwzNDQxNTkxMDldfQ==
 -->
