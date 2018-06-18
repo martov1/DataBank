@@ -659,27 +659,29 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 		}
 ```
 * **Y los posts con un tag asi:**
-
+```php
 		foreach ($tag->videos as $video) {
 		    //
 		}
-		
-#Hacer querys con las relaciones
+```
+# Hacer querys con las relaciones
 
 * Podes usar las relaciones como propiedades
+	```php
 		$user->posts()->where('active', 1)->get();
-
+	```
 
 * O podes hacer querys sobre las relaciones:
+	```php
 		$user->posts()->where('active', 1)->get();
-
+	```
 		
 		
-#Guardar/crear modelos con relaciones
+# Guardar/crear modelos con relaciones
 
-##One-to-one / one-to-many / many-to-many
+## One-to-one / one-to-many / many-to-many
 
-###Desde un modelo
+### Desde un modelo
 * **Podes guardar un modelo relacionado asi:**
 		$post->comments()->save($comment);
 
@@ -861,5 +863,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTQ0ODAwN119
+eyJoaXN0b3J5IjpbLTE4NjY2NDEyNTFdfQ==
 -->
