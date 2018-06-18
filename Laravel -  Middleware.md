@@ -126,17 +126,17 @@ Podes crear un middleware que haga cosas tanto antes del procesamiento como desp
 	}
 ```
 	
-#Registrar middleware
+# Registrar middleware
 
 
-Los Middlewares deben estar registrados en el **Http kernel** situado en **app/http/kernel.php**.
+Los Middlewares deben estar registrados en el **Http kernel** situado en `app/http/kernel.php`
 
 **Dependiendo de en que variable estan ubicados, tendran scopes distintos.**
-##Middleware global
+## Middleware global
 
 Es middleware que corre en todas las HTTP requests. 
 Se registra en la variable **$middleware** del HTTP KERNEL
-
+```php
 	class Kernel extends HttpKernel
 	{
 	    //los global middleware
@@ -144,38 +144,38 @@ Se registra en la variable **$middleware** del HTTP KERNEL
 	        \Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode::class,
 	        \Illuminate\Foundation\Http\Middleware\ValidatePostSize::class,...
 	    ];
-	
-##Middleware por ruta
+```
+## Middleware por ruta
 
 Podes asignar middlewares por ruta, Para que sean elegibles deben estar registrados en la vartiable **$routeMiddleware** del **HTTP kernel**
-
+```php
     protected $routeMiddleware = [
         'auth' => \Illuminate\Auth\Middleware\Authenticate::class,
         'auth.basic' => \Illuminate\Auth\Middleware\AuthenticateWithBasicAuth::class,
-		...
+```
 
 
 **Luego podes usarlo en las rutas asi:**
-
+```php
 	Route::get('/', function () {
 	    //
 	})->middleware('middleware1', 'middleware2');
-	
+```
 Podes asignar el nombre completo del middleware con el namespace tambien
-
+```php
 	use App\Http\Middleware\CheckAge;
 	Route::get('admin/profile', function () {
 	    //
 	})->middleware(CheckAge::class);
+```
 	
-	
-#Middleware groups
+# Middleware groups
 
 Podes agrupar middleware en un grupo para **correrlos a todos como si llamaras a un solo** middleware, ejemplos de estos grupos son **web** y **api**, que ya vienen con laravel.
 
 para creat un grupo tenes que reguistrarlo en el **http kernel** en la variable **$middlewareGroups** junto con todos los middlewares que utiliza
 
-
+```php
 	protected $middlewareGroups = [
 	    'web' => [
 	        \App\Http\Middleware\EncryptCookies::class,
@@ -187,8 +187,7 @@ para creat un grupo tenes que reguistrarlo en el **http kernel** en la variable 
 	        \App\Http\Middleware\MiMiddleware1::class,
 	        \App\Http\Middleware\MiMiddleware2::class,
 	    ],
-	..
-
+```
 
 **Los podes asignar a una ruta como si fueran un sulo middleware:**
 
@@ -198,5 +197,5 @@ para creat un grupo tenes que reguistrarlo en el **http kernel** en la variable 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDEzMTIxM119
+eyJoaXN0b3J5IjpbMTY3NzE3NTQzM119
 -->
