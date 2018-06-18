@@ -320,7 +320,7 @@ Dentro del controller podes usar el metodo **authorize()** para determiar si una
 ```
 
 
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTg2NTcwMiwxMzI5OTY0NTY4XX0=
+eyJoaXN0b3J5IjpbLTYyOTczNDI0OCwxMzI5OTY0NTY4XX0=
 -->
