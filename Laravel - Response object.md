@@ -148,27 +148,28 @@ Podes colocar automaticamente el header **content-type:aplication/json** y encod
 	    'name' => 'Abigail',
 	    'state' => 'CA'
 	]);
-
-#File downloads
+```
+# File downloads
 
 Es una respuesta que triggerea que el browser quiera descargar un archivo
 
 Laravel guarda los archivos con un ID si se usa la funcion **store()**, pero se puede colocar un nombre human-friendly para el usuario usando el segundo parametro de **download()**
-
+```php
 	//Descargar archivo como esta
 	return response()->download($pathToFile);
 	//Descargar archivo colocandole un nombre y headers a la respuesta
 	return response()->download($pathToFile, $nameForHumans, $headers);
 	//Borrar el archivo una vez descargado
 	return response()->download($pathToFile)->deleteFileAfterSend(true);
-
-#File responses
+```
+# File responses
 
 Permiten que el usuario **visualice algo (PDF, JPG, etc) en el browser sin triggerear una descarga**
-
+```php
 	return response()->file($pathToFile);
 	
 	return response()->file($pathToFile, $headers);
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDUwMjQxMF19
+eyJoaXN0b3J5IjpbMTU4ODQ4NzY4XX0=
 -->
