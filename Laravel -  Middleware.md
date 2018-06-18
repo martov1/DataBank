@@ -1,7 +1,7 @@
 
 
 
-#Contenido
+# Contenido
 
 
 * Intro
@@ -17,9 +17,9 @@
 
 
 
-#Intro
+# Intro
 
-Los middlewares van en **app/Http/Middleware.**
+Los middlewares van en `app/Http/Middleware`
 
 **Los middleware ste sirven para filtrar los HTTP requests y manipularlos:**
 
@@ -35,7 +35,7 @@ Los middlewares van en **app/Http/Middleware.**
 	* Determina si el token existe y es valido, si no lo es rechaza el request   
 
 
-#Crear un middleware
+# Crear un middleware
 
 
 Podes crear un middleware con el siguiente comando de artisan
@@ -197,5 +197,5 @@ para creat un grupo tenes que reguistrarlo en el **http kernel** en la variable 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDU2MjI1N119
+eyJoaXN0b3J5IjpbMTk4NTY2NDgwN119
 -->
