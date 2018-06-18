@@ -175,14 +175,14 @@ La funcion `validate` toma una variable como primer parametro y una serie de val
 	
 ```
 	
-#Middleware en controllers
+# Middleware en controllers
 
 Si bien podes asignar middleware en el Router asi
-
+```php
 	Route::get('profile', 'UserController@show')->middleware('auth');
-
+```
 Tambien podes asignarlo en el controller usando la **funcion middleware en el constructor del controller**, ademas poder **correr middleware para rutas con nombre especificas**
-
+```php
 	class UserController extends Controller
 	{
 	    public function __construct()
@@ -192,12 +192,12 @@ Tambien podes asignarlo en el controller usando la **funcion middleware en el co
 	        $this->middleware('auth');
 	    }
 	}
+```
 
-
-##Middleware para rutas especificas
+## Middleware para rutas especificas
 
 Si **un controller recibe requests desde varias rutas diferentes**, podes** correr middlewares diferentes dependiendo del nombre de la ruta** que lleva a ese controller.
-
+```php
 	class UserController extends Controller
 	{
 	    public function __construct()
@@ -212,16 +212,16 @@ Si **un controller recibe requests desde varias rutas diferentes**, podes** corr
 	        $this->middleware('subscribed')->except('store');
 	    }
 	}
-	
-##Middlewares declarados en el controller
+```
+## Middlewares declarados en el controller
 
 Si necesitas un middleware que es muy especifico y solo se usa en un controller **lo podes declarar dentro del mismo controller asi.**
-
+```php
 	$this->middleware(function ($request, $next) {
 	    return $next($request);
 	});
-	
-#Resource controllers para CRUD
+```
+# Resource controllers para CRUD
 
 Podes generar controllers que y **vienen con los metodos CRUD** y pueden usarse como un **shorthand en el router**
 
@@ -231,9 +231,9 @@ Podes generar controllers que y **vienen con los metodos CRUD** y pueden usarse 
 	
 
 **En el router:**
-
+```php
 	Route::resource('photos', 'PhotoController');
-	
+```
 **Los siguientes metodos y rutas son creados:**
 
 ![](http://i.markdownnotes.com/resourcemethodslaravel.jpg)
@@ -324,6 +324,6 @@ Podes añadir metodos customizados directamente en el controller, Pero es import
 	//Rutas del resource
 	Route::resource('photos', 'PhotoController');	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjQyNzQ1NywtMTgwNzM3OTI2MCw3MT
+eyJoaXN0b3J5IjpbMTQ1NTgzNTgyNSwtMTgwNzM3OTI2MCw3MT
 A1MDc4ODhdfQ==
 -->
