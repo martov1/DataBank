@@ -254,6 +254,9 @@ Para Indicar que campos pueden modificarse (**whitelist**) o que campos prohibis
 			$flight = App\Flight::firstOrNew($AtributosDeBusqueda);
 		```
 
+
+
+
 ### Modificacion de modelos usando arrays
 
 
@@ -274,37 +277,41 @@ Para Indicar que campos pueden modificarse (**whitelist**) o que campos prohibis
 			MiModel::where('active', 1)
 			->update(['col1' => "unValor", col2=> 3]); 
 		```	
-			
+.
 * **updateOrCreate()**
 	*  Intenta actualizar un modelo con ciertos datos, si no lo encuentra entonces
 		* Crea uno nuevo 
 		* lo guarda en la DB
+			```php
 				// If there's a flight from Oakland to San Diego, set the price to $99.
 				// If no matching model exists, create one.
 				$flight = App\Flight::updateOrCreate(
 				    ['departure' => 'Oakland', 'destination' => 'San Diego'],
 				    ['price' => 99]
 				);
-				
+			```
 
 
-##Borrar datos 
+## Borrar datos 
 
-###Hard delete
+### Hard delete
 un Hard delete borra los modelos de la base de datos
 
 
 * **Borrar modelos instanciandolos por ID:**
-	
+	```php
 		//obtener un modelo y despues borrarlo
 			$flight = App\Flight::find(id);
 			$flight->delete();
+	```
 * **Borrar modelos por IDsin instanciarlos:**
+	```php
 		//borrar modelos sin instanciarlos
 			//un solo modelo
 			App\Flight::destroy(id);
 			//varios modelos
 			App\Flight::destroy([id1, id2, id3]);
+	```
 * **Borrar modelos por query o coleccion:**		
 		$deletedRows = App\Flight::where('active', 0)->delete();
 
@@ -569,5 +576,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2MDYwOTE3XX0=
+eyJoaXN0b3J5IjpbLTE2NDAyMzExMzddfQ==
 -->
