@@ -313,18 +313,19 @@ un Hard delete borra los modelos de la base de datos
 			App\Flight::destroy([id1, id2, id3]);
 	```
 * **Borrar modelos por query o coleccion:**		
+	```php
 		$deletedRows = App\Flight::where('active', 0)->delete();
-
-###Soft delete
+	```
+### Soft delete
 Un soft delete no borra los modelos de la base de datos, solamente evita que puedan ser querieados por eloquent a menos que lo podas especificamente. ademas setea la columna **deleted_at** con la fecha en la que se borro
 
 >Una vez que activas soft delete para un modelo, cada vez que borras una instancia de ese modelo se usa un soft delete
 
 * **para usar soft delete:**
-	* usar **Illuminate\Database\Eloquent\SoftDeletes** en el modelo
+	* usar `Illuminate\Database\Eloquent\SoftDeletes` en el modelo
 	* agregar "deleted_at" a la variable **$dates**
 
-
+	```php
 		namespace App;
 		use Illuminate\Database\Eloquent\Model;
 		use Illuminate\Database\Eloquent\SoftDeletes;
@@ -334,11 +335,13 @@ Un soft delete no borra los modelos de la base de datos, solamente evita que pue
 		    use SoftDeletes;
 		    protected $dates = ['deleted_at'];
 		}
-		
+	```	
 * **Para determinar si una instancia de modelo fue soft-deleted**
+	```php
 		$flight->trashed() //true si fue soft-deleted
-		
+	```
 * **obtener elementos que fueron soft-deleted**
+	```php
 		$flights = App\Flight::withTrashed()
 		                ->where('account_id', 1)
 		                ->get();
@@ -576,5 +579,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDAyMzExMzddfQ==
+eyJoaXN0b3J5IjpbLTE3ODk2MjY5MDNdfQ==
 -->
