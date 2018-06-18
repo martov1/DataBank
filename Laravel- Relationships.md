@@ -382,11 +382,14 @@ Las tablas **users**, **roles** y **users_roles** que  es la **"tabla pivot"**
 	```
 
 
-##Nombrar el modelo pivot
+## Nombrar el modelo pivot
 
 * Podes nombrar tu modelo pivot asi:
+	```php
 		return $this->belongsToMany('App\roles')->as('rolDeUsuario')
+	```
 * Lo accedes asi;
+		```php
 		foreach ($users as $user) {
 		    echo $user->rolDeUsuario->created_at;
 		}
@@ -845,5 +848,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjQ3NDQ4MiwzNDQxNTkxMDldfQ==
+eyJoaXN0b3J5IjpbLTc0MzY4MjEzNiwzNDQxNTkxMDldfQ==
 -->
