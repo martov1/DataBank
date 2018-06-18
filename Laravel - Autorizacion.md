@@ -255,7 +255,7 @@ Podes tener logia antes de que se ejecute cualquiera de las funciones de la poli
 podes usar el helper function del modelo **user**, que pide el nombre del metodo del policy y el nombre del modelo a modificar.
 
 >como hay un solo policy por modelo, laravel sabe cual es el policy de $post solamente sabiendo su modelo.
-
+```php
 	//Editar un modelo
 	if ($user->can('actualizar', $post)) {
     // ejecuta ACTUALIZAR() en el policy
@@ -265,8 +265,8 @@ podes usar el helper function del modelo **user**, que pide el nombre del metodo
 	if ($user->can('create', Post::class)) {
     // ejecuta "CREAR()" en el policy
 	}
-	
-###Usar policies como Middleware
+```
+### Usar policies como Middleware
 
 Podes hacer uso del Middleware **Illuminate\Auth\Middleware\Authorize** para determinar si un usuario puede hacer algo indicando:
 * **can** o **cant**
@@ -275,17 +275,17 @@ Podes hacer uso del Middleware **Illuminate\Auth\Middleware\Authorize** para det
 * El nombre del modelo que queres crear
 
 **Para editar un modelo:**
-
+```php
 		Route::put('/post/{miParametro}', MiController@update)
 		->middleware('can:ACTUALIZAR,miParametro');
-		
+```
 **Para crear un modelo:**
-
+```php
 		Route::post('/post',MiController@create)
 		->middleware('can:CREAR,App\Post');
+```
 
-
-###Usar policies en controllers
+### Usar policies en controllers
 
 Dentro del controller podes usar el metodo **authorize()** para determiar si una accion tiene el permiso necesario. 
 
@@ -301,7 +301,7 @@ Dentro del controller podes usar el metodo **authorize()** para determiar si una
 	* Se devuelve un **HTTP code 403**
 
 
-
+```php
 	//Editar modelos
     public function update(Request $request, Post $post)
     {
@@ -317,10 +317,10 @@ Dentro del controller podes usar el metodo **authorize()** para determiar si una
 	
 	    // Crear el elemento!
 	}
-		
+```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTc1Mjc0NiwxMzI5OTY0NTY4XX0=
+eyJoaXN0b3J5IjpbMjEwMTg2NTcwMiwxMzI5OTY0NTY4XX0=
 -->
