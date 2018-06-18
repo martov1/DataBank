@@ -407,7 +407,7 @@ Podes filtrar un query usando los datos de la tabla pivot:
 Podes definir tu propio modelo pivot en caso de que la tabla pivot tenga una complejidad que lo requiera.
 
 * **En el modelo que usara el modelo pivot**
-```php
+	```php
 		class Role extends Model
 		{
 			//Defino la relacion many-to-many
@@ -417,31 +417,32 @@ Podes definir tu propio modelo pivot en caso de que la tabla pivot tenga una com
 		        return $this->belongsToMany('App\User')->using('App\UserRole');
 		    }
 		}
-```
+	```
 * **El modelo pivot customizado**
+	```php
 		namespace App;
 		use Illuminate\Database\Eloquent\Relations\Pivot;
 		class UserRole extends Pivot
 		{
 		    //cosas!
 		}
-		
-#Has Many Through
+	```
+# Has Many Through
 
 Esta relacion te permite vincular dos tablas mediante una tabla intermedia
-$C_1 \Rightarrow \{U_1,U_2,U_3\}\Rightarrow \{P_1,P_2,P_3\}  $
+$C_1 \Rightarrow \{U_1,U_2,U_3\}\Rightarrow \{P_1,P_2,P_3\}$
 Se declara en $C$ con 
 `return $this->hasManyThrough(P, U);`
 **Ej:**
 Muchos posts $P$ fueron creados por usuarios $U$ del mismo Pais $C$
 
+![enter image description here](https://lh3.googleusercontent.com/ExTMvYYSBOasCiiMR02bGepxNDqOBYCUrXEDwTklJ80n1SwjML2u0YZ7rs3NCT_6kA3G2piaJkb4)
 
 
-![](http://i.markdownnotes.com/sdfsdfsdf.jpg)
 
 
-##Declaracion y uso:
-
+## Declaracion y uso:
+```php
 	namespace App;
 	use Illuminate\Database\Eloquent\Model;
 	//Desde el modelo C
@@ -454,7 +455,7 @@ Muchos posts $P$ fueron creados por usuarios $U$ del mismo Pais $C$
 	        return $this->hasManyThrough('App\Post', 'App\User');
 	    }
 	}
-	
+```
 ##Uso de tablas o keys no default
 
 
@@ -850,5 +851,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTkwOTE0OCwzNDQxNTkxMDldfQ==
+eyJoaXN0b3J5IjpbLTIxODUzNjg4M119
 -->
