@@ -580,22 +580,22 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 	* Varios  tags $T$ pueden ser de VARIOS videos $V$ Y de VARIAS fotos $P$
 	* .$T_1,T_2,T_3 \iff V_1,V_2,V_3 \quad \text{and} \quad T_1,T_2,T_3 \iff P_1,P_2P_3$  
 
+![enter image description here](https://lh3.googleusercontent.com/Ez65KoxOZbvuRxtw-KOpu5cQErsHTA7tvN5_DzOPJhTZ3NJ61xq-nnUPsAjHNZaJNG_X198OGlop)
 
 
-![](http://i.markdownnotes.com/hfghjhjj.jpg)
 
 
-##Declaracion
+## Declaracion
 
 **La relacion se puede dividir en:**
 
-* .$V_n \Rightarrow T_1,T_2,T_3 $  
+* .$V_n \Rightarrow T_1,T_2,T_3$  
 	* Creamos una funcion **tags()** en el modelo **videos**
 		* Que devuelva `$this->morphToMany('App\Tag', 'taggable'); ` 
 * .$P_n \Rightarrow  T_1,T_2,T_3$
 	* Creamos una funcion **tags()** en el modelo **posts**
 		* Que devuelva `$this->morphToMany('App\Tag', 'taggable'); `
-* .$T_n \Rightarrow V_1,V_2,V_3 $
+* .$T_n \Rightarrow V_1,V_2,V_3$
 	*  Creamos una funcion **posts()** en el modelo **tags** 
 		* `return $this->morphedByMany('App\Post', 'taggable');  ` 
 * .$T_n \Rightarrow  P_1,P_2,P_3$
@@ -603,7 +603,7 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 		* `return $this->morphedByMany('App\Video', 'taggable'); `
 
 **POST:**
-
+```php
 	namespace App;
 	use Illuminate\Database\Eloquent\Model;
 	class Post extends Model
@@ -613,9 +613,9 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 	        return $this->morphToMany('App\Tag', 'taggable');
 	    }
 	}
-
+```
 **VIDEO:**
-
+```php
 	namespace App;
 	use Illuminate\Database\Eloquent\Model;
 	class video extends Model
@@ -625,10 +625,10 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 	        return $this->morphToMany('App\Tag', 'taggable');
 	    }
 	}
-
+```
 
 **TAG:**
-
+```php
 	namespace App;
 	use Illuminate\Database\Eloquent\Model;
 	class Tag extends Model
@@ -643,11 +643,11 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 	        return $this->morphedByMany('App\Video', 'taggable');
 	    }
 	}
-	
-##Uso
+```
+## Uso
 
 * **Podes traer los tags de un post o video asi:**
-
+```php
 		//post
 		foreach ($post->tags as $tag) {
 		    //
@@ -657,7 +657,7 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 		foreach ($post->tags as $tag) {
 		    //
 		}
-		
+```
 * **Y los posts con un tag asi:**
 
 		foreach ($tag->videos as $video) {
@@ -861,5 +861,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzNjI0MjE0XX0=
+eyJoaXN0b3J5IjpbLTcxMTQ0ODAwN119
 -->
