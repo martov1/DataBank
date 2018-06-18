@@ -172,15 +172,15 @@ Se guardan en **app/Policies**
 
 * **Se registran en el AuthServiceProvider asi:**
 como un policy esta atado a un model necesariamente, hay que registrar el policy junto con el model.
-```php
+	```php
 		//En el AuthServiceProvider
     	protected $policies = [
     	    MiModelo::class => MiModeloPolicy::class,
     	];
-```
+	```
 
 * **Se ven asi:**
-```php
+	```php
 		namespace App\Policies;
 		use App\User;
 		use App\Post;
@@ -193,14 +193,16 @@ como un policy esta atado a un model necesariamente, hay que registrar el policy
 		        return $user->id === $post->user_id;
 		    }
 		}
+	```
 * **Se usan asi:**
+	```php
 		if ($user->can('editarElPost', $post)) {
 		    //
 		}
-		
-##Escribir policies
+	```
+## Escribir policies
 
-###Reglas generales
+### Reglas generales
 
 Las policies estan constituidas por 
 
@@ -320,5 +322,5 @@ Dentro del controller podes usar el metodo **authorize()** para determiar si una
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzNTg4MzY4XX0=
+eyJoaXN0b3J5IjpbMTg0OTE3MjgxNF19
 -->
