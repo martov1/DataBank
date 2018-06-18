@@ -73,7 +73,7 @@ Eloquent asume que
 ## Definir tabla o primary key para un model
 
 Podes definir que un modelo **use una tabla especifica** o un **primary key especifico** asi
-
+```php
 		class Flight extends Model
 		{	
 		    protected $table = 'MiTabla';
@@ -557,5 +557,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxODkxODkxXX0=
+eyJoaXN0b3J5IjpbMTA2MzUzMTY3NV19
 -->
