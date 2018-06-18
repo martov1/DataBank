@@ -56,15 +56,15 @@ Podes crear un middleware con el siguiente comando de artisan
 	        return $next($request);
 	    }
 	}
-	
+```
 Los middleware tienen minimamente los parametros
 * **$request** que contiene el request hecho por el browser
 * **$next** que le entrega un $request al proximo middleware del stack
 
-##Antes del procesamiento
+## Antes del procesamiento
 
 Es un middleware que corre antes de que el request sea procesado
-
+```php
 	namespace App\Http\Middleware;
 	use Closure;
 	
@@ -77,11 +77,11 @@ Es un middleware que corre antes de que el request sea procesado
 	        return $next($request);
 	    }
 	}
-	
-##Despues del procesamiento
+```
+## Despues del procesamiento
 
 Es un middleware que corre DESPUES de que el request es procesado
-
+```php
 	namespace App\Http\Middleware;
 	use Closure;
 	
@@ -95,35 +95,35 @@ Es un middleware que corre DESPUES de que el request es procesado
 	        return $response;
 	    }
 	}
-	
-##Antes y despues del procesamiento
+```
+## Antes y despues del procesamiento
 
 Podes crear un middleware que haga cosas tanto antes del procesamiento como despues configurando un metodo **terminate()** que correra cuando **el response este listo para ser envido**
 	
 >**Notese que**:
-* **terminate() recibe tanto el request como el response como argumentos**
-* Laravel instancia un **nuevo middleware** para correr **terminate()**
+>* **terminate() recibe tanto el request como el response como argumentos**
+>* Laravel instancia un **nuevo middleware** para correr **terminate()**
 	* Si queres que sea la misma instancia, tenes que hacer un singleton usando el **service container** 
-	
-	
-	namespace Illuminate\Session\Middleware;
-	use Closure;
-	
-	class StartSession
-	{
-		//Lo que sucede antes del procesamiento
-	    public function handle($request, Closure $next)
-	    {
-	        return $next($request);
-	    }
-		//lo que sucede despues del procesamiento
-		//Tenes acceso al request y al response
-	    public function terminate($request, $response)
+>	
+>```php
+>	namespace Illuminate\Session\Middleware;
+>	use Closure;
+>	
+>	class StartSession
+>	{
+>		//Lo que sucede antes del procesamiento
+>	    public function handle($request, Closure $next)
+>	    {
+>	        return $next($request);
+>	    }
+>		//lo que sucede despues del procesamiento
+>		//Tenes acceso al request y al response
+>	    public function terminate($request, $response)
 	    {
 	        // Hacer cosas cuando el response este listo
 	    }
 	}
-
+```
 	
 #Registrar middleware
 
@@ -197,5 +197,5 @@ para creat un grupo tenes que reguistrarlo en el **http kernel** en la variable 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE5MjYyNzNdfQ==
+eyJoaXN0b3J5IjpbMTE0NTQxOTA1OV19
 -->
