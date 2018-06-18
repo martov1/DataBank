@@ -671,14 +671,14 @@ Esto se hace con la clase `DB`
 	$tablita = DB::table('miTabla')->where('id','>', 10)
 	$tablita = DB::table('miTabla')->lastest()->get()
 	$tablita = DB::table('miTabla')->find($id)
-```php
-##Eloquent
+```
+## Eloquent
 
 **los modelos referencian a las tablas mediante concidencia de nombre**
 
 **los modelos deben ser singulares, las tablas plurales**
 
-###Crear models
+### Crear models
 
 Los modelos se encuentran en **app/**
 
@@ -688,21 +688,21 @@ Son representaciones de la base de datos, te permiten tener acceso a **tinkerer*
 	php artisan make::model miModelo
 	
 **Tienen esta estructura:**
-
+```php
 	use Illuminate/database/eloquent/model
 	
 	class miModelo extends Model{
 	
 	}
-	
-###Crear modelo con migracion
+```
+### Crear modelo con migracion
 
 Podes crear un modelo y la migracion usando el atributo -m
 
 	php artisan make:model miModelo -m
 
-###Extender modelos
-
+### Extender modelos
+```php
 	class miModelo extends Model{
 		Public function miFuncion(){
 			//hagoCosas!
@@ -715,53 +715,52 @@ Podes crear un modelo y la migracion usando el atributo -m
 			
 		}
 	}
-	
+```
 	
 
-###Referenciar modelos
+### Referenciar modelos
 
 Los modelos se referencian dentro del namespace **"App"** con la subclase **NOMBREDEMODEL**. OSEA **App/usuarios**
-	
+```php
 	//Hacer uso de la funcion "miFuncion" del modelo "miModelo"
 	$resultado = App/miModelo::miFuncion() 
 	//pedir las tareas completadas
 	$resultado = App/miModelo::where('completado', true)->get() 
+```
 	
-	
-###Guardar datos en base de datos
+### Guardar datos en base de datos
 
 * **Podes guardar los datos usando model->save()**
-
+	```php
 		//creas o obtenes una instancia de un modelo
 		$miObjeto = new MiModelo
 		//lo modificas
 		$miObjeto->titulo = "dato 1"
 		//lo guardas
 		$miObjeto->save()
-	
+	```
 	
 * **podes crear una instancia de modelo y lo guardas a la vez**
 	* Para usar este metodo, tenes que declarar las cosas que se pueden editar en 
 	la variable _fillable_ del modelo
-
-
+	```php
 	//En algun lado del codigo, ej: controller
 	MiModelo::create([
 		'titulo'=> 'hola!',
 		'fecha'=>'10/10/2018'
 	])
-	
-.
+	```
 
+	```php
 	// En la clase MiModelo
 	
 	//whitelist de cosas que dejo modificar	
 	protected $fillable=['title', 'fecha']
 	// ó blacklist de cosas que no dejo modificar
 	protected $guarded=['title', 'fecha']
+	```
 
-
-###Route Model Binding
+### Route Model Binding
 
 Si en la funcion del controller colocas un parametro de type Model, por ejemplo `MiModelo $miModelo`, y si el parametro que recibe la funcion desde la ruta es un **Int** entonces **MEDIANTE DEPENDENCY INYECTION el parametro se reemplaza por el modelo con ese id en la tabla **
 
@@ -987,6 +986,6 @@ podes enviarlos asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTYwMjc2NjMsMTk5OTU1Nzc5Myw3OD
-Y3NTU5NTddfQ==
+eyJoaXN0b3J5IjpbODY5OTczMjM3LDE5OTk1NTc3OTMsNzg2Nz
+U1OTU3XX0=
 -->
