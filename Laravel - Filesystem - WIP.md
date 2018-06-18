@@ -57,7 +57,7 @@ $url= asset('storage/file.txt');
 		return Storage::download('file.jpg', $name, $headers);
 ```
 * Para obtener una URL haces
-	```php
+```php
 			$url = Storage::url('file.jpg');
 ```
 * Para obtener una URL temporal haces
@@ -67,12 +67,16 @@ $url= asset('storage/file.txt');
 		);
 ```
 * Obtener metadata
+```php
 		$time = Storage::lastModified('file.jpg');
 		$size = Storage::size('file.jpg');
+```
 * Prepend y append a archivos
-		Storage::prepend('file.log', 'Prepended Text');
+```php
+	Storage::prepend('file.log', 'Prepended Text');
 		
-		Storage::append('file.log', 'Appended Text');
+	Storage::append('file.log', 'Appended Text');
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzExNzgxM119
+eyJoaXN0b3J5IjpbLTcwMTI2Njg2MV19
 -->
