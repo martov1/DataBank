@@ -166,21 +166,21 @@ Se guardan en **app/Policies**
 * **Para crearlos:**
 
 	* Un policy generico
-			php artisan make:policy MiPolicy
+				```php artisan make:policy MiPolicy```
 	* Un policy con metodos CRUD armados
-			php artisan make:policy PostPolicy --model=Post
+			`php artisan make:policy PostPolicy --model=Post`
 
 * **Se registran en el AuthServiceProvider asi:**
 como un policy esta atado a un model necesariamente, hay que registrar el policy junto con el model.
-
+```php
 		//En el AuthServiceProvider
     	protected $policies = [
     	    MiModelo::class => MiModeloPolicy::class,
     	];
-
+```
 
 * **Se ven asi:**
-
+```php
 		namespace App\Policies;
 		use App\User;
 		use App\Post;
@@ -320,5 +320,5 @@ Dentro del controller podes usar el metodo **authorize()** para determiar si una
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDc5NTA3Ml19
+eyJoaXN0b3J5IjpbOTYzNTg4MzY4XX0=
 -->
