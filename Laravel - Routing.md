@@ -422,32 +422,32 @@ Podes determinar explicitamente que un modelo debe ser inyectado en una ruta cua
 		// Las rutas con {user} apuntaran siempre al model USER
 	    Route::model('user', App\User::class);
 	}
-```p
+```
 **En la ruta:**
-	
+```php	
 	Route::get('profile/{user}', function (App\User $user) {
     //
 	});
-	
-#Method spoofing
+```
+# Method spoofing
 
 Los browsers solo envian **Get y POST**, podes **simular PUT, PATCH, DELETE, etc** en un form mediante el campo **_Method**
-
+```html
 	<form action="/foo/bar" method="POST">
 	    <input type="hidden" name="_method" value="PUT">
 	    <input type="hidden" name="_token" value="{{ csrf_token() }}">
 	</form>
-	
+```
 En blade tambien podrias usar este shorthand
-
+```html
 	<form action="/foo/bar" method="POST">
 	    @method('PUT')
 	    @csrf
 	</form>
-
+```
 
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU5OTA5NTAsLTU2NjE4MDc2Ml19
+eyJoaXN0b3J5IjpbMTI4ODA5MjQzNCwtNTY2MTgwNzYyXX0=
 -->
