@@ -164,12 +164,12 @@ Podes correr una pieza de codigo **antes de que se corra cualquier gate** usando
 Se guardan en **app/Policies**
 
 * **Para crearlos:**
-
 	* Un policy generico
 				```php artisan make:policy MiPolicy```
 	* Un policy con metodos CRUD armados
 			`php artisan make:policy PostPolicy --model=Post`
-
+			
+.
 * **Se registran en el AuthServiceProvider asi:**
 como un policy esta atado a un model necesariamente, hay que registrar el policy junto con el model.
 	```php
@@ -322,5 +322,5 @@ Dentro del controller podes usar el metodo **authorize()** para determiar si una
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTE3MjgxNF19
+eyJoaXN0b3J5IjpbMTMyOTk2NDU2OF19
 -->
