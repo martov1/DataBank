@@ -37,7 +37,7 @@ Son aquellas donde no devolves un response object, sino que **laravel se encarga
 	```
 * Las **Colecciones** de eloquent en HTTP responses con un **JSON** payload
 
-#Response object instances
+# Response object instances
 
 
 
@@ -156,5 +156,5 @@ Permiten que el usuario **visualice algo (PDF, JPG, etc) en el browser sin trigg
 	
 	return response()->file($pathToFile, $headers);
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0Mzk0MDg0XX0=
+eyJoaXN0b3J5IjpbLTE2MjI5OTQ4MDBdfQ==
 -->
