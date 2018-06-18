@@ -467,7 +467,7 @@ Podes anidar match dentro de index, es decir
 * **con match buscas el indice de un valor $V$ en una tabla**
 * **con index buscar en la tabla ese valor y devolves la colmna o row M o N asociada a ese alor**
 
- ![](http://blog.venturesity.com/wp-content/uploads/2016/06/INDEX_MATCH_GIF-1.gif)
+ ![enter image description here](https://lh3.googleusercontent.com/kkb6ME2icApWIMlapBHZIit0uAnuC7pV3uM8uJIYK9GVxYqedsvkA57YTDavlJppBLJZPtlgCJUb)
  
  # Text functions
  
@@ -639,5 +639,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc2NjU0MzksMTIyMTk1MDY0Nl19
+eyJoaXN0b3J5IjpbMjkyOTQ5MzMwLDEyMjE5NTA2NDZdfQ==
 -->
