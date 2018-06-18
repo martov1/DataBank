@@ -55,63 +55,71 @@ El response object te da gran control sobre la respuesta HTTP generada por larav
 ## Añadir HTTP headers
 
 Podes añadir HTTP headers asi
+
 ```php
 	return response($content)
 	            ->header('Content-Type', $type)
 	            ->header('X-Header-One', 'Header Value')
 	            ->header('X-Header-Two', 'Header Value');
 ```	
-##Añadir cookies 
+
+## Añadir cookies 
 
 Por default **las cookies estan ecriptadas**
 
 Podes añadir cookies con el metodo **cookie()**
-
+```php
 	->cookie($name, $value, $minutes, $path, $domain, $secure, $httpOnly)
-
+```
 Ej de uso:
-
+```php
 	return response($content)
 	                ->cookie('name', 'value', $minutes);
+```
+## Añadir cookies desencriptadas
 
-##Añadir cookies desencriptadas
-
-Por default las cookies estan encriptadas, podes añadir cookies en plain text colocando las excepciones en el **EnriptCookie** middleware localizado en **app/Http/Middleware**
+Por default las cookies estan encriptadas, podes añadir cookies en plain text colocando las excepciones en el **EnriptCookie** middleware localizado en `app/Http/Middleware`
 
 
 En el **EncriptCookie middleware**
-
+```php
 	//Cookies que se deben enviar en plain text
 	protected $except = [
 	    'cookie_name',
 	]; 
+```
 
-
-#Redirects
+# Redirects
 
 * Podes enviar un response que **redireccione a otra ruta**
+	```php
 		redirect('home/dashboard');
-
+	```
 * Enviar a la persona a la **pagina anterior** (requiere sesiones)
+	```php
 		//Enviar al usuario atras
 		 return back()
 		 //Enviar al usuario atras y poblar el form automaticamente
 		 return back()->withInput();
-		 
+	```
 * Redireccionar a un **named route**
+	```php
 		//sin parametros
 		return redirect()->route('login');
 		//Con parametros
 		return redirect()->route('profile', ['id' => 1]);
 		//con parametros cargados con eloquent
 		return redirect()->route('profile', [$user]);
+	```
 * Redirigir a un **Controller**
+	```php
 		//Sin parametros
 		return redirect()->action('HomeController@index');
 		//Con parametros
 		return redirect()->action(
 		    'UserController@profile', ['id' => 1]
-		);	
+		);
+	```	
 * Redirigir a **otro dominio**
 		return redirect()->away('https://www.google.com');
 * Redirigir con **datos en flash session**
@@ -156,5 +164,5 @@ Permiten que el usuario **visualice algo (PDF, JPG, etc) en el browser sin trigg
 	
 	return response()->file($pathToFile, $headers);
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjAwMDg4MF19
+eyJoaXN0b3J5IjpbLTE0ODE1Nzk4MzBdfQ==
 -->
