@@ -6,7 +6,7 @@
 
 
 
-#Contenido
+# Contenido
 
 
 * Acceder al request desde un controller
@@ -42,12 +42,12 @@
 
 
 
-#Acceder al request desde un controller
+# Acceder al request desde un controller
 
 
 Podes acceder al request desde un controller inyectandolo con DI. **esto no te impide acceder a los parametros del path**
 
-
+```php
 	namespace App\Http\Controllers;
 	use Illuminate\Http\Request;	//Inyectar request
 	
@@ -61,25 +61,27 @@ Podes acceder al request desde un controller inyectandolo con DI. **esto no te i
 	        $name = $request->input('name');
 	    }
 	}
+```
 	
-	
-#Acceder desde una ruta
+# Acceder desde una ruta
 
 Podes acceder desde una ruta directamente, tambien usando DI
-
+```php
 	use Illuminate\Http\Request;
 	
 	Route::get('/', function (Request $request) {
 	    //
 	});
+```
 	
-	
-#Metodos del request object
+# Metodos del request object
 
-##Obtener el URL del request
+## Obtener el URL del request
 * **Path()**
 Podes obtener el path del request **sin el dominio**
+```php
 		$uri = $request->path();	// el/path
+		
 
 * **is()**
 Te permite hacer un chequeo para ver si estas en un path determinado
@@ -488,5 +490,5 @@ Una vez que tenes el validador podes añadirle una logica para validar.
 		    return $input->games >= 100;
 		});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTA5NTAyNDBdfQ==
+eyJoaXN0b3J5IjpbLTE5Nzg2MzQ1OF19
 -->
