@@ -125,24 +125,24 @@ Es necesario
 Podes hashear asi:
 ```php
 	bcrype('cosa para hashear')
-```php
-###CSRF tokens
+```
+### CSRF tokens
 
 **Hay tres formas de obtener el token:**
 
 * hidden field para forms 
-
+	```html
 
 	//Esto en blade:
 	{{crsf_field()}}
 	//Genera
 	//<input type="hidden" name="_token" value="7YC0Sxth7AYe4RFSjzaPf2ygLCecJhblahblah">
-
+	```
 * outputear CSRF token directamente
 	
-	
+	```html
 	{{ csrf_token() }}
-
+	```
 * En un cookie
 Laravel envia automaticamente una cookie llamada X-XSRF-TOKEN con el token, podes obtenerlo de JS en la pagina
 
@@ -154,7 +154,7 @@ Si usas el hidden field o lo colocas manualmente, ya esta
 Laravel busca el header **X-CSRF-TOKEN** en el request
 
 
-###Disable CSRF
+### Disable CSRF
 
 Se hace editando el middleware **VerifyCsrfToken**
 
@@ -993,5 +993,5 @@ podes enviarlos asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTk5ODc4M119
+eyJoaXN0b3J5IjpbMjAyOTY0ODY5M119
 -->
