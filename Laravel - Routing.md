@@ -263,51 +263,56 @@ Si tenes acceso a un request (mediante un middleware por ejemplo), podes determi
 Podes crear **rutas firmadas por laravel**, esto te permite **evitar que la ruta sea modificada**. Un ejemplo es un boton de unsubscribe de un mail donde no queres que la URL pueda modificarse para desuscribir a otros usuarios.
 
 * **Hacer una ruta firmada a partir de una ruta nombrada**
-```php	
+	```php	
 		use Illuminate\Support\Facades\URL;
 		return URL::signedRoute('NombreDeRuta', ['user' => 1]);
-```
+	```
 * **Hacer una ruta  firmada con expiracion**
+	```php	
 		use Illuminate\Support\Facades\URL;
 		
 		return URL::temporarySignedRoute(
 		    'NombreDeRuta', now()->addMinutes(30), ['user' => 1]
 		);
+	```
 * **Verificar firma de una ruta firmada**
+	```php	
 	    if (! $request->hasValidSignature()) {
         abort(401);
     	}
+	```
 	* **Verificar automaticamente la firma con un middleware**
+	```php	
 			//En el kernel
 			protected $routeMiddleware = [
 			    'signed' => \Illuminate\Routing\Middleware\ValidateSignature::class,
 			];
 			//En la ruta
 			Route::post(blablabla)->name('unsubscribe')->middleware('signed');
+	```
 		
-		
----
 
-#Obtener informacion de la ruta actual
+
+# Obtener informacion de la ruta actual
 
 
 Podes obtener la ruta actual, el nombre o la accion de la siguiente manera
 
-
+```php	
 	$route = Route::current();
 	
 	$name = Route::currentRouteName();
 	
 	$action = Route::currentRouteAction();
+```
 
----
 
-#Route groups
+# Route groups
 
 Los grupos te permiten compartir atributos, middleware o namespaces en un grupo de rutas
 
-##Compartir multiples middlewares
-
+## Compartir multiples middlewares
+```php	
 	//Comparitr una serie de rutas
 	Route::middleware(['first', 'second'])->group(function () {
 	    Route::get('/', function () {
@@ -318,14 +323,14 @@ Los grupos te permiten compartir atributos, middleware o namespaces en un grupo 
 	        // Uses first & second Middleware
 	    });
 	});
+```
 
-
-##Compartir un namespace
-
+## Compartir un namespace
+```php	
 	Route::namespace('Admin')->group(function () {
 	    // Controllers Within The "App\Http\Controllers\Admin" Namespace
 	});
-
+```
 ##Compartir un subdominio
 
 Por ahi queres agrupar varias rutas dentro de lo que sera un subdominio
@@ -444,5 +449,5 @@ En blade tambien podrias usar este shorthand
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4MDA3MjM2XX0=
+eyJoaXN0b3J5IjpbMTQ3ODc4NDIyMl19
 -->
