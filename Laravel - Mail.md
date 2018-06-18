@@ -92,19 +92,20 @@ pasar un mail a HTML asi:
 # Enviar mail asincronicamente
 
 Enviar un mail puede retrasar un rquest, para hacerlo de **forma asyncronica** hacelo asi:
-
+```php 
 	Mail::to($request->user())
 	    ->cc($moreUsers)
 	    ->bcc($evenMoreUsers)
 	    ->queue(new MiMailable($order));
-
+```
 para **hacerlo en una fecha especifica**
-
+```php
 	$when = now()->addMinutes(10);
 	Mail::to($request->user())
 		->cc($moreUsers)
 		->bcc($evenMoreUsers)
 		->later($when, new OrderShipped($order));
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjE4MjA2OF19
+eyJoaXN0b3J5IjpbMjA4NTMyMTc1Nl19
 -->
