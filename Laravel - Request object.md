@@ -489,21 +489,21 @@ El objeto dado debe ser del mismo type que el FIELD_
 	* **lt:VALOR** - Igual al gt pero menor
 	* **lte:VALOR** - Igual a gte pero menor o igual
 
-##Validacion condicional
+## Validacion condicional
 
-###Validar solo si el campo esta presente
+### Validar solo si el campo esta presente
 
 Con **sometimes** podes valida un campo unicamente si esta presente
-
+```php
 	    'email' => 'sometimes|required|email',
+```
 
-
-###Validar de acuerdo a cierta logica
+### Validar de acuerdo a cierta logica
 
 Una vez que tenes el validador podes añadirle una logica para validar.
 
 
-* Validar el campo "reason" con los validadores 'required|max:500' solo si el campo games es mayor o igual a 100.
+* Validar el campo "reason" con los validadores `'required|max:500' solo si el campo games es mayor o igual a 100.
 		$validator->sometimes('campoAValidar', 'Validadores', function ($input) {
 		    //Si devolves TRUE, campoAValidar sera validado con los Validadores
 		});
@@ -513,5 +513,5 @@ Una vez que tenes el validador podes añadirle una logica para validar.
 		    return $input->games >= 100;
 		});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODcyODYwXX0=
+eyJoaXN0b3J5IjpbLTg0MjY5NjMzNl19
 -->
