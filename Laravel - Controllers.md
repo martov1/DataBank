@@ -323,7 +323,8 @@ Podes añadir metodos customizados directamente en el controller, Pero es import
 	Route::get('photos/popular', 'PhotoController@method');
 	//Rutas del resource
 	Route::resource('photos', 'PhotoController');	
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQ2ODc4NTUsLTE4MDczNzkyNjAsNz
-EwNTA3ODg4XX0=
+eyJoaXN0b3J5IjpbODc5MjIzMTg5LC0xODA3Mzc5MjYwLDcxMD
+UwNzg4OF19
 -->
