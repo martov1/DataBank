@@ -79,7 +79,7 @@ podes realizar querys o cualquier proceso dentro de la ruta.
 		return $users
 	})
 ```
-### View style
+## View style
 
 * Usando compact podes enviar variables al view desde el route
 * Podes especificar el nombre del view, si esta en una subcarpeta de la carpeta views podes usar la sintaxis **/ruta/al/view**
@@ -99,7 +99,7 @@ podes realizar querys o cualquier proceso dentro de la ruta.
 	Route::view('/welcome', 'welcome', ['name' => 'Taylor']);
 ```
 
-### Controller style
+## Controller style
 
 Si queres que la ruta sea controlada por un controller, podes poner el nombre del controller en lugar de la funcion (el controller no es mas que una clase con un metodo que reemplaza a las funciones anteriores).  
 
@@ -449,5 +449,5 @@ En blade tambien podrias usar este shorthand
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODA5MjQzNCwtNTY2MTgwNzYyXX0=
+eyJoaXN0b3J5IjpbMTQ5NTg5MDE0NCwtNTY2MTgwNzYyXX0=
 -->
