@@ -240,23 +240,24 @@ Esta funcionalidad te permite **mantener al usuario loguardo indefinidamente** y
 ```
 
 	
-##Log out
+## Log out
 
 Podes desloguarte y borrar la info de sesion asi
-
+```php
 	Auth::logout();
-
-##Logout de todos los dispositivos
+```
+## Logout de todos los dispositivos
 
 Podes desloguear al usuario de todos los dispositivos (no solo del actual) asi:
 
-* activar **Illuminate\Session\Middleware\AuthenticateSession::class** en el **HTTP KERNEL, grupo WEB**
+* activar `Illuminate\Session\Middleware\AuthenticateSession::class` en el **HTTP KERNEL, grupo WEB**
+			```php
 		'web' => [
 		    // ...
 		    \Illuminate\Session\Middleware\AuthenticateSession::class,
 		    // ...
 		],
-
+```
 * Usas el metodo **logoutOtherDevices** que necesita **la contraseña del user**
 		use Illuminate\Support\Facades\Auth;
 		Auth::logoutOtherDevices($password);
@@ -669,5 +670,5 @@ Podes determinar si un token tiene un scope determinado en codigo asi:
 	$request->user()->tokenCan('mi-scope')
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NzQyNzc1XX0=
+eyJoaXN0b3J5IjpbLTEzOTcwNTQ2MDldfQ==
 -->
