@@ -392,21 +392,21 @@ Podes usar un cursor que itera por la base de datos haciendo **un request a la v
 	    //Hacer cosas con cada record
 	}
 ```
-#Query Scopes
+# Query Scopes
 
 Los scopes te permiten agregar limitaciones a las querys de un modelo. Por ejemplo los elementos soft-deleted tienen un query scope para no ser encontrados por las querys de todos los modelos.
 
-##Global scopes
+## Global scopes
 
-###En su propia clase
+### En su propia clase
 Las global scopes **limitan a todos los querys de un modelo en particular**.
 
-Utilizan la **intefrace Illuminate\Database\Eloquent\Scope** que requiere la implementacion de la funcion **apply()**
+Utilizan la  `intefrace Illuminate\Database\Eloquent\Scope` que requiere la implementacion de la funcion **apply()**
 
 Para usarla necesitas definir el global scope en la **funcion boot()** del **modelo**
 
 * **Definir global scope:**
-
+	```php
 		namespace App\Scopes;
 		use Illuminate\Database\Eloquent\Scope;
 		use Illuminate\Database\Eloquent\Model;
@@ -422,10 +422,10 @@ Para usarla necesitas definir el global scope en la **funcion boot()** del **mod
 		        $builder->where('age', '>', 200);
 		    }
 		}
-	
+	```
 	
 * **Usar global scope en un model:**
-
+	```php
 		use App\Scopes\AgeScope;
 		use Illuminate\Database\Eloquent\Model;
 		class User extends Model
@@ -436,12 +436,12 @@ Para usarla necesitas definir el global scope en la **funcion boot()** del **mod
 				static::addGlobalScope(new AgeScope);
 			}
 		}
-		
-###Global scope en closure
+	```
+### Global scope en closure
 
 Podes añadir un global scope como un closure en un modelo en particular
 
-
+```php
 	class User extends Model
 	{
 	    protected static function boot()
@@ -452,14 +452,15 @@ Podes añadir un global scope como un closure en un modelo en particular
 	        });
 	    }
 	}
-	
-###Remover global scope
+```
+### Remover global scope
 
 Para remover un global scope para un query, podes:
 
 * **Remover un solo closure asi:**
+	 ```php
 		User::withoutGlobalScope(MiScope::class)->get();
-	
+	```
 *  **si el scope es un closure**
 		User::withoutGlobalScope('MiScope')->get();
 
@@ -585,5 +586,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzMjI2ODIzXX0=
+eyJoaXN0b3J5IjpbLTQyMjgyMDI2MV19
 -->
