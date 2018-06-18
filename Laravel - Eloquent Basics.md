@@ -62,15 +62,15 @@ Eloquent asume que
 		php artisan make:model Flight --migration
 	
 * **Se ve asi:**
-
+```php
 		namespace App;
 		use Illuminate\Database\Eloquent\Model;
 		class Flight extends Model
 		{
 		    
 		}
-
-##Definir tabla o primary key para un model
+```
+## Definir tabla o primary key para un model
 
 Podes definir que un modelo **use una tabla especifica** o un **primary key especifico** asi
 
@@ -557,5 +557,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTk4MjA4MV19
+eyJoaXN0b3J5IjpbNDcxODkxODkxXX0=
 -->
