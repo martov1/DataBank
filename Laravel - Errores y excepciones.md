@@ -143,7 +143,7 @@ los channels son los receptores de los logs, pueden ser
 * **custom**
 
 Ejemplo de configuracion de channels en **config/logging.php**
-
+```php
 	'channels' => [
 	    'stack' => [
 	        'driver' => 'stack',
@@ -163,8 +163,8 @@ Ejemplo de configuracion de channels en **config/logging.php**
 	        'level' => 'critical',
 	    ],
 	],
-	
-##Log levels
+```
+## Log levels
 
 Existen varios niveles de logs, dependiendo de la configuracion algunos levels van a un canal y otros a otro canal.
 
@@ -178,10 +178,10 @@ los niveles son:
 *  info
 *  ebug.
 
-##Loguear informacion
+## Loguear informacion
 
-**podes loguar algo en cualquier punto de la aplicacion asi:
-**
+**podes loguar algo en cualquier punto de la aplicacion asi:**
+```php
 	Log::emergency($message);
 	Log::alert($message);
 	Log::critical($message);
@@ -190,15 +190,16 @@ los niveles son:
 	Log::notice($message);
 	Log::info($message);
 	Log::debug($message);
-	
+```
+
 **Ademas podes agregar informacion adicional con un array de valores:**
-	
+```php
 	Log::info('User failed to login.', ['id' => $user->id]);
-
+```
 **Podes especificar el canal para hacer un override del canal default:**
-
+```php
 	Log::channel('slack')->info('Something happened!');
-
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE4ODA5NThdfQ==
+eyJoaXN0b3J5IjpbLTE1ODI1NTMxNzJdfQ==
 -->
