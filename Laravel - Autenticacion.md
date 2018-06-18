@@ -458,34 +458,34 @@ Al llegar este request a laravel, se mostrara una **pantalla de login** para que
 ### Obtencion del Access token
 
 El desarrollador ahora debera enviar un **POST** a la ruta **/oauth/token** de tu aplicacion para pedir un **Access token** con la siguiente informacion
-
+```php
             'grant_type' => 'authorization_code',
             'client_id' => 'client-id',
             'client_secret' => 'client-secret',
             'redirect_uri' => 'http://example.com/callback',
             'code' => AUTHROIZATION TOKEN ACA,
-			
+```
 Laravel contestara con
 * **Access token**
 * **Refresh token**
 * **exipres in** en segundos
 
-###Refreshing tokens
+### Refreshing tokens
 
 Para refrescar tokens, se envia un **POST** a la ruta **/oauth/token** 
-
+```php
         'grant_type' => 'refresh_token',
         'refresh_token' => 'the-refresh-token',
         'client_id' => 'client-id',
         'client_secret' => 'client-secret',
         'scope' => '',
-
+```
 Laravel contestara con
 * **Access token**
 * **Refresh token**
 * **exipres in** en segundos
 
-##Password grant tokens
+## Password grant tokens
 
 Este tipo de grant usa las credenciales del cliente y del user para obtener un access token
 
@@ -494,48 +494,48 @@ Si no corriste	  **_php artisan passport:install_** entonces para crear un clien
 		php artisan passport:client --password
 
 
-###Obtener un token
+### Obtener un token
 
 El third party debe enviar un **POST** a **/oauth/token**. 
 
-
+```php
  		'grant_type' => 'password',
         'client_id' => 'client-id',
         'client_secret' => 'client-secret',
         'username' => 'taylor@laravel.com',
         'password' => 'my-password',
         'scope' => '',
-		
+```
 Laravel contestara con
 * **Access token**
 * **Refresh token**
 * **exipres in** en segundos
 
-##Implicit grant tokens
+## Implicit grant tokens
 
 
 Permite a un tercero si backchannel solicitar un access token.
 Para activarlo es necesario agregar la funcion **Passport::enableImplicitGrant()** en la funcion **boot()** del **AuthServiceProvider**
-
+```php
 	public function boot()
 	{
 		//Activar implicit grants
 	    Passport::enableImplicitGrant();
 	}
-	
+```
 Una vez habilitado, un tercero puede redireccionar a tu authorization endpoint **/oauth/authorize** con el siguiente request
-
+```php
         'client_id' => 'client-id',
         'redirect_uri' => 'http://example.com/callback',
         'response_type' => 'token',
         'scope' => '',
-
-**El authorization endpoint: **
+```
+**El authorization endpoint:**
 * Le pedira al usuario loguearse y aceptar el scope
 * Una vez hecho, el usuario es redireccionado a la aplicacion original usando la **redirect_uri** y se añade el **access token** en un fragment de esta URL para ser consumido por el third party.
 
 
-##Client credentials grant token
+## Client credentials grant token
 
 
 Se usa principalmente para comunicacion entre servidores, muchas veces para cosas que **no necesitan permiso de un user** sino que estan dentro de las cosas permitidas a **un cliente puntual**
@@ -543,17 +543,18 @@ Se usa principalmente para comunicacion entre servidores, muchas veces para cosa
 Para habilitarlo hace falta añadir el middleware **CheckClientCredentials** a aquellas rutas en las que desees habilitarlo
 
 **en el http kernel:**
-
+```php
 		protected $routeMiddleware = [
 		    'client' => CheckClientCredentials::class,
 		];
+```
 **En la ruta:**
-
+```php
 	Route::get('/user', function(Request $request) {
 	    ...
 	})->middleware('client');
-
-###Obtener un token
+```
+### Obtener un token
 
 
 Para botener un token tenes que hacer un **POST** al endpoint **oauth/token**
@@ -677,5 +678,5 @@ Podes determinar si un token tiene un scope determinado en codigo asi:
 	$request->user()->tokenCan('mi-scope')
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzAwNzA2NV19
+eyJoaXN0b3J5IjpbMTY4MTAwMzU3MV19
 -->
