@@ -463,17 +463,19 @@ Para remover un global scope para un query, podes:
 	```
 *  **si el scope es un closure**
 	```php
-		User::withoutGlobalScope('MiScope')->get();
+	User::withoutGlobalScope('MiScope')->get();
 	```
 * **Remover todos los scopes**
+	```php
 		User::withoutGlobalScopes()->get();
-
+	```
 * **Remover algunos de los global scopes:**
+	```php
 		User::withoutGlobalScopes([
 		    PrimerScope::class, SegundoScope::class
 		])->get();
-		
-##Local scopes
+	```
+## Local scopes
 
 Los local scopes te permiten definir limitaciones que puedas usar libremente en tu aplicacion sin forzar a los modelos a usarla.
 
@@ -485,7 +487,7 @@ Los local scopes te permiten definir limitaciones que puedas usar libremente en 
 
 
 * **Los definis como funciones dentro del scope:**
-
+	```php
 		class User extends Model
 		{
 			public function scopePopular($query)
@@ -498,20 +500,20 @@ Los local scopes te permiten definir limitaciones que puedas usar libremente en 
 				return $query->where('$algunparametro', 1);
 			}
 		}
-		
+	```
 * **Los usas asi:**
-
+	```php
 		$users = App\User::popular()->active('MiParametro')
 		->orderBy('created_at')->get();
+	```
 
 
-
-#Eloquent API resources
+# Eloquent API resources
 
 Son una manera de **expresar un modelo** de eloquent en una **respuesta JSON**.
 Fuenciona como un **template** para el modelo.
 Tambien te permite **combinar modelos**
-	
+```php
 	//Devuelve una coleccion de modelos
 	php artisan make:resource Users --collection
 	//devuelve un modelo
@@ -587,5 +589,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODU5MTc1M119
+eyJoaXN0b3J5IjpbMTEyNzAzMjY5OV19
 -->
