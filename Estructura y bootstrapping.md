@@ -115,7 +115,7 @@
 * Usa **MVC**
 * Usa **carbon** para el formateo de fechas (como MOMENT.JS)
 
-##Seguridad
+## Seguridad
 
 Es necesario
 * Crear una key
@@ -123,9 +123,9 @@ Es necesario
 * .env **no se guarde en version control**
 
 Podes hashear asi:
-
+```php
 	bcrype('cosa para hashear')
-
+```php
 ###CSRF tokens
 
 **Hay tres formas de obtener el token:**
@@ -993,5 +993,5 @@ podes enviarlos asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI3NDIwNTFdfQ==
+eyJoaXN0b3J5IjpbMTk1MTk5ODc4M119
 -->
