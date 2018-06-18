@@ -160,17 +160,17 @@ La relacion $U_1 \Rightarrow D_1$ es definida por `$this->hasOne('App\Phone')`
 		        return $this->belongsTo('App\User');
 		    }
 		}
-	
+```
 	
 	
 * **La uso asi:**
-
+```php
 		$phone->user
-
+```
 
 
 * **Puede tener un default en caso de que no exista un modelo:**
-
+```php
 		class Phone extends Model
 		{
 		    //Declaro que la relacion tambien va de Phone->User
@@ -180,11 +180,11 @@ La relacion $U_1 \Rightarrow D_1$ es definida por `$this->hasOne('App\Phone')`
 		            return $this->belongsTo('App\User')->withDefault($ModeloDefault);
 		    }
 		}
-
-##Uso de tablas o keys no default
+```
+## Uso de tablas o keys no default
 
  * **Si queres usar una columna que no se llama modelo_id podes hacer esto:**
-
+```php
 		class User extends Model{
 			public function phone()
 		    {
@@ -194,9 +194,9 @@ La relacion $U_1 \Rightarrow D_1$ es definida por `$this->hasOne('App\Phone')`
 				return $this->belongsTo('App\User', 'foreign_key');
 		    }
 		}
-
+```
 * **Si Ademas queres crear una relacion que no usa la primary key (esta es ID o la que hayas definido como primary key en el modelo):**
-
+```php
 		class User extends Model{
 			public function phone()
 		    {
@@ -204,10 +204,10 @@ La relacion $U_1 \Rightarrow D_1$ es definida por `$this->hasOne('App\Phone')`
 				return $this->belongsTo('App\User', 'foreign_key', 'local_key');
 		    }
 		}
+```
+# One to many
 
-#One to many
-
-##Declaracion y uso
+## Declaracion y uso
 
 * la relacion $P_1 \Rightarrow \{C_1,C_2,C_3\}:$ es definida por  `$this->hasMany('App\Comment');`
 
@@ -217,7 +217,7 @@ La relacion $U_1 \Rightarrow D_1$ es definida por `$this->hasOne('App\Phone')`
 En el ejemplo: $P=\text{post}$, $C=\text{comment}$, y queres decir que n post tiene varios comments.
 
 
-
+```php
 		namespace App;
 		use Illuminate\Database\Eloquent\Model;
 		
@@ -230,7 +230,7 @@ En el ejemplo: $P=\text{post}$, $C=\text{comment}$, y queres decir que n post ti
 		        return $this->hasMany('App\Comment');
 		    }
 		}
-		
+```
 * **uso:**
 		$comments = App\Post::find(1)->comments;
 
@@ -835,5 +835,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTA3MzQ0MTEsMzQ0MTU5MTA5XX0=
+eyJoaXN0b3J5IjpbLTMyOTk3Mzk3MSwzNDQxNTkxMDldfQ==
 -->
