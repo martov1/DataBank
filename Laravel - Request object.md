@@ -170,53 +170,58 @@ Podes obtener los datos **que coincidan** con los nombres de un array o aquellos
 	$input = $request->only('username', 'password');
 	// Obtener todo salvo la tarjeta de credito
 	$input = $request->except(['credit_card']);
-
+```
 > el metodo **only()** no devuelve aquellos datos que no existan en el request.
 
-##Determinar si un dato esta presente
+## Determinar si un dato esta presente
 
 * **Determinar si un dato esta presente y no esta vacio**
+	```php
 		if ($request->filled('name')) {
 		    //
 		}
-		
+	```
 * **Determinar si un dato esta presente** en un request asi.
+	```php
 		if ($request->has('dato que me interesa')) {
 		    //Si esta presente, corre esto
 		}
-
-*  **Determinar siuna serie de datos esta presente** 
+	```
+*  **Determinar siuna serie de datos esta presente**
+```php
 		if ($request->has(['name', 'email'])) {
 		    //Si estan presentes, corre esto
 		}
-	
-##Obtener cookies
+```
+## Obtener cookies
 
 Podes obtener cookies asi;:
-
+```php
 	$value = $request->cookie('nombre de cookie');
-
-##Obtener archivos
+```
+## Obtener archivos
 
 * Podes obtener los archivos adjuntos en un request asi:
+	```php
 		//Devuelve una instancia de la clase UploadedFile
 		$file = $request->file('photo');
 		
 		$file = $request->photo;
-		
+	```
 * Podes determinar si existe un archivo adjunto asi
+	```php
 		if ($request->hasFile('photo')) {
 		    //
 		}
-		
-###Verificar archivo subido
+	```
+### Verificar archivo subido
 
 Podes determinar si el upload fue exitoso asi;
-
+```php
 	if ($request->file('photo')->isValid()) {
 	    //
 	}
-	
+```php
 ###Determinar extension
 
 Podes determinar la extension de un archivo a partir de su contenido usando el metodo **extension()**  de la clase UploadedFile.
@@ -501,5 +506,5 @@ Una vez que tenes el validador podes añadirle una logica para validar.
 		    return $input->games >= 100;
 		});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxNTE4NDI0XX0=
+eyJoaXN0b3J5IjpbMTAzNTQwNDk3NF19
 -->
