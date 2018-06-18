@@ -501,11 +501,13 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 * Indicando cuales son $V$, $P$, $etc$
 	```php
 		return $this->morphMany('App\Comment', 'NOMBRE');
-	```p
+	```
 
 >Laravel buscara las columnas **NOMBRE_ID** y **NOMBRE_type** con el segundo parametro de la funcion **morphMany()**
 >
-_return $this->morphMany('App\Comment', '**NOMBRE**');_
+>```php
+>return $this->morphMany('App\Comment', '**NOMBRE**');_
+>```
 
 
 
@@ -855,5 +857,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODc3OTA5M119
+eyJoaXN0b3J5IjpbMjEyMjc5MjkyNF19
 -->
