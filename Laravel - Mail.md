@@ -22,7 +22,7 @@ ejemplos:
 *  SMTP
 
 
-#Mailable
+# Mailable
 
 En laravel cada tipo de mail se representa con una clase denominada **mailable**
 
@@ -100,5 +100,5 @@ para **hacerlo en una fecha especifica**
 		->bcc($evenMoreUsers)
 		->later($when, new OrderShipped($order));
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0ODY3MjQ0XX0=
+eyJoaXN0b3J5IjpbMjAwMjY2NDE3Ml19
 -->
