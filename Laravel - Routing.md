@@ -200,35 +200,35 @@ Podes hacer que esta limitacion sea **global** usando **Route::pattern()** en un
 	
 	    parent::boot();
 	}
-```php	
+```
 
-#Rutas nombradas
+# Rutas nombradas
 
-##Redireccion programatica
+## Redireccion programatica
 
 
 Podes darle nombres a las rutas y cuando vos quieras podes redireccionar a esa ruta con un HTTP 3xx de forma programatica
 
 Por ejemplo, queremos redirigir a una ruta que llamaremos "home"
 **En las rutas:**
-
+```php	
 	// Hago una ruta con el nombre de home
 	Route::get('MIRUTA', 'MIRUTACONTROLLER@mostrar')->name('home')
-
+```
 **En otro lado:**
-
+```php	
 	//Indico en algun lugar de mi codigo que quiero redirigir 
 	//a esa ruta en ese momento
 	redirect()->home()
-
-##obtener URL programaticamente
+```
+## obtener URL programaticamente
 
 **Obtener URL de una ruta con nombre:**
-
+```php	
 	$url = route('home');
-
+```
 **Podes obteneer la URL con parametros asi:**
-
+```php	
 	//Ruta que acepta parametro id
 	Route::get('user/{id}/profile', function ($id) {
 	    //
@@ -239,14 +239,14 @@ Por ejemplo, queremos redirigir a una ruta que llamaremos "home"
 	
 	//Obtener una URL de un modelo (usando un id)
 	echo route('post.show', ['post' => $post]);
+```
 
 
-
-##Determinar nombre de la ruta de un request
+## Determinar nombre de la ruta de un request
 
 Si tenes acceso a un request (mediante un middleware por ejemplo), podes determinar si fue ruteado a travez de una ruta con un nombre determinado mediante **named()**.
 
-
+```php	
 	public function handle($request, Closure $next)
 	{
 		//Determinar si el request viene de un route con nombre "profile"
@@ -256,16 +256,17 @@ Si tenes acceso a un request (mediante un middleware por ejemplo), podes determi
 	
 	    return $next($request);
 	}
+```
+## Rutas firmadas de alta entropia
 
-##Rutas firmadas de alta entropia
 
-
-Podes crear** rutas firmadas por laravel**, esto te permite **evitar que la ruta sea modificada**. Un ejemplo es un boton de unsubscribe de un mail donde no queres que la URL pueda modificarse para desuscribir a otros usuarios.
+Podes crear **rutas firmadas por laravel**, esto te permite **evitar que la ruta sea modificada**. Un ejemplo es un boton de unsubscribe de un mail donde no queres que la URL pueda modificarse para desuscribir a otros usuarios.
 
 * **Hacer una ruta firmada a partir de una ruta nombrada**
+```php	
 		use Illuminate\Support\Facades\URL;
 		return URL::signedRoute('NombreDeRuta', ['user' => 1]);
-
+```
 * **Hacer una ruta  firmada con expiracion**
 		use Illuminate\Support\Facades\URL;
 		
@@ -443,5 +444,5 @@ En blade tambien podrias usar este shorthand
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDk1NDE5OF19
+eyJoaXN0b3J5IjpbODk4MDA3MjM2XX0=
 -->
