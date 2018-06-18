@@ -46,21 +46,21 @@ El response object te da gran control sobre la respuesta HTTP generada por larav
 * **headers**
 * **HTTP status codes**
 
-
+```php
 	Route::get('home', function () {
 	    return response('Hello World', 200)
 	                  ->header('Content-Type', 'text/plain');
 	});
-	
-##Añadir HTTP headers
+```
+## Añadir HTTP headers
 
 Podes añadir HTTP headers asi
-
+```php
 	return response($content)
 	            ->header('Content-Type', $type)
 	            ->header('X-Header-One', 'Header Value')
 	            ->header('X-Header-Two', 'Header Value');
-				
+```	
 ##Añadir cookies 
 
 Por default **las cookies estan ecriptadas**
@@ -156,5 +156,5 @@ Permiten que el usuario **visualice algo (PDF, JPG, etc) en el browser sin trigg
 	
 	return response()->file($pathToFile, $headers);
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjI5OTQ4MDBdfQ==
+eyJoaXN0b3J5IjpbMTgwNjAwMDg4MF19
 -->
