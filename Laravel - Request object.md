@@ -85,37 +85,43 @@ Podes obtener el path del request **sin el dominio**
 
 * **is()**
 Te permite hacer un chequeo para ver si estas en un path determinado
+	```php
 		if ($request->is('admin/*')) {
 		    //
 		}
-	
+	```
 * **url()**
 Obtiene la URL  **con el dominio** pero sin el query string
+	```php
 		$url = $request->url(); // www.hola.com/el/path
-	
+	```
 * **fullUrl()**
 Obtiene la URL con el dominio y el query string
+	```php
 		$url = $request->url(); // www.hola.com/el/?query=lala
-		
-##Obtener el HTTP verb del request
+	```
+## Obtener el HTTP verb del request
 
 Podes obttener el http verb del request asi
-	
+```php
 	$method = $request->method();
-
+```
 Podes comprobar si es un metodo en particular asi
-
+```php
 	if ($request->isMethod('post')) {
 	    //
 	}
-
-##Datos del request payload y query string
+```
+## Datos del request payload y query string
 
 * **all()**
 Devuelve un array con todos los datos del request
+	```php
 		$input = $request->all();
+	```
 * **input('dato')**
 Devuelve uno de los datos del request, acepta un default en caso de que el dato no exista
+```php
 		$name = $request->input('name', 'default opcional');
 
 ##Datos del query string
@@ -490,5 +496,5 @@ Una vez que tenes el validador podes añadirle una logica para validar.
 		    return $input->games >= 100;
 		});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDU2NjQxNl19
+eyJoaXN0b3J5IjpbLTEyMTk0Mzk5MTZdfQ==
 -->
