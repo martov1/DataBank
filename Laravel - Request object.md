@@ -79,9 +79,9 @@ Podes acceder desde una ruta directamente, tambien usando DI
 ## Obtener el URL del request
 * **Path()**
 Podes obtener el path del request **sin el dominio**
-```php
+	```php
 		$uri = $request->path();	// el/path
-		
+	```
 
 * **is()**
 Te permite hacer un chequeo para ver si estas en un path determinado
@@ -490,5 +490,5 @@ Una vez que tenes el validador podes añadirle una logica para validar.
 		    return $input->games >= 100;
 		});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg2MzQ1OF19
+eyJoaXN0b3J5IjpbLTY2MDU2NjQxNl19
 -->
