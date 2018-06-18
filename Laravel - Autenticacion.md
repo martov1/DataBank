@@ -251,25 +251,26 @@ Podes desloguarte y borrar la info de sesion asi
 Podes desloguear al usuario de todos los dispositivos (no solo del actual) asi:
 
 * activar `Illuminate\Session\Middleware\AuthenticateSession::class` en el **HTTP KERNEL, grupo WEB**
-			```php
+	```php
 		'web' => [
 		    // ...
 		    \Illuminate\Session\Middleware\AuthenticateSession::class,
 		    // ...
 		],
-```
+	```
 * Usas el metodo **logoutOtherDevices** que necesita **la contraseña del user**
+	```php
 		use Illuminate\Support\Facades\Auth;
 		Auth::logoutOtherDevices($password);
-		
+	```
 		
 
-#Login programatico
+# Login programatico
 
 Podes loguear a un usuario programaticamente pasandole  a la funcion **login()**
 * Una instancia de un user
 * El ID de un user
-		
+	```php
 		//Con una instancia de USER
 		Auth::login($user);
 		// Login and "remember" the given user...
@@ -285,15 +286,15 @@ Podes loguear a un usuario programaticamente pasandole  a la funcion **login()**
 
 		//Autenticar al usuario solo por este request
 		Auth::once($credentials)
+	```
 
 
-
-#Guards customizados
+# Guards customizados
 
 Para añadir guards customizados tenes que **extender el Auth facade**, esto lo tenes que hacer dentro del **boot()** de un **serviceProvider**, generalmente es comodo hacerlo dentro del provider **AuthServiceProvider**.
 
-Una vez que extendes el Auth faccade, tu extension tiene que devolver una instancia de la **clase Guard** en **Illuminate\Contracts\Auth\Guard**
-
+Una vez que extendes el Auth faccade, tu extension tiene que devolver una instancia de la **clase Guard** en  `Illuminate\Contracts\Auth\Guard`
+```php
 	public function boot()
 	    {
 	        $this->registerPolicies();
@@ -305,13 +306,13 @@ Una vez que extendes el Auth faccade, tu extension tiene que devolver una instan
 	        });
 	    }
 	}
-
+```
 Una vez definido el guard, lo podes usar en la configuracion de autenticacion en **auth.php**
 
 
-#API authentication
+# API authentication
 
-##Instalacion
+## Instalacion
 
 La autenticacion para apis en general se hace usando el modelo Oauth2 usando **passport**
 
@@ -670,5 +671,5 @@ Podes determinar si un token tiene un scope determinado en codigo asi:
 	$request->user()->tokenCan('mi-scope')
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTcwNTQ2MDldfQ==
+eyJoaXN0b3J5IjpbMTYzMTYzMjQ1OV19
 -->
