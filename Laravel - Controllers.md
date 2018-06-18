@@ -235,10 +235,10 @@ Podes generar controllers que y **vienen con los metodos CRUD** y pueden usarse 
 	Route::resource('photos', 'PhotoController');
 ```
 **Los siguientes metodos y rutas son creados:**
+![enter image description here](https://lh3.googleusercontent.com/zm2ZmuAnOUJa_CS2OZxR4k8g6GZW727s9RZxvsvRn_kOFtB-WabCJUdc4klzbrKqNybpqxC_fGb4)
 
-![](http://i.markdownnotes.com/resourcemethodslaravel.jpg)
 
-##Resources con route model binding
+## Resources con route model binding
 
 Si queres usar route model binding, podes indicarlo al momento de la creacion del resource en artisan. 
 
@@ -249,7 +249,7 @@ Con rutas en lugares diferentes
 
 	php artisan make:controller \App\Http\Users\UserController --resource 
 	--model=\App\Http\Users\User
-##Resources con menos acciones
+## Resources con menos acciones
 
 Si no queres usar todas las acciones 
 
@@ -260,14 +260,14 @@ Si no queres usar todas las acciones
 
 
 **Podes declarar estas limitaciones asi:**
-
+```php
 	Route::resource('photos', 'PhotoController')->only([
 	    'index', 'show', 'store'
 	]);
 	
 	Route::resource('admin/photos', 'PhotoController')
-	
-##API resource
+```
+## API resource
 
 El API resource es una version de resource que prescinde de las acciones **create** y **edit**, ya que estas apuntan a un **HTML template** y esto no es necesario para una API
 
@@ -276,20 +276,20 @@ El API resource es una version de resource que prescinde de las acciones **creat
 	php artisan make:controller API/PhotoController --api
 
 
-##Renombrar las acciones de un resource
+## Renombrar las acciones de un resource
 
 Si no te gusta que las acciones se llamen _photos.update, photos.index, etc_ las **podes renombrar**
-
+```php
 	//renombre photos.create a photos.crearLaFoto
 	Route::resource('photos', 'PhotoController')->names([
 	    'create' => 'photos.crearLaFoto'
 	]);
+```
 
-
-##Renombrar verbos del resource
+## Renombrar verbos del resource
 
 Podes renombrar los verbos usados en los resources el el **boot method** del **appServiceProvider**
-
+```php
 	public function boot()
 	{
 	    Route::resourceVerbs([
@@ -297,16 +297,16 @@ Podes renombrar los verbos usados en los resources el el **boot method** del **a
 	        'edit' => 'editar',
 	    ]);
 	}
+```
 
-
-##Renombrar parametros de URL
+## Renombrar parametros de URL
 
 Por default el nombre del parametro de URL es el nombre del modelo en singular, pero puede cambiarse
-
+```php
 	Route::resource('user', 'AdminUserController')->parameters([
 	    'user' => 'admin_user'
 	]);
-	
+```
 Renombra la ruta de:
 	
 	user/{user}
@@ -315,15 +315,15 @@ a
 
 	user/{admin_user}
 	
-##Añadir metodos customizados al resource
+## Añadir metodos customizados al resource
 
 Podes añadir metodos customizados directamente en el controller, Pero es importante que **coloques las rutas hacia los metodos customizados antes que las del resource**
-
+```php
 	//Ruta custom
 	Route::get('photos/popular', 'PhotoController@method');
 	//Rutas del resource
 	Route::resource('photos', 'PhotoController');	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTgzNTgyNSwtMTgwNzM3OTI2MCw3MT
-A1MDc4ODhdfQ==
+eyJoaXN0b3J5IjpbLTIxMzQ2ODc4NTUsLTE4MDczNzkyNjAsNz
+EwNTA3ODg4XX0=
 -->
