@@ -316,13 +316,13 @@ Podes obtener los datos de llamadas especificas. ej: parametros, que numero de i
 
 
 
-#Async tests y timeouts
+# Async tests y timeouts
 
-##Timeouts
+## Timeouts
 
 Podes especificar timeouts en **it** o en los **hooks** usando su tercer parametro.
 Si el test no termina y se llega al timeout, se considera que el test fallo
-```
+```js
 // timeout de 10000 segundos en hook
 beforeEach(function(done) {}, 10000);
 
@@ -332,11 +332,11 @@ beforeEach(function(done) {}, 10000);
 ```
 
 
-##Probar procesos asincronicos
-###Done()
+## Probar procesos asincronicos
+### Done()
 
 Cuando llamas a **it()** o a cualquier **hook**, la funcion que corresponde al segundo argumento acepta como parametro la funcion inyectada **done()**, al agregar este argumento jasmine sabe que no debe terminar el test hasta que llames a **done()**
-```
+```js
 //Ejemplo usando beforeEach
 beforeEach(function(done) {
 	//async thingy
@@ -356,7 +356,7 @@ beforeEach(function(done) {
 });
 ```
 
-###Promises
+### Promises
 
 Si el spec devuelve una promesa, entonces se considera que si la promesa se cumple el spec funciona, si la promesa no se cumple el spec falla.
 ```
@@ -367,13 +367,13 @@ it("should complete the promise", function() {
 ```
 
 
-#Ejemplos
+# Ejemplos
 
 
-##Tests simples
+## Tests simples
 
 * **Numeros**
-```
+```js
 describe (miFuncion,()=>{
 	it('should return 0 if input is negative',()=>{
 		let result = compute(-1)
@@ -383,13 +383,13 @@ describe (miFuncion,()=>{
 ```
 
 * **strings**
-```
+```js
 		let result = obtenerMensaje(jorge)
 		expect (result).toContain("jorge") // devuelve "hola jorge, buenos dias"
 ```
 
 * **arrays**
-```
+```js
 	let result = getCurrencies()// devuelve ["USD", "CAD", "ARG"]
 	expect (result).toContain("USD") 
 	expect (result).toContain("CAD") 
@@ -398,5 +398,5 @@ describe (miFuncion,()=>{
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU4MTM1NzUsMzg5MDA0MjRdfQ==
+eyJoaXN0b3J5IjpbLTgxNDcyOTI5MCwzODkwMDQyNF19
 -->
