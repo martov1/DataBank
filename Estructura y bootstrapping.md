@@ -239,9 +239,9 @@ Utiliza modelos para representar tablas como objetos
 	$todo = new Todo;
 	$todo->title = "Some Todo"
 	$todo-> save(); //Guardar en DB con titulo "some todo"
+```
 	
-	
-###Capacidades de Blade temprate engine
+### Capacidades de Blade temprate engine
 
 
 * Estructuras logicas (IF, loops, etc) en templates
@@ -249,7 +249,7 @@ Utiliza modelos para representar tablas como objetos
 * Create custom components
 
 
-###Capacidades de composer
+### Capacidades de composer
 
 * **Podes instalar paquetes globalmente:**
 
@@ -267,7 +267,7 @@ https://packagist.org/
 
 
 
-##Requerimientos
+## Requerimientos
 
 * **XAMP stack** 
 * **Composer** para su instalacion
@@ -276,7 +276,7 @@ https://packagist.org/
 
 
 
-#Instalacion
+# Instalacion
 
 * instalar git
 * Instalar composer
@@ -301,9 +301,9 @@ https://laravel.com/docs/5.6#installation
 ---
 
 		
-#Arquitectura
+# Arquitectura
 
-##Estructura de carpetas
+## Estructura de carpetas
 
 * **MIAPP**
 	* **app**
@@ -353,7 +353,7 @@ https://laravel.com/docs/5.6#installation
 
 
 
-##Request lifecycle
+## Request lifecycle
 
 Todos los requests (comandos de artisan y requests HTTP) entran por el **enrty point public/index.php**
 
@@ -370,9 +370,9 @@ Desde ahi:
 * El Router o controller** devuelven una respuesta** y esta se envia al cliente
 
 
+![enter image description here](https://lh3.googleusercontent.com/GJOwIflm2wbTWLBv4fE9-UwGLx704AYgchTl4hAEI-1UsX2HzaNlUcmSPsyCkY8FipAbOvzga9hO)
 
 
-![](http://i.markdownnotes.com/flow_laravel_FUz0i4h_0uUbk89.jpg)
 
 
 ##Dependency inyection 
@@ -993,5 +993,5 @@ podes enviarlos asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjE1ODE1M119
+eyJoaXN0b3J5IjpbLTQ3MzExMjY3OV19
 -->
