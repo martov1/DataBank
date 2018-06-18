@@ -53,7 +53,7 @@ Los archivos de rutas se cargan automaticamente y estan ubicados en la carpeta *
 
 
 **La forma mas basica de configurar una ruta es con un closure:**
-	
+```php	
 	//determino la RUTA, el VERBO y establezco un CALLBACK que devuelve algo al cliente
 	Route::MIVERBO('/MIRUTA', MIFUNCTION(){});
 	
@@ -447,5 +447,5 @@ En blade tambien podrias usar este shorthand
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODA4NzExXX0=
+eyJoaXN0b3J5IjpbLTEzMzQwNjQ5N119
 -->
