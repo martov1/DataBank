@@ -32,6 +32,8 @@
 		* Remover global scope
 	* local scopes
 * Eloquent API resources 
+	* Condicionales
+	* Modificar la HTTP response de un resource  
 
 
 # Intro
@@ -594,5 +596,5 @@ Podes enviar cosas usando condicionales
 	                ->header('X-Value', 'True');
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4MDgxOTY5XX0=
+eyJoaXN0b3J5IjpbLTEwMzIwNTM1MDZdfQ==
 -->
