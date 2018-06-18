@@ -613,12 +613,13 @@ Podes editar sus propiedades (texto, color, etc) haciendo click sobre el element
 
 
 **Podes ver el codigo del form aca**
+![enter image description here](https://lh3.googleusercontent.com/crLm_45c2RfGiIYsOerKZQyGHkjEuMN_aDEIMsbQS-oQd2REf7TMZNxWVd9ZepQPJypMgEhMwbST)
 
-![](http://i.markdownnotes.com/55_molzQdK.jpg)
 
 **y agregar codigo para distintas partes del form asi:**
 
-![](http://i.markdownnotes.com/6666_j1MK69e_KHqZKS9.jpg)
+![enter image description here](https://lh3.googleusercontent.com/8B91H_zJ7bD3O7wNXAmEN5V0J8zCy3zJHo98PjS9Je5YBp11pLWISte0l2i4VMj2KlZ4NZlTl_P5)
+
 
 **Los forms funcionan con EVENTOS, cada evento busca un metodo con un nombre especifico que tiene que ejecutar, elegir el elemento y el evento desde la interfaz de la imagen de arriba TE ESCRIBE EL METODO DE CALLBACK PARA ESE ELEMENTO Y ESE METODO**
 
@@ -643,5 +644,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDc1MTIwLDEyMjE5NTA2NDZdfQ==
+eyJoaXN0b3J5IjpbLTk2NzE1Mzg5OSwxMjIxOTUwNjQ2XX0=
 -->
