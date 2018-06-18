@@ -62,14 +62,14 @@ Los archivos de rutas se cargan automaticamente y estan ubicados en la carpeta *
 		// Devolver algo, por ej un view
 		return view('welcome')
 	});
-	
+```
 podes realizar querys o cualquier proceso dentro de la ruta.
 	
 	
 
-##API style
+## API style
 **Si devolves un query como resultado de una route, laravel expone el resultado como JSON**
-
+```php	
 	Route::get('MIRUTA', function(){
 		// ORM query builder
 		$users = DB::table('usuarios')->get();
@@ -78,28 +78,28 @@ podes realizar querys o cualquier proceso dentro de la ruta.
 		
 		return $users
 	})
-
-###View style
+```
+### View style
 
 * Usando compact podes enviar variables al view desde el route
 * Podes especificar el nombre del view, si esta en una subcarpeta de la carpeta views podes usar la sintaxis **/ruta/al/view**
 
-
+```php	
 	Route::get('MIRUTA', function(){
 		$users = DB::table('usuarios')->get();
 		//Enviar datos como parametros para el view
 		return view('usuarios/usuario/perfil', compact('tasks'))
 	})
-	
+```
 **Una forma mas compacta permite directamente dirigir a un view puntual:**	
-
+```php	
 	//Redirigir a un view estatico
 	Route::view('/miRuta', 'miView');
 	//Redirigir a un view y enviarle algun dato
 	Route::view('/welcome', 'welcome', ['name' => 'Taylor']);
+```
 
-
-###Controller style
+### Controller style
 
 Si queres que la ruta sea controlada por un controller, podes poner el nombre del controller en lugar de la funcion (el controller no es mas que una clase con un metodo que reemplaza a las funciones anteriores).  
 
@@ -108,16 +108,16 @@ Si queres que la ruta sea controlada por un controller, podes poner el nombre de
 Para definirlo se usa la nomenclatura **controller@metodo**
 
 sin parametros:
-
+```php	
 	Route::get('MIRUTA', 'MiRutaController@Metodo')
-
+```
 Con parametros:
-
+```php	
 	Route::get('usuarios/{id}', 'UserController@mostrar')
+```
 
----
 
-#Redireccion
+# Redireccion
 
 Podes redirigir un request asi
 	
@@ -447,5 +447,5 @@ En blade tambien podrias usar este shorthand
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQwNjQ5N119
+eyJoaXN0b3J5IjpbLTEyNjU5MTYxNzBdfQ==
 -->
