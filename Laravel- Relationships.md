@@ -99,9 +99,9 @@ Elocuent es capaz de varios tipos de relaciones entre modelos
 
 # Declaracion de relaciones
 
->Las relaciones simepre se declaran en el modelo usando una **funcion relacion** que devuelve el** mismo modelo pero añadiendole la relacion** usando un metodo de eloquent.
+>Las relaciones simepre se declaran en el modelo usando una **funcion relacion** que devuelve el **mismo modelo pero añadiendole la relacion** usando un metodo de eloquent.
 > EJ
-```
+```php
 class User extends Model
 {
 	//Funcion relacion
@@ -114,14 +114,15 @@ class User extends Model
 ```
 
 
-#One to one
+# One to one
 
-##Declaracion y uso
+## Declaracion y uso
 
 
 La relacion $U_1 \Rightarrow D_1$ es definida por `$this->hasOne('App\Phone')`
 
 * **Si queres una functional dependency la definis en el modelo asi:**
+	```php
 		class User extends Model
 		{
 			//Colocas un nombre de funcion que haga referencia al modelo asociado
@@ -132,7 +133,7 @@ La relacion $U_1 \Rightarrow D_1$ es definida por `$this->hasOne('App\Phone')`
 		        return $this->hasOne('App\Phone');
 		    }
 		}
-	
+	```
 	
 * **Al declarar esta relacion, eloquent ASUME QUE:**
 	* La tabla **users** tiene una columa llamada **phone_id**
@@ -140,11 +141,14 @@ La relacion $U_1 \Rightarrow D_1$ es definida por `$this->hasOne('App\Phone')`
 
 
 * **Una vez declara la relacion en el modelo, la usas asi:**
-		$usuario->phone;
+```php
+				$usuario->phone;
+```
 
-##Definir la inversa de la relacion
+## Definir la inversa de la relacion
 
 * Las relaciones one-to-one van de $A \Rightarrow B$, podes admeas definir una relacion $B \Rightarrow A$ asi:
+```php
 		namespace App;
 		use Illuminate\Database\Eloquent\Model;
 		
@@ -831,5 +835,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTM4ODYyOSwzNDQxNTkxMDldfQ==
+eyJoaXN0b3J5IjpbLTEwOTA3MzQ0MTEsMzQ0MTU5MTA5XX0=
 -->
