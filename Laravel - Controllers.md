@@ -63,29 +63,29 @@ Notese que la sintaxis es **NombreDeController@FuncionDelController**
 
 Es importante notar que Laravel autematicamente identifica los controllers relativos al namespace `App/Http/Controllers`, esto se puede cambiar en el **RouteProviderService**
 
-* Si tenes controllers en subcarpeta (**App/Http/Controllerss/feature1**) **tenes que especificar el namespace**
-```php
+* Si tenes controllers en subcarpeta (`App/Http/Controllerss/feature1`) **tenes que especificar el namespace**
+	```php
 		Route::get('foo', 'feature1\MiController@method');
-```
+	```
 * Si queres tener los **controllers fuera de la carpeta controllers**, es necesario cambiar el namespace desde el **RouteProviderService**
-```php
+	```php
     	protected $namespace = 'App\Http\Controllers';
     	//to
     	protected $namespace = 'App\Http\Features'
-```
+	```
 	Y en la ruta usas el namespace a partir de esa carpeta
-```php
+	```php
 		// App\Http\Features\miController.php
 		Route::get('phicq', 'MyController@index');
 		// App\Http\Features\feature1\miController.php
 		Route::get('phicq', 'feature1\MyController@index');
-```
+	```
 
 
-##Single action controllers
+## Single action controllers
 
 Si queres un controller que solo tenga una **unica funcion**, podes definir una funcion **__invoque()**
-
+```php
 	class MiController extends Controller
 	{
 	    public function __invoke($id)
@@ -93,11 +93,11 @@ Si queres un controller que solo tenga una **unica funcion**, podes definir una 
 	        //Hacer cosas
 	    }
 	}
-	
+```
 Despues al llamarla desde una ruta, **no necesitas decir que funcion del controller llamar**, por que estas explicitamente indicando que hay una sola
-
+```php
 	Route::get('user/{id}', 'MiController');
-
+```
 
 
 
@@ -325,5 +325,5 @@ Podes añadir metodos customizados directamente en el controller, Pero es import
 	//Rutas del resource
 	Route::resource('photos', 'PhotoController');	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQzMTk2MzIsNzEwNTA3ODg4XX0=
+eyJoaXN0b3J5IjpbLTE4MDczNzkyNjAsNzEwNTA3ODg4XX0=
 -->
