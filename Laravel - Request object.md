@@ -261,28 +261,28 @@ Podes guardar el archivo en un **filesystem** configurado (**una carpeta local, 
 
 ## Validate() y uso basico de validadores
 El Request object tiene una funcion **$request->validate()** que permite validar los datos recibidos en el request
-
+```php
     $validatedData = $request->validate([
         'title' => 'required|unique:posts|max:255',
         'body' => 'required',
 	    'author.name' => 'required'
     ]);
-
+```
 * Las reglas son validadas en el orden en el que estan escritas
 * La presencia de la regla **bail** detiene la validacion ante el primer error encontrado despues de su aparicion.
 * Podes ubicar elementos anidados usando la notacion **father.child.grandChild**
 
-###Campos opcionales
+### Campos opcionales
 
 Para aceptar un campo opcional necesitas colocarlo como **nullable** para permitir que pueda contener un valor null, caso contrario sera validado con el resto de los validadores.
-
+```php
 	$request->validate([
 	    'publish_at' => 'nullable|date',
 	]);
+```
 
 
-
-###Manejo de errores
+### Manejo de errores
 
 Ante un error, laravel automaticamente:
 * Triggerea un **redirect** o una **respuesta Json**
@@ -290,7 +290,7 @@ Ante un error, laravel automaticamente:
 	* Aparece en blade como $errors
 	* Esta alimentado por el middleware **ShareErrorsFromSession** 
 
-##Form requests - Validacion avanzada
+## Form requests - Validacion avanzada
 
 Para procesos de validacion mas complejos podes corear una clase separada llamada **Form request**, por default va en **app/Http/Requests** y se puede crear con el comando:
 
@@ -298,7 +298,7 @@ Para procesos de validacion mas complejos podes corear una clase separada llamad
 	
 
 **Se ve asi:**
-
+```php
 	//MiRequest
 	public function rules()
 	{
@@ -307,9 +307,9 @@ Para procesos de validacion mas complejos podes corear una clase separada llamad
 	        'body' => 'required',
 	    ];
 	}
-
+```
 Una vez que hiciste eso, podes validar simplemente indicando que el request es de type MiRequest (mi clase validadora).
-
+```php
 	public function store(StoreBlogPost $request)
 	{
 	    // The incoming request is valid...
@@ -317,16 +317,17 @@ Una vez que hiciste eso, podes validar simplemente indicando que el request es d
 	    // Retrieve the validated input data...
 	    $validated = $request->validated();
 	}
-
-###filtrar campos sin reglas de validacion
+```
+### filtrar campos sin reglas de validacion
 
 Para filtrar todo campo que **no haya sido validado** podes hacer esto
-`$SoloCamposValidados= $request->validated()`
-	
-###Verificar autorizacion
+```php
+$SoloCamposValidados= $request->validated()
+```
+### Verificar autorizacion
 
 El form request tiene una funcion en su interfaz destiada a **verificar si el usuario esta autorizado** a realizar una accion. **debe devolver un boolean**
-
+```php
 	//Devuelve true para autorizar, si no HTTP 403
 	public function authorize()
 	{
@@ -334,9 +335,9 @@ El form request tiene una funcion en su interfaz destiada a **verificar si el us
 		$comment = Comment::find($this->route('comment'));
     	return $comment && $this->user()->can('update', $comment);
 	}
+```
 	
-	
-###Acceder al validador
+### Acceder al validador
 
 Podes acceder al validador generado por el form request definiendo una funcion **withValidator()** dentro del form request. recibis el validador **antes de que sea usado para validar el request** y podes **mutarlo (no hace falta devolver nada)** 
 
@@ -508,5 +509,5 @@ Una vez que tenes el validador podes añadirle una logica para validar.
 		    return $input->games >= 100;
 		});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwNDcxOTcwXX0=
+eyJoaXN0b3J5IjpbMTYxNjk5ODAxNl19
 -->
