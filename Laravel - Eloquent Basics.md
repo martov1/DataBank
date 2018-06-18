@@ -569,9 +569,9 @@ Podes enviar cosas usando condicionales
 		        'updated_at' => $this->updated_at,
 		    ];
 		}
-```
+	```
 * **varios condicionales:**
-
+	```php
 	public function toArray($request)
 	{
 	    return [
@@ -586,12 +586,13 @@ Podes enviar cosas usando condicionales
 	        'updated_at' => $this->updated_at,
 	    ];
 	}
-	
-##Modificar la HTTP response del resource
-
+	```
+## Modificar la HTTP response del resource
+```php
 	new UserResource(User::find(1)))
 	                ->response()
 	                ->header('X-Value', 'True');
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ2MjgxMTldfQ==
+eyJoaXN0b3J5IjpbOTA4MDgxOTY5XX0=
 -->
