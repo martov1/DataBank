@@ -879,11 +879,11 @@ Aca tenes que tener una tabla intermedia que sea **tabla1_tabla2 con las ids de 
 
 
 
-##Repositories
+## Repositories
 
 
-sirven para representar **colecciones de cosas**, de esta forma no las tenes en el controller,** o cosas que se repiten en varios controllers, y que por algun motivo no van en el modelo** (porque por ejemplo es algo que **combina varios modelos**).
-
+sirven para representar **colecciones de cosas**, de esta forma no las tenes en el controller,**o cosas que se repiten en varios controllers, y que por algun motivo no van en el modelo** (porque por ejemplo es algo que **combina varios modelos**).
+```php
 	namespace App\Repostories
 	
 	use App\User
@@ -897,21 +897,23 @@ sirven para representar **colecciones de cosas**, de esta forma no las tenes en 
 			//query que devuelve los usaurios editores
 		}
 	}
-
+```
 
 Despues podes accederlo por **DI**
 
-
+```php
 	public function hola(Users $users){
 		$losAdmins = $users->administrators()
 	}
+```
 
 o lo podes **instanciar diectamente**
-
+```php
 	$users = new \App\Repositories\Users
 	$losAdmins = $users->administrators
+```
 
-#Webpack
+# Webpack
 
 
 Laravel usa Webpack y un script llamado Webpack mix para precompilar los archivos de frontend, podes precompilar **SASS, Less, minimizar JS, etc**
@@ -919,24 +921,24 @@ Laravel usa Webpack y un script llamado Webpack mix para precompilar los archivo
 Los archivos precompilados van en **/resources** y corriendo **node watch** a medida que los cambias los compila en **/public**
 
 
-#Authentication
+# Authentication
 
 
 
-#Uso de sesiones
+# Uso de sesiones
 
 Una vez que el usuario esta autenticado y tiene una sesion, podes guardar datos en la sesion y usarlos durante la navegacion entre paginas del usuario
 
-
+```php
 //guardar algo en la sesion
 	session(['miSaludo'=>'holaaaa!!!!'])
 //extraer algo de la sesion
 	session('miSaludo', 'saludo default por si la variable miSaludo no esta definida')
-
-##Flash
+```
+## Flash
 
 Sirve para guardar algo para la proxima pagina que visite el usuario, despues de eso se borra
-
+```php
 
 	//en alguna pagina
 	session()->flash('mensaje'=>'hola juan!')
@@ -945,7 +947,7 @@ Sirve para guardar algo para la proxima pagina que visite el usuario, despues de
 
 	//en home
 	session(mensaje) // tiene el valor de 'hola juan'
-
+```
 
 ---
 
@@ -986,6 +988,6 @@ podes enviarlos asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODI4MTkyMywxOTk5NTU3NzkzLDc4Nj
-c1NTk1N119
+eyJoaXN0b3J5IjpbLTE3Mzc5MzI1ODMsMTk5OTU1Nzc5Myw3OD
+Y3NTU5NTddfQ==
 -->
