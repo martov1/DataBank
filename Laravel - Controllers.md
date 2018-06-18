@@ -39,7 +39,7 @@ Se guardan por default en la ruta **app/http/controllers** y **bajo el mismo nam
 	
 
 **Se ven asi:**
-
+```php
 	class UserController extends Controller{
 		
 		//El id es un parametro que me dio el router, queda por DEPENDENCY INYECTION
@@ -51,34 +51,35 @@ Se guardan por default en la ruta **app/http/controllers** y **bajo el mismo nam
 			return $usuarios
 		}
 	}
-
+```
 
 **En el Router:**
 
 Notese que la sintaxis es **NombreDeController@FuncionDelController**
-
+```php
 		Route::get('usuarios/{id}', 'UserController@mostrar')
+```
+## Controllers y namespaces
 
-##Controllers y namespaces
-
-Es importante notar que Laravel autematicamente identifica los controllers relativos al namespace **App/Http/Controllers**, esto se puede cambiar en el **RouteProviderService**
+Es importante notar que Laravel autematicamente identifica los controllers relativos al namespace `App/Http/Controllers`, esto se puede cambiar en el **RouteProviderService**
 
 * Si tenes controllers en subcarpeta (**App/Http/Controllerss/feature1**) **tenes que especificar el namespace**
-
+```php
 		Route::get('foo', 'feature1\MiController@method');
-
+```
 * Si queres tener los **controllers fuera de la carpeta controllers**, es necesario cambiar el namespace desde el **RouteProviderService**
-
+```php
     	protected $namespace = 'App\Http\Controllers';
     	//to
     	protected $namespace = 'App\Http\Features'
-	
+```
 	Y en la ruta usas el namespace a partir de esa carpeta
+```php
 		// App\Http\Features\miController.php
 		Route::get('phicq', 'MyController@index');
 		// App\Http\Features\feature1\miController.php
 		Route::get('phicq', 'feature1\MyController@index');
-
+```
 
 
 ##Single action controllers
@@ -324,5 +325,5 @@ Podes añadir metodos customizados directamente en el controller, Pero es import
 	//Rutas del resource
 	Route::resource('photos', 'PhotoController');	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwNTA3ODg4XX0=
+eyJoaXN0b3J5IjpbLTE4MjQzMTk2MzIsNzEwNTA3ODg4XX0=
 -->
