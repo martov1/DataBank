@@ -20,36 +20,38 @@ Los filesstems configurados estan en **config/filesystem.php** y se los denomina
 
 # Local driver
 
-##Public disk
+## Public disk
 
 El public disk esta ubicado en **storage/app/public** y usa el **local driver**, esta diseñado para aquellos datos que deben ser de acceso publico.
 
 **para activarlo hay que crear un symbolic link en la carpeta public/storage**
 
 Esto se puede automatizar con
-	
+
 	php artisan storage:link
 
 
 **Podes generar una URL de un archivo en el public disk asi:**
-
+```php
 $url= asset('storage/file.txt');
+```
 
-
-#manipular archivos
+# manipular archivos
 
 * Para guardar un archivo en **storage/path**  usando el **local drive**
-
+```php
 		Storage::disk('DRIVE')->put('file.txt', 'Contents');
-
+```
 * Para obtener un archivo hacer
-
+```php
 		Storage::disk('DRIVE')->get('file.txt');
-	
+```
 * Para verificar existencia haces
+```php
 		$exists = Storage::disk('DRIVE')->exists('file.jpg');
-
+```
 * Para forzar una descarga para el usuario, haces
+	```	
 		return Storage::download('file.jpg');
 	
 		return Storage::download('file.jpg', $name, $headers);
@@ -69,5 +71,5 @@ $url= asset('storage/file.txt');
 		
 		Storage::append('file.log', 'Appended Text');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDcwNzgxMV19
+eyJoaXN0b3J5IjpbLTE5MjM5NzM0NzVdfQ==
 -->
