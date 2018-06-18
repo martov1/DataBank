@@ -439,25 +439,25 @@ Busca por la prmera columna de una tabla un varlor y devuelve unel valor de una 
 * **col_index_num** el N de la columna de la tabla Table_array cuyo cell queres devolver cuando encuentres el valor en lookup_value
 * **range_lookup:** dejar en false!
 
-![](http://www.databison.com/wp-content/uploads/2009/07/vlookup.gif)
+![enter image description here](https://lh3.googleusercontent.com/3IAAF294V07x4DmrMildsRMHMwC0eSNB62xlEZHWMZAP5YZ4e-8hr8EvsFOubK18D1loNaagy3RN)
  
  ## Hlookup
  
  Identico, pero compara los valores del primer row del table array y devuelve un row N
  
- ![](http://i.markdownnotes.com/999.jpg)
+ ![enter image description here](https://lh3.googleusercontent.com/F7eo6-vIVoVo3Gd-AAyINR6zKlVT4qHFd9FCsDkqZ-kGVg7uj1AUMTZ6nOmdGkjI3DvTRqIst-pI)
  
  ## Index() and Match()
  
  
  * **Index** en una tabla, devuelve el valor de la columna N, row M
+![enter image description here](https://lh3.googleusercontent.com/WOoIi0lBCDktZK_acvQEOqUONfxxZR1KkvlPRmaw5VKZDczRHoAzXbsQ8G3yhqzDVrogHXKDZyAL)
 
-![](http://i.markdownnotes.com/7878.jpg)
 
 * **Match()** 
 	* En una columna, devuelve el numero de row donde este un valor. 
 	* En una row devuelve enl numero de columna donde esta el valor
- V![](http://i.markdownnotes.com/5656556.jpg)
+ ![](http://i.markdownnotes.com/5656556.jpg)
 
 ### Combinacionde nidex y match
 
@@ -639,5 +639,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2MzUxMDE5LDEyMjE5NTA2NDZdfQ==
+eyJoaXN0b3J5IjpbLTExODc2NjU0MzksMTIyMTk1MDY0Nl19
 -->
