@@ -102,18 +102,18 @@ o con la funcion **redirectTo()** si necesitas algo dinamico
 	{
 	    return '/path';
 	}
-
-##Username para autenticar
+```
+## Username para autenticar
 
 Por default laravel usa el **email** como username, pero esto puede modificarse por otro campo configurando la funcion **username()** en el **loginController**
-
+```php
 	public function username()
 	{
 	    return 'username';
 	}
+```
 	
-	
-##Validado y guardado del usuario
+## Validado y guardado del usuario
 
 El controller **RegisterController** se encarga de validar, crear y guardar nuevos usuarios.
 
@@ -121,54 +121,55 @@ El controller **RegisterController** se encarga de validar, crear y guardar nuev
 * **create()** - Contiene la logica que guarda los datos del usuario en la DB, generalmente usando el modelo **App/User**
 
 
-##Acceder al usuario autenticado
+## Acceder al usuario autenticado
 
 Podes acceder al usuario autenticado que fue autenticado con los controllers de la siguiente manera:
-
+```php
 	Auth::user() //Obtener el usuario
 	Auth::id() //Obtener el id del usuario
 	$request->user() //Obtener el usuario a partir de un request
-
-###Determinar si el usuario esta autenticado
+```
+### Determinar si el usuario esta autenticado
 
 Podes determinar si el usuario esta autenticado asi
-
+```php
 	Auth::check() //True si esta autenticado
+```
+
+# Proteger rutas 
 
 
-#Proteger rutas 
-
-
-El **Auth middleware**  tiene la capacidad de permitir acceso a ciertas rutas solo a usuarios autenticados. El middleware esta en **Illuminate\Auth\Middleware\Authenticate**
+El **Auth middleware**  tiene la capacidad de permitir acceso a ciertas rutas solo a usuarios autenticados. El middleware esta en `Illuminate\Auth\Middleware\Authenticate`
 
 **Para bloquear el acceso a usuarios no autenticados a una ruta:**
-
+```php
 	Route::get('profile',MiController@unaAccion)->middleware('auth');
-
+```
 **En un controller**
-
+```php
 	public function __construct()
 	{
 	    $this->middleware('auth');
 	}
-	
-##Especificar un guard
+```
+## Especificar un guard
 
 Usando el middleware **Auth** podes **especificar el guard que vas a usar**
-
+```php
 	 public function __construct(){
 	    $this->middleware('auth:MiGuard');
 	}
-##Redirigir al usuario no autenticado
+```
+## Redirigir al usuario no autenticado
 
 Si el usuario no esta autenticado, laravel puede:
-* **Responder** con JSON **code 401 **si es un request AJAX
+* **Responder** con JSON **code 401** si es un request AJAX
 * **Redireccionar** a la ruta con nombre **login**
 
 
 Podes cambiar este comportamiento en el handler de exceptions **app/exceptions/Handler.php** definidiendo la funcion **unAuthenticated()**
 
-
+```php
 	protected function unauthenticated($request, AuthenticationException $exception)
 	{
 	    return $request->expectsJson()
@@ -668,5 +669,5 @@ Podes determinar si un token tiene un scope determinado en codigo asi:
 	$request->user()->tokenCan('mi-scope')
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4MzcwMDAxLDE3MzEzMDMyMzVdfQ==
+eyJoaXN0b3J5IjpbMTI2ODkxNjQ1XX0=
 -->
