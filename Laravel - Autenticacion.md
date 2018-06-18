@@ -352,20 +352,21 @@ La autenticacion para apis en general se hace usando el modelo Oauth2 usando **p
 		        'provider' => 'users',
 		    ],
 		],
+	```
 * Al pasar a produccion, generar **keys nuevas**
-		php artisan passport:keys
+		`php artisan passport:keys`
 
-##Configuracion
+## Configuracion
 	
 Por default los tokens de laravel **expiran despues de un año**, esto se puede cambian usando **tokensExpireIn()** y **refreshTokensExpireIn()**. Estos metodos deben llamarse desde el **boot()** del **AuthServiceProvider**
-
+```php
 	public function boot()
 	{
 	    Passport::tokensExpireIn(now()->addDays(15));
 	    Passport::refreshTokensExpireIn(now()->addDays(30));
 	}
-
-###Rutas preconfiguradas
+```
+### Rutas preconfiguradas
 
 Las siguientes rutas ya vienen configuradas en **Passport::routes** y por eso no necesitan ser definidas manualmente.
 
@@ -374,7 +375,7 @@ Las siguientes rutas ya vienen configuradas en **Passport::routes** y por eso no
 * **/oauth/clients** - Client API
 * **GET /oauth/scopes**  - Lista todos los scopes de la aplicacion
 
-##Oauth flows de passport
+## Oauth flows de passport
 
 Todos los metodos de autenticacion **necesitan** la creacion de un **client**
 
@@ -399,16 +400,16 @@ Los metodos de autenticacion provistos por passport son los siguientes, junto co
 	* proveer token a Usuario ya autenticado por otro medio
 
 
-##Crear clientes
+## Crear clientes
 
 Los **clientes** son aquellos que consumen el sistema de autenticacion Oauth, podria ser **otra aplicacion**, **el usuario a travez de tu web app** o **otro de tus servers**
 
-###Localmente
+### Localmente
 **Para crear un cliente localmente haces:**
 
 	php artisan passport:client
 
-###Via una API
+### Via una API
 
 
 Podes usar una JSON API que viene predefinida para permitir que terceros creen clientes (o usarla con tu propio frontend).
@@ -427,14 +428,14 @@ Podes usar una JSON API que viene predefinida para permitir que terceros creen c
 	
 	
 	
-##Authentication code flow
+## Authentication code flow
 
 >Este procedimiento es **para que un third party** pueda **obtener un access token en nombre de un usuario**.
 >Durante el proceso el usuario sera **redireccionado a tu app para loguearse** y luego **redireccionado a la app original** con un **Authentication code**.
 >El third-party luego debera usar el Authentication code para obtener un Access token
 >usando su clientID y ClientSecret
 
-###Obtencion del Authorization code
+### Obtencion del Authorization code
 El desarrollador cuya aplicacion quiere acceder en nombre de un usuario a tu aplicacion debera hacerte un request a **/oauth/authorize** con:
 
 * Client_id
@@ -454,7 +455,7 @@ Al llegar este request a laravel, se mostrara una **pantalla de login** para que
 * Editar el view ubicado en:
 		resources/views/vendor/passport
 		
-###Obtencion del Access token
+### Obtencion del Access token
 
 El desarrollador ahora debera enviar un **POST** a la ruta **/oauth/token** de tu aplicacion para pedir un **Access token** con la siguiente informacion
 
@@ -676,5 +677,5 @@ Podes determinar si un token tiene un scope determinado en codigo asi:
 	$request->user()->tokenCan('mi-scope')
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODgxNzUyOV19
+eyJoaXN0b3J5IjpbMTAzMzAwNzA2NV19
 -->
