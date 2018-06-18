@@ -94,7 +94,7 @@ Podes definir tu gate en una clase separada y despues acceder a sus metodos igua
 ## Usar un gate
 
 Una vez que creaste un gate, para usar un gate para decidir algo cuando un usuario esta loguead:
-
+```php
 	// Si el gate devuelve true
 	if (Gate::allows('MiGate', $post)) {
 	    // The current user can update the post...
@@ -104,28 +104,28 @@ Una vez que creaste un gate, para usar un gate para decidir algo cuando un usuar
 	if (Gate::denies('MiGate', $post)) {
 	    // The current user can't update the post...
 	}
-	
+```
 **laravel pasa la instancia de este usuario al gate automaticamente**
 	
-##Usar gate para un resource
+## Usar gate para un resource
 
 Podes abreviar con una sola linea todos los gates para las operaciones CRUD
-
+```php
 	Gate::resource('posts', 'App\Policies\PostPolicy');
-
+```
 **Equivale a:** 
-
+```php
 	Gate::define('posts.view', 'App\Policies\PostPolicy@view');
 	Gate::define('posts.create', 'App\Policies\PostPolicy@create');
 	Gate::define('posts.update', 'App\Policies\PostPolicy@update');
 	Gate::define('posts.delete', 'App\Policies\PostPolicy@delete');
+```
 
 
-
-##Verificar si un user pasa un gate
+## Verificar si un user pasa un gate
 
 Si tenes un model de un usuario y queres ver si pasa un gate, haces:
-
+```php
 	if (Gate::forUser($user)->allows('update-post', $post)) {
 	    // The user can update the post...
 	}
@@ -133,13 +133,13 @@ Si tenes un model de un usuario y queres ver si pasa un gate, haces:
 	if (Gate::forUser($user)->denies('update-post', $post)) {
 	    // The user can't update the post...
 	}
-	
-###Correr logica antes o despues de los gates
+```
+### Correr logica antes o despues de los gates
 
 Podes correr una pieza de codigo **antes de que se corra cualquier gate** usando la **funcion gate::before()**
 
 >Si la funcion devuelve algo **que no es NULL** entonces **se considera a ese valor el resultado de los gates**
-
+```php
 	Gate::before(function ($user, $ability) {
 	    if ($user->isSuperAdmin()) {
 			//Los gates no se corren, esta sera la respuesta del gate
@@ -149,15 +149,15 @@ Podes correr una pieza de codigo **antes de que se corra cualquier gate** usando
 			return null
 		}
 	});
-
+```
 
 **Correr algo despues de los gates:**
-
+```php
 	Gate::after(function ($user, $ability, $result, $arguments) {
 	    //
 	});
-	
-#Policies
+```
+# Policies
 
 >Son clases que **organizan la logica de autorizacion alrededor de un modelo o recurso.** Por lo que estan **necesariamente atadas a un model**
 
@@ -320,5 +320,5 @@ Dentro del controller podes usar el metodo **authorize()** para determiar si una
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQ5MDA5OTRdfQ==
+eyJoaXN0b3J5IjpbMTM1NDc5NTA3Ml19
 -->
