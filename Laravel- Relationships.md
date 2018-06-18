@@ -774,13 +774,13 @@ Si al modificar un child model con una relacion **belongsTo()** o **belongsToMan
 ```
 
 
-#Verificar existencia de una relacion
+# Verificar existencia de una relacion
 
 
 Podes ver si existe una relacion para un elemento determinado asi:
 
 * **Ver si existe una relacion entre dos modelos:**
-
+	```php
 		//Ver si tiene comentarios
 		$posts = App\Post::has('comments')->get();
 		//Ver si tiene mas de 3 comentarios
@@ -789,18 +789,18 @@ Podes ver si existe una relacion para un elemento determinado asi:
 		//Podes concatenar dos has() statements asi
 		//que tenga coments y votes
 		$posts = App\Post::has('comments.votes')->get();
-	
+	```
 * **Para mayor capacidad, podes usar un callback:**
-
+	```php
 		//Buscar posts donde tengas comentarios
 		$posts = App\Post::whereHas('comments', function ($query) {
 			// con columna content like foo%
     		$query->where('content', 'like', 'foo%');
 		})->get();
-	
+	```
 * **Verificar la no existencia de una relacion:**
 Son metodos analogos.
-
+	```php
 		$posts = App\Post::doesntHave('comments')->get();
 	
 		$posts = App\Post::whereDoesntHave('comments', function ($query) {
@@ -810,7 +810,7 @@ Son metodos analogos.
 		$posts = App\Post::whereDoesntHave('comments.author', function ($query) {
     		$query->where('banned', 1);
 		})->get();
-		
+	```
 #Contar la cantidad de relaciones
 
 ##N° de relaciones
@@ -876,5 +876,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjI4MDYyM119
+eyJoaXN0b3J5IjpbLTE5MzMwNzQyNDVdfQ==
 -->
