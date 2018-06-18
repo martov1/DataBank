@@ -389,24 +389,25 @@ Las tablas **users**, **roles** y **users_roles** que  es la **"tabla pivot"**
 		return $this->belongsToMany('App\roles')->as('rolDeUsuario')
 	```
 * Lo accedes asi;
-		```php
+	```php
 		foreach ($users as $user) {
 		    echo $user->rolDeUsuario->created_at;
 		}
-
-##Filtrar usando el modelo pivot
+	```
+## Filtrar usando el modelo pivot
 
 Podes filtrar un query usando los datos de la tabla pivot:
-
+```php
 		return $this->belongsToMany('App\Role')->wherePivot('approved', 1);
 		
 		return $this->belongsToMany('App\Role')->wherePivotIn('priority', [1, 2]);
-
-##Definit un modelo pivot custom
+```
+## Definit un modelo pivot custom
 
 Podes definir tu propio modelo pivot en caso de que la tabla pivot tenga una complejidad que lo requiera.
 
 * **En el modelo que usara el modelo pivot**
+```php
 		class Role extends Model
 		{
 			//Defino la relacion many-to-many
@@ -416,6 +417,7 @@ Podes definir tu propio modelo pivot en caso de que la tabla pivot tenga una com
 		        return $this->belongsToMany('App\User')->using('App\UserRole');
 		    }
 		}
+```
 * **El modelo pivot customizado**
 		namespace App;
 		use Illuminate\Database\Eloquent\Relations\Pivot;
@@ -848,5 +850,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzY4MjEzNiwzNDQxNTkxMDldfQ==
+eyJoaXN0b3J5IjpbLTk3NTkwOTE0OCwzNDQxNTkxMDldfQ==
 -->
