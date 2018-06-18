@@ -51,18 +51,21 @@ $url= asset('storage/file.txt');
 		$exists = Storage::disk('DRIVE')->exists('file.jpg');
 ```
 * Para forzar una descarga para el usuario, haces
-	```	
+```php	
 		return Storage::download('file.jpg');
 	
 		return Storage::download('file.jpg', $name, $headers);
-
+```
 * Para obtener una URL haces
+	```php
 			$url = Storage::url('file.jpg');
-
+```
 * Para obtener una URL temporal haces
+```php
 		 $url = Storage::temporaryUrl(
     		'file.jpg', now()->addMinutes(5)
 		);
+```
 * Obtener metadata
 		$time = Storage::lastModified('file.jpg');
 		$size = Storage::size('file.jpg');
@@ -71,5 +74,5 @@ $url= asset('storage/file.txt');
 		
 		Storage::append('file.log', 'Appended Text');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM5NzM0NzVdfQ==
+eyJoaXN0b3J5IjpbMTY3MzExNzgxM119
 -->
