@@ -713,22 +713,29 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 		$user->save();
 	```
 * **podes declarar que un modelo ya no pertenece a otro asi:**
+	```php
 		$user->account()->dissociate();
 		$user->save();
-
-##Many-to-many
+	```
+## Many-to-many
 
 
 * **Para indicar que un modelo pertenece a otro**
+	```php
 		$user->roles()->attach($roleId);
-
+	```
 * **Para hacerlo e incertar un valor en la tabla pivot**
+	```php
 		$user->roles()->attach($roleId, ['expires' => $expires]);
+	```
 * **Para indicar que un modelo ya no pertenece a otro**
-		$user->roles()->detach($roleId);
+	```php
+		$user->roles()->detach($roleId);	
+	```	
 * **para remover todas las relaciones de un modelo con otro**
+	```php
 		$user->roles()->detach();
-
+	```
 >Todas estas funciones aceptar **arrays de ids** o **arrays de ids y valores** 
 ```
 $user->roles()->detach([1, 2, 3]);
@@ -869,5 +876,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4MzIxMDQ1XX0=
+eyJoaXN0b3J5IjpbLTU4NDI3OTI0NV19
 -->
