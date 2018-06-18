@@ -644,5 +644,5 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzE1Mzg5OSwxMjIxOTUwNjQ2XX0=
+eyJoaXN0b3J5IjpbLTk2NzE1Mzg5OV19
 -->
