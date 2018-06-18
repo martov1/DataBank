@@ -120,26 +120,22 @@ Con parametros:
 # Redireccion
 
 Podes redirigir un request asi
-	
+```php	
 	//Especificas desde donde, a donde redirigir y con que codigo de redirecion
 	Route::redirect('/DESDEAQUI', '/HASTAAQUI', CODIGO 3XX);
 	//ej
 	Route::redirect('/here', '/there', 301);
+```
+
+# Parametros
 
 
 
----
-
-
-#Parametros
-
-
-
-##Patametros de URL
+## Patametros de URL
 
 Podes conseguir parametros de la url colocando el parametro entre **{}** y colocandolo en el callback/controller
 	
-	
+```php	
 	//Un parametro
 	Route::get('user/{id}', function ($id) {
 	    // Hacer cosas
@@ -148,27 +144,28 @@ Podes conseguir parametros de la url colocando el parametro entre **{}** y coloc
 	Route::get('posts/{post}/comments/{comment}', function ($postId, $commentId) {
     	// Hacer cosas 
 	});
-	
+```
+
 * los parametros 
 	* **No pueden** contener **Guiones -** 
 	* **pueden** contener **guiones bajos _** y caracteres **alfanumericos**
 * Los parametros son **inyectados en los callbacks o funciones en el orden en el que son escritos**
 
-##Parametros opcionales
+## Parametros opcionales
 
 Podes determinar parametros opcionales, pero en ausencia de ellos debe haber un **default** preconfigurado
-	
+```php	
 	//Colocas 'John' como default si no hay nada configurado
 	Route::get('user/{name?}', function ($name = 'John') {
 	    return $name;
 	});
-
-##Parametros con defaults
+```
+## Parametros con defaults
 
 Podes definir parametros que al estar ausentes tengan un valor default. podes asignar estos defaults **en un middleware** para no tener que hacerlo en cada ruta.
 
 Los defaults se setean con **URL::defaults**
-
+```php	
 	namespace App\Http\Middleware;
 	use Closure;
 	use Illuminate\Support\Facades\URL;
@@ -182,20 +179,20 @@ Los defaults se setean con **URL::defaults**
 	        return $next($request);
 	    }
 	}
+```
 
 
 
-
-##Limitar parametros con RegEx
+## Limitar parametros con RegEx
 
 Podes limitar los parametros utilizables mediante una RegEx, si la RegEx devuelve **true** entonces el parametro se utiliza. 
-
+```php	
 	Route::get('user/{name}', function ($name) {
 	    //hacer cosas
 	})->where('name', '[A-Za-z]+');
-
+```
 Podes hacer que esta limitacion sea **global** usando **Route::pattern()** en un **service provider**
-	
+```php	
 	//Hacer que todas las rutas sean numericas.
 	public function boot()
 	{
@@ -203,8 +200,7 @@ Podes hacer que esta limitacion sea **global** usando **Route::pattern()** en un
 	
 	    parent::boot();
 	}
-
----
+```php	
 
 #Rutas nombradas
 
@@ -447,5 +443,5 @@ En blade tambien podrias usar este shorthand
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjU5MTYxNzBdfQ==
+eyJoaXN0b3J5IjpbLTg0NDk1NDE5OF19
 -->
