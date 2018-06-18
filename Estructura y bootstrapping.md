@@ -159,7 +159,7 @@ Laravel busca el header **X-CSRF-TOKEN** en el request
 Se hace editando el middleware **VerifyCsrfToken**
 
 Si tenes una **API que no usa SESIONES** entonces no lo necesitas.
-
+```php
 	<?php
 		
 	namespace App\Http\Middleware;
@@ -179,17 +179,17 @@ Si tenes una **API que no usa SESIONES** entonces no lo necesitas.
 	        'http://example.com/foo/*',
 	    ];
 	}
-
-###OS permissions
+```
+### OS permissions
 
 El web server debe tener permiso de escritura para las carpetas **storage** y **bootstrap/cache**. El resto de las carpetas pueden tener permiso de lectura unicamente (esto seria mas seguro)
 
-###Aplication key
+### Aplication key
 
 Si instalas laravel usando artisan o composer entonces se genera automaticamente una key de 32 chars en el archivo **.env**, esta key se usa para encriptar sesiones y otros datos.
 
 
-##Capacidades
+## Capacidades
 
 * Capacidad de **authentication** y **access control**
 * Usa **composer** como CLI interface y deployer
@@ -204,7 +204,7 @@ Si instalas laravel usando artisan o composer entonces se genera automaticamente
 *  **Asset configutaction**
 *  **Eloquent ORM**
 
-###Capacidades artisan cli
+### Capacidades artisan cli
 
 * **crear**
 	* Controllers
@@ -229,12 +229,12 @@ Si instalas laravel usando artisan o composer entonces se genera automaticamente
 	php artisan make:controller MiController
 	php artisan migrate
 
-###Capacidades de eloquent
+### Capacidades de eloquent
 
 Es un orm que facilita el trabajo realizando querys con una DB
 
 Utiliza modelos para representar tablas como objetos
-
+```php
 	use App/Todo
 	$todo = new Todo;
 	$todo->title = "Some Todo"
@@ -993,5 +993,5 @@ podes enviarlos asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTY0ODY5M119
+eyJoaXN0b3J5IjpbLTgwNjE1ODE1M119
 -->
