@@ -551,7 +551,8 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 			    }
 			}
 	```
-	* Otro modelo```php
+	* Otro modelo
+	```php
 			class Video extends Model
 			{
 			    public function comments()
@@ -562,19 +563,20 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 			        return $this->morphMany('App\Comment', 'commentable');
 			    }
 			}
-		
+	```
 * **Uso:**
+	```php
 		//Obtener los comentarios vinculados polimorficamente
 		$post->comments
 		$video->comments
 		
 		//Obtener el video/post al cual esta vinculado un comentario
 		$comment->commentable;
-		
-#Relaciones polimorficas many-to-many
+	```
+# Relaciones polimorficas many-to-many
 
 
-* **Relaciones polimorficas Many to Many **
+* **Relaciones polimorficas Many to Many**
 	* Varios  tags $T$ pueden ser de VARIOS videos $V$ Y de VARIAS fotos $P$
 	* .$T_1,T_2,T_3 \iff V_1,V_2,V_3 \quad \text{and} \quad T_1,T_2,T_3 \iff P_1,P_2P_3$  
 
@@ -859,5 +861,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0NTk0MDAwXX0=
+eyJoaXN0b3J5IjpbNTMzNjI0MjE0XX0=
 -->
