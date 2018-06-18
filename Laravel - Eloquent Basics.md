@@ -234,7 +234,6 @@ Para Indicar que campos pueden modificarse (**whitelist**) o que campos prohibis
 				//lo creo y lo guardo en la DB
 				$flight = MiModelo::create($LoQueQuierCrear);
 			```
-			
 .
 * **firstOrCreate()**
 	* Intenta ubicar un modelo con los datos provistos
@@ -244,35 +243,37 @@ Para Indicar que campos pueden modificarse (**whitelist**) o que campos prohibis
 				// buscar, si no existe, crearlo y guardarlo
 				$AtributosDeBusqueda =  ['name' => 'Flight 10'], ['delayed' => 1]
 				$flight = App\Flight::firstOrCreate($AtributosDeBusqueda);
-			```
-			
+			```	
 .
 * **firstOrNew()**
 	* Intenta ubicar un modelo con los datos provistos  
 	* si no lo encuentra entonces crea uno nuevo con los datos del array
+		```php
 			// buscar, si no existe, crearlo pero no guardarlo
 			$AtributosDeBusqueda =  ['name' => 'Flight 10'], ['delayed' => 1]
 			$flight = App\Flight::firstOrNew($AtributosDeBusqueda);
-	
+		```
 
-###Modificacion de modelos usando arrays
+### Modificacion de modelos usando arrays
 
 
 
 * **fill():** 
 	* Te permite actualizar los datos de un modelo usando un array 
+		```php
 			$loQueQuieroModificar = [
 			'columna1' => 'Flight 10',
 			'columna2' => 'Flight aa' 
 			]
 			$flight->fill($loQueQuieroModificar);
-			
-			
+		```
+.
 * **update()**
 	* Te permite actualizar una **coleccion de modelos** usando un array
+		```php
 			MiModel::where('active', 1)
 			->update(['col1' => "unValor", col2=> 3]); 
-			
+		```	
 			
 * **updateOrCreate()**
 	*  Intenta actualizar un modelo con ciertos datos, si no lo encuentra entonces
@@ -568,5 +569,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTg2NTA5MV19
+eyJoaXN0b3J5IjpbNTI2MDYwOTE3XX0=
 -->
