@@ -683,29 +683,35 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 
 ### Desde un modelo
 * **Podes guardar un modelo relacionado asi:**
+	```php
 		$post->comments()->save($comment);
-
+	```
 * **Podes guardar multiples modelos asi:**
+	```php
 		$post->comments()->saveMany([$comment1,$comment2]);
-		
-###Desde un array
+	```
+### Desde un array
 
 * **Podes crear un modelo relacionado asi**
+	```php
 		$comment = $post->comments()->create([
 		    'message' => 'A new comment.',
 		]);
+	```
 * Crear varios modelos asi:
+	```php
 		$post->comments()->createMany([
 		    ['message' => 'A new comment.'],
 			[ 'message' => 'Another new comment'],
 		]);
-	
-##One-to-one Inverse / one-to-many inverse
+	```
+## One-to-one Inverse / one-to-many inverse
 
 * **podes declarar que un modelo pertenece a otro asi**
+	```php
 		$user->account()->associate($account);
 		$user->save();
-
+	```
 * **podes declarar que un modelo ya no pertenece a otro asi:**
 		$user->account()->dissociate();
 		$user->save();
@@ -863,5 +869,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY2NDEyNTFdfQ==
+eyJoaXN0b3J5IjpbOTY4MzIxMDQ1XX0=
 -->
