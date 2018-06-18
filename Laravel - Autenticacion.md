@@ -558,13 +558,13 @@ Para habilitarlo hace falta añadir el middleware **CheckClientCredentials** a a
 
 
 Para botener un token tenes que hacer un **POST** al endpoint **oauth/token**
-
+```php
         'grant_type' => 'client_credentials',
         'client_id' => 'client-id',
         'client_secret' => 'client-secret',
         'scope' => 'your-scope',
-
-##Personal access tokens
+```
+## Personal access tokens
 
 >Este flow **no es para third partys**
 >**los personal access tokens siempre tienen expiracion de UN AÑO, sin importar lo
@@ -577,10 +577,10 @@ Si no corriste	  **_php artisan passport:install_** entonces para crear un clien
 
 		php artisan passport:client --personal
 
-###Crear tokens
+### Crear tokens
 
 Podes crear un token para un usuario, asi:
-
+```php
 	//Encontras el modelo de un usuario
 	$user = App\User::find(1);
 	
@@ -589,11 +589,11 @@ Podes crear un token para un usuario, asi:
 	
 	// Creating a token with scopes...
 	$token = $user->createToken('My Token', ['place-orders'])->accessToken;
-
+```
 Se lo podes enviar en el mismo request para que el usuario haga lo que desee con el.
 
 
-###API para personal access tokens
+### API para personal access tokens
 
 Laravel viene con una API para permitir que el la aplicacion (ej: angular) o el usuario administren sus personal acccess tokens
 
@@ -606,7 +606,7 @@ Crea un nuevo Access token
 Permite al usuario borrar un token
 
 
-##Proteger rutas
+## Proteger rutas
 
 **Passport tiene su propio driver para el API guard, el cual ya colocaste durante la instalacion**, asi que solamente indicando que vas a usar el api guard en la ruta es suficiente.
 
@@ -615,48 +615,48 @@ Permite al usuario borrar un token
 * Esta en el header **Authorizartion: Bearer ELTOKEN**
 
 **La ruta se proteje asi:**
-
+```php
 	Route::get('/user', function () {
 	    //
 	})->middleware('auth:api');
-	
+```
 
-##Scopes
+## Scopes
 
 Los scopes te permiten definir permisos que tiene un token para hacer acciones que puede hacer le user.
 
-###Definir scopes
+### Definir scopes
 Para definir scopes, haces lo siguiente en el **AuthServiceProvider**
-
+```php
 	Passport::tokensCan([
 		//'Nombre-De-Scope'=>'Descripcion'
 	    'place-orders' => 'Place orders',
 	    'check-status' => 'Check order status',
 	]);
+```
 
-
-###Solicitar un token con cierto scope
+### Solicitar un token con cierto scope
 
 Cuando pedis un token, lo podes pedir con ciertos scopes, **el server determinara si te da acceso a esos scopes o no**.
-
+```php
         'client_id' => 'client-id',
         'redirect_uri' => 'http://example.com/callback',
         'response_type' => 'code',
         'scope' => 'place-orders check-status',
-		
+```
 **Si asignas un personal token, lo podes entregar con cualquier scope:**
-
+```php
 	$token = $user->createToken('My Token', ['place-orders'])->accessToken;
+```
 
 
 
-
-###Filtrar ruta por token scope
+### Filtrar ruta por token scope
 podes usar los middleware **CheckScopes** y **CheckForAnyScope**
-
+```php
 	'scopes' => \Laravel\Passport\Http\Middleware\CheckScopes::class,
 	'scope' => \Laravel\Passport\Http\Middleware\CheckForAnyScope::class,
-
+```php
 * **scopes** - Determinar si tiene TODOS los scopes de una lista
 * **scope** - Determinar si tiene AL MENOS UNO de los scopes de una lista
 
@@ -678,5 +678,5 @@ Podes determinar si un token tiene un scope determinado en codigo asi:
 	$request->user()->tokenCan('mi-scope')
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTAwMzU3MV19
+eyJoaXN0b3J5IjpbLTQyODYyMjI3NV19
 -->
