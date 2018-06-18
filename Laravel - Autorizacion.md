@@ -24,7 +24,7 @@
 
 
 
-#Intro
+# Intro
 
 Laravel tienedos formas de autorizar acciones
  
@@ -38,18 +38,18 @@ Laravel tienedos formas de autorizar acciones
 
 
 
-#Gates
+# Gates
 
-##Crear un gate
+## Crear un gate
 Los gates se definen en la **funcion boot()** del **AuthServiceProvider** usando la **Gate facade** y reciben **una instancia del usuario como primer argumento**.
 
 Puede recibir otros argumentos, como por ej algun **modelo de eloquent**
 
 
-###Como un closure
+### Como un closure
 **El gate debe devolver un BOOLEAN**
 
-
+```php
 	public function boot()
 	{
 	    $this->registerPolicies();
@@ -59,13 +59,14 @@ Puede recibir otros argumentos, como por ej algun **modelo de eloquent**
 	        return $user->id == $post->user_id;
 	    });
 	}
-	
-###Como una clase separada
+```
+
+### Como una clase separada
 
 Podes definir tu gate en una clase separada y despues acceder a sus metodos igual que como haces con un controller. **es mucho mas limpio**
 
 **En tu clase separada**
-
+```php
 	namespare App/misClases/MiGate
 	
 	class MiPostGate{
@@ -79,9 +80,9 @@ Podes definir tu gate en una clase separada y despues acceder a sus metodos igua
 		}
 	
 	}
-
+```
 **En AuthServiceProvider**
-
+```php
 	public function boot()
 	{
 	    $this->registerPolicies();
@@ -89,8 +90,8 @@ Podes definir tu gate en una clase separada y despues acceder a sus metodos igua
 	    Gate::define('actualizar-post', MiPostGate@actualizar);
 		Gate::define('crear-post', MiPostGate@crear);
 	}
-
-##Usar un gate
+```
+## Usar un gate
 
 Una vez que creaste un gate, para usar un gate para decidir algo cuando un usuario esta loguead:
 
@@ -319,5 +320,5 @@ Dentro del controller podes usar el metodo **authorize()** para determiar si una
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzQwMDkwMl19
+eyJoaXN0b3J5IjpbLTE3MzQ5MDA5OTRdfQ==
 -->
