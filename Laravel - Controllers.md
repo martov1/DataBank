@@ -1,6 +1,6 @@
 
 
-#Contenido
+# Contenido
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-#Creacion
+# Creacion
 
 Los controladores pueden existir entre los **routes** y los **views** para determinar comportamiento.
 
@@ -324,5 +324,5 @@ Podes añadir metodos customizados directamente en el controller, Pero es import
 	//Rutas del resource
 	Route::resource('photos', 'PhotoController');	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzQxNDQ3NF19
+eyJoaXN0b3J5IjpbNzEwNTA3ODg4XX0=
 -->
