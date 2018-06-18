@@ -514,7 +514,7 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 
 * **En el modelo con polimorfismo:**
 
-
+	```php
 		use Illuminate\Database\Eloquent\Model;
 		use Illuminate\Database\Eloquent\Relations\Relation;
 
@@ -533,7 +533,7 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 		        return $this->morphTo();
 		    }
 		}
-
+	```
 
 
 
@@ -857,5 +857,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjc5MjkyNF19
+eyJoaXN0b3J5IjpbLTE4MjU4MDgxNTJdfQ==
 -->
