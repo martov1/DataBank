@@ -503,15 +503,18 @@ Con **sometimes** podes valida un campo unicamente si esta presente
 Una vez que tenes el validador podes añadirle una logica para validar.
 
 
-* Validar el campo "reason" con los validadores `'required|max:500' solo si el campo games es mayor o igual a 100.
+* Validar el campo "reason" con los validadores `'required|max:500'` solo si el campo games es mayor o igual a 100.
+	```php
 		$validator->sometimes('campoAValidar', 'Validadores', function ($input) {
 		    //Si devolves TRUE, campoAValidar sera validado con los Validadores
 		});
-		
+	```
 	EJ:
+	```php
 		$v->sometimes('reason', 'required|max:500', function ($input) {
 		    return $input->games >= 100;
 		});
+	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjY5NjMzNl19
+eyJoaXN0b3J5IjpbLTE4ODA1NjgwMzJdfQ==
 -->
