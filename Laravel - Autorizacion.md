@@ -215,7 +215,7 @@ Las policies estan constituidas por
 		* **false** si no.
 
 Las funciones deben devolver **true o false** dependiendo de si la accion fue autorizada o no.
-
+```php
 		class PostPolicy
 		{
 		    //El usuario puede ACTUALIZAR este post?
@@ -232,11 +232,11 @@ Las funciones deben devolver **true o false** dependiendo de si la accion fue au
 		        return $user->puedePostear === true;
 		    }
 		}
-		
-###Logica previa a las reglas
+```
+### Logica previa a las reglas
 
 Podes tener logia antes de que se ejecute cualquiera de las funciones de la policy con la funcion **before()**.
-
+```php
 	// El usuario y la habilidad solicitada son parametros
 	public function before($user, $ability)
 	{
@@ -245,12 +245,12 @@ Podes tener logia antes de que se ejecute cualquiera de las funciones de la poli
 	        return true;
 	    }
 	}
+```
 
 
+## Usar policies
 
-##Usar policies
-
-###Determinar si un user tiene autorizacion
+### Determinar si un user tiene autorizacion
 
 podes usar el helper function del modelo **user**, que pide el nombre del metodo del policy y el nombre del modelo a modificar.
 
@@ -322,5 +322,5 @@ Dentro del controller podes usar el metodo **authorize()** para determiar si una
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTk2NDU2OF19
+eyJoaXN0b3J5IjpbMTA5NTc1Mjc0NiwxMzI5OTY0NTY4XX0=
 -->
