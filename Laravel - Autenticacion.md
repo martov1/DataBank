@@ -61,7 +61,7 @@ Adding Custom Guards
 
 
 
-#Intro
+# Intro
 
 La configuracion para autenticacion esta en **config/auth.php**
 
@@ -75,7 +75,7 @@ La configuracion para autenticacion esta en **config/auth.php**
 * **ForgotPassowrdController** - Maneja el envio de links para reseteo de contraseña via email
 
 
-#Auth out of the box
+# Auth out of the box
 
 Laravel puede preparar todo lo necesario para una autenticacion inicial asi:
 
@@ -89,17 +89,16 @@ Este comando prepara
 * **Rutas** para los endpoints
 * **HomeController** para enviar al usuario logueado a _algun lado_
 
-Los views creados se colocan en **resources/views/auth**
+Los views creados se colocan en `resources/views/auth`
 
-##Redirecciones
+## Redirecciones
 
 Los controllers de autenticacion indican a donde redirigen cuando el usuario se loguea con la propiedad **$redirectTo**
-
+```php
 	protected $redirectTo = '/un/path';
-	
+```
 o con la funcion **redirectTo()** si necesitas algo dinamico
-
-	protected function redirectTo()
+```php	protected function redirectTo()
 	{
 	    return '/path';
 	}
@@ -669,5 +668,5 @@ Podes determinar si un token tiene un scope determinado en codigo asi:
 	$request->user()->tokenCan('mi-scope')
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTMwMzIzNV19
+eyJoaXN0b3J5IjpbNzU4MzcwMDAxLDE3MzEzMDMyMzVdfQ==
 -->
