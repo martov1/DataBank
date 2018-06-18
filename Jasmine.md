@@ -31,7 +31,7 @@ https://jasmine.github.io/api/edge/global
 
 
 
-#Contenido
+# Contenido
 
 * Conceptoa basicoa
 	* Tests y suites
@@ -56,9 +56,9 @@ https://jasmine.github.io/api/edge/global
 
 
 
-#Concepto basico
+# Concepto basico
 
-##Tests y suites
+## Tests y suites
 
 Jasmine agrupa los **tests** en conjuntos denominados **suites**, la idea es que una funcion ó pieza de codigo probablemente tenga varios tests asociados para probar diferentes cosas, entonces los agrupas en una suite
 
@@ -68,7 +68,7 @@ Jasmine agrupa los **tests** en conjuntos denominados **suites**, la idea es que
 	* Como parametro 1 toma un **string** que **describe el comportamiento esperado del codigo testeado** 
 
 
-```
+```js
 describe ("miSuite",()=>{
 	it("deberia hacer blabla 1 ",()=>{
 		// mi test 1
@@ -85,7 +85,7 @@ describe ("miSuite",()=>{
 
 Tambien pueden haber **describes anidados**
 
-```
+```js
 describe ("miSuite",()=>{
 	it("deberia hacer blabla 1 ",()=>{
 		// mi test 1
@@ -101,10 +101,10 @@ describe ("miSuite",()=>{
 })
 ```
 
-##Assertions con expect() y sus matchers
+## Assertions con expect() y sus matchers
 
 La funcion **expect()** toma como parametro una funcion u objeto, lo evalua y lo devuelve como un objeto con multiples metodos (Llamados matchers) para comparar el resultado de esa evaluacion con el resultado esperado.
-```
+```js
 describe ("saludo",()=>{
 	it('should say Hola',()=>{
 		expect (saludo()).toBe("hola")	//Comparacion con el resultado esperado
@@ -117,9 +117,9 @@ describe ("saludo",()=>{
 	* **.toBe(param)** - Que el valor sea igual (===) a **param**
 	* **toEqual({OBJ})** - Compara el resultado con el objeto dado. hace **deep comparison**
 	* **.toBeCloseTo(float, precis)** - Que el valor este cerca de un numero, con cierto margen de precision expresado en cantidad de decimales
-```
-expect(number).toBeCloseTo(42.2, 3);
-```
+		```js
+		expect(number).toBeCloseTo(42.2, 3);
+		```
 	* **.toBeDefined()** - Que el valor no sea indefnido
 	* **.toBeUndefined()**
 	* **.toBeFalsy()** - Que el type casting a bool no de false
@@ -398,5 +398,5 @@ describe (miFuncion,()=>{
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5MDA0MjRdfQ==
+eyJoaXN0b3J5IjpbMTAwOTI3MzA2MCwzODkwMDQyNF19
 -->
