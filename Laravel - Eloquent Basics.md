@@ -124,18 +124,18 @@ Por default laravel espera que en las tablas exista
 		    const CREATED_AT = 'miColuma1';
 		    const UPDATED_AT = 'miColuma2';
 		}
-	
-##Definir otra DB para un modelo
+	```
+## Definir otra DB para un modelo
 
 Podes determinar que u modelo usa una conexion a una DB determinada asi:
-
+```php
 	class Flight extends Model
 	{
 	    protected $connection = 'connection-name';
 	}
+```
 
-
-#Lectura de datos
+# Lectura de datos
 
 Aquellos metodos que sacan mas de un modelo usan **colecciones**, las colecciones **tienen muchos helper methods similares a LoDash**
 
@@ -159,16 +159,16 @@ Aquellos metodos que sacan mas de un modelo usan **colecciones**, las coleccione
 
 
 * **AGREGACION:**
-	* **MiModel::where('active', 1)->count();	**
+	* **MiModel::where('active', 1)->count();**
 		* Cuenta la cantidad de instancias que salen del query
 	* **MiModel::::where('active', 1)->max('price');**
 		* Determina la instancia de mayor valor 
 	* **MiModel::::where('active', 1)->sum('price');**
 		* Determina la suma de todas las instancias. 
 
-#Creacion y edicion de datos
+# Creacion y edicion de datos
 
-##Por modificacion del modelo - SAVE()
+## Por modificacion del modelo - SAVE()
 
 Podes instanciar un nuevo modelo o obtener un modelo de la base de datos y luego llamar a la funcion **save()**
 
@@ -183,9 +183,11 @@ Podes instanciar un nuevo modelo o obtener un modelo de la base de datos y luego
 	* Lo **poblas** con datos
 	* usas la funcion **save()**
 		* se actualizan automaticamente **created_at** y **updated_at**
+		```php
 				$flight = new Flight;
 				$flight->name = $request->name;
 				$flight->save();
+	```
 
 
 * **Creacion de un nuevo modelo:**
@@ -562,5 +564,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MzE1ODA5XX0=
+eyJoaXN0b3J5IjpbMTI2OTQxOTAwMV19
 -->
