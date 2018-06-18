@@ -367,7 +367,7 @@ Desde ahi:
 * Se entrega el request al **router**
 * El **router activa el middleware de ruta** que corresponda.
 * El router usa su logica o la del **controller** para procesar el request
-* El Router o controller** devuelven una respuesta** y esta se envia al cliente
+* El Router o controller **devuelven una respuesta** y esta se envia al cliente
 
 
 ![enter image description here](https://lh3.googleusercontent.com/1hiHL5JaLxKG9eIbT_Gz0bNmNuDrapyCJ5yNMMgCQNexQe23aAmJ3MMzNIm88Gw65DrRWTGIEmvi)
@@ -375,11 +375,11 @@ Desde ahi:
 ![](http://i.markdownnotes.com/flow_laravel_FUz0i4h_0uUbk89.jpg)
 
 
-##Dependency inyection 
+## Dependency inyection 
 
 
 Podes hacer dependency inyection simplemente requiriendo una clase usando **use** y despues colocando una variable con esa clase en el **contructor**
-
+```php
 	use App/Respotories/UserRepostory
 	
 	class MiController extends Controller{
@@ -393,16 +393,17 @@ Podes hacer dependency inyection simplemente requiriendo una clase usando **use*
 			$this->miUserRepostory =$miUserRepostory
 		}
 	}
+```
+## Service providers
 
-##Service providers
 
 
-
-###Registrar nuevos servicios
+### Registrar nuevos servicios
 
 Los service providers **permiten registrar y bootstrapear servicios**, los servicios contienen logica que no va en el controller.
 
-* Cada **service provider** configura una serie de **binds** que indican como y que se instancia cuando instancias el servicio.
+* Cada **service provider** configura una serie de **binds** que indican como y que se instancia cuando instancias el servicio
+	```php
 		class MiServiceProvider extends ServiceProvider {
 	
 			public function register(){
@@ -423,7 +424,7 @@ Los service providers **permiten registrar y bootstrapear servicios**, los servi
 			
 			}
 		}
-		
+	```
 		
 * Larvel **registra estos binds:**
 	*  leyendo las clases nombradas en **array de providers de app/config/app.php**
@@ -438,11 +439,11 @@ para hacer eso es necesario que el composer autoloader haya cargado las clases.
 >**path:** app/CustomStuff/CustomDirectory/SomeClass.php.
 
 
-###bootear servicios
+### bootear servicios
 
 Si necesitas que tu siervicio tenga acceso a otro servicio o a alguna clase o funcionalidad que tiene que **haberse cargado con anterioredad** entonces tenes que colocar esto en la funcion **boot()** del service provder, esta funcion **se ejecuta despues de registrar todos los bindings**
 	
-	
+```php
 	use Illuminate\Contracts\Routing\ResponseFactory;
 	class ComposerServiceProvider extends ServiceProvider
 	{
@@ -453,22 +454,22 @@ Si necesitas que tu siervicio tenga acceso a otro servicio o a alguna clase o fu
 	       app()->otroBinding()
 	    }
 	}
+```
 
 
 
 
-
-###Instanciar servicios
+### Instanciar servicios
 
 Podes **crear una instancia de un service provider** en cualquier lado de la app referenciando el nombre de su bind
-
+```php
 	//asi
 	$miInstancia = App::make('nombreDelBindDelServiceProvider')
 	// o asi
 	$miInstancia = $app['nombreDelBindDelServiceProvider']
+```
 
-
-###Deferir servicios
+### Deferir servicios
 
 
 Podes deferir servicios, eso implica que **solo se cargara cuando sea utilizado**, para eso necesitas indicar **que clases provee este servicio**, esto lo haces implementando la funcion **provides()**
@@ -993,5 +994,6 @@ podes enviarlos asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTU1Nzc5Myw3ODY3NTU5NTddfQ==
+eyJoaXN0b3J5IjpbLTE4NTU3OTYzNTEsMTk5OTU1Nzc5Myw3OD
+Y3NTU5NTddfQ==
 -->
