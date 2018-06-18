@@ -872,10 +872,11 @@ Cargas todos los datos de contacto de cada autor.
 		}])->get();
 	```
 * **Precargar una relacion dimanicamente:**
-	
+	```php
 		if ($someCondition) {
 		    $books->load('author', 'publisher');
 		}
+	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjgwMjIwODddfQ==
+eyJoaXN0b3J5IjpbLTEyMzk5MTE0NTldfQ==
 -->
