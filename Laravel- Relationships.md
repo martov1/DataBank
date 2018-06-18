@@ -539,6 +539,7 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 
 * **En los modelos vinculados al modelo con polimorfismo**
 	* Un modelo 
+	```php
 			class Post extends Model
 			{
 			    public function comments()
@@ -549,7 +550,8 @@ Un comentario $C$ puede ser de UN video $V$ o (**OR EXCLUSIVO**$\oplus $) de UNA
 			        return $this->morphMany('App\Comment', 'commentable');
 			    }
 			}
-	* Otro modelo
+	```
+	* Otro modelo```php
 			class Video extends Model
 			{
 			    public function comments()
@@ -857,5 +859,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU4MDgxNTJdfQ==
+eyJoaXN0b3J5IjpbNTA0NTk0MDAwXX0=
 -->
