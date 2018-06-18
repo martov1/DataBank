@@ -475,7 +475,7 @@ Podes **crear una instancia de un service provider** en cualquier lado de la app
 Podes deferir servicios, eso implica que **solo se cargara cuando sea utilizado**, para eso necesitas indicar **que clases provee este servicio**, esto lo haces implementando la funcion **provides()**
 
 
-	
+```php
 	class RiakServiceProvider extends ServiceProvider
 	{
 	    //Indicas que esta deferido
@@ -496,12 +496,10 @@ Podes deferir servicios, eso implica que **solo se cargara cuando sea utilizado*
 	    }
 	}
 
+```
 
 
----
-
-
-##Views
+## Views
 
 Estan ubicadas en **resources/views**
 
@@ -512,55 +510,55 @@ Estan ubicadas en **resources/views**
 Donde **nombre** sera el nombre del view que **usaremos para referenciarlo en codigo**
 
 
-###Variables de template
+### Variables de template
 
 Podes outputear variables de forma similar a Angular
-
+```html
 	<div>{{$miVariable}}</div>
+```
 
-
-###Bloques logicos
+### Bloques logicos
 
 
 
 los bloques logicos se hacen asi
 
 * **foreach:**
-
+	```php
 		@foreach($coleccion as $item)
 			
 			<li>{{$item}}</li>
 		
 		@endforeach
-
+	```
 * **If, else**
-
+	```php
 		@if(CONDICION)
 		   @extends("template/index")
 		@else
 		    @extends("template/login")
 		@endif
-
-**While:**
-
+	```
+* **While:**
+	```php
     	@while (CONDICION)
     	  <li>{{{ $item }}</li>
     	@endforeach
-	
-###extends e includes
+	```
+### extends e includes
 
 **Includes:**
 Un Includes simplemente trae HTML de otro archivo
 
 archivo1.blade.html
-	
+```html
 	<p>hola</p>
-
+```
 archivo2.html
-
+```html
 	@include('archivo1')
 	<p>jorge</p>
-
+```php
 Podes extender un archivo HTML con otro, y podes tener transclusion con datos de uno a otro.
 
 **extends:**
@@ -994,6 +992,6 @@ podes enviarlos asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU3OTYzNTEsMTk5OTU1Nzc5Myw3OD
+eyJoaXN0b3J5IjpbLTIwMzEzMDk4NjksMTk5OTU1Nzc5Myw3OD
 Y3NTU5NTddfQ==
 -->
