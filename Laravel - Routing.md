@@ -385,44 +385,44 @@ Podes condicionar el Rate limiting, por ejemplo, puede depender de un parametro 
 	    });
 	});
 ```
-#Route Model Binding
+# Route Model Binding
 
 Te permite a travez de un primary key (el id del modelo por default) inyectar el modelo correspondiente dentro de la ruta o controller
 
-##Implicit Binding
+## Implicit Binding
 
 La uri termina en  **/users/**, y la variable es de tipo **App/user** y se llama **$user**, entonces laravel sabe que debe inyectar el usuario con el id reflejado en **{id}**
 
 Si no lo encuentra entonces devuelve **HTTP code 404 not found**
-
+```php	
 	Route::get('api/users/{id}', function (App\User $user) {
 	    return $user->email;
 	});
+```
 
-
-###Implicit binding con otra key
+### Implicit binding con otra key
 
 Si queres usar implicit binding con **otra key que no sea id** podes cambiarlo en el **modelo** con la funcion **getRouteKeyName**
 
-
+```php	
 	public function getRouteKeyName()
 	{
 	    return 'miColumna';
 	}
-	
-##Explicit Binding
+```	
+## Explicit Binding
 
 Podes determinar explicitamente que un modelo debe ser inyectado en una ruta cuando aparezca una variable de ruta con un nombre detemrinado. esto debe hacerse en el **RouteServiceProvider**
 
 **En el RouteServiceProvider:**
-
+```php	
 	public function boot()
 	{
 	    parent::boot();
 		// Las rutas con {user} apuntaran siempre al model USER
 	    Route::model('user', App\User::class);
 	}
-
+```p
 **En la ruta:**
 	
 	Route::get('profile/{user}', function (App\User $user) {
@@ -449,5 +449,5 @@ En blade tambien podrias usar este shorthand
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjE4MDc2Ml19
+eyJoaXN0b3J5IjpbLTE2MjU5OTA5NTAsLTU2NjE4MDc2Ml19
 -->
