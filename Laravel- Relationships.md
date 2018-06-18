@@ -305,9 +305,10 @@ $\{U_1,U_2,U_3\} \iff \{R_1,R_2,R_3\}$
 
 Las tablas **users**, **roles** y **users_roles** que  es la **"tabla pivot"**
 ![enter image description here](https://lh3.googleusercontent.com/toROiU9phrvqaZBnRNWie87N_udZcu_6BFC6RR4bL7mcd_JMKmv29rOKWPpdXmzHFJxSiD17pkmV)
-![](http://i.markdownnotes.com/aaaaaa.jpg)
+
 
 * **Los modelos:**
+```php
 		//Modelo uno
 		class role extends Model
 		{
@@ -324,25 +325,25 @@ Las tablas **users**, **roles** y **users_roles** que  es la **"tabla pivot"**
 		        return $this->belongsToMany('App\Role');
 		    }
 		}
-
+```
 * **Uso:**
-
+```php
 	$user->roles
 	$role->users
+```
 
-
-##Uso de tablas o keys no default
+## Uso de tablas o keys no default
 
 * Podes declarar el uso de un foren key diferente de **modelo2_id** o **un primary key diferente del ID o de aquel declarado en $primaryKey** 
-
+```php
 		return $this->belongsToMany('App\Role', 'role_user');
-
+```
 
 * A su vez, podes indicar cuales son los nombres de la tabla pivot y sus campos asi
-
+```php
 		return $this->belongsToMany('App\Role', 'role_user', 'user_id', 'role_id');
-
-##Leer datos de la tabla pivot
+```
+## Leer datos de la tabla pivot
 
 * **Si tenes una tabla pivot asi:**
 
@@ -354,11 +355,12 @@ Las tablas **users**, **roles** y **users_roles** que  es la **"tabla pivot"**
 * La tabla **pivot** tiene su propio **modelo implicito**, si queres acceder a sus propiedades, podes
 	* **Ubicar una instancia de la relacion**
 	* **Iterar cada elemento de la relacion y acceder a su pivot**
+	```php
 			foreach ($user->roles as $role) {
 			    echo $role->pivot->created_at;
 			}
-
-##Extender el modelo pivot
+	```
+## Extender el modelo pivot
 
 **Tabla ejemplo:**
 
@@ -369,7 +371,9 @@ Las tablas **users**, **roles** y **users_roles** que  es la **"tabla pivot"**
 
 
 * **Hacer que la tabla pivot tenga timestamps created_at y pudated_at**
+		```php
 		return $this->belongsToMany('App\Role')->withTimestamps();
+	```
 
 
 * **Extender el modelo implicito "pivot" con propiedades extra que esten en la tabla pivot**
@@ -840,5 +844,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTM5MjA1MiwzNDQxNTkxMDldfQ==
+eyJoaXN0b3J5IjpbMTk1NjU2MjIxNiwzNDQxNTkxMDldfQ==
 -->
