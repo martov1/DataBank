@@ -811,17 +811,17 @@ Son metodos analogos.
     		$query->where('banned', 1);
 		})->get();
 	```
-#Contar la cantidad de relaciones
+# Contar la cantidad de relaciones
 
-##N° de relaciones
-
+## N° de relaciones
+```php
 			$posts = App\Post::withCount('comments')->get();
 			foreach ($posts as $post) {
 			    echo $post->comments_count;
 			}
-
-##N° de relaciones que cumplen una condicion
-
+```
+## N° de relaciones que cumplen una condicion
+```php
 	$posts = App\Post::withCount([
 	    'comments',
 	    'comments as pending_comments_count' => function ($query) {
@@ -830,11 +830,11 @@ Son metodos analogos.
 	])->get();
 	echo $posts[0]->comments_count;
 	echo $posts[0]->pending_comments_count;
-
-#Precargar relacion - Eager loading
+```
+# Precargar relacion - Eager loading
 
 Los **datos de una relacion no son cargados hasta que son requeridos**, eso significa que el siguiente codigo hace $N+1$ llamadas a la base de datos 
-
+```php
 	$books = App\Book::all(); //devuelve 10 libros
 	
 	foreach ($books as $book) {
@@ -842,9 +842,9 @@ Los **datos de una relacion no son cargados hasta que son requeridos**, eso sign
 	    echo $book->author->name;
 	}
 	//Totoal de llamados a DB=11
-	
+```
 * **Para precargar una relacion**
-	
+	```php
 		//dos querys
 		//Precargas la relacion "author"
 		$books = App\Book::with('author')->get(); //devuelve 10 libros con su autor
@@ -853,28 +853,29 @@ Los **datos de una relacion no son cargados hasta que son requeridos**, eso sign
 		foreach ($books as $book) {
 		    echo $book->author->name;
 		}
-	
+	```
 * **Precargar varias relaciones**
-
+	```php
 		$books = App\Book::with(['author', 'publisher'])->get();
-
+	```
 * **Precargar relaciones anidadas**
 Cargar todos los autores de los libros
 Cargas todos los datos de contacto de cada autor.
-
+	```php
 		$books = App\Book::with('author.contacts')->get();
-		
+	```
 * **limitar la precarga a ciertos datos**
 	Podes limitar aquellos datos que se precargan a los resultados de una query
+	```php
 		$users = App\User::with(['posts' => function ($query) {
 		    $query->where('title', 'like', '%first%');
 		}])->get();
-
+	```
 * **Precargar una relacion dimanicamente:**
 	
 		if ($someCondition) {
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzMwNzQyNDVdfQ==
+eyJoaXN0b3J5IjpbLTEwMjgwMjIwODddfQ==
 -->
