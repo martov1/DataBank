@@ -108,7 +108,7 @@ Podes tener acceso al request desde el controller usando **dependency inyection*
 
 * **Inyeccion del request en el controller**
 
-
+```php
 	//Colocas la clase y el request se inyecta solo por DI
 	use Illuminate\Http\Request
 	
@@ -325,5 +325,6 @@ Podes añadir metodos customizados directamente en el controller, Pero es import
 	//Rutas del resource
 	Route::resource('photos', 'PhotoController');	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDczNzkyNjAsNzEwNTA3ODg4XX0=
+eyJoaXN0b3J5IjpbLTEwMTIzMTU2NjgsLTE4MDczNzkyNjAsNz
+EwNTA3ODg4XX0=
 -->
