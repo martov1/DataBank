@@ -1,7 +1,7 @@
 
 
 
-#Contenido
+# Contenido
 
 * Drivers
 
@@ -10,7 +10,7 @@
 
 
 
-#Drivers
+# Drivers
 
 Los mailing drivers determinan que se usara para enviar los mail, estan configurados en **config/mail.php**
 
@@ -100,5 +100,5 @@ para **hacerlo en una fecha especifica**
 		->bcc($evenMoreUsers)
 		->later($when, new OrderShipped($order));
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTczNjQ4Nl19
+eyJoaXN0b3J5IjpbNjg0ODY3MjQ0XX0=
 -->
