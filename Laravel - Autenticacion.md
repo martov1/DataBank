@@ -319,23 +319,28 @@ La autenticacion para apis en general se hace usando el modelo Oauth2 usando **p
 **se instala asi:**
 
 * Instalar passport, inicializar sus tablas
-			```composer require laravel/passport=~4.0
-		php artisan migrate
-			php artisan passport:install```
+			`composer require laravel/passport=~4.0`
+			`php artisan migrate`
+			`php artisan passport:install`
 
 * Agregar las clases **HasApiTokens** y **Notifiable** al **modelo Users**
+	```php
 		class User extends Authenticatable
 		{
 		    use HasApiTokens, Notifiable;
 		}
+	```
 * Llamar a **Passport::toutes** desde el **boot()** de **AuthServiceProvider**
+	```php
    	 public function boot()
    	 {
    	     $this->registerPolicies();
 	
    	     Passport::routes();
    	 }
+	 ```
 * En **config/auth.php**, usar **passport** como **driver** en el listado de guards
+	```php
 		'guards' => [
 		    'web' => [
 		        'driver' => 'session',
@@ -671,5 +676,5 @@ Podes determinar si un token tiene un scope determinado en codigo asi:
 	$request->user()->tokenCan('mi-scope')
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg1NDMzNDFdfQ==
+eyJoaXN0b3J5IjpbMTAxODgxNzUyOV19
 -->
