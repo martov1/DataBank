@@ -121,23 +121,29 @@ En el **EncriptCookie middleware**
 		);
 	```	
 * Redirigir a **otro dominio**
+	```php
 		return redirect()->away('https://www.google.com');
+	```
 * Redirigir con **datos en flash session**
+	```php
 	    return redirect('dashboard')->with('status', 'Profile updated!');
-
-#Responses con views
+	```
+# Responses con views
 
 * Podes enviar un response con un view usando la funcion **view()**
+	```php
 		  return view('user.profile', ['user' => User::findOrFail($id)]);
-* Podes generar un response con un view** teniendo control granular de la respuesta** asi asi
+	```
+* Podes generar un response con un view **teniendo control granular de la respuesta** asi asi
+	```php
 		return response()
 		            ->view('hello', $data, 200)
 		            ->header('Content-Type', $type);
-
-#Responses con JSON
+	```
+# Responses con JSON
 
 Podes colocar automaticamente el header **content-type:aplication/json** y encodear data con Json asi:
-
+```php
 	return response()->json([
 	    'name' => 'Abigail',
 	    'state' => 'CA'
@@ -164,5 +170,5 @@ Permiten que el usuario **visualice algo (PDF, JPG, etc) en el browser sin trigg
 	
 	return response()->file($pathToFile, $headers);
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE1Nzk4MzBdfQ==
+eyJoaXN0b3J5IjpbLTMwNDUwMjQxMF19
 -->
