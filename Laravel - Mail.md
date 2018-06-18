@@ -38,10 +38,11 @@ Se caracterizan por tener una funcion **build()** dentro de la cual podes llamar
 * **text('contenido')** - Indica la version del mail en plain text
 
 
-##View data
+## View data
 
 Las variables que podes colocar en el template de view son las que esten defindas en el mailable como variables publicas.
 
+```php 
 	class MiMailable extends Mailable
 	{
 	    use Queueable, SerializesModels;
@@ -58,8 +59,9 @@ Las variables que podes colocar en el template de view son las que esten definda
 	        return $this->view('emails.orders.shipped');
 	    }
 	}
-	
-#Enviar email
+```
+
+# Enviar email
 
 * **Mail::to()** acepta:
 	* Una **direccion de email**
@@ -67,23 +69,27 @@ Las variables que podes colocar en el template de view son las que esten definda
 	* Una **coleccion de usuarios**
 
 Enviar email a usuario
-
+```php 
         Mail::to($request->user())->send(new MiMailable($order));
-		
-Con CC o CCO
+```
 
+Con CC o CCO
+```php 
 	Mail::to($request->user())
 	    ->cc($moreUsers)
 	    ->bcc($evenMoreUsers)
 	    ->send(new MiMailable($order));
+```
 
-
-#Renderizar un mail
+# Renderizar un mail
 
 pasar un mail a HTML asi:
-	return (new App\Mail\InvoicePaid($invoice))->render();
 
-#Enviar mail asincronicamente
+```php 
+	return (new App\Mail\InvoicePaid($invoice))->render();
+```
+
+# Enviar mail asincronicamente
 
 Enviar un mail puede retrasar un rquest, para hacerlo de **forma asyncronica** hacelo asi:
 
@@ -100,5 +106,5 @@ para **hacerlo en una fecha especifica**
 		->bcc($evenMoreUsers)
 		->later($when, new OrderShipped($order));
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjY2NDE3Ml19
+eyJoaXN0b3J5IjpbMjA2MjE4MjA2OF19
 -->
