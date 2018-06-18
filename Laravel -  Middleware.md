@@ -43,7 +43,7 @@ Podes crear un middleware con el siguiente comando de artisan
 	php artisan make:middleware MiMiddleware
 	
 **Se ve asi:**
-
+```php
 	namespace App\Http\Middleware;
 	use Closure;
 	
@@ -197,5 +197,5 @@ para creat un grupo tenes que reguistrarlo en el **http kernel** en la variable 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTY2NDgwN119
+eyJoaXN0b3J5IjpbLTIwMjE5MjYyNzNdfQ==
 -->
