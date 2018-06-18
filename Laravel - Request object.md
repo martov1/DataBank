@@ -340,7 +340,7 @@ El form request tiene una funcion en su interfaz destiada a **verificar si el us
 ### Acceder al validador
 
 Podes acceder al validador generado por el form request definiendo una funcion **withValidator()** dentro del form request. recibis el validador **antes de que sea usado para validar el request** y podes **mutarlo (no hace falta devolver nada)** 
-
+```php
 	//Hacer cosas con el validador
 	public function withValidator($validator)
 	{
@@ -353,13 +353,13 @@ Podes acceder al validador generado por el form request definiendo una funcion *
 			//cosas
         }
 	}
-
+```
 
 	
-###Customizar mensajes de error
+### Customizar mensajes de error
 
 Podes customizar los mensajes que son devueltos en caso de un error de validacion definiendo la funcion **messages()**
-
+```php
 	public function messages()
 	{
 	    return [
@@ -367,29 +367,33 @@ Podes customizar los mensajes que son devueltos en caso de un error de validacio
 	        'body.required'  => 'A message is required',
 	    ];
 	}
-
-##Trabajar con mensajes de error
+```
+## Trabajar con mensajes de error
 
 * **El primer mensaje de error de un campo** (cada rule genera un error distinto para el mismo campo) se puede obtener asi:
+	```php
 		$validator->errors();
 		echo $errors->first('email');
-
+	```
 * **Obtener todos los mensajes para un campo:**
+	```php
 		foreach ($errors->get('email') as $message) {
 		    //
 		}
-
+	```
 * **Obtener todos los mensajes de error:**
+	```php
 		foreach ($errors->all() as $message) {
 		    //
 		}
-		
+	```
 * **Ver su existe un mensaje de error**
+	```php
 		if ($errors->has('email')) {
 		    //
 		}
-		
-##Reglas de validacion
+	```		
+## Reglas de validacion
 
 * **bail** - Detener validacion ante el primer error
 
@@ -509,5 +513,5 @@ Una vez que tenes el validador podes añadirle una logica para validar.
 		    return $input->games >= 100;
 		});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjk5ODAxNl19
+eyJoaXN0b3J5IjpbMTE3ODcyODYwXX0=
 -->
