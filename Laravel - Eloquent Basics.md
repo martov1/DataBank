@@ -79,15 +79,15 @@ Podes definir que un modelo **use una tabla especifica** o un **primary key espe
 		    protected $table = 'MiTabla';
 			protected $primaryKey = 'miColumna'
 		}
-
-###Primary keys que no son integers
+```
+### Primary keys que no son integers
 
 Si queres usar in ID que
 * no es un **integer** 
 * No **autoincrementa** 
  
 podes especificarlo asi:
-
+```php
 		class Flight extends Model
 		{	
 			//No autoincrementa
@@ -95,25 +95,30 @@ podes especificarlo asi:
 			//no es un int
 			protected $keyType = 'string'
 		}
-		
-##Definir/configurar timestamps
+```
+
+## Definir/configurar timestamps
 
 Por default laravel espera que en las tablas exista
 * **created_at**
 * **updated_at**
 
 * Podes eliminar esta conducta asi:
-
+	```php
 		class Flight extends Model
 		{
 		    public $timestamps = false;
 		}
+	```
 * Podes editar el formato de fechas asi
+	```php
 		class Flight extends Model
 		{
 		    protected $dateFormat = 'U';
 		}
+	```
 * Podes indicar que las timestamps se guarden en otra columa asi
+	```php
 		class Flight extends Model
 		{
 		    const CREATED_AT = 'miColuma1';
@@ -557,5 +562,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzUzMTY3NV19
+eyJoaXN0b3J5IjpbNDU5MzE1ODA5XX0=
 -->
