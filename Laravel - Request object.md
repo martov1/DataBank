@@ -121,46 +121,51 @@ Devuelve un array con todos los datos del request
 	```
 * **input('dato')**
 Devuelve uno de los datos del request, acepta un default en caso de que el dato no exista
-```php
+	```php
 		$name = $request->input('name', 'default opcional');
-
-##Datos del query string
+	```
+## Datos del query string
 
 
 * Podes pedir un **valor del query** string usando
+	```php
 		$name = $request->query('name');
+	```
 * Podes colocar un** valor default** en caso de que no exista el query string
+	```php
 		$name = $request->query('name');
+	```
 * Podes obtener **todos los query strings** asi
+	```php
 		$query = $request->query();
-
-##Datos de un form
+	```
+## Datos de un form
 
 Podes acceder a un valor de un form con nombre "unNombre" asi:
-
+```php
 	$name = $request->unNombre;
-	
-##Datos en JSON
+```
+## Datos en JSON
 
 Si el request tiene datos en JSON podes accederlos de la siguiente manera siempre y cuando el header **Content-type: aplication/json** este presente
 
 **Objeto enviado en el request:**
-
+```php
 	{
 		child{
 			grandchild:"El valor que quier"
 		}
 	}
-
+```
 **accedes asi:**
-
+```php
 	$name = $request->input('objeto.child.grandchild');
-
-##Obtener algunos datos del request
+```
+## Obtener algunos datos del request
 
 Podes obtener los datos **que coincidan** con los nombres de un array o aquellos que **no coincidan**. 
 
-
+```php
 	//obtener SOLO username y password
 	$input = $request->only('username', 'password');
 	// Obtener todo salvo la tarjeta de credito
@@ -496,5 +501,5 @@ Una vez que tenes el validador podes añadirle una logica para validar.
 		    return $input->games >= 100;
 		});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk0Mzk5MTZdfQ==
+eyJoaXN0b3J5IjpbNDUxNTE4NDI0XX0=
 -->
