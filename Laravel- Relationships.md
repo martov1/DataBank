@@ -371,14 +371,15 @@ Las tablas **users**, **roles** y **users_roles** que  es la **"tabla pivot"**
 
 
 * **Hacer que la tabla pivot tenga timestamps created_at y pudated_at**
-		```php
+	```php
 		return $this->belongsToMany('App\Role')->withTimestamps();
 	```
 
 
 * **Extender el modelo implicito "pivot" con propiedades extra que esten en la tabla pivot**
+	```php
 		return $this->belongsToMany('App\Role')->withPivot('miCampo1', 'miCampo2');
-
+	```
 
 
 ##Nombrar el modelo pivot
@@ -844,5 +845,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjU2MjIxNiwzNDQxNTkxMDldfQ==
+eyJoaXN0b3J5IjpbMTg1NjQ3NDQ4MiwzNDQxNTkxMDldfQ==
 -->
