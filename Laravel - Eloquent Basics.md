@@ -183,11 +183,11 @@ Podes instanciar un nuevo modelo o obtener un modelo de la base de datos y luego
 	* Lo **poblas** con datos
 	* usas la funcion **save()**
 		* se actualizan automaticamente **created_at** y **updated_at**
-		```php
+			```php
 				$flight = new Flight;
 				$flight->name = $request->name;
 				$flight->save();
-	```
+			```
 
 
 * **Creacion de un nuevo modelo:**
@@ -195,16 +195,17 @@ Podes instanciar un nuevo modelo o obtener un modelo de la base de datos y luego
 	* **cambias** los datos
 	* usas la funcion **save()**
 		* se actualiza automaticamente **updated_at** 
+			 ```php
 				$flight = App\Flight::find(1);
 				$flight->name = 'New Flight Name';
 				$flight->save();
+			```
 
-
-##Usando array como fuente de datos
+## Usando array como fuente de datos
 
 Podes usar un **array de key,value pairs para definir un modelo que crear o actualizar**
 
-###Seguridad 
+### Seguridad 
 
 >Es impresciendible entonces que **los nombres y valores del array sean los que crees que son**, para que un **request malicioso** que es colocado directamente en una de estas funciones no pueda añadir arbitrariamente coas a todas las columnas de ese modelo.
 
@@ -564,5 +565,5 @@ Podes enviar cosas usando condicionales
 	                ->response()
 	                ->header('X-Value', 'True');
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTQxOTAwMV19
+eyJoaXN0b3J5IjpbMTA5ODQwMjc4MV19
 -->
