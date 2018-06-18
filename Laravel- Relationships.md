@@ -232,9 +232,11 @@ En el ejemplo: $P=\text{post}$, $C=\text{comment}$, y queres decir que n post ti
 		}
 ```
 * **uso:**
+```php
 		$comments = App\Post::find(1)->comments;
+```
 
-##Definir la inversa de la relacion
+## Definir la inversa de la relacion
 
 La relacion inversa $\{C_1,C_2,C_3\} \Rightarrow P_1 :$ es definida por la funcion `$this->belongsTo('App\Post');`
 
@@ -247,7 +249,8 @@ $C_2 \Rightarrow P_1$
 $C_3 \Rightarrow P_1$
 Y por consiguiente puedo usar la misma funcion que uso en las inversas de one-to-one, que es **belongsTo()**
 
-* **Declaracion: **
+* **Declaracion:**
+```php
 		namespace App;
 		use Illuminate\Database\Eloquent\Model;
 		//Dentro del modelo C
@@ -260,17 +263,19 @@ Y por consiguiente puedo usar la misma funcion que uso en las inversas de one-to
 		        return $this->belongsTo('App\Post');
 		    }
 		}
-	
+```
 * **Uso**
+```php
 		$comment->post
+```
 		
 		
-		
-##Uso de tablas o keys no default
+## Uso de tablas o keys no default
 
 
 Podes declarar el uso de un foren key diferente de **modelo2_id** o **un primary key diferente del ID o de aquel declarado en $primaryKey** 
 
+```php
 	//Usar un foreign key diferente de post_id
 	return $this->hasMany('App\Comment', 'foreign_key');
 	//Usar un foreign key diferente de post_id y un key diferente de
@@ -281,9 +286,9 @@ Podes declarar el uso de un foren key diferente de **modelo2_id** o **un primary
 	//Analogos para las relaciones inversas
 	return $this->belongsTo('App\Post', 'foreign_key');
 	return $this->belongsTo('App\Comment', 'foreign_key', 'local_key');
-	
+```
 
-#Many to many
+# Many to many
 
 
 Es una relacion donde dos modelos estan relacionados entre si.
@@ -296,7 +301,7 @@ $\{U_1,U_2,U_3\} \iff \{R_1,R_2,R_3\}$
 * .$\{R_1\} \Rightarrow \{U_1,U_2,U_3\}$
 	* `belongsToMany('App\User'); `
 
-##Declaracion y uso:
+## Declaracion y uso:
 
 Las tablas **users**,** roles **y** users_roles que  es la "tabla pivot"**
 
@@ -835,5 +840,5 @@ Cargas todos los datos de contacto de cada autor.
 		    $books->load('author', 'publisher');
 		}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTk3Mzk3MSwzNDQxNTkxMDldfQ==
+eyJoaXN0b3J5IjpbMjA4MjQ2MDY2NywzNDQxNTkxMDldfQ==
 -->
