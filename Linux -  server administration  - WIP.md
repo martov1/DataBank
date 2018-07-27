@@ -232,13 +232,14 @@ Cada permiso octal que coloques con chmod esta sinendo asignado a User, Group y 
 Le asigno **todos los permisos al user**, **permiso de lectura y escritura al grupo** y **permiso de solo lectura a otros**.
 
 	chmod 754 hola.txt
-	
+
+·
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTI2ODY1MiwtMTcyODUwMzAwNiwtMT
-E2Mzg5Mzc3MiwtMTIwNDcyMDkzNSwtMjA0ODM0MjA0Myw2NzI1
-MzI3OSwxMTY2NzI2ODk2LDE4MTU1NjE1Niw2OTg3NDgwNjQsLT
-E5NTM5ODYwMzUsLTEwNzcyMDg0MjIsNjkxNTc1Nzg2LDc3MDg3
-MzY0Nyw4MTg2OTkxMjQsMjAzODYyNzQ4NSwtMTI2NTQ5MDA0OS
-wtMjAwNTQ5OTg0MiwtNTQ4NTAyOTA0LC00OTk0ODI3MTgsMTcw
-MTc0OTAyOV19
+eyJoaXN0b3J5IjpbMTMzMzAwOTk1NSwtNTM1MjY4NjUyLC0xNz
+I4NTAzMDA2LC0xMTYzODkzNzcyLC0xMjA0NzIwOTM1LC0yMDQ4
+MzQyMDQzLDY3MjUzMjc5LDExNjY3MjY4OTYsMTgxNTU2MTU2LD
+Y5ODc0ODA2NCwtMTk1Mzk4NjAzNSwtMTA3NzIwODQyMiw2OTE1
+NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4NjI3NDg1LC
+0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5MDQsLTQ5
+OTQ4MjcxOF19
 -->
