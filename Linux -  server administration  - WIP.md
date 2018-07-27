@@ -207,13 +207,15 @@ el comando chmod te permite **cambiar los permisos de un archivo**
 | a         | all                                  |
 
 
-
+ej:
+Le permito a todos leer pero no editar
+	chmod ugoa +xr-w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ3MjA5MzUsLTIwNDgzNDIwNDMsNj
-cyNTMyNzksMTE2NjcyNjg5NiwxODE1NTYxNTYsNjk4NzQ4MDY0
-LC0xOTUzOTg2MDM1LC0xMDc3MjA4NDIyLDY5MTU3NTc4Niw3Nz
-A4NzM2NDcsODE4Njk5MTI0LDIwMzg2Mjc0ODUsLTEyNjU0OTAw
-NDksLTIwMDU0OTk4NDIsLTU0ODUwMjkwNCwtNDk5NDgyNzE4LD
-E3MDE3NDkwMjksMTYwNzgzNTY4NywzMzc3NTgxNjEsMTQ0ODc5
-NTQ5OF19
+eyJoaXN0b3J5IjpbLTE3NzAyMTMzODksLTEyMDQ3MjA5MzUsLT
+IwNDgzNDIwNDMsNjcyNTMyNzksMTE2NjcyNjg5NiwxODE1NTYx
+NTYsNjk4NzQ4MDY0LC0xOTUzOTg2MDM1LC0xMDc3MjA4NDIyLD
+Y5MTU3NTc4Niw3NzA4NzM2NDcsODE4Njk5MTI0LDIwMzg2Mjc0
+ODUsLTEyNjU0OTAwNDksLTIwMDU0OTk4NDIsLTU0ODUwMjkwNC
+wtNDk5NDgyNzE4LDE3MDE3NDkwMjksMTYwNzgzNTY4NywzMzc3
+NTgxNjFdfQ==
 -->
