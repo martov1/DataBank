@@ -235,15 +235,20 @@ Le asigno **todos los permisos al user**, **permiso de lectura y escritura al gr
 
 ### Permission groups
 
-Todos los archivos en general pertenecen a algun grupo, los usuarios son simepre **miembros de un grupo con su mismo nombre**
+Todos los archivos en general pertenecen a algun grupo, los usuarios son simepre **miembros de un grupo con su mismo nombre**, llamado tambien **primary group**
 
+Vemos como este archivo esta en el grupo "juan"
+
+	[juan@host ~]$ ls -l hola.txt
+	-rw-r--r--. 1 juan 36 feb 6 16:30 hola.txt
+	
 Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 
 	[juan@host ~]$ chgrp ventas hola.txt
 	[juan@host ~]$ ls -l hola.txt
 	-rw-r--r--. 1 juan ventas 36 feb 6 16:30 hola.txt 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDE2NzUxOCwtNTM1MjY4NjUyLC0xNz
+eyJoaXN0b3J5IjpbMTY1NTQ2MDQ1MiwtNTM1MjY4NjUyLC0xNz
 I4NTAzMDA2LC0xMTYzODkzNzcyLC0xMjA0NzIwOTM1LC0yMDQ4
 MzQyMDQzLDY3MjUzMjc5LDExNjY3MjY4OTYsMTgxNTU2MTU2LD
 Y5ODc0ODA2NCwtMTk1Mzk4NjAzNSwtMTA3NzIwODQyMiw2OTE1
