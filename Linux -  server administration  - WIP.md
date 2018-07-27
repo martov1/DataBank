@@ -132,7 +132,7 @@ Para mostrar archivos ocultos podes hacer
 
 ## Permissions
 
-## read, 
+### read, write, execute
 Los permisos tienen la siguiente simbologia
 
 
@@ -159,8 +159,11 @@ Hello World!
 ```
 
 ### Permission categories
+
+los permisos (read, write, execute) se pueden asignar a diferentes categorias, por ejemplo a **usuarios, grupos, etc**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MjYwNTE0LDExNjY3MjY4OTYsMTgxNT
+eyJoaXN0b3J5IjpbNTAwMTA3MzM1LDExNjY3MjY4OTYsMTgxNT
 U2MTU2LDY5ODc0ODA2NCwtMTk1Mzk4NjAzNSwtMTA3NzIwODQy
 Miw2OTE1NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4Nj
 I3NDg1LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5
