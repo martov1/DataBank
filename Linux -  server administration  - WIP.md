@@ -162,8 +162,9 @@ Hello World!
 
 los permisos (read, write, execute) se pueden asignar a diferentes categorias, por ejemplo a **usuarios, grupos, etc**
 
-> Todos los usuarios pertenecen a por lo menos un grupo
+> Todos los usuarios pertenecen a por lo menos una categoria
 
+**Las categorias son:**
 
 | Simbolo | Categoria |
 |---------|-----------|
@@ -171,16 +172,18 @@ los permisos (read, write, execute) se pueden asignar a diferentes categorias, p
 | g       | Group     |
 | o       | Other     |
 | a       | all       |
-```
 
 
-Para ver los grupos disponibles en el equipo podes hacer
-		groups
+
+**Para ver los grupos disponibles en el equipo podes hacer:**
+	
+	groups
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUzMjY4LDExNjY3MjY4OTYsMTgxNT
-U2MTU2LDY5ODc0ODA2NCwtMTk1Mzk4NjAzNSwtMTA3NzIwODQy
-Miw2OTE1NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4Nj
-I3NDg1LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5
-MDQsLTQ5OTQ4MjcxOCwxNzAxNzQ5MDI5LDE2MDc4MzU2ODcsMz
-M3NzU4MTYxLDE0NDg3OTU0OThdfQ==
+eyJoaXN0b3J5IjpbLTE0NzIzMjkzODcsMTE2NjcyNjg5NiwxOD
+E1NTYxNTYsNjk4NzQ4MDY0LC0xOTUzOTg2MDM1LC0xMDc3MjA4
+NDIyLDY5MTU3NTc4Niw3NzA4NzM2NDcsODE4Njk5MTI0LDIwMz
+g2Mjc0ODUsLTEyNjU0OTAwNDksLTIwMDU0OTk4NDIsLTU0ODUw
+MjkwNCwtNDk5NDgyNzE4LDE3MDE3NDkwMjksMTYwNzgzNTY4Ny
+wzMzc3NTgxNjEsMTQ0ODc5NTQ5OF19
 -->
