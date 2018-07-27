@@ -79,17 +79,21 @@ Es una variable del shell que contiene una **lista de directorios donde se busca
 **podes visualizarla haciendo:**
 Los diferentes directorios quedan separados por **":"**
 
-	echo $PATH
+	[juan@host ~]$ echo $PATH
 	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin...
 
 **Podes ver en que directorio de $PATH esta un comando haciendo:**
 
-	which ls
+	[juan@host ~]$ which ls
 
-## Ejecutar com
+## Ejecutar comandos fuera de $PATH
 
+Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
+
+	
+	[juan@host ~]$ cd /mi/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjMxMDY2OSwtNTQ4NTAyOTA0LC00OT
-k0ODI3MTgsMTcwMTc0OTAyOSwxNjA3ODM1Njg3LDMzNzc1ODE2
-MSwxNDQ4Nzk1NDk4XX0=
+eyJoaXN0b3J5IjpbLTE0MjE3NDA3ODksLTU0ODUwMjkwNCwtND
+k5NDgyNzE4LDE3MDE3NDkwMjksMTYwNzgzNTY4NywzMzc3NTgx
+NjEsMTQ0ODc5NTQ5OF19
 -->
