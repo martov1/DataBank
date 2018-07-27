@@ -135,17 +135,17 @@ Para mostrar archivos ocultos podes hacer
 Los permisos tienen la siguiente simbologia
 
 
-| Simbolo | Permiso | Archivo              | Directorio                                                |
-|---------|---------|----------------------|-----------------------------------------------------------|
-| r       | Read    | Leer el archivo      | Leer los nombres de los archivos en el dir                |
-| w       | Write   | Modificar el archivo | Modificar los nombres de los archivos en el dir           |
-| x       | Execute | Ejecutar el archivo  | Acceder al contenido y metadata lo los archivos en el dir |
+| Simbolo | Permiso | Archivo              | Directorio                                 |
+|---------|---------|----------------------|--------------------------------------------|
+| r       | Read    | Leer el archivo      | Leer los nombres de los archivos en el dir |
+| w       | Write   | Modificar el archivo | Crear, renombrar, borrar archvos en el dir |
+| x       | Execute | Ejecutar el archivo  | hacer cd al directorio y traversearlo      |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTU2MTU2LDY5ODc0ODA2NCwtMTk1Mz
-k4NjAzNSwtMTA3NzIwODQyMiw2OTE1NzU3ODYsNzcwODczNjQ3
-LDgxODY5OTEyNCwyMDM4NjI3NDg1LC0xMjY1NDkwMDQ5LC0yMD
-A1NDk5ODQyLC01NDg1MDI5MDQsLTQ5OTQ4MjcxOCwxNzAxNzQ5
-MDI5LDE2MDc4MzU2ODcsMzM3NzU4MTYxLDE0NDg3OTU0OThdfQ
-==
+eyJoaXN0b3J5IjpbMTE2NjcyNjg5NiwxODE1NTYxNTYsNjk4Nz
+Q4MDY0LC0xOTUzOTg2MDM1LC0xMDc3MjA4NDIyLDY5MTU3NTc4
+Niw3NzA4NzM2NDcsODE4Njk5MTI0LDIwMzg2Mjc0ODUsLTEyNj
+U0OTAwNDksLTIwMDU0OTk4NDIsLTU0ODUwMjkwNCwtNDk5NDgy
+NzE4LDE3MDE3NDkwMjksMTYwNzgzNTY4NywzMzc3NTgxNjEsMT
+Q0ODc5NTQ5OF19
 -->
