@@ -40,7 +40,7 @@ import{BrowserAnimationsModule} from '@angular/platform-browser/animations'
 
 Finalmente se carga en un component de ese modulo como metadata
 ````js
-import{trigger, styles, transition,state} from '@angular/platform-browser/animations'
+import{ { trigger, stylesate, style, animate, transition,state} from  '@angular/platform-browser/animations';
 @Component({ 
   animations:[animacion1, animacion2]
 })
@@ -210,6 +210,32 @@ Podes llamar a una funcion cuando la animacion comienza o termina, la funcion re
     </li>
 ````
 
+### Animaciones paralelas de parent y child
+
+Si queres animar un elemento que ademas tiene animaciones en elementos child en interior, tenes que usar la funcion `animateChild()`. Si no lo haces **solo vas a ver las animaciones del parent y las del child son bloqueadas.**
+````js
+//defino la animacion child
+trigger('animacio-hijo', [
+	//States, transitions,etc
+]),
+//Defino la animacion padre y ejecuto las animaciones hijo
+trigger('animacion-Padre', [
+	//States, transitions, etc
+	transition('true => false', [
+	//Selecciono el trigger child y lo animo
+		query('@animacio-hijo', [
+			animateChild()
+		]),
+	])
+]),
+````
+
+```html
+<div [@animacion-Padre]="unaVariable" >
+	<div [@animacio-hijo]="unaVariable">
+	</div>
+</div>
+```
 ## ejemplo completo:
 ````js
 animations: [
@@ -254,5 +280,5 @@ Se coloca el nombre del **trigger** entre corchetes con una @, luego se coloca e
 ````
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTUyODUxNl19
+eyJoaXN0b3J5IjpbLTU0NjU0Mzg2MSwxMDM1NTI4NTE2XX0=
 -->
