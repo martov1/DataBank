@@ -200,9 +200,10 @@ ngSwitch no tiene un valor o el valor no es un ngSwitchCase
 </div>
 ````
 
+
 ![enter image description here](https://lh3.googleusercontent.com/rZRPeZ-YZDoe5xd2orE262Gy2lqEtSJ0w_mzQxmbaiOc7ZGPy_QrcAIZh71vxLa11ve060gtpkHY)
 
-
+00BE79ZPnmDSFiee-Uic54WXLrQhzeJ9Vpz05APzg7d0l_uGvMsOW1m3hVthYrnCg3A12h5qZiOX)
 
 ---
 ## Attribute directives customizadas
@@ -238,6 +239,6 @@ Uso:
 ````
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTgxMjg0MCwtNzU1MjA5MDUsNDQ2Nz
-U0OTk0XX0=
+eyJoaXN0b3J5IjpbLTE5MjcyNDg1OTIsMTg3OTgxMjg0MCwtNz
+U1MjA5MDUsNDQ2NzU0OTk0XX0=
 -->
