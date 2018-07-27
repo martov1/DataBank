@@ -62,7 +62,7 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
 ## Commands mas comunes
 
 * **ls** - Lista el contenido del directorio
-* 
+	* **ls -ls** muestra informacion detallada del directorio 
 * **pwd** - Muestra el directorio actual
 * **cat** - Muestra el contenido de archivos
 * **echo** 
@@ -100,9 +100,13 @@ Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
 	
 	// Directamente llamando al comando con la ruta
 	[juan@host ~]$ cd /mi/carpeta/loca miComando
+
+
+
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDk0MzcwMCw4MTg2OTkxMjQsMjAzOD
-YyNzQ4NSwtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0MiwtNTQ4NTAy
-OTA0LC00OTk0ODI3MTgsMTcwMTc0OTAyOSwxNjA3ODM1Njg3LD
-MzNzc1ODE2MSwxNDQ4Nzk1NDk4XX0=
+eyJoaXN0b3J5IjpbODM2OTI2ODY3LDgxODY5OTEyNCwyMDM4Nj
+I3NDg1LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5
+MDQsLTQ5OTQ4MjcxOCwxNzAxNzQ5MDI5LDE2MDc4MzU2ODcsMz
+M3NzU4MTYxLDE0NDg3OTU0OThdfQ==
 -->
