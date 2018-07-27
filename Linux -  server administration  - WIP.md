@@ -4,8 +4,10 @@ ver https://www.udemy.com/linux-administration-bootcamp/
 ver https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 **Me quede en:** 013 Getting Help at the Command Line
+
+
 **VER:**
-* 
+* 018 Finding Files and Directories
 
 
 # Directory structure
@@ -255,7 +257,7 @@ Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzczNDQ5NSwxMzk5ODczMTgwLDgyNz
+eyJoaXN0b3J5IjpbLTc1MDUzMzYyMCwxMzk5ODczMTgwLDgyNz
 E1MDc0MywtMTc1MTA3MzA1MiwxNjU1NDYwNDUyLC01MzUyNjg2
 NTIsLTE3Mjg1MDMwMDYsLTExNjM4OTM3NzIsLTEyMDQ3MjA5Mz
 UsLTIwNDgzNDIwNDMsNjcyNTMyNzksMTE2NjcyNjg5NiwxODE1
