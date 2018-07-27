@@ -119,6 +119,55 @@ const routes: Routes = [
   }
 ];
 ````
+
+En el **feature module**
+El path al componente principal del feature, como si fuera un modulo
+````js
+const  routes:  Routes  = [
+	{
+		path:  '',
+		component:  HomeComponent,
+	},
+];
+````
+
+## Importar librerias de terceros
+
+### Que tienen typescript modules
+
+Simplemente instalandolas con NPM e importandolas con el nombre del modulo deberia alcanzar
+
+```
+npm install lodash
+```
+En el component
+
+	import { isEmpty } from  'lodash';
+
+### Que no tienen typescript modules
+
+Son librerias comunes, que son simplemente javascript y pueden tener declaraciones de typescript
+
+* Instalas la libreria
+```
+npm install jquery
+```
+* Instalas las declaraciones
+```
+npm install @types/jquery --save-dev
+```
+* Haces que el script este disponible de forma global, cargandolo antes de que se inicialize angular, esto lo haces poniendo el script en el scripts array de **angular.json**
+```
+"scripts": [
+	"./node_modules/lodash/lodash.js",
+	"./node_modules/siema/dist/siema.min.js"
+]
+```
+
+**Luego importas el type y listo, no necesitas importar la libreria por que ya existe en una variable global gracias al array scripts**
+```
+import  Siema  from  'siema';
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjgxODQ4NF19
+eyJoaXN0b3J5IjpbLTg0ODIxOTM4OCwtNzAyODE4NDg0XX0=
 -->
