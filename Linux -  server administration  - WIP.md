@@ -181,12 +181,14 @@ los permisos (read, write, execute) se pueden asignar a diferentes categorias, p
 
 ### Permission string
 
+Cuando haces ls -l
 
+![enter image description here](https://lh3.googleusercontent.com/qRlC-MV-z7E_q38W_5hG52Nq6oMs6sk-t_MnPMvKmQXrgUX1leW1q5ZYdp9yVoxkoxk-tM8worRX)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ5NDUxMTIsMTE2NjcyNjg5NiwxOD
-E1NTYxNTYsNjk4NzQ4MDY0LC0xOTUzOTg2MDM1LC0xMDc3MjA4
-NDIyLDY5MTU3NTc4Niw3NzA4NzM2NDcsODE4Njk5MTI0LDIwMz
-g2Mjc0ODUsLTEyNjU0OTAwNDksLTIwMDU0OTk4NDIsLTU0ODUw
-MjkwNCwtNDk5NDgyNzE4LDE3MDE3NDkwMjksMTYwNzgzNTY4Ny
-wzMzc3NTgxNjEsMTQ0ODc5NTQ5OF19
+eyJoaXN0b3J5IjpbMjA5NDQwMzQzNSwxMTY2NzI2ODk2LDE4MT
+U1NjE1Niw2OTg3NDgwNjQsLTE5NTM5ODYwMzUsLTEwNzcyMDg0
+MjIsNjkxNTc1Nzg2LDc3MDg3MzY0Nyw4MTg2OTkxMjQsMjAzOD
+YyNzQ4NSwtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0MiwtNTQ4NTAy
+OTA0LC00OTk0ODI3MTgsMTcwMTc0OTAyOSwxNjA3ODM1Njg3LD
+MzNzc1ODE2MSwxNDQ4Nzk1NDk4XX0=
 -->
