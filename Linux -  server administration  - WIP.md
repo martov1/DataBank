@@ -70,6 +70,8 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
 		* @ system link
 		* / directorio
 		* \*  Ejecutable
+* **tree** - como ls -R pero muestra los archivos y carpetas de forma grafica
+	* **tree -d** muestra solo las carpetas 
 * **pwd** - Muestra el directorio actual
 * **cat** - Muestra el contenido de archivos
 * **echo** 
@@ -127,9 +129,9 @@ Para mostrar archivos ocultos podes hacer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjI5MTAyNSwtMTA3NzIwODQyMiw2OT
-E1NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4NjI3NDg1
-LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5MDQsLT
-Q5OTQ4MjcxOCwxNzAxNzQ5MDI5LDE2MDc4MzU2ODcsMzM3NzU4
-MTYxLDE0NDg3OTU0OThdfQ==
+eyJoaXN0b3J5IjpbOTQ1NzkwNjYzLC0xMDc3MjA4NDIyLDY5MT
+U3NTc4Niw3NzA4NzM2NDcsODE4Njk5MTI0LDIwMzg2Mjc0ODUs
+LTEyNjU0OTAwNDksLTIwMDU0OTk4NDIsLTU0ODUwMjkwNCwtND
+k5NDgyNzE4LDE3MDE3NDkwMjksMTYwNzgzNTY4NywzMzc3NTgx
+NjEsMTQ0ODc5NTQ5OF19
 -->
