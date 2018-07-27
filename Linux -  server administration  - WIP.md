@@ -91,9 +91,10 @@ Los diferentes directorios quedan separados por **":"**
 Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
 
 	
-	[juan@host ~]$ cd /mi/
+	[juan@host ~]$ cd /mi/carpeta/loca
+	[juan@host loca]$ ./miComando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE3NDA3ODksLTU0ODUwMjkwNCwtND
+eyJoaXN0b3J5IjpbLTIwMDU0OTk4NDIsLTU0ODUwMjkwNCwtND
 k5NDgyNzE4LDE3MDE3NDkwMjksMTYwNzgzNTY4NywzMzc3NTgx
 NjEsMTQ0ODc5NTQ5OF19
 -->
