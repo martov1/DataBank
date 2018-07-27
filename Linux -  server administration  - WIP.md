@@ -66,16 +66,17 @@ Es una variable del shell que contiene una **lista de directorios donde se busca
 >Cuando tipeas un comando, se busca un archivo con el nombre de ese comando en los directorios de $PATH, la busqueda se hace en el orden en el que estan puestos los directorios.
 
 **podes visualizarla haciendo:**
+Los diferentes directorios quedan separados por **":"**
 
 	echo $PATH
 	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin...
-Los diferentes directorios quedan separados por **:**"
+
 **Podes ver en que directorio de $PATH esta un comando haciendo:**
 
 	which ls
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk4NjAzMDMsMzM3NzU4MTYxLDE0ND
-g3OTU0OThdfQ==
+eyJoaXN0b3J5IjpbMTYwNzgzNTY4NywzMzc3NTgxNjEsMTQ0OD
+c5NTQ5OF19
 -->
