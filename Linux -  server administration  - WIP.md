@@ -8,7 +8,7 @@ ver https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU
 
 **VER:**
 * 018 Finding Files and Directories
-* 019 Viewing Files and the Nano Editor
+* 019 Viewing Files and the Nano Editor 
 
 
 # Directory structure
@@ -258,11 +258,11 @@ Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODEzNzUxOSwtNzUwNTMzNjIwLDEzOT
-k4NzMxODAsODI3MTUwNzQzLC0xNzUxMDczMDUyLDE2NTU0NjA0
-NTIsLTUzNTI2ODY1MiwtMTcyODUwMzAwNiwtMTE2Mzg5Mzc3Mi
-wtMTIwNDcyMDkzNSwtMjA0ODM0MjA0Myw2NzI1MzI3OSwxMTY2
-NzI2ODk2LDE4MTU1NjE1Niw2OTg3NDgwNjQsLTE5NTM5ODYwMz
-UsLTEwNzcyMDg0MjIsNjkxNTc1Nzg2LDc3MDg3MzY0Nyw4MTg2
-OTkxMjRdfQ==
+eyJoaXN0b3J5IjpbLTQ4MDUwNDIxNywxNjU4MTM3NTE5LC03NT
+A1MzM2MjAsMTM5OTg3MzE4MCw4MjcxNTA3NDMsLTE3NTEwNzMw
+NTIsMTY1NTQ2MDQ1MiwtNTM1MjY4NjUyLC0xNzI4NTAzMDA2LC
+0xMTYzODkzNzcyLC0xMjA0NzIwOTM1LC0yMDQ4MzQyMDQzLDY3
+MjUzMjc5LDExNjY3MjY4OTYsMTgxNTU2MTU2LDY5ODc0ODA2NC
+wtMTk1Mzk4NjAzNSwtMTA3NzIwODQyMiw2OTE1NzU3ODYsNzcw
+ODczNjQ3XX0=
 -->
