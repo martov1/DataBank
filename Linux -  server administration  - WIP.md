@@ -247,12 +247,17 @@ Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 	[juan@host ~]$ chgrp ventas hola.txt
 	[juan@host ~]$ ls -l hola.txt
 	-rw-r--r--. 1 juan ventas 36 feb 6 16:30 hola.txt 
+
+
+## Buscar archivos
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTEwNzMwNTIsMTY1NTQ2MDQ1MiwtNT
-M1MjY4NjUyLC0xNzI4NTAzMDA2LC0xMTYzODkzNzcyLC0xMjA0
-NzIwOTM1LC0yMDQ4MzQyMDQzLDY3MjUzMjc5LDExNjY3MjY4OT
-YsMTgxNTU2MTU2LDY5ODc0ODA2NCwtMTk1Mzk4NjAzNSwtMTA3
-NzIwODQyMiw2OTE1NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNC
-wyMDM4NjI3NDg1LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01
-NDg1MDI5MDRdfQ==
+eyJoaXN0b3J5IjpbODI3MTUwNzQzLC0xNzUxMDczMDUyLDE2NT
+U0NjA0NTIsLTUzNTI2ODY1MiwtMTcyODUwMzAwNiwtMTE2Mzg5
+Mzc3MiwtMTIwNDcyMDkzNSwtMjA0ODM0MjA0Myw2NzI1MzI3OS
+wxMTY2NzI2ODk2LDE4MTU1NjE1Niw2OTg3NDgwNjQsLTE5NTM5
+ODYwMzUsLTEwNzcyMDg0MjIsNjkxNTc1Nzg2LDc3MDg3MzY0Ny
+w4MTg2OTkxMjQsMjAzODYyNzQ4NSwtMTI2NTQ5MDA0OSwtMjAw
+NTQ5OTg0Ml19
 -->
