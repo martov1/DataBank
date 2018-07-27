@@ -134,15 +134,15 @@ Para mostrar archivos ocultos podes hacer
 
 Los permisos tienen la siguiente simbologia
 
-```markdown
+
 | Simbolo | Permiso | Archivo              | Directorio                                                |
 |---------|---------|----------------------|-----------------------------------------------------------|
 | r       | Read    | Leer el archivo      | Leer los nombres de los archivos en el dir                |
 | w       | Write   | Modificar el archivo | Modificar los nombres de los archivos en el dir           |
 | x       | Execute | Ejecutar el archivo  | Acceder al contenido y metadata lo los archivos en el dir |
-```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0MzA3NDcxLDY5ODc0ODA2NCwtMTk1Mz
+eyJoaXN0b3J5IjpbMTgxNTU2MTU2LDY5ODc0ODA2NCwtMTk1Mz
 k4NjAzNSwtMTA3NzIwODQyMiw2OTE1NzU3ODYsNzcwODczNjQ3
 LDgxODY5OTEyNCwyMDM4NjI3NDg1LC0xMjY1NDkwMDQ5LC0yMD
 A1NDk5ODQyLC01NDg1MDI5MDQsLTQ5OTQ4MjcxOCwxNzAxNzQ5
