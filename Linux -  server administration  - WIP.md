@@ -64,6 +64,7 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
 * **ls** - Lista el contenido del directorio
 	* **ls -ls** muestra informacion detallada del directorio 
 	* **ls -t** lista archivos en orden temporal
+	* **ls --color** muestra la informacion con colores
 	* **ls -r** Muestra archivos en orden inverso 
 	* **ls -R** muestra el contenido de el direcotorio y todos los subdirectorios
 	* **ls  -F** - Muestra el type de cada archivo
@@ -117,7 +118,7 @@ Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
 
 ## Hidden files
 
-Los archivos que comienzan con un punto se consideran archivos ocultos, y no son mostrados por default.
+Los **archivos que comienzan con un punto** se consideran archivos ocultos, y no son mostrados por default.
 
 Para mostrar archivos ocultos podes hacer
 		
@@ -130,7 +131,7 @@ Para mostrar archivos ocultos podes hacer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODc3MDM2MCwtMTA3NzIwODQyMiw2OT
+eyJoaXN0b3J5IjpbLTQ2MDA1MTY1OCwtMTA3NzIwODQyMiw2OT
 E1NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4NjI3NDg1
 LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5MDQsLT
 Q5OTQ4MjcxOCwxNzAxNzQ5MDI5LDE2MDc4MzU2ODcsMzM3NzU4
