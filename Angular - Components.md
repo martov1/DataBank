@@ -475,6 +475,16 @@ EJ:
 
 ---
 
+### 3) @HostListener 
+
+Te permite escuchar eventos del parent elements y reaccionar a ellos.
+```js
+@HostListener('mouseover') miFuncion(){
+	//Hacer cosas!
+}
+```
+
+
 ## Crear componentes dinamicamente
 
 Podes instanciar componentes en run-time si hiciera falta, por ejemplo si queres ir renovando componentes cada tanto (por ej publicidades que tiene estructuras distintas pero sabes donde las queres inyectar)
@@ -517,5 +527,6 @@ Podes usar **componentFactoryResolver** para instanciar un componente a partir d
 })
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDYxMjgyNywtMTkyMDI3MDIwM119
+eyJoaXN0b3J5IjpbLTU5NDk3Mzc3NiwtNjUwNjEyODI3LC0xOT
+IwMjcwMjAzXX0=
 -->
