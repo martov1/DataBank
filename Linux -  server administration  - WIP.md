@@ -192,12 +192,12 @@ Consiste en
 	* **/** directory 
 * **User** Los permisos del usuario actual
 * **group** - Los permisos del grupo al que el usuario pertenece
-* **other** - Los permisos disponibles pa 
+* **other** - Los permisos disponibles para todos los usuarios 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjM3NzQyNiwxMTY2NzI2ODk2LDE4MT
-U1NjE1Niw2OTg3NDgwNjQsLTE5NTM5ODYwMzUsLTEwNzcyMDg0
-MjIsNjkxNTc1Nzg2LDc3MDg3MzY0Nyw4MTg2OTkxMjQsMjAzOD
-YyNzQ4NSwtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0MiwtNTQ4NTAy
-OTA0LC00OTk0ODI3MTgsMTcwMTc0OTAyOSwxNjA3ODM1Njg3LD
-MzNzc1ODE2MSwxNDQ4Nzk1NDk4XX0=
+eyJoaXN0b3J5IjpbNjcyNTMyNzksMTE2NjcyNjg5NiwxODE1NT
+YxNTYsNjk4NzQ4MDY0LC0xOTUzOTg2MDM1LC0xMDc3MjA4NDIy
+LDY5MTU3NTc4Niw3NzA4NzM2NDcsODE4Njk5MTI0LDIwMzg2Mj
+c0ODUsLTEyNjU0OTAwNDksLTIwMDU0OTk4NDIsLTU0ODUwMjkw
+NCwtNDk5NDgyNzE4LDE3MDE3NDkwMjksMTYwNzgzNTY4NywzMz
+c3NTgxNjEsMTQ0ODc5NTQ5OF19
 -->
