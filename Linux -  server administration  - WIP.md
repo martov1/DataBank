@@ -4,9 +4,8 @@ ver https://www.udemy.com/linux-administration-bootcamp/
 ver https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 **Me quede en:** 013 Getting Help at the Command Line
-# Intro
 
-## Directory structure
+# Directory structure
 
 * **/** - Root, la parte superior del file sistem
 	*  **/bin** - Binaries y otros executables
@@ -25,9 +24,9 @@ ver https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU
 	* **/dev** - device files
 
 
-## Command line
+# Command line
 
-### User y super user
+## User y super user
 la Shell o command line tiene dos modos de funcionamiento
 
 * **Usuario normal:**
@@ -40,7 +39,7 @@ El usuario con privilegios normales suele tenes un prompt terminando con un **$*
 	
 	    [usuario@hostname: ] #
 
-### Tilde (~) expansion
+## Tilde (~) expansion
 
 Muchos sistemas usan **~** para simbolizar subdirectorios de usuarios.
 Los usuarios no necesariamente son humanos, por ejemplo puede ser que exista un usuario para un servidor FTP y su directortorio este en `/srv/ftp`
@@ -50,7 +49,7 @@ Los usuarios no necesariamente son humanos, por ejemplo puede ser que exista un 
 * `~root` =/root
 * `~ftp` = /srv/ftp
 
-### Commands
+## Commands
 
 * **ls** - Lista el contenido del directorio
 * **pwd** - Muestra el directorio actual
@@ -60,18 +59,18 @@ Los usuarios no necesariamente son humanos, por ejemplo puede ser que exista un 
 * **clear** - Despeja la consola
 * **exit** - Cierra el shell o la sesion actual
 
-### $PATH  environment variable
+## $PATH  environment variable
 
 Es una variable del shell que contiene una **lista de directorios donde se buscaran los ejecutables de los comandos que tipeas** (EJ: ls, pwd, man, etc).
 
 >Cuando tipeas un comando, se busca un archivo con el nombre de ese comando en los directorios de $PATH, la busqueda se hace en el orden en el que estan puestos los directorios.
 
-podes visualizarla haciando
+**podes visualizarla haciendo:**
 
 	echo $PATH
 
-
+Podes ver en que directorio de $PATH esta un comando haciendo:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg4Mzg3NDUsMzM3NzU4MTYxLDE0ND
-g3OTU0OThdfQ==
+eyJoaXN0b3J5IjpbLTI0OTgxMTI0MiwzMzc3NTgxNjEsMTQ0OD
+c5NTQ5OF19
 -->
