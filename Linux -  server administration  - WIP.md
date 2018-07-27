@@ -66,7 +66,7 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
 	* **ls  -F** - Muestra el type de cada archivo
 		* @ system link
 		* / directorio
-		* \*  
+		* \*  Ejecutable
 * **pwd** - Muestra el directorio actual
 * **cat** - Muestra el contenido de archivos
 * **echo** 
@@ -124,8 +124,9 @@ Para mostrar archivos ocultos podes hacer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxNTc1Nzg2LDc3MDg3MzY0Nyw4MTg2OT
-kxMjQsMjAzODYyNzQ4NSwtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0
-MiwtNTQ4NTAyOTA0LC00OTk0ODI3MTgsMTcwMTc0OTAyOSwxNj
-A3ODM1Njg3LDMzNzc1ODE2MSwxNDQ4Nzk1NDk4XX0=
+eyJoaXN0b3J5IjpbLTExMTMwOTc0MDIsNjkxNTc1Nzg2LDc3MD
+g3MzY0Nyw4MTg2OTkxMjQsMjAzODYyNzQ4NSwtMTI2NTQ5MDA0
+OSwtMjAwNTQ5OTg0MiwtNTQ4NTAyOTA0LC00OTk0ODI3MTgsMT
+cwMTc0OTAyOSwxNjA3ODM1Njg3LDMzNzc1ODE2MSwxNDQ4Nzk1
+NDk4XX0=
 -->
