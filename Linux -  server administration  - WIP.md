@@ -179,8 +179,11 @@ los permisos (read, write, execute) se pueden asignar a diferentes categorias, p
 	
 	groups
 
+### Permission string
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzIzMjkzODcsMTE2NjcyNjg5NiwxOD
+eyJoaXN0b3J5IjpbLTE4MTQ5NDUxMTIsMTE2NjcyNjg5NiwxOD
 E1NTYxNTYsNjk4NzQ4MDY0LC0xOTUzOTg2MDM1LC0xMDc3MjA4
 NDIyLDY5MTU3NTc4Niw3NzA4NzM2NDcsODE4Njk5MTI0LDIwMz
 g2Mjc0ODUsLTEyNjU0OTAwNDksLTIwMDU0OTk4NDIsLTU0ODUw
