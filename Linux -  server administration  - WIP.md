@@ -219,12 +219,17 @@ le permito al usuario leer, escribir y ejecutar, al grupo solo leer
 Le asigno al usuario unicamente permiso de lectura, le saco cualquier otro permiso a ese usuario si lo hubiere
 
 	chmod u=r miArchivo
+
+**Podes usar modo octal con chmod**
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjg1MDMwMDYsLTExNjM4OTM3NzIsLT
-EyMDQ3MjA5MzUsLTIwNDgzNDIwNDMsNjcyNTMyNzksMTE2Njcy
-Njg5NiwxODE1NTYxNTYsNjk4NzQ4MDY0LC0xOTUzOTg2MDM1LC
-0xMDc3MjA4NDIyLDY5MTU3NTc4Niw3NzA4NzM2NDcsODE4Njk5
-MTI0LDIwMzg2Mjc0ODUsLTEyNjU0OTAwNDksLTIwMDU0OTk4ND
-IsLTU0ODUwMjkwNCwtNDk5NDgyNzE4LDE3MDE3NDkwMjksMTYw
-NzgzNTY4N119
+eyJoaXN0b3J5IjpbNTY1NjY3Mzk3LC0xNzI4NTAzMDA2LC0xMT
+YzODkzNzcyLC0xMjA0NzIwOTM1LC0yMDQ4MzQyMDQzLDY3MjUz
+Mjc5LDExNjY3MjY4OTYsMTgxNTU2MTU2LDY5ODc0ODA2NCwtMT
+k1Mzk4NjAzNSwtMTA3NzIwODQyMiw2OTE1NzU3ODYsNzcwODcz
+NjQ3LDgxODY5OTEyNCwyMDM4NjI3NDg1LC0xMjY1NDkwMDQ5LC
+0yMDA1NDk5ODQyLC01NDg1MDI5MDQsLTQ5OTQ4MjcxOCwxNzAx
+NzQ5MDI5XX0=
 -->
