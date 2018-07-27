@@ -130,11 +130,17 @@ Para mostrar archivos ocultos podes hacer
 * Son pointers que apuntan a un archivo o directorio.
 * A los usos practicos actuan como si fueran el archivo o directorio
 
+## Permissions
 
+Los permisos tienen la siguiente simbologia
+
+* **r** - Read
+* **w** - write
+* **x** -  Execute
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM5ODYwMzUsLTEwNzcyMDg0MjIsNj
-kxNTc1Nzg2LDc3MDg3MzY0Nyw4MTg2OTkxMjQsMjAzODYyNzQ4
-NSwtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0MiwtNTQ4NTAyOTA0LC
-00OTk0ODI3MTgsMTcwMTc0OTAyOSwxNjA3ODM1Njg3LDMzNzc1
-ODE2MSwxNDQ4Nzk1NDk4XX0=
+eyJoaXN0b3J5IjpbNjk4NzQ4MDY0LC0xOTUzOTg2MDM1LC0xMD
+c3MjA4NDIyLDY5MTU3NTc4Niw3NzA4NzM2NDcsODE4Njk5MTI0
+LDIwMzg2Mjc0ODUsLTEyNjU0OTAwNDksLTIwMDU0OTk4NDIsLT
+U0ODUwMjkwNCwtNDk5NDgyNzE4LDE3MDE3NDkwMjksMTYwNzgz
+NTY4NywzMzc3NTgxNjEsMTQ0ODc5NTQ5OF19
 -->
