@@ -199,23 +199,24 @@ Consiste en
 el comando chmod te permite **cambiar los permisos de un archivo**
 
 
-| Parametro | posible valor                        |
-|-----------|--------------------------------------|
-| categoria | u - User g - group o - other a - all |
-| Accion    | + añade permisos - elimina permisos  |
-| permiso   | r - read w - Write x - Execute       |
-| a         | all                                  |
+| Parametro  | posible valor                        |
+|------------|--------------------------------------|
+| categoria  | u - User g - group o - other a - all |
+| Accion     | + añade permisos - elimina permisos  |
+| permiso    | r - read w - Write x - Execute       |
+| file o dir | hola.txt                             |
 
 
-ej:
-Le permito a todos leer pero no editar
-	chmod ugoa +xr-w
+<
+Le permito a todos leer y ejecutar pero no editar
+		
+	chmod ugoa +xr-w miArchivo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzAyMTMzODksLTEyMDQ3MjA5MzUsLT
-IwNDgzNDIwNDMsNjcyNTMyNzksMTE2NjcyNjg5NiwxODE1NTYx
-NTYsNjk4NzQ4MDY0LC0xOTUzOTg2MDM1LC0xMDc3MjA4NDIyLD
-Y5MTU3NTc4Niw3NzA4NzM2NDcsODE4Njk5MTI0LDIwMzg2Mjc0
-ODUsLTEyNjU0OTAwNDksLTIwMDU0OTk4NDIsLTU0ODUwMjkwNC
-wtNDk5NDgyNzE4LDE3MDE3NDkwMjksMTYwNzgzNTY4NywzMzc3
-NTgxNjFdfQ==
+eyJoaXN0b3J5IjpbLTg4NTIwMzgyMywtMTIwNDcyMDkzNSwtMj
+A0ODM0MjA0Myw2NzI1MzI3OSwxMTY2NzI2ODk2LDE4MTU1NjE1
+Niw2OTg3NDgwNjQsLTE5NTM5ODYwMzUsLTEwNzcyMDg0MjIsNj
+kxNTc1Nzg2LDc3MDg3MzY0Nyw4MTg2OTkxMjQsMjAzODYyNzQ4
+NSwtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0MiwtNTQ4NTAyOTA0LC
+00OTk0ODI3MTgsMTcwMTc0OTAyOSwxNjA3ODM1Njg3LDMzNzc1
+ODE2MV19
 -->
