@@ -62,7 +62,7 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
 ## Commands mas comunes
 
 * **ls** - Lista el contenido del directorio
-	* **ls -ls** muestra informacion detallada del directorio 
+	* **ls -l** muestra informacion detallada del directorio 
 	* **ls -t** lista archivos en orden temporal
 	* **ls --color** muestra la informacion con colores
 	* **ls -r** Muestra archivos en orden inverso 
@@ -181,11 +181,17 @@ los permisos (read, write, execute) se pueden asignar a diferentes categorias, p
 
 ### Permission string
 
-Cuando haces ls -l
+Cuando haces **ls -l** para ver la info detallada de un directorio, te muestra el string de permisos
 
 ![enter image description here](https://lh3.googleusercontent.com/qRlC-MV-z7E_q38W_5hG52Nq6oMs6sk-t_MnPMvKmQXrgUX1leW1q5ZYdp9yVoxkoxk-tM8worRX)
+
+Consiste en
+* **type** el tipo de archivo
+	* **@** link
+	* \* executable
+	* / directory 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDQwMzQzNSwxMTY2NzI2ODk2LDE4MT
+eyJoaXN0b3J5IjpbMTg1MDc0NDQ0NiwxMTY2NzI2ODk2LDE4MT
 U1NjE1Niw2OTg3NDgwNjQsLTE5NTM5ODYwMzUsLTEwNzcyMDg0
 MjIsNjkxNTc1Nzg2LDc3MDg3MzY0Nyw4MTg2OTkxMjQsMjAzOD
 YyNzQ4NSwtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0MiwtNTQ4NTAy
