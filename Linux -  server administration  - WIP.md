@@ -162,11 +162,13 @@ Hello World!
 
 los permisos (read, write, execute) se pueden asignar a diferentes categorias, por ejemplo a **usuarios, grupos, etc**
 
+> Todos los usuarios pertenecen a por lo menos un grupo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwMTA3MzM1LDExNjY3MjY4OTYsMTgxNT
-U2MTU2LDY5ODc0ODA2NCwtMTk1Mzk4NjAzNSwtMTA3NzIwODQy
-Miw2OTE1NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4Nj
-I3NDg1LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5
-MDQsLTQ5OTQ4MjcxOCwxNzAxNzQ5MDI5LDE2MDc4MzU2ODcsMz
-M3NzU4MTYxLDE0NDg3OTU0OThdfQ==
+eyJoaXN0b3J5IjpbMTExMDMyOTAxNSwxMTY2NzI2ODk2LDE4MT
+U1NjE1Niw2OTg3NDgwNjQsLTE5NTM5ODYwMzUsLTEwNzcyMDg0
+MjIsNjkxNTc1Nzg2LDc3MDg3MzY0Nyw4MTg2OTkxMjQsMjAzOD
+YyNzQ4NSwtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0MiwtNTQ4NTAy
+OTA0LC00OTk0ODI3MTgsMTcwMTc0OTAyOSwxNjA3ODM1Njg3LD
+MzNzc1ODE2MSwxNDQ4Nzk1NDk4XX0=
 -->
