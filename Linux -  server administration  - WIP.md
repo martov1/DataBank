@@ -69,6 +69,8 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
 	* **man -k busqueda**  - Podes buscar cosas en las man pages
 * **clear** - Despeja la consola
 * **exit** - Cierra el shell o la sesion actual
+* **mkdir nombre** - crea un directorio con ese nombre
+* **rm**
 
 ## $PATH  environment variable
 
@@ -97,7 +99,8 @@ Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
 	// Directamente llamando al comando con la ruta
 	[juan@host ~]$ cd /mi/carpeta/loca miComando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjU0OTAwNDksLTIwMDU0OTk4NDIsLT
-U0ODUwMjkwNCwtNDk5NDgyNzE4LDE3MDE3NDkwMjksMTYwNzgz
-NTY4NywzMzc3NTgxNjEsMTQ0ODc5NTQ5OF19
+eyJoaXN0b3J5IjpbMjAzODYyNzQ4NSwtMTI2NTQ5MDA0OSwtMj
+AwNTQ5OTg0MiwtNTQ4NTAyOTA0LC00OTk0ODI3MTgsMTcwMTc0
+OTAyOSwxNjA3ODM1Njg3LDMzNzc1ODE2MSwxNDQ4Nzk1NDk4XX
+0=
 -->
