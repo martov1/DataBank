@@ -132,20 +132,38 @@ Para mostrar archivos ocultos podes hacer
 
 ## Permissions
 
+## read, 
 Los permisos tienen la siguiente simbologia
 
 
-| Simbolo | Permiso | Archivo              | Directorio                                 |
-|---------|---------|----------------------|--------------------------------------------|
-| r       | Read    | Leer el archivo      | Leer los nombres de los archivos en el dir |
-| w       | Write   | Modificar el archivo | Crear, renombrar, borrar archvos en el dir |
-| x       | Execute | Ejecutar el archivo  | hacer cd al directorio y traversearlo      |
+| Simbolo | Permiso | Archivo              | Directorio                                                                                                                               |
+|---------|---------|----------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| r       | Read    | Leer el archivo      | Leer los nombres de los archivos en el dir                                                                                               |
+| w       | Write   | Modificar el archivo | Crear, renombrar, borrar archvos en el dir                                                                                               |
+| x       | Execute | Ejecutar el archivo  | hacer cd al directorio, traversearlo, leer el contenido (sin r o w lo estas haciendo a ciegas y tenes que saber los nombres de antemano) |
 
+EJ:
+```
+$ mkdir -p dir/
+$ echo 'Hello World!' > dir/file
+$ chmod 000 dir/
+$ ls -al dir/
+ls: cannot open directory dir: Permission denied
+$ cat dir/file
+cat: dir/file: Permission denied
+$ chmod +x dir/
+$ ls -al dir/
+ls: cannot open directory dir: Permission denied
+$ cat dir/file
+Hello World!
+```
+
+### Permission categories
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjcyNjg5NiwxODE1NTYxNTYsNjk4Nz
-Q4MDY0LC0xOTUzOTg2MDM1LC0xMDc3MjA4NDIyLDY5MTU3NTc4
-Niw3NzA4NzM2NDcsODE4Njk5MTI0LDIwMzg2Mjc0ODUsLTEyNj
-U0OTAwNDksLTIwMDU0OTk4NDIsLTU0ODUwMjkwNCwtNDk5NDgy
-NzE4LDE3MDE3NDkwMjksMTYwNzgzNTY4NywzMzc3NTgxNjEsMT
-Q0ODc5NTQ5OF19
+eyJoaXN0b3J5IjpbODI4MjYwNTE0LDExNjY3MjY4OTYsMTgxNT
+U2MTU2LDY5ODc0ODA2NCwtMTk1Mzk4NjAzNSwtMTA3NzIwODQy
+Miw2OTE1NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4Nj
+I3NDg1LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5
+MDQsLTQ5OTQ4MjcxOCwxNzAxNzQ5MDI5LDE2MDc4MzU2ODcsMz
+M3NzU4MTYxLDE0NDg3OTU0OThdfQ==
 -->
