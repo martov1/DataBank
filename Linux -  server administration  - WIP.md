@@ -64,7 +64,7 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
 * **ls** - Lista el contenido del directorio
 	* **ls -ls** muestra informacion detallada del directorio 
 	* **ls -t** lista archivos en orden temporal
-	* **ls -r** Muestra archivos en orden inverso
+	* **ls -r** Muestra archivos en orden inverso 
 	* **ls  -F** - Muestra el type de cada archivo
 		* @ system link
 		* / directorio
@@ -126,9 +126,9 @@ Para mostrar archivos ocultos podes hacer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzcyMDg0MjIsNjkxNTc1Nzg2LDc3MD
-g3MzY0Nyw4MTg2OTkxMjQsMjAzODYyNzQ4NSwtMTI2NTQ5MDA0
-OSwtMjAwNTQ5OTg0MiwtNTQ4NTAyOTA0LC00OTk0ODI3MTgsMT
-cwMTc0OTAyOSwxNjA3ODM1Njg3LDMzNzc1ODE2MSwxNDQ4Nzk1
-NDk4XX0=
+eyJoaXN0b3J5IjpbLTIwODA0ODU2OCwtMTA3NzIwODQyMiw2OT
+E1NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4NjI3NDg1
+LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5MDQsLT
+Q5OTQ4MjcxOCwxNzAxNzQ5MDI5LDE2MDc4MzU2ODcsMzM3NzU4
+MTYxLDE0NDg3OTU0OThdfQ==
 -->
