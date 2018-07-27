@@ -60,8 +60,12 @@ Los usuarios no necesariamente son humanos, por ejemplo puede ser que exista un 
 * **clear** - Despeja la consola
 * **exit** - Cierra el shell o la sesion actual
 
+### $PATH  environment variable
+
+Es una variable del shell que contiene una **lista de directorios donde se buscaran los ejecutables de los comandos que tipeas** (EJ: ls, pwd, man, etc)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjYzOTM1LDMzNzc1ODE2MSwxNDQ4Nz
-k1NDk4XX0=
+eyJoaXN0b3J5IjpbLTgzMzQwMjk1NiwzMzc3NTgxNjEsMTQ0OD
+c5NTQ5OF19
 -->
