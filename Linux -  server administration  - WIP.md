@@ -188,10 +188,13 @@ Cuando haces **ls -l** para ver la info detallada de un directorio, te muestra e
 Consiste en
 * **type** el tipo de archivo
 	* **@** link
-	* \* executable
-	* / directory 
+	* **\*** executable
+	* **/** directory 
+* **User** Los permisos del usuario actual
+* **group** - Los permisos del grupo al que el usuario pertenece
+* **other** - Los permisos disponibles pa 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDc0NDQ0NiwxMTY2NzI2ODk2LDE4MT
+eyJoaXN0b3J5IjpbLTgzNjM3NzQyNiwxMTY2NzI2ODk2LDE4MT
 U1NjE1Niw2OTg3NDgwNjQsLTE5NTM5ODYwMzUsLTEwNzcyMDg0
 MjIsNjkxNTc1Nzg2LDc3MDg3MzY0Nyw4MTg2OTkxMjQsMjAzOD
 YyNzQ4NSwtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0MiwtNTQ4NTAy
