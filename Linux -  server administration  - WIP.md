@@ -4,6 +4,9 @@ ver https://www.udemy.com/linux-administration-bootcamp/
 ver https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 **Me quede en:** 013 Getting Help at the Command Line
+**VER:**
+* 
+
 
 # Directory structure
 
@@ -252,11 +255,11 @@ Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTg3MzE4MCw4MjcxNTA3NDMsLTE3NT
-EwNzMwNTIsMTY1NTQ2MDQ1MiwtNTM1MjY4NjUyLC0xNzI4NTAz
-MDA2LC0xMTYzODkzNzcyLC0xMjA0NzIwOTM1LC0yMDQ4MzQyMD
-QzLDY3MjUzMjc5LDExNjY3MjY4OTYsMTgxNTU2MTU2LDY5ODc0
-ODA2NCwtMTk1Mzk4NjAzNSwtMTA3NzIwODQyMiw2OTE1NzU3OD
-YsNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4NjI3NDg1LC0xMjY1
-NDkwMDQ5XX0=
+eyJoaXN0b3J5IjpbMTAyNzczNDQ5NSwxMzk5ODczMTgwLDgyNz
+E1MDc0MywtMTc1MTA3MzA1MiwxNjU1NDYwNDUyLC01MzUyNjg2
+NTIsLTE3Mjg1MDMwMDYsLTExNjM4OTM3NzIsLTEyMDQ3MjA5Mz
+UsLTIwNDgzNDIwNDMsNjcyNTMyNzksMTE2NjcyNjg5NiwxODE1
+NTYxNTYsNjk4NzQ4MDY0LC0xOTUzOTg2MDM1LC0xMDc3MjA4ND
+IyLDY5MTU3NTc4Niw3NzA4NzM2NDcsODE4Njk5MTI0LDIwMzg2
+Mjc0ODVdfQ==
 -->
