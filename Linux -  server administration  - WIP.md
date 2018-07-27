@@ -103,9 +103,17 @@ Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
 
 
 
-#
+# File system
+
+## Hidden files
+
+Los archivos que comienzan con un punto se consideran archivos ocultos, y no son mostrados por default.
+
+Para mostrar archivos ocultos podes hacer
+		
+		ls -a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2OTI2ODY3LDgxODY5OTEyNCwyMDM4Nj
+eyJoaXN0b3J5IjpbNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4Nj
 I3NDg1LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5
 MDQsLTQ5OTQ4MjcxOCwxNzAxNzQ5MDI5LDE2MDc4MzU2ODcsMz
 M3NzU4MTYxLDE0NDg3OTU0OThdfQ==
