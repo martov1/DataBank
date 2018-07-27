@@ -60,6 +60,8 @@ Los usuarios no necesariamente son humanos, por ejemplo puede ser que exista un 
 * **clear** - Despeja la consola
 * **exit** - Cierra el shell o la sesion actual
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3NzU4MTYxLDE0NDg3OTU0OThdfQ==
+eyJoaXN0b3J5IjpbMjAxNjYzOTM1LDMzNzc1ODE2MSwxNDQ4Nz
+k1NDk4XX0=
 -->
