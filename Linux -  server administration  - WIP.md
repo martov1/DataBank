@@ -112,9 +112,13 @@ Los archivos que comienzan con un punto se consideran archivos ocultos, y no son
 Para mostrar archivos ocultos podes hacer
 		
 		ls -a
+
+## Symbolic links
+
+Son pointers que apuntan a un archivo o directorio, a los usos practicos actuan como si fueran el archivo o directorio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4Nj
-I3NDg1LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5
-MDQsLTQ5OTQ4MjcxOCwxNzAxNzQ5MDI5LDE2MDc4MzU2ODcsMz
-M3NzU4MTYxLDE0NDg3OTU0OThdfQ==
+eyJoaXN0b3J5IjpbLTE1MjU0NTU4MzEsNzcwODczNjQ3LDgxOD
+Y5OTEyNCwyMDM4NjI3NDg1LC0xMjY1NDkwMDQ5LC0yMDA1NDk5
+ODQyLC01NDg1MDI5MDQsLTQ5OTQ4MjcxOCwxNzAxNzQ5MDI5LD
+E2MDc4MzU2ODcsMzM3NzU4MTYxLDE0NDg3OTU0OThdfQ==
 -->
