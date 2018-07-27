@@ -122,7 +122,8 @@ Los **archivos que comienzan con un punto** se consideran archivos ocultos, y no
 
 Para mostrar archivos ocultos podes hacer
 		
-		ls -a
+	[juan@host ~]$ ls -a
+	.oculto.doc noOculto.doc
 
 ## Symbolic links
 
@@ -131,9 +132,9 @@ Para mostrar archivos ocultos podes hacer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDA1MTY1OCwtMTA3NzIwODQyMiw2OT
-E1NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4NjI3NDg1
-LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5MDQsLT
-Q5OTQ4MjcxOCwxNzAxNzQ5MDI5LDE2MDc4MzU2ODcsMzM3NzU4
-MTYxLDE0NDg3OTU0OThdfQ==
+eyJoaXN0b3J5IjpbLTE5NTM5ODYwMzUsLTEwNzcyMDg0MjIsNj
+kxNTc1Nzg2LDc3MDg3MzY0Nyw4MTg2OTkxMjQsMjAzODYyNzQ4
+NSwtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0MiwtNTQ4NTAyOTA0LC
+00OTk0ODI3MTgsMTcwMTc0OTAyOSwxNjA3ODM1Njg3LDMzNzc1
+ODE2MSwxNDQ4Nzk1NDk4XX0=
 -->
