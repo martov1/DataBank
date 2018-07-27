@@ -226,13 +226,16 @@ Los permisos son simbolizados con 3 bits, se traducen a modo octal asi:
 
 ![enter image description here](https://lh3.googleusercontent.com/I5WOJE3-5Ur3XMTEysjc8A3VF3Joqesd8dBMu5JgKgwu8lNRVxMJw1fu-PzSRxEAlwwyzURPjFme)
 
-Entonces podes simplemente implicar 
+Cada permiso octal que coloques con chmod esta sinendo asignado a User, Group y Other en ese orden
+
+ej:
+chmod 754 hola.tx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDc3NTIzOCwtMTcyODUwMzAwNiwtMT
-E2Mzg5Mzc3MiwtMTIwNDcyMDkzNSwtMjA0ODM0MjA0Myw2NzI1
-MzI3OSwxMTY2NzI2ODk2LDE4MTU1NjE1Niw2OTg3NDgwNjQsLT
-E5NTM5ODYwMzUsLTEwNzcyMDg0MjIsNjkxNTc1Nzg2LDc3MDg3
-MzY0Nyw4MTg2OTkxMjQsMjAzODYyNzQ4NSwtMTI2NTQ5MDA0OS
-wtMjAwNTQ5OTg0MiwtNTQ4NTAyOTA0LC00OTk0ODI3MTgsMTcw
-MTc0OTAyOV19
+eyJoaXN0b3J5IjpbMTYxODMzMTEsLTE3Mjg1MDMwMDYsLTExNj
+M4OTM3NzIsLTEyMDQ3MjA5MzUsLTIwNDgzNDIwNDMsNjcyNTMy
+NzksMTE2NjcyNjg5NiwxODE1NTYxNTYsNjk4NzQ4MDY0LC0xOT
+UzOTg2MDM1LC0xMDc3MjA4NDIyLDY5MTU3NTc4Niw3NzA4NzM2
+NDcsODE4Njk5MTI0LDIwMzg2Mjc0ODUsLTEyNjU0OTAwNDksLT
+IwMDU0OTk4NDIsLTU0ODUwMjkwNCwtNDk5NDgyNzE4LDE3MDE3
+NDkwMjldfQ==
 -->
