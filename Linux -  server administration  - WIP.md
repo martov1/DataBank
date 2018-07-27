@@ -134,13 +134,18 @@ Para mostrar archivos ocultos podes hacer
 
 Los permisos tienen la siguiente simbologia
 
-* **r** - Read
-* **w** - write
-* **x** -  Execute
+```markdown
+| Simbolo | Permiso | Archivo              | Directorio                                                |
+|---------|---------|----------------------|-----------------------------------------------------------|
+| r       | Read    | Leer el archivo      | Leer los nombres de los archivos en el dir                |
+| w       | Write   | Modificar el archivo | Modificar los nombres de los archivos en el dir           |
+| x       | Execute | Ejecutar el archivo  | Acceder al contenido y metadata lo los archivos en el dir |
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4NzQ4MDY0LC0xOTUzOTg2MDM1LC0xMD
-c3MjA4NDIyLDY5MTU3NTc4Niw3NzA4NzM2NDcsODE4Njk5MTI0
-LDIwMzg2Mjc0ODUsLTEyNjU0OTAwNDksLTIwMDU0OTk4NDIsLT
-U0ODUwMjkwNCwtNDk5NDgyNzE4LDE3MDE3NDkwMjksMTYwNzgz
-NTY4NywzMzc3NTgxNjEsMTQ0ODc5NTQ5OF19
+eyJoaXN0b3J5IjpbODM0MzA3NDcxLDY5ODc0ODA2NCwtMTk1Mz
+k4NjAzNSwtMTA3NzIwODQyMiw2OTE1NzU3ODYsNzcwODczNjQ3
+LDgxODY5OTEyNCwyMDM4NjI3NDg1LC0xMjY1NDkwMDQ5LC0yMD
+A1NDk5ODQyLC01NDg1MDI5MDQsLTQ5OTQ4MjcxOCwxNzAxNzQ5
+MDI5LDE2MDc4MzU2ODcsMzM3NzU4MTYxLDE0NDg3OTU0OThdfQ
+==
 -->
