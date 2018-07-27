@@ -64,8 +64,12 @@ Los usuarios no necesariamente son humanos, por ejemplo puede ser que exista un 
 
 Es una variable del shell que contiene una **lista de directorios donde se buscaran los ejecutables de los comandos que tipeas** (EJ: ls, pwd, man, etc)
 
+podes visualizarla haciando
+
+	echo $PATH
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzQwMjk1NiwzMzc3NTgxNjEsMTQ0OD
+eyJoaXN0b3J5IjpbLTEyMTIwNTQ0MSwzMzc3NTgxNjEsMTQ0OD
 c5NTQ5OF19
 -->
