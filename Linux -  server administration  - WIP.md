@@ -115,10 +115,13 @@ Para mostrar archivos ocultos podes hacer
 
 ## Symbolic links
 
-Son pointers que apuntan a un archivo o directorio, a los usos practicos actuan como si fueran el archivo o directorio
+* Son pointers que apuntan a un archivo o directorio.
+* A los usos practicos actuan como si fueran el archivo o directorio
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU0NTU4MzEsNzcwODczNjQ3LDgxOD
-Y5OTEyNCwyMDM4NjI3NDg1LC0xMjY1NDkwMDQ5LC0yMDA1NDk5
-ODQyLC01NDg1MDI5MDQsLTQ5OTQ4MjcxOCwxNzAxNzQ5MDI5LD
-E2MDc4MzU2ODcsMzM3NzU4MTYxLDE0NDg3OTU0OThdfQ==
+eyJoaXN0b3J5IjpbLTI0NTg0ODEwOSw3NzA4NzM2NDcsODE4Nj
+k5MTI0LDIwMzg2Mjc0ODUsLTEyNjU0OTAwNDksLTIwMDU0OTk4
+NDIsLTU0ODUwMjkwNCwtNDk5NDgyNzE4LDE3MDE3NDkwMjksMT
+YwNzgzNTY4NywzMzc3NTgxNjEsMTQ0ODc5NTQ5OF19
 -->
