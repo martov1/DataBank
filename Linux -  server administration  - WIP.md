@@ -207,16 +207,20 @@ el comando chmod te permite **cambiar los permisos de un archivo**
 | file o dir | hola.txt                             |
 
 
-<
+**EJ:**
 Le permito a todos leer y ejecutar pero no editar
 		
 	chmod ugoa +xr-w miArchivo
+
+le permito al usuario leer, escribir y ejecutar, al grupo solo leer
+
+	chmod u+xwr-w miArchivo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTIwMzgyMywtMTIwNDcyMDkzNSwtMj
-A0ODM0MjA0Myw2NzI1MzI3OSwxMTY2NzI2ODk2LDE4MTU1NjE1
-Niw2OTg3NDgwNjQsLTE5NTM5ODYwMzUsLTEwNzcyMDg0MjIsNj
-kxNTc1Nzg2LDc3MDg3MzY0Nyw4MTg2OTkxMjQsMjAzODYyNzQ4
-NSwtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0MiwtNTQ4NTAyOTA0LC
-00OTk0ODI3MTgsMTcwMTc0OTAyOSwxNjA3ODM1Njg3LDMzNzc1
-ODE2MV19
+eyJoaXN0b3J5IjpbODQ3MzIyMTU0LC0xMjA0NzIwOTM1LC0yMD
+Q4MzQyMDQzLDY3MjUzMjc5LDExNjY3MjY4OTYsMTgxNTU2MTU2
+LDY5ODc0ODA2NCwtMTk1Mzk4NjAzNSwtMTA3NzIwODQyMiw2OT
+E1NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4NjI3NDg1
+LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5MDQsLT
+Q5OTQ4MjcxOCwxNzAxNzQ5MDI5LDE2MDc4MzU2ODcsMzM3NzU4
+MTYxXX0=
 -->
