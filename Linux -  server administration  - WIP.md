@@ -68,13 +68,14 @@ Es una variable del shell que contiene una **lista de directorios donde se busca
 **podes visualizarla haciendo:**
 
 	echo $PATH
-
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin...
+Los diferentes directorios quedan separados por **:**"
 **Podes ver en que directorio de $PATH esta un comando haciendo:**
 
 	which ls
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDExNzgzNiwzMzc3NTgxNjEsMTQ0OD
-c5NTQ5OF19
+eyJoaXN0b3J5IjpbLTE4NDk4NjAzMDMsMzM3NzU4MTYxLDE0ND
+g3OTU0OThdfQ==
 -->
