@@ -56,6 +56,7 @@ Los usuarios no necesariamente son humanos, por ejemplo puede ser que exista un 
 * **cat** - Muestra el contenido de archivos
 * **echo** 
 * **man** - Muestra el manual online
+	* **man -k busqueda**  - Podes buscar cosas en las man pages
 * **clear** - Despeja la consola
 * **exit** - Cierra el shell o la sesion actual
 
@@ -77,6 +78,6 @@ Los diferentes directorios quedan separados por **":"**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzgzNTY4NywzMzc3NTgxNjEsMTQ0OD
-c5NTQ5OF19
+eyJoaXN0b3J5IjpbMTcwMTc0OTAyOSwxNjA3ODM1Njg3LDMzNz
+c1ODE2MSwxNDQ4Nzk1NDk4XX0=
 -->
