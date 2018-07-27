@@ -238,7 +238,7 @@ Le asigno **todos los permisos al user**, **permiso de lectura y escritura al gr
 Todos los archivos en general pertenecen a algun grupo, los usuarios son simepre **miembros de un grupo con su mismo nombre**, llamado tambien **primary group**
 
 Vemos como este archivo esta en el grupo "juan"
-
+ 
 	[juan@host ~]$ ls -l hola.txt
 	-rw-r--r--. 1 juan 36 feb 6 16:30 hola.txt
 	
@@ -248,11 +248,11 @@ Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 	[juan@host ~]$ ls -l hola.txt
 	-rw-r--r--. 1 juan ventas 36 feb 6 16:30 hola.txt 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTQ2MDQ1MiwtNTM1MjY4NjUyLC0xNz
-I4NTAzMDA2LC0xMTYzODkzNzcyLC0xMjA0NzIwOTM1LC0yMDQ4
-MzQyMDQzLDY3MjUzMjc5LDExNjY3MjY4OTYsMTgxNTU2MTU2LD
-Y5ODc0ODA2NCwtMTk1Mzk4NjAzNSwtMTA3NzIwODQyMiw2OTE1
-NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4NjI3NDg1LC
-0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5MDQsLTQ5
-OTQ4MjcxOF19
+eyJoaXN0b3J5IjpbLTE3NTEwNzMwNTIsMTY1NTQ2MDQ1MiwtNT
+M1MjY4NjUyLC0xNzI4NTAzMDA2LC0xMTYzODkzNzcyLC0xMjA0
+NzIwOTM1LC0yMDQ4MzQyMDQzLDY3MjUzMjc5LDExNjY3MjY4OT
+YsMTgxNTU2MTU2LDY5ODc0ODA2NCwtMTk1Mzk4NjAzNSwtMTA3
+NzIwODQyMiw2OTE1NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNC
+wyMDM4NjI3NDg1LC0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01
+NDg1MDI5MDRdfQ==
 -->
