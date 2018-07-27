@@ -222,14 +222,17 @@ Le asigno al usuario unicamente permiso de lectura, le saco cualquier otro permi
 
 **Podes usar modo octal con chmod**
 
+Los permisos son simbolizados con 3 bits, se traducen a modo octal asi:
 
+![enter image description here](https://lh3.googleusercontent.com/I5WOJE3-5Ur3XMTEysjc8A3VF3Joqesd8dBMu5JgKgwu8lNRVxMJw1fu-PzSRxEAlwwyzURPjFme)
 
+Entonces podes simplemente implicar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NjY3Mzk3LC0xNzI4NTAzMDA2LC0xMT
-YzODkzNzcyLC0xMjA0NzIwOTM1LC0yMDQ4MzQyMDQzLDY3MjUz
-Mjc5LDExNjY3MjY4OTYsMTgxNTU2MTU2LDY5ODc0ODA2NCwtMT
-k1Mzk4NjAzNSwtMTA3NzIwODQyMiw2OTE1NzU3ODYsNzcwODcz
-NjQ3LDgxODY5OTEyNCwyMDM4NjI3NDg1LC0xMjY1NDkwMDQ5LC
-0yMDA1NDk5ODQyLC01NDg1MDI5MDQsLTQ5OTQ4MjcxOCwxNzAx
-NzQ5MDI5XX0=
+eyJoaXN0b3J5IjpbMTg4NDc3NTIzOCwtMTcyODUwMzAwNiwtMT
+E2Mzg5Mzc3MiwtMTIwNDcyMDkzNSwtMjA0ODM0MjA0Myw2NzI1
+MzI3OSwxMTY2NzI2ODk2LDE4MTU1NjE1Niw2OTg3NDgwNjQsLT
+E5NTM5ODYwMzUsLTEwNzcyMDg0MjIsNjkxNTc1Nzg2LDc3MDg3
+MzY0Nyw4MTg2OTkxMjQsMjAzODYyNzQ4NSwtMTI2NTQ5MDA0OS
+wtMjAwNTQ5OTg0MiwtNTQ4NTAyOTA0LC00OTk0ODI3MTgsMTcw
+MTc0OTAyOV19
 -->
