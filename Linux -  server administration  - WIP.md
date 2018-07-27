@@ -193,11 +193,17 @@ Consiste en
 * **User** Los permisos del usuario actual
 * **group** - Los permisos del grupo al que el usuario pertenece
 * **other** - Los permisos disponibles para todos los usuarios 
+
+### chmod 
+
+el comando chmod te permite **cambiar los permisos de un archivo**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyNTMyNzksMTE2NjcyNjg5NiwxODE1NT
-YxNTYsNjk4NzQ4MDY0LC0xOTUzOTg2MDM1LC0xMDc3MjA4NDIy
-LDY5MTU3NTc4Niw3NzA4NzM2NDcsODE4Njk5MTI0LDIwMzg2Mj
-c0ODUsLTEyNjU0OTAwNDksLTIwMDU0OTk4NDIsLTU0ODUwMjkw
-NCwtNDk5NDgyNzE4LDE3MDE3NDkwMjksMTYwNzgzNTY4NywzMz
-c3NTgxNjEsMTQ0ODc5NTQ5OF19
+eyJoaXN0b3J5IjpbMTQ5MDA3NTg3OCw2NzI1MzI3OSwxMTY2Nz
+I2ODk2LDE4MTU1NjE1Niw2OTg3NDgwNjQsLTE5NTM5ODYwMzUs
+LTEwNzcyMDg0MjIsNjkxNTc1Nzg2LDc3MDg3MzY0Nyw4MTg2OT
+kxMjQsMjAzODYyNzQ4NSwtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0
+MiwtNTQ4NTAyOTA0LC00OTk0ODI3MTgsMTcwMTc0OTAyOSwxNj
+A3ODM1Njg3LDMzNzc1ODE2MSwxNDQ4Nzk1NDk4XX0=
 -->
