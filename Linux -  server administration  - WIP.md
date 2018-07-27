@@ -240,13 +240,14 @@ Todos los archivos en general pertenecen a algun grupo, los usuarios son simepre
 Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 
 	[juan@host ~]$ chgrp ventas hola.txt
-	
+	[juan@host ~]$ ls -l hola.txt
+	-rw-r--r--. 1 juan ventas 36 feb 6 16:30 hola.txt 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTExNjcwNjksLTUzNTI2ODY1MiwtMT
-cyODUwMzAwNiwtMTE2Mzg5Mzc3MiwtMTIwNDcyMDkzNSwtMjA0
-ODM0MjA0Myw2NzI1MzI3OSwxMTY2NzI2ODk2LDE4MTU1NjE1Ni
-w2OTg3NDgwNjQsLTE5NTM5ODYwMzUsLTEwNzcyMDg0MjIsNjkx
-NTc1Nzg2LDc3MDg3MzY0Nyw4MTg2OTkxMjQsMjAzODYyNzQ4NS
-wtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0MiwtNTQ4NTAyOTA0LC00
-OTk0ODI3MThdfQ==
+eyJoaXN0b3J5IjpbMTE5NDE2NzUxOCwtNTM1MjY4NjUyLC0xNz
+I4NTAzMDA2LC0xMTYzODkzNzcyLC0xMjA0NzIwOTM1LC0yMDQ4
+MzQyMDQzLDY3MjUzMjc5LDExNjY3MjY4OTYsMTgxNTU2MTU2LD
+Y5ODc0ODA2NCwtMTk1Mzk4NjAzNSwtMTA3NzIwODQyMiw2OTE1
+NzU3ODYsNzcwODczNjQ3LDgxODY5OTEyNCwyMDM4NjI3NDg1LC
+0xMjY1NDkwMDQ5LC0yMDA1NDk5ODQyLC01NDg1MDI5MDQsLTQ5
+OTQ4MjcxOF19
 -->
