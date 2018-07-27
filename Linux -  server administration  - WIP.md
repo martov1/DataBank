@@ -69,8 +69,12 @@ Es una variable del shell que contiene una **lista de directorios donde se busca
 
 	echo $PATH
 
-Podes ver en que directorio de $PATH esta un comando haciendo:
+**Podes ver en que directorio de $PATH esta un comando haciendo:**
+
+	which ls
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTgxMTI0MiwzMzc3NTgxNjEsMTQ0OD
+eyJoaXN0b3J5IjpbMTA1NDExNzgzNiwzMzc3NTgxNjEsMTQ0OD
 c5NTQ5OF19
 -->
