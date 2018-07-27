@@ -49,6 +49,7 @@ Los usuarios no necesariamente son humanos, por ejemplo puede ser que exista un 
 * `~root` =/root
 * `~ftp` = /srv/ftp
 
+
 ## Commands
 
 * **ls** - Lista el contenido del directorio
@@ -78,6 +79,6 @@ Los diferentes directorios quedan separados por **":"**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTc0OTAyOSwxNjA3ODM1Njg3LDMzNz
-c1ODE2MSwxNDQ4Nzk1NDk4XX0=
+eyJoaXN0b3J5IjpbMTM4NTE2OTUyNywxNzAxNzQ5MDI5LDE2MD
+c4MzU2ODcsMzM3NzU4MTYxLDE0NDg3OTU0OThdfQ==
 -->
