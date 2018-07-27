@@ -62,7 +62,9 @@ Los usuarios no necesariamente son humanos, por ejemplo puede ser que exista un 
 
 ### $PATH  environment variable
 
-Es una variable del shell que contiene una **lista de directorios donde se buscaran los ejecutables de los comandos que tipeas** (EJ: ls, pwd, man, etc)
+Es una variable del shell que contiene una **lista de directorios donde se buscaran los ejecutables de los comandos que tipeas** (EJ: ls, pwd, man, etc).
+
+>Cuando tipeas un comando, se busca un archivo con el nombre de ese comando en los directorios de $PATH, la busqueda se hace en el orden en el que estan puestos los directorios.
 
 podes visualizarla haciando
 
@@ -70,6 +72,6 @@ podes visualizarla haciando
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIwNTQ0MSwzMzc3NTgxNjEsMTQ0OD
-c5NTQ5OF19
+eyJoaXN0b3J5IjpbLTExMTg4Mzg3NDUsMzM3NzU4MTYxLDE0ND
+g3OTU0OThdfQ==
 -->
