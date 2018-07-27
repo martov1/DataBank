@@ -39,9 +39,9 @@ El usuario con privilegios normales suele tenes un prompt terminando con un **$*
 	
 	    [usuario@hostname: ] #
 
-## Tilde (~) expansion
+## Tilde (~) expansion en el prompt
 
-Muchos sistemas usan **~** para simbolizar subdirectorios de usuarios.
+Muchos sistemas usan **~** para simbolizar **el directorio del usuario**.
 Los usuarios no necesariamente son humanos, por ejemplo puede ser que exista un usuario para un servidor FTP y su directortorio este en `/srv/ftp`
 
 * `~jason` = /home/jason
@@ -54,7 +54,8 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
 	[juan@host ~]$ pwd
 	/home/juan
 	[juan@host ~]$ cd musica
-	[juan@host musica]$ 
+	[juan@host musica]$ pwd
+	/home/juan/musica
 
 ## Commands
 
@@ -85,6 +86,6 @@ Los diferentes directorios quedan separados por **":"**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzODQzOTA4LDE3MDE3NDkwMjksMTYwNz
-gzNTY4NywzMzc3NTgxNjEsMTQ0ODc5NTQ5OF19
+eyJoaXN0b3J5IjpbLTQ5OTQ4MjcxOCwxNzAxNzQ5MDI5LDE2MD
+c4MzU2ODcsMzM3NzU4MTYxLDE0NDg3OTU0OThdfQ==
 -->
