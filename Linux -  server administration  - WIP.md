@@ -49,6 +49,12 @@ Los usuarios no necesariamente son humanos, por ejemplo puede ser que exista un 
 * `~root` =/root
 * `~ftp` = /srv/ftp
 
+Cuando cambias de directorio muchas veces se muestra el directorio en referencia a la posicion de **~**
+
+	[juan@host ~]$ pwd
+	/home/juan
+	[juan@host ~]$ cd musica
+	[juan@host musica]$ 
 
 ## Commands
 
@@ -79,6 +85,6 @@ Los diferentes directorios quedan separados por **":"**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTE2OTUyNywxNzAxNzQ5MDI5LDE2MD
-c4MzU2ODcsMzM3NzU4MTYxLDE0NDg3OTU0OThdfQ==
+eyJoaXN0b3J5IjpbOTQzODQzOTA4LDE3MDE3NDkwMjksMTYwNz
+gzNTY4NywzMzc3NTgxNjEsMTQ0ODc5NTQ5OF19
 -->
