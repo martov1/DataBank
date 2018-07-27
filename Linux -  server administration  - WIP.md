@@ -216,15 +216,15 @@ le permito al usuario leer, escribir y ejecutar, al grupo solo leer
 
 	chmod u+xwr,g-r miArchivo
 	
-Le asigno al usuario unicamente permiso de lectura, le saco cualquier otro permiso a ese usuariosi lo hubiere
+Le asigno al usuario unicamente permiso de lectura, le saco cualquier otro permiso a ese usuario si lo hubiere
 
 	chmod u=r miArchivo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTM0MjIxMCwtMTE2Mzg5Mzc3MiwtMT
-IwNDcyMDkzNSwtMjA0ODM0MjA0Myw2NzI1MzI3OSwxMTY2NzI2
-ODk2LDE4MTU1NjE1Niw2OTg3NDgwNjQsLTE5NTM5ODYwMzUsLT
-EwNzcyMDg0MjIsNjkxNTc1Nzg2LDc3MDg3MzY0Nyw4MTg2OTkx
-MjQsMjAzODYyNzQ4NSwtMTI2NTQ5MDA0OSwtMjAwNTQ5OTg0Mi
-wtNTQ4NTAyOTA0LC00OTk0ODI3MTgsMTcwMTc0OTAyOSwxNjA3
-ODM1Njg3XX0=
+eyJoaXN0b3J5IjpbLTE3Mjg1MDMwMDYsLTExNjM4OTM3NzIsLT
+EyMDQ3MjA5MzUsLTIwNDgzNDIwNDMsNjcyNTMyNzksMTE2Njcy
+Njg5NiwxODE1NTYxNTYsNjk4NzQ4MDY0LC0xOTUzOTg2MDM1LC
+0xMDc3MjA4NDIyLDY5MTU3NTc4Niw3NzA4NzM2NDcsODE4Njk5
+MTI0LDIwMzg2Mjc0ODUsLTEyNjU0OTAwNDksLTIwMDU0OTk4ND
+IsLTU0ODUwMjkwNCwtNDk5NDgyNzE4LDE3MDE3NDkwMjksMTYw
+NzgzNTY4N119
 -->
