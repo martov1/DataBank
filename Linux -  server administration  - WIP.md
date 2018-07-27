@@ -26,7 +26,9 @@ ver https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU
 
 # Command line
 
-## User y super user
+## Simbologia del command prompt
+
+### User y super user
 la Shell o command line tiene dos modos de funcionamiento
 
 * **Usuario normal:**
@@ -39,7 +41,7 @@ El usuario con privilegios normales suele tenes un prompt terminando con un **$*
 	
 	    [usuario@hostname: ] #
 
-## Tilde (~) expansion en el prompt
+### Tilde (~) expansion en el prompt
 
 Muchos sistemas usan **~** para simbolizar **el directorio del usuario**.
 Los usuarios no necesariamente son humanos, por ejemplo puede ser que exista un usuario para un servidor FTP y su directortorio este en `/srv/ftp`
@@ -86,6 +88,7 @@ Los diferentes directorios quedan separados por **":"**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTQ4MjcxOCwxNzAxNzQ5MDI5LDE2MD
-c4MzU2ODcsMzM3NzU4MTYxLDE0NDg3OTU0OThdfQ==
+eyJoaXN0b3J5IjpbLTU0ODUwMjkwNCwtNDk5NDgyNzE4LDE3MD
+E3NDkwMjksMTYwNzgzNTY4NywzMzc3NTgxNjEsMTQ0ODc5NTQ5
+OF19
 -->
