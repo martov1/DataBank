@@ -59,7 +59,7 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
 	[juan@host musica]$ pwd
 	/home/juan/musica
 
-## Commands
+## Commands mas comunes
 
 * **ls** - Lista el contenido del directorio
 * **pwd** - Muestra el directorio actual
@@ -86,9 +86,10 @@ Los diferentes directorios quedan separados por **":"**
 
 	which ls
 
+## Ejecutar com
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODUwMjkwNCwtNDk5NDgyNzE4LDE3MD
-E3NDkwMjksMTYwNzgzNTY4NywzMzc3NTgxNjEsMTQ0ODc5NTQ5
-OF19
+eyJoaXN0b3J5IjpbMTc4MjMxMDY2OSwtNTQ4NTAyOTA0LC00OT
+k0ODI3MTgsMTcwMTc0OTAyOSwxNjA3ODM1Njg3LDMzNzc1ODE2
+MSwxNDQ4Nzk1NDk4XX0=
 -->
