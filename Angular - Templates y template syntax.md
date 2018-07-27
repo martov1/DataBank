@@ -283,7 +283,7 @@ export class SizerComponent {
 
 
 ---
-# Reference variables
+# ReferencTemplate variables
 
 Son variables que se pueden colocar en el template y referencian un **DOM element, component o directive**. pueden realizar cambios o lecturas directamente sobre esa variable
 
@@ -351,5 +351,6 @@ Utilizan el simbolo de pipe **|**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTEzOTYxNSwxMTY4MzYwNDAyXX0=
+eyJoaXN0b3J5IjpbMTkzNDcwMDAsLTQ3OTEzOTYxNSwxMTY4Mz
+YwNDAyXX0=
 -->
