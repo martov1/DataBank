@@ -15,6 +15,10 @@ https://www.youtube.com/watch?v=gPOliFwMFCk&list=PLbjlI3cowd5-pvfO521ejRI1Q6abFk
 
 Apache procesa las solicitudes de la siguiente manera
 
+### MPM
+
+
+
 * APACHE - **proceso madre que spawnea servidores a medida que son necesarios**
 	* Server 1- **administra threads**
 		* Thread 1 - **Procesa un request**
@@ -64,5 +68,5 @@ Son las directivas que le indican al worker de apache como tiene que spawnear lo
 Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo del sistema operativo donde este instalado apache.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxMjMxOTM0XX0=
+eyJoaXN0b3J5IjpbMzI0MjI2OTMsOTMxMjMxOTM0XX0=
 -->
