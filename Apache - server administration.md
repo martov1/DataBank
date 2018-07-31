@@ -96,7 +96,7 @@ Alguas de las directivas que contiene son:
 	* Listen: 80
 * **serverName** - Un nombre de dominio para este servidor, sirve para las redirecciones
 * **useCanonicalName** - Si un usuario es redirigido a este server por un nombre de DNS diferente al server name, se redirige al nombre de dominio especificado en el server name
-* **DocumentRoot** - Indica don
+* **DocumentRoot** - Indica la carpeta publica root donde esta el contenido que el servidor puede entregar al cliente
 
 ### Worker directives
 Son las directivas que le indican al worker de apache como tiene que spawnear los nuevos servidores y sus threads que procesan los http requests
@@ -121,7 +121,7 @@ Permite activar una serie de directivas **solo si un modulo esta activo**, se us
 *    MPM activado.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMyNDkyMTMsNTA2MTYzMjQzLDEyMj
+eyJoaXN0b3J5IjpbLTE3MzM3OTMwODQsNTA2MTYzMjQzLDEyMj
 ExMzQ5NDMsMTk3NzUzNTcwOCwtMTA4ODk3NjI0NCwzMDA4MTg5
 NTQsLTQ4ODgxMTAwMiwtMTY5MzI5MjEwNywzMjQyMjY5Myw5Mz
 EyMzE5MzRdfQ==
