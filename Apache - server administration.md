@@ -95,7 +95,7 @@ Alguas de las directivas que contiene son:
 	*  IP (socket especifico) 
 	* Puerto (socket generico)
 	* Nada:  si no esta configurado escucha todos los puertos
-	* Protocolo (http, ht
+	* Protocolo (http, https, etc)
 	* EJ:
 		* listen: 111.111.111.111:80
 		* Listen: 80
@@ -144,7 +144,7 @@ Te permite aplicar directivas para ciertos directorios
 
 ## Directivas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjE1OTE1LDE5OTI4NzgxMTIsLTE0OD
+eyJoaXN0b3J5IjpbLTQ2ODkzMjIxLDE5OTI4NzgxMTIsLTE0OD
 I1OTQ5NjcsMTgyMjA0MDI0NCw1MDYxNjMyNDMsMTIyMTEzNDk0
 MywxOTc3NTM1NzA4LC0xMDg4OTc2MjQ0LDMwMDgxODk1NCwtND
 g4ODExMDAyLC0xNjkzMjkyMTA3LDMyNDIyNjkzLDkzMTIzMTkz
