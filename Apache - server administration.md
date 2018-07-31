@@ -95,7 +95,7 @@ Alguas de las directivas que contiene son:
 ### Worker directives
 Son las directivas que le indican al worker de apache como tiene que spawnear los nuevos servidores y sus threads que procesan los http requests
 
->Este es un ejemplo de la configuracion para el MPM "worker", los p
+>Este es un ejemplo de la configuracion para el MPM "worker", los MPM "prefork" y "event" tienen configuraciones acorde a como funcionan.
 
 * **StartServers** - Cantidad de procesos servidor spawneados cuando apache inicia, cada proceso servidor puede spawnear threads
 * **maxClients** - Cantidad maxima de clientes simultaneos
@@ -113,7 +113,7 @@ Son las directivas que le indican al worker de apache como tiene que spawnear lo
 Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo del sistema operativo donde este instalado apache.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3NjM5NDQwLC0xMDg4OTc2MjQ0LDMwMD
-gxODk1NCwtNDg4ODExMDAyLC0xNjkzMjkyMTA3LDMyNDIyNjkz
-LDkzMTIzMTkzNF19
+eyJoaXN0b3J5IjpbMTk3NzUzNTcwOCwtMTA4ODk3NjI0NCwzMD
+A4MTg5NTQsLTQ4ODgxMTAwMiwtMTY5MzI5MjEwNywzMjQyMjY5
+Myw5MzEyMzE5MzRdfQ==
 -->
