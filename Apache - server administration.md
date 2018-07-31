@@ -94,6 +94,7 @@ Alguas de las directivas que contiene son:
 * **Listen** - Indica a que socket TCP esta escuchando el servidor, puede especificar IP (socket especifico) o solamente puerto (socket generico)
 	* listen: 111.111.111.111:80
 	* Listen: 80
+	* Ausente: escucha a 
 * **serverName** - Un nombre de dominio para este servidor, sirve para las redirecciones
 * **useCanonicalName** - Si un usuario es redirigido a este server por un nombre de DNS diferente al server name, se redirige al nombre de dominio especificado en el server name
 * **DocumentRoot** - Indica la carpeta publica root donde esta el contenido que el servidor puede entregar al cliente
@@ -137,7 +138,7 @@ Te permite aplicar directivas para ciertos directorios
 
 ## Directivas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDA5MjgxMCwtMTQ4MjU5NDk2NywxOD
+eyJoaXN0b3J5IjpbLTcyNTMxNTg0MCwtMTQ4MjU5NDk2NywxOD
 IyMDQwMjQ0LDUwNjE2MzI0MywxMjIxMTM0OTQzLDE5Nzc1MzU3
 MDgsLTEwODg5NzYyNDQsMzAwODE4OTU0LC00ODg4MTEwMDIsLT
 E2OTMyOTIxMDcsMzI0MjI2OTMsOTMxMjMxOTM0XX0=
