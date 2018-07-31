@@ -91,11 +91,16 @@ Alguas de las directivas que contiene son:
 * **KeepAlive** - Permite mas de un request HTTP por cada conexion TCP
 * **MaxKeepAliveRequests** - Cantidad maxima de requests HTTP por conexion TCP
 * **KeepAliveTimeout** - elimina la conexion despues de N segundos de que no se realiza un request HTTP
-* **Listen** - Indica a que socket TCP esta escuchando el servidor, puede especificar IP (socket especifico) o solamente puerto (socket generico), si no esta configurado escucha todos los puertos
-	* listen: 111.111.111.111:80
-	* Listen: 80
-	* Ausente: escucha TODOS los sockets
-	* 
+* **Listen** - Indica a que socket TCP esta escuchando el servidor, puede especificar
+	*  IP (socket especifico) 
+	* Puerto (socket generico)
+	* Nada:  si no esta configurado escucha todos los puertos
+	* Protocolo (http, ht
+	* EJ:
+		* listen: 111.111.111.111:80
+		* Listen: 80
+		* Ausente: escucha TODOS los sockets
+		* Listen 111.111.111.111:80 https
 * **serverName** - Un nombre de dominio para este servidor, sirve para las redirecciones
 * **useCanonicalName** - Si un usuario es redirigido a este server por un nombre de DNS diferente al server name, se redirige al nombre de dominio especificado en el server name
 * **DocumentRoot** - Indica la carpeta publica root donde esta el contenido que el servidor puede entregar al cliente
@@ -139,9 +144,9 @@ Te permite aplicar directivas para ciertos directorios
 
 ## Directivas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjE3ODg4MCwxOTkyODc4MTEyLC0xND
-gyNTk0OTY3LDE4MjIwNDAyNDQsNTA2MTYzMjQzLDEyMjExMzQ5
-NDMsMTk3NzUzNTcwOCwtMTA4ODk3NjI0NCwzMDA4MTg5NTQsLT
-Q4ODgxMTAwMiwtMTY5MzI5MjEwNywzMjQyMjY5Myw5MzEyMzE5
-MzRdfQ==
+eyJoaXN0b3J5IjpbMTI3NjE1OTE1LDE5OTI4NzgxMTIsLTE0OD
+I1OTQ5NjcsMTgyMjA0MDI0NCw1MDYxNjMyNDMsMTIyMTEzNDk0
+MywxOTc3NTM1NzA4LC0xMDg4OTc2MjQ0LDMwMDgxODk1NCwtND
+g4ODExMDAyLC0xNjkzMjkyMTA3LDMyNDIyNjkzLDkzMTIzMTkz
+NF19
 -->
