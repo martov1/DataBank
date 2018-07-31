@@ -307,11 +307,19 @@ Inicia el proceso de cierre de la conexion
 
 ### STATUS
 
+Devuelve informacion sobre una conexion
+
 ```
 STATUS (local connection name) -> status data
 ```
 
+### ABORT
+
+A diferencia de CLOSE; esta operacion no es elegante y **no termina de enviar los segmentos en cola**
+
+Abort consiste en
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Nzc2ODM2OCwtNjU4MzA2ODU5LDE2Nj
+eyJoaXN0b3J5IjpbMTQ0Njc0MDM5NiwtNjU4MzA2ODU5LDE2Nj
 Q5NjM3MzAsLTUwNjkzMzY3N119
 -->
