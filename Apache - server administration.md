@@ -91,12 +91,14 @@ Alguas de las directivas que contiene son:
 * **KeepAlive** - Permite mas de un request HTTP por cada conexion TCP
 * **MaxKeepAliveRequests** - Cantidad maxima de requests HTTP por conexion TCP
 * **KeepAliveTimeout** - elimina la conexion despues de N segundos de que no se realiza un request HTTP
-* **L isten** - Indica a que socket TCP esta escuchando el servidor, puede especificar IP (socket especifico) o solamente puerto (socket generico)
+* **Listen** - Indica a que socket TCP esta escuchando el servidor, puede especificar IP (socket especifico) o solamente puerto (socket generico)
 	* listen: 111.111.111.111:80
 	* Listen: 80
 * **serverName** - Un nombre de dominio para este servidor, sirve para las redirecciones
 * **useCanonicalName** - Si un usuario es redirigido a este server por un nombre de DNS diferente al server name, se redirige al nombre de dominio especificado en el server name
 * **DocumentRoot** - Indica la carpeta publica root donde esta el contenido que el servidor puede entregar al cliente
+* **ErrorLog** - Indica el path donde apache creara y mantendra el error log
+
 
 ### MPM  directives
 Son las directivas que le indican al MPM  de apache como tiene que spawnear los nuevos servidores y sus threads que procesan los http requests
@@ -135,7 +137,7 @@ Te permite aplicar directivas para ciertos directorios
 
 ## Directivas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODQ4NDAyMSwtMTQ4MjU5NDk2NywxOD
+eyJoaXN0b3J5IjpbMTM0NDA5MjgxMCwtMTQ4MjU5NDk2NywxOD
 IyMDQwMjQ0LDUwNjE2MzI0MywxMjIxMTM0OTQzLDE5Nzc1MzU3
 MDgsLTEwODg5NzYyNDQsMzAwODE4OTU0LC00ODg4MTEwMDIsLT
 E2OTMyOTIxMDcsMzI0MjI2OTMsOTMxMjMxOTM0XX0=
