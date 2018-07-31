@@ -293,8 +293,16 @@ Envia una pieza de datos a travez  de una conexion ya establecida.
  )
 ```
 
-## Cl
+### CLOSE
+
+
+Inicia el proceso de cierre de la conexion
+
+* Todos los paquetes que quedan en cola seran enviados con sus respect
+```
+ CLOSE (local connection name)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc2NzE1MjYsLTY1ODMwNjg1OSwxNj
-Y0OTYzNzMwLC01MDY5MzM2NzddfQ==
+eyJoaXN0b3J5IjpbOTA3Mzg3NTE5LC02NTgzMDY4NTksMTY2ND
+k2MzczMCwtNTA2OTMzNjc3XX0=
 -->
