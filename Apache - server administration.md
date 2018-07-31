@@ -95,6 +95,7 @@ Alguas de las directivas que contiene son:
 	* listen: 111.111.111.111:80
 	* Listen: 80
 	* Ausente: escucha TODOS los sockets
+	* 
 * **serverName** - Un nombre de dominio para este servidor, sirve para las redirecciones
 * **useCanonicalName** - Si un usuario es redirigido a este server por un nombre de DNS diferente al server name, se redirige al nombre de dominio especificado en el server name
 * **DocumentRoot** - Indica la carpeta publica root donde esta el contenido que el servidor puede entregar al cliente
@@ -138,8 +139,9 @@ Te permite aplicar directivas para ciertos directorios
 
 ## Directivas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Mjg3ODExMiwtMTQ4MjU5NDk2NywxOD
-IyMDQwMjQ0LDUwNjE2MzI0MywxMjIxMTM0OTQzLDE5Nzc1MzU3
-MDgsLTEwODg5NzYyNDQsMzAwODE4OTU0LC00ODg4MTEwMDIsLT
-E2OTMyOTIxMDcsMzI0MjI2OTMsOTMxMjMxOTM0XX0=
+eyJoaXN0b3J5IjpbLTQ1NjE3ODg4MCwxOTkyODc4MTEyLC0xND
+gyNTk0OTY3LDE4MjIwNDAyNDQsNTA2MTYzMjQzLDEyMjExMzQ5
+NDMsMTk3NzUzNTcwOCwtMTA4ODk3NjI0NCwzMDA4MTg5NTQsLT
+Q4ODgxMTAwMiwtMTY5MzI5MjEwNywzMjQyMjY5Myw5MzEyMzE5
+MzRdfQ==
 -->
