@@ -84,7 +84,7 @@ De esta manera nunca quedan threads esperando nuevos mensajes en una conexion **
 La configuracion principal se encuentra en **apache/conf/httpd.conf** y contiene la configuracion global de apache.
 Alguas de las directivas que contiene son:
 
-### Directivas generales
+### Directivas fundamentales
 
 * **ServerTokens** - Determina la info que se envia al browser sobre el servidor y sobre apache (version, etc)
 * **ServerRoot** - La ubicacion en el filesystem donde esta instalado apache 
@@ -130,8 +130,8 @@ Te permite aplicar directivas para ciertos directorios
     </directory>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQxMTQ2MjUsMTgyMjA0MDI0NCw1MD
-YxNjMyNDMsMTIyMTEzNDk0MywxOTc3NTM1NzA4LC0xMDg4OTc2
-MjQ0LDMwMDgxODk1NCwtNDg4ODExMDAyLC0xNjkzMjkyMTA3LD
-MyNDIyNjkzLDkzMTIzMTkzNF19
+eyJoaXN0b3J5IjpbNTE5NDM4NzQsMTgyMjA0MDI0NCw1MDYxNj
+MyNDMsMTIyMTEzNDk0MywxOTc3NTM1NzA4LC0xMDg4OTc2MjQ0
+LDMwMDgxODk1NCwtNDg4ODExMDAyLC0xNjkzMjkyMTA3LDMyND
+IyNjkzLDkzMTIzMTkzNF19
 -->
