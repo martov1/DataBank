@@ -114,6 +114,9 @@ Son las directivas que le indican al MPM  de apache como tiene que spawnear los 
  
 ## Configuration sections
 
+Las configuration sections te permiten coordinar cuando una d
+
+
 ###  \<IfModule>
 
 Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo de factores como:
@@ -132,8 +135,8 @@ Te permite aplicar directivas para ciertos directorios
 
 ## Directivas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI1OTQ5NjcsMTgyMjA0MDI0NCw1MD
-YxNjMyNDMsMTIyMTEzNDk0MywxOTc3NTM1NzA4LC0xMDg4OTc2
-MjQ0LDMwMDgxODk1NCwtNDg4ODExMDAyLC0xNjkzMjkyMTA3LD
-MyNDIyNjkzLDkzMTIzMTkzNF19
+eyJoaXN0b3J5IjpbLTE4OTc0MzcyNzUsLTE0ODI1OTQ5NjcsMT
+gyMjA0MDI0NCw1MDYxNjMyNDMsMTIyMTEzNDk0MywxOTc3NTM1
+NzA4LC0xMDg4OTc2MjQ0LDMwMDgxODk1NCwtNDg4ODExMDAyLC
+0xNjkzMjkyMTA3LDMyNDIyNjkzLDkzMTIzMTkzNF19
 -->
