@@ -298,11 +298,12 @@ Envia una pieza de datos a travez  de una conexion ya establecida.
 
 Inicia el proceso de cierre de la conexion
 
-* Todos los paquetes que quedan en cola seran enviados con sus respect
+* Todos los paquetes que quedan en cola seran enviados con sus respectivos ACKs de acuerdo al tamaño del window.
+* La conexion se vuelve **simplex**
 ```
  CLOSE (local connection name)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3Mzg3NTE5LC02NTgzMDY4NTksMTY2ND
-k2MzczMCwtNTA2OTMzNjc3XX0=
+eyJoaXN0b3J5IjpbLTEyNjQ4NTEwMjgsLTY1ODMwNjg1OSwxNj
+Y0OTYzNzMwLC01MDY5MzM2NzddfQ==
 -->
