@@ -299,11 +299,19 @@ Envia una pieza de datos a travez  de una conexion ya establecida.
 Inicia el proceso de cierre de la conexion
 
 * Todos los paquetes que quedan en cola seran enviados con sus respectivos ACKs de acuerdo al tamaño del window.
-* La conexion se vuelve **simplex**
+* La conexion se vuelve **simplex** y sigue recibiendo datos
+
 ```
  CLOSE (local connection name)
 ```
+
+### STATUS
+
+```
+STATUS (local connection name) -> status data
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ4NTEwMjgsLTY1ODMwNjg1OSwxNj
-Y0OTYzNzMwLC01MDY5MzM2NzddfQ==
+eyJoaXN0b3J5IjpbLTg0Nzc2ODM2OCwtNjU4MzA2ODU5LDE2Nj
+Q5NjM3MzAsLTUwNjkzMzY3N119
 -->
