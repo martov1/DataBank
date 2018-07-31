@@ -120,9 +120,11 @@ Permite activar una serie de directivas **solo si un modulo esta activo**, se us
 *  sistema operativo donde este instalado apache
 *    MPM activado.
 
+
+### \<Directory >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM3OTMwODQsNTA2MTYzMjQzLDEyMj
-ExMzQ5NDMsMTk3NzUzNTcwOCwtMTA4ODk3NjI0NCwzMDA4MTg5
-NTQsLTQ4ODgxMTAwMiwtMTY5MzI5MjEwNywzMjQyMjY5Myw5Mz
-EyMzE5MzRdfQ==
+eyJoaXN0b3J5IjpbMTgyMjA0MDI0NCw1MDYxNjMyNDMsMTIyMT
+EzNDk0MywxOTc3NTM1NzA4LC0xMDg4OTc2MjQ0LDMwMDgxODk1
+NCwtNDg4ODExMDAyLC0xNjkzMjkyMTA3LDMyNDIyNjkzLDkzMT
+IzMTkzNF19
 -->
