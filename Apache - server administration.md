@@ -113,10 +113,12 @@ Son las directivas que le indican al worker de apache como tiene que spawnear lo
 
 ###  \<IfModule>
 
-Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo del sistema operativo donde este instalado apache.
+Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo de factores como:
+*  sistema operativo donde este instalado apache
+*    MPM activado.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTEzNDk0MywxOTc3NTM1NzA4LC0xMD
-g4OTc2MjQ0LDMwMDgxODk1NCwtNDg4ODExMDAyLC0xNjkzMjky
-MTA3LDMyNDIyNjkzLDkzMTIzMTkzNF19
+eyJoaXN0b3J5IjpbNTA2MTYzMjQzLDEyMjExMzQ5NDMsMTk3Nz
+UzNTcwOCwtMTA4ODk3NjI0NCwzMDA4MTg5NTQsLTQ4ODgxMTAw
+MiwtMTY5MzI5MjEwNywzMjQyMjY5Myw5MzEyMzE5MzRdfQ==
 -->
