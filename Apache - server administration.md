@@ -77,7 +77,7 @@ Con este proposito se establece **un thread por cada proceso** que esta encargad
 
 De esta manera nunca quedan threads esperando nuevos mensajes en una conexion **ESTABLISHED** cuando se **mantienen las conexiones abiertas** usando **KEEPALIVE**
 
-# Configuracion
+# Configuracion CORE
 
 ## Configuracion principal
 
@@ -132,7 +132,7 @@ Te permite aplicar directivas para ciertos directorios
 
 ## Directivas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDIxNTgwNjYsMTgyMjA0MDI0NCw1MD
+eyJoaXN0b3J5IjpbLTE0ODI1OTQ5NjcsMTgyMjA0MDI0NCw1MD
 YxNjMyNDMsMTIyMTEzNDk0MywxOTc3NTM1NzA4LC0xMDg4OTc2
 MjQ0LDMwMDgxODk1NCwtNDg4ODExMDAyLC0xNjkzMjkyMTA3LD
 MyNDIyNjkzLDkzMTIzMTkzNF19
