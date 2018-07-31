@@ -40,10 +40,12 @@ Este modo es util si estas usando librerias que no son compatibles con multi-thr
 Worker es una arquitectura mas moderna que hace uso de multi-threading.
 Funciona asi
 *  Un proceso central que abre procesos servidores a medida que son necesarios.
-* Cada proceso servidor puede tomar varios requests al mismo tiempo y por mantiene una cantidad variable the threads funcionando
-* Cada thread de procesamiento:
-* Se mantiene en **LISTEN**
-*  es responsable de procesar un solo request HTTP
+* Cada proceso servidor inicia varios threads para procesar los requests
+	* El servidor inicia threads en **LISTEN**
+	* El thread procesa  
+* Cada thread de procesamiento:	
+	* Se mantiene en **LISTEN** para tomar nuevas conexiones a penas es creado
+	*  Es responsable de procesar un solo request HTTP
 
 
 
@@ -97,6 +99,6 @@ Son las directivas que le indican al worker de apache como tiene que spawnear lo
 Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo del sistema operativo donde este instalado apache.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Nzg0OTc4NywtMTY5MzI5MjEwNywzMj
-QyMjY5Myw5MzEyMzE5MzRdfQ==
+eyJoaXN0b3J5IjpbLTE2MTM2Mjk5NjYsLTE2OTMyOTIxMDcsMz
+I0MjI2OTMsOTMxMjMxOTM0XX0=
 -->
