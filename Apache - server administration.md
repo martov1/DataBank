@@ -114,7 +114,7 @@ Son las directivas que le indican al MPM  de apache como tiene que spawnear los 
  
 ## Configuration sections
 
-Las configuration sections te permiten coordinar cuando una d
+Las configuration sections te permiten coordinar cuando una directiva tiene que tomar efecto.
 
 
 ###  \<IfModule>
@@ -135,8 +135,8 @@ Te permite aplicar directivas para ciertos directorios
 
 ## Directivas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc0MzcyNzUsLTE0ODI1OTQ5NjcsMT
-gyMjA0MDI0NCw1MDYxNjMyNDMsMTIyMTEzNDk0MywxOTc3NTM1
-NzA4LC0xMDg4OTc2MjQ0LDMwMDgxODk1NCwtNDg4ODExMDAyLC
-0xNjkzMjkyMTA3LDMyNDIyNjkzLDkzMTIzMTkzNF19
+eyJoaXN0b3J5IjpbLTM3ODQ4NDAyMSwtMTQ4MjU5NDk2NywxOD
+IyMDQwMjQ0LDUwNjE2MzI0MywxMjIxMTM0OTQzLDE5Nzc1MzU3
+MDgsLTEwODg5NzYyNDQsMzAwODE4OTU0LC00ODg4MTEwMDIsLT
+E2OTMyOTIxMDcsMzI0MjI2OTMsOTMxMjMxOTM0XX0=
 -->
