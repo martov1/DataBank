@@ -66,6 +66,8 @@ Funciona asi
 
 Es extremadamente similar a worker, pero intenta evitar que los threads pierdan el tiempo manteniendo conexiones categorizadas como **ESTABLISHED**  que pueden no recibir mensajes durante largos periodos de tiempo.
 
+>Recordemos que Apache no cierra las conexiones inmediatamente si esta puesto en **KeepAlive** y esto salva mucho overhead de volver a crear la conexion TCP con cada solicitud
+
 Con este proposito se establece **un thread por cada proceso** que esta encargado unicamente de :
 * **CONOCER** 
 	* Todas las conexiones en **LISTEN**
@@ -73,7 +75,7 @@ Con este proposito se establece **un thread por cada proceso** que esta encargad
 * **RECIBIR**  todos los segmentos TCP entrantes
 * **DELEGAR** cada segmento al uno de los threads libres 
 
-De esta manera nunca quedan threads esperando nuevos mensajes en una conexion **ESTABLISHED**
+De esta manera nunca quedan threads esperando nuevos mensajes en una conexion **ESTABLISHED** cuando se **mantienen las conexiones abiertas** usando **KEEPALIVE**
 
 # Configuracion
 
@@ -111,7 +113,7 @@ Son las directivas que le indican al worker de apache como tiene que spawnear lo
 Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo del sistema operativo donde este instalado apache.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDcwMDEwNTAsMzAwODE4OTU0LC00OD
+eyJoaXN0b3J5IjpbLTEwODg5NzYyNDQsMzAwODE4OTU0LC00OD
 g4MTEwMDIsLTE2OTMyOTIxMDcsMzI0MjI2OTMsOTMxMjMxOTM0
 XX0=
 -->
