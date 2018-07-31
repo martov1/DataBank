@@ -285,9 +285,9 @@ Pide la apertura de una conexion desde el socket $A$ al socket $B$
 	 byte count, 
 	 PUSH flag, 
 	 URGENT flag, 
- [timeout]
+	 [timeout]
  )
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjY2NjM2MiwtNTA2OTMzNjc3XX0=
+eyJoaXN0b3J5IjpbMTY2NDk2MzczMCwtNTA2OTMzNjc3XX0=
 -->
