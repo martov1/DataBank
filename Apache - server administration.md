@@ -4,6 +4,8 @@
 CURSO
 https://www.youtube.com/watch?v=gPOliFwMFCk&list=PLbjlI3cowd5-pvfO521ejRI1Q6abFkNQc
 
+**Me quede:** https://httpd.apache.org/docs/2.4/en/configuring.html
+
 # Intro
 
 ## Conceptos basicos
@@ -144,9 +146,9 @@ Te permite aplicar directivas para ciertos directorios
 
 ## Directivas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODkzMjIxLDE5OTI4NzgxMTIsLTE0OD
-I1OTQ5NjcsMTgyMjA0MDI0NCw1MDYxNjMyNDMsMTIyMTEzNDk0
-MywxOTc3NTM1NzA4LC0xMDg4OTc2MjQ0LDMwMDgxODk1NCwtND
-g4ODExMDAyLC0xNjkzMjkyMTA3LDMyNDIyNjkzLDkzMTIzMTkz
-NF19
+eyJoaXN0b3J5IjpbMTM2NzAyNjc2NiwtNDY4OTMyMjEsMTk5Mj
+g3ODExMiwtMTQ4MjU5NDk2NywxODIyMDQwMjQ0LDUwNjE2MzI0
+MywxMjIxMTM0OTQzLDE5Nzc1MzU3MDgsLTEwODg5NzYyNDQsMz
+AwODE4OTU0LC00ODg4MTEwMDIsLTE2OTMyOTIxMDcsMzI0MjI2
+OTMsOTMxMjMxOTM0XX0=
 -->
