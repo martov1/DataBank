@@ -64,7 +64,7 @@ Funciona asi
 
 ### Event MPM
 
-Es extremadamente similar a worker, pero intenta evitar que los threads pierdan el tiempo manteniendo conexiones que pueden no recibir mensajes durante largos periodos de tiempo.
+Es extremadamente similar a worker, pero intenta evitar que los threads pierdan el tiempo manteniendo conexiones categorizadas como **ESTABLISHED**  que pueden no recibir mensajes durante largos periodos de tiempo.
 
 
 # Configuracion
@@ -103,6 +103,7 @@ Son las directivas que le indican al worker de apache como tiene que spawnear lo
 Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo del sistema operativo donde este instalado apache.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwODE4OTU0LC00ODg4MTEwMDIsLTE2OT
-MyOTIxMDcsMzI0MjI2OTMsOTMxMjMxOTM0XX0=
+eyJoaXN0b3J5IjpbLTE0MjY1MzE0NDEsMzAwODE4OTU0LC00OD
+g4MTEwMDIsLTE2OTMyOTIxMDcsMzI0MjI2OTMsOTMxMjMxOTM0
+XX0=
 -->
