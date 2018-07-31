@@ -91,7 +91,9 @@ Alguas de las directivas que contiene son:
 * **KeepAlive** - Permite mas de un request HTTP por cada conexion TCP
 * **MaxKeepAliveRequests** - Cantidad maxima de requests HTTP por conexion TCP
 * **KeepAliveTimeout** - elimina la conexion despues de N segundos de que no se realiza un request HTTP
-* **listen** - Indica a que socket 
+* **listen** - Indica a que socket TCP esta escuchando el servidor, puede especificar IP (socket especifico) o solamente puerto (socket generico)
+	* listen: 111.111.111.111:80
+	* Listen: 80
 
 ### Worker directives
 Son las directivas que le indican al worker de apache como tiene que spawnear los nuevos servidores y sus threads que procesan los http requests
@@ -114,7 +116,7 @@ Son las directivas que le indican al worker de apache como tiene que spawnear lo
 Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo del sistema operativo donde este instalado apache.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMzgxMjU3LDE5Nzc1MzU3MDgsLTEwOD
-g5NzYyNDQsMzAwODE4OTU0LC00ODg4MTEwMDIsLTE2OTMyOTIx
-MDcsMzI0MjI2OTMsOTMxMjMxOTM0XX0=
+eyJoaXN0b3J5IjpbLTExMTczNTkyNzEsMTk3NzUzNTcwOCwtMT
+A4ODk3NjI0NCwzMDA4MTg5NTQsLTQ4ODgxMTAwMiwtMTY5MzI5
+MjEwNywzMjQyMjY5Myw5MzEyMzE5MzRdfQ==
 -->
