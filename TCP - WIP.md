@@ -292,7 +292,9 @@ Envia una pieza de datos a travez  de una conexion ya establecida.
 	 [timeout]
  )
 ```
+
+## Cl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODMwNjg1OSwxNjY0OTYzNzMwLC01MD
-Y5MzM2NzddfQ==
+eyJoaXN0b3J5IjpbLTEwNjc2NzE1MjYsLTY1ODMwNjg1OSwxNj
+Y0OTYzNzMwLC01MDY5MzM2NzddfQ==
 -->
