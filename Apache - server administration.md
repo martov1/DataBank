@@ -122,9 +122,14 @@ Permite activar una serie de directivas **solo si un modulo esta activo**, se us
 
 
 ### \<Directory >
+
+Te permite aplicar directivas para ciertos directorios
+
+    <
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjA0MDI0NCw1MDYxNjMyNDMsMTIyMT
-EzNDk0MywxOTc3NTM1NzA4LC0xMDg4OTc2MjQ0LDMwMDgxODk1
-NCwtNDg4ODExMDAyLC0xNjkzMjkyMTA3LDMyNDIyNjkzLDkzMT
-IzMTkzNF19
+eyJoaXN0b3J5IjpbMTY5MDgzMjMxNSwxODIyMDQwMjQ0LDUwNj
+E2MzI0MywxMjIxMTM0OTQzLDE5Nzc1MzU3MDgsLTEwODg5NzYy
+NDQsMzAwODE4OTU0LC00ODg4MTEwMDIsLTE2OTMyOTIxMDcsMz
+I0MjI2OTMsOTMxMjMxOTM0XX0=
 -->
