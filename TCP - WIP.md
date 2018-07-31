@@ -317,9 +317,12 @@ STATUS (local connection name) -> status data
 
 A diferencia de CLOSE; esta operacion no es elegante y **no termina de enviar los segmentos en cola**
 
-Abort consiste en
+Abort consiste en;
+* Borrar la cola de envios y recepciones
+* Enviar un mensaje con flag **RST** al otro interlocutor
+* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Njc0MDM5NiwtNjU4MzA2ODU5LDE2Nj
+eyJoaXN0b3J5IjpbMTQ1ODQ3NjEzMCwtNjU4MzA2ODU5LDE2Nj
 Q5NjM3MzAsLTUwNjkzMzY3N119
 -->
