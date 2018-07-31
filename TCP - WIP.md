@@ -277,11 +277,12 @@ Pide la apertura de una conexion desde el socket $A$ al socket $B$
 
 ### SEND
 
+Envia una pieza de datos a travez  de una conexion ya establecida.
 
 ```
  SEND (
 	 local connection name, 
-	 buffer address, 
+	 buffer address, // La direccion de los datos a 
 	 byte count, 
 	 PUSH flag, 
 	 URGENT flag, 
@@ -289,5 +290,6 @@ Pide la apertura de una conexion desde el socket $A$ al socket $B$
  )
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDk2MzczMCwtNTA2OTMzNjc3XX0=
+eyJoaXN0b3J5IjpbLTQxMzAxOTgwMiwxNjY0OTYzNzMwLC01MD
+Y5MzM2NzddfQ==
 -->
