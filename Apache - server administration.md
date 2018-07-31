@@ -129,9 +129,11 @@ Te permite aplicar directivas para ciertos directorios
     //Cosas que se aplican solo en esta carpeta
     </directory>
 
+
+## Directivas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5NDM4NzQsMTgyMjA0MDI0NCw1MDYxNj
-MyNDMsMTIyMTEzNDk0MywxOTc3NTM1NzA4LC0xMDg4OTc2MjQ0
-LDMwMDgxODk1NCwtNDg4ODExMDAyLC0xNjkzMjkyMTA3LDMyND
-IyNjkzLDkzMTIzMTkzNF19
+eyJoaXN0b3J5IjpbLTE2MDIxNTgwNjYsMTgyMjA0MDI0NCw1MD
+YxNjMyNDMsMTIyMTEzNDk0MywxOTc3NTM1NzA4LC0xMDg4OTc2
+MjQ0LDMwMDgxODk1NCwtNDg4ODExMDAyLC0xNjkzMjkyMTA3LD
+MyNDIyNjkzLDkzMTIzMTkzNF19
 -->
