@@ -256,7 +256,7 @@ Una vez que TCP cerro su conexion **SIMPLEX**, no le permitira al usuario seguir
 La interfaz **entre el usuario y TCP** esta bien definida por el protocolo, mientras que la interfaz entre **TCP y el protocolo de capa inferior** sera espericificado por el protocolo de capa inferior
 
 
-### **OPEN**
+### OPEN
 
 Pide la apertura de una conexion desde el socket $A$ al socket $B$
 
@@ -265,17 +265,29 @@ Pide la apertura de una conexion desde el socket $A$ al socket $B$
 * **Timeout:** Si se coloca un timeout, la conexion sera abortada si luego del transcurso del timeout no se recibio respuesta del host $B$
 ```
  OPEN (
- local port,
- foreign socket, 
- active/passive, 
- [timeout],
- [precedence],
- [security/compartment]
- [options]
+	 local port,
+	 foreign socket, 
+	 active/passive, 
+	 [timeout],
+	 [precedence],
+	 [security/compartment]
+	 [options]
  ) -> local connection name
 ```
 
+### SEND
 
+
+```
+ SEND (
+	 local connection name, 
+	 buffer address, 
+	 byte count, 
+	 PUSH flag, 
+	 URGENT flag, 
+ [timeout]
+ )
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjkzMzY3N119
+eyJoaXN0b3J5IjpbMTc5NjY2NjM2MiwtNTA2OTMzNjc3XX0=
 -->
