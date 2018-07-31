@@ -279,8 +279,8 @@ Pide la apertura de una conexion desde el socket $A$ al socket $B$
 
 Envia una pieza de datos a travez  de una conexion ya establecida.
 
-* **PUSH flag** - Los datos se envian inmediatamente en lugar de esperar a que se acumulen varios datos y enviarlos todos a la vez
-* **No PUSH flag** - 
+* **PUSH flag** - Los datos se envian inmediatamente
+* **No PUSH flag** - Se espera para ver si se acumulan mas datos para enviar en esta conexion y se envian todos juntos para aumentar la eficiencia de la red.
 
 ```
  SEND (
@@ -293,6 +293,6 @@ Envia una pieza de datos a travez  de una conexion ya establecida.
  )
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTk2MTQ1OSwxNjY0OTYzNzMwLC01MD
+eyJoaXN0b3J5IjpbLTY1ODMwNjg1OSwxNjY0OTYzNzMwLC01MD
 Y5MzM2NzddfQ==
 -->
