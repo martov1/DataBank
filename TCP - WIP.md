@@ -20,7 +20,7 @@ TCP **No asume casi nada** de las capas inferiores o superiores, principalmente.
 
 TCP utiliza **puertos** para diferenciar ente los diferentes data streams emitidos por o de un host.
 
-**PUERTO**: Un numero que identifica los distintos data streams que puede haber entre dos hosts. El sistema operativo puede dirigir datos que llegan de diferentes puertos a diferentes procesos internos del sistema.
+**PUERTO**: Un numero que identifica los distintos data streams que puede haber entre dos hosts. El sistema operativo puede dirigir datos que llegan de diferentes puertos a diferentes procesos internos del sistema. Permite mantener **conexiones separadas a**
 **SOCKET**: la combinacion de  **direccion de host (ej:IP)** y **puerto**
 **CONEXION:** Una cantidad de informacion que dos procesos comparten para poder comuicarse, una conexion es **identificada por dos sockets** 
 
@@ -323,6 +323,6 @@ Abort consiste en;
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODQ3NjEzMCwtNjU4MzA2ODU5LDE2Nj
-Q5NjM3MzAsLTUwNjkzMzY3N119
+eyJoaXN0b3J5IjpbMTExMTY3MzYwMiwxNDU4NDc2MTMwLC02NT
+gzMDY4NTksMTY2NDk2MzczMCwtNTA2OTMzNjc3XX0=
 -->
