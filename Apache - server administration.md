@@ -37,7 +37,8 @@ Este modo es util si estas usando librerias que no son compatibles con multi-thr
 
 ### Worker MPM
 
-Worker es una arquitectura 
+Worker es una arquitectura mas moderna que hace uso de multi-threading.
+Funcion
 
 * APACHE - **proceso madre que spawnea servidores a medida que son necesarios**
 	* Server 1- **administra threads**
@@ -88,6 +89,6 @@ Son las directivas que le indican al worker de apache como tiene que spawnear lo
 Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo del sistema operativo donde este instalado apache.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzUwMzE5LC0xNjkzMjkyMTA3LDMyND
-IyNjkzLDkzMTIzMTkzNF19
+eyJoaXN0b3J5IjpbMTc4MTEwNDk5OCwtMTY5MzI5MjEwNywzMj
+QyMjY5Myw5MzEyMzE5MzRdfQ==
 -->
