@@ -20,7 +20,8 @@ Apache procesa las solicitudes de acuerdo a un **Multi-Processing Module** o  **
 
 Prefork es la arquitectura mas antigua y menos eficiente.
 * Un proceso central maneja la instanciacion de otros servidores a medida que son necesarios
-* Se genera una instancia de servidor (**un proceso**) por cada solicitud HTTP
+* Se genera una instancia de servidor (**un proceso**) que maneja una unica conexion
+	* Se mantienen siempre servidores en LISTEN para procesar nuevos requests 
 * Luego de terminar la solicitud se elimina el proceso.
 * Cada proceso es un unico thread de procesamiento.
 
@@ -87,6 +88,6 @@ Son las directivas que le indican al worker de apache como tiene que spawnear lo
 Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo del sistema operativo donde este instalado apache.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODA4MTAxNCwtMTY5MzI5MjEwNywzMj
+eyJoaXN0b3J5IjpbMTIwNjg1NTg4OSwtMTY5MzI5MjEwNywzMj
 QyMjY5Myw5MzEyMzE5MzRdfQ==
 -->
