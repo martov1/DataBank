@@ -19,7 +19,14 @@ Apache procesa las solicitudes de acuerdo a un **Multi-Processing Module** o  **
 ### Prefork MPM
 
 Prefork es la arquitectura mas antigua y menos eficiente.
-Se genera una instancia de servidor (**un proceso**) por cada solicitud HTTP, cada instancia de servidor es un **unico thread**
+Se genera una instancia de servidor (**un proceso**) por cada solicitud HTTP, luego de terminar la solicitud se elimina el proceso.
+
+**Notese que cada proceso es un unico thread de procesamiento**.
+
+* APACHE - **proceso madre que spawnea servidores a medida que son necesarios**
+	* Server 1- **Procesa request**
+	* Server 2
+	* Server 3
 
 
 ### Worker MPM
@@ -75,6 +82,6 @@ Son las directivas que le indican al worker de apache como tiene que spawnear lo
 Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo del sistema operativo donde este instalado apache.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM1MjUzNjYsLTE2OTMyOTIxMDcsMz
-I0MjI2OTMsOTMxMjMxOTM0XX0=
+eyJoaXN0b3J5IjpbMzU0MjMwNTEzLC0xNjkzMjkyMTA3LDMyND
+IyNjkzLDkzMTIzMTkzNF19
 -->
