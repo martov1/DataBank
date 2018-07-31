@@ -61,6 +61,12 @@ Funciona asi
 		* ...
 		* Thread 200
 
+
+### Event MPM
+
+Es extremadamente similar a worker, pero intenta evitar que los threads 
+
+
 # Configuracion
 
 ## Configuracion principal
@@ -97,6 +103,6 @@ Son las directivas que le indican al worker de apache como tiene que spawnear lo
 Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo del sistema operativo donde este instalado apache.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI0NzI2NCwtNDg4ODExMDAyLC0xNj
-kzMjkyMTA3LDMyNDIyNjkzLDkzMTIzMTkzNF19
+eyJoaXN0b3J5IjpbLTIxNDA1OTQ4NDcsLTQ4ODgxMTAwMiwtMT
+Y5MzI5MjEwNywzMjQyMjY5Myw5MzEyMzE5MzRdfQ==
 -->
