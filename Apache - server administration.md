@@ -98,8 +98,8 @@ Alguas de las directivas que contiene son:
 * **useCanonicalName** - Si un usuario es redirigido a este server por un nombre de DNS diferente al server name, se redirige al nombre de dominio especificado en el server name
 * **DocumentRoot** - Indica la carpeta publica root donde esta el contenido que el servidor puede entregar al cliente
 
-### Worker directives
-Son las directivas que le indican al worker de apache como tiene que spawnear los nuevos servidores y sus threads que procesan los http requests
+### MPM  directives
+Son las directivas que le indican al MPM  de apache como tiene que spawnear los nuevos servidores y sus threads que procesan los http requests
 
 >Este es un ejemplo de la configuracion para el MPM "worker", los MPM "prefork" y "event" tienen configuraciones acorde a como funcionan.
 
@@ -125,11 +125,13 @@ Permite activar una serie de directivas **solo si un modulo esta activo**, se us
 
 Te permite aplicar directivas para ciertos directorios
 
-    <
+    <directory /bla/bla/public>
+    //Cosas que se aplican solo en esta carpeta
+    </directory>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDgzMjMxNSwxODIyMDQwMjQ0LDUwNj
-E2MzI0MywxMjIxMTM0OTQzLDE5Nzc1MzU3MDgsLTEwODg5NzYy
-NDQsMzAwODE4OTU0LC00ODg4MTEwMDIsLTE2OTMyOTIxMDcsMz
-I0MjI2OTMsOTMxMjMxOTM0XX0=
+eyJoaXN0b3J5IjpbLTE2ODQxMTQ2MjUsMTgyMjA0MDI0NCw1MD
+YxNjMyNDMsMTIyMTEzNDk0MywxOTc3NTM1NzA4LC0xMDg4OTc2
+MjQ0LDMwMDgxODk1NCwtNDg4ODExMDAyLC0xNjkzMjkyMTA3LD
+MyNDIyNjkzLDkzMTIzMTkzNF19
 -->
