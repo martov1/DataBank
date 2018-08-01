@@ -161,6 +161,10 @@ Te permite aplicar directivas para ciertos directorios
     //Cosas que se aplican solo en esta carpeta
     </directory>
 
+### \<IfDefined >
+
+Las directivas toman efecto solo si existe una variable (o parame
+
 
 ## Directivas
 
@@ -207,6 +211,6 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTMyNDgwLC0xNTUxNTY1NjYwLC0xOT
-Y4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbLTE5NjE2MTk1ODIsMTc4OTMyNDgwLC0xNT
+UxNTY1NjYwLC0xOTY4MDEwNzldfQ==
 -->
