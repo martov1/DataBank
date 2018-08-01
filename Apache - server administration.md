@@ -288,11 +288,13 @@ Podes **quitar** una variable de environment interna asi
 ## Logging
 
 Apache tiene la capacidad de loguear un monton de cosas
+Es importante **no colocar los logs en lugares accesibles por los usuarios** para evitar problemas de seguridad (logs sensibles, inyeccion de codigo en el log,etc)
+
 
 Algunas directivas que afectan el logging: 
-* **ErrorLog** - Indica la ubi
+* **ErrorLog** - Indica la ubicacion del log de errores
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUwNDQ1MDgsMTgxMDkyODE3OCw0Nj
+eyJoaXN0b3J5IjpbLTEyMTc3MzE1MzMsMTgxMDkyODE3OCw0Nj
 Q4ODYzNzcsMTgyNjIxNjk5MSwtODQ3NDQyMjE5LDk4NDQwMzAy
 OCwxMTk5NTc3NTkxLDE2OTY2MTY2NDMsMTc4OTMyNDgwLC0xNT
 UxNTY1NjYwLC0xOTY4MDEwNzldfQ==
