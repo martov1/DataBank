@@ -198,10 +198,5 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA5NDgzMDAsLTExNTM4MDQwNzUsLT
-MyODUxNDIyLDMwNTE1NzMwMSwtNzgxMDc5NjUsMTM2NzAyNjc2
-NiwtNDY4OTMyMjEsMTk5Mjg3ODExMiwtMTQ4MjU5NDk2NywxOD
-IyMDQwMjQ0LDUwNjE2MzI0MywxMjIxMTM0OTQzLDE5Nzc1MzU3
-MDgsLTEwODg5NzYyNDQsMzAwODE4OTU0LC00ODg4MTEwMDIsLT
-E2OTMyOTIxMDcsMzI0MjI2OTMsOTMxMjMxOTM0XX0=
+eyJoaXN0b3J5IjpbLTEwMjA5NDgzMDBdfQ==
 -->
