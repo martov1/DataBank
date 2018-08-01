@@ -215,7 +215,9 @@ Las directivas toman efecto solo si la version de apache cumple con el requisito
 ### \<If >
 Las directivas toman efecto si se cumple una operacion booleana
 Podes hacer pleno uso de las environment variables
-EJH
+EJ: si el referrer header es igual a un dominio en particular.
+
+
     <If  "!(%{HTTP_REFERER} -strmatch 'http://www.example.com/*')">  
     Require all denied 
     </If>
@@ -266,7 +268,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTcxNzk4OSwxODI2MjE2OTkxLC04ND
-c0NDIyMTksOTg0NDAzMDI4LDExOTk1Nzc1OTEsMTY5NjYxNjY0
-MywxNzg5MzI0ODAsLTE1NTE1NjU2NjAsLTE5NjgwMTA3OV19
+eyJoaXN0b3J5IjpbNDY0ODg2Mzc3LDE4MjYyMTY5OTEsLTg0Nz
+Q0MjIxOSw5ODQ0MDMwMjgsMTE5OTU3NzU5MSwxNjk2NjE2NjQz
+LDE3ODkzMjQ4MCwtMTU1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
 -->
