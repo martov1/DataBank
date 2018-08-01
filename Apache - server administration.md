@@ -212,9 +212,13 @@ Las directivas toman efecto solo si la version de apache cumple con el requisito
     \# Hacer cosas
     </IfVersion>
 
-
-
-
+### \<If >
+Las directivas toman efecto si se cumple una operacion booleana
+Podes hacer pleno uso de las environment variables
+EJH
+    <If  "!(%{HTTP_REFERER} -strmatch 'http://www.example.com/*')">  
+    Require all denied 
+    </If>
 
 ## Directivas
 
@@ -260,8 +264,9 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 
 		Include  /usr/local/apache2/conf/ssl.conf
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjIxNjk5MSwtODQ3NDQyMjE5LDk4ND
-QwMzAyOCwxMTk5NTc3NTkxLDE2OTY2MTY2NDMsMTc4OTMyNDgw
-LC0xNTUxNTY1NjYwLC0xOTY4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbLTMxMTcxNzk4OSwxODI2MjE2OTkxLC04ND
+c0NDIyMTksOTg0NDAzMDI4LDExOTk1Nzc1OTEsMTY5NjYxNjY0
+MywxNzg5MzI0ODAsLTE1NTE1NjU2NjAsLTE5NjgwMTA3OV19
 -->
