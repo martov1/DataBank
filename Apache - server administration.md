@@ -170,6 +170,9 @@ Te permite aplicar directivas para ciertos directorios
 	* Comienzan con **#** 
 	* NO pueden compartir la linea con una directiva
 
+### Variables
+
+
 ### Lista de directivas
 
 Las siguientes son las directivas propias de **CORE**, otros modulos tendran otras directivas.
@@ -179,9 +182,10 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MTU3MzAxLC03ODEwNzk2NSwxMzY3MD
-I2NzY2LC00Njg5MzIyMSwxOTkyODc4MTEyLC0xNDgyNTk0OTY3
-LDE4MjIwNDAyNDQsNTA2MTYzMjQzLDEyMjExMzQ5NDMsMTk3Nz
-UzNTcwOCwtMTA4ODk3NjI0NCwzMDA4MTg5NTQsLTQ4ODgxMTAw
-MiwtMTY5MzI5MjEwNywzMjQyMjY5Myw5MzEyMzE5MzRdfQ==
+eyJoaXN0b3J5IjpbLTMzNjM1MTA1LDMwNTE1NzMwMSwtNzgxMD
+c5NjUsMTM2NzAyNjc2NiwtNDY4OTMyMjEsMTk5Mjg3ODExMiwt
+MTQ4MjU5NDk2NywxODIyMDQwMjQ0LDUwNjE2MzI0MywxMjIxMT
+M0OTQzLDE5Nzc1MzU3MDgsLTEwODg5NzYyNDQsMzAwODE4OTU0
+LC00ODg4MTEwMDIsLTE2OTMyOTIxMDcsMzI0MjI2OTMsOTMxMj
+MxOTM0XX0=
 -->
