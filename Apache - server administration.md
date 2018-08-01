@@ -268,13 +268,19 @@ Podes **usar una variable** en la configuracion usando la sintaxis ${Variable}
 
     DocumentRoot  "/var/www/${miVariable}/htdocs"
 
-### De environment
+### Environment variables del SO
 
-Apache puede leer las variables de la consola con la dir
+Apache puede leer las variables de la consola con la directiva `PassEnv`
 
 	PassEnv LD_LIBRARY_PATH
+
+### Envoronment variables locales
+
+Podes setear una variable de environment para apache y todos sus modulos asi:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTc2NDYwLDQ2NDg4NjM3NywxODI2Mj
+eyJoaXN0b3J5IjpbODUyNTkzMjQ1LDQ2NDg4NjM3NywxODI2Mj
 E2OTkxLC04NDc0NDIyMTksOTg0NDAzMDI4LDExOTk1Nzc1OTEs
 MTY5NjYxNjY0MywxNzg5MzI0ODAsLTE1NTE1NjU2NjAsLTE5Nj
 gwMTA3OV19
