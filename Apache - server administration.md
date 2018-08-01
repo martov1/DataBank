@@ -293,9 +293,10 @@ Es importante **no colocar los logs en lugares accesibles por los usuarios** par
 
 Algunas directivas que afectan el logging: 
 * **ErrorLog** - Indica la ubicacion del log de errores
+* **ErrorLogFormat** - Te permite modificar el formato de lo que se loguea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc3MzE1MzMsMTgxMDkyODE3OCw0Nj
-Q4ODYzNzcsMTgyNjIxNjk5MSwtODQ3NDQyMjE5LDk4NDQwMzAy
-OCwxMTk5NTc3NTkxLDE2OTY2MTY2NDMsMTc4OTMyNDgwLC0xNT
-UxNTY1NjYwLC0xOTY4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbLTc4NzUwODU1NywxODEwOTI4MTc4LDQ2ND
+g4NjM3NywxODI2MjE2OTkxLC04NDc0NDIyMTksOTg0NDAzMDI4
+LDExOTk1Nzc1OTEsMTY5NjYxNjY0MywxNzg5MzI0ODAsLTE1NT
+E1NjU2NjAsLTE5NjgwMTA3OV19
 -->
