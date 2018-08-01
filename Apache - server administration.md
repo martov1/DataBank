@@ -160,7 +160,9 @@ Te permite aplicar directivas para ciertos directorios
     <directory /bla/bla/public>
     //Cosas que se aplican solo en esta carpeta
     </directory>
-### 
+### \<Files >
+Te permite aplicar directivas  todo archivo con un nombre especifico
+
 
 
 ### \<IfDefined >
@@ -227,6 +229,6 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYyODM5ODc0LDE2OTY2MTY2NDMsMTc4OT
-MyNDgwLC0xNTUxNTY1NjYwLC0xOTY4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbLTIxMjc3MzM1MTQsMTY5NjYxNjY0MywxNz
+g5MzI0ODAsLTE1NTE1NjU2NjAsLTE5NjgwMTA3OV19
 -->
