@@ -119,7 +119,6 @@ Alguas de las directivas que contiene por default son:
 * **useCanonicalName** - Si un usuario es redirigido a este server por un nombre de DNS diferente al server name, se redirige al nombre de dominio especificado en el server name
 * **DocumentRoot** - Indica la carpeta publica root donde esta el contenido que el servidor puede entregar al cliente
 * **ErrorLog** - Indica el path donde apache creara y mantendra el error log
-* **AllowSymlinks** - Apache seguira los symlinks como si fueran archivos reales
 
 
 ### Directivas de MPM
@@ -273,6 +272,9 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 	```
 * **DirectoryIndex** - Marca el archivo que sera cargado si la URL no especifica un archivo en el directorio (por default index.html)
 * **ErrorDocument** - Te permite especificar la pagina a donde va si apache devuelve un error HTTP CODE 404
+
+* **AllowSymlinks** - Apache seguira los symlinks como si fueran archivos reales
+* **AllowOverride** - Indica si deben ser cargados los archivos .htaccess presentes en un directorio (debe estar dentro del section `<Di>`)
 ## Variables
 
 ### Locales
@@ -335,7 +337,7 @@ Si las directivas se colocan dentro de la section \<virtualHost\> entonces se gu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzgxNzE1NSwtODc1NzgzMzE2LDI4OD
+eyJoaXN0b3J5IjpbMTczNDE3NDM1NCwtODc1NzgzMzE2LDI4OD
 Y5NDg4MiwxMzk1MDA4NjIwLC05NTg3MzU5NzMsLTE4NzgyODQ1
 MzksMTk0ODY5MDY4MSwtNzg3NTA4NTU3LDE4MTA5MjgxNzgsND
 Y0ODg2Mzc3LDE4MjYyMTY5OTEsLTg0NzQ0MjIxOSw5ODQ0MDMw
