@@ -81,6 +81,10 @@ De esta manera nunca quedan threads esperando nuevos mensajes en una conexion **
 
 # Configuracion CORE
 
+## Conceptos iniciales
+
+Apache se configura colocando _directivas_ en archivos de texto
+
 ## Configuracion principal
 
 La configuracion principal se encuentra en **apache/conf/httpd.conf** y contiene la configuracion global de apache.
@@ -146,9 +150,9 @@ Te permite aplicar directivas para ciertos directorios
 
 ## Directivas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzAyNjc2NiwtNDY4OTMyMjEsMTk5Mj
-g3ODExMiwtMTQ4MjU5NDk2NywxODIyMDQwMjQ0LDUwNjE2MzI0
-MywxMjIxMTM0OTQzLDE5Nzc1MzU3MDgsLTEwODg5NzYyNDQsMz
-AwODE4OTU0LC00ODg4MTEwMDIsLTE2OTMyOTIxMDcsMzI0MjI2
-OTMsOTMxMjMxOTM0XX0=
+eyJoaXN0b3J5IjpbODgwNjcwMDkyLDEzNjcwMjY3NjYsLTQ2OD
+kzMjIxLDE5OTI4NzgxMTIsLTE0ODI1OTQ5NjcsMTgyMjA0MDI0
+NCw1MDYxNjMyNDMsMTIyMTEzNDk0MywxOTc3NTM1NzA4LC0xMD
+g4OTc2MjQ0LDMwMDgxODk1NCwtNDg4ODExMDAyLC0xNjkzMjky
+MTA3LDMyNDIyNjkzLDkzMTIzMTkzNF19
 -->
