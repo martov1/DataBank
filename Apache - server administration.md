@@ -149,7 +149,11 @@ Las configuration sections te permiten coordinar cuando una directiva tiene que 
 
 ### Secciones que usan RegEx
 
-Muchas configuration sections pueden usar regex, ademas podes usar los se
+Muchas configuration sections pueden usar regex, ademas podes usar los selection groups dentro de la configuracion
+
+    <DirectoryMatch  "^/var/www/combined/(?<SITENAME>[^/]+)">
+     require ldap-group "cn=%{env:MATCH_SITENAME},ou=combined,o=Example"  
+     </DirectoryMatch>
 
 ###  \<IfModule>
 
@@ -257,7 +261,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTcxNTAxNzYsLTg0NzQ0MjIxOSw5OD
-Q0MDMwMjgsMTE5OTU3NzU5MSwxNjk2NjE2NjQzLDE3ODkzMjQ4
-MCwtMTU1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
+eyJoaXN0b3J5IjpbMTgyNjIxNjk5MSwtODQ3NDQyMjE5LDk4ND
+QwMzAyOCwxMTk5NTc3NTkxLDE2OTY2MTY2NDMsMTc4OTMyNDgw
+LC0xNTUxNTY1NjYwLC0xOTY4MDEwNzldfQ==
 -->
