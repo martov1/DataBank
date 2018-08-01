@@ -306,9 +306,12 @@ El access log loguea todos los request procesados por el server, su ubicacion y 
     CustomLog logs/access_log miFormato
 
 >Si especificas muchos **CustomLog** diferentes, creas multiples logs que pueden tener diferentes formatos
-#
+
+#### Logging en virtual host
+
+Si las directivas se colocan dentro de la section \<virtualHost\> entonces se guardara solo el log respectivo a ese virtual host en el archivo declarado en ese **CustomLog**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDQ2NDM0NCwtOTU4NzM1OTczLC0xOD
+eyJoaXN0b3J5IjpbMTM5NTAwODYyMCwtOTU4NzM1OTczLC0xOD
 c4Mjg0NTM5LDE5NDg2OTA2ODEsLTc4NzUwODU1NywxODEwOTI4
 MTc4LDQ2NDg4NjM3NywxODI2MjE2OTkxLC04NDc0NDIyMTksOT
 g0NDAzMDI4LDExOTk1Nzc1OTEsMTY5NjYxNjY0MywxNzg5MzI0
