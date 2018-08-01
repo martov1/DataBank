@@ -83,9 +83,9 @@ De esta manera nunca quedan threads esperando nuevos mensajes en una conexion **
 
 ## Conceptos iniciales
 
-Apache se configura colocando _directivas_ en archivos de texto, las directivas pueden ser colocadas dent
+Apache se configura colocando **_directivas_** en archivos de texto, las directivas pueden ser colocadas dentro de **_secciones_** que indican en que circunstancias la directiva tiene que tomar efecto
 
-### Configuracion principal
+### Configuracion principal y sus directivas
 
 La configuracion principal se encuentra en **apache/conf/httpd.conf** y contiene la configuracion global de apache.
 Alguas de las directivas que contiene son:
@@ -112,7 +112,7 @@ Alguas de las directivas que contiene son:
 * **ErrorLog** - Indica el path donde apache creara y mantendra el error log
 
 
-### MPM  directives
+### Directivas de MPM
 Son las directivas que le indican al MPM  de apache como tiene que spawnear los nuevos servidores y sus threads que procesan los http requests
 
 >Este es un ejemplo de la configuracion para el MPM "worker", los MPM "prefork" y "event" tienen configuraciones acorde a como funcionan.
@@ -149,7 +149,7 @@ Te permite aplicar directivas para ciertos directorios
 
 ## Directivas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzUzNjgyOCwxMzY3MDI2NzY2LC00Nj
+eyJoaXN0b3J5IjpbMTI4NDE3OTU1OSwxMzY3MDI2NzY2LC00Nj
 g5MzIyMSwxOTkyODc4MTEyLC0xNDgyNTk0OTY3LDE4MjIwNDAy
 NDQsNTA2MTYzMjQzLDEyMjExMzQ5NDMsMTk3NzUzNTcwOCwtMT
 A4ODk3NjI0NCwzMDA4MTg5NTQsLTQ4ODgxMTAwMiwtMTY5MzI5
