@@ -163,13 +163,13 @@ Te permite aplicar directivas para ciertos directorios
     </directory>
     
 ### \<Files >
-Te permite aplicar directivas  todo archivo con un nombre especifico (en la carpeta y subcarpetas si esta en htaccess o en todo el server si esta en la configuracion global)
-Podes anidarla dentro de la directiva <director
+Te permite aplicar directivas  todo archivo con un nombre especifico (en la carpeta y subcarpetas si esta en htaccess o en todo el server si esta en la configuracion global).
+
 
     <Files  "private.html">
 	    Require all denied
     </Files>
-
+>Podes anidarla dentro de la directiva `<directory>` para mayor control.
 
 
 ### \<IfDefined >
@@ -236,6 +236,6 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjYxMTgzNywxNjk2NjE2NjQzLDE3OD
-kzMjQ4MCwtMTU1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
+eyJoaXN0b3J5IjpbLTE4MjYzNDcxNzUsMTY5NjYxNjY0MywxNz
+g5MzI0ODAsLTE1NTE1NjU2NjAsLTE5NjgwMTA3OV19
 -->
