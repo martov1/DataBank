@@ -171,6 +171,13 @@ Te permite aplicar directivas  todo archivo con un nombre especifico (en la carp
     </Files>
 _Podes anidarla dentro de la directiva `<directory>` para mayor control._
 
+### \<Location >
+
+Te permite aplicar directivas sobre una URL
+
+    <Location  "/server-status">
+      SetHandler server-status 
+    </Location>
 
 ### \<IfDefined >
 
@@ -236,6 +243,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTU3NzU5MSwxNjk2NjE2NjQzLDE3OD
-kzMjQ4MCwtMTU1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
+eyJoaXN0b3J5IjpbOTg0NDAzMDI4LDExOTk1Nzc1OTEsMTY5Nj
+YxNjY0MywxNzg5MzI0ODAsLTE1NTE1NjU2NjAsLTE5NjgwMTA3
+OV19
 -->
