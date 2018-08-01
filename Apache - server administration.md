@@ -160,8 +160,12 @@ Te permite aplicar directivas para ciertos directorios
 * **argumentos:**
 	* Se separan con un whitespace
 	* Si el argumento tiene espacios, va entre comillas 
-* Las directivas son **case insensitive** pero sus argumentos pueden ser **case sensitive**
-* Las lineas que comienzan con # son comentarios
+* **Case sensitivity**
+	* Las directivas son **case insensitive** 
+	* sus argumentos pueden ser **case sensitive**
+* **Comments** 
+	* Comienzan con **#** 
+	* NO pueden compartir la linea con una directiva
 
 ### Lista de directivas
 
@@ -172,9 +176,9 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc0MTM0NTAsLTc4MTA3OTY1LDEzNj
-cwMjY3NjYsLTQ2ODkzMjIxLDE5OTI4NzgxMTIsLTE0ODI1OTQ5
-NjcsMTgyMjA0MDI0NCw1MDYxNjMyNDMsMTIyMTEzNDk0MywxOT
-c3NTM1NzA4LC0xMDg4OTc2MjQ0LDMwMDgxODk1NCwtNDg4ODEx
-MDAyLC0xNjkzMjkyMTA3LDMyNDIyNjkzLDkzMTIzMTkzNF19
+eyJoaXN0b3J5IjpbNzMxNTE5NTgyLC03ODEwNzk2NSwxMzY3MD
+I2NzY2LC00Njg5MzIyMSwxOTkyODc4MTEyLC0xNDgyNTk0OTY3
+LDE4MjIwNDAyNDQsNTA2MTYzMjQzLDEyMjExMzQ5NDMsMTk3Nz
+UzNTcwOCwtMTA4ODk3NjI0NCwzMDA4MTg5NTQsLTQ4ODgxMTAw
+MiwtMTY5MzI5MjEwNywzMjQyMjY5Myw5MzEyMzE5MzRdfQ==
 -->
