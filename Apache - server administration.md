@@ -160,8 +160,13 @@ Te permite aplicar directivas para ciertos directorios
     <directory /bla/bla/public>
     //Cosas que se aplican solo en esta carpeta
     </directory>
+    
 ### \<Files >
-Te permite aplicar directivas  todo archivo con un nombre especifico
+Te permite aplicar directivas  todo archivo con un nombre especifico (en la carpeta y subcarpetas si esta en htaccess o en todo el server si esta en la configuracion global)
+
+    <Files  "private.html">
+Require all denied
+</Files>
 
 
 
@@ -229,6 +234,6 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc3MzM1MTQsMTY5NjYxNjY0MywxNz
-g5MzI0ODAsLTE1NTE1NjU2NjAsLTE5NjgwMTA3OV19
+eyJoaXN0b3J5IjpbMTY0ODk1NjQwNiwxNjk2NjE2NjQzLDE3OD
+kzMjQ4MCwtMTU1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
 -->
