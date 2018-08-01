@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=gPOliFwMFCk&list=PLbjlI3cowd5-pvfO521ejRI1Q6abFk
 
 * Apache se configura principalmente mediante archivos de texto mediante _directivas_
 
+* El proceso central de Apache se denomina **httpd** 
+
 ## Arquitectura de apache 
 
 Apache procesa las solicitudes de acuerdo a un **Multi-Processing Module** o  **MPM** que le indica como actuar ante multiples solicitudes paralelas
@@ -195,10 +197,10 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODUxNDIyLDMwNTE1NzMwMSwtNzgxMD
-c5NjUsMTM2NzAyNjc2NiwtNDY4OTMyMjEsMTk5Mjg3ODExMiwt
-MTQ4MjU5NDk2NywxODIyMDQwMjQ0LDUwNjE2MzI0MywxMjIxMT
-M0OTQzLDE5Nzc1MzU3MDgsLTEwODg5NzYyNDQsMzAwODE4OTU0
-LC00ODg4MTEwMDIsLTE2OTMyOTIxMDcsMzI0MjI2OTMsOTMxMj
-MxOTM0XX0=
+eyJoaXN0b3J5IjpbLTExNTM4MDQwNzUsLTMyODUxNDIyLDMwNT
+E1NzMwMSwtNzgxMDc5NjUsMTM2NzAyNjc2NiwtNDY4OTMyMjEs
+MTk5Mjg3ODExMiwtMTQ4MjU5NDk2NywxODIyMDQwMjQ0LDUwNj
+E2MzI0MywxMjIxMTM0OTQzLDE5Nzc1MzU3MDgsLTEwODg5NzYy
+NDQsMzAwODE4OTU0LC00ODg4MTEwMDIsLTE2OTMyOTIxMDcsMz
+I0MjI2OTMsOTMxMjMxOTM0XX0=
 -->
