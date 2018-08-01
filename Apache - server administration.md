@@ -253,7 +253,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 
 ## Variables
 
-### V
+### Locales
 Podes **definir una variable** con la directiva Define
 	
 	Define nombreDeVariable Valor
@@ -268,10 +268,14 @@ Podes **usar una variable** en la configuracion usando la sintaxis ${Variable}
 
     DocumentRoot  "/var/www/${miVariable}/htdocs"
 
+### De environment
 
+Apache puede leer las variables de la consola con la dir
+
+	PassEnv LD_LIBRARY_PATH
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTI1NTEwMSw0NjQ4ODYzNzcsMTgyNj
-IxNjk5MSwtODQ3NDQyMjE5LDk4NDQwMzAyOCwxMTk5NTc3NTkx
-LDE2OTY2MTY2NDMsMTc4OTMyNDgwLC0xNTUxNTY1NjYwLC0xOT
-Y4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbMTM0NTc2NDYwLDQ2NDg4NjM3NywxODI2Mj
+E2OTkxLC04NDc0NDIyMTksOTg0NDAzMDI4LDExOTk1Nzc1OTEs
+MTY5NjYxNjY0MywxNzg5MzI0ODAsLTE1NTE1NjU2NjAsLTE5Nj
+gwMTA3OV19
 -->
