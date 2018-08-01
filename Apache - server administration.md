@@ -174,10 +174,16 @@ _Podes anidarla dentro de la directiva `<directory>` para mayor control._
 ### \<Location > 
 
 Te permite aplicar directivas sobre una URL
-Tambien podes usar Location
+Tambien podes usar **\<LocationMatch\>** para usar **RegEx** en el computo de la URL
+
     <Location  "/server-status">
       SetHandler server-status 
     </Location>
+Con regex
+
+    <LocationMatch  "^/private">
+      Require all denied 
+      </LocationMatch>
 
 ### \<IfDefined >
 
@@ -243,7 +249,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTEzODk5MzUsOTg0NDAzMDI4LDExOT
-k1Nzc1OTEsMTY5NjYxNjY0MywxNzg5MzI0ODAsLTE1NTE1NjU2
-NjAsLTE5NjgwMTA3OV19
+eyJoaXN0b3J5IjpbLTE4NzQ0MjE2Nyw5ODQ0MDMwMjgsMTE5OT
+U3NzU5MSwxNjk2NjE2NjQzLDE3ODkzMjQ4MCwtMTU1MTU2NTY2
+MCwtMTk2ODAxMDc5XX0=
 -->
