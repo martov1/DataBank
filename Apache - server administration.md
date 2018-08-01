@@ -317,8 +317,11 @@ Definis el virtual host con una Ip o un nombre de dominio en la section
 
 ```
 <VirtualHost miDominio:miPuerto>
-ServerName
-MisDirectivas
+  ServerAdmin webmaster@host.example.com 
+  DocumentRoot  "/www/docs/host.example.com"  
+  ServerName host.example.com 
+  ErrorLog  "logs/host.example.com-error_log"  
+  TransferLog  "logs/host.example.com-access_log"
 </virtualHost>
 ```
 
@@ -352,10 +355,11 @@ Si las directivas se colocan dentro de la section \<virtualHost\> entonces se gu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjYyNDA2MCwtMjA3NjE0Njk0LC04Nz
-U3ODMzMTYsMjg4Njk0ODgyLDEzOTUwMDg2MjAsLTk1ODczNTk3
-MywtMTg3ODI4NDUzOSwxOTQ4NjkwNjgxLC03ODc1MDg1NTcsMT
-gxMDkyODE3OCw0NjQ4ODYzNzcsMTgyNjIxNjk5MSwtODQ3NDQy
-MjE5LDk4NDQwMzAyOCwxMTk5NTc3NTkxLDE2OTY2MTY2NDMsMT
-c4OTMyNDgwLC0xNTUxNTY1NjYwLC0xOTY4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbMTI3OTQ2MzY4NywtMjI2NjI0MDYwLC0yMD
+c2MTQ2OTQsLTg3NTc4MzMxNiwyODg2OTQ4ODIsMTM5NTAwODYy
+MCwtOTU4NzM1OTczLC0xODc4Mjg0NTM5LDE5NDg2OTA2ODEsLT
+c4NzUwODU1NywxODEwOTI4MTc4LDQ2NDg4NjM3NywxODI2MjE2
+OTkxLC04NDc0NDIyMTksOTg0NDAzMDI4LDExOTk1Nzc1OTEsMT
+Y5NjYxNjY0MywxNzg5MzI0ODAsLTE1NTE1NjU2NjAsLTE5Njgw
+MTA3OV19
 -->
