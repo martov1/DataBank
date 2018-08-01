@@ -309,7 +309,9 @@ Podes **quitar** una variable de environment interna asi
     UnsetEnv LD_LIBRARY_PATH
 
 
-## Virtu
+## Virtual hosts
+
+Los virtual hosts te permiten tener multiples sitios en un solo servidor, apache decide en base al nombre de dominio solicitado a que 
 
 ## Logging
 
@@ -339,10 +341,10 @@ Si las directivas se colocan dentro de la section \<virtualHost\> entonces se gu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc3NjE4NTgsLTIwNzYxNDY5NCwtOD
-c1NzgzMzE2LDI4ODY5NDg4MiwxMzk1MDA4NjIwLC05NTg3MzU5
-NzMsLTE4NzgyODQ1MzksMTk0ODY5MDY4MSwtNzg3NTA4NTU3LD
-E4MTA5MjgxNzgsNDY0ODg2Mzc3LDE4MjYyMTY5OTEsLTg0NzQ0
-MjIxOSw5ODQ0MDMwMjgsMTE5OTU3NzU5MSwxNjk2NjE2NjQzLD
-E3ODkzMjQ4MCwtMTU1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
+eyJoaXN0b3J5IjpbLTg4Mzk4NTc3NywtMjA3NjE0Njk0LC04Nz
+U3ODMzMTYsMjg4Njk0ODgyLDEzOTUwMDg2MjAsLTk1ODczNTk3
+MywtMTg3ODI4NDUzOSwxOTQ4NjkwNjgxLC03ODc1MDg1NTcsMT
+gxMDkyODE3OCw0NjQ4ODYzNzcsMTgyNjIxNjk5MSwtODQ3NDQy
+MjE5LDk4NDQwMzAyOCwxMTk5NTc3NTkxLDE2OTY2MTY2NDMsMT
+c4OTMyNDgwLC0xNTUxNTY1NjYwLC0xOTY4MDEwNzldfQ==
 -->
