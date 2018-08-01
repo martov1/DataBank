@@ -89,7 +89,7 @@ Apache se configura colocando **_directivas_** en archivos de texto, las directi
 
 La configuracion principal se encuentra en **apache/conf/httpd.conf** y contiene la configuracion global de apache.
 
-
+>Apache solo lee el archivo de configuracion global al iniciarse, es necesario **reiniciar el servicio para actualizar la configuracion global** si esta se cambia
 
 Alguas de las directivas que contiene por default son:
 
@@ -159,9 +159,9 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyODU5ODE4LDEzNjcwMjY3NjYsLTQ2OD
-kzMjIxLDE5OTI4NzgxMTIsLTE0ODI1OTQ5NjcsMTgyMjA0MDI0
-NCw1MDYxNjMyNDMsMTIyMTEzNDk0MywxOTc3NTM1NzA4LC0xMD
-g4OTc2MjQ0LDMwMDgxODk1NCwtNDg4ODExMDAyLC0xNjkzMjky
-MTA3LDMyNDIyNjkzLDkzMTIzMTkzNF19
+eyJoaXN0b3J5IjpbMTkxODU4NjczOCwxMzY3MDI2NzY2LC00Nj
+g5MzIyMSwxOTkyODc4MTEyLC0xNDgyNTk0OTY3LDE4MjIwNDAy
+NDQsNTA2MTYzMjQzLDEyMjExMzQ5NDMsMTk3NzUzNTcwOCwtMT
+A4ODk3NjI0NCwzMDA4MTg5NTQsLTQ4ODgxMTAwMiwtMTY5MzI5
+MjEwNywzMjQyMjY5Myw5MzEyMzE5MzRdfQ==
 -->
