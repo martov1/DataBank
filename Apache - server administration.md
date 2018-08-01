@@ -276,14 +276,17 @@ Apache puede leer las variables de la consola con la directiva `PassEnv`
 
 ### Envoronment variables locales
 
-Podes setear una variable de environment para apache y todos sus modulos asi:
+Podes **setear** una variable de environment para apache y todos sus modulos asi:
 
 	SetEnv SPECIAL_PATH /foo/bin
 
+Podes **quitar** una variable de environment interna asi
+
+    UnsetEnv LD_LIBRARY_PATH
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTY4ODExNCw0NjQ4ODYzNzcsMTgyNj
-IxNjk5MSwtODQ3NDQyMjE5LDk4NDQwMzAyOCwxMTk5NTc3NTkx
-LDE2OTY2MTY2NDMsMTc4OTMyNDgwLC0xNTUxNTY1NjYwLC0xOT
-Y4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbLTE2OTIwMzk0OTksNDY0ODg2Mzc3LDE4Mj
+YyMTY5OTEsLTg0NzQ0MjIxOSw5ODQ0MDMwMjgsMTE5OTU3NzU5
+MSwxNjk2NjE2NjQzLDE3ODkzMjQ4MCwtMTU1MTU2NTY2MCwtMT
+k2ODAxMDc5XX0=
 -->
