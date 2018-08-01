@@ -266,6 +266,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 	```
 	AliasMatch  "^/upages/([a-zA-Z0-9]+)(/(.*))?$"  "/home/$1/public_html/$3"
 	```
+* **DirectoryIndex** - Muestra el contenido del directorio
 * **ErrorDocument** - Te permite especificar la pagina a donde va si apache devuelve un error HTTP CODE 404
 ## Variables
 
@@ -329,7 +330,7 @@ Si las directivas se colocan dentro de la section \<virtualHost\> entonces se gu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTQ3MDkxMCwtODc1NzgzMzE2LDI4OD
+eyJoaXN0b3J5IjpbMTE2MDI2MjcwOCwtODc1NzgzMzE2LDI4OD
 Y5NDg4MiwxMzk1MDA4NjIwLC05NTg3MzU5NzMsLTE4NzgyODQ1
 MzksMTk0ODY5MDY4MSwtNzg3NTA4NTU3LDE4MTA5MjgxNzgsND
 Y0ODg2Mzc3LDE4MjYyMTY5OTEsLTg0NzQ0MjIxOSw5ODQ0MDMw
