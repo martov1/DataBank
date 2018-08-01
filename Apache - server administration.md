@@ -168,6 +168,14 @@ Las directivas toman efecto solo si existe una variable (o parametro cuando apac
     <IfDefine  Variable>
     	 Redirect  "/"  "http://otherserver.example.com/"
     </IfDefine>
+    
+### \<IfVersion >
+Las directivas toman efecto solo si la version de apache cumple con el requisito
+<IfVersion  >=  2.4>  
+# this happens only in versions greater or  # equal 2.4.0.  </IfVersion>
+
+
+
 
 
 ## Directivas
@@ -215,6 +223,6 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgzNjgzMzYsMTc4OTMyNDgwLC0xNT
-UxNTY1NjYwLC0xOTY4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbMzE5ODAzOTIwLDE3ODkzMjQ4MCwtMTU1MT
+U2NTY2MCwtMTk2ODAxMDc5XX0=
 -->
