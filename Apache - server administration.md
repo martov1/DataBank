@@ -250,11 +250,13 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 * **Include** - Permite incluir otros archivos de configuracion al archivo de configuracion actual
 
 		Include  /usr/local/apache2/conf/ssl.conf
-* **Redirect** - Te permite redireccionar  una solicitud que va a un lugar del filesystem hacia otr
+* **Redirect** - Te permite redireccionar  una solicitud que va a un lugar del filesystem (cualquiera sea la URL)  hacia otra URL
 	```
 	Redirect permanent "/foo/"  "http://www.example.com/bar/"
 	```
-
+* **RedirectMatch** - Igual que redirect pero acepta RegEx
+	```
+	Redirect permanent "/foo/"  "http://www.example.com/bar/"
 
 ## Variables
 
@@ -316,10 +318,10 @@ El access log loguea todos los request procesados por el server, su ubicacion y 
 
 Si las directivas se colocan dentro de la section \<virtualHost\> entonces se guardara solo el log respectivo a ese virtual host en el archivo declarado en ese **CustomLog**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg2NjI5ODUsMTM5NTAwODYyMCwtOT
-U4NzM1OTczLC0xODc4Mjg0NTM5LDE5NDg2OTA2ODEsLTc4NzUw
-ODU1NywxODEwOTI4MTc4LDQ2NDg4NjM3NywxODI2MjE2OTkxLC
-04NDc0NDIyMTksOTg0NDAzMDI4LDExOTk1Nzc1OTEsMTY5NjYx
-NjY0MywxNzg5MzI0ODAsLTE1NTE1NjU2NjAsLTE5NjgwMTA3OV
-19
+eyJoaXN0b3J5IjpbMjA3NzU5NzY5MCwxMzk1MDA4NjIwLC05NT
+g3MzU5NzMsLTE4NzgyODQ1MzksMTk0ODY5MDY4MSwtNzg3NTA4
+NTU3LDE4MTA5MjgxNzgsNDY0ODg2Mzc3LDE4MjYyMTY5OTEsLT
+g0NzQ0MjIxOSw5ODQ0MDMwMjgsMTE5OTU3NzU5MSwxNjk2NjE2
+NjQzLDE3ODkzMjQ4MCwtMTU1MTU2NTY2MCwtMTk2ODAxMDc5XX
+0=
 -->
