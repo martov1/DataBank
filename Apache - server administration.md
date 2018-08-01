@@ -306,10 +306,11 @@ El access log loguea todos los request procesados por el server, su ubicacion y 
     CustomLog logs/access_log miFormato
 
 >Si especificas muchos **CustomLog** diferentes, creas multiples logs que pueden tener diferentes formatos
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODczNTk3MywtMTg3ODI4NDUzOSwxOT
-Q4NjkwNjgxLC03ODc1MDg1NTcsMTgxMDkyODE3OCw0NjQ4ODYz
-NzcsMTgyNjIxNjk5MSwtODQ3NDQyMjE5LDk4NDQwMzAyOCwxMT
-k5NTc3NTkxLDE2OTY2MTY2NDMsMTc4OTMyNDgwLC0xNTUxNTY1
-NjYwLC0xOTY4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbLTk0NDQ2NDM0NCwtOTU4NzM1OTczLC0xOD
+c4Mjg0NTM5LDE5NDg2OTA2ODEsLTc4NzUwODU1NywxODEwOTI4
+MTc4LDQ2NDg4NjM3NywxODI2MjE2OTkxLC04NDc0NDIyMTksOT
+g0NDAzMDI4LDExOTk1Nzc1OTEsMTY5NjYxNjY0MywxNzg5MzI0
+ODAsLTE1NTE1NjU2NjAsLTE5NjgwMTA3OV19
 -->
