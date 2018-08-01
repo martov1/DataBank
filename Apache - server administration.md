@@ -243,13 +243,18 @@ EJ: si el referrer header es igual a un dominio en particular.
 	* NO pueden compartir la linea con una directiva
 
 
-### Lista de directivas
+### Lista de directivas varias
 
 Las siguientes son las directivas propias de **CORE**, otros modulos tendran otras directivas.
 
 * **Include** - Permite incluir otros archivos de configuracion al archivo de configuracion actual
 
 		Include  /usr/local/apache2/conf/ssl.conf
+* **Redirect** - Te permite redireccionar una url a otra
+	```
+	Redirect permanent "/foo/"  "http://www.example.com/bar/"
+	```
+
 
 ## Variables
 
@@ -311,9 +316,10 @@ El access log loguea todos los request procesados por el server, su ubicacion y 
 
 Si las directivas se colocan dentro de la section \<virtualHost\> entonces se guardara solo el log respectivo a ese virtual host en el archivo declarado en ese **CustomLog**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTAwODYyMCwtOTU4NzM1OTczLC0xOD
-c4Mjg0NTM5LDE5NDg2OTA2ODEsLTc4NzUwODU1NywxODEwOTI4
-MTc4LDQ2NDg4NjM3NywxODI2MjE2OTkxLC04NDc0NDIyMTksOT
-g0NDAzMDI4LDExOTk1Nzc1OTEsMTY5NjYxNjY0MywxNzg5MzI0
-ODAsLTE1NTE1NjU2NjAsLTE5NjgwMTA3OV19
+eyJoaXN0b3J5IjpbOTEyODU3MTI5LDEzOTUwMDg2MjAsLTk1OD
+czNTk3MywtMTg3ODI4NDUzOSwxOTQ4NjkwNjgxLC03ODc1MDg1
+NTcsMTgxMDkyODE3OCw0NjQ4ODYzNzcsMTgyNjIxNjk5MSwtOD
+Q3NDQyMjE5LDk4NDQwMzAyOCwxMTk5NTc3NTkxLDE2OTY2MTY2
+NDMsMTc4OTMyNDgwLC0xNTUxNTY1NjYwLC0xOTY4MDEwNzldfQ
+==
 -->
