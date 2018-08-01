@@ -256,7 +256,8 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 	```
 * **RedirectMatch** - Igual que redirect pero acepta RegEx
 	```
-	Redirect permanent "/foo/"  "http://www.example.com/bar/"
+	RedirectMatch permanent "^/$"  "http://www.example.com/startpage.html"
+	```
 
 ## Variables
 
@@ -318,10 +319,10 @@ El access log loguea todos los request procesados por el server, su ubicacion y 
 
 Si las directivas se colocan dentro de la section \<virtualHost\> entonces se guardara solo el log respectivo a ese virtual host en el archivo declarado en ese **CustomLog**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzU5NzY5MCwxMzk1MDA4NjIwLC05NT
-g3MzU5NzMsLTE4NzgyODQ1MzksMTk0ODY5MDY4MSwtNzg3NTA4
-NTU3LDE4MTA5MjgxNzgsNDY0ODg2Mzc3LDE4MjYyMTY5OTEsLT
-g0NzQ0MjIxOSw5ODQ0MDMwMjgsMTE5OTU3NzU5MSwxNjk2NjE2
-NjQzLDE3ODkzMjQ4MCwtMTU1MTU2NTY2MCwtMTk2ODAxMDc5XX
-0=
+eyJoaXN0b3J5IjpbMjg4Njk0ODgyLDEzOTUwMDg2MjAsLTk1OD
+czNTk3MywtMTg3ODI4NDUzOSwxOTQ4NjkwNjgxLC03ODc1MDg1
+NTcsMTgxMDkyODE3OCw0NjQ4ODYzNzcsMTgyNjIxNjk5MSwtOD
+Q3NDQyMjE5LDk4NDQwMzAyOCwxMTk5NTc3NTkxLDE2OTY2MTY2
+NDMsMTc4OTMyNDgwLC0xNTUxNTY1NjYwLC0xOTY4MDEwNzldfQ
+==
 -->
