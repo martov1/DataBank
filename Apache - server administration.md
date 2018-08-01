@@ -179,7 +179,7 @@ Tambien podes usar **\<LocationMatch\>** para usar **RegEx** en el computo de la
     <Location  "/server-status">
       SetHandler server-status 
     </Location>
-Con regex
+Con regex:
 
     <LocationMatch  "^/private">
       Require all denied 
@@ -249,7 +249,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ0MjE2Nyw5ODQ0MDMwMjgsMTE5OT
+eyJoaXN0b3J5IjpbLTg0NzQ0MjIxOSw5ODQ0MDMwMjgsMTE5OT
 U3NzU5MSwxNjk2NjE2NjQzLDE3ODkzMjQ4MCwtMTU1MTU2NTY2
 MCwtMTk2ODAxMDc5XX0=
 -->
