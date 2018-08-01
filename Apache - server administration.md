@@ -295,9 +295,14 @@ Algunas directivas que afectan el logging:
 * **ErrorLog** - Indica la ubicacion del log de errores
 * **ErrorLogFormat** - Te permite modificar el formato de lo que se loguea
 * **LogLevel** - Te permite establecer niveles (info, warning, error) a los logs de modulos especificos
+
+### Access log
+
+El
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODY5MDY4MSwtNzg3NTA4NTU3LDE4MT
-A5MjgxNzgsNDY0ODg2Mzc3LDE4MjYyMTY5OTEsLTg0NzQ0MjIx
-OSw5ODQ0MDMwMjgsMTE5OTU3NzU5MSwxNjk2NjE2NjQzLDE3OD
-kzMjQ4MCwtMTU1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
+eyJoaXN0b3J5IjpbLTE1MzExNjQxNTUsMTk0ODY5MDY4MSwtNz
+g3NTA4NTU3LDE4MTA5MjgxNzgsNDY0ODg2Mzc3LDE4MjYyMTY5
+OTEsLTg0NzQ0MjIxOSw5ODQ0MDMwMjgsMTE5OTU3NzU5MSwxNj
+k2NjE2NjQzLDE3ODkzMjQ4MCwtMTU1MTU2NTY2MCwtMTk2ODAx
+MDc5XX0=
 -->
