@@ -157,7 +157,9 @@ Te permite aplicar directivas para ciertos directorios
 
 * **Orden:**
 	* Una sola directiva por linea
-	* **Indentacion:** Los espacios en blanco detras de la directiva son ignorados, asi que podes indentar las directivas
+	* **Indentacion:**
+		*  Los **espacios en blanco** detras de la directiva son ignorados, asi que podes indentar las directivas
+		* Las **lineas en blanco** son ignoradas 
 * **argumentos:**
 	* Se separan con un whitespace
 	* Si el argumento tiene espacios, va entre comillas 
@@ -177,7 +179,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Njg4OTM1LC03ODEwNzk2NSwxMzY3MD
+eyJoaXN0b3J5IjpbMzA1MTU3MzAxLC03ODEwNzk2NSwxMzY3MD
 I2NzY2LC00Njg5MzIyMSwxOTkyODc4MTEyLC0xNDgyNTk0OTY3
 LDE4MjIwNDAyNDQsNTA2MTYzMjQzLDEyMjExMzQ5NDMsMTk3Nz
 UzNTcwOCwtMTA4ODk3NjI0NCwzMDA4MTg5NTQsLTQ4ODgxMTAw
