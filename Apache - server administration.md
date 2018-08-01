@@ -158,12 +158,16 @@ Permite activar una serie de directivas **solo si un modulo esta activo**, se us
 
 Te permite aplicar directivas para ciertos directorios
 
+Podes usar **Regex** con **Directorymatch**
+
     <directory /bla/bla/public>
     //Cosas que se aplican solo en esta carpeta
     </directory>
     
 ### \<Files >
 Te permite aplicar directivas  todo archivo con un nombre especifico (en la carpeta y subcarpetas si esta en htaccess o en todo el server si esta en la configuracion global).
+
+Podes usar **RegEx** con **FilesMatch**
 
 
     <Files  "private.html">
@@ -249,7 +253,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzQ0MjIxOSw5ODQ0MDMwMjgsMTE5OT
-U3NzU5MSwxNjk2NjE2NjQzLDE3ODkzMjQ4MCwtMTU1MTU2NTY2
-MCwtMTk2ODAxMDc5XX0=
+eyJoaXN0b3J5IjpbMTQ5MzAyNTk5MywtODQ3NDQyMjE5LDk4ND
+QwMzAyOCwxMTk5NTc3NTkxLDE2OTY2MTY2NDMsMTc4OTMyNDgw
+LC0xNTUxNTY1NjYwLC0xOTY4MDEwNzldfQ==
 -->
