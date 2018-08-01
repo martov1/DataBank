@@ -89,7 +89,7 @@ Apache se configura colocando **_directivas_** en archivos de texto, las directi
 
 ### Configuracion principal y sus directivas
 
-La configuracion principal se encuentra en **apache/conf/httpd.conf** y contiene la configuracion global de apache.
+La configuracion principal se encuentra en **apache/conf/httpd.conf** y contiene la configuracion global de apache. Estas configuraciones se aplican a la totalidad del servidor
 
 >Apache solo lee el archivo de configuracion global al iniciarse, es necesario **reiniciar el servicio para actualizar la configuracion global** si esta se cambia
 
@@ -129,6 +129,7 @@ Son las directivas que le indican al MPM  de apache como tiene que spawnear los 
 *  **ThreadsPerChild** - Cantidad de threads que cada proceso servidor tiene.
 * **maxRequestsPerChild** - cantidad maxima de requests que puede atender un proceso servidor
 
+## Archivos .htaccess
 
  
 ## Configuration sections
@@ -197,10 +198,10 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM4MDQwNzUsLTMyODUxNDIyLDMwNT
-E1NzMwMSwtNzgxMDc5NjUsMTM2NzAyNjc2NiwtNDY4OTMyMjEs
-MTk5Mjg3ODExMiwtMTQ4MjU5NDk2NywxODIyMDQwMjQ0LDUwNj
-E2MzI0MywxMjIxMTM0OTQzLDE5Nzc1MzU3MDgsLTEwODg5NzYy
-NDQsMzAwODE4OTU0LC00ODg4MTEwMDIsLTE2OTMyOTIxMDcsMz
-I0MjI2OTMsOTMxMjMxOTM0XX0=
+eyJoaXN0b3J5IjpbLTEwMjA5NDgzMDAsLTExNTM4MDQwNzUsLT
+MyODUxNDIyLDMwNTE1NzMwMSwtNzgxMDc5NjUsMTM2NzAyNjc2
+NiwtNDY4OTMyMjEsMTk5Mjg3ODExMiwtMTQ4MjU5NDk2NywxOD
+IyMDQwMjQ0LDUwNjE2MzI0MywxMjIxMTM0OTQzLDE5Nzc1MzU3
+MDgsLTEwODg5NzYyNDQsMzAwODE4OTU0LC00ODg4MTEwMDIsLT
+E2OTMyOTIxMDcsMzI0MjI2OTMsOTMxMjMxOTM0XX0=
 -->
