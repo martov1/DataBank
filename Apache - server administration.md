@@ -136,7 +136,9 @@ Los archivos **.htaccess**  te permiten tener una configuracion descentralizada 
 * Pueden estar presentes en cualquier carpeta del directorio publico
 * Son leidos en cada request
 * Las directivas que contienen son efectivas en esa carpeta y todas las subcarpetas
-* Pueden tomar precedencia de la 
+* Pueden tomar precedencia de la configuracion global dependiendo de la directiva **AllowOverride**
+
+
 >Los archivos .htaccess **pueden llamarse de cualquier manera** si se lo define usando la directiva **AccessFileName**
  
 ## Configuration sections
@@ -205,5 +207,5 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzExMDQxLC0xOTY4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbLTE1NTE1NjU2NjAsLTE5NjgwMTA3OV19
 -->
