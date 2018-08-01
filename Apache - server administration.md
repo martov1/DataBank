@@ -119,6 +119,7 @@ Alguas de las directivas que contiene por default son:
 * **useCanonicalName** - Si un usuario es redirigido a este server por un nombre de DNS diferente al server name, se redirige al nombre de dominio especificado en el server name
 * **DocumentRoot** - Indica la carpeta publica root donde esta el contenido que el servidor puede entregar al cliente
 * **ErrorLog** - Indica el path donde apache creara y mantendra el error log
+* **AllowSymlinks** - Apache seguira los symlinks como si fueran archivos reales
 
 
 ### Directivas de MPM
@@ -334,10 +335,10 @@ Si las directivas se colocan dentro de la section \<virtualHost\> entonces se gu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2MjUwMzQ5LC04NzU3ODMzMTYsMjg4Nj
-k0ODgyLDEzOTUwMDg2MjAsLTk1ODczNTk3MywtMTg3ODI4NDUz
-OSwxOTQ4NjkwNjgxLC03ODc1MDg1NTcsMTgxMDkyODE3OCw0Nj
-Q4ODYzNzcsMTgyNjIxNjk5MSwtODQ3NDQyMjE5LDk4NDQwMzAy
-OCwxMTk5NTc3NTkxLDE2OTY2MTY2NDMsMTc4OTMyNDgwLC0xNT
-UxNTY1NjYwLC0xOTY4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbMTkwNzgxNzE1NSwtODc1NzgzMzE2LDI4OD
+Y5NDg4MiwxMzk1MDA4NjIwLC05NTg3MzU5NzMsLTE4NzgyODQ1
+MzksMTk0ODY5MDY4MSwtNzg3NTA4NTU3LDE4MTA5MjgxNzgsND
+Y0ODg2Mzc3LDE4MjYyMTY5OTEsLTg0NzQ0MjIxOSw5ODQ0MDMw
+MjgsMTE5OTU3NzU5MSwxNjk2NjE2NjQzLDE3ODkzMjQ4MCwtMT
+U1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
 -->
