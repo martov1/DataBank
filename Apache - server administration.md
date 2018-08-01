@@ -242,8 +242,18 @@ EJ: si el referrer header es igual a un dominio en particular.
 	* Comienzan con **#** 
 	* NO pueden compartir la linea con una directiva
 
-### Variables
 
+### Lista de directivas
+
+Las siguientes son las directivas propias de **CORE**, otros modulos tendran otras directivas.
+
+* **Include** - Permite incluir otros archivos de configuracion al archivo de configuracion actual
+
+		Include  /usr/local/apache2/conf/ssl.conf
+
+## Variables
+
+### V
 Podes **definir una variable** con la directiva Define
 	
 	Define nombreDeVariable Valor
@@ -258,17 +268,10 @@ Podes **usar una variable** en la configuracion usando la sintaxis ${Variable}
 
     DocumentRoot  "/var/www/${miVariable}/htdocs"
 
-### Lista de directivas
-
-Las siguientes son las directivas propias de **CORE**, otros modulos tendran otras directivas.
-
-* **Include** - Permite incluir otros archivos de configuracion al archivo de configuracion actual
-
-		Include  /usr/local/apache2/conf/ssl.conf
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0ODg2Mzc3LDE4MjYyMTY5OTEsLTg0Nz
-Q0MjIxOSw5ODQ0MDMwMjgsMTE5OTU3NzU5MSwxNjk2NjE2NjQz
-LDE3ODkzMjQ4MCwtMTU1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
+eyJoaXN0b3J5IjpbMTg3OTI1NTEwMSw0NjQ4ODYzNzcsMTgyNj
+IxNjk5MSwtODQ3NDQyMjE5LDk4NDQwMzAyOCwxMTk5NTc3NTkx
+LDE2OTY2MTY2NDMsMTc4OTMyNDgwLC0xNTUxNTY1NjYwLC0xOT
+Y4MDEwNzldfQ==
 -->
