@@ -141,9 +141,6 @@ Los archivos **.htaccess**  te permiten tener una configuracion descentralizada 
 
 >Los archivos .htaccess **pueden llamarse de cualquier manera** si se lo define usando la directiva **AccessFileName**
 
-### AllowOverride
-Es una directiva que 
-
 ## Configuration sections
 
 Las configuration sections te permiten coordinar cuando una directiva tiene que tomar efecto.
@@ -210,6 +207,6 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTU0OTM1MiwtMTU1MTU2NTY2MCwtMT
-k2ODAxMDc5XX0=
+eyJoaXN0b3J5IjpbMTc4OTMyNDgwLC0xNTUxNTY1NjYwLC0xOT
+Y4MDEwNzldfQ==
 -->
