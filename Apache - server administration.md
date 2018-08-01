@@ -266,6 +266,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 	```
 	AliasMatch  "^/upages/([a-zA-Z0-9]+)(/(.*))?$"  "/home/$1/public_html/$3"
 	```
+* **strong text**
 ## Variables
 
 ### Locales
@@ -325,11 +326,13 @@ El access log loguea todos los request procesados por el server, su ubicacion y 
 #### Logging en virtual host
 
 Si las directivas se colocan dentro de la section \<virtualHost\> entonces se guardara solo el log respectivo a ese virtual host en el archivo declarado en ese **CustomLog**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTc4MzMxNiwyODg2OTQ4ODIsMTM5NT
-AwODYyMCwtOTU4NzM1OTczLC0xODc4Mjg0NTM5LDE5NDg2OTA2
-ODEsLTc4NzUwODU1NywxODEwOTI4MTc4LDQ2NDg4NjM3NywxOD
-I2MjE2OTkxLC04NDc0NDIyMTksOTg0NDAzMDI4LDExOTk1Nzc1
-OTEsMTY5NjYxNjY0MywxNzg5MzI0ODAsLTE1NTE1NjU2NjAsLT
-E5NjgwMTA3OV19
+eyJoaXN0b3J5IjpbLTE4NTcxNDk4NiwtODc1NzgzMzE2LDI4OD
+Y5NDg4MiwxMzk1MDA4NjIwLC05NTg3MzU5NzMsLTE4NzgyODQ1
+MzksMTk0ODY5MDY4MSwtNzg3NTA4NTU3LDE4MTA5MjgxNzgsND
+Y0ODg2Mzc3LDE4MjYyMTY5OTEsLTg0NzQ0MjIxOSw5ODQ0MDMw
+MjgsMTE5OTU3NzU5MSwxNjk2NjE2NjQzLDE3ODkzMjQ4MCwtMT
+U1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
 -->
