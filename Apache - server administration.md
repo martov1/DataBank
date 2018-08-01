@@ -155,11 +155,13 @@ Te permite aplicar directivas para ciertos directorios
 
 ### Sintaxis
 
-* Una sola directiva por linea
-* los argumentos de las directivas se separan con un whitespace
+* **Orden:**
+	* Una sola directiva por linea
+* **argumentos:**
+	* Se separan con un whitespace
 	* Si el argumento tiene espacios, va entre comillas 
 * Las directivas son **case insensitive** pero sus argumentos pueden ser **case sensitive**
-* Las line
+* Las lineas que comienzan con # son comentarios
 
 ### Lista de directivas
 
@@ -170,7 +172,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjkwOTA1ODcsLTc4MTA3OTY1LDEzNj
+eyJoaXN0b3J5IjpbLTIwMDc0MTM0NTAsLTc4MTA3OTY1LDEzNj
 cwMjY3NjYsLTQ2ODkzMjIxLDE5OTI4NzgxMTIsLTE0ODI1OTQ5
 NjcsMTgyMjA0MDI0NCw1MDYxNjMyNDMsMTIyMTEzNDk0MywxOT
 c3NTM1NzA4LC0xMDg4OTc2MjQ0LDMwMDgxODk1NCwtNDg4ODEx
