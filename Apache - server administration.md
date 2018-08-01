@@ -258,6 +258,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 	```
 	RedirectMatch permanent "^/$"  "http://www.example.com/startpage.html"
 	```
+* **Alias** - Te permite mapear URLs a carpetas que no estan en la carpeta publica del server
 
 ## Variables
 
@@ -319,10 +320,10 @@ El access log loguea todos los request procesados por el server, su ubicacion y 
 
 Si las directivas se colocan dentro de la section \<virtualHost\> entonces se guardara solo el log respectivo a ese virtual host en el archivo declarado en ese **CustomLog**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4Njk0ODgyLDEzOTUwMDg2MjAsLTk1OD
-czNTk3MywtMTg3ODI4NDUzOSwxOTQ4NjkwNjgxLC03ODc1MDg1
-NTcsMTgxMDkyODE3OCw0NjQ4ODYzNzcsMTgyNjIxNjk5MSwtOD
-Q3NDQyMjE5LDk4NDQwMzAyOCwxMTk5NTc3NTkxLDE2OTY2MTY2
-NDMsMTc4OTMyNDgwLC0xNTUxNTY1NjYwLC0xOTY4MDEwNzldfQ
-==
+eyJoaXN0b3J5IjpbLTQwOTcxODQxNSwyODg2OTQ4ODIsMTM5NT
+AwODYyMCwtOTU4NzM1OTczLC0xODc4Mjg0NTM5LDE5NDg2OTA2
+ODEsLTc4NzUwODU1NywxODEwOTI4MTc4LDQ2NDg4NjM3NywxOD
+I2MjE2OTkxLC04NDc0NDIyMTksOTg0NDAzMDI4LDExOTk1Nzc1
+OTEsMTY5NjYxNjY0MywxNzg5MzI0ODAsLTE1NTE1NjU2NjAsLT
+E5NjgwMTA3OV19
 -->
