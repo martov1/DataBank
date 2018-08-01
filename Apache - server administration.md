@@ -83,14 +83,13 @@ De esta manera nunca quedan threads esperando nuevos mensajes en una conexion **
 
 ## Conceptos iniciales
 
-Apache se configura colocando _directivas_ en archivos de texto
+Apache se configura colocando _directivas_ en archivos de texto, las directivas pueden ser colocadas dent
 
-## Configuracion principal
+### Configuracion principal
 
 La configuracion principal se encuentra en **apache/conf/httpd.conf** y contiene la configuracion global de apache.
 Alguas de las directivas que contiene son:
 
-### Directivas fundamentales
 
 * **ServerTokens** - Determina la info que se envia al browser sobre el servidor y sobre apache (version, etc)
 * **ServerRoot** - La ubicacion en el filesystem donde esta instalado apache 
@@ -150,9 +149,9 @@ Te permite aplicar directivas para ciertos directorios
 
 ## Directivas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwNjcwMDkyLDEzNjcwMjY3NjYsLTQ2OD
-kzMjIxLDE5OTI4NzgxMTIsLTE0ODI1OTQ5NjcsMTgyMjA0MDI0
-NCw1MDYxNjMyNDMsMTIyMTEzNDk0MywxOTc3NTM1NzA4LC0xMD
-g4OTc2MjQ0LDMwMDgxODk1NCwtNDg4ODExMDAyLC0xNjkzMjky
-MTA3LDMyNDIyNjkzLDkzMTIzMTkzNF19
+eyJoaXN0b3J5IjpbMTg5MzUzNjgyOCwxMzY3MDI2NzY2LC00Nj
+g5MzIyMSwxOTkyODc4MTEyLC0xNDgyNTk0OTY3LDE4MjIwNDAy
+NDQsNTA2MTYzMjQzLDEyMjExMzQ5NDMsMTk3NzUzNTcwOCwtMT
+A4ODk3NjI0NCwzMDA4MTg5NTQsLTQ4ODgxMTAwMiwtMTY5MzI5
+MjEwNywzMjQyMjY5Myw5MzEyMzE5MzRdfQ==
 -->
