@@ -286,9 +286,14 @@ Podes **quitar** una variable de environment interna asi
 
 
 ## Logging
+
+Apache tiene la capacidad de loguear un monton de cosas
+
+Algunas directivas que afectan el logging: 
+* **ErrorLog** - Indica la ubi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDkyODE3OCw0NjQ4ODYzNzcsMTgyNj
-IxNjk5MSwtODQ3NDQyMjE5LDk4NDQwMzAyOCwxMTk5NTc3NTkx
-LDE2OTY2MTY2NDMsMTc4OTMyNDgwLC0xNTUxNTY1NjYwLC0xOT
-Y4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbLTIxNDUwNDQ1MDgsMTgxMDkyODE3OCw0Nj
+Q4ODYzNzcsMTgyNjIxNjk5MSwtODQ3NDQyMjE5LDk4NDQwMzAy
+OCwxMTk5NTc3NTkxLDE2OTY2MTY2NDMsMTc4OTMyNDgwLC0xNT
+UxNTY1NjYwLC0xOTY4MDEwNzldfQ==
 -->
