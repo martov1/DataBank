@@ -148,10 +148,15 @@ Te permite aplicar directivas para ciertos directorios
 
 
 ## Directivas
+
+Las siguientes son las directivas propias de **CORE**, otros modulos tendran otras directivas.
+
+* **Include**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDE3OTU1OSwxMzY3MDI2NzY2LC00Nj
-g5MzIyMSwxOTkyODc4MTEyLC0xNDgyNTk0OTY3LDE4MjIwNDAy
-NDQsNTA2MTYzMjQzLDEyMjExMzQ5NDMsMTk3NzUzNTcwOCwtMT
-A4ODk3NjI0NCwzMDA4MTg5NTQsLTQ4ODgxMTAwMiwtMTY5MzI5
-MjEwNywzMjQyMjY5Myw5MzEyMzE5MzRdfQ==
+eyJoaXN0b3J5IjpbMzIxMzgxODcyLDEzNjcwMjY3NjYsLTQ2OD
+kzMjIxLDE5OTI4NzgxMTIsLTE0ODI1OTQ5NjcsMTgyMjA0MDI0
+NCw1MDYxNjMyNDMsMTIyMTEzNDk0MywxOTc3NTM1NzA4LC0xMD
+g4OTc2MjQ0LDMwMDgxODk1NCwtNDg4ODExMDAyLC0xNjkzMjky
+MTA3LDMyNDIyNjkzLDkzMTIzMTkzNF19
 -->
