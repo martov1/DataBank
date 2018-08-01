@@ -309,6 +309,8 @@ Podes **quitar** una variable de environment interna asi
     UnsetEnv LD_LIBRARY_PATH
 
 
+## Virtu
+
 ## Logging
 
 Apache tiene la capacidad de loguear un monton de cosas
@@ -337,10 +339,10 @@ Si las directivas se colocan dentro de la section \<virtualHost\> entonces se gu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYxNDY5NCwtODc1NzgzMzE2LDI4OD
-Y5NDg4MiwxMzk1MDA4NjIwLC05NTg3MzU5NzMsLTE4NzgyODQ1
-MzksMTk0ODY5MDY4MSwtNzg3NTA4NTU3LDE4MTA5MjgxNzgsND
-Y0ODg2Mzc3LDE4MjYyMTY5OTEsLTg0NzQ0MjIxOSw5ODQ0MDMw
-MjgsMTE5OTU3NzU5MSwxNjk2NjE2NjQzLDE3ODkzMjQ4MCwtMT
-U1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
+eyJoaXN0b3J5IjpbLTEyMjc3NjE4NTgsLTIwNzYxNDY5NCwtOD
+c1NzgzMzE2LDI4ODY5NDg4MiwxMzk1MDA4NjIwLC05NTg3MzU5
+NzMsLTE4NzgyODQ1MzksMTk0ODY5MDY4MSwtNzg3NTA4NTU3LD
+E4MTA5MjgxNzgsNDY0ODg2Mzc3LDE4MjYyMTY5OTEsLTg0NzQ0
+MjIxOSw5ODQ0MDMwMjgsMTE5OTU3NzU5MSwxNjk2NjE2NjQzLD
+E3ODkzMjQ4MCwtMTU1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
 -->
