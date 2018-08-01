@@ -88,7 +88,10 @@ Apache se configura colocando **_directivas_** en archivos de texto, las directi
 ### Configuracion principal y sus directivas
 
 La configuracion principal se encuentra en **apache/conf/httpd.conf** y contiene la configuracion global de apache.
-Alguas de las directivas que contiene son:
+
+
+
+Alguas de las directivas que contiene por default son:
 
 
 * **ServerTokens** - Determina la info que se envia al browser sobre el servidor y sobre apache (version, etc)
@@ -156,7 +159,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0ODUzNTc2LDEzNjcwMjY3NjYsLTQ2OD
+eyJoaXN0b3J5IjpbODcyODU5ODE4LDEzNjcwMjY3NjYsLTQ2OD
 kzMjIxLDE5OTI4NzgxMTIsLTE0ODI1OTQ5NjcsMTgyMjA0MDI0
 NCw1MDYxNjMyNDMsMTIyMTEzNDk0MywxOTc3NTM1NzA4LC0xMD
 g4OTc2MjQ0LDMwMDgxODk1NCwtNDg4ODExMDAyLC0xNjkzMjky
