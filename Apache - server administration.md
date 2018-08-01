@@ -172,6 +172,9 @@ Te permite aplicar directivas para ciertos directorios
 
 ### Variables
 
+Podes leer y escribir variables en la configuracion de apache.
+	
+	Define nombreDeVariable Valor
 
 ### Lista de directivas
 
@@ -182,10 +185,10 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjM1MTA1LDMwNTE1NzMwMSwtNzgxMD
-c5NjUsMTM2NzAyNjc2NiwtNDY4OTMyMjEsMTk5Mjg3ODExMiwt
-MTQ4MjU5NDk2NywxODIyMDQwMjQ0LDUwNjE2MzI0MywxMjIxMT
-M0OTQzLDE5Nzc1MzU3MDgsLTEwODg5NzYyNDQsMzAwODE4OTU0
-LC00ODg4MTEwMDIsLTE2OTMyOTIxMDcsMzI0MjI2OTMsOTMxMj
-MxOTM0XX0=
+eyJoaXN0b3J5IjpbLTI1Nzg0NzI3MiwzMDUxNTczMDEsLTc4MT
+A3OTY1LDEzNjcwMjY3NjYsLTQ2ODkzMjIxLDE5OTI4NzgxMTIs
+LTE0ODI1OTQ5NjcsMTgyMjA0MDI0NCw1MDYxNjMyNDMsMTIyMT
+EzNDk0MywxOTc3NTM1NzA4LC0xMDg4OTc2MjQ0LDMwMDgxODk1
+NCwtNDg4ODExMDAyLC0xNjkzMjkyMTA3LDMyNDIyNjkzLDkzMT
+IzMTkzNF19
 -->
