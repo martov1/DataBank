@@ -147,6 +147,10 @@ Las configuration sections te permiten coordinar cuando una directiva tiene que 
 
 >**Las secciones pueden ser anidadas para lograr mas control**
 
+### Secciones que usan RegEx
+
+Muchas configuration sections pueden usar regex, ademas podes usar los se
+
 ###  \<IfModule>
 
 Permite activar una serie de directivas **solo si un modulo esta activo**, se usa mucho cuando tenes una funcion que es cumplida por modulos diferentes dependiendo de factores como:
@@ -253,7 +257,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzAyNTk5MywtODQ3NDQyMjE5LDk4ND
-QwMzAyOCwxMTk5NTc3NTkxLDE2OTY2MTY2NDMsMTc4OTMyNDgw
-LC0xNTUxNTY1NjYwLC0xOTY4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbLTExMTcxNTAxNzYsLTg0NzQ0MjIxOSw5OD
+Q0MDMwMjgsMTE5OTU3NzU5MSwxNjk2NjE2NjQzLDE3ODkzMjQ4
+MCwtMTU1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
 -->
