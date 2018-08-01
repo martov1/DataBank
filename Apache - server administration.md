@@ -157,8 +157,8 @@ Te permite aplicar directivas para ciertos directorios
 
 * Una sola directiva por linea
 * los argumentos de las directivas se separan con un whitespace
-* 
-
+	* Si el argumento tiene espacios, va entre comillas 
+* Las directivas son **case insensitive**
 
 ### Lista de directivas
 
@@ -169,9 +169,9 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU3OTYwODMsMTM2NzAyNjc2NiwtND
-Y4OTMyMjEsMTk5Mjg3ODExMiwtMTQ4MjU5NDk2NywxODIyMDQw
-MjQ0LDUwNjE2MzI0MywxMjIxMTM0OTQzLDE5Nzc1MzU3MDgsLT
-EwODg5NzYyNDQsMzAwODE4OTU0LC00ODg4MTEwMDIsLTE2OTMy
-OTIxMDcsMzI0MjI2OTMsOTMxMjMxOTM0XX0=
+eyJoaXN0b3J5IjpbMTkzMTQ0NDY2NiwxMzY3MDI2NzY2LC00Nj
+g5MzIyMSwxOTkyODc4MTEyLC0xNDgyNTk0OTY3LDE4MjIwNDAy
+NDQsNTA2MTYzMjQzLDEyMjExMzQ5NDMsMTk3NzUzNTcwOCwtMT
+A4ODk3NjI0NCwzMDA4MTg5NTQsLTQ4ODgxMTAwMiwtMTY5MzI5
+MjEwNywzMjQyMjY5Myw5MzEyMzE5MzRdfQ==
 -->
