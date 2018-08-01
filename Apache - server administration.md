@@ -313,11 +313,15 @@ Podes **quitar** una variable de environment interna asi
 
 Los virtual hosts te permiten tener multiples sitios en un solo servidor, apache decide en base al nombre de dominio solicitado que archivo servir.
 
-Definis el virtual host con una Ip o un nombre de dominio en la section ``
+Definis el virtual host con una Ip o un nombre de dominio en la section 
+
+```
 <VirtualHost miDominio:miPuerto>
+ServerName
 MisDirectivas
 </virtualHost>
-``
+```
+
 
 
 ## Logging
@@ -348,7 +352,7 @@ Si las directivas se colocan dentro de la section \<virtualHost\> entonces se gu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTUxNDA5MCwtMjA3NjE0Njk0LC04Nz
+eyJoaXN0b3J5IjpbLTIyNjYyNDA2MCwtMjA3NjE0Njk0LC04Nz
 U3ODMzMTYsMjg4Njk0ODgyLDEzOTUwMDg2MjAsLTk1ODczNTk3
 MywtMTg3ODI4NDUzOSwxOTQ4NjkwNjgxLC03ODc1MDg1NTcsMT
 gxMDkyODE3OCw0NjQ4ODYzNzcsMTgyNjIxNjk5MSwtODQ3NDQy
