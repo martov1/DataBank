@@ -171,9 +171,10 @@ Las directivas toman efecto solo si existe una variable (o parametro cuando apac
     
 ### \<IfVersion >
 Las directivas toman efecto solo si la version de apache cumple con el requisito
-<IfVersion  >=  2.4>  
-\# Hacer cosas
-</IfVersion>
+
+    <IfVersion  >=  2.4>  
+    \# Hacer cosas
+    </IfVersion>
 
 
 
@@ -224,6 +225,6 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI0NjMzNzUsMTc4OTMyNDgwLC0xNT
-UxNTY1NjYwLC0xOTY4MDEwNzldfQ==
+eyJoaXN0b3J5IjpbMTY5NjYxNjY0MywxNzg5MzI0ODAsLTE1NT
+E1NjU2NjAsLTE5NjgwMTA3OV19
 -->
