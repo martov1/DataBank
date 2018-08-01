@@ -274,7 +274,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 * **ErrorDocument** - Te permite especificar la pagina a donde va si apache devuelve un error HTTP CODE 404
 
 * **AllowSymlinks** - Apache seguira los symlinks como si fueran archivos reales
-* **AllowOverride** - Indica si deben ser cargados los archivos .htaccess presentes en un directorio (debe estar dentro del section `<Di>`)
+* **AllowOverride** - Indica si deben ser cargados los archivos .htaccess presentes en un directorio (debe estar dentro del section `<Directory>`)
 ## Variables
 
 ### Locales
@@ -337,7 +337,7 @@ Si las directivas se colocan dentro de la section \<virtualHost\> entonces se gu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDE3NDM1NCwtODc1NzgzMzE2LDI4OD
+eyJoaXN0b3J5IjpbLTIwNzYxNDY5NCwtODc1NzgzMzE2LDI4OD
 Y5NDg4MiwxMzk1MDA4NjIwLC05NTg3MzU5NzMsLTE4NzgyODQ1
 MzksMTk0ODY5MDY4MSwtNzg3NTA4NTU3LDE4MTA5MjgxNzgsND
 Y0ODg2Mzc3LDE4MjYyMTY5OTEsLTg0NzQ0MjIxOSw5ODQ0MDMw
