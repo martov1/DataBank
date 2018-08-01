@@ -172,16 +172,19 @@ Te permite aplicar directivas para ciertos directorios
 
 ### Variables
 
-Podes leer y escribir variables en la configuracion de apache con la directiva **Define**.
+Podes **definir una variable** con la directiva Define
 	
 	Define nombreDeVariable Valor
 
-Podes tomar decisiones si una variable esta definida
+Podes **tomar decisiones** si una variable esta definida:
 
     <IfDefine TEST> 
      Define servername test.example.com
      </IfDefine>
 
+Podes **usar una variable** en la configuracion usando la sintaxi
+
+DocumentRoot  "/var/www/${miVariable}/htdocs"
 
 ### Lista de directivas
 
@@ -192,7 +195,7 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTAzODgzOSwzMDUxNTczMDEsLTc4MT
+eyJoaXN0b3J5IjpbLTU5NDk5ODAzNywzMDUxNTczMDEsLTc4MT
 A3OTY1LDEzNjcwMjY3NjYsLTQ2ODkzMjIxLDE5OTI4NzgxMTIs
 LTE0ODI1OTQ5NjcsMTgyMjA0MDI0NCw1MDYxNjMyNDMsMTIyMT
 EzNDk0MywxOTc3NTM1NzA4LC0xMDg4OTc2MjQ0LDMwMDgxODk1
