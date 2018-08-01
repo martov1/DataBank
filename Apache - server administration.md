@@ -133,7 +133,7 @@ Son las directivas que le indican al MPM  de apache como tiene que spawnear los 
 
 Los archivos **.htaccess**  te permiten tener una configuracion descentralizada del servidor.
 
-Las directivas colocadas en los archivos .htaccess son efectivas en la carpeta donde esten opr
+**Las directivas colocadas en los archivos .htaccess son efectivas en la carpeta y subcarpetas donde esten presentes.**
 
 >Los archivos .htaccess **pueden llamarse de cualquier manera** si se lo define usando la directiva **AccessFileName**
  
@@ -203,5 +203,5 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDQwNjEyN119
+eyJoaXN0b3J5IjpbLTE5NjgwMTA3OV19
 -->
