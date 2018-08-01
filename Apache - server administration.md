@@ -163,7 +163,11 @@ Te permite aplicar directivas para ciertos directorios
 
 ### \<IfDefined >
 
-Las directivas toman efecto solo si existe una variable (o parame
+Las directivas toman efecto solo si existe una variable (o parametro cuando apache se inicio en command line con `-DParametro`)
+
+    <IfDefine  Variable>
+    	 Redirect  "/"  "http://otherserver.example.com/"
+    </IfDefine>
 
 
 ## Directivas
@@ -211,6 +215,6 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE2MTk1ODIsMTc4OTMyNDgwLC0xNT
+eyJoaXN0b3J5IjpbLTE2NzgzNjgzMzYsMTc4OTMyNDgwLC0xNT
 UxNTY1NjYwLC0xOTY4MDEwNzldfQ==
 -->
