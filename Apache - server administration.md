@@ -298,11 +298,15 @@ Algunas directivas que afectan el logging:
 
 ### Access log
 
-El access log loguea todos los request procesados por el server, su ubicacion y contenido es controlado por la directiva **CustomLog**
+El access log loguea todos los request procesados por el server, su ubicacion y contenido es controlado por la directiva **CustomLog** mientras que su formato es controlado por **LogFormat**
+
+    LogFormat  "%h %l %u %t \"%r\" %>s %b" common 
+    CustomLog logs/access_log common
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Mjc4MjU3MCwxOTQ4NjkwNjgxLC03OD
-c1MDg1NTcsMTgxMDkyODE3OCw0NjQ4ODYzNzcsMTgyNjIxNjk5
-MSwtODQ3NDQyMjE5LDk4NDQwMzAyOCwxMTk5NTc3NTkxLDE2OT
-Y2MTY2NDMsMTc4OTMyNDgwLC0xNTUxNTY1NjYwLC0xOTY4MDEw
-NzldfQ==
+eyJoaXN0b3J5IjpbLTE4NzgyODQ1MzksMTk0ODY5MDY4MSwtNz
+g3NTA4NTU3LDE4MTA5MjgxNzgsNDY0ODg2Mzc3LDE4MjYyMTY5
+OTEsLTg0NzQ0MjIxOSw5ODQ0MDMwMjgsMTE5OTU3NzU5MSwxNj
+k2NjE2NjQzLDE3ODkzMjQ4MCwtMTU1MTU2NTY2MCwtMTk2ODAx
+MDc5XX0=
 -->
