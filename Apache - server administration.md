@@ -145,6 +145,7 @@ Los archivos **.htaccess**  te permiten tener una configuracion descentralizada 
 
 Las configuration sections te permiten coordinar cuando una directiva tiene que tomar efecto.
 
+>**Las secciones pueden ser anidadas para lograr mas control**
 
 ###  \<IfModule>
 
@@ -163,10 +164,11 @@ Te permite aplicar directivas para ciertos directorios
     
 ### \<Files >
 Te permite aplicar directivas  todo archivo con un nombre especifico (en la carpeta y subcarpetas si esta en htaccess o en todo el server si esta en la configuracion global)
+Podes anidarla dentro de la directiva <director
 
     <Files  "private.html">
-Require all denied
-</Files>
+	    Require all denied
+    </Files>
 
 
 
@@ -234,6 +236,6 @@ Las siguientes son las directivas propias de **CORE**, otros modulos tendran otr
 		Include  /usr/local/apache2/conf/ssl.conf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODk1NjQwNiwxNjk2NjE2NjQzLDE3OD
+eyJoaXN0b3J5IjpbMjExMjYxMTgzNywxNjk2NjE2NjQzLDE3OD
 kzMjQ4MCwtMTU1MTU2NTY2MCwtMTk2ODAxMDc5XX0=
 -->
