@@ -87,6 +87,10 @@ De esta manera nunca quedan threads esperando nuevos mensajes en una conexion **
 
 Apache se configura colocando **_directivas_** en archivos de texto, las directivas pueden ser colocadas dentro de **_secciones_** que indican en que circunstancias la directiva tiene que tomar efecto
 
+### Filesystem y URLs
+
+Apache por default lee el contenido de la directiva **DocumentRoot**, que contiene la URL donde se supone que esten los documentos publicos para los usuarios
+
 ### Configuracion principal y sus directivas
 
 La configuracion principal se encuentra en **apache/conf/httpd.conf** y contiene la configuracion global de apache. Estas configuraciones se aplican a la totalidad del servidor
@@ -330,7 +334,7 @@ Si las directivas se colocan dentro de la section \<virtualHost\> entonces se gu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTM3OTg1MCwtODc1NzgzMzE2LDI4OD
+eyJoaXN0b3J5IjpbLTUwNjU3OTI1MiwtODc1NzgzMzE2LDI4OD
 Y5NDg4MiwxMzk1MDA4NjIwLC05NTg3MzU5NzMsLTE4NzgyODQ1
 MzksMTk0ODY5MDY4MSwtNzg3NTA4NTU3LDE4MTA5MjgxNzgsND
 Y0ODg2Mzc3LDE4MjYyMTY5OTEsLTg0NzQ0MjIxOSw5ODQ0MDMw
