@@ -300,15 +300,16 @@ Algunas directivas que afectan el logging:
 
 El access log loguea todos los request procesados por el server, su ubicacion y contenido es controlado por la directiva **CustomLog** mientras que su formato es controlado por **LogFormat**
 
-EJ: especificas el formato "miFormato"  y lo usas para loguear el acceso, 
+**EJ:** especificas el formato "miFormato"  y lo usas para loguear el acceso, el log se guarda en logs/access_log
+
     LogFormat  "%h %l %u %t \"%r\" %>s %b" miFormato 
     CustomLog logs/access_log miFormato
 
-Si especificas muchos **CustomLog** diferentes, creas multiples logs que pueden tener diferentes formatos
+>Si especificas muchos **CustomLog** diferentes, creas multiples logs que pueden tener diferentes formatos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2OTYxMTIwLC0xODc4Mjg0NTM5LDE5ND
-g2OTA2ODEsLTc4NzUwODU1NywxODEwOTI4MTc4LDQ2NDg4NjM3
-NywxODI2MjE2OTkxLC04NDc0NDIyMTksOTg0NDAzMDI4LDExOT
-k1Nzc1OTEsMTY5NjYxNjY0MywxNzg5MzI0ODAsLTE1NTE1NjU2
-NjAsLTE5NjgwMTA3OV19
+eyJoaXN0b3J5IjpbLTk1ODczNTk3MywtMTg3ODI4NDUzOSwxOT
+Q4NjkwNjgxLC03ODc1MDg1NTcsMTgxMDkyODE3OCw0NjQ4ODYz
+NzcsMTgyNjIxNjk5MSwtODQ3NDQyMjE5LDk4NDQwMzAyOCwxMT
+k5NTc3NTkxLDE2OTY2MTY2NDMsMTc4OTMyNDgwLC0xNTUxNTY1
+NjYwLC0xOTY4MDEwNzldfQ==
 -->
