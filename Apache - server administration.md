@@ -4,8 +4,6 @@
 CURSO
 https://www.youtube.com/watch?v=gPOliFwMFCk&list=PLbjlI3cowd5-pvfO521ejRI1Q6abFkNQc
 
-**Me quede:** https://httpd.apache.org/docs/2.4/en/configuring.html
-
 # Intro
 
 ## Conceptos basicos
@@ -355,11 +353,11 @@ Si las directivas se colocan dentro de la section \<virtualHost\> entonces se gu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTQ2MzY4NywtMjI2NjI0MDYwLC0yMD
-c2MTQ2OTQsLTg3NTc4MzMxNiwyODg2OTQ4ODIsMTM5NTAwODYy
-MCwtOTU4NzM1OTczLC0xODc4Mjg0NTM5LDE5NDg2OTA2ODEsLT
-c4NzUwODU1NywxODEwOTI4MTc4LDQ2NDg4NjM3NywxODI2MjE2
-OTkxLC04NDc0NDIyMTksOTg0NDAzMDI4LDExOTk1Nzc1OTEsMT
-Y5NjYxNjY0MywxNzg5MzI0ODAsLTE1NTE1NjU2NjAsLTE5Njgw
-MTA3OV19
+eyJoaXN0b3J5IjpbMTU4NTgzNTY3NCwxMjc5NDYzNjg3LC0yMj
+Y2MjQwNjAsLTIwNzYxNDY5NCwtODc1NzgzMzE2LDI4ODY5NDg4
+MiwxMzk1MDA4NjIwLC05NTg3MzU5NzMsLTE4NzgyODQ1MzksMT
+k0ODY5MDY4MSwtNzg3NTA4NTU3LDE4MTA5MjgxNzgsNDY0ODg2
+Mzc3LDE4MjYyMTY5OTEsLTg0NzQ0MjIxOSw5ODQ0MDMwMjgsMT
+E5OTU3NzU5MSwxNjk2NjE2NjQzLDE3ODkzMjQ4MCwtMTU1MTU2
+NTY2MF19
 -->
