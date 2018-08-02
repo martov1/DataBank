@@ -259,11 +259,5 @@ Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzM0NjA4MCwxOTQxMDc4NzAzLC00OD
-A1MDQyMTcsMTY1ODEzNzUxOSwtNzUwNTMzNjIwLDEzOTk4NzMx
-ODAsODI3MTUwNzQzLC0xNzUxMDczMDUyLDE2NTU0NjA0NTIsLT
-UzNTI2ODY1MiwtMTcyODUwMzAwNiwtMTE2Mzg5Mzc3MiwtMTIw
-NDcyMDkzNSwtMjA0ODM0MjA0Myw2NzI1MzI3OSwxMTY2NzI2OD
-k2LDE4MTU1NjE1Niw2OTg3NDgwNjQsLTE5NTM5ODYwMzUsLTEw
-NzcyMDg0MjJdfQ==
+eyJoaXN0b3J5IjpbLTQyNzM0NjA4MF19
 -->
