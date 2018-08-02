@@ -201,7 +201,7 @@ Consiste en
 * **group** - Los permisos del grupo al que el usuario pertenece
 * **other** - Los permisos disponibles para todos los usuarios 
 
-### chmod 
+### chmod - Cambiar permisos
 
 el comando chmod te permite **cambiar los permisos de un archivo**
 
@@ -243,7 +243,7 @@ Le asigno **todos los permisos al user**, **permiso de lectura y escritura al gr
 
 	chmod 754 hola.txt
 
-### chgrpPermission groups
+### chgrp - Cambiar grupo
 
 Todos los archivos en general pertenecen a algun grupo, los usuarios son simepre **miembros de un grupo con su mismo nombre**, llamado tambien **primary group**
 
@@ -259,8 +259,10 @@ Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 	-rw-r--r--. 1 juan ventas 36 feb 6 16:30 hola.txt 
 
 
+### chown - Cambiar owner
 
+Podes cambiar el 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDgxNjY1NiwtNDI3MzQ2MDgwXX0=
+eyJoaXN0b3J5IjpbODk1OTYxNzYwLC00MjczNDYwODBdfQ==
 -->
