@@ -206,7 +206,7 @@ Consiste en
 el comando chmod te permite **cambiar los permisos de un archivo**
 
 > * Solo **el propietario del archivo** y el **root** pueden cambiar los permisos de un archivo.
-> * Solo el **root** 
+> * Solo el **root** puede cambiar el propietario o grupo d
 
 
 | Parametro  | posible valor                        |
@@ -262,5 +262,5 @@ Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDMzMjEwNSwtNDI3MzQ2MDgwXX0=
+eyJoaXN0b3J5IjpbODcxMDc2MDY2LC00MjczNDYwODBdfQ==
 -->
