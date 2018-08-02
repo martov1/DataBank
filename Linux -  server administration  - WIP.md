@@ -90,6 +90,7 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
 * **mkdir nombre** - crea un directorio con ese nombre
 	* **mkdir -p /crear/estas/carpetas** - crea una serie de directiorios anidados
 * **rm -rf** - Borra recursivamente un directorio
+* **cp** - Copia archivos
 
 ## $PATH  environment variable
 
@@ -258,11 +259,11 @@ Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTA3ODcwMywtNDgwNTA0MjE3LDE2NT
-gxMzc1MTksLTc1MDUzMzYyMCwxMzk5ODczMTgwLDgyNzE1MDc0
-MywtMTc1MTA3MzA1MiwxNjU1NDYwNDUyLC01MzUyNjg2NTIsLT
-E3Mjg1MDMwMDYsLTExNjM4OTM3NzIsLTEyMDQ3MjA5MzUsLTIw
-NDgzNDIwNDMsNjcyNTMyNzksMTE2NjcyNjg5NiwxODE1NTYxNT
-YsNjk4NzQ4MDY0LC0xOTUzOTg2MDM1LC0xMDc3MjA4NDIyLDY5
-MTU3NTc4Nl19
+eyJoaXN0b3J5IjpbLTQyNzM0NjA4MCwxOTQxMDc4NzAzLC00OD
+A1MDQyMTcsMTY1ODEzNzUxOSwtNzUwNTMzNjIwLDEzOTk4NzMx
+ODAsODI3MTUwNzQzLC0xNzUxMDczMDUyLDE2NTU0NjA0NTIsLT
+UzNTI2ODY1MiwtMTcyODUwMzAwNiwtMTE2Mzg5Mzc3MiwtMTIw
+NDcyMDkzNSwtMjA0ODM0MjA0Myw2NzI1MzI3OSwxMTY2NzI2OD
+k2LDE4MTU1NjE1Niw2OTg3NDgwNjQsLTE5NTM5ODYwMzUsLTEw
+NzcyMDg0MjJdfQ==
 -->
