@@ -261,8 +261,10 @@ Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 
 ### chown - Cambiar owner
 
-Podes cambiar el propietario del owner 
+Podes cambiar el propietario del owner de un archivo siendo **root**
+
+	chown miUser elArchivo.txt
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQwMDU5OCwtNDI3MzQ2MDgwXX0=
+eyJoaXN0b3J5IjpbLTE0OTk1MzQ3MSwtNDI3MzQ2MDgwXX0=
 -->
