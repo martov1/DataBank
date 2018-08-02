@@ -206,6 +206,7 @@ Consiste en
 el comando chmod te permite **cambiar los permisos de un archivo**
 
 
+
 | Parametro  | posible valor                        |
 |------------|--------------------------------------|
 | categoria  | u - User g - group o - other a - all |
@@ -259,5 +260,5 @@ Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzM0NjA4MF19
+eyJoaXN0b3J5IjpbMjM2MTkwMDk0LC00MjczNDYwODBdfQ==
 -->
