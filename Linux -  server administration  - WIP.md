@@ -92,6 +92,19 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
 * **rm -rf** - Borra recursivamente un directorio
 * **cp** - Copia archivos
 
+## Environment variables
+
+### Ver las environment variables
+
+* Podes **Listar** todas las environment variables con **printenv**, las environment variablles determinan el comportamiento del shell y del sistema.
+	```
+	[juan@host ~]$ printenv
+	```
+* Podes **Leer** una environment variable usando **$nombreDeLaVariable**
+	```
+	[juan@host ~]$ echo $home
+	```
+ 
 ## $PATH  environment variable
 
 Es una variable del shell que contiene una **lista de directorios donde se buscaran los ejecutables de los comandos que tipeas** (EJ: ls, pwd, man, etc).
@@ -119,6 +132,50 @@ Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
 	// Directamente llamando al comando con la ruta
 	[juan@host ~]$ cd /mi/carpeta/loca miComando
 
+## I/O redirection
+
+Podes redirigir la entrada y la salida de los comandos de consola hacia o desde archivos.
+
+### Tipos de I/O
+
+| Nombre          | Abreviacion | Descriptor | Descripcion                               |
+|-----------------|-------------|------------|-------------------------------------------|
+| Standard Input  | stdin       | 0          | Lo que entra al  command                  |
+| Standard Output | stdout      | 1          | Lo que sale del  command si no hubo error |
+| Standard Error  | stderr      | 2          | Lo que sale del  command si hubo  error   |
+
+### Redireccion en la CLI
+
+Podes redirigir el input y output usando los siguientes operadores
+
+* **>** - manda el output a un file sobreescribiendolo
+* **>>** - Redirigir el output a un file agregandolo a lo existente
+* **<** - Utiliza un archivo como input de un command
+* **&** - Indicar que estas usando un descriptor
+
+EJ:
+
+
+```
+# enviar el output al final de un archivo
+ls >> files.txt
+
+#usar un archivo para alimentar el comando
+sort < cosas.txt
+
+#Enviar los errores a un archivo usando el file descriptor
+ls 2> error.txt
+
+#Enviar los errores a un archivo y el output a otro
+ls 1> resultado.txt 2> error.txt
+
+#Enviar los errores a la nada misma
+ls 2>/dev/null
+```
+
+### Pipe |
+
+Pipe te permite pasarle el output de un command al input de otro, por ejemplo 
 
 
 # File system
@@ -265,6 +322,178 @@ Podes cambiar el propietario del owner de un archivo siendo **root**
 
 	chown miUser elArchivo.txt
 
+## Buscar archivos - WIP
+
+### Buscar archivos y carpetas - WIP
+
+#### Find
+
+Se usa asi:
+
+find PATH PATTERN
+
+
+
+### Buscar en un archivo - Grep
+
+Grep te permite encontrar cosas dentro de un archivo
+parametros:
+* **-i** - Case insentive
+* **-c** - Contar la cantidad de ocurrencias
+* **-n** - Cada match viene precedido del line number donde se encuentra
+* **v** - Buscar aquellas lineas que NO coinciden con el patron de busqueda
+Se usa asi
+
+```
+grep -u "mi Patron De Busqueda" miArchivo.txt
+```
+
+
+# Process and job control
+
+### Ver procesos - PS
+Para ver los procesos usamos el comando **ps** con los siguientes **parametros:**
+* **-e** - Mostrar todos los procesos
+* **-H** - Mostrar procesos como arbol
+* **-f** - mostrar mas informacion
+* **-u usuario** - Mostrar los procesos de un usuario en particular
+* **-p pid** - mostrar informaciond de un proceso por PID
+
+### Ver procesos - top
+Es un visor de procesos interactivo que coloca los procesos con mas consumo de CPU arriba
+
+## Background y foreground processes
+
+* **matar un proceso en foreground** - Ctrl C
+* **suspender un proceso en foreground** - Ctrl Z
+* **Para enviar un command al background** lo invocas con **&**
+	```
+    [juan@host ~]$miComando &
+    # Responde con job number y PID
+    [1] 2375
+	```
+* **Para mandar al foreground un proceso en background** usas el comando **fg**
+	```
+    [juan@host ~]fg %1
+    procesando en foreground!
+	```
+* **Para ver los procesos enviados al background** usas el comando **jobs** que muestra el job con su jobId
+	```
+    [juan@host ~]jobs
+    [1] running 	PATH/PATH/PATH
+    [2] running 	PATH/PATH/PATH
+    [.] running 	PATH/PATH/PATH
+	```
+* **para mandar al background un proceso suspendido** usas el comando **bg**
+	```
+    [juan@host ~]$miComando
+    Procesando ...   ->Ctrl Z
+    [juan@host ~]jobs
+    [1] Stopped 	./miComando
+    [juan@host ~]bg %1
+    [juan@host ~]jobs
+    [1] Running	./miComando
+	```
+## Process control
+
+### kill
+Kill mata un proceso, puede matarlo usando diferentes señales, algunas son mas elegantes que otras.
+* La señal **15 - SIGTERM** es relativamente elegante y permite que el proceso se finalice de forma normal. es el que se usa de forma default
+* La señal **9 - SIGKILL** mata el proceso de forma inmediata, se usa cuando un proceso no esta finalizando de forma normal
+
+**Se usan asi:**
+
+    #Matar elegantemente un proceso con PID 432
+    kill -15 432
+
+## Cron
+
+### Crear cron jobs
+Cron es un servicio que se ejecuta cada minuto y su funcion es correr ciertos comandos en un momento especifico. 
+
+Para hacer uso de **cron** para realizar tareas automaticamente de forma programada podemos hacer lo siguiente.
+
+**MES HORA DIA AÑO DIADELASEMANA** COMANDO
+
+ej:
+	
+	#Correr ls en el minuto cero, a las 7AM todos los dias del mes, todos los meses, los martes
+	0 7 * * 1 ls
+
+Podes indicar que queres **correr el comando varias veces** usando una **coma**
+	#Correr ls en el minuto cero, a las 7AM todos los dias del mes, todos los meses, los martes
+	
+	#Correr el comando en todos los minutos 0 y 30 de cada hora
+	0,30 * * * * ls
+
+Podes indicar **intervalor** con **-**
+
+	#Correr el comando una vez por hora entre las 5AM y 7AM
+	0 5-7 * * * ls
+
+### administrar cron jobs - crontab
+
+Crontab te permite administrar los trabajos cron, posee los siguientes parametros.
+* **-l** Lista los cron jobs
+* **-e** edita los cron jobs
+* **-r** elimina todos los cron jobs
+* **archivo** Crea un cron job a partir de un archivo
+
+
+# Usuarios
+
+## Usuarios y donde se guardan
+Los usuarios siempre tienen
+
+* **Username**
+* **User ID (UID)**
+	* El root siempre es UID 0 
+* **Grupo default**
+	* El grupo al que pertenecen los archivos creados por el user 
+* **Comentarios**
+* **Shell**
+	* Lo que se ejecuta cuando el usuario se loguea, no necesariamente tiene que ser un shell, puede ser un programa no interactivo 
+* **Un home directory**
+
+**Todos estos datos se guardan en /etc/passwd** de la siguiente manera
+
+	username:password:UID:GID:comments:home_dir:shell
+Las contraseñas actualmente se guardan en el _**shadow file**_ ubicado en **/etc/shadow** de manera encriptada.
+
+## Administrar usuarios
+
+Podes **añadir usuarios** con **useradd** y colocar una contraseña con **passwd**, esto requirer siempre permisos de **root**
+
+	useradd opciones username
+	passwd username
+	
+Algunas opciones son
+* **-c "comentario"** - añade un comment
+* **-m** - Crea el home directory
+* **-d** - especifica el path del directorio home
+* **-s /shell/path** - especifica el shell
+* **-g** - coloca el grupo default
+* **-G grupo1,grupo2** - grupos adicionales
+* **-r** Indica que es una cuenta de sistema (no para usarse por un humano)
+EJ:
+
+	[juan@host ~] useradd -c "oficinista" -m -s /bin/bash miUsuario -g grupo1 -G grupo2,grupo3
+	[juan@host ~] passwd miUsuario
+	Enter new password:
+
+## Cuentas de aplicacion o de sistema
+
+No todas las cuentas son para ser usadas por usuarios, muchas son simplemente para correr aplicaciones o servidores (como apache)
+
+Para eso podes crear una cuenta que no tenga shell
+
+	useradd -c "cuenta para apache" -d /opt/apache -r -s /usr/sbin/nologin usuarioParaApache
+
+
+## Contenido default de la carpeta home
+
+El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk1MzQ3MSwtNDI3MzQ2MDgwXX0=
+eyJoaXN0b3J5IjpbLTkzMzI4MDc5OSwtMTQ5OTUzNDcxLC00Mj
+czNDYwODBdfQ==
 -->
