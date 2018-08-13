@@ -449,6 +449,31 @@ subject.subscribe(valor => console.log('consumer B: ' + valor));
 ````js
 subject.next('valor');
 ````
+
+# Async pipe en angular
+
+Cuando haces operaciones async con observables en angular vas a usar el **async** pipe, que **se subscribe** a un observable y te devuelve el ultimo valor emitido.
+
+## Trabajar con async objects  en template
+EJ:
+
+	// un atributo de un objeto que todavia no llego
+    [ngStyle]="{'background-image': 'url(' + rootApiUrl + (landsObservable | async)?.imagenes[0].url + ')'}"
+
+
+## Evitar multiples requests
+
+Como cada async pipe se **subscribe** y una subscripcion **genera una nueva instancia del observable** cada vez que llames al async pipe generas un nuevo **http ajax call**
+
+Para evitarlo usa **el operador share** que comparte un unico data stream entre todos los que se subscriban al obsevable
+
+	
+    this.landsObservable  =  this.route.params
+    .pipe(
+	    share()
+	    )
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI0NTI1MTIsLTk5MDkxNTE2Ml19
+eyJoaXN0b3J5IjpbLTYwNjI1MTkyLC0xOTAyNDUyNTEyLC05OT
+A5MTUxNjJdfQ==
 -->
