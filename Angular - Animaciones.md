@@ -40,7 +40,7 @@ import{BrowserAnimationsModule} from '@angular/platform-browser/animations'
 
 Finalmente se carga en un component de ese modulo como metadata
 ````js
-import{ { trigger, stylesate, style, animate, transition,state} from  '@angular/platform-browser/animations';
+import{ { trigger, stylesate, style, animate, transition,state} from  '@angular/animations'';
 @Component({ 
   animations:[animacion1, animacion2]
 })
@@ -280,5 +280,6 @@ Se coloca el nombre del **trigger** entre corchetes con una @, luego se coloca e
 ````
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjU0Mzg2MSwxMDM1NTI4NTE2XX0=
+eyJoaXN0b3J5IjpbLTQ5MTk3NzkwMSwtNTQ2NTQzODYxLDEwMz
+U1Mjg1MTZdfQ==
 -->
