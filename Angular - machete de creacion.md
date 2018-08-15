@@ -168,6 +168,37 @@ npm install @types/jquery --save-dev
 ```
 import  Siema  from  'siema';
 ```
+
+### Que se cargan de internet (google SDK)
+
+```
+
+var  script  =  document.createElement('script');
+
+script.onload  =  function () {
+
+//do stuff with the script
+
+};
+
+script.src  =  'https://apis.google.com/js/api.js';
+
+  
+
+document.head.appendChild(script); //or something of the likes
+
+  
+
+script.onload  = () => {
+
+gapi.load('auth2', function () {
+
+console.log("allDone!")
+
+});
+
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODIxOTM4OCwtNzAyODE4NDg0XX0=
+eyJoaXN0b3J5IjpbLTEyNDkyNzUyMzYsLTg0ODIxOTM4OCwtNz
+AyODE4NDg0XX0=
 -->
