@@ -175,8 +175,11 @@ Hay veces que no queda otra que cargar un script desde internet con AJAX, estos 
 **Eso implica:**
 * Indicarle a typescript que existe una variable global que sale de la galera
 * Importar el script desde una url 
-* Usarlñ
+* Usar el script recien cuando termina de cargar
+* El script reside en una variable global.
 
+
+Vamos a cargar el script generando con JS un script tag que vamos a meter en el HTML. esto lo podes hacer desde un component o un service.
 ```
 
     var script = document.createElement('script');
@@ -206,6 +209,6 @@ console.log("allDone!")
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjA1NzgzOSwtODQ4MjE5Mzg4LC03MD
+eyJoaXN0b3J5IjpbLTI1MDgxOTQxMCwtODQ4MjE5Mzg4LC03MD
 I4MTg0ODRdfQ==
 -->
