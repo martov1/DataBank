@@ -187,26 +187,19 @@ Vamos a cargar el script generando con JS un script tag que vamos a meter en el 
 	//colocas el script tag en el head de la pagina
     document.head.appendChild(script); 
 	
-	//
+	// Configuras un callback que funcione cuando se haya
+	//terminado de cargar la libreria, generalmente
+	//la propia libreria tiene una funco
     script.onload = () => {
       gapi.load('auth2', function () {
         console.log("allDone!")
       });
     }
-
-  
-
-script.onload  = () => {
-
-gapi.load('auth2', function () {
-
-console.log("allDone!")
-
-});
 }
+
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzMwMzYyMDgsLTg0ODIxOTM4OCwtNz
+eyJoaXN0b3J5IjpbLTIwNTQ0NTg0OTgsLTg0ODIxOTM4OCwtNz
 AyODE4NDg0XX0=
 -->
