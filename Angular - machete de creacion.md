@@ -171,21 +171,23 @@ import  Siema  from  'siema';
 
 ### Que se cargan de internet (google SDK)
 
+Hay veces que no queda otra que cargar un script desde internet con AJAX, estos scripts por lo general hacen uso de una variable global que te imponen en el objeto window. 
+
 ```
 
-var  script  =  document.createElement('script');
+    var script = document.createElement('script');
+    script.onload = function () {
+      //do stuff with the script
+    };
+    script.src = 'https://apis.google.com/js/api.js';
 
-script.onload  =  function () {
+    document.head.appendChild(script); //or something of the likes
 
-//do stuff with the script
-
-};
-
-script.src  =  'https://apis.google.com/js/api.js';
-
-  
-
-document.head.appendChild(script); //or something of the likes
+    script.onload = () => {
+      gapi.load('auth2', function () {
+        console.log("allDone!")
+      });
+    }ad.appendChild(script); //or something of the likes
 
   
 
@@ -196,9 +198,10 @@ gapi.load('auth2', function () {
 console.log("allDone!")
 
 });
-
 }
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDkyNzUyMzYsLTg0ODIxOTM4OCwtNz
-AyODE4NDg0XX0=
+eyJoaXN0b3J5IjpbMTY2NDQ0NTk5MiwtODQ4MjE5Mzg4LC03MD
+I4MTg0ODRdfQ==
 -->
