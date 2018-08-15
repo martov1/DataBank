@@ -180,21 +180,19 @@ Hay veces que no queda otra que cargar un script desde internet con AJAX, estos 
 
 
 Vamos a cargar el script generando con JS un script tag que vamos a meter en el HTML. esto lo podes hacer desde un component o un service.
-```
-
+```js
+	//Creas el tag y le pones el src de tu libreria 
     var script = document.createElement('script');
-    script.onload = function () {
-      //do stuff with the script
-    };
     script.src = 'https://apis.google.com/js/api.js';
-
-    document.head.appendChild(script); //or something of the likes
-
+	//colocas el script tag en el head de la pagina
+    document.head.appendChild(script); 
+	
+	//
     script.onload = () => {
       gapi.load('auth2', function () {
         console.log("allDone!")
       });
-    }ad.appendChild(script); //or something of the likes
+    }
 
   
 
@@ -209,6 +207,6 @@ console.log("allDone!")
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDgxOTQxMCwtODQ4MjE5Mzg4LC03MD
-I4MTg0ODRdfQ==
+eyJoaXN0b3J5IjpbLTE3NzMwMzYyMDgsLTg0ODIxOTM4OCwtNz
+AyODE4NDg0XX0=
 -->
