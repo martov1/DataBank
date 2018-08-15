@@ -171,7 +171,11 @@ import  Siema  from  'siema';
 
 ### Que se cargan de internet (google SDK)
 
-Hay veces que no queda otra que cargar un script desde internet con AJAX, estos scripts por lo general hacen uso de una variable global que te imponen en el objeto window. 
+Hay veces que no queda otra que cargar un script desde internet con AJAX, estos scripts **por lo general hacen uso de una variable global que te imponen en el objeto window.** 
+**Eso implica:**
+* Indicarle a typescript que existe una variable global que sale de la galera
+* Importar el script desde una url 
+* Usarlñ
 
 ```
 
@@ -202,6 +206,6 @@ console.log("allDone!")
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDQ0NTk5MiwtODQ4MjE5Mzg4LC03MD
+eyJoaXN0b3J5IjpbMTY4NjA1NzgzOSwtODQ4MjE5Mzg4LC03MD
 I4MTg0ODRdfQ==
 -->
