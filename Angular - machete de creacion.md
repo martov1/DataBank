@@ -189,7 +189,10 @@ Vamos a cargar el script generando con JS un script tag que vamos a meter en el 
 	
 	// Configuras un callback que funcione cuando se haya
 	//terminado de cargar la libreria, generalmente
-	//la propia libreria tiene una funco
+	//la propia libreria tiene una funcion que tenes
+	// que llamar para inicializarla. en este 
+	//caso es  gapi.load
+	
     script.onload = () => {
       gapi.load('auth2', function () {
         console.log("allDone!")
@@ -200,6 +203,6 @@ Vamos a cargar el script generando con JS un script tag que vamos a meter en el 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ0NTg0OTgsLTg0ODIxOTM4OCwtNz
-AyODE4NDg0XX0=
+eyJoaXN0b3J5IjpbLTg3NTU3MjIyMiwtODQ4MjE5Mzg4LC03MD
+I4MTg0ODRdfQ==
 -->
