@@ -368,6 +368,37 @@ Podes customizar los mensajes que son devueltos en caso de un error de validacio
 	    ];
 	}
 ```
+
+### Validadores custom locales
+
+Podes tener validadores creados directamente en el form request para validar algo puntual
+
+```php
+use Illuminate\Validation\Factory as ValidationFactory;
+
+class UpdateMyUserRequest extends FormRequest {
+
+    public function __construct(ValidationFactory $validationFactory)
+    {
+
+        $validationFactory->extend(
+            'foo',
+            function ($attribute, $value, $parameters) {
+                return 'foo' === $value;
+            },
+            'Sorry, it failed foo validation!'
+        );
+
+    }
+
+    public function rules()
+    {
+        return [
+            'username' => 'foo',
+        ];
+    }
+}
+```
 ## Trabajar con mensajes de error
 
 * **El primer mensaje de error de un campo** (cada rule genera un error distinto para el mismo campo) se puede obtener asi:
@@ -516,5 +547,6 @@ Una vez que tenes el validador podes añadirle una logica para validar.
 		});
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODA1NjgwMzJdfQ==
+eyJoaXN0b3J5IjpbLTEzMTc3OTM3NjYsLTE4ODA1NjgwMzJdfQ
+==
 -->
