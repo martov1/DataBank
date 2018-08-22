@@ -171,5 +171,5 @@ Permiten que el usuario **visualice algo (PDF, JPG, etc) en el browser sin trigg
 	return response()->file($pathToFile, $headers);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODQ4NzY4XX0=
+eyJoaXN0b3J5IjpbLTE5MzIxMDQ3MTEsMTU4ODQ4NzY4XX0=
 -->
