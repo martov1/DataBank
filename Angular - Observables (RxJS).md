@@ -450,6 +450,33 @@ subject.subscribe(valor => console.log('consumer B: ' + valor));
 subject.next('valor');
 ````
 
+# Behaviour Subject
+
+Son observables diseñados para lidiar con valores que cambian a lo largo del tiempo, se parecen un poco a las pormesas.
+
+* manitnenen **siempre el ultimo valor emitido**
+* Te permiten **ver el valor actual**
+* Son **singletons**
+* Permiten **subscripcion**
+* Permiten **emitir valores a demanda**
+* Necesitan un **valor inicial**
+
+````js
+//false es el valor inicial
+googleIsReady  =  new  BehaviorSubject(false);
+//... cosas en el medio
+//Cambio su valor a true, todos los subscribers se activan con este nuevo valor emitido.
+googleIsReady.next(true)
+//...
+//Necesito obtener el valor en algun momento del codigo
+//, hago asi
+googleIsReady.getValue() //true
+//KMe subscbrbo si tengo ganas
+googleIsReady.subscribe(...)
+````
+
+
+
 # Async pipe en angular
 
 Cuando haces operaciones async con observables en angular vas a usar el **async** pipe, que **se subscribe** a un observable y te devuelve el ultimo valor emitido.
@@ -474,6 +501,6 @@ Para evitarlo usa **el operador share** que comparte un unico data stream entre 
 	    )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjI1MTkyLC0xOTAyNDUyNTEyLC05OT
-A5MTUxNjJdfQ==
+eyJoaXN0b3J5IjpbMTg3NTE3OTcxNywtNjA2MjUxOTIsLTE5MD
+I0NTI1MTIsLTk5MDkxNTE2Ml19
 -->
