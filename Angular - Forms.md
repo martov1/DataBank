@@ -369,5 +369,5 @@ Tambien podes usar **Validator functions** si fuera necesario, que pueden ser
 
 > hay funciones validator predefinidas con los mismas funciones de validacion que la validacion HTML
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk5Njg5OTldfQ==
+eyJoaXN0b3J5IjpbMjAwMjYzMzUzOSwtMTMwOTk2ODk5OV19
 -->
