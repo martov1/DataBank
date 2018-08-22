@@ -527,6 +527,6 @@ Podes usar **componentFactoryResolver** para instanciar un componente a partir d
 })
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDk3Mzc3NiwtNjUwNjEyODI3LC0xOT
-IwMjcwMjAzXX0=
+eyJoaXN0b3J5IjpbMTY2MTY3MDY2NSwtNTk0OTczNzc2LC02NT
+A2MTI4MjcsLTE5MjAyNzAyMDNdfQ==
 -->
