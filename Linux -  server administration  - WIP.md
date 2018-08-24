@@ -494,6 +494,6 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzI4MDc5OSwtMTQ5OTUzNDcxLC00Mj
-czNDYwODBdfQ==
+eyJoaXN0b3J5IjpbLTIxNjEzNzMyMywtOTMzMjgwNzk5LC0xND
+k5NTM0NzEsLTQyNzM0NjA4MF19
 -->
