@@ -596,5 +596,5 @@ Podes enviar cosas usando condicionales
 	                ->header('X-Value', 'True');
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzIwNTM1MDZdfQ==
+eyJoaXN0b3J5IjpbMTg2NjQ2MjgxMiwtMTAzMjA1MzUwNl19
 -->
