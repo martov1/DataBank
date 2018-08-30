@@ -280,6 +280,6 @@ Se coloca el nombre del **trigger** entre corchetes con una @, luego se coloca e
 ````
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTk3NzkwMSwtNTQ2NTQzODYxLDEwMz
-U1Mjg1MTZdfQ==
+eyJoaXN0b3J5IjpbMTQwMjY4Mzg5MiwtNDkxOTc3OTAxLC01ND
+Y1NDM4NjEsMTAzNTUyODUxNl19
 -->
