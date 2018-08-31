@@ -878,5 +878,5 @@ Cargas todos los datos de contacto de cada autor.
 		}
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY4MzgzMDddfQ==
+eyJoaXN0b3J5IjpbMjAzNTI0MTE2MiwtMTEyNjgzODMwN119
 -->
