@@ -232,5 +232,5 @@ Los queue workers son procesos que pueden quedar activos mucho tiempo con una co
 	php artisan queue:restart
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg3NTAwNTBdfQ==
+eyJoaXN0b3J5IjpbNjYyMTQ0MjU2LC0xNjM4NzUwMDUwXX0=
 -->
