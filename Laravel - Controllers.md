@@ -325,6 +325,6 @@ Podes añadir metodos customizados directamente en el controller, Pero es import
 	Route::resource('photos', 'PhotoController');	
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5MjIzMTg5LC0xODA3Mzc5MjYwLDcxMD
-UwNzg4OF19
+eyJoaXN0b3J5IjpbNDI5NzcwODI4LDg3OTIyMzE4OSwtMTgwNz
+M3OTI2MCw3MTA1MDc4ODhdfQ==
 -->
