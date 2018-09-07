@@ -271,5 +271,5 @@ Cuando queres matchear un elemento **cuando una cierta palabra o patron NO viene
  * samsung pocket
  * nokia **1100**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTEzOV19
+eyJoaXN0b3J5IjpbMTg2MDQ3Nzg0NSwtOTY1MTM5XX0=
 -->
