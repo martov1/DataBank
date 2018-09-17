@@ -323,6 +323,7 @@ Abort consiste en;
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDg5MjIyNSwxNDU4NDc2MTMwLC02NT
-gzMDY4NTksMTY2NDk2MzczMCwtNTA2OTMzNjc3XX0=
+eyJoaXN0b3J5IjpbMTc4Njc0NTc4NCwtOTMwODkyMjI1LDE0NT
+g0NzYxMzAsLTY1ODMwNjg1OSwxNjY0OTYzNzMwLC01MDY5MzM2
+NzddfQ==
 -->
