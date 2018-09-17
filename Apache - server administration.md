@@ -351,13 +351,17 @@ El access log loguea todos los request procesados por el server, su ubicacion y 
 
 Si las directivas se colocan dentro de la section \<virtualHost\> entonces se guardara solo el log respectivo a ese virtual host en el archivo declarado en ese **CustomLog**
 
+## Modulo  Mod_rewrite
+
+El modulo mod_rewrite permite utilizar regular expressions para parsear una URL y redirigirla a otra URL, un PATH del file system o un proxi interno.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTEwNDE2MSwxNTg1ODM1Njc0LDEyNz
-k0NjM2ODcsLTIyNjYyNDA2MCwtMjA3NjE0Njk0LC04NzU3ODMz
-MTYsMjg4Njk0ODgyLDEzOTUwMDg2MjAsLTk1ODczNTk3MywtMT
-g3ODI4NDUzOSwxOTQ4NjkwNjgxLC03ODc1MDg1NTcsMTgxMDky
-ODE3OCw0NjQ4ODYzNzcsMTgyNjIxNjk5MSwtODQ3NDQyMjE5LD
-k4NDQwMzAyOCwxMTk5NTc3NTkxLDE2OTY2MTY2NDMsMTc4OTMy
-NDgwXX0=
+eyJoaXN0b3J5IjpbNzYxMTIwNzYwLDE1NDkxMDQxNjEsMTU4NT
+gzNTY3NCwxMjc5NDYzNjg3LC0yMjY2MjQwNjAsLTIwNzYxNDY5
+NCwtODc1NzgzMzE2LDI4ODY5NDg4MiwxMzk1MDA4NjIwLC05NT
+g3MzU5NzMsLTE4NzgyODQ1MzksMTk0ODY5MDY4MSwtNzg3NTA4
+NTU3LDE4MTA5MjgxNzgsNDY0ODg2Mzc3LDE4MjYyMTY5OTEsLT
+g0NzQ0MjIxOSw5ODQ0MDMwMjgsMTE5OTU3NzU5MSwxNjk2NjE2
+NjQzXX0=
 -->
