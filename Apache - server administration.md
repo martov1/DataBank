@@ -1,6 +1,6 @@
 
 **Me quede en** https://httpd.apache.org/docs/current/mod/mod_rewrite.html#rewritebase
-  
+  **Articulo espectacular** https://code.tutsplus.com/tutorials/an-in-depth-guide-to-mod_rewrite-for-apache--net-6708
 # Intro
 
 ## Conceptos basicos
@@ -360,11 +360,11 @@ Podes loguear las acciones de Mod_rewrite asi
 	LogLevel alert rewrite:trace3
 >Los log levels van desde trace0 a trace9, no uses para produccion nada mayor a trace2 por que va a ralentizar el server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwMjgyNTMyLDEzMzAwMjEyOTAsMTU0OT
-EwNDE2MSwxNTg1ODM1Njc0LDEyNzk0NjM2ODcsLTIyNjYyNDA2
-MCwtMjA3NjE0Njk0LC04NzU3ODMzMTYsMjg4Njk0ODgyLDEzOT
-UwMDg2MjAsLTk1ODczNTk3MywtMTg3ODI4NDUzOSwxOTQ4Njkw
-NjgxLC03ODc1MDg1NTcsMTgxMDkyODE3OCw0NjQ4ODYzNzcsMT
-gyNjIxNjk5MSwtODQ3NDQyMjE5LDk4NDQwMzAyOCwxMTk5NTc3
-NTkxXX0=
+eyJoaXN0b3J5IjpbLTExMTM0NjAxNjUsMTMzMDAyMTI5MCwxNT
+Q5MTA0MTYxLDE1ODU4MzU2NzQsMTI3OTQ2MzY4NywtMjI2NjI0
+MDYwLC0yMDc2MTQ2OTQsLTg3NTc4MzMxNiwyODg2OTQ4ODIsMT
+M5NTAwODYyMCwtOTU4NzM1OTczLC0xODc4Mjg0NTM5LDE5NDg2
+OTA2ODEsLTc4NzUwODU1NywxODEwOTI4MTc4LDQ2NDg4NjM3Ny
+wxODI2MjE2OTkxLC04NDc0NDIyMTksOTg0NDAzMDI4LDExOTk1
+Nzc1OTFdfQ==
 -->
