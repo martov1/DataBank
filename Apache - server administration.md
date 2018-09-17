@@ -1,9 +1,6 @@
 
-* DOCS: http://httpd.apache.org/docs/current/
-
-CURSO
-https://www.youtube.com/watch?v=gPOliFwMFCk&list=PLbjlI3cowd5-pvfO521ejRI1Q6abFkNQc
-
+**Me quede en** https://httpd.apache.org/docs/current/mod/mod_rewrite.html#rewritebase
+  
 # Intro
 
 ## Conceptos basicos
@@ -363,11 +360,11 @@ Podes loguear las acciones de Mod_rewrite asi
 	LogLevel alert rewrite:trace3
 >Los log levels van desde trace0 a trace9, no uses para produccion nada mayor a trace2 por que va a ralentizar el server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDAyMTI5MCwxNTQ5MTA0MTYxLDE1OD
-U4MzU2NzQsMTI3OTQ2MzY4NywtMjI2NjI0MDYwLC0yMDc2MTQ2
-OTQsLTg3NTc4MzMxNiwyODg2OTQ4ODIsMTM5NTAwODYyMCwtOT
-U4NzM1OTczLC0xODc4Mjg0NTM5LDE5NDg2OTA2ODEsLTc4NzUw
-ODU1NywxODEwOTI4MTc4LDQ2NDg4NjM3NywxODI2MjE2OTkxLC
-04NDc0NDIyMTksOTg0NDAzMDI4LDExOTk1Nzc1OTEsMTY5NjYx
-NjY0M119
+eyJoaXN0b3J5IjpbNjIwMjgyNTMyLDEzMzAwMjEyOTAsMTU0OT
+EwNDE2MSwxNTg1ODM1Njc0LDEyNzk0NjM2ODcsLTIyNjYyNDA2
+MCwtMjA3NjE0Njk0LC04NzU3ODMzMTYsMjg4Njk0ODgyLDEzOT
+UwMDg2MjAsLTk1ODczNTk3MywtMTg3ODI4NDUzOSwxOTQ4Njkw
+NjgxLC03ODc1MDg1NTcsMTgxMDkyODE3OCw0NjQ4ODYzNzcsMT
+gyNjIxNjk5MSwtODQ3NDQyMjE5LDk4NDQwMzAyOCwxMTk5NTc3
+NTkxXX0=
 -->
