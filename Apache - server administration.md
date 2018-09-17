@@ -355,9 +355,15 @@ Si las directivas se colocan dentro de la section \<virtualHost\> entonces se gu
 
 El modulo mod_rewrite permite utilizar regular expressions para parsear una URL y redirigirla a otra URL, un PATH del file system o un proxi interno. el parsing se realiza en cada nuevo HTTP request.
 
-Mod_rewrite permite tener una cantidad ilimitada de reglas y cada regla puede tener una cantidad ilimitada de condiciones que pueden estar basadas en **variables del server, de environment, HTTP hea**
+Mod_rewrite permite tener una cantidad ilimitada de reglas y cada regla puede tener una cantidad ilimitada de condiciones que pueden estar basadas en **variables del server, de environment, HTTP headers o time stamps**
+
+### Logging
+Podes loguear las acciones de Mod_rewrite asi 
+
+	LogLevel alert rewrite:trace3
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Mzc4MTUzNCwxNTQ5MTA0MTYxLDE1OD
+eyJoaXN0b3J5IjpbMTI0NTgxNDU2NCwxNTQ5MTA0MTYxLDE1OD
 U4MzU2NzQsMTI3OTQ2MzY4NywtMjI2NjI0MDYwLC0yMDc2MTQ2
 OTQsLTg3NTc4MzMxNiwyODg2OTQ4ODIsMTM5NTAwODYyMCwtOT
 U4NzM1OTczLC0xODc4Mjg0NTM5LDE5NDg2OTA2ODEsLTc4NzUw
