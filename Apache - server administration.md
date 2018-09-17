@@ -361,9 +361,9 @@ Mod_rewrite permite tener una cantidad ilimitada de reglas y cada regla puede te
 Podes loguear las acciones de Mod_rewrite asi 
 
 	LogLevel alert rewrite:trace3
-	
+>Los log levels van desde trace0 a trace9, no uses para produccion nada mayor a trace2 por que va a ralentizar el server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTgxNDU2NCwxNTQ5MTA0MTYxLDE1OD
+eyJoaXN0b3J5IjpbMTMzMDAyMTI5MCwxNTQ5MTA0MTYxLDE1OD
 U4MzU2NzQsMTI3OTQ2MzY4NywtMjI2NjI0MDYwLC0yMDc2MTQ2
 OTQsLTg3NTc4MzMxNiwyODg2OTQ4ODIsMTM5NTAwODYyMCwtOT
 U4NzM1OTczLC0xODc4Mjg0NTM5LDE5NDg2OTA2ODEsLTc4NzUw
