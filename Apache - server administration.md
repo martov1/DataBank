@@ -353,15 +353,15 @@ Si las directivas se colocan dentro de la section \<virtualHost\> entonces se gu
 
 ## Modulo  Mod_rewrite
 
-El modulo mod_rewrite permite utilizar regular expressions para parsear una URL y redirigirla a otra URL, un PATH del file system o un proxi interno.
+El modulo mod_rewrite permite utilizar regular expressions para parsear una URL y redirigirla a otra URL, un PATH del file system o un proxi interno. el parsing se realiza en cada nuevo HTTP request.
 
-
+Mod_rewrite permite tener una cantidad ilimitada de reglas y cada regla puede tener una cantidad ilimitada de condiciones que pueden estar basadas en **variables del server, de environment, HTTP hea**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMTIwNzYwLDE1NDkxMDQxNjEsMTU4NT
-gzNTY3NCwxMjc5NDYzNjg3LC0yMjY2MjQwNjAsLTIwNzYxNDY5
-NCwtODc1NzgzMzE2LDI4ODY5NDg4MiwxMzk1MDA4NjIwLC05NT
-g3MzU5NzMsLTE4NzgyODQ1MzksMTk0ODY5MDY4MSwtNzg3NTA4
-NTU3LDE4MTA5MjgxNzgsNDY0ODg2Mzc3LDE4MjYyMTY5OTEsLT
-g0NzQ0MjIxOSw5ODQ0MDMwMjgsMTE5OTU3NzU5MSwxNjk2NjE2
-NjQzXX0=
+eyJoaXN0b3J5IjpbMTc2Mzc4MTUzNCwxNTQ5MTA0MTYxLDE1OD
+U4MzU2NzQsMTI3OTQ2MzY4NywtMjI2NjI0MDYwLC0yMDc2MTQ2
+OTQsLTg3NTc4MzMxNiwyODg2OTQ4ODIsMTM5NTAwODYyMCwtOT
+U4NzM1OTczLC0xODc4Mjg0NTM5LDE5NDg2OTA2ODEsLTc4NzUw
+ODU1NywxODEwOTI4MTc4LDQ2NDg4NjM3NywxODI2MjE2OTkxLC
+04NDc0NDIyMTksOTg0NDAzMDI4LDExOTk1Nzc1OTEsMTY5NjYx
+NjY0M119
 -->
