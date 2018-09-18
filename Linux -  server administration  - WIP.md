@@ -436,7 +436,6 @@ ej:
 	0 7 * * 1 ls
 
 Podes indicar que queres **correr el comando varias veces** usando una **coma**
-	#Correr ls en el minuto cero, a las 7AM todos los dias del mes, todos los meses, los martes
 	
 	#Correr el comando en todos los minutos 0 y 30 de cada hora
 	0,30 * * * * ls
@@ -475,6 +474,12 @@ Los usuarios siempre tienen
 	username:password:UID:GID:comments:home_dir:shell
 Las contraseñas actualmente se guardan en el _**shadow file**_ ubicado en **/etc/shadow** de manera encriptada.
 
+## Cambiar de usuario
+
+Para cambiar de usuario podes hacer lo siguiente
+
+	su
+
 ## Administrar usuarios
 
 Podes **añadir usuarios** con **useradd** y colocar una contraseña con **passwd**, esto requirer siempre permisos de **root**
@@ -509,7 +514,8 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTE2MDE5NCwtODA3Mjk4Mjc0LDYyNz
-A4NTE5NiwxODYxNTE4NTQ3LC0yMTYxMzczMjMsLTkzMzI4MDc5
-OSwtMTQ5OTUzNDcxLC00MjczNDYwODBdfQ==
+eyJoaXN0b3J5IjpbLTE3MDU0ODcxNTIsMjA3OTE2MDE5NCwtOD
+A3Mjk4Mjc0LDYyNzA4NTE5NiwxODYxNTE4NTQ3LC0yMTYxMzcz
+MjMsLTkzMzI4MDc5OSwtMTQ5OTUzNDcxLC00MjczNDYwODBdfQ
+==
 -->
