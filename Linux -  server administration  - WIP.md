@@ -323,6 +323,8 @@ Podes cambiar el propietario del owner de un archivo siendo **root**
 	chown miUser elArchivo.txt
 
 ## Busqueda en el filesystem
+
+
 ### FIND - buscar un archivo o directorio
 
 Se usa asi:
@@ -339,7 +341,9 @@ Se usa asi:
 * **newer archivo** : Busca archivos mas nuevos que el archivo provisto
 * **-exec command {}\;** : ejecuta un comando sobre cada archivo encontrado 
 
+### LOCATE - buscar un archivo o directorio
 
+Es una alternativa mas rapida a FIND, funciona con un indice interno de linux que es reconstruido una serie de veces por dia, entonces **Los resultados provistos pueden estar desactualizados**
 
 ### GREP - Buscar dentro de un archivo
 
@@ -501,7 +505,7 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTAyOTM2NywxODYxNTE4NTQ3LC0yMT
-YxMzczMjMsLTkzMzI4MDc5OSwtMTQ5OTUzNDcxLC00MjczNDYw
-ODBdfQ==
+eyJoaXN0b3J5IjpbNjI3MDg1MTk2LDE4NjE1MTg1NDcsLTIxNj
+EzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0NjA4
+MF19
 -->
