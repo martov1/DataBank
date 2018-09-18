@@ -3,8 +3,10 @@ ver https://www.udemy.com/linux-administration-bootcamp/
 
 ver https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
-**Me quede en:** 013 Getting Help at the Command Line
-
+**Me quede en:** 
+042 Disk Management - Part Two - Creating Partitions with fdisk.mp4
+040 System Logging
+				
 
 **VER:**
 * 018 Finding Files and Directories
@@ -553,7 +555,7 @@ El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home de
 
 # Disk management - WIP
 
-me quede en 
+**me quede en** 042 Disk Management - Part Two - Creating Partitions with fdisk.mp4
 
 Las particiones y todos los medios de almacenamiento se montan debajo de **/**, aunque **podes montar particiones en cualquier lugar del file system, tambien pueden estar anidados en otras particiones**
 
@@ -564,8 +566,8 @@ Para ver los dispositivos de almacenamiento y como estan particionados podes hac
 
 	fdisk -l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzkwMTg4LDE4NzYzNDU0NTMsMTc1Nj
-g4MjUwNywxMDAzMjMxMDk0LDIwNzkxNjAxOTQsLTgwNzI5ODI3
-NCw2MjcwODUxOTYsMTg2MTUxODU0NywtMjE2MTM3MzIzLC05Mz
-MyODA3OTksLTE0OTk1MzQ3MSwtNDI3MzQ2MDgwXX0=
+eyJoaXN0b3J5IjpbLTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3NT
+Y4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MTYwMTk0LC04MDcyOTgy
+NzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcsLTIxNjEzNzMyMywtOT
+MzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0NjA4MF19
 -->
