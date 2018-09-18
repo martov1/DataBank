@@ -104,6 +104,12 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
 	```
 	[juan@host ~]$ echo $home
 	```
+ ### Crear environment variables
+
+Para crear una environment variable, haces
+```
+
+	export MIVARIABLE="el valor"
  
 ## $PATH  environment variable
 
@@ -208,7 +214,7 @@ Los permisos tienen la siguiente simbologia
 | x       | Execute | Ejecutar el archivo  | hacer cd al directorio, traversearlo, leer el contenido (sin r o w lo estas haciendo a ciegas y tenes que saber los nombres de antemano) |
 
 EJ:
-```
+```bash
 $ mkdir -p dir/
 $ echo 'Hello World!' > dir/file
 $ chmod 000 dir/
@@ -520,7 +526,8 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODMyMTM5LDIwNzkxNjAxOTQsLTgwNz
-I5ODI3NCw2MjcwODUxOTYsMTg2MTUxODU0NywtMjE2MTM3MzIz
-LC05MzMyODA3OTksLTE0OTk1MzQ3MSwtNDI3MzQ2MDgwXX0=
+eyJoaXN0b3J5IjpbLTE2ODk1NjEzNjksMjA3OTE2MDE5NCwtOD
+A3Mjk4Mjc0LDYyNzA4NTE5NiwxODYxNTE4NTQ3LC0yMTYxMzcz
+MjMsLTkzMzI4MDc5OSwtMTQ5OTUzNDcxLC00MjczNDYwODBdfQ
+==
 -->
