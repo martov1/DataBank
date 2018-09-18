@@ -310,5 +310,5 @@ get_post_meta($post->ID,'clima', true)
 
 ## Programatic custom fields - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMDQxODg5XX0=
+eyJoaXN0b3J5IjpbLTE0Mjk4Mzk4MjMsMjgwMDQxODg5XX0=
 -->
