@@ -329,9 +329,9 @@ Podes cambiar el propietario del owner de un archivo siendo **root**
 #### Find
 
 Se usa asi:
-
-find PATH PATTERN
-
+```bash
+	find PATH PATTERN
+```
 
 
 ### Buscar en un archivo - Grep
@@ -494,6 +494,6 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjEzNzMyMywtOTMzMjgwNzk5LC0xND
-k5NTM0NzEsLTQyNzM0NjA4MF19
+eyJoaXN0b3J5IjpbLTIzODA5OTUxLC0yMTYxMzczMjMsLTkzMz
+I4MDc5OSwtMTQ5OTUzNDcxLC00MjczNDYwODBdfQ==
 -->
