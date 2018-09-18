@@ -369,5 +369,5 @@ Ahora podes crear menues en el admin y asignarlos a esa ubicacion
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjE1NTkwMV19
+eyJoaXN0b3J5IjpbMTg4MDM4NDE3NiwtNjU2MTU1OTAxXX0=
 -->
