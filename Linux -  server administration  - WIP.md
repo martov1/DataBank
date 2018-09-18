@@ -546,9 +546,13 @@ Una vez que hiciste eso, podrias arrancar un programa bajo los permisos de ese u
 ## Contenido default de la carpeta home
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
+
+# Logging - WIP
+
+**ver:** 040 System Logging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Njg4MjUwNywxMDAzMjMxMDk0LDIwNz
-kxNjAxOTQsLTgwNzI5ODI3NCw2MjcwODUxOTYsMTg2MTUxODU0
-NywtMjE2MTM3MzIzLC05MzMyODA3OTksLTE0OTk1MzQ3MSwtND
-I3MzQ2MDgwXX0=
+eyJoaXN0b3J5IjpbMTg3NjM0NTQ1MywxNzU2ODgyNTA3LDEwMD
+MyMzEwOTQsMjA3OTE2MDE5NCwtODA3Mjk4Mjc0LDYyNzA4NTE5
+NiwxODYxNTE4NTQ3LC0yMTYxMzczMjMsLTkzMzI4MDc5OSwtMT
+Q5OTUzNDcxLC00MjczNDYwODBdfQ==
 -->
