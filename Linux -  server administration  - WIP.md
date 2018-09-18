@@ -107,10 +107,11 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
  ### Crear environment variables
 
 Para crear una environment variable, haces
-```
 
+```bash
 	export MIVARIABLE="el valor"
- 
+ ```
+
 ## $PATH  environment variable
 
 Es una variable del shell que contiene una **lista de directorios donde se buscaran los ejecutables de los comandos que tipeas** (EJ: ls, pwd, man, etc).
@@ -490,7 +491,7 @@ Si no provees un nombre de usuario entonces linux intenta loguearte en el root.
 
 Tambien podes correr un comando particular como un usuari
 
-		su nombreDeUsuario -comando
+		su nombreDeUsuario -c miComando
 
 ## Administrar usuarios
 
@@ -526,8 +527,7 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk1NjEzNjksMjA3OTE2MDE5NCwtOD
-A3Mjk4Mjc0LDYyNzA4NTE5NiwxODYxNTE4NTQ3LC0yMTYxMzcz
-MjMsLTkzMzI4MDc5OSwtMTQ5OTUzNDcxLC00MjczNDYwODBdfQ
-==
+eyJoaXN0b3J5IjpbMTAwMzIzMTA5NCwyMDc5MTYwMTk0LC04MD
+cyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcsLTIxNjEzNzMy
+MywtOTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0NjA4MF19
 -->
