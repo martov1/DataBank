@@ -359,6 +359,8 @@ Se usa asi
 grep -u "mi Patron De Busqueda" miArchivo.txt
 ```
 
+·
+
 
 # Process and job control
 
@@ -505,7 +507,7 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3MDg1MTk2LDE4NjE1MTg1NDcsLTIxNj
-EzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0NjA4
-MF19
+eyJoaXN0b3J5IjpbLTExNDkwOTA1ODksNjI3MDg1MTk2LDE4Nj
+E1MTg1NDcsLTIxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0
+NzEsLTQyNzM0NjA4MF19
 -->
