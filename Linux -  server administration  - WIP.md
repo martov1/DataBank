@@ -322,11 +322,8 @@ Podes cambiar el propietario del owner de un archivo siendo **root**
 
 	chown miUser elArchivo.txt
 
-## Buscar archivos - WIP
-
-### Buscar archivos y carpetas - WIP
-
-#### Find
+## Busqueda en el filesystem
+### FIND - buscar en un archivo
 
 Se usa asi:
 
@@ -335,8 +332,8 @@ Se usa asi:
 ```
  **Opciones:**
  * **-name patron** : Busca archivos y directorios con nombre que matchee ese patron 
- * **strong text**
-
+ * **-iname patron** : igual que name pero es case-insensitive
+* **-ls** : hace un ls en la ubicacion de cada elemento encontrado
 
 ### Buscar en un archivo - Grep
 
@@ -498,6 +495,6 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTgwMzk5MCwtMjE2MTM3MzIzLC05Mz
-MyODA3OTksLTE0OTk1MzQ3MSwtNDI3MzQ2MDgwXX0=
+eyJoaXN0b3J5IjpbNjE4NDk3MDc3LC0yMTYxMzczMjMsLTkzMz
+I4MDc5OSwtMTQ5OTUzNDcxLC00MjczNDYwODBdfQ==
 -->
