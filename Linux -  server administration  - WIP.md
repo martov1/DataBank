@@ -538,15 +538,17 @@ Para eso podes crear una cuenta que no tenga shell
 
 	useradd -c "cuenta para apache" -d /opt/apache -r -s /usr/sbin/nologin usuarioParaApache
 
-Una vez que hiciste eso, podrias arrancar un programa bajo los permisos de ese usuario usando **SU o SUDO** 	sudo -u elusuario comando
+Una vez que hiciste eso, podrias arrancar un programa bajo los permisos de ese usuario usando **SU o SUDO**
+
+ 	sudo -u "cuenta para apache" comando
 
 
 ## Contenido default de la carpeta home
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjM4OTQsMTAwMzIzMTA5NCwyMDc5MT
-YwMTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcs
-LTIxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNz
-M0NjA4MF19
+eyJoaXN0b3J5IjpbMTc1Njg4MjUwNywxMDAzMjMxMDk0LDIwNz
+kxNjAxOTQsLTgwNzI5ODI3NCw2MjcwODUxOTYsMTg2MTUxODU0
+NywtMjE2MTM3MzIzLC05MzMyODA3OTksLTE0OTk1MzQ3MSwtND
+I3MzQ2MDgwXX0=
 -->
