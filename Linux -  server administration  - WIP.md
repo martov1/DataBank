@@ -478,7 +478,13 @@ Las contraseñas actualmente se guardan en el _**shadow file**_ ubicado en **/et
 
 Para cambiar de usuario podes hacer lo siguiente
 
-	su
+	su nombreDeUsuario
+
+Si no provees un nombre de usuario entonces linux intenta loguearte en el root.
+
+Tambien podes correr un comando particular como un usuari
+
+		su nombreDeUsuario -comando
 
 ## Administrar usuarios
 
@@ -514,8 +520,7 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU0ODcxNTIsMjA3OTE2MDE5NCwtOD
-A3Mjk4Mjc0LDYyNzA4NTE5NiwxODYxNTE4NTQ3LC0yMTYxMzcz
-MjMsLTkzMzI4MDc5OSwtMTQ5OTUzNDcxLC00MjczNDYwODBdfQ
-==
+eyJoaXN0b3J5IjpbLTQ3ODMyMTM5LDIwNzkxNjAxOTQsLTgwNz
+I5ODI3NCw2MjcwODUxOTYsMTg2MTUxODU0NywtMjE2MTM3MzIz
+LC05MzMyODA3OTksLTE0OTk1MzQ3MSwtNDI3MzQ2MDgwXX0=
 -->
