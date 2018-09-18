@@ -323,7 +323,7 @@ Podes cambiar el propietario del owner de un archivo siendo **root**
 	chown miUser elArchivo.txt
 
 ## Busqueda en el filesystem
-### FIND - buscar en un archivo
+### FIND - buscar un archivo o directorio
 
 Se usa asi:
 
@@ -334,8 +334,10 @@ Se usa asi:
  * **-name patron** : Busca archivos y directorios con nombre que matchee ese patron 
  * **-iname patron** : igual que name pero es case-insensitive
 * **-ls** : hace un ls en la ubicacion de cada elemento encontrado
+* -**-mtime** : Buscar por **m** odification **time** en dias
+* **-s** 
 
-### Buscar en un archivo - Grep
+### GREP - Buscar dentro de un archivo
 
 Grep te permite encontrar cosas dentro de un archivo
 parametros:
@@ -345,7 +347,7 @@ parametros:
 * **v** - Buscar aquellas lineas que NO coinciden con el patron de busqueda
 Se usa asi
 
-```
+```bash
 grep -u "mi Patron De Busqueda" miArchivo.txt
 ```
 
@@ -495,6 +497,6 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4NDk3MDc3LC0yMTYxMzczMjMsLTkzMz
+eyJoaXN0b3J5IjpbMjE1NTYwMjExLC0yMTYxMzczMjMsLTkzMz
 I4MDc5OSwtMTQ5OTUzNDcxLC00MjczNDYwODBdfQ==
 -->
