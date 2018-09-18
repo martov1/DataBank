@@ -493,6 +493,8 @@ Tambien podes correr un comando particular como un usuari
 
 		su nombreDeUsuario -c miComando
 
+**Podes usar un guion para indicar que queres usar el environment de ese usuario tambien**
+
 ## Administrar usuarios
 
 Podes **añadir usuarios** con **useradd** y colocar una contraseña con **passwd**, esto requirer siempre permisos de **root**
@@ -527,7 +529,8 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzIzMTA5NCwyMDc5MTYwMTk0LC04MD
-cyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcsLTIxNjEzNzMy
-MywtOTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0NjA4MF19
+eyJoaXN0b3J5IjpbMTU1MDE4MTEzOCwxMDAzMjMxMDk0LDIwNz
+kxNjAxOTQsLTgwNzI5ODI3NCw2MjcwODUxOTYsMTg2MTUxODU0
+NywtMjE2MTM3MzIzLC05MzMyODA3OTksLTE0OTk1MzQ3MSwtND
+I3MzQ2MDgwXX0=
 -->
