@@ -336,7 +336,7 @@ Se usa asi:
 * **-ls** : hace un ls en la ubicacion de cada elemento encontrado
 * -**-mtime numero** : Buscar por **m** odification **time** en dias
 * **-size numero** : Buscar archivos de tamaño num
-* **newer archivo** - 
+* **newer archivo** : Busca archivos mas nuevos que el archivo provisto
 * **-exec command {}\;** : ejecuta un comando sobre cada archivo encontrado 
 
 ### GREP - Buscar dentro de un archivo
@@ -499,6 +499,6 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTQ0NDM0NiwtMjE2MTM3MzIzLC05Mz
+eyJoaXN0b3J5IjpbMTg2MTUxODU0NywtMjE2MTM3MzIzLC05Mz
 MyODA3OTksLTE0OTk1MzQ3MSwtNDI3MzQ2MDgwXX0=
 -->
