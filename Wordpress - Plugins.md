@@ -307,5 +307,5 @@ get_option('miSetting1')
 Este boilerplate define todo de manera muy limpia.
 https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTMwNjI3MV19
+eyJoaXN0b3J5IjpbMTY3MDk3OTYzNywtOTQ5MzA2MjcxXX0=
 -->
