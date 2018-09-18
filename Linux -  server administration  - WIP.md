@@ -550,9 +550,13 @@ El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home de
 # Logging - WIP
 
 **ver:** 040 System Logging
+
+# Disk management
+
+Las particiones y todos los medios de almacenamiento se montan debajo de **/**, aunque **podes montar particiones en cualquier lugar del file system, tambien pueden estar ani**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjM0NTQ1MywxNzU2ODgyNTA3LDEwMD
-MyMzEwOTQsMjA3OTE2MDE5NCwtODA3Mjk4Mjc0LDYyNzA4NTE5
-NiwxODYxNTE4NTQ3LC0yMTYxMzczMjMsLTkzMzI4MDc5OSwtMT
-Q5OTUzNDcxLC00MjczNDYwODBdfQ==
+eyJoaXN0b3J5IjpbLTk2NzM2NDE4LDE4NzYzNDU0NTMsMTc1Nj
+g4MjUwNywxMDAzMjMxMDk0LDIwNzkxNjAxOTQsLTgwNzI5ODI3
+NCw2MjcwODUxOTYsMTg2MTUxODU0NywtMjE2MTM3MzIzLC05Mz
+MyODA3OTksLTE0OTk1MzQ3MSwtNDI3MzQ2MDgwXX0=
 -->
