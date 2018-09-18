@@ -506,6 +506,9 @@ Tambien podes correr un comando como si fueras un tercero
 	sudo -u elusuario comando
 
 o entrar al shell de un tercero
+
+	sudo -u usuario -s
+
 ## Administrar usuarios
 
 Podes **añadir usuarios** con **useradd** y colocar una contraseña con **passwd**, esto requirer siempre permisos de **root**
@@ -535,13 +538,15 @@ Para eso podes crear una cuenta que no tenga shell
 
 	useradd -c "cuenta para apache" -d /opt/apache -r -s /usr/sbin/nologin usuarioParaApache
 
+Una vez que hiciste eso, podrias arrancar un programa bajo los permisos de ese usuario usando **SU o SUDO** 	sudo -u elusuario comando
+
 
 ## Contenido default de la carpeta home
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjUzNDMwLDEwMDMyMzEwOTQsMjA3OT
-E2MDE5NCwtODA3Mjk4Mjc0LDYyNzA4NTE5NiwxODYxNTE4NTQ3
-LC0yMTYxMzczMjMsLTkzMzI4MDc5OSwtMTQ5OTUzNDcxLC00Mj
-czNDYwODBdfQ==
+eyJoaXN0b3J5IjpbLTk0MjM4OTQsMTAwMzIzMTA5NCwyMDc5MT
+YwMTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcs
+LTIxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNz
+M0NjA4MF19
 -->
