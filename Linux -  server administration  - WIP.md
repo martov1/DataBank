@@ -339,6 +339,8 @@ Se usa asi:
 * **newer archivo** : Busca archivos mas nuevos que el archivo provisto
 * **-exec command {}\;** : ejecuta un comando sobre cada archivo encontrado 
 
+
+
 ### GREP - Buscar dentro de un archivo
 
 Grep te permite encontrar cosas dentro de un archivo
@@ -499,6 +501,7 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTUxODU0NywtMjE2MTM3MzIzLC05Mz
-MyODA3OTksLTE0OTk1MzQ3MSwtNDI3MzQ2MDgwXX0=
+eyJoaXN0b3J5IjpbMTUxOTAyOTM2NywxODYxNTE4NTQ3LC0yMT
+YxMzczMjMsLTkzMzI4MDc5OSwtMTQ5OTUzNDcxLC00MjczNDYw
+ODBdfQ==
 -->
