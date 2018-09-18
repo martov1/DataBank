@@ -481,7 +481,7 @@ Los usuarios siempre tienen
 	username:password:UID:GID:comments:home_dir:shell
 Las contraseñas actualmente se guardan en el _**shadow file**_ ubicado en **/etc/shadow** de manera encriptada.
 
-## Cambiar de usuario
+## SU - Cambiar de usuario
 
 Para cambiar de usuario podes hacer lo siguiente
 
@@ -494,6 +494,14 @@ Tambien podes correr un comando particular como un usuari
 		su nombreDeUsuario -c miComando
 
 **Podes usar un guion para indicar que queres usar el environment de ese usuario tambien**
+
+## SUDO - usar root o correr algo como otro usuario
+
+Podes usar SUDO para correr un comando como root
+
+	sudo comando
+
+Tambien
 
 ## Administrar usuarios
 
@@ -529,7 +537,7 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDE4MTEzOCwxMDAzMjMxMDk0LDIwNz
+eyJoaXN0b3J5IjpbLTI3ODI3OTE2MywxMDAzMjMxMDk0LDIwNz
 kxNjAxOTQsLTgwNzI5ODI3NCw2MjcwODUxOTYsMTg2MTUxODU0
 NywtMjE2MTM3MzIzLC05MzMyODA3OTksLTE0OTk1MzQ3MSwtND
 I3MzQ2MDgwXX0=
