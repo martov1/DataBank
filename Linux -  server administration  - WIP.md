@@ -501,8 +501,11 @@ Podes usar SUDO para correr un comando como root
 
 	sudo comando
 
-Tambien
+Tambien podes correr un comando como si fueras un tercero
 
+	sudo -u elusuario comando
+
+o entrar al shell de un tercero
 ## Administrar usuarios
 
 Podes **añadir usuarios** con **useradd** y colocar una contraseña con **passwd**, esto requirer siempre permisos de **root**
@@ -514,7 +517,7 @@ Algunas opciones son
 * **-c "comentario"** - añade un comment
 * **-m** - Crea el home directory
 * **-d** - especifica el path del directorio home
-* **-s /shell/path** - especifica el shell
+* **-s /shell/path** - especifica el shell, puede ser un programa cualquiera
 * **-g** - coloca el grupo default
 * **-G grupo1,grupo2** - grupos adicionales
 * **-r** Indica que es una cuenta de sistema (no para usarse por un humano)
@@ -537,8 +540,8 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODI3OTE2MywxMDAzMjMxMDk0LDIwNz
-kxNjAxOTQsLTgwNzI5ODI3NCw2MjcwODUxOTYsMTg2MTUxODU0
-NywtMjE2MTM3MzIzLC05MzMyODA3OTksLTE0OTk1MzQ3MSwtND
-I3MzQ2MDgwXX0=
+eyJoaXN0b3J5IjpbMjA0MjUzNDMwLDEwMDMyMzEwOTQsMjA3OT
+E2MDE5NCwtODA3Mjk4Mjc0LDYyNzA4NTE5NiwxODYxNTE4NTQ3
+LC0yMTYxMzczMjMsLTkzMzI4MDc5OSwtMTQ5OTUzNDcxLC00Mj
+czNDYwODBdfQ==
 -->
