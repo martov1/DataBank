@@ -359,7 +359,7 @@ Se usa asi
 grep -u "mi Patron De Busqueda" miArchivo.txt
 ```
 
-Devuelve la linea donde s
+**Devuelve la linea donde se encontro la ocurrencia**
 
 
 # Process and job control
@@ -507,7 +507,7 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTM5MzkwNSwtODA3Mjk4Mjc0LDYyNz
-A4NTE5NiwxODYxNTE4NTQ3LC0yMTYxMzczMjMsLTkzMzI4MDc5
-OSwtMTQ5OTUzNDcxLC00MjczNDYwODBdfQ==
+eyJoaXN0b3J5IjpbLTEwMTI4MDY4ODIsLTgwNzI5ODI3NCw2Mj
+cwODUxOTYsMTg2MTUxODU0NywtMjE2MTM3MzIzLC05MzMyODA3
+OTksLTE0OTk1MzQ3MSwtNDI3MzQ2MDgwXX0=
 -->
