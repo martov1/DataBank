@@ -178,6 +178,7 @@ ls 2>/dev/null
 Pipe te permite pasarle el output de un command al input de otro, por ejemplo 
 
 
+
 # File system
 
 ## Hidden files
@@ -305,10 +306,11 @@ Le asigno **todos los permisos al user**, **permiso de lectura y escritura al gr
 Todos los archivos en general pertenecen a algun grupo, los usuarios son simepre **miembros de un grupo con su mismo nombre**, llamado tambien **primary group**
 
 Vemos como este archivo esta en el grupo "juan"
- 
+
+ ```bash
 	[juan@host ~]$ ls -l hola.txt
 	-rw-r--r--. 1 juan 36 feb 6 16:30 hola.txt
-	
+```
 Si queres cambiarle el grupo a algun archivo, podes hacerlo con **chgrp**
 
 	[juan@host ~]$ chgrp ventas hola.txt
@@ -507,7 +509,7 @@ Para eso podes crear una cuenta que no tenga shell
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI4MDY4ODIsLTgwNzI5ODI3NCw2Mj
-cwODUxOTYsMTg2MTUxODU0NywtMjE2MTM3MzIzLC05MzMyODA3
-OTksLTE0OTk1MzQ3MSwtNDI3MzQ2MDgwXX0=
+eyJoaXN0b3J5IjpbMjA3OTE2MDE5NCwtODA3Mjk4Mjc0LDYyNz
+A4NTE5NiwxODYxNTE4NTQ3LC0yMTYxMzczMjMsLTkzMzI4MDc5
+OSwtMTQ5OTUzNDcxLC00MjczNDYwODBdfQ==
 -->
