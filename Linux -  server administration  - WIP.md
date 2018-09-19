@@ -555,7 +555,6 @@ El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home de
 
 # Disk management - WIP
 
-**me quede en** 042 Disk Management - Part Two - Creating Partitions with fdisk.mp4
 
 Las particiones y todos los medios de almacenamiento se montan debajo de **/**, aunque **podes montar particiones en cualquier lugar del file system, tambien pueden estar anidados en otras particiones**
 
@@ -565,9 +564,15 @@ Las particiones y todos los medios de almacenamiento se montan debajo de **/**, 
 Para ver los dispositivos de almacenamiento y como estan particionados podes hacer 
 
 	fdisk -l
+
+### Crear una particion
+
+Para crear una particion 
+	fdisk -l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3NT
-Y4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MTYwMTk0LC04MDcyOTgy
-NzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcsLTIxNjEzNzMyMywtOT
-MzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0NjA4MF19
+eyJoaXN0b3J5IjpbLTExMTYwNTY3NDcsLTM5NTQ1MDk1OCwxOD
+c2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MTYw
+MTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcsLT
+IxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0
+NjA4MF19
 -->
