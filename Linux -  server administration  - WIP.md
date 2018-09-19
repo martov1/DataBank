@@ -592,8 +592,10 @@ Esto habilita el _command mode_ donde podes hacer lo que quieras
 
 ### Crear filesystem
 
-mkfs -t formato dispositivo
-#ej
+Una vez que tenes una particion, podes formatearla con un sistema de archivos con la utilidad **M**a**k**e **F**ile **S**istem o **mkfs**
+
+	mkfs -t formato dispositivo
+	#ej
 	mkfs -t ext3 /dev/sdb2
 
 ### Montar dispositivos
@@ -604,7 +606,7 @@ Podes montar dispositivos asi
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTg2OTczNCw1NDgxNDAwNjEsLTM5NT
+eyJoaXN0b3J5IjpbMTU4OTI0OTMzNiw1NDgxNDAwNjEsLTM5NT
 Q1MDk1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5
 NCwyMDc5MTYwMTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4Nj
 E1MTg1NDcsLTIxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0
