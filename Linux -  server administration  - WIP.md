@@ -571,11 +571,29 @@ Para editar una particion tenes que llamar al comando fdisk con la ruta de la pa
 
 	[root@tecmint ~]# fdisk /dev/sda
 
-Esto habilita el _command mode_ 
+Esto habilita el _command mode_ donde podes hacer lo que quieras
+
+a   toggle a bootable flag
+b   edit bsd disklabel
+c   toggle the dos compatibility flag
+d   delete a partition
+l   list known partition types
+m   print this menu
+n   add a new partition
+o   create a new empty DOS partition table
+p   print the partition table
+q   quit without saving changes
+s   create a new empty Sun disklabel
+t   change a partition's system id
+u   change display/entry units
+v   verify the partition table
+w   write table to disk and exit
+x   extra functionality (experts only)
+Command (m for help):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDAwNzg5MzgsLTM5NTQ1MDk1OCwxOD
-c2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MTYw
-MTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcsLT
-IxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0
-NjA4MF19
+eyJoaXN0b3J5IjpbMjEzMzY4Nzc4NiwtMzk1NDUwOTU4LDE4Nz
+YzNDU0NTMsMTc1Njg4MjUwNywxMDAzMjMxMDk0LDIwNzkxNjAx
+OTQsLTgwNzI5ODI3NCw2MjcwODUxOTYsMTg2MTUxODU0NywtMj
+E2MTM3MzIzLC05MzMyODA3OTksLTE0OTk1MzQ3MSwtNDI3MzQ2
+MDgwXX0=
 -->
