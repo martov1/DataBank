@@ -567,7 +567,7 @@ Para ver los dispositivos de almacenamiento y como estan particionados podes hac
 
 ### Editar  o crear una particion
 
-Para editar una particion tenes que llamar al comando fdisk con la ruta de la particion
+Para editar una particion tenes que llamar al comando fdisk con la ruta de un dispositivo
 
 	[root@tecmint ~]# fdisk /dev/sda
 
@@ -590,13 +590,12 @@ Esto habilita el _command mode_ donde podes hacer lo que quieras
 * w   write table to disk and exit
 * x   extra functionality (experts only)
 
-**Si queres crear una particion, haces**
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAwOTE4NjYsLTM5NTQ1MDk1OCwxOD
-c2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MTYw
-MTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcsLT
-IxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0
-NjA4MF19
+eyJoaXN0b3J5IjpbNTQ4MTQwMDYxLC0zOTU0NTA5NTgsMTg3Nj
+M0NTQ1MywxNzU2ODgyNTA3LDEwMDMyMzEwOTQsMjA3OTE2MDE5
+NCwtODA3Mjk4Mjc0LDYyNzA4NTE5NiwxODYxNTE4NTQ3LC0yMT
+YxMzczMjMsLTkzMzI4MDc5OSwtMTQ5OTUzNDcxLC00MjczNDYw
+ODBdfQ==
 -->
