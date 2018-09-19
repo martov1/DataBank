@@ -590,12 +590,13 @@ Esto habilita el _command mode_ donde podes hacer lo que quieras
 * w   write table to disk and exit
 * x   extra functionality (experts only)
 
+### Montar 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4MTQwMDYxLC0zOTU0NTA5NTgsMTg3Nj
-M0NTQ1MywxNzU2ODgyNTA3LDEwMDMyMzEwOTQsMjA3OTE2MDE5
-NCwtODA3Mjk4Mjc0LDYyNzA4NTE5NiwxODYxNTE4NTQ3LC0yMT
-YxMzczMjMsLTkzMzI4MDc5OSwtMTQ5OTUzNDcxLC00MjczNDYw
-ODBdfQ==
+eyJoaXN0b3J5IjpbLTExMDAzODg1Nyw1NDgxNDAwNjEsLTM5NT
+Q1MDk1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5
+NCwyMDc5MTYwMTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4Nj
+E1MTg1NDcsLTIxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0
+NzEsLTQyNzM0NjA4MF19
 -->
