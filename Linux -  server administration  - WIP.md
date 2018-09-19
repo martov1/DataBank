@@ -590,11 +590,21 @@ Esto habilita el _command mode_ donde podes hacer lo que quieras
 * w   write table to disk and exit
 * x   extra functionality (experts only)
 
-### Montar 
+### Crear filesystem
+
+mkfs -t formato dispositivo
+#ej
+	mkfs -t ext3 /dev/sdb2
+
+### Montar dispositivos
+
+Podes montar dispositivos asi
+
+
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDAzODg1Nyw1NDgxNDAwNjEsLTM5NT
+eyJoaXN0b3J5IjpbLTU1OTg2OTczNCw1NDgxNDAwNjEsLTM5NT
 Q1MDk1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5
 NCwyMDc5MTYwMTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4Nj
 E1MTg1NDcsLTIxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0
