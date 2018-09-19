@@ -565,14 +565,17 @@ Para ver los dispositivos de almacenamiento y como estan particionados podes hac
 
 	fdisk -l
 
-### Crear una particion
+### Editar una particion
 
-Para crear una particion **MBR**
-	fdisk -l
+Para editar una particion tenes que llamar al comando fdisk con la ruta de la particion
+
+	[root@tecmint ~]# fdisk /dev/sda
+
+Esto habilita el _command mode_ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTQ0NDg4NiwtMzk1NDUwOTU4LDE4Nz
-YzNDU0NTMsMTc1Njg4MjUwNywxMDAzMjMxMDk0LDIwNzkxNjAx
-OTQsLTgwNzI5ODI3NCw2MjcwODUxOTYsMTg2MTUxODU0NywtMj
-E2MTM3MzIzLC05MzMyODA3OTksLTE0OTk1MzQ3MSwtNDI3MzQ2
-MDgwXX0=
+eyJoaXN0b3J5IjpbLTE3NDAwNzg5MzgsLTM5NTQ1MDk1OCwxOD
+c2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MTYw
+MTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcsLT
+IxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0
+NjA4MF19
 -->
