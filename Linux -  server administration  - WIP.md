@@ -598,6 +598,7 @@ Una vez que tenes una particion, podes formatearla con un sistema de archivos co
 	#ej
 	mkfs -t ext3 /dev/sdb2
 
+Detras de escena MKFS crea las particiones usando los script
 ### Montar dispositivos
 
 Podes montar dispositivos asi
@@ -606,7 +607,7 @@ Podes montar dispositivos asi
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTI0OTMzNiw1NDgxNDAwNjEsLTM5NT
+eyJoaXN0b3J5IjpbMTc3MjYxODA4OSw1NDgxNDAwNjEsLTM5NT
 Q1MDk1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5
 NCwyMDc5MTYwMTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4Nj
 E1MTg1NDcsLTIxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0
