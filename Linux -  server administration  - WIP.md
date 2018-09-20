@@ -338,6 +338,12 @@ Podes cambiar el propietario del owner de un archivo siendo **root**
 el bit SETUID permite que un tercero ejecute un archivo binario con los permisos del usuario dueño del
 archivo. Generalmente este es ROOT y este permiso deja que un usuario ejecute un binario para realizar **una tarea especifica, como por ejemplo cambiar su contraseña**
 
+El bit setuid reemplaza el bit execute del usuario, ya que cumple esa funcion tambien, es decir:
+* Indica que el usuario puede ejecutar el archivo
+* indica que cu
+
+
+
 ## Busqueda en el filesystem
 
 
@@ -628,11 +634,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjUxNTQ2MjcsLTczMzY5NTA1Niw3OT
-IyNTYwMTQsLTEwODkwMjIxMDEsMTQ3NzU1NDcyOCw0OTkwMzUs
-MTQyNDA0NTU4MCw1NDgxNDAwNjEsLTM5NTQ1MDk1OCwxODc2Mz
-Q1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MTYwMTk0
-LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcsLTIxNj
-EzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0NjA4
-MF19
+eyJoaXN0b3J5IjpbLTMxNDc4ODk3OSwtMTYyNTE1NDYyNywtNz
+MzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEwMSwxNDc3NTU0
+NzI4LDQ5OTAzNSwxNDI0MDQ1NTgwLDU0ODE0MDA2MSwtMzk1ND
+UwOTU4LDE4NzYzNDU0NTMsMTc1Njg4MjUwNywxMDAzMjMxMDk0
+LDIwNzkxNjAxOTQsLTgwNzI5ODI3NCw2MjcwODUxOTYsMTg2MT
+UxODU0NywtMjE2MTM3MzIzLC05MzMyODA3OTksLTE0OTk1MzQ3
+MV19
 -->
