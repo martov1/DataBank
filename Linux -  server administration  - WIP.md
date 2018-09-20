@@ -333,6 +333,10 @@ Podes cambiar el propietario del owner de un archivo siendo **root**
 
 	chown miUser elArchivo.txt
 
+### SETUID	- Permitir a terceros ejecutar como el dueño
+
+
+
 ## Busqueda en el filesystem
 
 
@@ -623,10 +627,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzY5NTA1Niw3OTIyNTYwMTQsLTEwOD
-kwMjIxMDEsMTQ3NzU1NDcyOCw0OTkwMzUsMTQyNDA0NTU4MCw1
-NDgxNDAwNjEsLTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3NTY4OD
-I1MDcsMTAwMzIzMTA5NCwyMDc5MTYwMTk0LC04MDcyOTgyNzQs
-NjI3MDg1MTk2LDE4NjE1MTg1NDcsLTIxNjEzNzMyMywtOTMzMj
-gwNzk5LC0xNDk5NTM0NzEsLTQyNzM0NjA4MF19
+eyJoaXN0b3J5IjpbLTEyMzA5Mzk5OTgsLTczMzY5NTA1Niw3OT
+IyNTYwMTQsLTEwODkwMjIxMDEsMTQ3NzU1NDcyOCw0OTkwMzUs
+MTQyNDA0NTU4MCw1NDgxNDAwNjEsLTM5NTQ1MDk1OCwxODc2Mz
+Q1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MTYwMTk0
+LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcsLTIxNj
+EzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0NjA4
+MF19
 -->
