@@ -613,14 +613,16 @@ Podes ver todo aquello que esta montado asi
 	
 Podes montar dispositivos por la duracion de la sesion asi:
 
+	mount DEVICE MOUNT_POINT
+	mount /dev/sdb3 /opt
 
 Para que un dispositivo quede montado permanentemente despues de reiniciar, tenes que agregar una entrada en el archivo **/etc/fstab**
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyODk5MjAsMTQyNDA0NTU4MCw1NDgxND
-AwNjEsLTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDcs
-MTAwMzIzMTA5NCwyMDc5MTYwMTk0LC04MDcyOTgyNzQsNjI3MD
-g1MTk2LDE4NjE1MTg1NDcsLTIxNjEzNzMyMywtOTMzMjgwNzk5
-LC0xNDk5NTM0NzEsLTQyNzM0NjA4MF19
+eyJoaXN0b3J5IjpbNDk5MDM1LDE0MjQwNDU1ODAsNTQ4MTQwMD
+YxLC0zOTU0NTA5NTgsMTg3NjM0NTQ1MywxNzU2ODgyNTA3LDEw
+MDMyMzEwOTQsMjA3OTE2MDE5NCwtODA3Mjk4Mjc0LDYyNzA4NT
+E5NiwxODYxNTE4NTQ3LC0yMTYxMzczMjMsLTkzMzI4MDc5OSwt
+MTQ5OTUzNDcxLC00MjczNDYwODBdfQ==
 -->
