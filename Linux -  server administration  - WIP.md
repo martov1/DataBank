@@ -553,7 +553,7 @@ El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home de
 
 **ver:** 040 System Logging
 
-# Disk management - WIP
+# Disk management
 
 
 Las particiones y todos los medios de almacenamiento se montan debajo de **/**, aunque **podes montar particiones en cualquier lugar del file system, tambien pueden estar anidados en otras particiones**
@@ -619,12 +619,18 @@ Podes montar dispositivos por la duracion de la sesion asi:
 Para que un dispositivo quede montado permanentemente despues de reiniciar, tenes que agregar una entrada en el archivo **/etc/fstab**
 
  
- # Networking
+ 
+# Networking
 
+
+Para ver la direccion ip del server haces
+
+	ip address
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzU1NDcyOCw0OTkwMzUsMTQyNDA0NT
-U4MCw1NDgxNDAwNjEsLTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3
-NTY4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MTYwMTk0LC04MDcyOT
-gyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcsLTIxNjEzNzMyMywt
-OTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0NjA4MF19
+eyJoaXN0b3J5IjpbLTEwODkwMjIxMDEsMTQ3NzU1NDcyOCw0OT
+kwMzUsMTQyNDA0NTU4MCw1NDgxNDAwNjEsLTM5NTQ1MDk1OCwx
+ODc2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MT
+YwMTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcs
+LTIxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNz
+M0NjA4MF19
 -->
