@@ -375,6 +375,7 @@ grep -u "mi Patron De Busqueda" miArchivo.txt
 
 # Process and job control
 
+ 
 ### Ver procesos - PS
 Para ver los procesos usamos el comando **ps** con los siguientes **parametros:**
 * **-e** - Mostrar todos los procesos
@@ -622,10 +623,10 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMjU2MDE0LC0xMDg5MDIyMTAxLDE0Nz
-c1NTQ3MjgsNDk5MDM1LDE0MjQwNDU1ODAsNTQ4MTQwMDYxLC0z
-OTU0NTA5NTgsMTg3NjM0NTQ1MywxNzU2ODgyNTA3LDEwMDMyMz
-EwOTQsMjA3OTE2MDE5NCwtODA3Mjk4Mjc0LDYyNzA4NTE5Niwx
-ODYxNTE4NTQ3LC0yMTYxMzczMjMsLTkzMzI4MDc5OSwtMTQ5OT
-UzNDcxLC00MjczNDYwODBdfQ==
+eyJoaXN0b3J5IjpbLTczMzY5NTA1Niw3OTIyNTYwMTQsLTEwOD
+kwMjIxMDEsMTQ3NzU1NDcyOCw0OTkwMzUsMTQyNDA0NTU4MCw1
+NDgxNDAwNjEsLTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3NTY4OD
+I1MDcsMTAwMzIzMTA5NCwyMDc5MTYwMTk0LC04MDcyOTgyNzQs
+NjI3MDg1MTk2LDE4NjE1MTg1NDcsLTIxNjEzNzMyMywtOTMzMj
+gwNzk5LC0xNDk5NTM0NzEsLTQyNzM0NjA4MF19
 -->
