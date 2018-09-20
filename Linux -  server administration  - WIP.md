@@ -347,6 +347,11 @@ EJ:
 -rwsr--r--. 1 juan ventas 36 feb 6 16:30 hola.txt 
 ```
 
+Se añade asi;
+
+	chmod u+s /path/to/file
+	chmod 4755 /path/to/file
+
 ## Busqueda en el filesystem
 
 
@@ -637,11 +642,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzUwMDMsLTE2MjUxNTQ2MjcsLTczMz
-Y5NTA1Niw3OTIyNTYwMTQsLTEwODkwMjIxMDEsMTQ3NzU1NDcy
-OCw0OTkwMzUsMTQyNDA0NTU4MCw1NDgxNDAwNjEsLTM5NTQ1MD
-k1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5NCwy
-MDc5MTYwMTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MT
-g1NDcsLTIxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0NzFd
-fQ==
+eyJoaXN0b3J5IjpbNTYwNjYyMDI1LC0xNjI1MTU0NjI3LC03Mz
+M2OTUwNTYsNzkyMjU2MDE0LC0xMDg5MDIyMTAxLDE0Nzc1NTQ3
+MjgsNDk5MDM1LDE0MjQwNDU1ODAsNTQ4MTQwMDYxLC0zOTU0NT
+A5NTgsMTg3NjM0NTQ1MywxNzU2ODgyNTA3LDEwMDMyMzEwOTQs
+MjA3OTE2MDE5NCwtODA3Mjk4Mjc0LDYyNzA4NTE5NiwxODYxNT
+E4NTQ3LC0yMTYxMzczMjMsLTkzMzI4MDc5OSwtMTQ5OTUzNDcx
+XX0=
 -->
