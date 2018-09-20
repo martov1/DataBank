@@ -4,7 +4,7 @@ ver https://www.udemy.com/linux-administration-bootcamp/
 ver https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 **Me quede en:** 
-042 Disk Management - Part Two - Creating Partitions with fdisk.mp4
+051 SPECIAL PERMISSIONS 
 040 System Logging
 				
 
@@ -651,11 +651,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzIwMDgyNywtMTYyNTE1NDYyNywtNz
-MzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEwMSwxNDc3NTU0
-NzI4LDQ5OTAzNSwxNDI0MDQ1NTgwLDU0ODE0MDA2MSwtMzk1ND
-UwOTU4LDE4NzYzNDU0NTMsMTc1Njg4MjUwNywxMDAzMjMxMDk0
-LDIwNzkxNjAxOTQsLTgwNzI5ODI3NCw2MjcwODUxOTYsMTg2MT
-UxODU0NywtMjE2MTM3MzIzLC05MzMyODA3OTksLTE0OTk1MzQ3
-MV19
+eyJoaXN0b3J5IjpbLTUzMjQwNDQyOSwxOTkzMjAwODI3LC0xNj
+I1MTU0NjI3LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0xMDg5MDIy
+MTAxLDE0Nzc1NTQ3MjgsNDk5MDM1LDE0MjQwNDU1ODAsNTQ4MT
+QwMDYxLC0zOTU0NTA5NTgsMTg3NjM0NTQ1MywxNzU2ODgyNTA3
+LDEwMDMyMzEwOTQsMjA3OTE2MDE5NCwtODA3Mjk4Mjc0LDYyNz
+A4NTE5NiwxODYxNTE4NTQ3LC0yMTYxMzczMjMsLTkzMzI4MDc5
+OV19
 -->
