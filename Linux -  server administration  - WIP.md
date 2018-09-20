@@ -619,10 +619,12 @@ Podes montar dispositivos por la duracion de la sesion asi:
 Para que un dispositivo quede montado permanentemente despues de reiniciar, tenes que agregar una entrada en el archivo **/etc/fstab**
 
  
+ # Networking
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5MDM1LDE0MjQwNDU1ODAsNTQ4MTQwMD
-YxLC0zOTU0NTA5NTgsMTg3NjM0NTQ1MywxNzU2ODgyNTA3LDEw
-MDMyMzEwOTQsMjA3OTE2MDE5NCwtODA3Mjk4Mjc0LDYyNzA4NT
-E5NiwxODYxNTE4NTQ3LC0yMTYxMzczMjMsLTkzMzI4MDc5OSwt
-MTQ5OTUzNDcxLC00MjczNDYwODBdfQ==
+eyJoaXN0b3J5IjpbMTQ3NzU1NDcyOCw0OTkwMzUsMTQyNDA0NT
+U4MCw1NDgxNDAwNjEsLTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3
+NTY4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MTYwMTk0LC04MDcyOT
+gyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDcsLTIxNjEzNzMyMywt
+OTMzMjgwNzk5LC0xNDk5NTM0NzEsLTQyNzM0NjA4MF19
 -->
