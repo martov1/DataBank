@@ -352,6 +352,15 @@ Se añade asi;
 	chmod u+s /path/to/file
 	chmod 4755 /path/to/file
 
+Se remueve asi:
+
+
+Se añade asi;
+
+	chmod u-s /path/to/file
+	chmod 0755 /path/to/file
+
+
 ## Busqueda en el filesystem
 
 
@@ -642,11 +651,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwNjYyMDI1LC0xNjI1MTU0NjI3LC03Mz
-M2OTUwNTYsNzkyMjU2MDE0LC0xMDg5MDIyMTAxLDE0Nzc1NTQ3
-MjgsNDk5MDM1LDE0MjQwNDU1ODAsNTQ4MTQwMDYxLC0zOTU0NT
-A5NTgsMTg3NjM0NTQ1MywxNzU2ODgyNTA3LDEwMDMyMzEwOTQs
-MjA3OTE2MDE5NCwtODA3Mjk4Mjc0LDYyNzA4NTE5NiwxODYxNT
-E4NTQ3LC0yMTYxMzczMjMsLTkzMzI4MDc5OSwtMTQ5OTUzNDcx
-XX0=
+eyJoaXN0b3J5IjpbMTk5MzIwMDgyNywtMTYyNTE1NDYyNywtNz
+MzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEwMSwxNDc3NTU0
+NzI4LDQ5OTAzNSwxNDI0MDQ1NTgwLDU0ODE0MDA2MSwtMzk1ND
+UwOTU4LDE4NzYzNDU0NTMsMTc1Njg4MjUwNywxMDAzMjMxMDk0
+LDIwNzkxNjAxOTQsLTgwNzI5ODI3NCw2MjcwODUxOTYsMTg2MT
+UxODU0NywtMjE2MTM3MzIzLC05MzMyODA3OTksLTE0OTk1MzQ3
+MV19
 -->
