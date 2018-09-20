@@ -613,13 +613,14 @@ Podes ver todo aquello que esta montado asi
 	
 Podes montar dispositivos por la duracion de la sesion asi:
 
-Para que un dispositivo quede monta
+
+Para que un dispositivo quede montado permanentemente despues de reiniciar, tenes que agregar una entrada en el archivo **/etc/fstab**
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTQ0MzA2MSwxNDI0MDQ1NTgwLDU0OD
-E0MDA2MSwtMzk1NDUwOTU4LDE4NzYzNDU0NTMsMTc1Njg4MjUw
-NywxMDAzMjMxMDk0LDIwNzkxNjAxOTQsLTgwNzI5ODI3NCw2Mj
-cwODUxOTYsMTg2MTUxODU0NywtMjE2MTM3MzIzLC05MzMyODA3
-OTksLTE0OTk1MzQ3MSwtNDI3MzQ2MDgwXX0=
+eyJoaXN0b3J5IjpbMzcyODk5MjAsMTQyNDA0NTU4MCw1NDgxND
+AwNjEsLTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDcs
+MTAwMzIzMTA5NCwyMDc5MTYwMTk0LC04MDcyOTgyNzQsNjI3MD
+g1MTk2LDE4NjE1MTg1NDcsLTIxNjEzNzMyMywtOTMzMjgwNzk5
+LC0xNDk5NTM0NzEsLTQyNzM0NjA4MF19
 -->
