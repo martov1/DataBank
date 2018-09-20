@@ -606,15 +606,20 @@ Detras de escena MKFS crea las particiones usando los scripts en **/sbin/** por 
 
 ### Montar dispositivos
 
-Podes montar dispositivos asi
 
+Podes ver todo aquello que esta montado asi
+	
+	mount
+	
+Podes montar dispositivos por la duracion de la sesion asi:
 
+Para que un dispositivo quede monta
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDA0NTU4MCw1NDgxNDAwNjEsLTM5NT
-Q1MDk1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5
-NCwyMDc5MTYwMTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4Nj
-E1MTg1NDcsLTIxNjEzNzMyMywtOTMzMjgwNzk5LC0xNDk5NTM0
-NzEsLTQyNzM0NjA4MF19
+eyJoaXN0b3J5IjpbMTA2NTQ0MzA2MSwxNDI0MDQ1NTgwLDU0OD
+E0MDA2MSwtMzk1NDUwOTU4LDE4NzYzNDU0NTMsMTc1Njg4MjUw
+NywxMDAzMjMxMDk0LDIwNzkxNjAxOTQsLTgwNzI5ODI3NCw2Mj
+cwODUxOTYsMTg2MTUxODU0NywtMjE2MTM3MzIzLC05MzMyODA3
+OTksLTE0OTk1MzQ3MSwtNDI3MzQ2MDgwXX0=
 -->
