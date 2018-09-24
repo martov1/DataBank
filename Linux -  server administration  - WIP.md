@@ -582,7 +582,7 @@ El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home de
 
 ## Donde se guardan
 
-Los gurpos se guardan en **/etc/groups** con la siguiente configuracion. Los grupos pueden tener cntr
+Los gurpos se guardan en **/etc/groups** con la siguiente configuracion. Los grupos pueden tener contraseñas pero esa funcionalidad no suele ser usada.
 
 	group_name:password:GID:user1,user2,user..
 
@@ -664,11 +664,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODgwMDIzNiw0MzQ2NjkxMjYsLTUzMj
-QwNDQyOSwxOTkzMjAwODI3LC0xNjI1MTU0NjI3LC03MzM2OTUw
-NTYsNzkyMjU2MDE0LC0xMDg5MDIyMTAxLDE0Nzc1NTQ3MjgsND
-k5MDM1LDE0MjQwNDU1ODAsNTQ4MTQwMDYxLC0zOTU0NTA5NTgs
-MTg3NjM0NTQ1MywxNzU2ODgyNTA3LDEwMDMyMzEwOTQsMjA3OT
-E2MDE5NCwtODA3Mjk4Mjc0LDYyNzA4NTE5NiwxODYxNTE4NTQ3
-XX0=
+eyJoaXN0b3J5IjpbMTk4MzIxNDUwLDQzNDY2OTEyNiwtNTMyND
+A0NDI5LDE5OTMyMDA4MjcsLTE2MjUxNTQ2MjcsLTczMzY5NTA1
+Niw3OTIyNTYwMTQsLTEwODkwMjIxMDEsMTQ3NzU1NDcyOCw0OT
+kwMzUsMTQyNDA0NTU4MCw1NDgxNDAwNjEsLTM5NTQ1MDk1OCwx
+ODc2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MT
+YwMTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDdd
+fQ==
 -->
