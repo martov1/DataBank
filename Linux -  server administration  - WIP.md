@@ -606,7 +606,8 @@ podes **modificar** el grupo con groupmod
 
 	groupmod [opciones] migrupo
 las opciones que podes usar son
--g GID
+ * **-g** cambia el GID del grupo
+ * **-n** Renombra el grupo  
 
 # Logging - WIP
 
@@ -681,11 +682,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA5ODMyMDUsMTk4MzIxNDUwLDQzND
-Y2OTEyNiwtNTMyNDA0NDI5LDE5OTMyMDA4MjcsLTE2MjUxNTQ2
-MjcsLTczMzY5NTA1Niw3OTIyNTYwMTQsLTEwODkwMjIxMDEsMT
-Q3NzU1NDcyOCw0OTkwMzUsMTQyNDA0NTU4MCw1NDgxNDAwNjEs
-LTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMz
-IzMTA5NCwyMDc5MTYwMTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2
-XX0=
+eyJoaXN0b3J5IjpbLTMxMzA4ODUxNiwxOTgzMjE0NTAsNDM0Nj
+Y5MTI2LC01MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNTE1NDYy
+NywtNzMzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEwMSwxND
+c3NTU0NzI4LDQ5OTAzNSwxNDI0MDQ1NTgwLDU0ODE0MDA2MSwt
+Mzk1NDUwOTU4LDE4NzYzNDU0NTMsMTc1Njg4MjUwNywxMDAzMj
+MxMDk0LDIwNzkxNjAxOTQsLTgwNzI5ODI3NCw2MjcwODUxOTZd
+fQ==
 -->
