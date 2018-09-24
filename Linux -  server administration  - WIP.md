@@ -587,8 +587,17 @@ Los gurpos se guardan en **/etc/groups** con la siguiente configuracion. Los gru
 	group_name:password:GID:user1,user2,user..
 
 
+## Groups - ver los grupos de un user
 
+Podes ver a que grupos pertenece un usuario asi;
 
+	groups usuario
+
+## Administrar grupos
+
+Podes añadir grupos con groupadd
+
+	groupadd migrupo
 
 
 # Logging - WIP
@@ -664,11 +673,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzIxNDUwLDQzNDY2OTEyNiwtNTMyND
-A0NDI5LDE5OTMyMDA4MjcsLTE2MjUxNTQ2MjcsLTczMzY5NTA1
-Niw3OTIyNTYwMTQsLTEwODkwMjIxMDEsMTQ3NzU1NDcyOCw0OT
-kwMzUsMTQyNDA0NTU4MCw1NDgxNDAwNjEsLTM5NTQ1MDk1OCwx
-ODc2MzQ1NDUzLDE3NTY4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MT
-YwMTk0LC04MDcyOTgyNzQsNjI3MDg1MTk2LDE4NjE1MTg1NDdd
+eyJoaXN0b3J5IjpbLTQwMzA0NTYyNywxOTgzMjE0NTAsNDM0Nj
+Y5MTI2LC01MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNTE1NDYy
+NywtNzMzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEwMSwxND
+c3NTU0NzI4LDQ5OTAzNSwxNDI0MDQ1NTgwLDU0ODE0MDA2MSwt
+Mzk1NDUwOTU4LDE4NzYzNDU0NTMsMTc1Njg4MjUwNywxMDAzMj
+MxMDk0LDIwNzkxNjAxOTQsLTgwNzI5ODI3NCw2MjcwODUxOTZd
 fQ==
 -->
