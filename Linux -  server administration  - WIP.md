@@ -578,6 +578,13 @@ Una vez que hiciste eso, podrias arrancar un programa bajo los permisos de ese u
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 
+## Grupos - WIP
+
+
+
+
+
+
 # Logging - WIP
 
 **ver:** 040 System Logging
@@ -651,11 +658,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjQwNDQyOSwxOTkzMjAwODI3LC0xNj
-I1MTU0NjI3LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0xMDg5MDIy
-MTAxLDE0Nzc1NTQ3MjgsNDk5MDM1LDE0MjQwNDU1ODAsNTQ4MT
-QwMDYxLC0zOTU0NTA5NTgsMTg3NjM0NTQ1MywxNzU2ODgyNTA3
-LDEwMDMyMzEwOTQsMjA3OTE2MDE5NCwtODA3Mjk4Mjc0LDYyNz
-A4NTE5NiwxODYxNTE4NTQ3LC0yMTYxMzczMjMsLTkzMzI4MDc5
-OV19
+eyJoaXN0b3J5IjpbNDM0NjY5MTI2LC01MzI0MDQ0MjksMTk5Mz
+IwMDgyNywtMTYyNTE1NDYyNywtNzMzNjk1MDU2LDc5MjI1NjAx
+NCwtMTA4OTAyMjEwMSwxNDc3NTU0NzI4LDQ5OTAzNSwxNDI0MD
+Q1NTgwLDU0ODE0MDA2MSwtMzk1NDUwOTU4LDE4NzYzNDU0NTMs
+MTc1Njg4MjUwNywxMDAzMjMxMDk0LDIwNzkxNjAxOTQsLTgwNz
+I5ODI3NCw2MjcwODUxOTYsMTg2MTUxODU0NywtMjE2MTM3MzIz
+XX0=
 -->
