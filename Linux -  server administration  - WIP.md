@@ -578,7 +578,13 @@ Una vez que hiciste eso, podrias arrancar un programa bajo los permisos de ese u
 
 El contenido de la carpeta **/etc/skel** se copia en el nuevo directorio home del nuevo usuario
 
-## Grupos - WIP
+# Grupos 
+
+## Donde se guardan
+
+Los gurpos se guardan en **/etc/groups** con la siguiente configuracion. Los grupos pueden tener cntr
+
+	group_name:password:GID:user1,user2,user..
 
 
 
@@ -658,11 +664,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0NjY5MTI2LC01MzI0MDQ0MjksMTk5Mz
-IwMDgyNywtMTYyNTE1NDYyNywtNzMzNjk1MDU2LDc5MjI1NjAx
-NCwtMTA4OTAyMjEwMSwxNDc3NTU0NzI4LDQ5OTAzNSwxNDI0MD
-Q1NTgwLDU0ODE0MDA2MSwtMzk1NDUwOTU4LDE4NzYzNDU0NTMs
-MTc1Njg4MjUwNywxMDAzMjMxMDk0LDIwNzkxNjAxOTQsLTgwNz
-I5ODI3NCw2MjcwODUxOTYsMTg2MTUxODU0NywtMjE2MTM3MzIz
+eyJoaXN0b3J5IjpbLTg5ODgwMDIzNiw0MzQ2NjkxMjYsLTUzMj
+QwNDQyOSwxOTkzMjAwODI3LC0xNjI1MTU0NjI3LC03MzM2OTUw
+NTYsNzkyMjU2MDE0LC0xMDg5MDIyMTAxLDE0Nzc1NTQ3MjgsND
+k5MDM1LDE0MjQwNDU1ODAsNTQ4MTQwMDYxLC0zOTU0NTA5NTgs
+MTg3NjM0NTQ1MywxNzU2ODgyNTA3LDEwMDMyMzEwOTQsMjA3OT
+E2MDE5NCwtODA3Mjk4Mjc0LDYyNzA4NTE5NiwxODYxNTE4NTQ3
 XX0=
 -->
