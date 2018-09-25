@@ -137,5 +137,5 @@ Los feature modules son una forma de organizar el codigo de una aplicacion, cont
 
 Mas detalles en **Angular router - lazy loading**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTk4MDQxNl19
+eyJoaXN0b3J5IjpbLTgxOTY4MTM3NCwxNTg5OTgwNDE2XX0=
 -->
