@@ -197,5 +197,5 @@ para creat un grupo tenes que reguistrarlo en el **http kernel** en la variable 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMDAzMDIzXX0=
+eyJoaXN0b3J5IjpbLTE5MTEwODIyMzUsNjkxMDAzMDIzXX0=
 -->
