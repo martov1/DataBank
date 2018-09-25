@@ -75,5 +75,5 @@ describe ("VoteComponent",()=>{
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODQ0MjA0OF19
+eyJoaXN0b3J5IjpbLTM5ODk4MDQ1OSwtMjE4NDQyMDQ4XX0=
 -->
