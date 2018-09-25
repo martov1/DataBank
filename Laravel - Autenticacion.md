@@ -677,5 +677,5 @@ Podes determinar si un token tiene un scope determinado en codigo asi:
 	$request->user()->tokenCan('mi-scope')
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2NzgyNjIxXX0=
+eyJoaXN0b3J5IjpbLTY1NTE3Mjk4MywzODY3ODI2MjFdfQ==
 -->
