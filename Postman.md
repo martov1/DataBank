@@ -70,5 +70,5 @@ pm.test("response must be valid and have a body", function () {
 	 });
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTcwMjA1M119
+eyJoaXN0b3J5IjpbNzcxMjE3NzIsMTI4MTcwMjA1M119
 -->
