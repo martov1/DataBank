@@ -554,6 +554,6 @@ Por ejemplo:
 * Tiene mas sentido logico tener un conjunto de datos en la misma tabla que normalizarlo en varias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI1Nzk3MjIsLTE2Mzc2ODA0MTRdfQ
-==
+eyJoaXN0b3J5IjpbLTIwODE3OTM3MzgsLTEwNzI1Nzk3MjIsLT
+E2Mzc2ODA0MTRdfQ==
 -->
