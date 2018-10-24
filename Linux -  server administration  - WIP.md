@@ -571,7 +571,7 @@ Para eso podes crear una cuenta que no tenga shell
 
 Una vez que hiciste eso, podrias arrancar un programa bajo los permisos de ese usuario usando **SU o SUDO**
 
- 	sudo -u "cuenta para apache" comando
+ 	sudo -u "cuenta para apa che" comando
 
 
 ## Contenido default de la carpeta home
@@ -612,6 +612,129 @@ las opciones que podes usar son
 # Logging - WIP
 
 **ver:** 040 System Logging
+
+## Estandar syslog
+
+El logueo en linux funciona con un estandar y protocolo denominado **Syslog** que permite que **multiples aplicaciones dentro o fuera del server escriban en el log** permitiendo un **Logueo centralizado**
+
+Los logs se categorizan por:
+
+* **Facility** - Indica quien genero el log
+	* 0 - Kernel (el kernel escribio en el log)
+	* 1 - Usuario (el user escribio en el log)
+	* 2 - Mail   (el mail sistem escribio)
+	* 3 - daemon  (un sistem daemon)
+	* 4 - auth (un mensaje realcionado con autorizacion/seguridad)
+	* 5 - syslog (un mensaje interno de syslog)
+	* 6 - lpr
+	* 7 - news
+	* 8 - uucp
+	* 9 - clock
+	* 10- authpriv
+	* 11- ftp
+	* **16 a 23** - **Libres para el uso que le quieras dar.**
+* **Severidad** - Indica que tan severo es el mensaje
+	*  0 - Emergency
+	* 1 - Alert
+	* ...
+	* 7 - Debug
+
+## Syslog server y su configuracion
+
+El servidor Syslog toma los mensajes recibidos de otras aplicaciones dentro y fuera del servidor y los escribe en los logs teniendo en cuenta una serie de reglas. 
+
+Existen multiples servidores para el protocolo Syslog, el mas comun es  **rsyslog** cuya configuracion se encuentra en **/etc/rsyslog.conf**
+
+**CRITICO:**
+>La configuracion default en **/etc/rsyslog.conf** tiene una directiva `include /etc/rsyslog.d`, implicando que cualquier archivo de configuracion en esa carpeta tambien se lee y se levanta.
+**Esto permite a cualquier aplicacion del servidor escribir un archivo de configuracion para especificar como desea loguear sus mensajes (EJ mysql)**
+
+
+* **Logging rules de rsyslog:**
+La configuracion del servidor rsyslog se realiza agregando al archivo de configuracion:
+	*  **selectores** - indican que se esta logueando
+		* Se compone de **facility y severity**
+		*  Varios selectores pueden llevar a la misma accion
+	* **Acciones** - Indican como procesar ese log
+
+**Estos se colocan de forma:**
+
+> FACILITY.SEVERITY 	ACTION
+
+
+EJ:
+```bash
+	#Facility mail y severidad emergency
+     mail.emergency -var/logs/mail.log
+     #Facility mail y cualquier severidad 
+     mail.* -var/logs/mail.log
+     #Facility kernel, severidades emergency y alert
+     kernel.emergency;kernel.alert -var/logs/badnews.log
+     #Todos los facilities salvo mail
+     *.*;mail.none -var/log/general.log
+     # Loguear mail y kernel con severity emergency}
+     mail,kernel.emergency - var/log/unarchivo.log
+```
+
+
+
+## Loguear un mensaje
+
+Podes pedirle al servidor syslog que loguee un mensaje en tu nombre con el comando 
+```bash
+	
+	logger [-pt] message
+```
+**donde:**
+* **p** - permite indicar **facility y severity**
+	* Si no indicas ninguno se loguea como **user.notice** 
+	`logger -p mail.info "el mensaje!"`
+* **t** - indica un TAG
+	* Te permite añadir un tag
+	`logger -t untag "el mensaje!"` 
+
+**EJ:**
+```bash
+	#Loguear un mensaje
+	logger "mensaje!"
+	#Loguear un mensaje indicando facility, severity y tag
+	logger -p mail.info -t untag "el mensaje!"
+```
+
+## Rotacion de logs
+
+El servidor syslog suele tener la capacidad de rotar los logs para no guardarlos eternamente.
+
+La configuracion para la rotacion de logs suele encontrarse en **/etc/logrotate.conf**, ademas normalmente este archivo contiene la directiva `include /etc/logrotate.d`, esto implica que:
+
+**CRITICO:**
+> **Las aplicaciones que deseen loguear contenido colocan un archivo de configuracion para log rotate en /etc/logrotate.d** y si la configuracion de logrotate.conf es la estandar entonces **se levantaran esas configuraciones**.
+
+
+**Directivas para configurar logrotate**
+* **weekly** - Rota los logs semanalmente
+* **rotate 4** - Guardar 4 semanas de logs, borra aquellos mas viejos
+* **create** - Crear archivo nuevo cuando se rote el log
+* **compress** - Comprimir logs
+
+**Se usan indicando el archivo al cual se aplican:**
+
+```
+/var/log/milog
+{
+	weekly
+	rotate 4
+}
+/var/log/mail
+{
+	weekly
+	rotate 2
+}
+
+```
+
+
+
 
 # Disk management
 
@@ -682,11 +805,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzA4ODUxNiwxOTgzMjE0NTAsNDM0Nj
-Y5MTI2LC01MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNTE1NDYy
-NywtNzMzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEwMSwxND
-c3NTU0NzI4LDQ5OTAzNSwxNDI0MDQ1NTgwLDU0ODE0MDA2MSwt
-Mzk1NDUwOTU4LDE4NzYzNDU0NTMsMTc1Njg4MjUwNywxMDAzMj
-MxMDk0LDIwNzkxNjAxOTQsLTgwNzI5ODI3NCw2MjcwODUxOTZd
-fQ==
+eyJoaXN0b3J5IjpbMTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5OD
+MyMTQ1MCw0MzQ2NjkxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3
+LC0xNjI1MTU0NjI3LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0xMD
+g5MDIyMTAxLDE0Nzc1NTQ3MjgsNDk5MDM1LDE0MjQwNDU1ODAs
+NTQ4MTQwMDYxLC0zOTU0NTA5NTgsMTg3NjM0NTQ1MywxNzU2OD
+gyNTA3LDEwMDMyMzEwOTQsMjA3OTE2MDE5NCwtODA3Mjk4Mjc0
+XX0=
 -->
