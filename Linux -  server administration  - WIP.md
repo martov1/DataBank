@@ -335,8 +335,8 @@ Podes cambiar el propietario del owner de un archivo siendo **root**
 
 ### SETUID	- Permitir a terceros ejecutar como el dueño
 
-el bit SETUID permite que un tercero ejecute un archivo binario con los permisos del usuario dueño del
-archivo. Generalmente este es ROOT y este permiso deja que un usuario ejecute un binario para realizar **una tarea especifica, como por ejemplo cambiar su contraseña**
+**el bit SETUID permite que un tercero ejecute un archivo binario con los permisos del usuario dueño delarchivo.** 
+Generalmente este es ROOT y este permiso deja que un usuario ejecute un binario para realizar **una tarea especifica, como por ejemplo cambiar su contraseña**
 
 El bit setuid reemplaza el bit execute **x** del usuario por el bit **s**, ya que cumple esa funcion tambien, es decir:
 * Indica que el usuario puede ejecutar el archivo
@@ -354,12 +354,10 @@ Se añade asi;
 
 Se remueve asi:
 
-
-Se añade asi;
-
 	chmod u-s /path/to/file
 	chmod 0755 /path/to/file
 
+> Noramlmente las distros de linux **no honrran el SETUID como root en scripts de shell, solo lo hacen en archivos binarios**, esto es por que 
 
 ## Busqueda en el filesystem
 
@@ -804,11 +802,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3NzEzMywxMDQwNTIwNzU5LC0zMTMwOD
-g1MTYsMTk4MzIxNDUwLDQzNDY2OTEyNiwtNTMyNDA0NDI5LDE5
-OTMyMDA4MjcsLTE2MjUxNTQ2MjcsLTczMzY5NTA1Niw3OTIyNT
-YwMTQsLTEwODkwMjIxMDEsMTQ3NzU1NDcyOCw0OTkwMzUsMTQy
-NDA0NTU4MCw1NDgxNDAwNjEsLTM5NTQ1MDk1OCwxODc2MzQ1ND
-UzLDE3NTY4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MTYwMTk0XX0=
+eyJoaXN0b3J5IjpbMTk4MzY1Nzc4Nyw4Mzc3MTMzLDEwNDA1Mj
+A3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAsNDM0NjY5MTI2LC01
+MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNTE1NDYyNywtNzMzNj
+k1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEwMSwxNDc3NTU0NzI4
+LDQ5OTAzNSwxNDI0MDQ1NTgwLDU0ODE0MDA2MSwtMzk1NDUwOT
+U4LDE4NzYzNDU0NTMsMTc1Njg4MjUwNywxMDAzMjMxMDk0XX0=
 
 -->
