@@ -366,7 +366,11 @@ EJ:
 -rwxr-sr--. 1 juan ventas 36 feb 6 16:30 hola.txt 
 ```
 
-
+Se añade asi:
+```bash
+chmod g+s /path/to/file```
+```
+Se 
 
 **CRITICO: **
 > Noramlmente las distros de linux **no honrran el SETUID  como root en scripts de shell, solo lo hacen en archivos binarios**, esto es por que un bash script corrido como root es efectivamente como tener una consola con derechos administrativos para cualquier usuario y es un **riesgo de priviledge escalation!**
@@ -814,11 +818,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDE1ODczNywtOTc2ODM4MDc1LDgzNz
-cxMzMsMTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5ODMyMTQ1MCw0
-MzQ2NjkxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3LC0xNjI1MT
-U0NjI3LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0xMDg5MDIyMTAx
-LDE0Nzc1NTQ3MjgsNDk5MDM1LDE0MjQwNDU1ODAsNTQ4MTQwMD
-YxLC0zOTU0NTA5NTgsMTg3NjM0NTQ1MywxNzU2ODgyNTA3XX0=
+eyJoaXN0b3J5IjpbODcyMzMwNzAzLC05NzY4MzgwNzUsODM3Nz
+EzMywxMDQwNTIwNzU5LC0zMTMwODg1MTYsMTk4MzIxNDUwLDQz
+NDY2OTEyNiwtNTMyNDA0NDI5LDE5OTMyMDA4MjcsLTE2MjUxNT
+Q2MjcsLTczMzY5NTA1Niw3OTIyNTYwMTQsLTEwODkwMjIxMDEs
+MTQ3NzU1NDcyOCw0OTkwMzUsMTQyNDA0NTU4MCw1NDgxNDAwNj
+EsLTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDddfQ==
 
 -->
