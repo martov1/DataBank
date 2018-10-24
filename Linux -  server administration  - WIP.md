@@ -395,9 +395,12 @@ Se indica con una **t** en el permiso de ejecucion para terceros.
 
 Para agregarlo:
 ```bash
+chmod o+s /path/to/file
+```
+Para sacarlo:
+```bash
 chmod o-s /path/to/file
 ```
-
 
 ## Busqueda en el filesystem
 
@@ -842,11 +845,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzE4MDg1MywtOTc2ODM4MDc1LDgzNz
-cxMzMsMTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5ODMyMTQ1MCw0
-MzQ2NjkxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3LC0xNjI1MT
-U0NjI3LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0xMDg5MDIyMTAx
-LDE0Nzc1NTQ3MjgsNDk5MDM1LDE0MjQwNDU1ODAsNTQ4MTQwMD
-YxLC0zOTU0NTA5NTgsMTg3NjM0NTQ1MywxNzU2ODgyNTA3XX0=
+eyJoaXN0b3J5IjpbMzA2MjA3NDM3LC05NzY4MzgwNzUsODM3Nz
+EzMywxMDQwNTIwNzU5LC0zMTMwODg1MTYsMTk4MzIxNDUwLDQz
+NDY2OTEyNiwtNTMyNDA0NDI5LDE5OTMyMDA4MjcsLTE2MjUxNT
+Q2MjcsLTczMzY5NTA1Niw3OTIyNTYwMTQsLTEwODkwMjIxMDEs
+MTQ3NzU1NDcyOCw0OTkwMzUsMTQyNDA0NTU4MCw1NDgxNDAwNj
+EsLTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDddfQ==
 
 -->
