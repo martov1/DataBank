@@ -357,6 +357,11 @@ Se remueve asi:
 	chmod u-s /path/to/file
 	chmod 0755 /path/to/file
 
+### SETGUID - Permitir a terceros correr como grupo
+
+De la misma manera que SETUID te permite ejecutar un archivo como si fueras el dueño del mismo, SETGUID te permite ejecutar un archivo como el gru
+
+
 **CRITICO: **
 > Noramlmente las distros de linux **no honrran el SETUID  como root en scripts de shell, solo lo hacen en archivos binarios**, esto es por que un bash script corrido como root es efectivamente como tener una consola con derechos administrativos para cualquier usuario y es un **riesgo de priviledge escalation!**
 
@@ -803,11 +808,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTMwOTEzODksLTk3NjgzODA3NSw4Mz
-c3MTMzLDEwNDA1MjA3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAs
-NDM0NjY5MTI2LC01MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNT
-E1NDYyNywtNzMzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEw
-MSwxNDc3NTU0NzI4LDQ5OTAzNSwxNDI0MDQ1NTgwLDU0ODE0MD
-A2MSwtMzk1NDUwOTU4LDE4NzYzNDU0NTMsMTc1Njg4MjUwN119
+eyJoaXN0b3J5IjpbOTgwNTQ5MzA3LC05NzY4MzgwNzUsODM3Nz
+EzMywxMDQwNTIwNzU5LC0zMTMwODg1MTYsMTk4MzIxNDUwLDQz
+NDY2OTEyNiwtNTMyNDA0NDI5LDE5OTMyMDA4MjcsLTE2MjUxNT
+Q2MjcsLTczMzY5NTA1Niw3OTIyNTYwMTQsLTEwODkwMjIxMDEs
+MTQ3NzU1NDcyOCw0OTkwMzUsMTQyNDA0NTU4MCw1NDgxNDAwNj
+EsLTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDddfQ==
 
 -->
