@@ -384,7 +384,12 @@ chmod g-s /path/to/file
 
 ### STICKY-BIT - evitar borrado o renombrado 
 
-El sticky bit te permite **asegurarte que solo el owner y el root puedan borrar o editar un archivo/directorio**
+El sticky bit te permite **asegurarte que solo el owner y el root puedan borrar o renombrar un archivo/directorio**
+De esta manera podes evitar que ciertos archivos sean renombrados o brrados si aunque los permisos del directorio lo permitan.
+
+```bash
+-rwxr-sr--. 1 juan ventas 36 feb 6 16:30 hola.txt 
+```
 
 
 
@@ -831,11 +836,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzAxODM1OTUsLTk3NjgzODA3NSw4Mz
-c3MTMzLDEwNDA1MjA3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAs
-NDM0NjY5MTI2LC01MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNT
-E1NDYyNywtNzMzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEw
-MSwxNDc3NTU0NzI4LDQ5OTAzNSwxNDI0MDQ1NTgwLDU0ODE0MD
-A2MSwtMzk1NDUwOTU4LDE4NzYzNDU0NTMsMTc1Njg4MjUwN119
+eyJoaXN0b3J5IjpbLTg5MjY3NjM5LC05NzY4MzgwNzUsODM3Nz
+EzMywxMDQwNTIwNzU5LC0zMTMwODg1MTYsMTk4MzIxNDUwLDQz
+NDY2OTEyNiwtNTMyNDA0NDI5LDE5OTMyMDA4MjcsLTE2MjUxNT
+Q2MjcsLTczMzY5NTA1Niw3OTIyNTYwMTQsLTEwODkwMjIxMDEs
+MTQ3NzU1NDcyOCw0OTkwMzUsMTQyNDA0NTU4MCw1NDgxNDAwNj
+EsLTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDddfQ==
 
 -->
