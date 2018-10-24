@@ -371,8 +371,10 @@ EJ:
 -rwxr-sr--. 1 juan ventas 36 feb 6 16:30 hola.txt 
 ```
 
-Si e
-
+Si el permiso para ejecucion no esta colocado pero el SETGUID si (situacion que no tiene sentido practico) entonces el permiso se ve asi:
+```bash
+-rwxr-Sr--. 1 juan ventas 36 feb 6 16:30 hola.txt 
+```
 
 Se añade asi:
 
@@ -399,6 +401,11 @@ Se indica con una **t** en el permiso de ejecucion para terceros.
 
 ```bash
 -rwxr-sr-t. 1 juan ventas 36 feb 6 16:30 hola.txt 
+```
+
+Si el sticky bit esta activado pero los terceros no tienen permiso de ejecucion, la T se hace mayuscula.
+```bash
+-rwxr-sr-T. 1 juan ventas 36 feb 6 16:30 hola.txt 
 ```
 
 Para agregarlo:
@@ -853,7 +860,7 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzkwMDc5MCwzMDYyMDc0MzcsLTk3Nj
+eyJoaXN0b3J5IjpbLTExNTQwNzAxMywzMDYyMDc0MzcsLTk3Nj
 gzODA3NSw4Mzc3MTMzLDEwNDA1MjA3NTksLTMxMzA4ODUxNiwx
 OTgzMjE0NTAsNDM0NjY5MTI2LC01MzI0MDQ0MjksMTk5MzIwMD
 gyNywtMTYyNTE1NDYyNywtNzMzNjk1MDU2LDc5MjI1NjAxNCwt
