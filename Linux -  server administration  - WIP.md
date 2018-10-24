@@ -361,6 +361,12 @@ Se remueve asi:
 
 De la misma manera que SETUID te permite ejecutar un archivo como si fueras el dueño del mismo, **SETGUID te permite ejecutar un archivo como si formaras parte del grupo del archivo**
 
+EJ:
+```bash
+-rwxr-sr--. 1 juan ventas 36 feb 6 16:30 hola.txt 
+```
+
+
 
 **CRITICO: **
 > Noramlmente las distros de linux **no honrran el SETUID  como root en scripts de shell, solo lo hacen en archivos binarios**, esto es por que un bash script corrido como root es efectivamente como tener una consola con derechos administrativos para cualquier usuario y es un **riesgo de priviledge escalation!**
@@ -808,7 +814,7 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Mzc2MTU5NiwtOTc2ODM4MDc1LDgzNz
+eyJoaXN0b3J5IjpbMTA1ODE1NzM0MywtOTc2ODM4MDc1LDgzNz
 cxMzMsMTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5ODMyMTQ1MCw0
 MzQ2NjkxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3LC0xNjI1MT
 U0NjI3LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0xMDg5MDIyMTAx
