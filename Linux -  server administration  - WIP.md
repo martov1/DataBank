@@ -382,6 +382,12 @@ chmod g-s /path/to/file
 **CRITICO:**
 > Colocar SETGID en una carpeta hace que **los nuevos archivos generados hereden ese grupo** y que los subdirectorios **hereden el permiso setgid**
 
+### STICKY-BIT - evitar borrado o renombrado 
+
+El sticky bit te permite **asegurarte que solo el owner y el root puedan borrar o editar un archivo/directorio**
+
+
+
 ## Busqueda en el filesystem
 
 
@@ -825,11 +831,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTk4NjU0MCwtOTc2ODM4MDc1LDgzNz
-cxMzMsMTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5ODMyMTQ1MCw0
-MzQ2NjkxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3LC0xNjI1MT
-U0NjI3LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0xMDg5MDIyMTAx
-LDE0Nzc1NTQ3MjgsNDk5MDM1LDE0MjQwNDU1ODAsNTQ4MTQwMD
-YxLC0zOTU0NTA5NTgsMTg3NjM0NTQ1MywxNzU2ODgyNTA3XX0=
+eyJoaXN0b3J5IjpbLTE4NzAxODM1OTUsLTk3NjgzODA3NSw4Mz
+c3MTMzLDEwNDA1MjA3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAs
+NDM0NjY5MTI2LC01MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNT
+E1NDYyNywtNzMzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEw
+MSwxNDc3NTU0NzI4LDQ5OTAzNSwxNDI0MDQ1NTgwLDU0ODE0MD
+A2MSwtMzk1NDUwOTU4LDE4NzYzNDU0NTMsMTc1Njg4MjUwN119
 
 -->
