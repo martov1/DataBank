@@ -609,9 +609,8 @@ las opciones que podes usar son
  * **-g** cambia el GID del grupo
  * **-n** Renombra el grupo  
 
-# Logging - WIP
+# Logging
 
-**ver:** 040 System Logging
 
 ## Estandar syslog
 
@@ -805,11 +804,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5OD
-MyMTQ1MCw0MzQ2NjkxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3
-LC0xNjI1MTU0NjI3LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0xMD
-g5MDIyMTAxLDE0Nzc1NTQ3MjgsNDk5MDM1LDE0MjQwNDU1ODAs
-NTQ4MTQwMDYxLC0zOTU0NTA5NTgsMTg3NjM0NTQ1MywxNzU2OD
-gyNTA3LDEwMDMyMzEwOTQsMjA3OTE2MDE5NCwtODA3Mjk4Mjc0
-XX0=
+eyJoaXN0b3J5IjpbODM3NzEzMywxMDQwNTIwNzU5LC0zMTMwOD
+g1MTYsMTk4MzIxNDUwLDQzNDY2OTEyNiwtNTMyNDA0NDI5LDE5
+OTMyMDA4MjcsLTE2MjUxNTQ2MjcsLTczMzY5NTA1Niw3OTIyNT
+YwMTQsLTEwODkwMjIxMDEsMTQ3NzU1NDcyOCw0OTkwMzUsMTQy
+NDA0NTU4MCw1NDgxNDAwNjEsLTM5NTQ1MDk1OCwxODc2MzQ1ND
+UzLDE3NTY4ODI1MDcsMTAwMzIzMTA5NCwyMDc5MTYwMTk0XX0=
+
 -->
