@@ -359,7 +359,7 @@ Se remueve asi:
 
 ### SETGUID - Permitir a terceros correr como grupo
 
-De la misma manera que SETUID te permite ejecutar un archivo como si fueras el dueño del mismo, **SETGUID te permite ejecutar un archivo como si formaras parte del grupo del archivo**
+De la misma manera que SETUID te permite ejecutar un archivo como si fueras el dueño del mismo, **SETGUID te permite ejecutar un archivo como si formaras parte del grupo del archivo** se indica con una **s** en el lugar de ejecucion de grupo
 
 EJ:
 ```bash
@@ -814,7 +814,7 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODE1NzM0MywtOTc2ODM4MDc1LDgzNz
+eyJoaXN0b3J5IjpbMTEzNDE1ODczNywtOTc2ODM4MDc1LDgzNz
 cxMzMsMTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5ODMyMTQ1MCw0
 MzQ2NjkxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3LC0xNjI1MT
 U0NjI3LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0xMDg5MDIyMTAx
