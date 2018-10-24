@@ -357,7 +357,7 @@ Se remueve asi:
 	chmod u-s /path/to/file
 	chmod 0755 /path/to/file
 
-**CRITICO:**
+**CRITICO: **
 > Noramlmente las distros de linux **no honrran el SETUID  como root en scripts de shell, solo lo hacen en archivos binarios**, esto es por que un bash script corrido como root es efectivamente como tener una consola con derechos administrativos para cualquier usuario y es un **riesgo de priviledge escalation!**
 
 ## Busqueda en el filesystem
@@ -803,11 +803,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjgzODA3NSw4Mzc3MTMzLDEwNDA1Mj
-A3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAsNDM0NjY5MTI2LC01
-MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNTE1NDYyNywtNzMzNj
-k1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEwMSwxNDc3NTU0NzI4
-LDQ5OTAzNSwxNDI0MDQ1NTgwLDU0ODE0MDA2MSwtMzk1NDUwOT
-U4LDE4NzYzNDU0NTMsMTc1Njg4MjUwNywxMDAzMjMxMDk0XX0=
+eyJoaXN0b3J5IjpbLTEzMTMwOTEzODksLTk3NjgzODA3NSw4Mz
+c3MTMzLDEwNDA1MjA3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAs
+NDM0NjY5MTI2LC01MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNT
+E1NDYyNywtNzMzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEw
+MSwxNDc3NTU0NzI4LDQ5OTAzNSwxNDI0MDQ1NTgwLDU0ODE0MD
+A2MSwtMzk1NDUwOTU4LDE4NzYzNDU0NTMsMTc1Njg4MjUwN119
 
 -->
