@@ -346,6 +346,10 @@ EJ:
 ```bash
 -rwsr--r--. 1 juan ventas 36 feb 6 16:30 hola.txt 
 ```
+>Si **setuid** esta activado pero el archivo **no tiene permiso de ejecucion** (esto no tiene sentido, pero podria suceder) entonces aparece una S mayuscula
+>```bash
+>-rwSr--r--. 1 juan ventas 36 feb 6 16:30 hola.txt 
+>```
 
 Se añade asi;
 
@@ -845,11 +849,10 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2MjA3NDM3LC05NzY4MzgwNzUsODM3Nz
-EzMywxMDQwNTIwNzU5LC0zMTMwODg1MTYsMTk4MzIxNDUwLDQz
-NDY2OTEyNiwtNTMyNDA0NDI5LDE5OTMyMDA4MjcsLTE2MjUxNT
-Q2MjcsLTczMzY5NTA1Niw3OTIyNTYwMTQsLTEwODkwMjIxMDEs
-MTQ3NzU1NDcyOCw0OTkwMzUsMTQyNDA0NTU4MCw1NDgxNDAwNj
-EsLTM5NTQ1MDk1OCwxODc2MzQ1NDUzLDE3NTY4ODI1MDddfQ==
-
+eyJoaXN0b3J5IjpbNDIwNjU0MjQ3LDMwNjIwNzQzNywtOTc2OD
+M4MDc1LDgzNzcxMzMsMTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5
+ODMyMTQ1MCw0MzQ2NjkxMjYsLTUzMjQwNDQyOSwxOTkzMjAwOD
+I3LC0xNjI1MTU0NjI3LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0x
+MDg5MDIyMTAxLDE0Nzc1NTQ3MjgsNDk5MDM1LDE0MjQwNDU1OD
+AsNTQ4MTQwMDYxLC0zOTU0NTA5NTgsMTg3NjM0NTQ1M119
 -->
