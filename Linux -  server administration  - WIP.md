@@ -380,7 +380,7 @@ chmod g-s /path/to/file
 
 
 **CRITICO:**
-> Noramlmente las distros de linux **no honrran el SETUID  como root en scripts de shell, solo lo hacen en archivos binarios**, esto es por que un bash script corrido como root es efectivamente como tener una consola con derechos administrativos para cualquier usuario y es un **riesgo de priviledge escalation!**
+> Colocar SETGID en una carpeta hace que **los nuevos archivos generados hereden ese grup** y
 
 ## Busqueda en el filesystem
 
@@ -825,7 +825,7 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjQ2NTkxLC05NzY4MzgwNzUsODM3Nz
+eyJoaXN0b3J5IjpbLTIxMTA4OTMyLC05NzY4MzgwNzUsODM3Nz
 EzMywxMDQwNTIwNzU5LC0zMTMwODg1MTYsMTk4MzIxNDUwLDQz
 NDY2OTEyNiwtNTMyNDA0NDI5LDE5OTMyMDA4MjcsLTE2MjUxNT
 Q2MjcsLTczMzY5NTA1Niw3OTIyNTYwMTQsLTEwODkwMjIxMDEs
