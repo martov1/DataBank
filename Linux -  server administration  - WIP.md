@@ -393,6 +393,10 @@ Se indica con una **t** en el permiso de ejecucion para terceros.
 -rwxr-sr-t. 1 juan ventas 36 feb 6 16:30 hola.txt 
 ```
 
+Para agregarlo:
+```bash
+chmod o-s /path/to/file
+```
 
 
 ## Busqueda en el filesystem
@@ -838,11 +842,11 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM5ODMxOTAsLTk3NjgzODA3NSw4Mz
-c3MTMzLDEwNDA1MjA3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAs
-NDM0NjY5MTI2LC01MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNT
-E1NDYyNywtNzMzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEw
-MSwxNDc3NTU0NzI4LDQ5OTAzNSwxNDI0MDQ1NTgwLDU0ODE0MD
-A2MSwtMzk1NDUwOTU4LDE4NzYzNDU0NTMsMTc1Njg4MjUwN119
+eyJoaXN0b3J5IjpbMTYzMzE4MDg1MywtOTc2ODM4MDc1LDgzNz
+cxMzMsMTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5ODMyMTQ1MCw0
+MzQ2NjkxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3LC0xNjI1MT
+U0NjI3LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0xMDg5MDIyMTAx
+LDE0Nzc1NTQ3MjgsNDk5MDM1LDE0MjQwNDU1ODAsNTQ4MTQwMD
+YxLC0zOTU0NTA5NTgsMTg3NjM0NTQ1MywxNzU2ODgyNTA3XX0=
 
 -->
