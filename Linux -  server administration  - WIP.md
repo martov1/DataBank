@@ -895,13 +895,14 @@ echo "me gusta el $MI_VARIABLE , es riquisimo"
 ### Tests
 
 Los tests te permiten ejercer logica condicional para tomar una decision.
+**Los tests deben colocarse entre corchetes**
 
 ```bash
 #Checkeo existencia de archivo
 [ -e /etc/passwd]
 ```
 
-Tests de filesystem:
+**Tests de filesystem:**
 * **-d** True si el archivo es un directorio
 * **-e** True si el archivo existe
 * **-f** true si el archivo existe y no es un directiorio
@@ -910,12 +911,17 @@ Tests de filesystem:
 * **-w** True si el script tiene permisos para escribir el archivo
 * **-x** True si el script tiene permisos para ejecutar el archivo 
 
+**Tests de strings:**
+* **-z** True si el strng esta vacio
+* **-n** true si el string no esta vacio
+* **string1 = string2** true si los strings son iguales
+* **string1 != string2** true si los strings no son iguales
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc0MzQ4MzcsLTIwNDYwNDkxNzIsMT
-kwOTkzNDE3MiwtMTE1NDA3MDEzLDMwNjIwNzQzNywtOTc2ODM4
-MDc1LDgzNzcxMzMsMTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5OD
-MyMTQ1MCw0MzQ2NjkxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3
-LC0xNjI1MTU0NjI3LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0xMD
-g5MDIyMTAxLDE0Nzc1NTQ3MjgsNDk5MDM1LDE0MjQwNDU1ODBd
+eyJoaXN0b3J5IjpbLTcyMDM1MTk0MywtMjA0NzQzNDgzNywtMj
+A0NjA0OTE3MiwxOTA5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3
+NDM3LC05NzY4MzgwNzUsODM3NzEzMywxMDQwNTIwNzU5LC0zMT
+MwODg1MTYsMTk4MzIxNDUwLDQzNDY2OTEyNiwtNTMyNDA0NDI5
+LDE5OTMyMDA4MjcsLTE2MjUxNTQ2MjcsLTczMzY5NTA1Niw3OT
+IyNTYwMTQsLTEwODkwMjIxMDEsMTQ3NzU1NDcyOCw0OTkwMzVd
 fQ==
 -->
