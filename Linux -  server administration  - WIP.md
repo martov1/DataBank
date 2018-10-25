@@ -896,14 +896,23 @@ echo "me gusta el $MI_VARIABLE , es riquisimo"
 
 Los tests te permiten ejercer logica condicional para tomar una decision.
 
+```bash
 #Checkeo existencia de archivo
 [ -e /etc/passwd]
+```
+
+Tests de filesystem:
+* **-d** True si el archivo es un directorio
+* **-e** True si el archivo existe
+* **-f** true si el archivo existe y no es un directiorio
+* **-r** True si el script  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDYwNDkxNzIsMTkwOTkzNDE3MiwtMT
-E1NDA3MDEzLDMwNjIwNzQzNywtOTc2ODM4MDc1LDgzNzcxMzMs
-MTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5ODMyMTQ1MCw0MzQ2Nj
-kxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3LC0xNjI1MTU0NjI3
-LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0xMDg5MDIyMTAxLDE0Nz
-c1NTQ3MjgsNDk5MDM1LDE0MjQwNDU1ODAsNTQ4MTQwMDYxXX0=
+eyJoaXN0b3J5IjpbMTAwODY5OTk2OCwtMjA0NjA0OTE3MiwxOT
+A5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3NDM3LC05NzY4Mzgw
+NzUsODM3NzEzMywxMDQwNTIwNzU5LC0zMTMwODg1MTYsMTk4Mz
+IxNDUwLDQzNDY2OTEyNiwtNTMyNDA0NDI5LDE5OTMyMDA4Mjcs
+LTE2MjUxNTQ2MjcsLTczMzY5NTA1Niw3OTIyNTYwMTQsLTEwOD
+kwMjIxMDEsMTQ3NzU1NDcyOCw0OTkwMzUsMTQyNDA0NTU4MF19
 
 -->
