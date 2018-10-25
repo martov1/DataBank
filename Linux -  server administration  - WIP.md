@@ -935,12 +935,14 @@ fi
 
 Podes hacer un loop asi
 
-for loopelement in a
-comando 1
-comando 2 comando n
+```bash
+for COLOR in ROJO AZUL NEGRO
+	echo $COLOR
 done
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDU3MDQ4NSwtMjA0NzQzNDgzNywtMj
+eyJoaXN0b3J5IjpbLTM0MDk5OTIxNCwtMjA0NzQzNDgzNywtMj
 A0NjA0OTE3MiwxOTA5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3
 NDM3LC05NzY4MzgwNzUsODM3NzEzMywxMDQwNTIwNzU5LC0zMT
 MwODg1MTYsMTk4MzIxNDUwLDQzNDY2OTEyNiwtNTMyNDA0NDI5
