@@ -883,15 +883,20 @@ MI_VARIABLE="pan de salvado"
 **Es importante que:**
 * No haya espacios de ninguno de los lados del igual
 * Los nombres van en mayusculas por convencion
-
+* No empezar el nombre de la variable con un nuemro
+* No usar **@** o **-**
 Para usar una variable:
 ```bash
-#Hay dos formas, el
+#Hay dos formas, la segunda no te deja poner algo inmediatamente despues del nombre de la variable, en este caso la coma.
 echo "me gusta el ${MI_VARIABLE}, es riquisimo"
 echo "me gusta el $MI_VARIABLE , es riquisimo"
 ```
+
+### Tests
+
+Los tes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE3MjEwODMsMTkwOTkzNDE3MiwtMT
+eyJoaXN0b3J5IjpbLTIwNzE2MTM2NzAsMTkwOTkzNDE3MiwtMT
 E1NDA3MDEzLDMwNjIwNzQzNywtOTc2ODM4MDc1LDgzNzcxMzMs
 MTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5ODMyMTQ1MCw0MzQ2Nj
 kxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3LC0xNjI1MTU0NjI3
