@@ -905,14 +905,17 @@ Tests de filesystem:
 * **-d** True si el archivo es un directorio
 * **-e** True si el archivo existe
 * **-f** true si el archivo existe y no es un directiorio
-* **-r** True si el script  
+* **-r** True si el script tiene permisos para leer el archivo
+* **-s** True si el archivo existe y no esta vacio
+* **-w** True si el script tiene permisos para escribir el archivo
+* **-x** True si el script tiene permisos para ejecutar el archivo 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODY5OTk2OCwtMjA0NjA0OTE3MiwxOT
-A5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3NDM3LC05NzY4Mzgw
-NzUsODM3NzEzMywxMDQwNTIwNzU5LC0zMTMwODg1MTYsMTk4Mz
-IxNDUwLDQzNDY2OTEyNiwtNTMyNDA0NDI5LDE5OTMyMDA4Mjcs
-LTE2MjUxNTQ2MjcsLTczMzY5NTA1Niw3OTIyNTYwMTQsLTEwOD
-kwMjIxMDEsMTQ3NzU1NDcyOCw0OTkwMzUsMTQyNDA0NTU4MF19
-
+eyJoaXN0b3J5IjpbLTIwNDc0MzQ4MzcsLTIwNDYwNDkxNzIsMT
+kwOTkzNDE3MiwtMTE1NDA3MDEzLDMwNjIwNzQzNywtOTc2ODM4
+MDc1LDgzNzcxMzMsMTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5OD
+MyMTQ1MCw0MzQ2NjkxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3
+LC0xNjI1MTU0NjI3LC03MzM2OTUwNTYsNzkyMjU2MDE0LC0xMD
+g5MDIyMTAxLDE0Nzc1NTQ3MjgsNDk5MDM1LDE0MjQwNDU1ODBd
+fQ==
 -->
