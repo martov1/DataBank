@@ -311,10 +311,10 @@ Los virtual hosts te permiten tener multiples sitios en un solo servidor, apache
 Definis el virtual host con una Ip o un nombre de dominio en la section 
 
 ```
-<VirtualHost miDominio:miPuerto>
+<VirtualHost IP/MAC:puerto>
   ServerAdmin webmaster@host.example.com 
   DocumentRoot  "/www/docs/host.example.com"  
-  ServerName host.example.com 
+  ServerName el.dominio.com
   ErrorLog  "logs/host.example.com-error_log"  
   TransferLog  "logs/host.example.com-access_log"
 </virtualHost>
@@ -360,11 +360,11 @@ Podes loguear las acciones de Mod_rewrite asi
 	LogLevel alert rewrite:trace3
 >Los log levels van desde trace0 a trace9, no uses para produccion nada mayor a trace2 por que va a ralentizar el server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM0NjAxNjUsMTMzMDAyMTI5MCwxNT
-Q5MTA0MTYxLDE1ODU4MzU2NzQsMTI3OTQ2MzY4NywtMjI2NjI0
-MDYwLC0yMDc2MTQ2OTQsLTg3NTc4MzMxNiwyODg2OTQ4ODIsMT
-M5NTAwODYyMCwtOTU4NzM1OTczLC0xODc4Mjg0NTM5LDE5NDg2
-OTA2ODEsLTc4NzUwODU1NywxODEwOTI4MTc4LDQ2NDg4NjM3Ny
-wxODI2MjE2OTkxLC04NDc0NDIyMTksOTg0NDAzMDI4LDExOTk1
-Nzc1OTFdfQ==
+eyJoaXN0b3J5IjpbLTY4OTg2NjIwMywtMTExMzQ2MDE2NSwxMz
+MwMDIxMjkwLDE1NDkxMDQxNjEsMTU4NTgzNTY3NCwxMjc5NDYz
+Njg3LC0yMjY2MjQwNjAsLTIwNzYxNDY5NCwtODc1NzgzMzE2LD
+I4ODY5NDg4MiwxMzk1MDA4NjIwLC05NTg3MzU5NzMsLTE4Nzgy
+ODQ1MzksMTk0ODY5MDY4MSwtNzg3NTA4NTU3LDE4MTA5MjgxNz
+gsNDY0ODg2Mzc3LDE4MjYyMTY5OTEsLTg0NzQ0MjIxOSw5ODQ0
+MDMwMjhdfQ==
 -->
