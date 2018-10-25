@@ -941,12 +941,16 @@ for COLOR in ROJO AZUL NEGRO
 done
 ```
 
+### Parametros
+
+Tu script puede aceptar parametros del usuario cuando se lo invoca.
+Los parametros se obtienen con **$0, $1, $2, etc** para el primer argumento, segundo y asi sucesivamente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDk5OTIxNCwtMjA0NzQzNDgzNywtMj
-A0NjA0OTE3MiwxOTA5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3
-NDM3LC05NzY4MzgwNzUsODM3NzEzMywxMDQwNTIwNzU5LC0zMT
-MwODg1MTYsMTk4MzIxNDUwLDQzNDY2OTEyNiwtNTMyNDA0NDI5
-LDE5OTMyMDA4MjcsLTE2MjUxNTQ2MjcsLTczMzY5NTA1Niw3OT
-IyNTYwMTQsLTEwODkwMjIxMDEsMTQ3NzU1NDcyOCw0OTkwMzVd
-fQ==
+eyJoaXN0b3J5IjpbLTc1ODA0NDM4MiwtMzQwOTk5MjE0LC0yMD
+Q3NDM0ODM3LC0yMDQ2MDQ5MTcyLDE5MDk5MzQxNzIsLTExNTQw
+NzAxMywzMDYyMDc0MzcsLTk3NjgzODA3NSw4Mzc3MTMzLDEwND
+A1MjA3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAsNDM0NjY5MTI2
+LC01MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNTE1NDYyNywtNz
+MzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEwMSwxNDc3NTU0
+NzI4XX0=
 -->
