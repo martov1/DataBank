@@ -858,13 +858,23 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
 
  
  
+# Shell scripting
+
+Los script shells son una manera de automatizar lo que se puede hacer en la consola
+
+
+## Seleccion de interprete
+
+Para seleccionar un interprete para el script usas la sintaxis
+
+    aaa
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQwNzAxMywzMDYyMDc0MzcsLTk3Nj
-gzODA3NSw4Mzc3MTMzLDEwNDA1MjA3NTksLTMxMzA4ODUxNiwx
-OTgzMjE0NTAsNDM0NjY5MTI2LC01MzI0MDQ0MjksMTk5MzIwMD
-gyNywtMTYyNTE1NDYyNywtNzMzNjk1MDU2LDc5MjI1NjAxNCwt
-MTA4OTAyMjEwMSwxNDc3NTU0NzI4LDQ5OTAzNSwxNDI0MDQ1NT
-gwLDU0ODE0MDA2MSwtMzk1NDUwOTU4LDE4NzYzNDU0NTNdfQ==
+eyJoaXN0b3J5IjpbLTc0NjgwNzI4NCwtMTE1NDA3MDEzLDMwNj
+IwNzQzNywtOTc2ODM4MDc1LDgzNzcxMzMsMTA0MDUyMDc1OSwt
+MzEzMDg4NTE2LDE5ODMyMTQ1MCw0MzQ2NjkxMjYsLTUzMjQwND
+QyOSwxOTkzMjAwODI3LC0xNjI1MTU0NjI3LC03MzM2OTUwNTYs
+NzkyMjU2MDE0LC0xMDg5MDIyMTAxLDE0Nzc1NTQ3MjgsNDk5MD
+M1LDE0MjQwNDU1ODAsNTQ4MTQwMDYxLC0zOTU0NTA5NThdfQ==
 
 -->
