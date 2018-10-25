@@ -863,7 +863,7 @@ Para que un dispositivo quede montado permanentemente despues de reiniciar, tene
 Los script shells son una manera de automatizar lo que se puede hacer en la consola
 
 
-## Seleccion de interprete
+### Seleccion de interprete
 
 Para seleccionar un interprete para el script usas la sintaxis
 
@@ -873,12 +873,22 @@ Para seleccionar un interprete para el script usas la sintaxis
     #!/bin/csh
     #!/bin/ksh
  ```
+ 
+### Variables
 
+Las variables se declaran de la siguiente manera
+
+MI_VARIABLE="VALOR"
+
+Es importante que:
+* No haya espacios de ninguno de los lados del igual
+* Los nombres van en mayusculas por convencion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0Nzg0MzA0LC0xMTU0MDcwMTMsMzA2Mj
-A3NDM3LC05NzY4MzgwNzUsODM3NzEzMywxMDQwNTIwNzU5LC0z
-MTMwODg1MTYsMTk4MzIxNDUwLDQzNDY2OTEyNiwtNTMyNDA0ND
-I5LDE5OTMyMDA4MjcsLTE2MjUxNTQ2MjcsLTczMzY5NTA1Niw3
-OTIyNTYwMTQsLTEwODkwMjIxMDEsMTQ3NzU1NDcyOCw0OTkwMz
-UsMTQyNDA0NTU4MCw1NDgxNDAwNjEsLTM5NTQ1MDk1OF19
+eyJoaXN0b3J5IjpbMjExODY3OTQxNCwtMTE1NDA3MDEzLDMwNj
+IwNzQzNywtOTc2ODM4MDc1LDgzNzcxMzMsMTA0MDUyMDc1OSwt
+MzEzMDg4NTE2LDE5ODMyMTQ1MCw0MzQ2NjkxMjYsLTUzMjQwND
+QyOSwxOTkzMjAwODI3LC0xNjI1MTU0NjI3LC03MzM2OTUwNTYs
+NzkyMjU2MDE0LC0xMDg5MDIyMTAxLDE0Nzc1NTQ3MjgsNDk5MD
+M1LDE0MjQwNDU1ODAsNTQ4MTQwMDYxLC0zOTU0NTA5NThdfQ==
+
 -->
