@@ -904,7 +904,7 @@ if [ -e /etc/passwd] then
 else
 #otras cosas
 
-elif []
+elif [ OTRO TEST ]
 fi
 ```
 
@@ -930,12 +930,21 @@ fi
 * **10 -le 20** True si 10 es less than or equal to 20
 * **10 -gt 20** true si greater than
 * **10 ge 20** true si greater or equal
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3ODg0Mzc2LC0yMDQ3NDM0ODM3LC0yMD
-Q2MDQ5MTcyLDE5MDk5MzQxNzIsLTExNTQwNzAxMywzMDYyMDc0
-MzcsLTk3NjgzODA3NSw4Mzc3MTMzLDEwNDA1MjA3NTksLTMxMz
-A4ODUxNiwxOTgzMjE0NTAsNDM0NjY5MTI2LC01MzI0MDQ0Mjks
-MTk5MzIwMDgyNywtMTYyNTE1NDYyNywtNzMzNjk1MDU2LDc5Mj
-I1NjAxNCwtMTA4OTAyMjEwMSwxNDc3NTU0NzI4LDQ5OTAzNV19
 
+### Loops
+
+Podes hacer un loop asi
+
+for loopelement in a
+comando 1
+comando 2 comando n
+done
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQyMDU3MDQ4NSwtMjA0NzQzNDgzNywtMj
+A0NjA0OTE3MiwxOTA5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3
+NDM3LC05NzY4MzgwNzUsODM3NzEzMywxMDQwNTIwNzU5LC0zMT
+MwODg1MTYsMTk4MzIxNDUwLDQzNDY2OTEyNiwtNTMyNDA0NDI5
+LDE5OTMyMDA4MjcsLTE2MjUxNTQ2MjcsLTczMzY5NTA1Niw3OT
+IyNTYwMTQsLTEwODkwMjIxMDEsMTQ3NzU1NDcyOCw0OTkwMzVd
+fQ==
 -->
