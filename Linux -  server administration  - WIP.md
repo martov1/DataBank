@@ -876,15 +876,20 @@ Para seleccionar un interprete para el script usas la sintaxis
  
 ### Variables
 
-Las variables se declaran de la siguiente manera
-
-MI_VARIABLE="VALOR"
-
-Es importante que:
+Las variables se declaran de la siguiente manera: 
+```bash
+MI_VARIABLE="pan de salvado"
+```
+**Es importante que:**
 * No haya espacios de ninguno de los lados del igual
 * Los nombres van en mayusculas por convencion
+
+Para usar una variable:
+```bash
+echo "me gusta el ${MI_VARIABLE}"
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODY3OTQxNCwtMTE1NDA3MDEzLDMwNj
+eyJoaXN0b3J5IjpbMTkwOTkzNDE3MiwtMTE1NDA3MDEzLDMwNj
 IwNzQzNywtOTc2ODM4MDc1LDgzNzcxMzMsMTA0MDUyMDc1OSwt
 MzEzMDg4NTE2LDE5ODMyMTQ1MCw0MzQ2NjkxMjYsLTUzMjQwND
 QyOSwxOTkzMjAwODI3LC0xNjI1MTU0NjI3LC03MzM2OTUwNTYs
