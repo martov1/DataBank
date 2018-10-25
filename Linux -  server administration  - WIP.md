@@ -879,7 +879,8 @@ Para seleccionar un interprete para el script usas la sintaxis
 Las variables se declaran de la siguiente manera: 
 ```bash
 MI_VARIABLE="pan de salvado"
-MI_VARIABLE = $()
+#Guardar el output de un comando en una variable
+MI_VARIABLE = $(MiComando)
 ```
 **Es importante que:**
 * No haya espacios de ninguno de los lados del igual
@@ -966,11 +967,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 	echo "el usuario es: $MI_VARIABLE"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTQ4MDkyNywtMzQwOTk5MjE0LC0yMD
-Q3NDM0ODM3LC0yMDQ2MDQ5MTcyLDE5MDk5MzQxNzIsLTExNTQw
-NzAxMywzMDYyMDc0MzcsLTk3NjgzODA3NSw4Mzc3MTMzLDEwND
-A1MjA3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAsNDM0NjY5MTI2
-LC01MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNTE1NDYyNywtNz
-MzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEwMSwxNDc3NTU0
-NzI4XX0=
+eyJoaXN0b3J5IjpbLTg3MjQ0MTczLC0zNDA5OTkyMTQsLTIwND
+c0MzQ4MzcsLTIwNDYwNDkxNzIsMTkwOTkzNDE3MiwtMTE1NDA3
+MDEzLDMwNjIwNzQzNywtOTc2ODM4MDc1LDgzNzcxMzMsMTA0MD
+UyMDc1OSwtMzEzMDg4NTE2LDE5ODMyMTQ1MCw0MzQ2NjkxMjYs
+LTUzMjQwNDQyOSwxOTkzMjAwODI3LC0xNjI1MTU0NjI3LC03Mz
+M2OTUwNTYsNzkyMjU2MDE0LC0xMDg5MDIyMTAxLDE0Nzc1NTQ3
+MjhdfQ==
 -->
