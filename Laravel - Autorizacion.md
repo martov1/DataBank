@@ -322,5 +322,6 @@ Dentro del controller podes usar el metodo **authorize()** para determiar si una
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTczNDI0OCwxMzI5OTY0NTY4XX0=
+eyJoaXN0b3J5IjpbOTcxMTgyMjMwLC02Mjk3MzQyNDgsMTMyOT
+k2NDU2OF19
 -->
