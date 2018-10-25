@@ -922,9 +922,10 @@ Los tests te permiten ejercer logica condicional para tomar una decision.
 * **10 -ne 20**  True si no son iguales
 * **10 -lt 20** True si 10 es less than 20
 * **10 -le 20** True si 10 es less than or equal to 20
-* **10**
+* **10 -gt 20** true si greater than
+* **10 ge 20** true si greater or equal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjE2OTYxMiwtMjA0NzQzNDgzNywtMj
+eyJoaXN0b3J5IjpbMTcxMjU2MjcwMSwtMjA0NzQzNDgzNywtMj
 A0NjA0OTE3MiwxOTA5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3
 NDM3LC05NzY4MzgwNzUsODM3NzEzMywxMDQwNTIwNzU5LC0zMT
 MwODg1MTYsMTk4MzIxNDUwLDQzNDY2OTEyNiwtNTMyNDA0NDI5
