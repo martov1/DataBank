@@ -879,6 +879,7 @@ Para seleccionar un interprete para el script usas la sintaxis
 Las variables se declaran de la siguiente manera: 
 ```bash
 MI_VARIABLE="pan de salvado"
+MI_VARIABLE = $()
 ```
 **Es importante que:**
 * No haya espacios de ninguno de los lados del igual
@@ -957,17 +958,19 @@ echo "todos los parametros $@"
 ### Interceptar STDIN
 
 Podes interceptar el **standard input** del usuario o de otro comando, por ejemplo si queres que el usuario escriba algo durante la ejecucion del script.
-```bash
 
-	read -p "indique el usuario:" USUARIO
-	echo $USUARIO
-	```
+Podes interceptar el input y guardarlo en una variable asi:
+
+```bash
+	read -p "indique el usuario:" MI_VARIABLE
+	echo "el usuario es: $MI_VARIABLE"
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ3ODQwMDIsLTM0MDk5OTIxNCwtMj
-A0NzQzNDgzNywtMjA0NjA0OTE3MiwxOTA5OTM0MTcyLC0xMTU0
-MDcwMTMsMzA2MjA3NDM3LC05NzY4MzgwNzUsODM3NzEzMywxMD
-QwNTIwNzU5LC0zMTMwODg1MTYsMTk4MzIxNDUwLDQzNDY2OTEy
-NiwtNTMyNDA0NDI5LDE5OTMyMDA4MjcsLTE2MjUxNTQ2MjcsLT
-czMzY5NTA1Niw3OTIyNTYwMTQsLTEwODkwMjIxMDEsMTQ3NzU1
-NDcyOF19
+eyJoaXN0b3J5IjpbMjA0NTQ4MDkyNywtMzQwOTk5MjE0LC0yMD
+Q3NDM0ODM3LC0yMDQ2MDQ5MTcyLDE5MDk5MzQxNzIsLTExNTQw
+NzAxMywzMDYyMDc0MzcsLTk3NjgzODA3NSw4Mzc3MTMzLDEwND
+A1MjA3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAsNDM0NjY5MTI2
+LC01MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNTE1NDYyNywtNz
+MzNjk1MDU2LDc5MjI1NjAxNCwtMTA4OTAyMjEwMSwxNDc3NTU0
+NzI4XX0=
 -->
