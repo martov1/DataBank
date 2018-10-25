@@ -894,9 +894,12 @@ echo "me gusta el $MI_VARIABLE , es riquisimo"
 
 ### Tests
 
-Los tes
+Los tests te permiten ejercer logica condicional para tomar una decision.
+
+#Checkeo existencia de archivo
+[ -e /etc/passwd]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE2MTM2NzAsMTkwOTkzNDE3MiwtMT
+eyJoaXN0b3J5IjpbLTIwNDYwNDkxNzIsMTkwOTkzNDE3MiwtMT
 E1NDA3MDEzLDMwNjIwNzQzNywtOTc2ODM4MDc1LDgzNzcxMzMs
 MTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5ODMyMTQ1MCw0MzQ2Nj
 kxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3LC0xNjI1MTU0NjI3
