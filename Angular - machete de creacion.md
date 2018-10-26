@@ -169,6 +169,9 @@ npm install @types/jquery --save-dev
 import  Siema  from  'siema';
 ```
 
+### Hacer que una libreria sea inyectable
+https://hackernoon.com/angular-providers-how-to-inject-3rd-party-library-af4a78722864
+
 ### Que se cargan de internet (google SDK)
 
 Hay veces que no queda otra que cargar un script desde internet con AJAX, estos scripts **por lo general hacen uso de una variable global que te imponen en el objeto window.** 
@@ -203,6 +206,6 @@ Vamos a cargar el script generando con JS un script tag que vamos a meter en el 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjExMzIyNywtODc1NTcyMjIyLC04ND
-gyMTkzODgsLTcwMjgxODQ4NF19
+eyJoaXN0b3J5IjpbNjE2ODQyNDQwLDE2NDYxMTMyMjcsLTg3NT
+U3MjIyMiwtODQ4MjE5Mzg4LC03MDI4MTg0ODRdfQ==
 -->
