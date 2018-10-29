@@ -449,5 +449,6 @@ En blade tambien podrias usar este shorthand
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTg5MDE0NCwtNTY2MTgwNzYyXX0=
+eyJoaXN0b3J5IjpbLTIwMTQwNDM5NzYsMTQ5NTg5MDE0NCwtNT
+Y2MTgwNzYyXX0=
 -->
