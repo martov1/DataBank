@@ -78,5 +78,5 @@ $url= asset('storage/file.txt');
 	Storage::append('file.log', 'Appended Text');
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTI2Njg2MV19
+eyJoaXN0b3J5IjpbMTU3MzIxOTYwMywtNzAxMjY2ODYxXX0=
 -->
