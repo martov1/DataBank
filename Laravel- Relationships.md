@@ -193,7 +193,6 @@ Para esto laravel tiene metodos de conveniencia que **borran el modelo anterior 
 
 ```php
 //Creo el nuevo modelo
-
 $phone = Phone::firstOrCreate($data);
 
 ```
@@ -903,6 +902,6 @@ Cargas todos los datos de contacto de cada autor.
 		}
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg0NTkyMiwyMDM1MjQxMTYyLC0xMT
-I2ODM4MzA3XX0=
+eyJoaXN0b3J5IjpbMzM3OTczNzcyLDIwMzUyNDExNjIsLTExMj
+Y4MzgzMDddfQ==
 -->
