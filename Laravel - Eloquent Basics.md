@@ -516,21 +516,16 @@ Son una manera de **expresar un modelo** de eloquent en una **respuesta JSON**.
 Fuenciona como un **template** para el modelo.
 Tambien te permite **combinar modelos**
 	
-	//Devuelve una coleccion de modelos
-	php artisan make:resource Users --collection
-	//devuelve un modelo
-	php artisan make:resource UserCollection
+	//Devuelve une modelo
+	php artisan make:resource Users 
 
 
->Podes generar una coleccion ad-hoc asi
->```php
->UserResource::collection(User::all());
->```
 
 **Uso en el controller:**
 ```php
+//Devuelve un JSON del modelo
 	return new MiModelResource($MiModel)
-	//Devuelve un JSON del modelo
+	//Devuelve el JSON de varios modelos
 ```
 **Configuracion del resource:**
 En `http/resource/MiModelResource`
@@ -596,5 +591,6 @@ Podes enviar cosas usando condicionales
 	                ->header('X-Value', 'True');
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjQ2MjgxMiwtMTAzMjA1MzUwNl19
+eyJoaXN0b3J5IjpbLTEzMzY5NTYzMjUsMTg2NjQ2MjgxMiwtMT
+AzMjA1MzUwNl19
 -->
