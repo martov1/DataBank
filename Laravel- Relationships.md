@@ -197,17 +197,24 @@ Para esto laravel tiene metodos de conveniencia que **borran el modelo anterior 
 
 
 ```php
+/**
+* Metodo manual 
+**/
+
 //Creo el nuevo modelo
 $phone = Phone::firstOrNew(['user_id' => '3']);
 //Se que es el unico para este usuario,
 // lo guardo sin miedo de duplicar entradas
 $user->Phone()->save($phone);
+
+/**
+* Metodo automatico
+**/
+
+
+
 ```
 
-//Lo guardo en la relacion
-
-```
-`firstOrCreate`/  `firstOrNew`
 
 
 
@@ -909,6 +916,6 @@ Cargas todos los datos de contacto de cada autor.
 		}
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNzk5NDMxLC0xMzc5NTg4MDEsLTE0Nz
-MyNjU3MTMsMjAzNTI0MTE2MiwtMTEyNjgzODMwN119
+eyJoaXN0b3J5IjpbOTkyOTY3NDQsLTEzNzk1ODgwMSwtMTQ3Mz
+I2NTcxMywyMDM1MjQxMTYyLC0xMTI2ODM4MzA3XX0=
 -->
