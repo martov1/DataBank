@@ -193,7 +193,8 @@ Para esto laravel tiene metodos de conveniencia que **borran el modelo anterior 
 
 * **firstOrNew(array)**- instancia un nuevo modelo si no existe ninguno que tenga los datos del array y lo pobla con los datos del array
 * **firstOrCreate(array)** - Igual que firstOrNew pero hace save()
-* 
+* **updateOrCreate(array1,array2)** - Identifica el modelo buscado con los datos fillables del array1, si lo encuentra actualiza los datos con los encontrados en array2, caso contrario Instancia un modelo nuevo con los datos de array2 y los guarda en DB.
+
 
 ```php
 //Creo el nuevo modelo
@@ -906,6 +907,6 @@ Cargas todos los datos de contacto de cada autor.
 		}
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMyNjU3MTMsMjAzNTI0MTE2MiwtMT
-EyNjgzODMwN119
+eyJoaXN0b3J5IjpbLTE3Mjk0NjkzNjMsLTE0NzMyNjU3MTMsMj
+AzNTI0MTE2MiwtMTEyNjgzODMwN119
 -->
