@@ -192,11 +192,12 @@ Si guardas el modelo y luego lo relacionas, vas a **generar duplicados**, como c
 Para esto laravel tiene metodos de conveniencia que **borran el modelo anterior al momento de crear uno nuevo**, estos metodos funcionan **con un array de datos fillables, como la funcion fill()**:
 
 * **firstOrNew(array)**- instancia un nuevo modelo si no existe ninguno que tenga los datos del array y lo pobla con los datos del array
+* **firstOrCreate(array)** - Igual que firstOrNew pero hace save()
 * 
 
 ```php
 //Creo el nuevo modelo
-$phone = Phone::firstOrCreate(['name' => 'Flight 10';
+$phone = Phone::firstOrCreate(['user_id' => '3']);
 
 ```
 
@@ -905,6 +906,6 @@ Cargas todos los datos de contacto de cada autor.
 		}
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDc5NTQ2NiwyMDM1MjQxMTYyLC0xMT
-I2ODM4MzA3XX0=
+eyJoaXN0b3J5IjpbLTE0NzMyNjU3MTMsMjAzNTI0MTE2MiwtMT
+EyNjgzODMwN119
 -->
