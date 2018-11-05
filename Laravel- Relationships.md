@@ -189,7 +189,19 @@ La relacion $U_1 \Rightarrow D_1$ es definida por `$this->hasOne('App\Phone')`
 Como la relacion one-to-one necesariamente requiere que exista UN modelo unico de cada lado de la relacion, es necesario **asegurar** que no existiran **duplicados**.
 Si guardas el modelo y luego lo relacionas, vas a **generar duplicados**, como concecuencia es necesario remover el modelo anterior.
 
-Para esto laravel tiene metodos de conveniencia que **strong text**:
+Para esto laravel tiene metodos de conveniencia que **borran el modelo anterior al momento de crear uno nuevo**, estos metodos funcionan **con un array de datos fillables, como la funcion fill()**:
+
+```php
+//Creo el nuevo modelo
+
+$phone = Phone::firstOrCreate($data);
+
+```
+
+//Lo guardo en la relacion
+
+```
+`firstOrCreate`/  `firstOrNew`
 
 
 
@@ -891,6 +903,6 @@ Cargas todos los datos de contacto de cada autor.
 		}
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODA1NTczNTUsMjAzNTI0MTE2MiwtMT
-EyNjgzODMwN119
+eyJoaXN0b3J5IjpbLTE5ODg0NTkyMiwyMDM1MjQxMTYyLC0xMT
+I2ODM4MzA3XX0=
 -->
