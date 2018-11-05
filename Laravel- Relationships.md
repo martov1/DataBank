@@ -162,9 +162,8 @@ La relacion $U_1 \Rightarrow D_1$ es definida por `$this->hasOne('App\Phone')`
 		}
 ```
 
-## Añadir modelos
 
-Como la relacion one-to-one necesariamente requiere que exista
+
 	
 * **La uso asi:**
 ```php
@@ -184,6 +183,17 @@ Como la relacion one-to-one necesariamente requiere que exista
 		    }
 		}
 ```
+
+## Añadir modelos
+
+Como la relacion one-to-one necesariamente requiere que exista UN modelo unico de cada lado de la relacion, es necesario **asegurar** que no existiran **duplicados**.
+Si guardas el modelo y luego lo relacionas, vas a **generar duplicados**, como concecuencia es necesario remover el modelo anterior.
+
+Para esto laravel tiene metodos de conveniencia que **strong text**:
+
+
+
+
 ## Uso de tablas o keys no default
 
  * **Si queres usar una columna que no se llama modelo_id podes hacer esto:**
@@ -881,6 +891,6 @@ Cargas todos los datos de contacto de cada autor.
 		}
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTg5MDAzMSwyMDM1MjQxMTYyLC0xMT
-I2ODM4MzA3XX0=
+eyJoaXN0b3J5IjpbLTE1ODA1NTczNTUsMjAzNTI0MTE2MiwtMT
+EyNjgzODMwN119
 -->
