@@ -161,7 +161,10 @@ La relacion $U_1 \Rightarrow D_1$ es definida por `$this->hasOne('App\Phone')`
 		    }
 		}
 ```
-	
+
+## Añadir modelos
+
+Como la relacion one-to-one necesariamente requiere que exista
 	
 * **La uso asi:**
 ```php
@@ -878,5 +881,6 @@ Cargas todos los datos de contacto de cada autor.
 		}
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTI0MTE2MiwtMTEyNjgzODMwN119
+eyJoaXN0b3J5IjpbMTIyMTg5MDAzMSwyMDM1MjQxMTYyLC0xMT
+I2ODM4MzA3XX0=
 -->
