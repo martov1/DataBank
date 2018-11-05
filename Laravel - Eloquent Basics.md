@@ -523,9 +523,10 @@ Tambien te permite **combinar modelos**
 
 **Uso en el controller:**
 ```php
-//Devuelve un JSON del modelo
+	//Devuelve un JSON del modelo
 	return new MiModelResource($MiModel)
 	//Devuelve el JSON de varios modelos
+	PostResource::collection($this->posts)
 ```
 **Configuracion del resource:**
 En `http/resource/MiModelResource`
@@ -591,6 +592,6 @@ Podes enviar cosas usando condicionales
 	                ->header('X-Value', 'True');
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzY5NTYzMjUsMTg2NjQ2MjgxMiwtMT
-AzMjA1MzUwNl19
+eyJoaXN0b3J5IjpbOTIwNzc1MzU0LDE4NjY0NjI4MTIsLTEwMz
+IwNTM1MDZdfQ==
 -->
