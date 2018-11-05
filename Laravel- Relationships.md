@@ -217,6 +217,13 @@ $phone = $user->Phone()->firstOrNew([]);
 $phone->number = 123
 $user->Phone()->save($phone);
 
+/** 
+* Metodo basico
+* **/
+//Borro los modelos asociados.
+$user->Phone()->delete();
+$phone->number = 123
+$user->Phone()->save($phone);
 
 ```
 
@@ -921,6 +928,7 @@ Cargas todos los datos de contacto de cada autor.
 		}
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODE1NjU5MSwtMTM3OTU4ODAxLC0xND
-czMjY1NzEzLDIwMzUyNDExNjIsLTExMjY4MzgzMDddfQ==
+eyJoaXN0b3J5IjpbNDI0ODAwMTM4LC00NDgxNTY1OTEsLTEzNz
+k1ODgwMSwtMTQ3MzI2NTcxMywyMDM1MjQxMTYyLC0xMTI2ODM4
+MzA3XX0=
 -->
