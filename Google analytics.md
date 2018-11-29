@@ -24,8 +24,12 @@ Donde:
 
 * **Organization:** Agrupacion de cuentas, los small o medium businesses generalmente usan solo una para agrupar todas sus cuentas
 * **Account:** Repres
-* **Property:**
-* **View:** Vista que permite visualizar datos de analytics
+* **Property:**  recavador de informacion, utiliza un tracking code unico que colocas en la pagina 
+* **View:** Vista que permite filtrar visualizar datos de una propiedad. 		 	 
+	*  **Solo registran el futuro** - no tienen acceso a los datos del pasado
+	* **Los datos son inmutables una vez registrados**
+	* **Goals:** condiciones deseables que un VIEW trackea para ver si se cumplen 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTYxMTczNywtMTQyMTcwMTc0MV19
+eyJoaXN0b3J5IjpbLTEyMjkwNDI4NDAsMTA1MTYxMTczNywtMT
+QyMTcwMTc0MV19
 -->
