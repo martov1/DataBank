@@ -67,9 +67,15 @@ Las siguientes dimanesiones se capturan acerca de la adquisicion de trafico
 	* el search engine si el source es organic
 * **marketing campaing**
 
+### Channels
 
+Los channels agrupan todos los sources de un medium para mostrar una vision unificada, podes crear custom channels para agrupar cosas cusom.
 
+## Behaviour
+
+Muestra reportes del comportamiento de los usuarios, tales como el tiempo de sesion, la navegacion del usuario, etc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjYwODI2MywtNDc3MjUwNTE2LC0xMj
-I5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3MDE3NDFdfQ==
+eyJoaXN0b3J5IjpbLTgyNzE3NzY4MiwtMjk2NjA4MjYzLC00Nz
+cyNTA1MTYsLTEyMjkwNDI4NDAsMTA1MTYxMTczNywtMTQyMTcw
+MTc0MV19
 -->
