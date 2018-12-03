@@ -71,6 +71,10 @@ Las siguientes dimanesiones se capturan acerca de la adquisicion de trafico
 
 Los channels agrupan todos los sources de un medium para mostrar una vision unificada, podes crear custom channels para agrupar cosas cusom.
 
+### Campaigns
+
+Te permite visualizar el  trafico que llego mediante campañas
+
 ## Behaviour
 
 Muestra reportes del comportamiento de los usuarios, tales como  **el tiempo de sesion, la navegacion del usuario y que paginas visita, etc.**
@@ -99,7 +103,8 @@ El codigo se compone de los siguientes URL parameters
 * **utm_content** - identifica el contenido enviado, por ejemplo podes diferenciar entre 2 piezas graficas para ver cual tiene mejor conversion
 * **utm_term** - Identifica keywords para search campaign. EJ: un google search campaign con keyword "inmobiliarios" sera identificado con esa palabra en utm_term
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTk2MzIyLDE3NjUwMDA1NzIsNzk4ND
-kzMDExLC0yOTY2MDgyNjMsLTQ3NzI1MDUxNiwtMTIyOTA0Mjg0
-MCwxMDUxNjExNzM3LC0xNDIxNzAxNzQxXX0=
+eyJoaXN0b3J5IjpbLTE2NTA1NTY3NDAsLTkyNTk2MzIyLDE3Nj
+UwMDA1NzIsNzk4NDkzMDExLC0yOTY2MDgyNjMsLTQ3NzI1MDUx
+NiwtMTIyOTA0Mjg0MCwxMDUxNjExNzM3LC0xNDIxNzAxNzQxXX
+0=
 -->
