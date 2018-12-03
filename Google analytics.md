@@ -82,9 +82,9 @@ Muestra reportes del comportamiento de los usuarios, tales como  **el tiempo de 
 * **Conversiones**
 * **Eventos**
 	* **clicks en descargas**
-	* **strong text** 
+	* **reproduccion de video** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4NDkzMDExLC0yOTY2MDgyNjMsLTQ3Nz
-I1MDUxNiwtMTIyOTA0Mjg0MCwxMDUxNjExNzM3LC0xNDIxNzAx
-NzQxXX0=
+eyJoaXN0b3J5IjpbMTc2NTAwMDU3Miw3OTg0OTMwMTEsLTI5Nj
+YwODI2MywtNDc3MjUwNTE2LC0xMjI5MDQyODQwLDEwNTE2MTE3
+MzcsLTE0MjE3MDE3NDFdfQ==
 -->
