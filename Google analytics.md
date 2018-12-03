@@ -87,6 +87,8 @@ Muestra reportes del comportamiento de los usuarios, tales como  **el tiempo de 
 
 # Marketing campaigns
 
+## Anatomia de un link de una campaña
+
 Las campañas de marketing se identifican con un tracking code que se coloca en las URLs colocadas en mails y ads.
 El script de google analytics toma ese codigo e identifica la campaña.
 
@@ -94,9 +96,10 @@ El codigo se compone de los siguientes URL parameters
 * **utm_medium** - El medio al que se desea asociar la campaña (mail, cpc, etc)
 * **utm_campaign** - El nombre identificador de la campaña
 * **utm_source** - Indica de donde proviene el usuario, por ejemplo una pagina web especifica (lanacion.com.ar)
-* **utm_content** - identifica el contenido enviado, por ejemplo podes diferenciar entre 1
+* **utm_content** - identifica el contenido enviado, por ejemplo podes diferenciar entre 2 piezas graficas para ver cual tiene mejor conversion
+* **utm_term** - Identifica keywords para search campaign. EJ: un google search campaign con keyword "inmobiliarios" sera identificado con esa palabra en utm_term
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4NjM1NTcxLDE3NjUwMDA1NzIsNzk4ND
+eyJoaXN0b3J5IjpbLTkyNTk2MzIyLDE3NjUwMDA1NzIsNzk4ND
 kzMDExLC0yOTY2MDgyNjMsLTQ3NzI1MDUxNiwtMTIyOTA0Mjg0
 MCwxMDUxNjExNzM3LC0xNDIxNzAxNzQxXX0=
 -->
