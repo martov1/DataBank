@@ -30,8 +30,24 @@ Donde:
 	* **Los datos son inmutables una vez registrados**
 	* **Goals:** condiciones deseables que un VIEW trackea para ver si se cumplen 
 
+# Reportes
 
-## Traffic sources
+## Audience y demographics
+
+Los reportes de audience te permiten comprender datos acerca de tu audiencia, tales como
+
+* **Procedencia geografica** - Ciudad, pais, continente, etc.
+* **edad y genero**
+* **preferencias y gustos** - entretenimiento, deportes, etc
+* **Lenguaje**
+* **Tecnologia**
+	* **SO**
+	* **Device**
+* **Active users**
+	* **usuarios persistentes en el tiempo**
+	* **Bounce rates**   
+
+### Traffic sources
 
 Los traffic sources usados como categorias por analytics son:
 
@@ -41,6 +57,6 @@ Los traffic sources usados como categorias por analytics son:
 * **email** - Trafico proveniente de campañas de mailing.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzI1MDUxNiwtMTIyOTA0Mjg0MCwxMD
-UxNjExNzM3LC0xNDIxNzAxNzQxXX0=
+eyJoaXN0b3J5IjpbOTkxNjA0OTA0LC00NzcyNTA1MTYsLTEyMj
+kwNDI4NDAsMTA1MTYxMTczNywtMTQyMTcwMTc0MV19
 -->
