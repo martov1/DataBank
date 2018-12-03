@@ -56,19 +56,20 @@ Te permite visualizar informacion acerca de como estas adquiriendo el trafico y 
 
 Las siguientes dimanesiones se capturan acerca de la adquisicion de trafico
 
-* **medium**
-* **strong text**
+* **medium** - Categoria de como llego el usuario al sitio
+	* **Organic** - Trafico organico que viene de medios no pagos como busquedas de google
+	* **CPC** - Trafico que viene de medios pagos como campañas de adwords
+	* **Referral** - Trafico proveniente de otros sitios web con un HTTP header referral
+	* **email** - Trafico proveniente de campañas de mailing.
+	* **none** - Otro
+* **source** - Provee mas informacion acerca del medium
+	* El referrer si la fuente es referral
+	* el search engine si el source es organic
+* **marketing campaing**
 
-### Traffic sources
 
-Los traffic sources usados como categorias por analytics son:
 
-* **Organic** - Trafico organico que viene de medios no pagos como busquedas de google
-* **CPC** - Trafico que viene de medios pagos como campañas de adwords
-* **Referral** - Trafico proveniente de otros sitios web con un HTTP header referral
-* **email** - Trafico proveniente de campañas de mailing.
-* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzU0ODEyLC00NzcyNTA1MTYsLTEyMj
-kwNDI4NDAsMTA1MTYxMTczNywtMTQyMTcwMTc0MV19
+eyJoaXN0b3J5IjpbLTI5NjYwODI2MywtNDc3MjUwNTE2LC0xMj
+I5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3MDE3NDFdfQ==
 -->
