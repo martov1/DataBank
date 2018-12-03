@@ -1,7 +1,7 @@
 
 ## Terminologia basica 
 
-### Sobre los leads
+### Aquisition, behaviour, Conversion
 
 * **Aquisition** - Adquirir el interes de un usuario
 * **behaviour** - Cuando el usuario interactua con el sitio
@@ -43,11 +43,14 @@ Los reportes de audience te permiten comprender datos acerca de tu audiencia, ta
 * **Tecnologia**
 	* **SO**
 	* **Device**
+	* **marca, resolucion, etc**
 * **Active users**
 	* **usuarios persistentes en el tiempo**
 	* **Bounce rates**   
 
 Ademas te permite visualizar las conversiones, tiempo estimado de sesion, etc ordenandolor usando estas categorias.
+
+## Adquisition
 
 ### Traffic sources
 
@@ -59,6 +62,6 @@ Los traffic sources usados como categorias por analytics son:
 * **email** - Trafico proveniente de campañas de mailing.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzMzQwNzEsLTQ3NzI1MDUxNiwtMTIyOT
-A0Mjg0MCwxMDUxNjExNzM3LC0xNDIxNzAxNzQxXX0=
+eyJoaXN0b3J5IjpbMTI2NzAyMjcwOSwtNDc3MjUwNTE2LC0xMj
+I5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3MDE3NDFdfQ==
 -->
