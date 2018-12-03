@@ -79,8 +79,12 @@ Muestra reportes del comportamiento de los usuarios, tales como  **el tiempo de 
 	* **tiempo de visualizacion**
 	* **bounce rate** 
 	* **veces visitada**
+* **Conversiones**
+* **Eventos**
+	* **clicks en descargas**
+	* **strong text** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI2MjgyODAsLTI5NjYwODI2MywtND
-c3MjUwNTE2LC0xMjI5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3
-MDE3NDFdfQ==
+eyJoaXN0b3J5IjpbNzk4NDkzMDExLC0yOTY2MDgyNjMsLTQ3Nz
+I1MDUxNiwtMTIyOTA0Mjg0MCwxMDUxNjExNzM3LC0xNDIxNzAx
+NzQxXX0=
 -->
