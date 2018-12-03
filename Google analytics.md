@@ -92,10 +92,11 @@ El script de google analytics toma ese codigo e identifica la campaña.
 
 El codigo se compone de los siguientes URL parameters
 * **utm_medium** - El medio al que se desea asociar la campaña (mail, cpc, etc)
-* **utm_campaign** - El identificador de la campaña
-
+* **utm_campaign** - El nombre identificador de la campaña
+* **utm_source** - Indica de donde proviene el usuario, por ejemplo una pagina web especifica (lanacion.com.ar)
+* **utm_content** - identifica el contenido enviado, por ejemplo podes diferenciar entre 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDgwNjMzNiwxNzY1MDAwNTcyLDc5OD
-Q5MzAxMSwtMjk2NjA4MjYzLC00NzcyNTA1MTYsLTEyMjkwNDI4
-NDAsMTA1MTYxMTczNywtMTQyMTcwMTc0MV19
+eyJoaXN0b3J5IjpbMzA4NjM1NTcxLDE3NjUwMDA1NzIsNzk4ND
+kzMDExLC0yOTY2MDgyNjMsLTQ3NzI1MDUxNiwtMTIyOTA0Mjg0
+MCwxMDUxNjExNzM3LC0xNDIxNzAxNzQxXX0=
 -->
