@@ -73,9 +73,14 @@ Los channels agrupan todos los sources de un medium para mostrar una vision unif
 
 ## Behaviour
 
-Muestra reportes del comportamiento de los usuarios, tales como el tiempo de sesion, la navegacion del usuario, etc
+Muestra reportes del comportamiento de los usuarios, tales como  **el tiempo de sesion, la navegacion del usuario y que paginas visita, etc.**
+
+* **URI** de paginas visitadas
+	* **tiempo de visualizacion**
+	* **bounce rate** 
+	* **veces visitada**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzE3NzY4MiwtMjk2NjA4MjYzLC00Nz
-cyNTA1MTYsLTEyMjkwNDI4NDAsMTA1MTYxMTczNywtMTQyMTcw
-MTc0MV19
+eyJoaXN0b3J5IjpbLTE0MzI2MjgyODAsLTI5NjYwODI2MywtND
+c3MjUwNTE2LC0xMjI5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3
+MDE3NDFdfQ==
 -->
