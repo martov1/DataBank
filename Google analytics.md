@@ -52,6 +52,13 @@ Ademas te permite visualizar las conversiones, tiempo estimado de sesion, etc or
 
 ## Adquisition
 
+Te permite visualizar informacion acerca de como estas adquiriendo el trafico y ordenarlo por sus fuentes para determinar de donde viene el trafico y de que calidad es. 
+
+Las siguientes dimanesiones se capturan acerca de la adquisicion de trafico
+
+* **medium**
+* **strong text**
+
 ### Traffic sources
 
 Los traffic sources usados como categorias por analytics son:
@@ -62,6 +69,6 @@ Los traffic sources usados como categorias por analytics son:
 * **email** - Trafico proveniente de campañas de mailing.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzAyMjcwOSwtNDc3MjUwNTE2LC0xMj
-I5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3MDE3NDFdfQ==
+eyJoaXN0b3J5IjpbLTc0NzU0ODEyLC00NzcyNTA1MTYsLTEyMj
+kwNDI4NDAsMTA1MTYxMTczNywtMTQyMTcwMTc0MV19
 -->
