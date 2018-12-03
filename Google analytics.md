@@ -85,9 +85,13 @@ Muestra reportes del comportamiento de los usuarios, tales como  **el tiempo de 
 	* **reproduccion de video** 
 
 
-#
+# Marketing campaigns
+
+Las campañas de marketing se identifican con un tracking code que se coloca en las URLs colocadas en mails y ads.
+El script de google analytics toma ese codigo e identifica la camñ
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzUzOTI3NSwxNzY1MDAwNTcyLDc5OD
-Q5MzAxMSwtMjk2NjA4MjYzLC00NzcyNTA1MTYsLTEyMjkwNDI4
-NDAsMTA1MTYxMTczNywtMTQyMTcwMTc0MV19
+eyJoaXN0b3J5IjpbLTEyOTcyNDM0NjIsMTc2NTAwMDU3Miw3OT
+g0OTMwMTEsLTI5NjYwODI2MywtNDc3MjUwNTE2LC0xMjI5MDQy
+ODQwLDEwNTE2MTE3MzcsLTE0MjE3MDE3NDFdfQ==
 -->
