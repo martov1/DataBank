@@ -96,6 +96,8 @@ Muestra reportes relacionado con las conversiones del sitio
 ### Goals
 Los Goals son informes sobre cosas especificas que se toman como conversiones. tienen los siguientes parametros.
 
+>**Podes tener hasta 20 goals por view.**
+
 Goals te permite trackear:
 * **Arribo a una pagina en particular**
 * **Subscripciones o pagos**
@@ -124,7 +126,8 @@ El codigo se compone de los siguientes URL parameters
 * **utm_content** - identifica el contenido enviado, por ejemplo podes diferenciar entre 2 piezas graficas para ver cual tiene mejor conversion
 * **utm_term** - Identifica keywords para search campaign. EJ: un google search campaign con keyword "inmobiliarios" sera identificado con esa palabra en utm_term
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwMzg5NzYxLC05MjU5NjMyMiwxNzY1MD
-AwNTcyLDc5ODQ5MzAxMSwtMjk2NjA4MjYzLC00NzcyNTA1MTYs
-LTEyMjkwNDI4NDAsMTA1MTYxMTczNywtMTQyMTcwMTc0MV19
+eyJoaXN0b3J5IjpbLTIzNDM0MzE3OSwtOTI1OTYzMjIsMTc2NT
+AwMDU3Miw3OTg0OTMwMTEsLTI5NjYwODI2MywtNDc3MjUwNTE2
+LC0xMjI5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3MDE3NDFdfQ
+==
 -->
