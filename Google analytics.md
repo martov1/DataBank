@@ -131,11 +131,11 @@ El codigo se compone de los siguientes URL parameters
 * **utm_term** - Identifica keywords para search campaign. EJ: un google search campaign con keyword "inmobiliarios" sera identificado con esa palabra en utm_term
 
 
-## Adwords
+## Adwords- WIP
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDAxNTQxMiwtMjM0MzQzMTc5LC05Mj
-U5NjMyMiwxNzY1MDAwNTcyLDc5ODQ5MzAxMSwtMjk2NjA4MjYz
-LC00NzcyNTA1MTYsLTEyMjkwNDI4NDAsMTA1MTYxMTczNywtMT
-QyMTcwMTc0MV19
+eyJoaXN0b3J5IjpbNDQyMTEyMjczLDE1NzQwMTU0MTIsLTIzND
+M0MzE3OSwtOTI1OTYzMjIsMTc2NTAwMDU3Miw3OTg0OTMwMTEs
+LTI5NjYwODI2MywtNDc3MjUwNTE2LC0xMjI5MDQyODQwLDEwNT
+E2MTE3MzcsLTE0MjE3MDE3NDFdfQ==
 -->
