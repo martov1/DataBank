@@ -96,6 +96,14 @@ Muestra reportes relacionado con las conversiones del sitio
 ### Goals
 Los Goals son informes sobre cosas especificas que se toman como conversiones. tienen los siguientes parametros.
 
+### Goals funnel
+Te permite visualizar los pasos previos a un goal para ver si los usuarios abandonan en algun momento.
+
+Goals te permite trackear:
+* **Arribo a una pagina en particular**
+* **Subscripciones o pagos**
+* **eventos, reproducciones, clicks, etc**
+
 
 
 # Marketing campaigns
@@ -112,8 +120,8 @@ El codigo se compone de los siguientes URL parameters
 * **utm_content** - identifica el contenido enviado, por ejemplo podes diferenciar entre 2 piezas graficas para ver cual tiene mejor conversion
 * **utm_term** - Identifica keywords para search campaign. EJ: un google search campaign con keyword "inmobiliarios" sera identificado con esa palabra en utm_term
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTc2NTk4NCwtOTI1OTYzMjIsMTc2NT
-AwMDU3Miw3OTg0OTMwMTEsLTI5NjYwODI2MywtNDc3MjUwNTE2
-LC0xMjI5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3MDE3NDFdfQ
-==
+eyJoaXN0b3J5IjpbLTE3ODcwNTIwMDEsLTkyNTk2MzIyLDE3Nj
+UwMDA1NzIsNzk4NDkzMDExLC0yOTY2MDgyNjMsLTQ3NzI1MDUx
+NiwtMTIyOTA0Mjg0MCwxMDUxNjExNzM3LC0xNDIxNzAxNzQxXX
+0=
 -->
