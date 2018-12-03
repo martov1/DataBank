@@ -47,6 +47,8 @@ Los reportes de audience te permiten comprender datos acerca de tu audiencia, ta
 	* **usuarios persistentes en el tiempo**
 	* **Bounce rates**   
 
+Ademas te permite visualizar las conversiones, tiempo estimado de sesion, etc ordenandolor usando estas categorias.
+
 ### Traffic sources
 
 Los traffic sources usados como categorias por analytics son:
@@ -57,6 +59,6 @@ Los traffic sources usados como categorias por analytics son:
 * **email** - Trafico proveniente de campañas de mailing.
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxNjA0OTA0LC00NzcyNTA1MTYsLTEyMj
-kwNDI4NDAsMTA1MTYxMTczNywtMTQyMTcwMTc0MV19
+eyJoaXN0b3J5IjpbMzkzMzQwNzEsLTQ3NzI1MDUxNiwtMTIyOT
+A0Mjg0MCwxMDUxNjExNzM3LC0xNDIxNzAxNzQxXX0=
 -->
