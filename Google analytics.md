@@ -103,6 +103,7 @@ Goals te permite trackear:
 * **Subscripciones o pagos**
 * **eventos, reproducciones, clicks, etc**
 * **Duracion de la sesion**
+* **valor de la conversion en $**
 
 
 ### Goals funnel
@@ -126,8 +127,8 @@ El codigo se compone de los siguientes URL parameters
 * **utm_content** - identifica el contenido enviado, por ejemplo podes diferenciar entre 2 piezas graficas para ver cual tiene mejor conversion
 * **utm_term** - Identifica keywords para search campaign. EJ: un google search campaign con keyword "inmobiliarios" sera identificado con esa palabra en utm_term
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDM0MzE3OSwtOTI1OTYzMjIsMTc2NT
-AwMDU3Miw3OTg0OTMwMTEsLTI5NjYwODI2MywtNDc3MjUwNTE2
-LC0xMjI5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3MDE3NDFdfQ
-==
+eyJoaXN0b3J5IjpbMTc4MjkzNjM3OCwtMjM0MzQzMTc5LC05Mj
+U5NjMyMiwxNzY1MDAwNTcyLDc5ODQ5MzAxMSwtMjk2NjA4MjYz
+LC00NzcyNTA1MTYsLTEyMjkwNDI4NDAsMTA1MTYxMTczNywtMT
+QyMTcwMTc0MV19
 -->
