@@ -109,6 +109,8 @@ Goals te permite trackear:
 ### Goals funnel
 Te permite visualizar los pasos previos a un goal para ver si los usuarios abandonan en algun momento.
 
+Cada paso en un funnerl step es una pagina previa al goal, una vez configurado podes ver un reporte de hasta donde llego cada usuario.
+
 
 
 
@@ -127,7 +129,7 @@ El codigo se compone de los siguientes URL parameters
 * **utm_content** - identifica el contenido enviado, por ejemplo podes diferenciar entre 2 piezas graficas para ver cual tiene mejor conversion
 * **utm_term** - Identifica keywords para search campaign. EJ: un google search campaign con keyword "inmobiliarios" sera identificado con esa palabra en utm_term
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjkzNjM3OCwtMjM0MzQzMTc5LC05Mj
+eyJoaXN0b3J5IjpbMTQ2NzYxOTIxMSwtMjM0MzQzMTc5LC05Mj
 U5NjMyMiwxNzY1MDAwNTcyLDc5ODQ5MzAxMSwtMjk2NjA4MjYz
 LC00NzcyNTA1MTYsLTEyMjkwNDI4NDAsMTA1MTYxMTczNywtMT
 QyMTcwMTc0MV19
