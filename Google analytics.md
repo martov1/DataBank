@@ -29,7 +29,18 @@ Donde:
 	*  **Solo registran el futuro** - no tienen acceso a los datos del pasado
 	* **Los datos son inmutables una vez registrados**
 	* **Goals:** condiciones deseables que un VIEW trackea para ver si se cumplen 
+
+
+## Traffic sources
+
+Los traffic sources usados como categorias por analytics son:
+
+* **Organic** - Trafico organico que viene de medios no pagos como busquedas de google
+* **CPC** - Trafico que viene de medios pagos como campañas de adwords
+* **Referral** - Trafico proveniente de otros sitios web con un HTTP header referral
+* **email** - Trafico proveniente de campañas de mailing.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjkwNDI4NDAsMTA1MTYxMTczNywtMT
-QyMTcwMTc0MV19
+eyJoaXN0b3J5IjpbLTQ3NzI1MDUxNiwtMTIyOTA0Mjg0MCwxMD
+UxNjExNzM3LC0xNDIxNzAxNzQxXX0=
 -->
