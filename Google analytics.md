@@ -89,6 +89,8 @@ Muestra reportes del comportamiento de los usuarios, tales como  **el tiempo de 
 	* **reproduccion de video** 
 
 
+## Conversion
+
 # Marketing campaigns
 
 ## Anatomia de un link de una campaña
@@ -103,8 +105,8 @@ El codigo se compone de los siguientes URL parameters
 * **utm_content** - identifica el contenido enviado, por ejemplo podes diferenciar entre 2 piezas graficas para ver cual tiene mejor conversion
 * **utm_term** - Identifica keywords para search campaign. EJ: un google search campaign con keyword "inmobiliarios" sera identificado con esa palabra en utm_term
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA1NTY3NDAsLTkyNTk2MzIyLDE3Nj
-UwMDA1NzIsNzk4NDkzMDExLC0yOTY2MDgyNjMsLTQ3NzI1MDUx
-NiwtMTIyOTA0Mjg0MCwxMDUxNjExNzM3LC0xNDIxNzAxNzQxXX
-0=
+eyJoaXN0b3J5IjpbMTcwODk5MDU0NiwtOTI1OTYzMjIsMTc2NT
+AwMDU3Miw3OTg0OTMwMTEsLTI5NjYwODI2MywtNDc3MjUwNTE2
+LC0xMjI5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3MDE3NDFdfQ
+==
 -->
