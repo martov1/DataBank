@@ -48,12 +48,12 @@ protected $signature = 'mi:command {argument1} {argumentOpcional?} {argumentOpci
 
 Los **Arguments** Van despues del comando, pueden ser
 
-**Requeridos**
-**Opcionales**
-**Opcionales con default**
+**Requeridos:** `- {argument1}`
+**Opcionales:** `{argumentOpcional?}` 
+**Opcionales con default:** `{argumentOpcionalcondefautl=hola}`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjMzMTM2MywtNjQ3NTQ3NDA1LDk2NT
+eyJoaXN0b3J5IjpbMTkxODg1NjI2MSwtNjQ3NTQ3NDA1LDk2NT
 M0MDcxMCwxOTg3OTU5NjIwLDczMDk5ODExNl19
 -->
