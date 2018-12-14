@@ -65,10 +65,18 @@ Podes expectear que te coloquen N datos y obtenerlos como un array.
 email:send {user*}
 ```
 
-De
+Entonces el usuario puede colocar N parametros foo bar
+```php
+php artisan email:send foo bar
+```
+y obtenes `['foo', 'bar']`:
 
+```php
+email:send {user} {--id=*}
+
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjIxNDYzMDgsLTY0NzU0NzQwNSw5Nj
+eyJoaXN0b3J5IjpbLTIwNTQzNDIxMDgsLTY0NzU0NzQwNSw5Nj
 UzNDA3MTAsMTk4Nzk1OTYyMCw3MzA5OTgxMTZdfQ==
 -->
