@@ -110,28 +110,35 @@ email:send  {user : Mi descripcion}
 
 ### Prompts al usuario
 
-Podes pedirle un input al usuario asi
+* Podes **pedirle un input al usuario asi**
 ```php
 public function handle()
 {
     $name = $this->ask('What is your name?');
 }
 ```
-Si necesitas que la opcion sea secreta (no se muestre en la pantalla, como una pass)
+* Si necesitas que la opcion sea **secreta** (no se muestre en la pantalla, como una pass)
 
 ```php
 $password = $this->secret('What is the password?');
 ```
 
-Si necesitas pedir confirmacion
+
+* Si necesitas pedir **confirmacion**
 
 ```php
 if ($this->confirm('Do you wish to continue?')) {
     //
 }
 ```
+
+* Si necesitas **Multiple choice**
+```php
+$name = $this->choice('What is your name?',
+ ['Taylor', 'Dayle'], $defaultIndex);
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ4MDIzMTksLTEyNjk0NjAzNjUsMT
+eyJoaXN0b3J5IjpbLTE1NDEwNjUwOTEsLTEyNjk0NjAzNjUsMT
 I3NzgxNjIxNSwtMjE4OTQ2MDQ3LC0xMDEwNDI3NTIsLTY0NzU0
 NzQwNSw5NjUzNDA3MTAsMTk4Nzk1OTYyMCw3MzA5OTgxMTZdfQ
 ==
