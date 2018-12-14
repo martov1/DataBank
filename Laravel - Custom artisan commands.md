@@ -38,8 +38,22 @@ class nombreDe Command extends Command
 
 ### Inputs
 
-Los inputs se definen en el 
+Los inputs se definen en el signature
+
+```php
+protected $signature = 'mi:command {argument1} {argumentOpcional?} {argumentOpcionalcondefautl=hola} {--opcionTrueFalse} {--opcionConValor=default}' ;
+```
+
+#### Arguments y options
+
+Los **Arguments** Van despues del comando, pueden ser
+
+**Requeridos**
+**Opcionales**
+**Opcionales con default**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTM3MjUyMCwtNjQ3NTQ3NDA1LDk2NT
+eyJoaXN0b3J5IjpbMTIxMjMzMTM2MywtNjQ3NTQ3NDA1LDk2NT
 M0MDcxMCwxOTg3OTU5NjIwLDczMDk5ODExNl19
 -->
