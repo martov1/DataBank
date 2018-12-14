@@ -52,8 +52,14 @@ Los **Arguments** Van despues del comando, pueden ser
 **Opcionales:** `{argumentOpcional?}` 
 **Opcionales con default:** `{argumentOpcionalcondefautl=hola}`
 
+Las **Opciones** van despues del argument
+
+**Requeridos:** `- {argument1}`
+**Opcionales:** `{argumentOpcional?}` 
+**Opcionales con default:** `{argumentOpcionalcondefautl=hola}`
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODg1NjI2MSwtNjQ3NTQ3NDA1LDk2NT
-M0MDcxMCwxOTg3OTU5NjIwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjY4NDM3OTk3LC02NDc1NDc0MDUsOTY1Mz
+QwNzEwLDE5ODc5NTk2MjAsNzMwOTk4MTE2XX0=
 -->
