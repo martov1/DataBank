@@ -68,13 +68,14 @@ Y los lees asi:
 public function handle()
 {
 	//leo mi argumento
-    $userId = $this->argument('user');
-        //Leo todos los argumentos como array
+    $userId = $this->argument('miArgumento');
+    //Leo todos los argumentos como array
 	$arguments = $this->arguments();
 	
     //Leo mi opcion
-	$queueName = $this->option('queue');
-
+	$queueName = $this->option('miOpcion');
+	//Leo todas las opciones como array
+	$options = $this->options();
 }
 ```
 ### Input de varios datos
@@ -109,7 +110,7 @@ email:send  {user : Mi descripcion}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Njg2NTcxOSwtMjE4OTQ2MDQ3LC0xMD
+eyJoaXN0b3J5IjpbMTI3NzgxNjIxNSwtMjE4OTQ2MDQ3LC0xMD
 EwNDI3NTIsLTY0NzU0NzQwNSw5NjUzNDA3MTAsMTk4Nzk1OTYy
 MCw3MzA5OTgxMTZdfQ==
 -->
