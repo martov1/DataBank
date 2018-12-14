@@ -155,10 +155,33 @@ Podes outputear diferentes respuestas con los colores correspondientes asi:
 
 Podes hacer una tabla asi 
 
+```php
+$headers = ['Name', 'Email'];
 
+$users = App\User::all(['name', 'email'])->toArray();
+
+$this->table($headers, $users);
+```
+
+### Progress bars
+
+```php
+//Declaras la cantidad de pasos
+$bar = $this->output->createProgressBar(count($users));
+
+$bar->start();
+
+foreach ($users as $user) {
+    $this->performTask($user);
+
+    $bar->advance();
+}
+
+$bar->finish();
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMTY0MTQ1LC0xMjY5NDYwMzY1LDEyNz
+eyJoaXN0b3J5IjpbMTQ2NDgwNzYxLC0xMjY5NDYwMzY1LDEyNz
 c4MTYyMTUsLTIxODk0NjA0NywtMTAxMDQyNzUyLC02NDc1NDc0
 MDUsOTY1MzQwNzEwLDE5ODc5NTk2MjAsNzMwOTk4MTE2XX0=
 -->
