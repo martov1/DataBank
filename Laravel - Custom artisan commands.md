@@ -137,8 +137,25 @@ if ($this->confirm('Do you wish to continue?')) {
 $name = $this->choice('What is your name?',
  ['Taylor', 'Dayle'], $defaultIndex);
 ```
+
+## Output
+
+### Mensjaes en la linea de comandos
+Podes outputear diferentes respuestas con los colores correspondientes asi:
+
+```php
+    $this->info('Display this on the screen');
+    $this->line('Display this on the screen');
+    $this->comment('Display this on the screen');
+    $this->question('Display this on the screen');
+    $this->error('Display this on the screen');
+```
+
+### Tablas en la linea de comandos
+
+Podes hacer una tabl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDEwNjUwOTEsLTEyNjk0NjAzNjUsMT
+eyJoaXN0b3J5IjpbLTEwNzE0MzE3OTMsLTEyNjk0NjAzNjUsMT
 I3NzgxNjIxNSwtMjE4OTQ2MDQ3LC0xMDEwNDI3NTIsLTY0NzU0
 NzQwNSw5NjUzNDA3MTAsMTk4Nzk1OTYyMCw3MzA5OTgxMTZdfQ
 ==
