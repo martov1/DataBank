@@ -200,9 +200,26 @@ En **cualquier parte de tu aplicacion** podes llamar un comando de artisan  asi,
         'miargumento' => 1, '--miopcion' => 'default'
     ]);
 ```
+
+### Dentro de otro artisan command 
+
+**Dentro de un artisan command podes llamar un comando asi:**
+```php
+public function handle()
+{
+    $this->call('email:send', [
+        'user' => 1, '--queue' => 'default'
+    ]);
+
+    //
+}
+```
+
+
+**Tambien podes llamarlo pero silenciar su output**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg3MzIwOTIsMTExOTU3NjA0OSwtMT
-I2OTQ2MDM2NSwxMjc3ODE2MjE1LC0yMTg5NDYwNDcsLTEwMTA0
-Mjc1MiwtNjQ3NTQ3NDA1LDk2NTM0MDcxMCwxOTg3OTU5NjIwLD
-czMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTI1MDUxNjc5OCwxMTE5NTc2MDQ5LC0xMj
+Y5NDYwMzY1LDEyNzc4MTYyMTUsLTIxODk0NjA0NywtMTAxMDQy
+NzUyLC02NDc1NDc0MDUsOTY1MzQwNzEwLDE5ODc5NTk2MjAsNz
+MwOTk4MTE2XX0=
 -->
