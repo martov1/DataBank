@@ -69,7 +69,8 @@ Entonces el usuario puede colocar N parametros foo bar
 ```php
 php artisan email:send foo bar
 ```
-y obtenes `['foo', 'bar']`:
+y obtenes en tu funcion la variable $user co
+`['foo', 'bar']`:
 
 ```php
 email:send {user} {--id=*}
@@ -77,6 +78,6 @@ email:send {user} {--id=*}
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQzNDIxMDgsLTY0NzU0NzQwNSw5Nj
-UzNDA3MTAsMTk4Nzk1OTYyMCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTI0MjQzODAwOCwtNjQ3NTQ3NDA1LDk2NT
+M0MDcxMCwxOTg3OTU5NjIwLDczMDk5ODExNl19
 -->
