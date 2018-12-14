@@ -108,7 +108,7 @@ Podes documentar tus opciones asi.
 email:send  {user : Mi descripcion}
 ```
 
-### Prompt al usuario
+### Prompts al usuario
 
 Podes pedirle un input al usuario asi
 ```php
@@ -117,9 +117,22 @@ public function handle()
     $name = $this->ask('What is your name?');
 }
 ```
+Si necesitas que la opcion sea secreta (no se muestre en la pantalla, como una pass)
 
+```php
+$password = $this->secret('What is the password?');
+```
+
+Si necesitas pedir confirmacion
+
+```php
+if ($this->confirm('Do you wish to continue?')) {
+    //
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk0NjAzNjUsMTI3NzgxNjIxNSwtMj
-E4OTQ2MDQ3LC0xMDEwNDI3NTIsLTY0NzU0NzQwNSw5NjUzNDA3
-MTAsMTk4Nzk1OTYyMCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE2MDQ4MDIzMTksLTEyNjk0NjAzNjUsMT
+I3NzgxNjIxNSwtMjE4OTQ2MDQ3LC0xMDEwNDI3NTIsLTY0NzU0
+NzQwNSw5NjUzNDA3MTAsMTk4Nzk1OTYyMCw3MzA5OTgxMTZdfQ
+==
 -->
