@@ -5,7 +5,7 @@
 * php artisan list - Muestra lista de los comandos disponibles
 
 
-## Custom commands
+# Custom commands
 
 Para crear un custom command haces:
 
@@ -36,7 +36,7 @@ class nombreDe Command extends Command
 ```
 
 
-### Inputs
+## Inputs
 
 Los inputs se definen en el signature
 
@@ -44,19 +44,8 @@ Los inputs se definen en el signature
 protected $signature = 'mi:command {argument1} {argumentOpcional?} {argumentOpcionalcondefautl=hola} {--opcionTrueFalse} {--opcionConValor=default}' ;
 ```
 
-Y los lees asi:
 
-```php
-public function handle()
-{
-	//leo mi argumento
-    $userId = $this->argument('user');
-    //Leo todos los argumentos como array
-	$arguments = $this->arguments();
-}
-```
-
-#### Arguments y options
+### Arguments y options
 
 Los **Arguments** Van despues del comando, pueden ser
 
@@ -69,7 +58,26 @@ Las **Opciones** van despues del argument
 **Booleana:** `{--opcionTrueFalse}`
 **con valor:** `{--opcionConValor=default}` 
 
-#### Input de varios datos
+
+Para **leer las opciones y argumentos colocados haces:**
+
+
+Y los lees asi:
+
+```php
+public function handle()
+{
+	//leo mi argumento
+    $userId = $this->argument('user');
+        //Leo todos los argumentos como array
+	$arguments = $this->arguments();
+	
+    //Leo mi opcion
+	$queueName = $this->option('queue');
+
+}
+```
+### Input de varios datos
 
 Podes expectear que te coloquen N datos y obtenerlos como un array.
 
@@ -92,7 +100,7 @@ email:send {user} {--id=*}
 php artisan email:send --id=1 --id=2
 ```
 
-#### Documentar opciones
+### Documentar opciones
 
 Podes documentar tus opciones asi.
 ```php
@@ -101,7 +109,7 @@ email:send  {user : Mi descripcion}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkyNDA2ODMsLTIxODk0NjA0NywtMT
-AxMDQyNzUyLC02NDc1NDc0MDUsOTY1MzQwNzEwLDE5ODc5NTk2
-MjAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTQ5Njg2NTcxOSwtMjE4OTQ2MDQ3LC0xMD
+EwNDI3NTIsLTY0NzU0NzQwNSw5NjUzNDA3MTAsMTk4Nzk1OTYy
+MCw3MzA5OTgxMTZdfQ==
 -->
