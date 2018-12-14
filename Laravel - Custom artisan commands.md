@@ -44,6 +44,16 @@ Los inputs se definen en el signature
 protected $signature = 'mi:command {argument1} {argumentOpcional?} {argumentOpcionalcondefautl=hola} {--opcionTrueFalse} {--opcionConValor=default}' ;
 ```
 
+Y los lees asi:
+
+```php
+public function handle()
+{
+	//
+    $userId = $this->argument('user');
+}
+```
+
 #### Arguments y options
 
 Los **Arguments** Van despues del comando, pueden ser
@@ -80,8 +90,16 @@ email:send {user} {--id=*}
 php artisan email:send --id=1 --id=2
 ```
 
+#### Documentar opciones
+
+Podes documentar tus opciones asi.
+```php
+email:send  {user : Mi descripcion}
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODk0NjA0NywtMTAxMDQyNzUyLC02ND
-c1NDc0MDUsOTY1MzQwNzEwLDE5ODc5NTk2MjAsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbODUxMjc5MDIsLTIxODk0NjA0NywtMTAxMD
+QyNzUyLC02NDc1NDc0MDUsOTY1MzQwNzEwLDE5ODc5NTk2MjAs
+NzMwOTk4MTE2XX0=
 -->
