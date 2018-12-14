@@ -180,8 +180,18 @@ foreach ($users as $user) {
 $bar->finish();
 ```
 
+## Ejecutar comandos programaticamente
+
+En cualquier parte de tu aplicacion 
+```php
+   
+   $exitCode = Artisan::call('email:send', [
+        'user' => 1, '--queue' => 'default'
+    ]);
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTU3NjA0OSwtMTI2OTQ2MDM2NSwxMj
-c3ODE2MjE1LC0yMTg5NDYwNDcsLTEwMTA0Mjc1MiwtNjQ3NTQ3
-NDA1LDk2NTM0MDcxMCwxOTg3OTU5NjIwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE4NzcwNDExNTgsMTExOTU3NjA0OSwtMT
+I2OTQ2MDM2NSwxMjc3ODE2MjE1LC0yMTg5NDYwNDcsLTEwMTA0
+Mjc1MiwtNjQ3NTQ3NDA1LDk2NTM0MDcxMCwxOTg3OTU5NjIwLD
+czMDk5ODExNl19
 -->
