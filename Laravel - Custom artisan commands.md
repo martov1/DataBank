@@ -166,22 +166,22 @@ $this->table($headers, $users);
 ### Progress bars
 
 ```php
-//Declaras la cantidad de pasos
+//Declaras la cantidad de pasos de la barra
 $bar = $this->output->createProgressBar(count($users));
-
+//Inicio de renderizacion de la barra
 $bar->start();
 
 foreach ($users as $user) {
     $this->performTask($user);
-
+	//La barra avanza un paso
     $bar->advance();
 }
-
+//La barra termina
 $bar->finish();
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDgwNzYxLC0xMjY5NDYwMzY1LDEyNz
-c4MTYyMTUsLTIxODk0NjA0NywtMTAxMDQyNzUyLC02NDc1NDc0
-MDUsOTY1MzQwNzEwLDE5ODc5NTk2MjAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTExOTU3NjA0OSwtMTI2OTQ2MDM2NSwxMj
+c3ODE2MjE1LC0yMTg5NDYwNDcsLTEwMTA0Mjc1MiwtNjQ3NTQ3
+NDA1LDk2NTM0MDcxMCwxOTg3OTU5NjIwLDczMDk5ODExNl19
 -->
