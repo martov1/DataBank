@@ -72,13 +72,16 @@ php artisan email:send foo bar
 y obtenes en tu funcion la variable $user con el valor
 `['foo', 'bar']`:
 
-Tambien podria 
+Tambien podria ser una opcion con N valores
 ```php
 email:send {user} {--id=*}
 
+//El usuario coloca
+php artisan email:send --id=1 --id=2
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA0Mjc1MiwtNjQ3NTQ3NDA1LDk2NT
-M0MDcxMCwxOTg3OTU5NjIwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIxODk0NjA0NywtMTAxMDQyNzUyLC02ND
+c1NDc0MDUsOTY1MzQwNzEwLDE5ODc5NTk2MjAsNzMwOTk4MTE2
+XX0=
 -->
