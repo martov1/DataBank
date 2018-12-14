@@ -182,24 +182,26 @@ $bar->finish();
 
 ## Ejecutar comandos programaticamente
 
+
+En **cualquier parte de tu aplicacion** podes llamar un comando de artisan  asi, notese como indicas las **opciones y argumentos**
+
 ### En tiempo real
-En cualquier parte de tu aplicacion asi, notese como indicas las **opciones y argumentos**
+
 ```php
    
    $exitCode = Artisan::call('email:send', [
-        'user' => 1, '--queue' => 'default'
+        'miargumento' => 1, '--miopcion' => 'default'
     ]);
 ```
 
 ### Programados como jobs
-
 ```php
     Artisan::queue('email:send', [
-        'user' => 1, '--queue' => 'default'
+        'miargumento' => 1, '--miopcion' => 'default'
     ]);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc2Mzc2MzMsMTExOTU3NjA0OSwtMT
+eyJoaXN0b3J5IjpbLTEwNTg3MzIwOTIsMTExOTU3NjA0OSwtMT
 I2OTQ2MDM2NSwxMjc3ODE2MjE1LC0yMTg5NDYwNDcsLTEwMTA0
 Mjc1MiwtNjQ3NTQ3NDA1LDk2NTM0MDcxMCwxOTg3OTU5NjIwLD
 czMDk5ODExNl19
