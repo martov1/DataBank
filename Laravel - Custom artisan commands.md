@@ -18,7 +18,7 @@ El comando creado tiene las siguientes caracteristicas.
 class nombreDe Command extends Command
 {
 	//Signature para mostrar en php artisan list
-    protected $signature = 'email:send {user}';
+    protected $signature = 'nombre:argumento {optiones}';
 	//Descripcion para el user
     protected $description = 'Send drip e-mails to a user';
     //Constructor del command
@@ -35,6 +35,6 @@ class nombreDe Command extends Command
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1MzQwNzEwLDE5ODc5NTk2MjAsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTY0NzU0NzQwNSw5NjUzNDA3MTAsMTk4Nz
+k1OTYyMCw3MzA5OTgxMTZdfQ==
 -->
