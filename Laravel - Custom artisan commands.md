@@ -1,7 +1,8 @@
 
 
+# Comandos default
 
-> Written with [StackEdit](https://stackedit.io/).
+* php artisan list - Muestra lista de los comandos disponibles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTk4Nzk1OTYyMCw3MzA5OTgxMTZdfQ==
 -->
