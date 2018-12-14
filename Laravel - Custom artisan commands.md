@@ -69,15 +69,16 @@ Entonces el usuario puede colocar N parametros foo bar
 ```php
 php artisan email:send foo bar
 ```
-y obtenes en tu funcion la variable $user co
+y obtenes en tu funcion la variable $user con el valor
 `['foo', 'bar']`:
 
+Tambien podria 
 ```php
 email:send {user} {--id=*}
 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjQzODAwOCwtNjQ3NTQ3NDA1LDk2NT
+eyJoaXN0b3J5IjpbLTEwMTA0Mjc1MiwtNjQ3NTQ3NDA1LDk2NT
 M0MDcxMCwxOTg3OTU5NjIwLDczMDk5ODExNl19
 -->
