@@ -16,41 +16,17 @@ php artisan make:command SendEmails
 ```php
 class nombreDe Command extends Command
 {
-	//Signature
+	//Signature para mostrar en php artisan list
     protected $signature = 'email:send {user}';
-
-    /**
-     * The console command description.
-     *
-     * @var string
-     */
+	//Descripcion para el user
     protected $description = 'Send drip e-mails to a user';
-
-    /**
-     * The drip e-mail service.
-     *
-     * @var DripEmailer
-     */
-    protected $drip;
-
-    /**
-     * Create a new command instance.
-     *
-     * @param  DripEmailer  $drip
-     * @return void
-     */
+      //Constructor del command
     public function __construct(DripEmailer $drip)
     {
         parent::__construct();
-
         $this->drip = $drip;
     }
-
-    /**
-     * Execute the console command.
-     *
-     * @return mixed
-     */
+    //La funcion que se ejecuta 
     public function handle()
     {
         $this->drip->send(User::find($this->argument('user')));
@@ -58,6 +34,6 @@ class nombreDe Command extends Command
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDY4MDk5MSwxOTg3OTU5NjIwLDczMD
+eyJoaXN0b3J5IjpbLTIyOTEzOTA5NiwxOTg3OTU5NjIwLDczMD
 k5ODExNl19
 -->
