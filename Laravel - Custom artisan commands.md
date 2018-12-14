@@ -49,8 +49,10 @@ Y los lees asi:
 ```php
 public function handle()
 {
-	//
+	//leo mi argumento
     $userId = $this->argument('user');
+    //Leo todos los argumentos como array
+	$arguments = $this->arguments();
 }
 ```
 
@@ -99,7 +101,7 @@ email:send  {user : Mi descripcion}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxMjc5MDIsLTIxODk0NjA0NywtMTAxMD
-QyNzUyLC02NDc1NDc0MDUsOTY1MzQwNzEwLDE5ODc5NTk2MjAs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwMTkyNDA2ODMsLTIxODk0NjA0NywtMT
+AxMDQyNzUyLC02NDc1NDc0MDUsOTY1MzQwNzEwLDE5ODc5NTk2
+MjAsNzMwOTk4MTE2XX0=
 -->
