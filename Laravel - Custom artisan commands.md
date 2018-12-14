@@ -54,12 +54,21 @@ Los **Arguments** Van despues del comando, pueden ser
 
 Las **Opciones** van despues del argument
 
-**Requeridos:** `- {argument1}`
-**Opcionales:** `{argumentOpcional?}` 
-**Opcionales con default:** `{argumentOpcionalcondefautl=hola}`
+**Booleana:** `{--opcionTrueFalse}`
+**con valor:** `{--opcionConValor=default}` 
+
+#### Input de varios datos
+
+Podes expectear que te coloquen N datos y obtenerlos como un array.
+
+```php
+email:send {user*}
+```
+
+De
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4NDM3OTk3LC02NDc1NDc0MDUsOTY1Mz
-QwNzEwLDE5ODc5NTk2MjAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE1MjIxNDYzMDgsLTY0NzU0NzQwNSw5Nj
+UzNDA3MTAsMTk4Nzk1OTYyMCw3MzA5OTgxMTZdfQ==
 -->
