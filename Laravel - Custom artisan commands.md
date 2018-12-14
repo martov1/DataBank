@@ -108,9 +108,18 @@ Podes documentar tus opciones asi.
 email:send  {user : Mi descripcion}
 ```
 
+### Prompt al usuario
+
+Podes pedirle un input al usuario asi
+```php
+public function handle()
+{
+    $name = $this->ask('What is your name?');
+}
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzgxNjIxNSwtMjE4OTQ2MDQ3LC0xMD
-EwNDI3NTIsLTY0NzU0NzQwNSw5NjUzNDA3MTAsMTk4Nzk1OTYy
-MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNjk0NjAzNjUsMTI3NzgxNjIxNSwtMj
+E4OTQ2MDQ3LC0xMDEwNDI3NTIsLTY0NzU0NzQwNSw5NjUzNDA3
+MTAsMTk4Nzk1OTYyMCw3MzA5OTgxMTZdfQ==
 -->
