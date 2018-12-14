@@ -13,6 +13,7 @@ Para crear un custom command haces:
 php artisan make:command SendEmails
 ```
 
+El comando creado tiene las siguientes caracteristicas.
 ```php
 class nombreDe Command extends Command
 {
@@ -20,7 +21,7 @@ class nombreDe Command extends Command
     protected $signature = 'email:send {user}';
 	//Descripcion para el user
     protected $description = 'Send drip e-mails to a user';
-      //Constructor del command
+    //Constructor del command
     public function __construct(DripEmailer $drip)
     {
         parent::__construct();
@@ -34,6 +35,6 @@ class nombreDe Command extends Command
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTEzOTA5NiwxOTg3OTU5NjIwLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbOTY1MzQwNzEwLDE5ODc5NTk2MjAsNzMwOT
+k4MTE2XX0=
 -->
