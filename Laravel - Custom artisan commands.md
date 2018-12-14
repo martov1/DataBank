@@ -153,10 +153,12 @@ Podes outputear diferentes respuestas con los colores correspondientes asi:
 
 ### Tablas en la linea de comandos
 
-Podes hacer una tabl
+Podes hacer una tabla asi 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE0MzE3OTMsLTEyNjk0NjAzNjUsMT
-I3NzgxNjIxNSwtMjE4OTQ2MDQ3LC0xMDEwNDI3NTIsLTY0NzU0
-NzQwNSw5NjUzNDA3MTAsMTk4Nzk1OTYyMCw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbODcwMTY0MTQ1LC0xMjY5NDYwMzY1LDEyNz
+c4MTYyMTUsLTIxODk0NjA0NywtMTAxMDQyNzUyLC02NDc1NDc0
+MDUsOTY1MzQwNzEwLDE5ODc5NTk2MjAsNzMwOTk4MTE2XX0=
 -->
