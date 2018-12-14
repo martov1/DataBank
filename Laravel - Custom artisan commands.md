@@ -18,7 +18,7 @@ El comando creado tiene las siguientes caracteristicas.
 class nombreDe Command extends Command
 {
 	//Signature para mostrar en php artisan list
-    protected $signature = 'mi:command {argument1} {argumentOpcional?} {argumentOpcionalcondefautl=hola} {--opcionTrueFalse} {--opcionConValor=}' ;
+    protected $signature = 'mi:command {argument1} {argumentOpcional?} {argumentOpcionalcondefautl=hola} {--opcionTrueFalse} {--opcionConValor=default}' ;
 	//Descripcion para el user
     protected $description = 'Send drip e-mails to a user';
     //Constructor del command
@@ -34,7 +34,12 @@ class nombreDe Command extends Command
     }
 }
 ```
+
+
+### Inputs
+
+Los inputs se definen en el 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzI0MjQwMywtNjQ3NTQ3NDA1LDk2NT
+eyJoaXN0b3J5IjpbLTc2OTM3MjUyMCwtNjQ3NTQ3NDA1LDk2NT
 M0MDcxMCwxOTg3OTU5NjIwLDczMDk5ODExNl19
 -->
