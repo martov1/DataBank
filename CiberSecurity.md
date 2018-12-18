@@ -25,9 +25,11 @@ Por eso es buena practica utilizar un firewall para **bloquear todos los puertos
 >* 119 - POP (dudoso, obsoleto, sin encriptacion)
 >* 145 - IMAP4
 
+.
 
- 
+ ### Port scanning
+Se considera que un puerto esta **abierto** cuando el protocolo TCP puede terminar el handshake e intercambiar un numero de sincronizacion o **SYN**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5ODE0NDQ4LDExNzk1MDYzNzIsNzg0Mj
-Y2NTY0XX0=
+eyJoaXN0b3J5IjpbMTgyOTkyMDcxLDkzOTgxNDQ0OCwxMTc5NT
+A2MzcyLDc4NDI2NjU2NF19
 -->
