@@ -162,6 +162,9 @@ Permite registrar cuando se colocan likes, comments, etc de redes sociales
 * **Page timing hits**
 Permite determinar el tiempo de carga de un sitio
 
+* **Third party hits**
+Podes hacer un AJAX request desde donde quieras con un 
+
 
 ## Procesamiento de Hits
 
@@ -172,9 +175,9 @@ Los Hits pasan por el siguiente procesamiento:
 *  **Sessions**
 	* Se determina si el usuario ya tuvo un hit en la ultima media hora, si la tuvo entonces se considera como parte de la sesion activa, si no se lo considera una nueva sesion. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Njc1NjQ0MywtMTM3NTI0ODg3MSwtMj
-ExNDI1NTE5NCw0NDIxMTIyNzMsMTU3NDAxNTQxMiwtMjM0MzQz
-MTc5LC05MjU5NjMyMiwxNzY1MDAwNTcyLDc5ODQ5MzAxMSwtMj
-k2NjA4MjYzLC00NzcyNTA1MTYsLTEyMjkwNDI4NDAsMTA1MTYx
-MTczNywtMTQyMTcwMTc0MV19
+eyJoaXN0b3J5IjpbNDA2NzY1OTgsMjA4Njc1NjQ0MywtMTM3NT
+I0ODg3MSwtMjExNDI1NTE5NCw0NDIxMTIyNzMsMTU3NDAxNTQx
+MiwtMjM0MzQzMTc5LC05MjU5NjMyMiwxNzY1MDAwNTcyLDc5OD
+Q5MzAxMSwtMjk2NjA4MjYzLC00NzcyNTA1MTYsLTEyMjkwNDI4
+NDAsMTA1MTYxMTczNywtMTQyMTcwMTc0MV19
 -->
