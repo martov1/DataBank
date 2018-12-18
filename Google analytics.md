@@ -133,9 +133,21 @@ El codigo se compone de los siguientes URL parameters
 
 ## Adwords- WIP
 
+
+
+## Hits
+
+Cada ves que el script de google analytics envia informacion a google se lo conoce como un `hit`. Existe
+
+### Page view hits
+
+
+
+### Event hits
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyMTEyMjczLDE1NzQwMTU0MTIsLTIzND
-M0MzE3OSwtOTI1OTYzMjIsMTc2NTAwMDU3Miw3OTg0OTMwMTEs
-LTI5NjYwODI2MywtNDc3MjUwNTE2LC0xMjI5MDQyODQwLDEwNT
-E2MTE3MzcsLTE0MjE3MDE3NDFdfQ==
+eyJoaXN0b3J5IjpbLTEyMjgwOTkzMTcsNDQyMTEyMjczLDE1Nz
+QwMTU0MTIsLTIzNDM0MzE3OSwtOTI1OTYzMjIsMTc2NTAwMDU3
+Miw3OTg0OTMwMTEsLTI5NjYwODI2MywtNDc3MjUwNTE2LC0xMj
+I5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3MDE3NDFdfQ==
 -->
