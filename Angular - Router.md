@@ -410,7 +410,7 @@ El router viene con dos **preloading strategies**
 
 
 **1)** Precargar todos los lazy loaded modules
-**2)** Car
+**2)** Cargar los modulos a demanda cuando el router los pida.
 
 ### Estrategia PreloadAllMoudels
 
@@ -695,6 +695,6 @@ La logica es igual que la de los otros guards
 },
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTMxMDQ3OSwtNjY1MDcxMDUxLC0xMD
-U5MDcyNDUyXX0=
+eyJoaXN0b3J5IjpbLTE4NDk4MDYxOTksLTY2NTA3MTA1MSwtMT
+A1OTA3MjQ1Ml19
 -->
