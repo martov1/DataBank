@@ -137,12 +137,12 @@ El codigo se compone de los siguientes URL parameters
 # Funcionamiento interno
 ## Hits
 
-Cada ves que el script de google analytics envia informacion a google se lo conoce como un `hit`. Existen tres tipos de hits
+Cada ves que el script de google analytics envia informacion a google se lo conoce como un `hit`. Existen varios tipos de hits
 
-### Page view hits
 
+**Los Tipos de hits son:**
+* **Page view hits**
 Se dan cuando el usuario visualiza una pagina. 
-
 
 * **Event hits**
 Se da cuando el usuario realiza un evento customizado
@@ -150,7 +150,7 @@ Se da cuando el usuario realiza un evento customizado
 	* Registrarse
 	* Clickear un banner
 
-**Los Tipos de hits son:**
+
 
 * **Transaction event**
 Permite guardar datos sobre compras, transacciones, stock, etc en analytics.
@@ -165,11 +165,12 @@ Permite determinar el tiempo de carga de un sitio
 
 ## Procesamiento de Hits
 
+Los Hits pasan por el siguiente procesamiento:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTI0NjUzMSwtMjExNDI1NTE5NCw0ND
-IxMTIyNzMsMTU3NDAxNTQxMiwtMjM0MzQzMTc5LC05MjU5NjMy
-MiwxNzY1MDAwNTcyLDc5ODQ5MzAxMSwtMjk2NjA4MjYzLC00Nz
-cyNTA1MTYsLTEyMjkwNDI4NDAsMTA1MTYxMTczNywtMTQyMTcw
-MTc0MV19
+eyJoaXN0b3J5IjpbLTEzNzUyNDg4NzEsLTIxMTQyNTUxOTQsND
+QyMTEyMjczLDE1NzQwMTU0MTIsLTIzNDM0MzE3OSwtOTI1OTYz
+MjIsMTc2NTAwMDU3Miw3OTg0OTMwMTEsLTI5NjYwODI2MywtND
+c3MjUwNTE2LC0xMjI5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3
+MDE3NDFdfQ==
 -->
