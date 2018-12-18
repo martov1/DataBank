@@ -144,33 +144,32 @@ Cada ves que el script de google analytics envia informacion a google se lo cono
 Se dan cuando el usuario visualiza una pagina. 
 
 
-### Event hits
-
+* **Event hits**
 Se da cuando el usuario realiza un evento customizado
+	* Poner play a un video
+	* Registrarse
+	* Clickear un banner
 
-* Poner play a un video
-* Registrarse
-* Clickear un banner
+**Los Tipos de hits son:**
 
-### Transaction event
-
+* **Transaction event**
 Permite guardar datos sobre compras, transacciones, stock, etc en analytics.
 Podes guardar datos customizados en analytics.
 
-### Social hits
-
+* **Social hits**
 Permite registrar cuando se colocan likes, comments, etc de redes sociales		
 
-* Page timing hits
-
+* **Page timing hits**
 Permite determinar el tiempo de carga de un sitio
 
 
 ## Procesamiento de Hits
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjE5MDU3MzgsLTIxMTQyNTUxOTQsND
-QyMTEyMjczLDE1NzQwMTU0MTIsLTIzNDM0MzE3OSwtOTI1OTYz
-MjIsMTc2NTAwMDU3Miw3OTg0OTMwMTEsLTI5NjYwODI2MywtND
-c3MjUwNTE2LC0xMjI5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3
-MDE3NDFdfQ==
+eyJoaXN0b3J5IjpbLTI0NTI0NjUzMSwtMjExNDI1NTE5NCw0ND
+IxMTIyNzMsMTU3NDAxNTQxMiwtMjM0MzQzMTc5LC05MjU5NjMy
+MiwxNzY1MDAwNTcyLDc5ODQ5MzAxMSwtMjk2NjA4MjYzLC00Nz
+cyNTA1MTYsLTEyMjkwNDI4NDAsMTA1MTYxMTczNywtMTQyMTcw
+MTc0MV19
 -->
