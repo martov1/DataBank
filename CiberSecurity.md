@@ -17,9 +17,11 @@ Por eso es buena practica utilizar un firewall para **bloquear todos los puertos
 >como siempre, es ideal usar un **WHITELIST** para determinar que puertos habilitar y bloquear todos los otros.
 >**WHITELIST TENTATIVA DE PUERTOS**
 * 80 - web
-* 22 
+* 22 - SSH
+* 53 - DNS
+* 587 - SMTP con TLS
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzc5Mzc5MTcsNzg0MjY2NTY0XX0=
+eyJoaXN0b3J5IjpbMTE3OTUwNjM3Miw3ODQyNjY1NjRdfQ==
 -->
