@@ -29,7 +29,9 @@ Por eso es buena practica utilizar un firewall para **bloquear todos los puertos
 
  ### Port scanning
 Se considera que un puerto esta **abierto** cuando el protocolo TCP puede terminar el handshake e intercambiar un numero de sincronizacion o **SYN**
+
+http://systemadmin.es/2009/12/diferencia-entre-open-closed-y-filtered-en-nmap
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTkyMDcxLDkzOTgxNDQ0OCwxMTc5NT
-A2MzcyLDc4NDI2NjU2NF19
+eyJoaXN0b3J5IjpbLTE2NjMxNjIyODYsOTM5ODE0NDQ4LDExNz
+k1MDYzNzIsNzg0MjY2NTY0XX0=
 -->
