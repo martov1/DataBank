@@ -12,10 +12,14 @@ A pesar de que se supone que tenes control sobre tu servidor, es probable que ex
 
 > Recordemos que un puerto  TCP es una manera que tiene TCP de indicarle al receptor **que programa debe interpretar el paquete**
 
-Por eso es buena practica utilizar un firewall para **bloquear todos los puertos que sabes que no necesitas por si existiera algun proceso que este a la escucha de paquetes y no lo supieras** y como siempre, es ideal usar un **WHITELIST** PARA D
+Por eso es buena practica utilizar un firewall para **bloquear todos los puertos que sabes que no necesitas por si existiera algun proceso que este a la escucha de paquetes y no lo supieras** 
 
-**WHITELIST TENTATIVA DE PUERTOS**
+>como siempre, es ideal usar un **WHITELIST** para determinar que puertos habilitar y bloquear todos los otros.
+>**WHITELIST TENTATIVA DE PUERTOS**
+* 80 - web
+* 22 
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDk3NzgxOSw3ODQyNjY1NjRdfQ==
+eyJoaXN0b3J5IjpbLTIwNzc5Mzc5MTcsNzg0MjY2NTY0XX0=
 -->
