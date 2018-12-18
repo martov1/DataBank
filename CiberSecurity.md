@@ -1,5 +1,9 @@
 [**CNIT 123: Ethical Hacking and Network Defense**](https://samsclass.info/123/123_F15.shtml)
 
+**Me quede en http/https**
+https://www.youtube.com/watch?v=NiQC8loJew4&index=2&list=PLgM-HeZKXSWo6LLFmHA-hm5lcnUqxY1z5
+
+
 [**CNIT 124: Advanced Ethical Hacking**](https://samsclass.info/124/124_F15.shtml)
 
 
@@ -32,6 +36,6 @@ Se considera que un puerto esta **abierto** cuando el protocolo TCP puede termin
 
 http://systemadmin.es/2009/12/diferencia-entre-open-closed-y-filtered-en-nmap
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjMxNjIyODYsOTM5ODE0NDQ4LDExNz
-k1MDYzNzIsNzg0MjY2NTY0XX0=
+eyJoaXN0b3J5IjpbLTYxODUwMjk4NiwtMTY2MzE2MjI4Niw5Mz
+k4MTQ0NDgsMTE3OTUwNjM3Miw3ODQyNjY1NjRdfQ==
 -->
