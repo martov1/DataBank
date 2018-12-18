@@ -167,10 +167,12 @@ Permite determinar el tiempo de carga de un sitio
 
 Los Hits pasan por el siguiente procesamiento:
 
+* **new o returning user**
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzUyNDg4NzEsLTIxMTQyNTUxOTQsND
-QyMTEyMjczLDE1NzQwMTU0MTIsLTIzNDM0MzE3OSwtOTI1OTYz
-MjIsMTc2NTAwMDU3Miw3OTg0OTMwMTEsLTI5NjYwODI2MywtND
-c3MjUwNTE2LC0xMjI5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3
-MDE3NDFdfQ==
+eyJoaXN0b3J5IjpbMTkwMTg3MTYxNSwtMTM3NTI0ODg3MSwtMj
+ExNDI1NTE5NCw0NDIxMTIyNzMsMTU3NDAxNTQxMiwtMjM0MzQz
+MTc5LC05MjU5NjMyMiwxNzY1MDAwNTcyLDc5ODQ5MzAxMSwtMj
+k2NjA4MjYzLC00NzcyNTA1MTYsLTEyMjkwNDI4NDAsMTA1MTYx
+MTczNywtMTQyMTcwMTc0MV19
 -->
