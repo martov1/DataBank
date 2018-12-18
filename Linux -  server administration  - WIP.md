@@ -1,17 +1,9 @@
-
-ver https://www.udemy.com/linux-administration-bootcamp/
-
-ver https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
-
-**Me quede en:** 
-051 SPECIAL PERMISSIONS 
-040 System Logging
-				
-
-**VER:**
-* 018 Finding Files and Directories
-* 019 Viewing Files and the Nano Editor  
-
+1
+https://www.udemy.com/linux-startup-red-hat-certified-systems-administrator/
+2
+https://www.udemy.com/red-hat-system-administration-rh134/
+3
+https://www.udemy.com/red-hat-linux-system-administration-iii-rh254/
 
 # Directory structure
 
@@ -969,11 +961,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDE0NzQ2OSwtODcyNDQxNzMsLTM0MD
-k5OTIxNCwtMjA0NzQzNDgzNywtMjA0NjA0OTE3MiwxOTA5OTM0
-MTcyLC0xMTU0MDcwMTMsMzA2MjA3NDM3LC05NzY4MzgwNzUsOD
-M3NzEzMywxMDQwNTIwNzU5LC0zMTMwODg1MTYsMTk4MzIxNDUw
-LDQzNDY2OTEyNiwtNTMyNDA0NDI5LDE5OTMyMDA4MjcsLTE2Mj
-UxNTQ2MjcsLTczMzY5NTA1Niw3OTIyNTYwMTQsLTEwODkwMjIx
-MDFdfQ==
+eyJoaXN0b3J5IjpbMTIyMDc2MjU5MiwxNzM0MTQ3NDY5LC04Nz
+I0NDE3MywtMzQwOTk5MjE0LC0yMDQ3NDM0ODM3LC0yMDQ2MDQ5
+MTcyLDE5MDk5MzQxNzIsLTExNTQwNzAxMywzMDYyMDc0MzcsLT
+k3NjgzODA3NSw4Mzc3MTMzLDEwNDA1MjA3NTksLTMxMzA4ODUx
+NiwxOTgzMjE0NTAsNDM0NjY5MTI2LC01MzI0MDQ0MjksMTk5Mz
+IwMDgyNywtMTYyNTE1NDYyNywtNzMzNjk1MDU2LDc5MjI1NjAx
+NF19
 -->
