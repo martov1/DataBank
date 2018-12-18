@@ -163,7 +163,7 @@ Permite registrar cuando se colocan likes, comments, etc de redes sociales
 Permite determinar el tiempo de carga de un sitio
 
 * **Third party hits**
-Podes hacer un AJAX request desde donde quieras con un 
+Podes hacer un AJAX request desde donde quieras y contabilizar hits desde tu server side, un POS o cualquier dispositivo conectado a internet.
 
 
 ## Procesamiento de Hits
@@ -175,9 +175,9 @@ Los Hits pasan por el siguiente procesamiento:
 *  **Sessions**
 	* Se determina si el usuario ya tuvo un hit en la ultima media hora, si la tuvo entonces se considera como parte de la sesion activa, si no se lo considera una nueva sesion. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NzY1OTgsMjA4Njc1NjQ0MywtMTM3NT
-I0ODg3MSwtMjExNDI1NTE5NCw0NDIxMTIyNzMsMTU3NDAxNTQx
-MiwtMjM0MzQzMTc5LC05MjU5NjMyMiwxNzY1MDAwNTcyLDc5OD
-Q5MzAxMSwtMjk2NjA4MjYzLC00NzcyNTA1MTYsLTEyMjkwNDI4
-NDAsMTA1MTYxMTczNywtMTQyMTcwMTc0MV19
+eyJoaXN0b3J5IjpbMTkwMzUwNjMzMCwyMDg2NzU2NDQzLC0xMz
+c1MjQ4ODcxLC0yMTE0MjU1MTk0LDQ0MjExMjI3MywxNTc0MDE1
+NDEyLC0yMzQzNDMxNzksLTkyNTk2MzIyLDE3NjUwMDA1NzIsNz
+k4NDkzMDExLC0yOTY2MDgyNjMsLTQ3NzI1MDUxNiwtMTIyOTA0
+Mjg0MCwxMDUxNjExNzM3LC0xNDIxNzAxNzQxXX0=
 -->
