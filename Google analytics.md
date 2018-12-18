@@ -137,17 +137,23 @@ El codigo se compone de los siguientes URL parameters
 
 ## Hits
 
-Cada ves que el script de google analytics envia informacion a google se lo conoce como un `hit`. Existe
+Cada ves que el script de google analytics envia informacion a google se lo conoce como un `hit`. Existen tres tipos de hits
 
 ### Page view hits
 
+Se dan cuando el usuario visualiza una pagina. 
 
 
 ### Event hits
 
+Se da cuando el usuario realiza un evento customizado
+
+* Poner play a un video
+* Registrarse
+* Clickear un banner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjgwOTkzMTcsNDQyMTEyMjczLDE1Nz
-QwMTU0MTIsLTIzNDM0MzE3OSwtOTI1OTYzMjIsMTc2NTAwMDU3
-Miw3OTg0OTMwMTEsLTI5NjYwODI2MywtNDc3MjUwNTE2LC0xMj
-I5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3MDE3NDFdfQ==
+eyJoaXN0b3J5IjpbMTQ2MDE1MDEyMiw0NDIxMTIyNzMsMTU3ND
+AxNTQxMiwtMjM0MzQzMTc5LC05MjU5NjMyMiwxNzY1MDAwNTcy
+LDc5ODQ5MzAxMSwtMjk2NjA4MjYzLC00NzcyNTA1MTYsLTEyMj
+kwNDI4NDAsMTA1MTYxMTczNywtMTQyMTcwMTc0MV19
 -->
