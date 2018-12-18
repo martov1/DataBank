@@ -8,7 +8,12 @@
 
 Los firewalls te permiten bloquear trafico desde ciertos origenes.
 
-A pesar de que se supone que tenes control sobre tu servidor, es probable que exista **algun proceso (normal o malicioso)** que este a la escucha de paquetes TCP que vayan a algun puerto
+A pesar de que se supone que tenes control sobre tu servidor, es probable que exista **algun proceso (normal o malicioso)** que este a la escucha de un puerto TCP. 
+
+> Recordemos que un puerto  TCP es una manera que tiene TCP de indicarle al receptor **que programa debe interpretar el paquete**
+
+Por eso es buena practica utilizar un firewall para **bloquear todos los puertos que sabes que no necesitas para prevenir paquete**
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDM3ODU5LDc4NDI2NjU2NF19
+eyJoaXN0b3J5IjpbMTk0MDc2NTQzMiw3ODQyNjY1NjRdfQ==
 -->
