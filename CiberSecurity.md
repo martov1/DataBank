@@ -1,5 +1,6 @@
-CNIT 123 ethical hacking
-https://www.youtube.com/watch?v=oGF3cYPs04w&list=PLgM-HeZKXSWo6LLFmHA-hm5lcnUqxY1z5
+[**CNIT 123: Ethical Hacking and Network Defense**](https://samsclass.info/123/123_F15.shtml)
+
+[**CNIT 124: Advanced Ethical Hacking**](https://samsclass.info/124/124_F15.shtml)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0MjY2NTY0XX0=
+eyJoaXN0b3J5IjpbLTU4NDM0OTA4OCw3ODQyNjY1NjRdfQ==
 -->
