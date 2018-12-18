@@ -151,9 +151,22 @@ Se da cuando el usuario realiza un evento customizado
 * Poner play a un video
 * Registrarse
 * Clickear un banner
+
+### Transaction event
+
+Permite guardar datos sobre compras, transacciones, stock, etc en analytics.
+Podes guardar datos customizados en analytics.
+
+### Social hits
+
+Permite registrar cuando se colocan likes, comments, etc de redes sociales		
+
+### Page timing hits
+
+Permite determinar el tiempo de carga de un sitio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDE1MDEyMiw0NDIxMTIyNzMsMTU3ND
-AxNTQxMiwtMjM0MzQzMTc5LC05MjU5NjMyMiwxNzY1MDAwNTcy
-LDc5ODQ5MzAxMSwtMjk2NjA4MjYzLC00NzcyNTA1MTYsLTEyMj
-kwNDI4NDAsMTA1MTYxMTczNywtMTQyMTcwMTc0MV19
+eyJoaXN0b3J5IjpbLTIxMTQyNTUxOTQsNDQyMTEyMjczLDE1Nz
+QwMTU0MTIsLTIzNDM0MzE3OSwtOTI1OTYzMjIsMTc2NTAwMDU3
+Miw3OTg0OTMwMTEsLTI5NjYwODI2MywtNDc3MjUwNTE2LC0xMj
+I5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3MDE3NDFdfQ==
 -->
