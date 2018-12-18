@@ -134,7 +134,7 @@ El codigo se compone de los siguientes URL parameters
 ## Adwords- WIP
 
 
-
+# Funcionamiento interno
 ## Hits
 
 Cada ves que el script de google analytics envia informacion a google se lo conoce como un `hit`. Existen tres tipos de hits
@@ -161,12 +161,16 @@ Podes guardar datos customizados en analytics.
 
 Permite registrar cuando se colocan likes, comments, etc de redes sociales		
 
-### Page timing hits
+* Page timing hits
 
 Permite determinar el tiempo de carga de un sitio
+
+
+## Procesamiento de Hits
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQyNTUxOTQsNDQyMTEyMjczLDE1Nz
-QwMTU0MTIsLTIzNDM0MzE3OSwtOTI1OTYzMjIsMTc2NTAwMDU3
-Miw3OTg0OTMwMTEsLTI5NjYwODI2MywtNDc3MjUwNTE2LC0xMj
-I5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3MDE3NDFdfQ==
+eyJoaXN0b3J5IjpbLTEyNjE5MDU3MzgsLTIxMTQyNTUxOTQsND
+QyMTEyMjczLDE1NzQwMTU0MTIsLTIzNDM0MzE3OSwtOTI1OTYz
+MjIsMTc2NTAwMDU3Miw3OTg0OTMwMTEsLTI5NjYwODI2MywtND
+c3MjUwNTE2LC0xMjI5MDQyODQwLDEwNTE2MTE3MzcsLTE0MjE3
+MDE3NDFdfQ==
 -->
