@@ -1,9 +1,13 @@
+RED HAT SYSTEM ADMIN
 1
 https://www.udemy.com/linux-startup-red-hat-certified-systems-administrator/
 2
 https://www.udemy.com/red-hat-system-administration-rh134/
 3
 https://www.udemy.com/red-hat-linux-system-administration-iii-rh254/
+
+RED HAT SYSTEM ENGINEER
+https://www.udemy.com/linux-academy-red-hat-certified-engineer-prep/
 
 # Directory structure
 
@@ -961,11 +965,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDc2MjU5MiwxNzM0MTQ3NDY5LC04Nz
-I0NDE3MywtMzQwOTk5MjE0LC0yMDQ3NDM0ODM3LC0yMDQ2MDQ5
-MTcyLDE5MDk5MzQxNzIsLTExNTQwNzAxMywzMDYyMDc0MzcsLT
-k3NjgzODA3NSw4Mzc3MTMzLDEwNDA1MjA3NTksLTMxMzA4ODUx
-NiwxOTgzMjE0NTAsNDM0NjY5MTI2LC01MzI0MDQ0MjksMTk5Mz
-IwMDgyNywtMTYyNTE1NDYyNywtNzMzNjk1MDU2LDc5MjI1NjAx
-NF19
+eyJoaXN0b3J5IjpbMTk2NzY0MzQ2NCwxMjIwNzYyNTkyLDE3Mz
+QxNDc0NjksLTg3MjQ0MTczLC0zNDA5OTkyMTQsLTIwNDc0MzQ4
+MzcsLTIwNDYwNDkxNzIsMTkwOTkzNDE3MiwtMTE1NDA3MDEzLD
+MwNjIwNzQzNywtOTc2ODM4MDc1LDgzNzcxMzMsMTA0MDUyMDc1
+OSwtMzEzMDg4NTE2LDE5ODMyMTQ1MCw0MzQ2NjkxMjYsLTUzMj
+QwNDQyOSwxOTkzMjAwODI3LC0xNjI1MTU0NjI3LC03MzM2OTUw
+NTZdfQ==
 -->
