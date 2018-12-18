@@ -21,11 +21,13 @@ Por eso es buena practica utilizar un firewall para **bloquear todos los puertos
 >* 22 - SSH
 >* 53 - DNS
 >* 587 - SMTP con TLS
->* 119 - POP (D)
+>**DUDOSOS**
+>* 119 - POP (dudoso, obsoleto, sin encriptacion)
+>* 145 - IMAP4
 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA0MDMyNDcsMTE3OTUwNjM3Miw3OD
-QyNjY1NjRdfQ==
+eyJoaXN0b3J5IjpbOTM5ODE0NDQ4LDExNzk1MDYzNzIsNzg0Mj
+Y2NTY0XX0=
 -->
