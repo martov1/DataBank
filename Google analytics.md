@@ -168,9 +168,11 @@ Permite determinar el tiempo de carga de un sitio
 Los Hits pasan por el siguiente procesamiento:
 
 * **new o returning user**
-* 
+	* Se determina si la cookie generada para este usuario ya fue vista antes
+*  **Sessions**
+	* Se determina si el usuario ya tuvo un hit en la ultima media hora, si la tuvo entonces se considera como parte de la sesion activa, si no se lo considera una nueva sesion. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTg3MTYxNSwtMTM3NTI0ODg3MSwtMj
+eyJoaXN0b3J5IjpbMjA4Njc1NjQ0MywtMTM3NTI0ODg3MSwtMj
 ExNDI1NTE5NCw0NDIxMTIyNzMsMTU3NDAxNTQxMiwtMjM0MzQz
 MTc5LC05MjU5NjMyMiwxNzY1MDAwNTcyLDc5ODQ5MzAxMSwtMj
 k2NjA4MjYzLC00NzcyNTA1MTYsLTEyMjkwNDI4NDAsMTA1MTYx
