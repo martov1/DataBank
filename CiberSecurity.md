@@ -35,7 +35,15 @@ Por eso es buena practica utilizar un firewall para **bloquear todos los puertos
 Se considera que un puerto esta **abierto** cuando el protocolo TCP puede terminar el handshake e intercambiar un numero de sincronizacion o **SYN**
 
 http://systemadmin.es/2009/12/diferencia-entre-open-closed-y-filtered-en-nmap
+
+
+### Redes de servidores
+
+Muchas veces tenes una serie de servidores que necesitan interactuar entre ellos con puertos que no queres abrir al mundo.
+
+Para eso podes indicarle a tu firewall que acepte solo **los sockets definidos con IP**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODUwMjk4NiwtMTY2MzE2MjI4Niw5Mz
-k4MTQ0NDgsMTE3OTUwNjM3Miw3ODQyNjY1NjRdfQ==
+eyJoaXN0b3J5IjpbMjM0Mjg3NzUwLC02MTg1MDI5ODYsLTE2Nj
+MxNjIyODYsOTM5ODE0NDQ4LDExNzk1MDYzNzIsNzg0MjY2NTY0
+XX0=
 -->
