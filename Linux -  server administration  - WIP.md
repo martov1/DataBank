@@ -190,12 +190,19 @@ Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
 
 Hay una serie de archivos que se ejecutan en ciertos momentos para **modificar el environment del shell** para, por ejemplo, añadir una ruta al $PATH o para cualquier otra tarea administrativa 
 
+Apertura de un shell de inicio de sesion.
+**/etc/profile**  --> Script bash que se ejecuta cuando cualquier usuario inicia la sesión.
+	* Corre todos los scripts en **/etc/profile.d**  
+	
+
+
 **Modificables solo por ROOT:**
 
 **/etc/profile**  --> Script bash que se ejecuta cuando cualquier usuario inicia la sesión.
 	* Corre todos los scripts en **/etc/profile.d**  
 **/etc/bashrc**  --> Se ejecuta cada vez que cualquier usuario abre una nueva bash  
-
+	* Corre todos los scripts en **/etc/profile.d**  
+	* 
 **Modificable por el usuario:**
 
 **home/username/.bash_profile**  --> Se ejecuta cuando el usuario inicia sesion
@@ -986,11 +993,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDIwNTIyNiwtMjYxMTA0MTA1LDE1Nz
-UxOTQ4NTAsNDYzOTk3NTYwLDE5Njc2NDM0NjQsMTIyMDc2MjU5
-MiwxNzM0MTQ3NDY5LC04NzI0NDE3MywtMzQwOTk5MjE0LC0yMD
-Q3NDM0ODM3LC0yMDQ2MDQ5MTcyLDE5MDk5MzQxNzIsLTExNTQw
-NzAxMywzMDYyMDc0MzcsLTk3NjgzODA3NSw4Mzc3MTMzLDEwND
-A1MjA3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAsNDM0NjY5MTI2
+eyJoaXN0b3J5IjpbOTY0OTcyODcwLC03MjAyMDUyMjYsLTI2MT
+EwNDEwNSwxNTc1MTk0ODUwLDQ2Mzk5NzU2MCwxOTY3NjQzNDY0
+LDEyMjA3NjI1OTIsMTczNDE0NzQ2OSwtODcyNDQxNzMsLTM0MD
+k5OTIxNCwtMjA0NzQzNDgzNywtMjA0NjA0OTE3MiwxOTA5OTM0
+MTcyLC0xMTU0MDcwMTMsMzA2MjA3NDM3LC05NzY4MzgwNzUsOD
+M3NzEzMywxMDQwNTIwNzU5LC0zMTMwODg1MTYsMTk4MzIxNDUw
 XX0=
 -->
