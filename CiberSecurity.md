@@ -39,11 +39,11 @@ http://systemadmin.es/2009/12/diferencia-entre-open-closed-y-filtered-en-nmap
 
 ### Redes de servidores
 
-Muchas veces tenes una serie de servidores que necesitan interactuar entre ellos con puertos que no queres abrir al mundo.
+Muchas veces tenes una serie de **servidores que necesitan interactuar entre ellos** con puertos que no queres abrir al mundo. (DB server, application servers, storage server, etc)
 
-Para eso podes indicarle a tu firewall que acepte solo **los sockets TCP** que esten dentro de un whitelist con
+Para eso podes indicarle a tu firewall que acepte solo **los sockets TCP** que esten dentro de un whitelist con **combinaciones de IPs y puertos autorizados**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDgzMDA2NiwtNjE4NTAyOTg2LC0xNj
+eyJoaXN0b3J5IjpbLTE2MzQ2NDYxNSwtNjE4NTAyOTg2LC0xNj
 YzMTYyMjg2LDkzOTgxNDQ0OCwxMTc5NTA2MzcyLDc4NDI2NjU2
 NF19
 -->
