@@ -201,6 +201,7 @@ Hay una serie de archivos que se ejecutan en ciertos momentos para **modificar e
 **home/username/.bash_profile**  --> Se ejecuta cuando el usuario inicia sesion
 	* Corre el script **home/username/bashrc**
 **home/username/.bashrc**  --> Se ejecuta cuando el usuario username abre un nuevo bash
+	* Corre el script **/etc/bashrc**
 
 >Cuando se dice que un usuario "inicia sesion" se habla de su bash madre (que puede instanciar bash hijos) a partir de la cual hace todo, aunque tengas una interfaz grafica esta corre encima de un bash shell
 
@@ -985,11 +986,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE2MjgxMjAsLTI2MTEwNDEwNSwxNT
-c1MTk0ODUwLDQ2Mzk5NzU2MCwxOTY3NjQzNDY0LDEyMjA3NjI1
-OTIsMTczNDE0NzQ2OSwtODcyNDQxNzMsLTM0MDk5OTIxNCwtMj
-A0NzQzNDgzNywtMjA0NjA0OTE3MiwxOTA5OTM0MTcyLC0xMTU0
-MDcwMTMsMzA2MjA3NDM3LC05NzY4MzgwNzUsODM3NzEzMywxMD
-QwNTIwNzU5LC0zMTMwODg1MTYsMTk4MzIxNDUwLDQzNDY2OTEy
-Nl19
+eyJoaXN0b3J5IjpbLTcyMDIwNTIyNiwtMjYxMTA0MTA1LDE1Nz
+UxOTQ4NTAsNDYzOTk3NTYwLDE5Njc2NDM0NjQsMTIyMDc2MjU5
+MiwxNzM0MTQ3NDY5LC04NzI0NDE3MywtMzQwOTk5MjE0LC0yMD
+Q3NDM0ODM3LC0yMDQ2MDQ5MTcyLDE5MDk5MzQxNzIsLTExNTQw
+NzAxMywzMDYyMDc0MzcsLTk3NjgzODA3NSw4Mzc3MTMzLDEwND
+A1MjA3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAsNDM0NjY5MTI2
+XX0=
 -->
