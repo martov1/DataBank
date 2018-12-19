@@ -188,15 +188,17 @@ Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
 
 ### Archivos que modifican el environment
 
-Hay una serie de archivos que se ejecutan en ciertos momentos para modificar el environment del shell para, por ejemplo, añadir una 
+Hay una serie de archivos que se ejecutan en ciertos momentos para modificar el environment del shell para, por ejemplo, añadir una ruta al $PATH o para cualquier otra tarea administrativa 
 
-**/etc/profile**  --> Se ejecuta cuando qualquier usuario inicia la sesión.  
-**/etc/bashrc**  --> Se ejecuta cada vez que qualquier usuario ejecuta el programa bash  
+**Modificables solo por ROOT:**
 
-**Para nuestro usuario:**
+**/etc/profile**  --> Script bash que se ejecuta cuando qualquier usuario inicia la sesión.  
+**/etc/bashrc**  --> Se ejecuta cada vez que qualquier usuario abre una nueva bash  
 
-**~/.bash_profile**  --> Se ejecuta el .bash_profile de juanito cuando juanito inicia su sesión.  
-**~/.bashrc**  --> Se ejecuta el .bashrc de juanito cuando juanito ejecuta el programa bash.
+**Modificable por el usuario:**
+
+**home/username/.bash_profile**  --> Se ejecuta cua
+**home/username/.bashrc**  --> Se ejecuta el .bashrc de juanito cuando juanito ejecuta el programa bash.
 
 
 # File system
@@ -980,11 +982,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODcxMzc5MSwxNTc1MTk0ODUwLDQ2Mz
-k5NzU2MCwxOTY3NjQzNDY0LDEyMjA3NjI1OTIsMTczNDE0NzQ2
-OSwtODcyNDQxNzMsLTM0MDk5OTIxNCwtMjA0NzQzNDgzNywtMj
-A0NjA0OTE3MiwxOTA5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3
-NDM3LC05NzY4MzgwNzUsODM3NzEzMywxMDQwNTIwNzU5LC0zMT
-MwODg1MTYsMTk4MzIxNDUwLDQzNDY2OTEyNiwtNTMyNDA0NDI5
-XX0=
+eyJoaXN0b3J5IjpbLTEwMjIwMjU0OTgsMTU3NTE5NDg1MCw0Nj
+M5OTc1NjAsMTk2NzY0MzQ2NCwxMjIwNzYyNTkyLDE3MzQxNDc0
+NjksLTg3MjQ0MTczLC0zNDA5OTkyMTQsLTIwNDc0MzQ4MzcsLT
+IwNDYwNDkxNzIsMTkwOTkzNDE3MiwtMTE1NDA3MDEzLDMwNjIw
+NzQzNywtOTc2ODM4MDc1LDgzNzcxMzMsMTA0MDUyMDc1OSwtMz
+EzMDg4NTE2LDE5ODMyMTQ1MCw0MzQ2NjkxMjYsLTUzMjQwNDQy
+OV19
 -->
