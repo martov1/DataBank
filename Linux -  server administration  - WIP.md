@@ -190,30 +190,18 @@ Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
 
 Hay una serie de archivos que se ejecutan en ciertos momentos para **modificar el environment del shell** para, por ejemplo, añadir una ruta al $PATH o para cualquier otra tarea administrativa 
 
-Apertura de un shell de inicio de sesion.
+**Apertura de un shell de inicio de sesion:**
 * **/etc/profile**  -- modificable por root
 	* Corre todos los scripts en **/etc/profile.d**    -- modificable por root
 * **home/username/.bash_profile**   -- modificable por user
 	* Corre el script **home/username/bashrc**  -- modificable por user
 
-Apertura de shells hijos del shell de inicio de sesion
+**Apertura de shells hijos del shell de inicio de sesion:**
 * **home/username/.bashrc**  -- modificable por user
-	* Corre el script **/etc/bashrc** -- modificable por admi
+	* Corre el script **/etc/bashrc** -- modificable por root
+ 	* Corre todos los scripts en **/etc/profile.d**    -- modificable por root
 
 
-**Modificables solo por ROOT:**
-
-**/etc/profile**  --> Script bash que se ejecuta cuando cualquier usuario inicia la sesión.
-	* Corre todos los scripts en **/etc/profile.d**  
-**/etc/bashrc**  --> Se ejecuta cada vez que cualquier usuario abre una nueva bash  
-	* Corre todos los scripts en **/etc/profile.d**  
-	* 
-**Modificable por el usuario:**
-
-**home/username/.bash_profile**  --> Se ejecuta cuando el usuario inicia sesion
-	* Corre el script **home/username/bashrc**
-**home/username/.bashrc**  --> Se ejecuta cuando el usuario username abre un nuevo bash
-	* Corre el script **/etc/bashrc**
 
 >Cuando se dice que un usuario "inicia sesion" se habla de su bash madre (que puede instanciar bash hijos) a partir de la cual hace todo, aunque tengas una interfaz grafica esta corre encima de un bash shell
 
@@ -998,11 +986,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjEzMzcxMzUsNjcyOTk2MTIwLC03Mj
-AyMDUyMjYsLTI2MTEwNDEwNSwxNTc1MTk0ODUwLDQ2Mzk5NzU2
-MCwxOTY3NjQzNDY0LDEyMjA3NjI1OTIsMTczNDE0NzQ2OSwtOD
-cyNDQxNzMsLTM0MDk5OTIxNCwtMjA0NzQzNDgzNywtMjA0NjA0
-OTE3MiwxOTA5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3NDM3LC
-05NzY4MzgwNzUsODM3NzEzMywxMDQwNTIwNzU5LC0zMTMwODg1
-MTZdfQ==
+eyJoaXN0b3J5IjpbMjU5NjUzMzQwLDY3Mjk5NjEyMCwtNzIwMj
+A1MjI2LC0yNjExMDQxMDUsMTU3NTE5NDg1MCw0NjM5OTc1NjAs
+MTk2NzY0MzQ2NCwxMjIwNzYyNTkyLDE3MzQxNDc0NjksLTg3Mj
+Q0MTczLC0zNDA5OTkyMTQsLTIwNDc0MzQ4MzcsLTIwNDYwNDkx
+NzIsMTkwOTkzNDE3MiwtMTE1NDA3MDEzLDMwNjIwNzQzNywtOT
+c2ODM4MDc1LDgzNzcxMzMsMTA0MDUyMDc1OSwtMzEzMDg4NTE2
+XX0=
 -->
