@@ -41,9 +41,9 @@ http://systemadmin.es/2009/12/diferencia-entre-open-closed-y-filtered-en-nmap
 
 Muchas veces tenes una serie de servidores que necesitan interactuar entre ellos con puertos que no queres abrir al mundo.
 
-Para eso podes indicarle a tu firewall que acepte solo **los sockets definidos con IP**
+Para eso podes indicarle a tu firewall que acepte solo **los sockets TCP** que esten dentro de un whitelist con
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0Mjg3NzUwLC02MTg1MDI5ODYsLTE2Nj
-MxNjIyODYsOTM5ODE0NDQ4LDExNzk1MDYzNzIsNzg0MjY2NTY0
-XX0=
+eyJoaXN0b3J5IjpbLTEyNDgzMDA2NiwtNjE4NTAyOTg2LC0xNj
+YzMTYyMjg2LDkzOTgxNDQ0OCwxMTc5NTA2MzcyLDc4NDI2NjU2
+NF19
 -->
