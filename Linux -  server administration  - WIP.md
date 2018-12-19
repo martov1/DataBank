@@ -92,53 +92,6 @@ Cuando cambias de directorio muchas veces se muestra el directorio en referencia
 * **rm -rf** - Borra recursivamente un directorio
 * **cp** - Copia archivos
 
-## Environment variables
-
-### Ver las environment variables
-
-* Podes **Listar** todas las environment variables con **printenv**, las environment variablles determinan el comportamiento del shell y del sistema.
-	```
-	[juan@host ~]$ printenv
-	```
-* Podes **Leer** una environment variable usando **$nombreDeLaVariable**
-	```
-	[juan@host ~]$ echo $home
-	```
- ### Crear environment variables
-
-Para crear una environment variable, haces
-
-```bash
-	export MIVARIABLE="el valor"
- ```
-
-## $PATH  environment variable
-
-Es una variable del shell que contiene una **lista de directorios donde se buscaran los ejecutables de los comandos que tipeas** (EJ: ls, pwd, man, etc).
-
->Cuando tipeas un comando, se busca un archivo con el nombre de ese comando en los directorios de $PATH, la busqueda se hace en el orden en el que estan puestos los directorios.
-
-**podes visualizarla haciendo:**
-Los diferentes directorios quedan separados por **":"**
-
-	[juan@host ~]$ echo $PATH
-	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin...
-
-**Podes ver en que directorio de $PATH esta un comando haciendo:**
-
-	[juan@host ~]$ which ls
-
-## Ejecutar comandos fuera de $PATH
-
-Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
-
-	//Navegando hacia la carpeta y llamando el comando
-	[juan@host ~]$ cd /mi/carpeta/loca
-	[juan@host loca]$ ./miComando
-	
-	// Directamente llamando al comando con la ruta
-	[juan@host ~]$ cd /mi/carpeta/loca miComando
-
 ## I/O redirection
 
 Podes redirigir la entrada y la salida de los comandos de consola hacia o desde archivos.
@@ -183,6 +136,56 @@ ls 2>/dev/null
 ### Pipe |
 
 Pipe te permite pasarle el output de un command al input de otro, por ejemplo 
+
+
+## Environment variables y configuracion
+
+### Ver las environment variables
+
+* Podes **Listar** todas las environment variables con **printenv**, las environment variablles determinan el comportamiento del shell y del sistema.
+	```
+	[juan@host ~]$ printenv
+	```
+* Podes **Leer** una environment variable usando **$nombreDeLaVariable**
+	```
+	[juan@host ~]$ echo $home
+	```
+ ### Crear environment variables
+
+Para crear una environment variable, haces
+
+```bash
+	export MIVARIABLE="el valor"
+ ```
+
+### $PATH  environment variable
+
+Es una variable del shell que contiene una **lista de directorios donde se buscaran los ejecutables de los comandos que tipeas** (EJ: ls, pwd, man, etc).
+
+>Cuando tipeas un comando, se busca un archivo con el nombre de ese comando en los directorios de $PATH, la busqueda se hace en el orden en el que estan puestos los directorios.
+
+**podes visualizarla haciendo:**
+Los diferentes directorios quedan separados por **":"**
+
+	[juan@host ~]$ echo $PATH
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin...
+
+**Podes ver en que directorio de $PATH esta un comando haciendo:**
+
+	[juan@host ~]$ which ls
+
+### Ejecutar comandos fuera de $PATH
+
+Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
+
+	//Navegando hacia la carpeta y llamando el comando
+	[juan@host ~]$ cd /mi/carpeta/loca
+	[juan@host loca]$ ./miComando
+	
+	// Directamente llamando al comando con la ruta
+	[juan@host ~]$ cd /mi/carpeta/loca miComando
+
+
 
 
 
@@ -967,11 +970,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTE5NDg1MCw0NjM5OTc1NjAsMTk2Nz
-Y0MzQ2NCwxMjIwNzYyNTkyLDE3MzQxNDc0NjksLTg3MjQ0MTcz
-LC0zNDA5OTkyMTQsLTIwNDc0MzQ4MzcsLTIwNDYwNDkxNzIsMT
-kwOTkzNDE3MiwtMTE1NDA3MDEzLDMwNjIwNzQzNywtOTc2ODM4
-MDc1LDgzNzcxMzMsMTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5OD
-MyMTQ1MCw0MzQ2NjkxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3
-XX0=
+eyJoaXN0b3J5IjpbODQ2MzE1OTE2LDE1NzUxOTQ4NTAsNDYzOT
+k3NTYwLDE5Njc2NDM0NjQsMTIyMDc2MjU5MiwxNzM0MTQ3NDY5
+LC04NzI0NDE3MywtMzQwOTk5MjE0LC0yMDQ3NDM0ODM3LC0yMD
+Q2MDQ5MTcyLDE5MDk5MzQxNzIsLTExNTQwNzAxMywzMDYyMDc0
+MzcsLTk3NjgzODA3NSw4Mzc3MTMzLDEwNDA1MjA3NTksLTMxMz
+A4ODUxNiwxOTgzMjE0NTAsNDM0NjY5MTI2LC01MzI0MDQ0Mjld
+fQ==
 -->
