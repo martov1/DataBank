@@ -192,7 +192,8 @@ Hay una serie de archivos que se ejecutan en ciertos momentos para **modificar e
 
 **Modificables solo por ROOT:**
 
-**/etc/profile**  --> Script bash que se ejecuta cuando qualquier usuario inicia la sesión.  
+**/etc/profile**  --> Script bash que se ejecuta cuando qualquier usuario inicia la sesión.
+	* Corre todos los scripts en **/etc/profile.d**  
 **/etc/bashrc**  --> Se ejecuta cada vez que cualquier usuario abre una nueva bash  
 
 **Modificable por el usuario:**
@@ -982,11 +983,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjk3NzA2MSwtMjYxMTA0MTA1LDE1Nz
-UxOTQ4NTAsNDYzOTk3NTYwLDE5Njc2NDM0NjQsMTIyMDc2MjU5
-MiwxNzM0MTQ3NDY5LC04NzI0NDE3MywtMzQwOTk5MjE0LC0yMD
-Q3NDM0ODM3LC0yMDQ2MDQ5MTcyLDE5MDk5MzQxNzIsLTExNTQw
-NzAxMywzMDYyMDc0MzcsLTk3NjgzODA3NSw4Mzc3MTMzLDEwND
-A1MjA3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAsNDM0NjY5MTI2
-XX0=
+eyJoaXN0b3J5IjpbLTIwMDYwNTg5MjcsLTI2MTEwNDEwNSwxNT
+c1MTk0ODUwLDQ2Mzk5NzU2MCwxOTY3NjQzNDY0LDEyMjA3NjI1
+OTIsMTczNDE0NzQ2OSwtODcyNDQxNzMsLTM0MDk5OTIxNCwtMj
+A0NzQzNDgzNywtMjA0NjA0OTE3MiwxOTA5OTM0MTcyLC0xMTU0
+MDcwMTMsMzA2MjA3NDM3LC05NzY4MzgwNzUsODM3NzEzMywxMD
+QwNTIwNzU5LC0zMTMwODg1MTYsMTk4MzIxNDUwLDQzNDY2OTEy
+Nl19
 -->
