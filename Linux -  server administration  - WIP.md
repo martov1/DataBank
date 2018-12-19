@@ -191,10 +191,12 @@ Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
 Hay una serie de archivos que se ejecutan en ciertos momentos para **modificar el environment del shell** para, por ejemplo, añadir una ruta al $PATH o para cualquier otra tarea administrativa 
 
 Apertura de un shell de inicio de sesion.
-**/etc/profile**  --> Script bash que se ejecuta cuando cualquier usuario inicia la sesión.
-	* Corre todos los scripts en **/etc/profile.d**  
-	
+* **/etc/profile**  -- modificable por root
+	* Corre todos los scripts en **/etc/profile.d**    -- modificable por root
+* **home/username/.bash_profile**   -- modificable por user
+	* Corre el script **home/username/bashrc**  -- modificable por user
 
+Apertura de shells hijos del shell de inicio de sesion
 
 **Modificables solo por ROOT:**
 
@@ -993,7 +995,7 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0OTcyODcwLC03MjAyMDUyMjYsLTI2MT
+eyJoaXN0b3J5IjpbLTU5NzI0Mzg3LC03MjAyMDUyMjYsLTI2MT
 EwNDEwNSwxNTc1MTk0ODUwLDQ2Mzk5NzU2MCwxOTY3NjQzNDY0
 LDEyMjA3NjI1OTIsMTczNDE0NzQ2OSwtODcyNDQxNzMsLTM0MD
 k5OTIxNCwtMjA0NzQzNDgzNywtMjA0NjA0OTE3MiwxOTA5OTM0
