@@ -1,12 +1,12 @@
+magnet link red hat sys admin
+magnet:?xt=urn:btih:5ff1563ff871dd642eb45049404feadbde4ec6a8&dn=VTC-Red.Hat.Certified.System.Administrator.RHCSA-JAVAPSYCHE&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2fzer0day.ch%3a1337&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fexodus.desync.com%3a6969
+
+Magnet link red hat sys engineer
+magnet:?xt=urn:btih:8e8a461a27dc401e9991f0d15980c4c1402c742a&dn=Red%20Hat%20Certified%20Engineer&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2fzer0day.ch%3a1337&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fexodus.desync.com%3a6969
+
+
 https://www.youtube.com/watch?v=c0HxEeLyXmM&list=PLjGbUPQu3fSR2wOhTD5on_BBJh2HlCEAQ
 
-RED HAT SYSTEM ADMIN
-1
-https://www.udemy.com/linux-startup-red-hat-certified-systems-administrator/
-2
-https://www.udemy.com/red-hat-system-administration-rh134/
-3
-https://www.udemy.com/red-hat-linux-system-administration-iii-rh254/
 
 RED HAT SYSTEM ENGINEER
 https://www.udemy.com/linux-academy-red-hat-certified-engineer-prep/
@@ -967,11 +967,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzOTk3NTYwLDE5Njc2NDM0NjQsMTIyMD
-c2MjU5MiwxNzM0MTQ3NDY5LC04NzI0NDE3MywtMzQwOTk5MjE0
-LC0yMDQ3NDM0ODM3LC0yMDQ2MDQ5MTcyLDE5MDk5MzQxNzIsLT
-ExNTQwNzAxMywzMDYyMDc0MzcsLTk3NjgzODA3NSw4Mzc3MTMz
-LDEwNDA1MjA3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAsNDM0Nj
-Y5MTI2LC01MzI0MDQ0MjksMTk5MzIwMDgyNywtMTYyNTE1NDYy
-N119
+eyJoaXN0b3J5IjpbMTU3NTE5NDg1MCw0NjM5OTc1NjAsMTk2Nz
+Y0MzQ2NCwxMjIwNzYyNTkyLDE3MzQxNDc0NjksLTg3MjQ0MTcz
+LC0zNDA5OTkyMTQsLTIwNDc0MzQ4MzcsLTIwNDYwNDkxNzIsMT
+kwOTkzNDE3MiwtMTE1NDA3MDEzLDMwNjIwNzQzNywtOTc2ODM4
+MDc1LDgzNzcxMzMsMTA0MDUyMDc1OSwtMzEzMDg4NTE2LDE5OD
+MyMTQ1MCw0MzQ2NjkxMjYsLTUzMjQwNDQyOSwxOTkzMjAwODI3
+XX0=
 -->
