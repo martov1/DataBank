@@ -186,7 +186,9 @@ Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
 	[juan@host ~]$ cd /mi/carpeta/loca miComando
 
 
+## Proceso de booteo de shell
 
+Cuando booteas un shell
 
 
 # File system
@@ -970,11 +972,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2MzE1OTE2LDE1NzUxOTQ4NTAsNDYzOT
-k3NTYwLDE5Njc2NDM0NjQsMTIyMDc2MjU5MiwxNzM0MTQ3NDY5
-LC04NzI0NDE3MywtMzQwOTk5MjE0LC0yMDQ3NDM0ODM3LC0yMD
-Q2MDQ5MTcyLDE5MDk5MzQxNzIsLTExNTQwNzAxMywzMDYyMDc0
-MzcsLTk3NjgzODA3NSw4Mzc3MTMzLDEwNDA1MjA3NTksLTMxMz
-A4ODUxNiwxOTgzMjE0NTAsNDM0NjY5MTI2LC01MzI0MDQ0Mjld
-fQ==
+eyJoaXN0b3J5IjpbLTEyOTE5MTc3NTksMTU3NTE5NDg1MCw0Nj
+M5OTc1NjAsMTk2NzY0MzQ2NCwxMjIwNzYyNTkyLDE3MzQxNDc0
+NjksLTg3MjQ0MTczLC0zNDA5OTkyMTQsLTIwNDc0MzQ4MzcsLT
+IwNDYwNDkxNzIsMTkwOTkzNDE3MiwtMTE1NDA3MDEzLDMwNjIw
+NzQzNywtOTc2ODM4MDc1LDgzNzcxMzMsMTA0MDUyMDc1OSwtMz
+EzMDg4NTE2LDE5ODMyMTQ1MCw0MzQ2NjkxMjYsLTUzMjQwNDQy
+OV19
 -->
