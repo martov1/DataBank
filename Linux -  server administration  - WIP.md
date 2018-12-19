@@ -198,7 +198,7 @@ Apertura de un shell de inicio de sesion.
 
 Apertura de shells hijos del shell de inicio de sesion
 * **home/username/.bashrc**  -- modificable por user
-	* Corre el script **/etc/bashrc**
+	* Corre el script **/etc/bashrc** -- modificable por admi
 
 
 **Modificables solo por ROOT:**
@@ -998,11 +998,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyOTk2MTIwLC03MjAyMDUyMjYsLTI2MT
-EwNDEwNSwxNTc1MTk0ODUwLDQ2Mzk5NzU2MCwxOTY3NjQzNDY0
-LDEyMjA3NjI1OTIsMTczNDE0NzQ2OSwtODcyNDQxNzMsLTM0MD
-k5OTIxNCwtMjA0NzQzNDgzNywtMjA0NjA0OTE3MiwxOTA5OTM0
-MTcyLC0xMTU0MDcwMTMsMzA2MjA3NDM3LC05NzY4MzgwNzUsOD
-M3NzEzMywxMDQwNTIwNzU5LC0zMTMwODg1MTYsMTk4MzIxNDUw
-XX0=
+eyJoaXN0b3J5IjpbLTE1NjEzMzcxMzUsNjcyOTk2MTIwLC03Mj
+AyMDUyMjYsLTI2MTEwNDEwNSwxNTc1MTk0ODUwLDQ2Mzk5NzU2
+MCwxOTY3NjQzNDY0LDEyMjA3NjI1OTIsMTczNDE0NzQ2OSwtOD
+cyNDQxNzMsLTM0MDk5OTIxNCwtMjA0NzQzNDgzNywtMjA0NjA0
+OTE3MiwxOTA5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3NDM3LC
+05NzY4MzgwNzUsODM3NzEzMywxMDQwNTIwNzU5LC0zMTMwODg1
+MTZdfQ==
 -->
