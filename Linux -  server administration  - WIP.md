@@ -4,7 +4,7 @@ magnet:?xt=urn:btih:5ff1563ff871dd642eb45049404feadbde4ec6a8&dn=VTC-Red.Hat.Cert
 Magnet link red hat sys engineer
 magnet:?xt=urn:btih:8e8a461a27dc401e9991f0d15980c4c1402c742a&dn=Red%20Hat%20Certified%20Engineer&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2fzer0day.ch%3a1337&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fexodus.desync.com%3a6969
 
-
+**Estoy usando este, esta copado:**
 https://www.youtube.com/watch?v=c0HxEeLyXmM&list=PLjGbUPQu3fSR2wOhTD5on_BBJh2HlCEAQ
 
 
@@ -982,11 +982,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTEwNDEwNSwxNTc1MTk0ODUwLDQ2Mz
-k5NzU2MCwxOTY3NjQzNDY0LDEyMjA3NjI1OTIsMTczNDE0NzQ2
-OSwtODcyNDQxNzMsLTM0MDk5OTIxNCwtMjA0NzQzNDgzNywtMj
-A0NjA0OTE3MiwxOTA5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3
-NDM3LC05NzY4MzgwNzUsODM3NzEzMywxMDQwNTIwNzU5LC0zMT
-MwODg1MTYsMTk4MzIxNDUwLDQzNDY2OTEyNiwtNTMyNDA0NDI5
+eyJoaXN0b3J5IjpbMjEzMjk3NzA2MSwtMjYxMTA0MTA1LDE1Nz
+UxOTQ4NTAsNDYzOTk3NTYwLDE5Njc2NDM0NjQsMTIyMDc2MjU5
+MiwxNzM0MTQ3NDY5LC04NzI0NDE3MywtMzQwOTk5MjE0LC0yMD
+Q3NDM0ODM3LC0yMDQ2MDQ5MTcyLDE5MDk5MzQxNzIsLTExNTQw
+NzAxMywzMDYyMDc0MzcsLTk3NjgzODA3NSw4Mzc3MTMzLDEwND
+A1MjA3NTksLTMxMzA4ODUxNiwxOTgzMjE0NTAsNDM0NjY5MTI2
 XX0=
 -->
