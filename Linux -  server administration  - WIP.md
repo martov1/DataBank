@@ -188,7 +188,7 @@ Si tenes un comando ejecutable en un directorio y queres llamar a ese comando:
 
 ### Archivos que modifican el environment
 
-Hay una serie de archivos que se ejecutan en ciertos momentos para modificar el environment del shell para, por ejemplo, añadir una ruta al $PATH o para cualquier otra tarea administrativa 
+Hay una serie de archivos que se ejecutan en ciertos momentos para **modificar el environment del shell** para, por ejemplo, añadir una ruta al $PATH o para cualquier otra tarea administrativa 
 
 **Modificables solo por ROOT:**
 
@@ -982,7 +982,7 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzQ5NzQzMSwxNTc1MTk0ODUwLDQ2Mz
+eyJoaXN0b3J5IjpbLTI2MTEwNDEwNSwxNTc1MTk0ODUwLDQ2Mz
 k5NzU2MCwxOTY3NjQzNDY0LDEyMjA3NjI1OTIsMTczNDE0NzQ2
 OSwtODcyNDQxNzMsLTM0MDk5OTIxNCwtMjA0NzQzNDgzNywtMj
 A0NjA0OTE3MiwxOTA5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3
