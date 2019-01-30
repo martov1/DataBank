@@ -100,6 +100,8 @@ Elocuent es capaz de varios tipos de relaciones entre modelos
 # Declaracion de relaciones
 
 >Las relaciones simepre se declaran en el modelo usando una **funcion relacion** que devuelve el **mismo modelo pero añadiendole la relacion** usando un metodo de eloquent.
+>
+>El nombre de la funcion determina **el nombre de la foreign key** que laravel buscara en la DB. podes overridear esto indicandole a laravel la foreign key directamente
 > EJ
 ```php
 class User extends Model
@@ -928,7 +930,7 @@ Cargas todos los datos de contacto de cada autor.
 		}
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0ODAwMTM4LC00NDgxNTY1OTEsLTEzNz
-k1ODgwMSwtMTQ3MzI2NTcxMywyMDM1MjQxMTYyLC0xMTI2ODM4
-MzA3XX0=
+eyJoaXN0b3J5IjpbNjMxOTU1Mzc3LDQyNDgwMDEzOCwtNDQ4MT
+U2NTkxLC0xMzc5NTg4MDEsLTE0NzMyNjU3MTMsMjAzNTI0MTE2
+MiwtMTEyNjgzODMwN119
 -->
