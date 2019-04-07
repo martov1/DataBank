@@ -3,7 +3,7 @@
 
 ---
 
-<p><strong>Me quede en  9.3.1 Choosing a positioning scheme: <a href="https://www.w3.org/TR/CSS2/visuren.html#propdef-position">‘position’</a> property</strong></p>
+<p><strong>Me quede en FLOATS</strong></p>
 <p>ATENCION:<br>
 Arranque con CSS2.1, Despues tengo que leer todas las otras specs<br>
 CSS2.1:<br>
@@ -357,9 +357,9 @@ Applies to:all elements</li>
 <li><strong>Absolute positioning:</strong> Se remueve la caja del flow y se coloca en una posicion con respecto al container block.</li>
 </ul>
 <h3 id="normal-flow">Normal Flow</h3>
-<p>En el normal flow <strong>cada elemento siempre pertenece a un y solo un formatting context</strong>.</p>
+<p>En el normal flow <strong>cada elemento siempre pertenece a un y solo un formatting context</strong> que dictara cual es la posicion de ese elemento.</p>
 <p>si hay <strong>inline elements</strong> y <strong>block elements</strong> en el <strong>mismo formatting context</strong> entonces se <strong>encuadran los elementos en blocks/inlines</strong> para poder formatearlos en el contexto en el que estan</p>
-<p><strong>EJ</strong>: se colocan los inline elements en bloques para que participen del block formatting context. Esos blocks se denominan <strong>anonymous boxes</strong></p>
+<p><strong>EJ</strong>: SI se colocan los inline elements en un block formating context el motor CSS coloca los inline elements en bloques para que participen del block formatting context. Esos blocks se denominan <strong>anonymous blocks</strong></p>
 <h4 id="block-elements">Block Elements</h4>
 <p>Los block elements son elementos que:</p>
 <ul>
@@ -407,14 +407,10 @@ Applies to:all elements</li>
 <p>Entonces <strong>un parrafo es una pila de line boxes</strong>.</p>
 <p><strong>En un IFC:</strong></p>
 <ul>
-<li><strong>LAYOUT:</strong>
-<ul>
 <li><strong>Los elementos van uno a la derecha del otro</strong> en normal flow, comenzando desde el lado superior izquierdo del containing box.</li>
-<li><strong>Se agrupan en un line box por cada renglon</strong>. un Line box puede tener uno o mas inline elements (ej texto y negritas)
+<li><strong>Se agrupan en un LINE BOX por cada renglon</strong>. un Line box puede tener uno o mas inline elements (ej texto y negritas)
 <ul>
-<li><strong>Los elementos en un line box pueden ser alineados verticalmente</strong> de formas diferentes (ej: textos de diferentes tamaños alineados centrado quedan mal, los alineas en baseline para que queden en el mismo renglon)</li>
-</ul>
-</li>
+<li><strong>Los elementos en un LINE BOX pueden ser alineados verticalmente</strong> de formas diferentes (ej: textos de diferentes tamaños alineados centrado quedan mal, los alineas en baseline para que queden en el mismo renglon)</li>
 </ul>
 </li>
 </ul>
@@ -426,6 +422,17 @@ Applies to:all elements</li>
 <ul>
 <li><code>overflow: auto</code></li>
 <li><code>display: flow-root</code> - <a href="https://caniuse.com/#search=display:%20flow-root">ver support</a></li>
+</ul>
+<h3 id="relative-positioning">Relative positioning</h3>
+<p>El Relative positioning es una forma de posicionamiento que coloca los objetos <strong>de manera relativa al lugar donde irian en su normal flow</strong> pero esto <strong>No afecta la posicion de los elementos a su alrededor</strong> y <strong>preserva el lugar originalmente  destinado al elemento</strong></p>
+<blockquote>
+<p><strong>El tamaño del elemento no puede cambiar cmo resultado del posicionamiento relativo!</strong></p>
+</blockquote>
+<p><strong>Posicionamiento:</strong></p>
+<ul>
+<li><strong>Left y Right:</strong> Son para posicionar el elemento. Solo podes usar <strong>una de las dos propiedades a la vez</strong> ya que el tamaño del elemento no puede cambiarse</li>
+<li><strong>Top y bottom</strong> tambien son para posicionar el lemento y solo puede usarse <strong>una de las dos</strong> ya que el tamaño del elemento no puede cambiarse</li>
+<li>Usar <strong>auto</strong> como valor equivale a usar 0.</li>
 </ul>
 <h2 id="rules">Rules</h2>
 <h2 id="rules-1">@ Rules</h2>
