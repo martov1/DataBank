@@ -12,6 +12,7 @@ LAS DEMAS:<br>
 <a href="https://www.w3.org/TR/css-2018/">https://www.w3.org/TR/css-2018/</a></p>
 <h1 id="css-2.1">CSS 2.1</h1>
 <h2 id="ideologia">Ideologia</h2>
+<p>CSS es un lenguaje de estilos pero tambien intenta mantener ciertos ideales, estos son:</p>
 <ul>
 <li><strong>GENERALIDAD:</strong> CSS es un lenguaje ideado para presentar y describir contenido en <strong>cualquier formato (voz, texto escrito, impreso, audio, imagenes, braille, etc)</strong> aunque sus aplicaciones mas conocidas son la renderizacion visual de paginas web.</li>
 <li><strong>BACKWARDS COMPATIBLE:</strong> CSS debe ser compatible con todas sus versiones anteriores</li>
@@ -21,11 +22,12 @@ LAS DEMAS:<br>
 <li><strong>ACCESIBILIDAD:</strong> CSS proovera de herramientas para que el contenido sea accesbile a personas con inhabilidades</li>
 </ul>
 <h2 id="terminos">Terminos</h2>
+<p>CSS utiliza ciertos terminos propios:</p>
 <ul>
-<li><strong>Canvas</strong>  - No confundir con el HTML5 canvas, es el area donde css va a renderizar. es infinita en todas las dimensiones y se elige una subarea dependiendo del media type, generalmente es elegido por el user-agent. se define como <strong>El area donde la FORMMATTING STRUCTURE</strong> se renderiza</li>
-<li><strong>Source document</strong> - El documento al cual se le aplicaran las stylesheets</li>
+<li><strong>Source document</strong> - El documento al cual se le aplicaran las stylesheets (ej HTML)</li>
 <li><strong>Document tree</strong> - Un arbol de nodos que contiene los elementos del source document antes de ser  aplicadas las reglas de los stylesheets. (generalmente un arbol de elementos html)</li>
 <li><strong>Formatting structure</strong> - Una descripcion programatica (generalmente arbol de nodos) de lo que se va a mostrar, se computa a partir de un Document tree y las style sheets</li>
+<li><strong>Canvas</strong>  - No confundir con el HTML5 canvas, es el area donde css va a renderizar. es infinita en todas las dimensiones y se elige una subarea dependiendo del media type, generalmente es elegido por el user-agent. se define como <strong>El area donde la FORMMATTING STRUCTURE</strong> se renderizara.</li>
 <li><strong>Selector</strong> - Algo que te permite indicar un elemento o elementos del document tree y/o
 <ul>
 <li>relaciones entre ellos</li>
@@ -63,11 +65,11 @@ LAS DEMAS:<br>
 <p><strong>em</strong> The ‘em’ unit is equal to the computed value of the <a href="https://www.w3.org/TR/CSS2/fonts.html#propdef-font-size">‘font-size’</a> property of the element on which it is used. The exception is when ‘em’ occurs in the value of the ‘font-size’ property itself, in which case it refers to the font size of the parent element.</p>
 </li>
 <li>
-<p><strong>%</strong> es un procentaje,  su valor computado depende de cada propiedad y no hay regla genera.</p>
+<p><strong>%</strong> es un procentaje,  <strong>su valor computado depende de cada propiedad</strong> y no hay regla general.</p>
 </li>
 </ul>
 <h3 id="colores">Colores</h3>
-<p>Los colores se implementan siempre en <strong>RGB</strong>, hay dos maneras de escribirlos pero siempre simbolizan RGB</p>
+<p>Los colores se implementan siempre en <strong>RGB</strong>, hay dos maneras de escribirlos pero <strong>siempre</strong> simbolizan RGB</p>
 <ul>
 <li><strong>rgb(255,255,255)</strong> - Byte en rojo, verde y azul en numeros 0-255</li>
 <li><strong>#rrggbb</strong> - Byytes en hexadecimal con dos caracteres para cada color de RGB ej ff=255</li>
@@ -157,7 +159,7 @@ h1 { font-size: 130% }
 </ol>
 <h2 id="selectores">Selectores</h2>
 <p>CSS 2.1 provee la siguiente lista de selectores para ubicar uno o varios elementos dentro del <strong>Document tree</strong></p>
-<p><strong>POR ORDEN DE LOS ELEMENTOS</strong></p>
+<h3 id="por-orden-de-los-elementos">Por orden de los elementos</h3>
 <ul>
 <li><strong>*</strong> - Cualquier elemento, cuando no se especifica un elemento en un selector se presume que se utiliza este</li>
 <li><strong>E</strong> - Donde E es un tipo de elemento ej “div”, selecciona los elementos de ese tipo</li>
@@ -166,7 +168,7 @@ h1 { font-size: 130% }
 <li><strong>E + F</strong> elemento de tipo F cuyo hermano inmediato precedente sea E (semanticamente tiene sentido entonces E + F)</li>
 <li><strong>E:first-child</strong> Elemento E que ademas sea el primer hijo  de su elemento padre</li>
 </ul>
-<p><strong>POR ATRIBUTO DE LOS ELEMENTOS:</strong></p>
+<h3 id="por-atributo-de-los-elementos">Por atributo de los elementos</h3>
 <blockquote>
 <p><strong>ATENCION:</strong></p>
 <ul>
@@ -181,8 +183,8 @@ h1 { font-size: 130% }
 <li><strong>E[foo|=“warning”]</strong> elemento E con atributo foo que tiene una lista de valores separado por guiones entre los cuales esta ‘warning’</li>
 <li><strong>E#myid</strong> Elemmento E con id #myid</li>
 </ul>
-<p><strong>PSEUDO-CLASES</strong><br>
-Son la forma que tiene CSS de acceder a informacion que no esta explicitamente provista en el lenguaje de markup o el arbol de nodos <strong>Document tree</strong>, por ejemplo el primer renglon de un parrafo</p>
+<h3 id="pseudo-clases">Pseudo-clases</h3>
+<p>Son la forma que tiene CSS de acceder a informacion que no esta explicitamente provista en el lenguaje de markup o el arbol de nodos <strong>Document tree</strong>, por ejemplo el primer renglon de un parrafo</p>
 <ul>
 <li><strong>E:link</strong>  si E es un achor NO visitado</li>
 <li><strong>E:visited</strong> si E es un achor SI visitado</li>
@@ -221,13 +223,12 @@ Son la forma que tiene CSS de acceder a informacion que no esta explicitamente p
 <li><strong>tv</strong> Intended for television-type devices (low resolution, color, limited-scrollability screens, sound available).</li>
 </ul>
 <h2 id="box-model">Box model</h2>
-<p>El modelo de caja se basa en</p>
+<p>TODOS los elementos en CSS se representan como CAJAS. El modelo de cajas se basa en que <strong>un elemento consiste en varias cajas una dentro de la otra</strong>, esas cajas son:</p>
 <ul>
 <li>El tamaño del contenido</li>
 <li>El padding</li>
 <li>El border</li>
 <li>El Margen</li>
-<li></li>
 </ul>
 <p><img src="https://lh3.googleusercontent.com/BSdXPy1iKoW_RdmcsEKVAomZV7hcOWc2t3DHqPnHPZeBrjYYxV3JsN2BzdoCs8BlIPchL5dprAH6" alt="enter image description here" title="ff"></p>
 <h3 id="margen">Margen</h3>
@@ -248,8 +249,9 @@ Son la forma que tiene CSS de acceder a informacion que no esta explicitamente p
 <li><strong>Computed value:</strong> the percentage as specified or the absolute length</li>
 </ul>
 </blockquote>
-<h3 id="collapsing-margins">Collapsing margins</h3>
-<p>Los margenes <strong>verticales</strong> colapsan en uno solo <strong>siempre que se tocan y son block o inline block elements</strong>. para evitar que se toquen hay que colocar algo en el medio (ej border)<br>
+<h4 id="collapsing-margins">Collapsing margins</h4>
+<p><a href="https://www.youtube.com/watch?v=uEfH6qnFF6Y&amp;t=944s">VER VIDEO PARA ENTENDER BIEN</a></p>
+<p>Los margenes <strong>verticales</strong> colapsan en uno solo <strong>siempre que se tocan y son block o inline block elements Y participan del mismo BFC</strong>. para evitar que se toquen hay que colocar algo en el medio (ej border)<br>
 <a href="https://www.w3.org/TR/CSS2/box.html#collapsing-margins">hay varias posibles condiciones para que los margenes colapsen</a></p>
 <blockquote>
 <p>Este mecanismo pemite que los textos esten separados por margenes siempre de por lo menos un cierto tamaño (ej que no se sumen)</p>
@@ -320,6 +322,7 @@ Applies to:all elements</li>
 <strong>inset:</strong> The border makes the box look as though it were embedded in the canvas.<br>
 <strong>outset:</strong> The opposite of ‘inset’: the border makes the box look as though it were coming out of the canvas.</p>
 <h2 id="visual-formatting-model">Visual formatting model</h2>
+<p>Es el algoritmo por el cual CSS determina donde colocar los elementos del markup.</p>
 <h3 id="terminos-1">Terminos</h3>
 <ul>
 <li>
@@ -336,69 +339,94 @@ Applies to:all elements</li>
 <strong>Es decir que si tenes un elemento con blocks y inline elements los inline elements se transforman en block denominado BLOCK ANONIMO</strong></li>
 </ul>
 </li>
-</ul>
-<h3 id="block-elements">Block Elements</h3>
-<p>Los block elements son elementos que:</p>
-<ul>
-<li><strong>se comportan como bloques</strong> (son siempre cuadrados)</li>
-<li>Generalmente colocan su contenido dentro de un <strong>Block-level box</strong>, es decir que participan del block formatting context</li>
-<li>Generalmente se comporta como un <strong>Block container box</strong>, osea que su contenido sea solamente block-level boxes o inline-level boxes</li>
-</ul>
-<h3 id="block-formatting-context-bfc">Block Formatting Context (BFC)</h3>
-<p><a href="https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/">Ver mas</a></p>
-<p>El BFC  es <strong>el area donde varios block elements estan contenidos e interactuan entre si</strong>.<br>
-En un BFC:</p>
-<ul>
-<li>los elementos van uno encima del otro en us normal flow</li>
-<li>Los margenes de los child NO colapsan con los margenes del elemento que genera el BFC</li>
-<li>El elemento que forma el block formatting context contiene a todos los elementos en su interior aunque sean floats</li>
-<li>Sus children se comportan como blocks y no como inline elments, osea que el texto no hace wrapping alrededor de un float</li>
-<li>Sus children siempre tocan el lado izquierdo del contenedor (aun cuando sean floats)</li>
-</ul>
-<p>Algunas propiedades de CSS hacen que un elemento pueda crear su propio BFC.</p>
-<ul>
-<li><code>overflow: auto</code></li>
-<li><code>display: flow-root</code> - <a href="https://caniuse.com/#search=display:%20flow-root">ver support</a></li>
-</ul>
-<h3 id="inline-formatting-context-ifc---wip">Inline Formatting Context (IFC) - WIP</h3>
-<p>El IFCes <strong>el area donde varios inline elements estan contenidos e interactuan entre si</strong>.<br>
-En un IFC:</p>
-<ul>
-<li>los elementos van uno a la derecha del otro en normal flow, comenzando desde el lado superior derecho del containing box</li>
-<li>Los margenes de los child NO colapsan con los margenes del elemento que genera el BFC</li>
-<li>El elemento que forma el block formatting context contiene a todos los elementos en su interior aunque sean floats</li>
-<li>Sus children se comportan como blocks y no como inline elments, osea que el texto no hace wrapping alrededor de un float</li>
-</ul>
-<p>Algunas propiedades de CSS hacen que un elemento pueda crear su propio BFC.</p>
-<ul>
-<li><code>overflow: auto</code></li>
-<li><code>display: flow-root</code> - <a href="https://caniuse.com/#search=display:%20flow-root">ver support</a></li>
-</ul>
-<h3 id="inline-elements">Inline elements</h3>
-<p>Son aquellos elementos que</p>
-<ul>
-<li><strong>No forman bloques</strong>(NO son siempre cuadrados) sino que se distribuyen en varias lineas/renglones</li>
-<li>Participan del <strong>inline formatting context</strong></li>
-<li><strong>No tienen alto ni ancho</strong>, estan totalmente definidos por el contenido</li>
-</ul>
-<p>Generalmente el texto y los links son inline elements</p>
-<ul>
-<li><strong>Inline-Block</strong> es un block colocado como si fuera un inline element.</li>
+<li>
+<p><strong>Line box</strong> La caja que representa un renglon con uno o mas inline elements en su interior</p>
+</li>
 </ul>
 <h3 id="posicionamiento">Posicionamiento</h3>
 <p>Hay 3 formas de posicionamiento</p>
 <ul>
 <li><strong>Normal flow:</strong>
 <ul>
-<li><strong>block formatting</strong>  de block-level boxes</li>
-<li><strong>inline formatting</strong> de inline-level boxes</li>
-<li><strong>relative positioning</strong>  de  block-level yinline-level boxes.</li>
+<li><strong>En Block formatting contexts (BFC)</strong></li>
+<li><strong>En inline formatting contexts (IFC)</strong></li>
+<li><strong>En relative positioning contexts (RPC)</strong></li>
 </ul>
 </li>
 <li><strong>Floats:</strong> Se arma la caja como si estuviera en flow, luego se remueve de flow y se coloca a la izquierda/derecha del parent o float mas proximo</li>
 <li><strong>Absolute positioning:</strong> Se remueve la caja del flow y se coloca en una posicion con respecto al container block.</li>
 </ul>
-<p>Me quede en <a href="https://www.w3.org/TR/CSS2/visuren.html#positioning-scheme">https://www.w3.org/TR/CSS2/visuren.html#positioning-scheme</a></p>
+<h3 id="normal-flow">Normal Flow</h3>
+<p>En el normal flow <strong>cada elemento siempre pertenece a un y solo un formatting context</strong>.</p>
+<p>si hay <strong>inline elements</strong> y <strong>block elements</strong> en el <strong>mismo formatting context</strong> entonces se <strong>encuadran los elementos en blocks/inlines</strong> para poder formatearlos en el contexto en el que estan</p>
+<p><strong>EJ</strong>: se colocan los inline elements en bloques para que participen del block formatting context. Esos blocks se denominan <strong>anonymous boxes</strong></p>
+<h4 id="block-elements">Block Elements</h4>
+<p>Los block elements son elementos que:</p>
+<ul>
+<li><strong>se comportan como bloques</strong> (son siempre cuadrados)</li>
+<li>Generalmente colocan su contenido dentro de un <strong>Block-level box</strong>, es decir que participan del <strong>BFC</strong></li>
+<li>Generalmente se comporta como un <strong>Block container box</strong>, osea que su contenido sea solamente block-level boxes o inline-level boxes</li>
+</ul>
+<h4 id="block-formatting-context-bfc">Block Formatting Context (BFC)</h4>
+<p><a href="https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/">Ver mas</a></p>
+<p>El BFC  es <strong>el area donde varios block elements estan contenidos e interactuan entre si</strong>.</p>
+<p>En un BFC:</p>
+<ul>
+<li><strong>LAYOUT:</strong>
+<ul>
+<li>los elementos van <strong>uno encima del otro.</strong> y <strong>ocupan todo el ancho</strong></li>
+<li>Los elementos <strong>tocan el borde izquierdo</strong> del contenedor, aun si hay floats</li>
+<li>Los elementos <strong>inline SE TRANFORMAN EN BLOCKS</strong> mediante <strong>anonymous box generation</strong></li>
+</ul>
+</li>
+<li><strong>COLLAPSING MARGINS:</strong> Solo los <strong>margenes</strong> de los elementos dentro del BFC pueden <strong>colapsar</strong> entre si</li>
+</ul>
+<p>Algunas propiedades de CSS hacen que un elemento pueda crear su propio BFC.</p>
+<ul>
+<li><code>overflow: auto</code></li>
+<li><code>display: flow-root</code> - <a href="https://caniuse.com/#search=display:%20flow-root">ver support</a></li>
+</ul>
+<h4 id="anonymous-box-generation">Anonymous box generation</h4>
+<p>Un <strong>BFC</strong> organiza todos los elementos en su interior como Blocks, sin embargo es obvio que podes tener un elemento con childs que sean inline y blocks mezclados.</p>
+<p>Cuando pasa esto <strong>el BFC genera cajas alrededor de los inline elements</strong> para poder tratarlos como blocks. estas cajas no pueden ser seleccionadas con selectores, por eso se las llama <strong>anonymous boxes</strong></p>
+<p><img src="https://lh3.googleusercontent.com/6HHOcEXZOGCGZaLLmVILN10fBSsdlwTgcjSNKYmXpttNk3UPKcowHE03Cjab-poZXA9BhPU7n2Or" alt="enter image description here"></p>
+<h4 id="inline-elements">Inline elements</h4>
+<p>Son aquellos elementos que</p>
+<ul>
+<li>Se distribuyen <strong>Horizontalmente</strong> uno al lado del otro</li>
+<li>Participan del <strong>inline formatting context</strong></li>
+<li><strong>Su alto y ancho</strong> estan totalmente definidos por el contenido y <strong>NO PUEDEN MODIFICARSE</strong></li>
+<li><strong>Se distribuyen en renglones llamados line box</strong> que contienen uno o mas inline elements (ej texto y alguna palabra con negritas son line elements separados pero estan en el mismo renglon)</li>
+</ul>
+<p>Generalmente el texto y los links son inline elements</p>
+<ul>
+<li><strong>Inline-Block</strong> es un block colocado como si fuera un inline element.</li>
+</ul>
+<h4 id="inline-formatting-context-ifc">Inline Formatting Context (IFC)</h4>
+<p>El IFCes <strong>el area donde varios inline elements estan contenidos e interactuan entre si</strong>. Se distribuye el contenido de derecha a izquierda hasta llegar al final del contenedor (o del contenido) y se lo coloca en un <strong>line box</strong>, luego se continua con ese proceso en un <strong>line box</strong> inmediatamente por debajo del al anterior .</p>
+<p>Entonces <strong>un parrafo es una pila de line boxes</strong>.</p>
+<p><strong>En un IFC:</strong></p>
+<ul>
+<li><strong>LAYOUT:</strong>
+<ul>
+<li><strong>Los elementos van uno a la derecha del otro</strong> en normal flow, comenzando desde el lado superior izquierdo del containing box.</li>
+<li><strong>Se agrupan en un line box por cada renglon</strong>. un Line box puede tener uno o mas inline elements (ej texto y negritas)
+<ul>
+<li><strong>Los elementos en un line box pueden ser alineados verticalmente</strong> de formas diferentes (ej: textos de diferentes tamaños alineados centrado quedan mal, los alineas en baseline para que queden en el mismo renglon)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Cada renglon es un <strong>line box:</strong><br>
+<img src="https://lh3.googleusercontent.com/LF-qMyJATr4tKbLvzjCnab0L7Qv1kSLAusVHMn-apAwi9YuF-Nv0KQXtI-OifhH3Ycz5sWJ6pABn" alt="enter image description here"></p>
+<p>Cada <strong>line box</strong> tiene uno o varios <strong>inline elements</strong><br>
+<img src="https://lh3.googleusercontent.com/_a6ZSJrsRblNZx_mkxnYc0Vfz6b3tcUIOrg5gcgwoz1HDalJTFAqt-OFSY2MWb-5CwyM57aMByvF" alt="enter image description here"></p>
+<p>Algunas propiedades de CSS hacen que un elemento pueda crear su propio BFC.</p>
+<ul>
+<li><code>overflow: auto</code></li>
+<li><code>display: flow-root</code> - <a href="https://caniuse.com/#search=display:%20flow-root">ver support</a></li>
+</ul>
 <h2 id="rules">Rules</h2>
 <h2 id="rules-1">@ Rules</h2>
 
