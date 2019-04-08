@@ -35,8 +35,8 @@
 	- [ ] [Eloquent events](https://laravel.com/docs/5.6/eloquent#events)
 
 **Herramientas adicionales**
-- [x] [Encriptacion](https://laravel.com/docs/5.6/encryption)
-- [x] [Hashing](https://laravel.com/docs/5.6/hashing)
+- [x ] [Encriptacion](https://laravel.com/docs/5.6/encryption)
+- [x ] [Hashing](https://laravel.com/docs/5.6/hashing)
 - [ ] [Password Reset](https://laravel.com/docs/5.6/passwords)
 - [ ] [Artisan Console](https://laravel.com/docs/5.6/artisan)
 - [ ] [Broadcasting/websockets](https://laravel.com/docs/5.6/broadcasting)
@@ -44,7 +44,7 @@
 - [ ] [collections (como lodash)](https://laravel.com/docs/5.6/collections)
 - [ ] [events](https://laravel.com/docs/5.6/events)
 - [ ] [Notifications](https://laravel.com/docs/5.6/notifications)
-- [x] [Queues](https://laravel.com/docs/5.6/queues)
+- [x ] [Queues](https://laravel.com/docs/5.6/queues)
 - [ ] [task scheduler](https://laravel.com/docs/5.6/scheduling)
 
 
@@ -987,6 +987,6 @@ podes enviarlos asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA2MjUyNTYsOTg1NDQwMjQwLDE2Mz
+eyJoaXN0b3J5IjpbLTIwODc2MzE5OTQsOTg1NDQwMjQwLDE2Mz
 A0OTE5MTQsMTk5OTU1Nzc5Myw3ODY3NTU5NTddfQ==
 -->
