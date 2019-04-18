@@ -4,11 +4,15 @@
 ---
 
 <p><strong>Me quede en FLOATS</strong></p>
-<p>ATENCION:<br>
-Arranque con CSS2.1, Despues tengo que leer todas las otras specs<br>
-CSS2.1:<br>
-<a href="https://www.w3.org/TR/CSS2/intro.html#q2.0">https://www.w3.org/TR/CSS2/intro.html#q2.0</a><br>
-LAS DEMAS:<br>
+<p>ATENCION:</p>
+<p>ritten th <a href="https://stackedit.io/">StackEdit</a>.<br>
+ATENCION:</p>
+<p><strong>Me quede en 8.4 padding</strong><br>
+<strong>Probablemente necesito leer  9 Visual formatting model para entender muchas cosas del cap. 8</strong></p>
+<p>Arranque con CSS2.1, Despues tengo que leer todas las otras specs</p>
+<p>CSS2.1:<br>
+<a href="https://www.w3.org/TR/CSS2/intro.html#q2.0">https://www.w3.org/TR/CSS2/intro.html#q2.0</a></p>
+<p>LAS DEMAS:<br>
 <a href="https://www.w3.org/TR/css-2018/">https://www.w3.org/TR/css-2018/</a></p>
 <h1 id="css-2.1">CSS 2.1</h1>
 <h2 id="ideologia">Ideologia</h2>
@@ -24,6 +28,7 @@ LAS DEMAS:<br>
 <h2 id="terminos">Terminos</h2>
 <p>CSS utiliza ciertos terminos propios:</p>
 <ul>
+<li><strong>Canvas</strong>  - No confundir con el HTML5 canvas, es el area donde css va a renderizar. es infinita en todas las dimensiones y se elige una subarea dependiendo del media type, generalmente es elegido por el user-agent. se define como <strong>El area donde la FORMMATTING STRUCTURE</strong> se renderiza</li>
 <li><strong>Source document</strong> - El documento al cual se le aplicaran las stylesheets (ej HTML)</li>
 <li><strong>Document tree</strong> - Un arbol de nodos que contiene los elementos del source document antes de ser  aplicadas las reglas de los stylesheets. (generalmente un arbol de elementos html)</li>
 <li><strong>Formatting structure</strong> - Una descripcion programatica (generalmente arbol de nodos) de lo que se va a mostrar, se computa a partir de un Document tree y las style sheets</li>
@@ -159,7 +164,7 @@ h1 { font-size: 130% }
 </ol>
 <h2 id="selectores">Selectores</h2>
 <p>CSS 2.1 provee la siguiente lista de selectores para ubicar uno o varios elementos dentro del <strong>Document tree</strong></p>
-<h3 id="por-orden-de-los-elementos">Por orden de los elementos</h3>
+<h3 id="por-orden-de-los-elementospor-orden-de-los-elementos">Por orden de los elementos<strong>POR ORDEN DE LOS ELEMENTOS</strong></h3>
 <ul>
 <li><strong>*</strong> - Cualquier elemento, cuando no se especifica un elemento en un selector se presume que se utiliza este</li>
 <li><strong>E</strong> - Donde E es un tipo de elemento ej “div”, selecciona los elementos de ese tipo</li>
@@ -168,7 +173,7 @@ h1 { font-size: 130% }
 <li><strong>E + F</strong> elemento de tipo F cuyo hermano inmediato precedente sea E (semanticamente tiene sentido entonces E + F)</li>
 <li><strong>E:first-child</strong> Elemento E que ademas sea el primer hijo  de su elemento padre</li>
 </ul>
-<h3 id="por-atributo-de-los-elementos">Por atributo de los elementos</h3>
+<h3 id="por-atributo-de-los-elementospor-atributo-de-los-elementos">Por atributo de los elementos<strong>POR ATRIBUTO DE LOS ELEMENTOS:</strong></h3>
 <blockquote>
 <p><strong>ATENCION:</strong></p>
 <ul>
@@ -183,7 +188,7 @@ h1 { font-size: 130% }
 <li><strong>E[foo|=“warning”]</strong> elemento E con atributo foo que tiene una lista de valores separado por guiones entre los cuales esta ‘warning’</li>
 <li><strong>E#myid</strong> Elemmento E con id #myid</li>
 </ul>
-<h3 id="pseudo-clases">Pseudo-clases</h3>
+<h3 id="pseudo-clasespseudo-clases">Pseudo-clases<strong>PSEUDO-CLASES</strong></h3>
 <p>Son la forma que tiene CSS de acceder a informacion que no esta explicitamente provista en el lenguaje de markup o el arbol de nodos <strong>Document tree</strong>, por ejemplo el primer renglon de un parrafo</p>
 <ul>
 <li><strong>E:link</strong>  si E es un achor NO visitado</li>
@@ -231,10 +236,16 @@ h1 { font-size: 130% }
 <li>El Margen</li>
 </ul>
 <p><img src="https://lh3.googleusercontent.com/BSdXPy1iKoW_RdmcsEKVAomZV7hcOWc2t3DHqPnHPZeBrjYYxV3JsN2BzdoCs8BlIPchL5dprAH6" alt="enter image description here" title="ff"></p>
+<ul>
+<li>El tamaño del contenido</li>
+<li>El padding</li>
+<li>El border</li>
+<li>El Margen</li>
+</ul>
 <h3 id="margen">Margen</h3>
 <ul>
 <li>Siempre es <strong>transparente</strong></li>
-<li>Su <strong>%</strong> se calcula en base al ancho del <strong>contianing block</strong>.</li>
+<li>Su <strong>%</strong> se calcula en base al ancho del <strong>contianing blockenido</strong>.</li>
 <li>Para elementos <strong>inline-block se ignoran</strong> los margenes <strong>Top y Bottom</strong></li>
 </ul>
 <p>Tiene las siguientes caracteristicas</p>
@@ -434,6 +445,19 @@ Applies to:all elements</li>
 <li><strong>Top y bottom</strong> tambien son para posicionar el lemento y solo puede usarse <strong>una de las dos</strong> ya que el tamaño del elemento no puede cambiarse</li>
 <li>Usar <strong>auto</strong> como valor equivale a usar 0.</li>
 </ul>
+<h3 id="float">Float</h3>
+<h4 id="funcionamiento">Funcionamiento</h4>
+<p>Un float:</p>
+<ul>
+<li><strong>Se corre</strong> a la derecha o izquierda hasta tocar el borde de su contenedor o del float mas proximo</li>
+<li><strong>Si no entra a la derecha o izquierda del float mas proximo</strong>, se coloca debajo de este y tocando el borde del contenedor</li>
+<li><strong>Permite que el contenido fluya a su alrededor</strong></li>
+<li><strong>Es ignorado en el normal flow</strong> por lo que los elementos pueden quedar detras del float y ademas no forma parte del computo de altura del parent</li>
+<li><strong>Si tiene clear</strong> los elementos floted a la derecha o izquierda (dependiendo del clear) pasan a la siguiente linea</li>
+</ul>
+<h4 id="el-famoso-clearfix---wip">El famoso clearfix --WIP</h4>
+<p><a href="https://www.youtube.com/watch?v=IiJzbXzOdHQ">https://www.youtube.com/watch?v=IiJzbXzOdHQ</a></p>
+<p><a href="https://www.youtube.com/watch?v=F86kgfhS-Vk">https://www.youtube.com/watch?v=F86kgfhS-Vk</a></p>
 <h2 id="rules">Rules</h2>
 <h2 id="rules-1">@ Rules</h2>
 
