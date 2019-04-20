@@ -369,8 +369,10 @@ Applies to:all elements</li>
 </ul>
 <h3 id="normal-flow">Normal Flow</h3>
 <p>En el normal flow <strong>cada elemento siempre pertenece a un y solo un formatting context</strong> que dictara cual es la posicion de ese elemento.</p>
-<p>si hay <strong>inline elements</strong> y <strong>block elements</strong> en el <strong>mismo formatting context</strong> entonces se <strong>encuadran los elementos en blocks/inlines</strong> para poder formatearlos en el contexto en el que estan</p>
-<p><strong>EJ</strong>: SI se colocan los inline elements en un block formating context el motor CSS coloca los inline elements en bloques para que participen del block formatting context. Esos blocks se denominan <strong>anonymous blocks</strong></p>
+<blockquote>
+<p>Un elemento crea un Inline formatting context <strong>IFC</strong> si contiene solamente elementos inline, de lo contrario forma un Block formatting context <strong>BFC</strong>.</p>
+</blockquote>
+<p>si hay <strong>inline elements</strong> y <strong>block elements</strong> mezclados en el <strong>mismo formatting context</strong> entonces se usa el motor CSS coloca los inline elements en bloques para que participen del block formatting context. Esos blocks se denominan <strong>anonymous blocks</strong> y en su interior puede existir un <strong>IFC</strong></p>
 <h4 id="block-elements">Block Elements</h4>
 <p>Los block elements son elementos que:</p>
 <ul>
@@ -380,7 +382,7 @@ Applies to:all elements</li>
 </ul>
 <h4 id="block-formatting-context-bfc">Block Formatting Context (BFC)</h4>
 <p><a href="https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/">Ver mas</a></p>
-<p>El BFC  es <strong>el area donde varios block elements estan contenidos e interactuan entre si</strong>.</p>
+<p>El BFC  es <strong>el area donde varios block  elements (parent,siblings, children, etc) estan contenidos e interactuan entre si</strong>.</p>
 <p>En un BFC:</p>
 <ul>
 <li><strong>LAYOUT:</strong>
@@ -446,14 +448,31 @@ Applies to:all elements</li>
 <li>Usar <strong>auto</strong> como valor equivale a usar 0.</li>
 </ul>
 <h3 id="float">Float</h3>
+<p>El proposito de un float es que el contenido (blocks o inlines) pueda fluir a a lo largo de su altura.</p>
 <h4 id="funcionamiento">Funcionamiento</h4>
-<p>Un float:</p>
+<ul>
+<li>
+<p><strong>Un float:</strong></p>
 <ul>
 <li><strong>Se corre</strong> a la derecha o izquierda hasta tocar el borde de su contenedor o del float mas proximo</li>
 <li><strong>Si no entra a la derecha o izquierda del float mas proximo</strong>, se coloca debajo de este y tocando el borde del contenedor</li>
-<li><strong>Permite que el contenido fluya a su alrededor</strong></li>
-<li><strong>Es ignorado en el normal flow</strong> por lo que los elementos pueden quedar detras del float y ademas no forma parte del computo de altura del parent</li>
-<li><strong>Si tiene clear</strong> los elementos floted a la derecha o izquierda (dependiendo del clear) pasan a la siguiente linea</li>
+<li>No forma parte del <strong>Normal flow</strong> pero tampoco <strong>sale del flow</strong> entonces <strong>El parent no puede deterinar su altura solo usando los floats</strong></li>
+<li><strong>Permite que el contenido fluya a su alrededor</strong> osea que los bloques o inline elements quedaran al costado del float (si entran)</li>
+</ul>
+</li>
+<li>
+<p><strong>El contenido circundante:</strong></p>
+<ul>
+<li>Su box siempre <strong>pasa por atras del float</strong> para estar <strong>tocando el left side del contenedor</strong> siempre que el ancho maximo del elemento lo permita (sino pasa a la siguiente linea).</li>
+<li>Los inline elements se colocan al costado del float siempre que formen parte del mismo BFC (no necesitan ser siblings grandparents, etc, se puede dar con cualquier jerarquia)</li>
+</ul>
+</li>
+<li>
+<p><strong>Cuaquiera de los dos</strong></p>
+<ul>
+<li><strong>Si tiene clear left o right</strong> El elemento no puede estar a continuacion de un float (dentro del mismo BFC)</li>
+</ul>
+</li>
 </ul>
 <h4 id="el-famoso-clearfix---wip">El famoso clearfix --WIP</h4>
 <p><a href="https://www.youtube.com/watch?v=IiJzbXzOdHQ">https://www.youtube.com/watch?v=IiJzbXzOdHQ</a></p>
