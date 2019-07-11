@@ -201,5 +201,5 @@ los niveles son:
 	Log::channel('slack')->info('Something happened!');
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI1NTMxNzJdfQ==
+eyJoaXN0b3J5IjpbMTg3MjcwNDM5LC0xNTgyNTUzMTcyXX0=
 -->
