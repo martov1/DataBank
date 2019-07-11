@@ -11,6 +11,9 @@ https://www.youtube.com/watch?v=c0HxEeLyXmM&list=PLjGbUPQu3fSR2wOhTD5on_BBJh2HlC
 RED HAT SYSTEM ENGINEER
 https://www.udemy.com/linux-academy-red-hat-certified-engineer-prep/
 
+FILESISTEM STRUCTURE STANDARD
+http://www.pathname.com/fhs/pub/fhs-2.3.html
+
 # Directory structure
 
 * **/** - Root, la parte superior del file sistem
@@ -986,11 +989,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NjUzMzQwLDY3Mjk5NjEyMCwtNzIwMj
-A1MjI2LC0yNjExMDQxMDUsMTU3NTE5NDg1MCw0NjM5OTc1NjAs
-MTk2NzY0MzQ2NCwxMjIwNzYyNTkyLDE3MzQxNDc0NjksLTg3Mj
-Q0MTczLC0zNDA5OTkyMTQsLTIwNDc0MzQ4MzcsLTIwNDYwNDkx
-NzIsMTkwOTkzNDE3MiwtMTE1NDA3MDEzLDMwNjIwNzQzNywtOT
-c2ODM4MDc1LDgzNzcxMzMsMTA0MDUyMDc1OSwtMzEzMDg4NTE2
-XX0=
+eyJoaXN0b3J5IjpbNzQ5MzMzMTUwLDI1OTY1MzM0MCw2NzI5OT
+YxMjAsLTcyMDIwNTIyNiwtMjYxMTA0MTA1LDE1NzUxOTQ4NTAs
+NDYzOTk3NTYwLDE5Njc2NDM0NjQsMTIyMDc2MjU5MiwxNzM0MT
+Q3NDY5LC04NzI0NDE3MywtMzQwOTk5MjE0LC0yMDQ3NDM0ODM3
+LC0yMDQ2MDQ5MTcyLDE5MDk5MzQxNzIsLTExNTQwNzAxMywzMD
+YyMDc0MzcsLTk3NjgzODA3NSw4Mzc3MTMzLDEwNDA1MjA3NTld
+fQ==
 -->
