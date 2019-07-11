@@ -18,6 +18,6 @@ https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0
 * **MIT:**
 	- [ ] [Computer architecture 6.004](https://www.youtube.com/watch?v=s7svpXgxk1U&list=PLWokBk9W7kzGqZYZz6BiaqtsrHQK_22u7)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzg0NDQ4OCwxMzI4NjMwODYyLC0xND
-E2NTU3NTc4XX0=
+eyJoaXN0b3J5IjpbMjcyMDE1MDcwLDE5MDM4NDQ0ODgsMTMyOD
+YzMDg2MiwtMTQxNjU1NzU3OF19
 -->
