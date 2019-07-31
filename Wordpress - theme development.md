@@ -1,4 +1,6 @@
 
+**ATENCION USAR OOP:** https://www.youtube.com/watch?v=KITZ_88EDTI
+
 **Me quede en**
 lynda: 01 creating custom taxonomies.
 Udemy:  05 Custom Post Types and Advanced Custom Fields
@@ -369,5 +371,6 @@ Ahora podes crear menues en el admin y asignarlos a esa ubicacion
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDM4NDE3NiwtNjU2MTU1OTAxXX0=
+eyJoaXN0b3J5IjpbLTIzNTU5NTc1LDE4ODAzODQxNzYsLTY1Nj
+E1NTkwMV19
 -->
