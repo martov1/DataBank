@@ -1,3 +1,5 @@
+**WARGAMES!:**http://overthewire.org/wargames/
+
 magnet link red hat sys admin
 magnet:?xt=urn:btih:5ff1563ff871dd642eb45049404feadbde4ec6a8&dn=VTC-Red.Hat.Certified.System.Administrator.RHCSA-JAVAPSYCHE&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2fzer0day.ch%3a1337&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fexodus.desync.com%3a6969
 
@@ -989,11 +991,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5MzMzMTUwLDI1OTY1MzM0MCw2NzI5OT
-YxMjAsLTcyMDIwNTIyNiwtMjYxMTA0MTA1LDE1NzUxOTQ4NTAs
-NDYzOTk3NTYwLDE5Njc2NDM0NjQsMTIyMDc2MjU5MiwxNzM0MT
-Q3NDY5LC04NzI0NDE3MywtMzQwOTk5MjE0LC0yMDQ3NDM0ODM3
-LC0yMDQ2MDQ5MTcyLDE5MDk5MzQxNzIsLTExNTQwNzAxMywzMD
-YyMDc0MzcsLTk3NjgzODA3NSw4Mzc3MTMzLDEwNDA1MjA3NTld
-fQ==
+eyJoaXN0b3J5IjpbLTE0NDkwMjk1NDEsNzQ5MzMzMTUwLDI1OT
+Y1MzM0MCw2NzI5OTYxMjAsLTcyMDIwNTIyNiwtMjYxMTA0MTA1
+LDE1NzUxOTQ4NTAsNDYzOTk3NTYwLDE5Njc2NDM0NjQsMTIyMD
+c2MjU5MiwxNzM0MTQ3NDY5LC04NzI0NDE3MywtMzQwOTk5MjE0
+LC0yMDQ3NDM0ODM3LC0yMDQ2MDQ5MTcyLDE5MDk5MzQxNzIsLT
+ExNTQwNzAxMywzMDYyMDc0MzcsLTk3NjgzODA3NSw4Mzc3MTMz
+XX0=
 -->
