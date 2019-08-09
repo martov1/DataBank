@@ -1,3 +1,6 @@
+
+**documentacion linux:**http://www.tldp.org/guides.html
+
 **WARGAMES!:**http://overthewire.org/wargames/
 **SERVER BUG SIMULATOR:**http://trouble-maker.sourceforge.net/
 
@@ -992,11 +995,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjEwMDMyMiw3NDkzMzMxNTAsMjU5Nj
-UzMzQwLDY3Mjk5NjEyMCwtNzIwMjA1MjI2LC0yNjExMDQxMDUs
-MTU3NTE5NDg1MCw0NjM5OTc1NjAsMTk2NzY0MzQ2NCwxMjIwNz
-YyNTkyLDE3MzQxNDc0NjksLTg3MjQ0MTczLC0zNDA5OTkyMTQs
-LTIwNDc0MzQ4MzcsLTIwNDYwNDkxNzIsMTkwOTkzNDE3MiwtMT
-E1NDA3MDEzLDMwNjIwNzQzNywtOTc2ODM4MDc1LDgzNzcxMzNd
-fQ==
+eyJoaXN0b3J5IjpbNTA5NTUxMjEsMTM3MjEwMDMyMiw3NDkzMz
+MxNTAsMjU5NjUzMzQwLDY3Mjk5NjEyMCwtNzIwMjA1MjI2LC0y
+NjExMDQxMDUsMTU3NTE5NDg1MCw0NjM5OTc1NjAsMTk2NzY0Mz
+Q2NCwxMjIwNzYyNTkyLDE3MzQxNDc0NjksLTg3MjQ0MTczLC0z
+NDA5OTkyMTQsLTIwNDc0MzQ4MzcsLTIwNDYwNDkxNzIsMTkwOT
+kzNDE3MiwtMTE1NDA3MDEzLDMwNjIwNzQzNywtOTc2ODM4MDc1
+XX0=
 -->
