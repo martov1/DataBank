@@ -806,7 +806,7 @@ La configuracion de logrotate  suele encontrarse en **/etc/logrotate.conf**, ade
 **Se usan indicando el archivo al cual se aplican:**
 
 ```
-/var/log/milog
+/home/miAplicacion/*.log
 {
 	weekly
 	rotate 4
@@ -1000,11 +1000,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg5OTU2OTEsNTA5NTUxMjEsMTM3Mj
-EwMDMyMiw3NDkzMzMxNTAsMjU5NjUzMzQwLDY3Mjk5NjEyMCwt
-NzIwMjA1MjI2LC0yNjExMDQxMDUsMTU3NTE5NDg1MCw0NjM5OT
-c1NjAsMTk2NzY0MzQ2NCwxMjIwNzYyNTkyLDE3MzQxNDc0Njks
-LTg3MjQ0MTczLC0zNDA5OTkyMTQsLTIwNDc0MzQ4MzcsLTIwND
-YwNDkxNzIsMTkwOTkzNDE3MiwtMTE1NDA3MDEzLDMwNjIwNzQz
-N119
+eyJoaXN0b3J5IjpbMTU3OTQyMTU4MCw1MDk1NTEyMSwxMzcyMT
+AwMzIyLDc0OTMzMzE1MCwyNTk2NTMzNDAsNjcyOTk2MTIwLC03
+MjAyMDUyMjYsLTI2MTEwNDEwNSwxNTc1MTk0ODUwLDQ2Mzk5Nz
+U2MCwxOTY3NjQzNDY0LDEyMjA3NjI1OTIsMTczNDE0NzQ2OSwt
+ODcyNDQxNzMsLTM0MDk5OTIxNCwtMjA0NzQzNDgzNywtMjA0Nj
+A0OTE3MiwxOTA5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3NDM3
+XX0=
 -->
