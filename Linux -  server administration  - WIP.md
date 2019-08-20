@@ -784,7 +784,7 @@ Podes pedirle al servidor syslog que loguee un mensaje en tu nombre con el coman
 
 ## Rotacion de logs
 
-Para no guardar logs eternamente (ya sea de syslog o cualquier otro) existe una aplicacion llamada **logrotate** que <u>**corre una vez al dia usando cron** y  permite
+Para no guardar logs eternamente (ya sea de syslog o cualquier otro) existe una aplicacion llamada **logrotate** que <u>**corre una vez al dia usando cron**</u> y  permite
 * Que los logs lleguen a cierto tamaño
 * Comprimir
 * Dividir los logs en archivos por fecha
@@ -1000,7 +1000,7 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE1NzY2NTUsNTA5NTUxMjEsMTM3Mj
+eyJoaXN0b3J5IjpbLTEyNTg5OTU2OTEsNTA5NTUxMjEsMTM3Mj
 EwMDMyMiw3NDkzMzMxNTAsMjU5NjUzMzQwLDY3Mjk5NjEyMCwt
 NzIwMjA1MjI2LC0yNjExMDQxMDUsMTU3NTE5NDg1MCw0NjM5OT
 c1NjAsMTk2NzY0MzQ2NCwxMjIwNzYyNTkyLDE3MzQxNDc0Njks
