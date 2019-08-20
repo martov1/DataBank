@@ -784,12 +784,14 @@ Podes pedirle al servidor syslog que loguee un mensaje en tu nombre con el coman
 
 ## Rotacion de logs
 
-Para no guardar logs eternamente (ya sea de syslog o cualquier otro) existe una aplicacion llamada **logrotate** que permite
+Para no guardar logs eternamente (ya sea de syslog o cualquier otro) existe una aplicacion llamada **logrotate** que <u>**corre una vez al dia usando cron** y  permite
 * Que los logs lleguen a cierto tamaño
-* Compr
+* Comprimir
+* Dividir los logs en archivos por fecha
+* Eliminar logs viejos
 
-La rotacion de logs suele ser responsabilidad de la aplicacion **logrotate** ubicada en 
-La configuracion para la rotacion de logs suele encontrarse en **/etc/logrotate.conf**, ademas normalmente este archivo contiene la directiva `include /etc/logrotate.d`, esto implica que:
+
+La configuracion de logrotate  suele encontrarse en **/etc/logrotate.conf**, ademas normalmente este archivo contiene la directiva `include /etc/logrotate.d`, esto implica que:
 
 **CRITICO:**
 > **Las aplicaciones que deseen loguear contenido colocan un archivo de configuracion para log rotate en /etc/logrotate.d** y si la configuracion de logrotate.conf es la estandar entonces **se levantaran esas configuraciones**.
@@ -998,11 +1000,11 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDI4NTc5OSw1MDk1NTEyMSwxMzcyMT
-AwMzIyLDc0OTMzMzE1MCwyNTk2NTMzNDAsNjcyOTk2MTIwLC03
-MjAyMDUyMjYsLTI2MTEwNDEwNSwxNTc1MTk0ODUwLDQ2Mzk5Nz
-U2MCwxOTY3NjQzNDY0LDEyMjA3NjI1OTIsMTczNDE0NzQ2OSwt
-ODcyNDQxNzMsLTM0MDk5OTIxNCwtMjA0NzQzNDgzNywtMjA0Nj
-A0OTE3MiwxOTA5OTM0MTcyLC0xMTU0MDcwMTMsMzA2MjA3NDM3
-XX0=
+eyJoaXN0b3J5IjpbLTE0OTE1NzY2NTUsNTA5NTUxMjEsMTM3Mj
+EwMDMyMiw3NDkzMzMxNTAsMjU5NjUzMzQwLDY3Mjk5NjEyMCwt
+NzIwMjA1MjI2LC0yNjExMDQxMDUsMTU3NTE5NDg1MCw0NjM5OT
+c1NjAsMTk2NzY0MzQ2NCwxMjIwNzYyNTkyLDE3MzQxNDc0Njks
+LTg3MjQ0MTczLC0zNDA5OTkyMTQsLTIwNDc0MzQ4MzcsLTIwND
+YwNDkxNzIsMTkwOTkzNDE3MiwtMTE1NDA3MDEzLDMwNjIwNzQz
+N119
 -->
