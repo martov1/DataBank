@@ -784,7 +784,9 @@ Podes pedirle al servidor syslog que loguee un mensaje en tu nombre con el coman
 
 ## Rotacion de logs
 
-El servidor syslog suele tener la capacidad de rotar los logs para no guardarlos eternamente.
+Para no guardar logs eternamente (ya sea de syslog o cualquier otro) existe una aplicacion llamada **logrotate** que permite
+* Que los logs lleguen a cierto tamaño
+* Compr
 
 La rotacion de logs suele ser responsabilidad de la aplicacion **logrotate** ubicada en 
 La configuracion para la rotacion de logs suele encontrarse en **/etc/logrotate.conf**, ademas normalmente este archivo contiene la directiva `include /etc/logrotate.d`, esto implica que:
@@ -996,7 +998,7 @@ Podes interceptar el input y guardarlo en una variable asi:
 
 # SystemD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjcwMzU1Myw1MDk1NTEyMSwxMzcyMT
+eyJoaXN0b3J5IjpbLTU3NDI4NTc5OSw1MDk1NTEyMSwxMzcyMT
 AwMzIyLDc0OTMzMzE1MCwyNTk2NTMzNDAsNjcyOTk2MTIwLC03
 MjAyMDUyMjYsLTI2MTEwNDEwNSwxNTc1MTk0ODUwLDQ2Mzk5Nz
 U2MCwxOTY3NjQzNDY0LDEyMjA3NjI1OTIsMTczNDE0NzQ2OSwt
