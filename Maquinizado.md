@@ -24,6 +24,8 @@ La cabeza de la fresa debe estar  perpendicular a la mesa, para ajustarlo la cab
 ![](https://i.imgur.com/6W1zosB.png)
 
 
+
+Para determinar si el ajuste fue exitoso usamos un instrumento de medicio y medimos la diferencia de altura desde el husillo hasta un extremo de la mesa y 
 ## Conceptos de fresa 
 
 ### Direccion de giro
@@ -88,7 +90,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI1MjU1ODgsLTMzMTg5NTc0NSwxNj
-MyNzkzMzc4LDEzNDI2Nzc3MzUsOTYxMDg2Mjc1LDU4Nzg5OTQ2
-MV19
+eyJoaXN0b3J5IjpbOTA4NzEwODI4LC0xOTMyNTI1NTg4LC0zMz
+E4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LDk2MTA4NjI3
+NSw1ODc4OTk0NjFdfQ==
 -->
