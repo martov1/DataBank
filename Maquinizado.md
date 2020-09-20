@@ -1,3 +1,8 @@
+**viendo**
+https://www.youtube.com/watch?v=_HGGkCaYMVA&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=3
+
+**despues ver para lathe**
+https://www.youtube.com/watch?v=H6Dnmd3lDzA&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN
 
 # Fresa
 ## Seguridad
@@ -129,7 +134,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkzMjc4MDYsMTE0NzUxNDIxOSw3ND
+eyJoaXN0b3J5IjpbLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3ND
 YzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1
 NTg4LC0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LD
 k2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
