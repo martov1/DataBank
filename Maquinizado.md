@@ -22,6 +22,14 @@ Si necesitas hacer operaciones rapidas de agujereado, podes usar el quill feed h
 [fuente](https://www.youtube.com/watch?v=YkTgyvaYn0M&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=2)
 
 
+La alineacion de las partes de la fresa con gran precision es crucial.
+
+Un problema de nivelacion en la mesa de trabajo se transfiere a la morsa que se transfiere a la pieza y se amplifica con movimientos en los ejes $XY$ de la herramienta, la cual tambien es afectada por la nivelacion de la cabeza!
+
+**Todo tiene que estar bien alina**
+
+
+
 ### Ajuste: nivelacon de Cabeza de la fresa
 
 La cabeza de la fresa debe estar  perpendicular a la mesa, para ajustarlo la cabeza esta sobre dos ejes que permite rotarla en dos direcciones
@@ -121,8 +129,8 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzUxNDIxOSw3NDYzOTg2ODYsLTE5Nz
-Q2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4OTU3
-NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LDk2MTA4NjI3NSw1OD
-c4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbMjU3MjEyODQ5LDExNDc1MTQyMTksNzQ2Mz
+k4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkzMjUyNTU4
+OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMTM0MjY3NzczNSw5Nj
+EwODYyNzUsNTg3ODk5NDYxXX0=
 -->
