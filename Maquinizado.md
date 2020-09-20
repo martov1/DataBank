@@ -13,6 +13,11 @@ Para manipular una fresa es necesario:
 ![IDENTIFYING MACHINE PARTS, CONTROLS, AND THEIR FUNCTIONS – Cad cam  Engineering WorldWide](https://cadcamengineering.net/wp-content/uploads/2015/02/IDENTIFYING-MACHINE-PARTS-J-3.jpg)
 
 
+Las operaciones que requieren rigidez se hacen con las cranks (knee vertical, traverse)
+
+Si necesitas hacer operaciones rapidas de agujereado, podes usar el quill han
+
+
 ## Conceptos de fresa 
 
 ### Direccion de giro
@@ -77,6 +82,6 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjY3NzczNSw5NjEwODYyNzUsNTg3OD
-k5NDYxXX0=
+eyJoaXN0b3J5IjpbLTEyNDM3OTM5MDYsMTM0MjY3NzczNSw5Nj
+EwODYyNzUsNTg3ODk5NDYxXX0=
 -->
