@@ -40,8 +40,15 @@ Para determinar si el ajuste fue exitoso usamos un instrumento de medicion de al
 ###  Ajuste: alineacion de Morsa
 
 Pasos:
-* Sacar la morsa, desarmarla, limpiarla y sacarle la grasa.
-* Remover picos en la base de la morsa con una piedr
+Sacar la morsa, desarmarla, limpiarla y sacarle la grasa.
+
+
+Revisar base de la morsa y remover picos en la base de la morsa con una piedra, ya que introducen error
+
+
+
+![](https://i.imgur.com/iqMGuzn.png)
+
 
 
 ## Conceptos de fresa 
@@ -108,7 +115,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjIxNDUxOSwtMTk3NDY3NzQ1NSwyOT
-A4MzE3OTgsLTE5MzI1MjU1ODgsLTMzMTg5NTc0NSwxNjMyNzkz
-Mzc4LDEzNDI2Nzc3MzUsOTYxMDg2Mjc1LDU4Nzg5OTQ2MV19
+eyJoaXN0b3J5IjpbODgzMDc0NDQ4LC0xOTc0Njc3NDU1LDI5MD
+gzMTc5OCwtMTkzMjUyNTU4OCwtMzMxODk1NzQ1LDE2MzI3OTMz
+NzgsMTM0MjY3NzczNSw5NjEwODYyNzUsNTg3ODk5NDYxXX0=
 -->
