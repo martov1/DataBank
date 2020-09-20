@@ -17,7 +17,9 @@ Las operaciones que requieren rigidez se hacen con las cranks (knee vertical, tr
 
 Si necesitas hacer operaciones rapidas de agujereado, podes usar el quill feed hand lever que funciona como un taladro
 
-## Ajuste
+## Ajuste previo al trabajo
+
+### Cabeza de la fresa
 
 La cabeza de la fresa debe estar  perpendicular a la mesa, para ajustarlo la cabeza esta sobre dos ejes que permite rotarla en dos direcciones
 
@@ -25,7 +27,12 @@ La cabeza de la fresa debe estar  perpendicular a la mesa, para ajustarlo la cab
 
 
 
-Para determinar si el ajuste fue exitoso usamos un instrumento de medicio y medimos la diferencia de altura desde el husillo hasta un extremo de la mesa y 
+Para determinar si el ajuste fue exitoso usamos un instrumento de medicio y medimos la diferencia de altura desde el husillo hasta un extremo de la mesa y el otro. Si no hay diferencia entonces estamos 
+
+![](https://i.imgur.com/C4xv0bl.png)
+
+
+
 ## Conceptos de fresa 
 
 ### Direccion de giro
@@ -90,7 +97,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4NzEwODI4LC0xOTMyNTI1NTg4LC0zMz
+eyJoaXN0b3J5IjpbMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0zMz
 E4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LDk2MTA4NjI3
 NSw1ODc4OTk0NjFdfQ==
 -->
