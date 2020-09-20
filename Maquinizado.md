@@ -21,6 +21,8 @@ Si necesitas hacer operaciones rapidas de agujereado, podes usar el quill feed h
 
 La cabeza de la fresa debe estar  perpendicular a la mesa, para ajustarlo la cabeza esta sobre dos ejes que permite rotarla en dos direcciones
 
+![](https://i.imgur.com/6W1zosB.png)
+
 
 ## Conceptos de fresa 
 
@@ -86,6 +88,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTg5NTc0NSwxNjMyNzkzMzc4LDEzND
-I2Nzc3MzUsOTYxMDg2Mjc1LDU4Nzg5OTQ2MV19
+eyJoaXN0b3J5IjpbLTE5MzI1MjU1ODgsLTMzMTg5NTc0NSwxNj
+MyNzkzMzc4LDEzNDI2Nzc3MzUsOTYxMDg2Mjc1LDU4Nzg5OTQ2
+MV19
 -->
