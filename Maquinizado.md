@@ -26,11 +26,11 @@ La alineacion de las partes de la fresa con gran precision es crucial.
 
 Un problema de nivelacion en la mesa de trabajo se transfiere a la morsa que se transfiere a la pieza y se amplifica con movimientos en los ejes $XY$ de la herramienta, la cual tambien es afectada por la nivelacion de la cabeza!
 
-**Todo tiene que estar bien alina**
+**Todo tiene que estar bien alineado**
 
 
 
-### Ajuste: nivelacon de Cabeza de la fresa
+### Ajuste: nivelacion de cabeza de la fresa
 
 La cabeza de la fresa debe estar  perpendicular a la mesa, para ajustarlo la cabeza esta sobre dos ejes que permite rotarla en dos direcciones
 
@@ -129,8 +129,8 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3MjEyODQ5LDExNDc1MTQyMTksNzQ2Mz
-k4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkzMjUyNTU4
-OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMTM0MjY3NzczNSw5Nj
-EwODYyNzUsNTg3ODk5NDYxXX0=
+eyJoaXN0b3J5IjpbLTE3MjkzMjc4MDYsMTE0NzUxNDIxOSw3ND
+YzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1
+NTg4LC0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LD
+k2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
 -->
