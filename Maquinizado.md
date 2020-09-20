@@ -27,7 +27,9 @@ La cabeza de la fresa debe estar  perpendicular a la mesa, para ajustarlo la cab
 
 
 
-Para determinar si el ajuste fue exitoso usamos un instrumento de medicio y medimos la diferencia de altura desde el husillo hasta un extremo de la mesa y el otro. Si no hay diferencia entonces estamos 
+Para determinar si el ajuste fue exitoso usamos un instrumento de medicion de altura, lo pegamos a una varilla y medimos la diferencia de altura desde el husillo hasta un extremo de la mesa y el otro, esto maximiza los errores de alineacion y los hace mas evidentes.
+
+ Si no hay diferencia de altura entre un extremo de la mesa y el otro entonces estamos alineados. 
 
 ![](https://i.imgur.com/C4xv0bl.png)
 
@@ -97,7 +99,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0zMz
-E4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LDk2MTA4NjI3
-NSw1ODc4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbNDU1ODUwNjQzLDI5MDgzMTc5OCwtMTkzMj
+UyNTU4OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMTM0MjY3Nzcz
+NSw5NjEwODYyNzUsNTg3ODk5NDYxXX0=
 -->
