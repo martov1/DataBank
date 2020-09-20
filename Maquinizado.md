@@ -1,6 +1,14 @@
 
 # Fresa
+## Seguridad
 
+Para manipular una fresa es necesario:
+* Pelo corto o atado
+* Proteccion ocular
+* mangas cortas
+* Sin anillos, joyas, cadena
+
+## Comandos y partes de la fresa - WIP
 ![IDENTIFYING MACHINE PARTS, CONTROLS, AND THEIR FUNCTIONS – Cad cam  Engineering WorldWide](https://cadcamengineering.net/wp-content/uploads/2015/02/IDENTIFYING-MACHINE-PARTS-J-3.jpg)
 
 
@@ -68,6 +76,6 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ5MzY3OTEsOTYxMDg2Mjc1LDU4Nz
-g5OTQ2MV19
+eyJoaXN0b3J5IjpbMTA3MjEwNzk0LDk2MTA4NjI3NSw1ODc4OT
+k0NjFdfQ==
 -->
