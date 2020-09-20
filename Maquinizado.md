@@ -17,7 +17,9 @@ Las operaciones que requieren rigidez se hacen con las cranks (knee vertical, tr
 
 Si necesitas hacer operaciones rapidas de agujereado, podes usar el quill feed hand lever que funciona como un taladro
 
+## Ajuste
 
+La cabeza de la fresa debe estar a 
 ## Conceptos de fresa 
 
 ### Direccion de giro
@@ -82,6 +84,6 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjc5MzM3OCwxMzQyNjc3NzM1LDk2MT
-A4NjI3NSw1ODc4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbNzExMjkzNDIwLDE2MzI3OTMzNzgsMTM0Mj
+Y3NzczNSw5NjEwODYyNzUsNTg3ODk5NDYxXX0=
 -->
