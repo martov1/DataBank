@@ -4,7 +4,7 @@
 ![IDENTIFYING MACHINE PARTS, CONTROLS, AND THEIR FUNCTIONS – Cad cam  Engineering WorldWide](https://cadcamengineering.net/wp-content/uploads/2015/02/IDENTIFYING-MACHINE-PARTS-J-3.jpg)
 
 
-## Conceptos de fresa manual
+## Conceptos de fresa 
 
 ### Direccion de giro
 
@@ -53,16 +53,13 @@ El fabricante nos dara
 
 
 
-## Operaciones
+## Operaciones - WIP
 
-## Seleccion de herramienta / Endmill
+## Seleccion de herramienta / Endmill - WIP
 
 Tipos de herramientas
 * Center cutting
 * 
-
-
-## Feed and speed selection
 
 
 
@@ -71,6 +68,6 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjE4MDEwOSw5NjEwODYyNzUsNTg3OD
-k5NDYxXX0=
+eyJoaXN0b3J5IjpbLTIwODQ5MzY3OTEsOTYxMDg2Mjc1LDU4Nz
+g5OTQ2MV19
 -->
