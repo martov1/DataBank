@@ -52,7 +52,7 @@ Colocar **cuidadosamente** la morsa en la mesa
 Ajustar la morsa de tal manera que este paralela a la mesa, para eso usamos un instrumento de medicion en **la cabeza de la fresa** y medimos dos puntas de la fresa para verificar que dan el mismo valor, caso contrario ajustamos.
 
 
-
+![](https://i.imgur.com/jvd9PYz.png)
 
 
 
@@ -121,7 +121,8 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MD
-gzMTc5OCwtMTkzMjUyNTU4OCwtMzMxODk1NzQ1LDE2MzI3OTMz
-NzgsMTM0MjY3NzczNSw5NjEwODYyNzUsNTg3ODk5NDYxXX0=
+eyJoaXN0b3J5IjpbMTE0NzUxNDIxOSw3NDYzOTg2ODYsLTE5Nz
+Q2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4OTU3
+NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LDk2MTA4NjI3NSw1OD
+c4OTk0NjFdfQ==
 -->
