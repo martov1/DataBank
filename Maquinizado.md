@@ -7,7 +7,7 @@ Para manipular una fresa es necesario:
 * Proteccion ocular
 * mangas cortas
 * Sin anillos, joyas, cadenas ni nada colgando
-* N
+* No acercar las manos a la maquina mientras este girando o moviendose
 
 ## Comandos y partes de la fresa - WIP
 ![IDENTIFYING MACHINE PARTS, CONTROLS, AND THEIR FUNCTIONS – Cad cam  Engineering WorldWide](https://cadcamengineering.net/wp-content/uploads/2015/02/IDENTIFYING-MACHINE-PARTS-J-3.jpg)
@@ -77,6 +77,6 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDQxNTA1LDk2MTA4NjI3NSw1ODc4OT
-k0NjFdfQ==
+eyJoaXN0b3J5IjpbMTM0MjY3NzczNSw5NjEwODYyNzUsNTg3OD
+k5NDYxXX0=
 -->
