@@ -43,11 +43,14 @@ Pasos:
 Sacar la morsa, desarmarla, limpiarla y sacarle la grasa.
 
 
-Revisar base de la morsa y remover picos en la base de la morsa con una piedra, ya que introducen error
-
-
+Revisar base de la morsa y remover picos en la base de la morsa con una piedra, ya que introducen error. lo mismo con la mesa de trabajo.
 
 ![](https://i.imgur.com/iqMGuzn.png)
+
+Colocar **cuidadosamente** la morsa en la mesa
+
+Ajustar la morsa de tal manera que este paralela a la mes
+
 
 
 
@@ -115,7 +118,8 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzMDc0NDQ4LC0xOTc0Njc3NDU1LDI5MD
-gzMTc5OCwtMTkzMjUyNTU4OCwtMzMxODk1NzQ1LDE2MzI3OTMz
-NzgsMTM0MjY3NzczNSw5NjEwODYyNzUsNTg3ODk5NDYxXX0=
+eyJoaXN0b3J5IjpbLTExNzQzMjMxMzMsLTE5NzQ2Nzc0NTUsMj
+kwODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4OTU3NDUsMTYzMjc5
+MzM3OCwxMzQyNjc3NzM1LDk2MTA4NjI3NSw1ODc4OTk0NjFdfQ
+==
 -->
