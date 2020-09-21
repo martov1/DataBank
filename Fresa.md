@@ -192,7 +192,7 @@ A grandes razgos
 
 * **Mas flutes**
 	*  Mejor terminado
-	* Mas filos sigifica 
+	* Mas filos sigifica que podemos tener **mas velocidad de avance** y entonces **cortar mas rapido**
 	*  Peor chip clearing
 		* En materiales blandos esto implica mas friccion entre chips, eso puede **derretir plastico** o **fundir aluminio** en lugar de cortarlo
 * **Menos flutes** 
@@ -391,7 +391,7 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTY1NDc3MywtMTc1MDM4NjMwOCw2OT
+eyJoaXN0b3J5IjpbLTI1MDI0NTk2MywtMTc1MDM4NjMwOCw2OT
 c2MDA2MjEsLTY2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0
 OTk1NV19
 -->
