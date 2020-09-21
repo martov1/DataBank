@@ -163,28 +163,32 @@ En terminos generales usamos
 	* Fibra de carbono
 
 ### Material de la herramienta
+
+
 [fuente](https://www.youtube.com/watch?v=EB7B1zq8AM8)
 
 
 **Acero rapido**
-* **No tan duro**
-	* **Materiales que corta**
-		* Solo corta cosas mas blandas que acero
-	* **Forgiving**,
-		* se parte menos facilmente por no ser tan rigido
-		* En vez de partirse, se desafila
-		* Si el feed and speed no estan bien, sobrevive
-	* **Afilado y economia**
-		* Filo menos duradero 
-		* Barato de adquirir
-		* Reemplazo o afilado frecuente
-.
 
-* Acero rapido con cobalto
+
+* **No tan duro**
+	* Solo corta cosas mas blandas que acero
+ 	* se parte menos facilmente por no ser tan rigido
+	* En vez de partirse, se desafila
+	* Si el feed and speed no estan bien, sobrevive
+* **Forgiving**
+* **Afilado y economia**
+	* Filo menos duradero 
+	* Barato de adquirir
+	* Reemplazo o afilado frecuente
+
+
+Acero rapido con cobalto
 * Powdered metal tooling
 
 .
 **Tungsten carbide**
+
 * **Durisimo**
 	* Corta cualquier material duro
 	*	Puede hacer cortes mas profundos
@@ -229,7 +233,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODA5NDU0NSwtMTUzMjQ3MjM2NywtND
+eyJoaXN0b3J5IjpbMTczOTM3NDUxNCwtMTUzMjQ3MjM2NywtND
 I3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkwMTYxOSwtMjEwMTc1
 MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2MTk2NC
 wtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0NjM5ODY4NiwtMTk3
