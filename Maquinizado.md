@@ -125,7 +125,7 @@ El fabricante nos dara
 ## Herramientas
 
 Algunas de las caracteristicas de las herramientas son
-### Tamaño
+### Largo y ancho
 
 * **largo**
 	* Cuanto mas larga la herramienta menos rigidez ( mas distancia entre el motor y la punta de corte) 
@@ -134,11 +134,12 @@ Algunas de las caracteristicas de las herramientas son
 	* Mas corto es mas barato
 * **Ancho**
 	* Cuanto mas ancho **mas rigidez**
-	* 
+	* Cuanto mas ancho **mas precio**
+	* Cuanto mas ancho **mas rapido come material**
 
 ### **Cantidad de flutes**
 
-* **Material de la herramienta**
+### Material de la herramienta
 	* Acero rapido
 		* Solo corta cosas mas blandas que acero
 		* 
@@ -164,9 +165,9 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNTc4MDEsLTczMjQzMDc1MywtMTIyND
-M4MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIx
-OSw3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOT
-MyNTI1NTg4LC0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3
-NzM1LDk2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMT
+IyNDM4MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUx
+NDIxOSw3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC
+0xOTMyNTI1NTg4LC0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQy
+Njc3NzM1LDk2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
 -->
