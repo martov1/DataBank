@@ -178,6 +178,8 @@ En terminos generales usamos
 	* En vez de partirse, se desafila
 	* Si el feed and speed no estan bien, la herramienta sobrevive y solo se desafila
 	* Filo poco duradero
+	* Muy filoso y se puede afilar mucho,
+	* 
 * **Afilado y economia** 
 	* Barato de adquirir
 	* Reemplazo o afilado frecuente, por lo que es caro para la produccion en masa de piezas
@@ -233,7 +235,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY0NDIzNjEsLTE1MzI0NzIzNjcsLT
+eyJoaXN0b3J5IjpbLTIxMzU2MTA3NDksLTE1MzI0NzIzNjcsLT
 QyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MTksLTIxMDE3
 NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5Nj
 QsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLTE5
