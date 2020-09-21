@@ -2,9 +2,7 @@
 https://www.youtube.com/watch?v=_HGGkCaYMVA&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=3
 
 **despues ver para lathe**
-https://www.youtube.com/watch?v=H6Dnmd3lDzA&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN
 
-# Fresa
 ## Seguridad
 
 Para manipular una fresa es necesario:
@@ -333,11 +331,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDEyNDk5NTUsMzA0MDg3NjUwLDExMT
-U0Mzk1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAz
-NiwtMTUzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LD
-gyMzkwMTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0
-MzgzMjczLDc4NjM2MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0Mj
-E5LDc0NjM5ODY4NiwtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5
-MzI1MjU1ODhdfQ==
+eyJoaXN0b3J5IjpbMjM5MzkwOTM2LC0xNzAxMjQ5OTU1LDMwND
+A4NzY1MCwxMTE1NDM5NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3
+NCw5Mzg3ODYwMzYsLTE1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMT
+M5MzA2NjYyOCw4MjM5MDE2MTksLTIxMDE3NTAwODYsLTczMjQz
+MDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNT
+IsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkw
+ODMxNzk4XX0=
 -->
