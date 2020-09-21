@@ -173,7 +173,7 @@ En terminos generales usamos
 * **>6**
 	* Fibra de carbono
 
-### Angulos
+### Angulos -???
 **Geometria de la punta**
 * Rake angle
 
@@ -330,6 +330,6 @@ Tipos de herramientas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTVdfQ
-==
+eyJoaXN0b3J5IjpbLTY2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMT
+cwMTI0OTk1NV19
 -->
