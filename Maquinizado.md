@@ -192,8 +192,11 @@ En terminos generales usamos
 * Un poco mas caro
 
 **Powdered metal tooling**
-* Mas duro que high speed steel
-.
+* Mas duro que high speed steel, pero menos duro que el tungsten
+* Menos fragil que el carbide
+* Se usa mucho en cortes gruesos
+
+
 **Tungsten carbide**
 
 * **Durisimo**
@@ -240,11 +243,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzc2NDk0MDcsLTE1MzI0NzIzNjcsLT
-QyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MTksLTIxMDE3
-NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5Nj
-QsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLTE5
-NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4OT
-U3NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LDk2MTA4NjI3NSw1
-ODc4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbMTE4OTQyNDE5NiwtMTUzMjQ3MjM2NywtND
+I3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkwMTYxOSwtMjEwMTc1
+MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2MTk2NC
+wtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0NjM5ODY4NiwtMTk3
+NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1MjU1ODgsLTMzMTg5NT
+c0NSwxNjMyNzkzMzc4LDEzNDI2Nzc3MzUsOTYxMDg2Mjc1LDU4
+Nzg5OTQ2MV19
 -->
