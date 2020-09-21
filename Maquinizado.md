@@ -165,13 +165,14 @@ En terminos generales usamos
 ### Material de la herramienta
 
 * **Acero rapido**
-	* Solo corta cosas mas blandas que acero
+	* **Materiales que corta**
+		* Solo corta cosas mas blandas que acero
 	* **Forgiving**,
 		* se parte menos facilmente por no ser tan rigido
 		* En vez de partirse, se desafila
 		* Si el feed and speed no estan bien, sobrevive
 	* Filo menos duradero 
-	* Barato
+	* Barato de adquirir, mas frecuente de reemplazar
 * **Tungsten carbide**
 	*	Mas duro (que el acero)
 	*	 Filo muy duradero
@@ -183,7 +184,7 @@ En terminos generales usamos
 	*	Puede cortar acero
 	*	Puede hacer cortes mas profundos
 	*	Requiere un alto **surfice speeed**
-	*	Caro
+	*	Caro de adquirir, menos frecuente de reemplazar
 
 ### Coatings de la herramienta
 
@@ -212,10 +213,10 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2NjExMzkxLC0xMzkzMDY2NjI4LDgyMz
-kwMTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0Mzgz
-MjczLDc4NjM2MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LD
-c0NjM5ODY4NiwtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1
-MjU1ODgsLTMzMTg5NTc0NSwxNjMyNzkzMzc4LDEzNDI2Nzc3Mz
-UsOTYxMDg2Mjc1LDU4Nzg5OTQ2MV19
+eyJoaXN0b3J5IjpbLTE2NzkyNjQ5MjEsLTEzOTMwNjY2MjgsOD
+IzOTAxNjE5LC0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQz
+ODMyNzMsNzg2MzYxOTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMT
+ksNzQ2Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkz
+MjUyNTU4OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMTM0MjY3Nz
+czNSw5NjEwODYyNzUsNTg3ODk5NDYxXX0=
 -->
