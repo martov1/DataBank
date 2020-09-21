@@ -186,22 +186,18 @@ En terminos generales usamos
 * **Tungsten carbide**
 	* **Durisimo**
 		* Corta cualquier material duro
-		* **Filo** 
-			* No puede ser muy afilado mucho por que se parte el filo debido a la  fragilidad		
-			* La falta de filo evita que corte limpiamente materiales blandos
-			* La falta de filo hace que necesite mas fuerza de maquina
-			* Al ser tan duro no se desafila con facilidad
-			* Al ser tan duro el filo puede partirs
-	*	Mas duro (que el acero)
-	*	 Filo muy duradero
-	*	**Duro y Fragil**
+		*	Puede hacer cortes mas profundos
+	* **Filo** 
+		* No puede ser muy afilado mucho por que se parte el filo debido a la  fragilidad		
+		* La falta de filo evita que corte limpiamente materiales blandos
+		* La falta de filo hace que necesite mas fuerza de maquina
+		* Al ser tan duro no se desafila con facilidad, por lo que duran mucho usadas correctamente
+	*	**Fragil**
 		*	 Se parte con facilidad total o parcialmente
 		*	 No se desafila, se parte
-	*	**Unforgiving**
-		*	Si el feed y speed no estan bien, se parte
-	*	Puede cortar acero
-	*	Puede hacer cortes mas profundos
+		*	Si el feed y speed no estan bien, se parte el filo
 	*	Requiere un alto **surfice speeed**
+* **Economia**
 	*	Caro de adquirir, menos frecuente de reemplazar
 	* Como es tan duro no se puede afilar mucho por que se parte el filo
 	* Toma mas fuerza de maquina para cortar por que tiene menos filo
@@ -234,7 +230,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzUxMzY3NSwtMTUzMjQ3MjM2NywtND
+eyJoaXN0b3J5IjpbMjEzODE2OTM2OCwtMTUzMjQ3MjM2NywtND
 I3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkwMTYxOSwtMjEwMTc1
 MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2MTk2NC
 wtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0NjM5ODY4NiwtMTk3
