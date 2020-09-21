@@ -130,15 +130,18 @@ A diferencia de los drill bits, que estan diseñados para **perforar hacia abajo
 
 ### Largo y ancho
 
-* **largo**
-	* Cuanto mas larga la herramienta menos rigidez ( mas distancia entre el motor y la punta de corte) 
-	* **siempre elegir la herramienta mas corta posible**
-	* Siempre tratar de cortar con **todo el largo de la herramienta** para permitir un desgaste parejo
-	* Mas corto es mas barato
-* **Ancho**
-	* Cuanto mas ancho **mas rigidez**
-	* Cuanto mas ancho **mas precio**
-	* Cuanto mas ancho **mas rapido come material**
+**largo**
+* Cuanto mas larga la herramienta menos rigidez ( mas distancia entre el motor y la punta de corte) 
+* **siempre elegir la herramienta mas corta posible**
+* Siempre tratar de cortar con **todo el largo de la herramienta** para permitir un desgaste parejo
+* Mas corto es mas barato
+
+EL largo utilizable de una herramienta de fresado va desde
+
+**Ancho**
+* Cuanto mas ancho **mas rigidez**
+* Cuanto mas ancho **mas precio**
+* Cuanto mas ancho **mas rapido come material**
 
 ### **Cantidad de flutes**
 
@@ -225,10 +228,14 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 ### Geometria
 
 **Geometria de la punta**
-
+* Rake angle
 
 **Geometria del largo**
+* Rake angle
+* Largo
 
+
+.
 **Rake angles**
 El rake angle puede ser
 
@@ -268,11 +275,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTQzOTUzMywxMzM5MTc4OTEzLDE1Mj
-YyMDIyNzQsOTM4Nzg2MDM2LC0xNTMyNDcyMzY3LC00Mjc0OTY5
-MzQsLTEzOTMwNjY2MjgsODIzOTAxNjE5LC0yMTAxNzUwMDg2LC
-03MzI0MzA3NTMsLTEyMjQzODMyNzMsNzg2MzYxOTY0LC0xODA3
-OTkyMDUyLDExNDc1MTQyMTksNzQ2Mzk4Njg2LC0xOTc0Njc3ND
-U1LDI5MDgzMTc5OCwtMTkzMjUyNTU4OCwtMzMxODk1NzQ1LDE2
-MzI3OTMzNzhdfQ==
+eyJoaXN0b3J5IjpbMzgyNjQ4NzU5LDExMTU0Mzk1MzMsMTMzOT
+E3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAzNiwtMTUzMjQ3MjM2
+NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkwMTYxOSwtMj
+EwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2
+MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0NjM5ODY4Ni
+wtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1MjU1ODgsLTMz
+MTg5NTc0NV19
 -->
