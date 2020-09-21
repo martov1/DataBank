@@ -151,7 +151,7 @@ EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta e
 
 #### **Cantidad de flutes**
 
-A grandez razgos
+A grandes razgos
 
 * **Mas flutes**
 	*  Mejor terminado
@@ -333,11 +333,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4MzE3NzUwLDMwNDA4NzY1MCwxMTE1ND
-M5NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYs
-LTE1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4Mj
-M5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4
-MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOS
-w3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMy
-NTI1NTg4XX0=
+eyJoaXN0b3J5IjpbLTE3MDEyNDk5NTUsMzA0MDg3NjUwLDExMT
+U0Mzk1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAz
+NiwtMTUzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LD
+gyMzkwMTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0
+MzgzMjczLDc4NjM2MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0Mj
+E5LDc0NjM5ODY4NiwtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5
+MzI1MjU1ODhdfQ==
 -->
