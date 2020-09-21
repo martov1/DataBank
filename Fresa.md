@@ -124,11 +124,13 @@ El fabricante nos dara
  Para evitarlo:
 
 * **Sujecion**
-	* La pieza debe estar perfectamente agarrada a la morsa, sin partes que sobresalgan de la morsa
+	* La pieza debe estar perfectamente agarrada a la morsa
+	* No debe haber partes que sobresalgan de la morsa
 * **Herramienta**
 	* Se debe usar el menor largo de herramienta posible para aumentar la rigidez
 	* Elegir el menor largo de flute posible
 	* Elegir el mayor ancho posible para aumentar la rigidez
+* **avance y vel**
 
 ## Operaciones - WIP
 
@@ -368,6 +370,6 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0ODY0ODA0LDY5NzYwMDYyMSwtNjY4Nz
-A5MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
+eyJoaXN0b3J5IjpbLTQwMTIxMjIzOSw2OTc2MDA2MjEsLTY2OD
+cwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0OTk1NV19
 -->
