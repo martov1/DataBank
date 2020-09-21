@@ -199,6 +199,9 @@ En terminos generales usamos
 	*	Puede hacer cortes mas profundos
 	*	Requiere un alto **surfice speeed**
 	*	Caro de adquirir, menos frecuente de reemplazar
+	* Como es tan duro no se puede afilar mucho por que se parte el filo
+	* Toma mas fuerza de maquina para cortar por que tiene menos filo
+
 
 ### Coatings de la herramienta
 
@@ -227,10 +230,10 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM5MTQ0NTMsLTEzOTMwNjY2MjgsOD
-IzOTAxNjE5LC0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQz
-ODMyNzMsNzg2MzYxOTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMT
-ksNzQ2Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkz
-MjUyNTU4OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMTM0MjY3Nz
-czNSw5NjEwODYyNzUsNTg3ODk5NDYxXX0=
+eyJoaXN0b3J5IjpbLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4Mj
+M5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4
+MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOS
+w3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMy
+NTI1NTg4LC0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3Nz
+M1LDk2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
 -->
