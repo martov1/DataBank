@@ -224,6 +224,11 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 
 ### Geometria
 
+**Rake angles**
+
+
+
+
 * Endmills Rectos
 	* Genera bordes perfectamente rectos
 * Endmills conicos / taped
@@ -231,6 +236,8 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 * Fishtail endmills
 * Ball-nose
 	* Se usan mucho para hacer moldes 
+
+
 
 ## Seleccion de herramienta / Endmill - WIP
 
@@ -245,11 +252,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4Nzg2MDM2LC0xNTMyNDcyMzY3LC00Mj
-c0OTY5MzQsLTEzOTMwNjY2MjgsODIzOTAxNjE5LC0yMTAxNzUw
-MDg2LC03MzI0MzA3NTMsLTEyMjQzODMyNzMsNzg2MzYxOTY0LC
-0xODA3OTkyMDUyLDExNDc1MTQyMTksNzQ2Mzk4Njg2LC0xOTc0
-Njc3NDU1LDI5MDgzMTc5OCwtMTkzMjUyNTU4OCwtMzMxODk1Nz
-Q1LDE2MzI3OTMzNzgsMTM0MjY3NzczNSw5NjEwODYyNzUsNTg3
-ODk5NDYxXX0=
+eyJoaXN0b3J5IjpbLTE1NDM4MDA1NzksOTM4Nzg2MDM2LC0xNT
+MyNDcyMzY3LC00Mjc0OTY5MzQsLTEzOTMwNjY2MjgsODIzOTAx
+NjE5LC0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQzODMyNz
+MsNzg2MzYxOTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMTksNzQ2
+Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkzMjUyNT
+U4OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMTM0MjY3NzczNSw5
+NjEwODYyNzVdfQ==
 -->
