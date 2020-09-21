@@ -214,6 +214,7 @@ En un endmill normal, las puntas son filosas y finas, esto las hace mas propensa
 
 * Las puntas tienen mayor fuerza
 * Los bordes del fondo del agujero seran redondeados en lugar de rectos
+* Preferido para **rougthing** por que al ser mas fuerte durara mas
 
 ![](https://i.imgur.com/gg4JH6I.png)
 
@@ -315,11 +316,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDQ4MjU5MCwzMDQwODc2NTAsMTExNT
-QzOTUzMywxMzM5MTc4OTEzLDE1MjYyMDIyNzQsOTM4Nzg2MDM2
-LC0xNTMyNDcyMzY3LC00Mjc0OTY5MzQsLTEzOTMwNjY2MjgsOD
-IzOTAxNjE5LC0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQz
-ODMyNzMsNzg2MzYxOTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMT
-ksNzQ2Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkz
-MjUyNTU4OF19
+eyJoaXN0b3J5IjpbNTA0NDA2MDQ0LDMwNDA4NzY1MCwxMTE1ND
+M5NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYs
+LTE1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4Mj
+M5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4
+MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOS
+w3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMy
+NTI1NTg4XX0=
 -->
