@@ -2,9 +2,7 @@
 https://www.youtube.com/watch?v=_HGGkCaYMVA&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=3
 
 **despues ver para lathe**
-https://www.youtube.com/watch?v=H6Dnmd3lDzA&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN
 
-# Fresa
 ## Seguridad
 
 Para manipular una fresa es necesario:
@@ -333,5 +331,5 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDEyNDk5NTVdfQ==
+eyJoaXN0b3J5IjpbMjM5MzkwOTM2LC0xNzAxMjQ5OTU1XX0=
 -->
