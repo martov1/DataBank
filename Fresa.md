@@ -151,6 +151,10 @@ EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta e
 
 ### **Cantidad de flutes**
 
+Las flutes tienen la funcion de 
+* Tener el **filo** que va a hacer el corte
+* Son el medio de evacuacuiion de **viruta**
+
 A grandes razgos
 
 * **Mas flutes**
@@ -348,6 +352,6 @@ Tipos de herramientas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDM0NzA1OCwtNjY4NzA5MzY0LC0xNj
+eyJoaXN0b3J5IjpbLTg4NzAxNzE2OSwtNjY4NzA5MzY0LC0xNj
 k3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
 -->
