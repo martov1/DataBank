@@ -184,6 +184,8 @@ EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta e
 
 ### **Cantidad de flutes**
 
+[fuente](https://www.youtube.com/watch?v=Pm1N3ApOGlw)
+
 Las flutes tienen la funcion de 
 * Tener el **filo** que va a hacer el corte
 * Son el medio de evacuacuiion de **viruta**
@@ -210,6 +212,7 @@ En terminos generales usamos
 	* Metales duros
 * **>6**
 	* Fibra de carbono
+	* Acero de herramientas
 
 ### Angulos 
 **Geometria de la punta**
@@ -391,7 +394,7 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDI0NTk2MywtMTc1MDM4NjMwOCw2OT
-c2MDA2MjEsLTY2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0
-OTk1NV19
+eyJoaXN0b3J5IjpbNjkzNTI3NzgwLC0xNzUwMzg2MzA4LDY5Nz
+YwMDYyMSwtNjY4NzA5MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5
+OTU1XX0=
 -->
