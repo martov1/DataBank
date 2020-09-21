@@ -175,7 +175,9 @@ En terminos generales usamos
 	*	Requiere un alto **surfice speeed**
 * tungsten carbide carbide o acero rapido
 
-### Coatings de la 
+### Coatings de la herramienta
+
+Las herramientas pueden estar recubiertas de diferentes materiales para extender su vida util y su filo
 
 ### Geometria
 
@@ -200,10 +202,10 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTU2Nzk1NSw4MjM5MDE2MTksLTIxMD
-E3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5
-NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLT
-E5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4
-OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LDk2MTA4NjI3NS
-w1ODc4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbLTEzOTMwNjY2MjgsODIzOTAxNjE5LC0yMT
+AxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQzODMyNzMsNzg2MzYx
+OTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMTksNzQ2Mzk4Njg2LC
+0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkzMjUyNTU4OCwtMzMx
+ODk1NzQ1LDE2MzI3OTMzNzgsMTM0MjY3NzczNSw5NjEwODYyNz
+UsNTg3ODk5NDYxXX0=
 -->
