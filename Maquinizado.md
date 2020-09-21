@@ -200,7 +200,7 @@ Eso implica que **no podemos taladrar con ellos**, sino que tenemos que hacer ag
 
 #### Rougth cutting endmills
 
-Son endmills diseñados para **Cortes de gran profundidad**
+Son endmills diseñados para **Cortes de gran profundidad**, tienen un patron de **zig-zag** sobre los flutes que sirve para **romper la virtua** de manera mas efectiva, ya que  los **cortes profundos generan virtuas largas dificiles de extraer**
 
 ![](https://i.imgur.com/neV67EE.png)
 
@@ -304,7 +304,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjUxMTU3NCwxMTE1NDM5NTMzLDEzMz
+eyJoaXN0b3J5IjpbMTUzMTI2MjM1OSwxMTE1NDM5NTMzLDEzMz
 kxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLTE1MzI0NzIz
 NjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MTksLT
 IxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYz
