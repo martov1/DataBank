@@ -220,11 +220,15 @@ En un endmill normal, las puntas son filosas y finas, esto las hace mas propensa
 
 #### ball nose  endmill
 
+Son endmills con puntas redondeadas.
 
+Sirven para maquinar cualquier  superficie que no sea perpendicular a la herramienta.
 
+EJ:
+* Radios internos/externo
+* 
 
-
-
+![](https://i.imgur.com/fR1et6S.png)
 ### Material de la herramienta
 
 
@@ -323,11 +327,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA3OTk3MjksMzA0MDg3NjUwLDExMT
-U0Mzk1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAz
-NiwtMTUzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LD
-gyMzkwMTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0
-MzgzMjczLDc4NjM2MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0Mj
-E5LDc0NjM5ODY4NiwtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5
-MzI1MjU1ODhdfQ==
+eyJoaXN0b3J5IjpbMTEwMTcyMTE3NywzMDQwODc2NTAsMTExNT
+QzOTUzMywxMzM5MTc4OTEzLDE1MjYyMDIyNzQsOTM4Nzg2MDM2
+LC0xNTMyNDcyMzY3LC00Mjc0OTY5MzQsLTEzOTMwNjY2MjgsOD
+IzOTAxNjE5LC0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQz
+ODMyNzMsNzg2MzYxOTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMT
+ksNzQ2Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkz
+MjUyNTU4OF19
 -->
