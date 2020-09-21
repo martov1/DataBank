@@ -151,7 +151,15 @@ A grandez razgos
 
 En terminos generales usamos
 
-* **2 flute**
+* **1 - 2 flutes**
+	* Plastico
+	* Madera
+	* Metales blandos
+* **3 - 4 flutes**
+	* Detalles
+	* Metales duros
+* **>6**
+	* Fibra de carbono
 
 ### Material de la herramienta
 	* Acero rapido
@@ -187,7 +195,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTU4MjA0NSw4MjM5MDE2MTksLTIxMD
+eyJoaXN0b3J5IjpbMjA3MDQ4NTE2Nyw4MjM5MDE2MTksLTIxMD
 E3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5
 NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLT
 E5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4
