@@ -121,7 +121,14 @@ El fabricante nos dara
 
 [fuente](https://www.youtube.com/watch?v=rKPxfzx3sxE)
 
-**chatter** es cuando la maquina vibra generando problemas en el acabado de la pieza y un ruido. esto es causado por 
+**chatter** es cuando la maquina vibra generando **problemas en el acabado de la pieza** y un **ruido muy molesto**.
+
+
+![](https://i.imgur.com/UOgZO76.png)
+
+
+
+ esto es causado por 
 **CAUSAS:**
 * **falta de rigidez** a lo largo de la maquina
 * **Resonancia**
@@ -380,6 +387,6 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk1NjgwLDY5NzYwMDYyMSwtNjY4Nz
-A5MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
+eyJoaXN0b3J5IjpbLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Nj
+g3MDkzNjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTVdfQ==
 -->
