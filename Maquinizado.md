@@ -168,15 +168,17 @@ En terminos generales usamos
 	* Solo corta cosas mas blandas que acero
 	* **Forgiving**,
 		* se parte menos facilmente por no ser tan rigido
+		* En vez de partirse, se desafila
 	* Filo menos duradero 
 * **Tungsten carbide**
 	*	Mas duro (que el acero)
 	*	 Filo muy duradero
-	*	Fragil, se parte si la maquina no es muy rigida
+	*	**Fragil**
+		*	 Se parte con facilidad total o parcialmente
+		*	 
 	*	Puede cortar acero
 	*	Puede hacer cortes mas profundos
 	*	Requiere un alto **surfice speeed**
-* tungsten carbide carbide o acero rapido
 
 ### Coatings de la herramienta
 
@@ -205,10 +207,10 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODk0NjExNSwtMTM5MzA2NjYyOCw4Mj
-M5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4
-MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOS
-w3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMy
-NTI1NTg4LC0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3Nz
-M1LDk2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbNDM0NjM2NDksLTEzOTMwNjY2MjgsODIzOT
+AxNjE5LC0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQzODMy
+NzMsNzg2MzYxOTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMTksNz
+Q2Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkzMjUy
+NTU4OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMTM0MjY3NzczNS
+w5NjEwODYyNzUsNTg3ODk5NDYxXX0=
 -->
