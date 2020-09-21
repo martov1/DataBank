@@ -188,10 +188,10 @@ En terminos generales usamos
 		* Corta cualquier material duro
 		* **Filo** 
 			* No puede ser muy afilado mucho por que se parte el filo debido a la  fragilidad		
-	* **materiales que corta**
-		* Acero
-		* Materiales mas duros
-		* Suele tener filos menos precisos, por lo que no corta limpiamente materiales blandos como plasticos
+			* La falta de filo evita que corte limpiamente materiales blandos
+			* La falta de filo hace que necesite mas fuerza de maquina
+			* Al ser tan duro no se desafila con facilidad
+			* Al ser tan duro el filo puede partirs
 	*	Mas duro (que el acero)
 	*	 Filo muy duradero
 	*	**Duro y Fragil**
@@ -234,11 +234,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODEwOTQ0NjksLTE1MzI0NzIzNjcsLT
-QyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MTksLTIxMDE3
-NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5Nj
-QsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLTE5
-NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4OT
-U3NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LDk2MTA4NjI3NSw1
-ODc4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbLTM1MzUxMzY3NSwtMTUzMjQ3MjM2NywtND
+I3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkwMTYxOSwtMjEwMTc1
+MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2MTk2NC
+wtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0NjM5ODY4NiwtMTk3
+NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1MjU1ODgsLTMzMTg5NT
+c0NSwxNjMyNzkzMzc4LDEzNDI2Nzc3MzUsOTYxMDg2Mjc1LDU4
+Nzg5OTQ2MV19
 -->
