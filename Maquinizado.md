@@ -211,6 +211,10 @@ Son endmills diseñados para **Cortes de gran profundidad**, tienen un patron de
 
 ![](https://i.imgur.com/neV67EE.png)
 
+### Square endmill
+
+ Este tipo de endmill tiene bordes a 90 grados, eso hace que los bordes del corte queden muy **rectos**
+
 ### radius endmills
 
 Tienen el borde redondeado.
@@ -238,6 +242,8 @@ EJ:
 
 Es un **center-cutting endmill**, se puede apreciar como dos de los flutes forman el filo
 ![](https://i.imgur.com/ooJrekl.png)
+
+
 
 
 ## Material de la herramienta
@@ -335,11 +341,11 @@ Tipos de herramientas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyMTc1MzUwLC02Njg3MDkzNjQsLTE2OT
-c4OTQ0OTQsLTE3MDEyNDk5NTUsMzA0MDg3NjUwLDExMTU0Mzk1
-MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAzNiwtMT
-UzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkw
-MTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMj
-czLDc4NjM2MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0
-NjM5ODY4Nl19
+eyJoaXN0b3J5IjpbNjUwMTY5MSwtNjY4NzA5MzY0LC0xNjk3OD
+k0NDk0LC0xNzAxMjQ5OTU1LDMwNDA4NzY1MCwxMTE1NDM5NTMz
+LDEzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLTE1Mz
+I0NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2
+MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3My
+w3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYz
+OTg2ODZdfQ==
 -->
