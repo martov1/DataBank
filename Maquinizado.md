@@ -171,6 +171,7 @@ En terminos generales usamos
 		* En vez de partirse, se desafila
 		* Si el feed and speed no estan bien, sobrevive
 	* Filo menos duradero 
+	* Barato
 * **Tungsten carbide**
 	*	Mas duro (que el acero)
 	*	 Filo muy duradero
@@ -182,6 +183,7 @@ En terminos generales usamos
 	*	Puede cortar acero
 	*	Puede hacer cortes mas profundos
 	*	Requiere un alto **surfice speeed**
+	*	Caro
 
 ### Coatings de la herramienta
 
@@ -210,10 +212,10 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ0Nzc3NSwtMTM5MzA2NjYyOCw4Mj
-M5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4
-MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOS
-w3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMy
-NTI1NTg4LC0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3Nz
-M1LDk2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbOTg2NjExMzkxLC0xMzkzMDY2NjI4LDgyMz
+kwMTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0Mzgz
+MjczLDc4NjM2MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LD
+c0NjM5ODY4NiwtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1
+MjU1ODgsLTMzMTg5NTc0NSwxNjMyNzkzMzc4LDEzNDI2Nzc3Mz
+UsOTYxMDg2Mjc1LDU4Nzg5OTQ2MV19
 -->
