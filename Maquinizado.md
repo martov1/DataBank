@@ -176,6 +176,11 @@ En terminos generales usamos
 		* Barato de adquirir
 		* Reemplazo o afilado frecuente
 .
+
+* Acero rapido con cobalto
+* Powdered metal tooling
+
+
 * **Tungsten carbide**
 	* **materiales que corta**
 		* Acero
@@ -220,7 +225,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Njc4MDEyNSwtMTM5MzA2NjYyOCw4Mj
+eyJoaXN0b3J5IjpbLTYzODY4MDc3MSwtMTM5MzA2NjYyOCw4Mj
 M5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4
 MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOS
 w3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMy
