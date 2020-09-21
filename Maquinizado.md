@@ -141,8 +141,12 @@ Algunas de las caracteristicas de las herramientas son
 
 A grandez razgos
 
-* Mas flutes $\Rightarrow$ mejor terminado
-* menos flutes
+* **Mas flutes**
+	*   mejor terminado
+	*  peor chip clearing
+* Menos flutes 
+	*  Mejor chip clearing
+	*  Peor terminado
 
 
 
@@ -180,7 +184,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzMxMDk2NCw4MjM5MDE2MTksLTIxMD
+eyJoaXN0b3J5IjpbLTMxMzk4Mjg4NSw4MjM5MDE2MTksLTIxMD
 E3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5
 NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLT
 E5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4
