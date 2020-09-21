@@ -190,6 +190,7 @@ Son endmills que cortan por cortadores radiaales pero en el centro no cortan.
 ![](https://i.imgur.com/3f5frqP.png)
 Eso implica que **no podemos taladrar con ellos**, sino que tenemos que hacer agujeros de manera helicoidal. y una velocidad de avance en el eje $Z$ baja comparada con $XY$
 
+#### Rougth cutting endmills
 
 ### Material de la herramienta
 
@@ -289,11 +290,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDk4Mjg0MCwxMTE1NDM5NTMzLDEzMz
-kxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLTE1MzI0NzIz
-NjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MTksLT
-IxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYz
-NjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2OD
-YsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0z
-MzE4OTU3NDVdfQ==
+eyJoaXN0b3J5IjpbLTExMTQ2NTc3NzMsMTExNTQzOTUzMywxMz
+M5MTc4OTEzLDE1MjYyMDIyNzQsOTM4Nzg2MDM2LC0xNTMyNDcy
+MzY3LC00Mjc0OTY5MzQsLTEzOTMwNjY2MjgsODIzOTAxNjE5LC
+0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQzODMyNzMsNzg2
+MzYxOTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMTksNzQ2Mzk4Nj
+g2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkzMjUyNTU4OCwt
+MzMxODk1NzQ1XX0=
 -->
