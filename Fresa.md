@@ -3,6 +3,8 @@ https://www.youtube.com/watch?v=_HGGkCaYMVA&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bd
 
 **despues ver para lathe**
 
+
+# Introduccion
 ## Seguridad
 
 Para manipular una fresa es necesario:
@@ -120,7 +122,7 @@ El fabricante nos dara
 ## Operaciones - WIP
 
 
-## Herramientas
+# Herramientas
 
 [videos fuente](https://www.youtube.com/watch?v=EB7B1zq8AM8)
 
@@ -128,9 +130,9 @@ A diferencia de los drill bits, que estan diseñados para **perforar hacia abajo
 
 
 
-### Geometria general
+## Geometria general
 
-#### Largo y ancho
+### Largo y ancho
 
 **largo**
 * Cuanto mas larga la herramienta menos rigidez ( mas distancia entre el motor y la punta de corte) 
@@ -147,7 +149,7 @@ EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta e
 * Cuanto mas ancho **mas precio**
 * Cuanto mas ancho **mas rapido come material**
 
-#### **Cantidad de flutes**
+### **Cantidad de flutes**
 
 A grandes razgos
 
@@ -171,7 +173,7 @@ En terminos generales usamos
 * **>6**
 	* Fibra de carbono
 
-#### Angulos
+### Angulos
 **Geometria de la punta**
 * Rake angle
 
@@ -180,7 +182,7 @@ En terminos generales usamos
 * Largo
 
 
-#### center/non-center cutting
+### center/non-center cutting
 [fuente](https://www.youtube.com/watch?v=eH50t7kUx6c)
 
 **Center cutting endmill**
@@ -196,7 +198,7 @@ Son endmills que cortan por cortadores radiaales pero en el centro no cortan.
 ![](https://i.imgur.com/3f5frqP.png)
 Eso implica que **no podemos taladrar con ellos**, sino que tenemos que hacer agujeros de manera helicoidal. y una velocidad de avance en el eje $Z$ baja comparada con $XY$
 
-### Geometrias especiales
+## Geometrias especiales
 
 #### Rougth cutting endmills
 
@@ -233,7 +235,7 @@ Es un **center-cutting endmill**, se puede apreciar como dos de los flutes forma
 ![](https://i.imgur.com/ooJrekl.png)
 
 
-### Material de la herramienta
+## Material de la herramienta
 
 
 [fuente](https://www.youtube.com/watch?v=EB7B1zq8AM8)
@@ -287,7 +289,7 @@ Es un **center-cutting endmill**, se puede apreciar como dos de los flutes forma
 	*	Dura mucho, asi que es economico para la produccion en masa
 	*	Se reemplaza de manera poco frecuente si estan bien los feeds y speeds
 
-### Coatings de la herramienta
+## Coatings de la herramienta
 
 Las herramientas pueden estar recubiertas de diferentes materiales para extender su vida util y su filo
 
@@ -327,9 +329,6 @@ Tipos de herramientas
 
 
 
-
-
-# Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5MzkwOTM2LC0xNzAxMjQ5OTU1XX0=
+eyJoaXN0b3J5IjpbMTc5NzU0Njc5LC0xNzAxMjQ5OTU1XX0=
 -->
