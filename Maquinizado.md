@@ -136,7 +136,7 @@ A diferencia de los drill bits, que estan diseñados para **perforar hacia abajo
 * Siempre tratar de cortar con **todo el largo de la herramienta** para permitir un desgaste parejo
 * Mas corto es mas barato
 
-EL largo utilizable de una herramienta de fresado va desde
+EL largo utilizable de una herramienta de fresado va desde la  punta hasta 
 
 **Ancho**
 * Cuanto mas ancho **mas rigidez**
@@ -275,7 +275,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNjQ4NzU5LDExMTU0Mzk1MzMsMTMzOT
+eyJoaXN0b3J5IjpbMjk2NjUyMDQ5LDExMTU0Mzk1MzMsMTMzOT
 E3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAzNiwtMTUzMjQ3MjM2
 NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkwMTYxOSwtMj
 EwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2
