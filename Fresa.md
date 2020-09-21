@@ -119,7 +119,9 @@ El fabricante nos dara
 
 ### Chatter / Vibraciones
 
-**chatter** es cuando la maquina vibra generando problemas en el acabado de la pieza. esto es causado por 
+[fuente](https://www.youtube.com/watch?v=rKPxfzx3sxE)
+
+**chatter** es cuando la maquina vibra generando problemas en el acabado de la pieza y un ruido. esto es causado por 
 **CAUSAS:**
 * **falta de rigidez** a lo largo de la maquina
 * **Resonancia**
@@ -137,8 +139,8 @@ El fabricante nos dara
 	* Usar el avance y velocidad correctos
 * **Resonancia**
 	* La herramienta y la pieza o la morsa pueden llegar a resonar, causando chatter, Si sucede variar levemente la altura de la herramienta para eliminar la resonancia
-	* **Reducir la velocidad**
-		* Si la pieza resuena probar apretando el boton de **+20%  speed** de la maquina y ver si deja  de vibrar
+	* **Reducir/aumentar la velocidad**
+		* Si la pieza resuena probar apretando el boton de **+-20%  speed** de la maquina y ver si deja  de vibrar
 
 ## Operaciones - WIP
 
@@ -378,6 +380,6 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTY2MTY2LDY5NzYwMDYyMSwtNjY4Nz
+eyJoaXN0b3J5IjpbLTE1Nzk1NjgwLDY5NzYwMDYyMSwtNjY4Nz
 A5MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
 -->
