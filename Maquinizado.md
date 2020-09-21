@@ -124,7 +124,8 @@ El fabricante nos dara
 
 ## Herramientas
 
-Algunas de las caracteristicas de las herramientas son
+A diferencia de los drill bits, que estan diseñados para **perforar hacia abajo**, los endmills estan diseñados para **cortar hacia los costados**
+
 ### Largo y ancho
 
 * **largo**
@@ -163,12 +164,14 @@ En terminos generales usamos
 
 ### Material de la herramienta
 
-* Acero rapido
+* **Acero rapido**
 	* Solo corta cosas mas blandas que acero
-	* Forgiving, se parte menos facilmente por no ser tan rigido
+	* **Forgiving**,
+		* se parte menos facilmente por no ser tan rigido
 	* Filo menos duradero 
-* Tungsten carbide
-	*	Mas duro (que el acero) y con filo muy duradero
+* **Tungsten carbide**
+	*	Mas duro (que el acero)
+	*	 Filo muy duradero
 	*	Fragil, se parte si la maquina no es muy rigida
 	*	Puede cortar acero
 	*	Puede hacer cortes mas profundos
@@ -202,10 +205,10 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTMwNjY2MjgsODIzOTAxNjE5LC0yMT
-AxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQzODMyNzMsNzg2MzYx
-OTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMTksNzQ2Mzk4Njg2LC
-0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkzMjUyNTU4OCwtMzMx
-ODk1NzQ1LDE2MzI3OTMzNzgsMTM0MjY3NzczNSw5NjEwODYyNz
-UsNTg3ODk5NDYxXX0=
+eyJoaXN0b3J5IjpbMTE2ODk0NjExNSwtMTM5MzA2NjYyOCw4Mj
+M5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4
+MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOS
+w3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMy
+NTI1NTg4LC0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3Nz
+M1LDk2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
 -->
