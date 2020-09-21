@@ -130,7 +130,8 @@ El fabricante nos dara
 	* Se debe usar el menor largo de herramienta posible para aumentar la rigidez
 	* Elegir el menor largo de flute posible
 	* Elegir el mayor ancho posible para aumentar la rigidez
-* **avance y vel**
+* **avance y velocidad**
+	* Usar el avance y velocidad correctos
 
 ## Operaciones - WIP
 
@@ -370,6 +371,6 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTIxMjIzOSw2OTc2MDA2MjEsLTY2OD
-cwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0OTk1NV19
+eyJoaXN0b3J5IjpbNTE5ODYzMTQxLDY5NzYwMDYyMSwtNjY4Nz
+A5MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
 -->
