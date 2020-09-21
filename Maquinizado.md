@@ -194,7 +194,11 @@ De la misma manera, los filos del largo tambien tienen rake angles que pueden se
 * **perpendicular al material (0 o neutral)**
 * **Alejandose del material (negativo -)**
 
-![](https://i.imgur.com/4cZFjcR.png) 
+![](https://i.imgur.com/4cZFjcR.png)
+
+
+
+ 
 
 
 ### center/non-center cutting
@@ -352,11 +356,11 @@ Tipos de herramientas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzAxNzE2OSwtNjY4NzA5MzY0LC0xNj
-k3ODk0NDk0LC0xNzAxMjQ5OTU1LDMwNDA4NzY1MCwxMTE1NDM5
-NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLT
-E1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5
-MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4Mz
-I3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3
-NDYzOTg2ODZdfQ==
+eyJoaXN0b3J5IjpbNDg5MzUwMTE5LC02Njg3MDkzNjQsLTE2OT
+c4OTQ0OTQsLTE3MDEyNDk5NTUsMzA0MDg3NjUwLDExMTU0Mzk1
+MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAzNiwtMT
+UzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkw
+MTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMj
+czLDc4NjM2MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0
+NjM5ODY4Nl19
 -->
