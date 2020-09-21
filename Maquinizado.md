@@ -184,6 +184,14 @@ En terminos generales usamos
 
 #### center/non-center cutting
 [fuente](https://www.youtube.com/watch?v=eH50t7kUx6c)
+
+**Center cutting endmill**
+
+Son endmills que tienen la capacidad de cortar hacia abajo en el eje $Z$ sin moverse en $XY$, Tienen **un filo unferior** en **ROJO** y huecos para **evacuar la viruta** en **AZUL**
+
+
+
+
 **Non-center cutting**
 
 Son endmills que cortan por cortadores radiaales pero en el centro no cortan.
@@ -290,11 +298,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ2NTc3NzMsMTExNTQzOTUzMywxMz
-M5MTc4OTEzLDE1MjYyMDIyNzQsOTM4Nzg2MDM2LC0xNTMyNDcy
-MzY3LC00Mjc0OTY5MzQsLTEzOTMwNjY2MjgsODIzOTAxNjE5LC
-0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQzODMyNzMsNzg2
-MzYxOTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMTksNzQ2Mzk4Nj
-g2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkzMjUyNTU4OCwt
-MzMxODk1NzQ1XX0=
+eyJoaXN0b3J5IjpbNDA1NTY2NjU3LDExMTU0Mzk1MzMsMTMzOT
+E3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAzNiwtMTUzMjQ3MjM2
+NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkwMTYxOSwtMj
+EwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2
+MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0NjM5ODY4Ni
+wtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1MjU1ODgsLTMz
+MTg5NTc0NV19
 -->
