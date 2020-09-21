@@ -124,6 +124,8 @@ El fabricante nos dara
 
 ## Herramientas
 
+[videos fuente](https://www.youtube.com/watch?v=EB7B1zq8AM8)
+
 A diferencia de los drill bits, que estan diseñados para **perforar hacia abajo**, los endmills estan diseñados para **cortar hacia los costados**
 
 ### Largo y ancho
@@ -243,11 +245,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTQyNDE5NiwtMTUzMjQ3MjM2NywtND
-I3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkwMTYxOSwtMjEwMTc1
-MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2MTk2NC
-wtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0NjM5ODY4NiwtMTk3
-NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1MjU1ODgsLTMzMTg5NT
-c0NSwxNjMyNzkzMzc4LDEzNDI2Nzc3MzUsOTYxMDg2Mjc1LDU4
-Nzg5OTQ2MV19
+eyJoaXN0b3J5IjpbOTM4Nzg2MDM2LC0xNTMyNDcyMzY3LC00Mj
+c0OTY5MzQsLTEzOTMwNjY2MjgsODIzOTAxNjE5LC0yMTAxNzUw
+MDg2LC03MzI0MzA3NTMsLTEyMjQzODMyNzMsNzg2MzYxOTY0LC
+0xODA3OTkyMDUyLDExNDc1MTQyMTksNzQ2Mzk4Njg2LC0xOTc0
+Njc3NDU1LDI5MDgzMTc5OCwtMTkzMjUyNTU4OCwtMzMxODk1Nz
+Q1LDE2MzI3OTMzNzgsMTM0MjY3NzczNSw5NjEwODYyNzUsNTg3
+ODk5NDYxXX0=
 -->
