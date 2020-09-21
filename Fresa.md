@@ -1,3 +1,6 @@
+**Herramientas**
+https://www.youtube.com/watch?v=Pm1N3ApOGlw
+
 **viendo**
 https://www.youtube.com/watch?v=_HGGkCaYMVA&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=3
 
@@ -387,6 +390,7 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Nj
-g3MDkzNjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTVdfQ==
+eyJoaXN0b3J5IjpbLTIxMjk0OTk0MTAsLTE3NTAzODYzMDgsNj
+k3NjAwNjIxLC02Njg3MDkzNjQsLTE2OTc4OTQ0OTQsLTE3MDEy
+NDk5NTVdfQ==
 -->
