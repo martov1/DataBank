@@ -197,8 +197,9 @@ De la misma manera, los filos del largo tambien tienen rake angles que pueden se
 ![](https://i.imgur.com/4cZFjcR.png)
 
 
-
- 
+**ENTONCES:**
+ * Un **rake angle positivo en ambas caras** sirve para elementos blandos, ya que  los cortara con el filo
+ * Un **rake angle negativo en ambas caras** surve para elementos mas dur
 
 
 ### center/non-center cutting
@@ -356,11 +357,11 @@ Tipos de herramientas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5MzUwMTE5LC02Njg3MDkzNjQsLTE2OT
-c4OTQ0OTQsLTE3MDEyNDk5NTUsMzA0MDg3NjUwLDExMTU0Mzk1
-MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAzNiwtMT
-UzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkw
-MTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMj
-czLDc4NjM2MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0
-NjM5ODY4Nl19
+eyJoaXN0b3J5IjpbLTExMjU3Mjk1NjksLTY2ODcwOTM2NCwtMT
+Y5Nzg5NDQ5NCwtMTcwMTI0OTk1NSwzMDQwODc2NTAsMTExNTQz
+OTUzMywxMzM5MTc4OTEzLDE1MjYyMDIyNzQsOTM4Nzg2MDM2LC
+0xNTMyNDcyMzY3LC00Mjc0OTY5MzQsLTEzOTMwNjY2MjgsODIz
+OTAxNjE5LC0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQzOD
+MyNzMsNzg2MzYxOTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMTks
+NzQ2Mzk4Njg2XX0=
 -->
