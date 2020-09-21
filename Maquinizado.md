@@ -121,6 +121,11 @@ El fabricante nos dara
 
 ## Operaciones - WIP
 
+
+## Herramientas
+
+Algunas de las e
+
 ## Seleccion de herramienta / Endmill - WIP
 
 Tipos de herramientas
@@ -134,8 +139,8 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3ND
-YzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1
-NTg4LC0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LD
-k2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbNjg4OTI4NDkwLC0xODA3OTkyMDUyLDExND
+c1MTQyMTksNzQ2Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5
+OCwtMTkzMjUyNTU4OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMT
+M0MjY3NzczNSw5NjEwODYyNzUsNTg3ODk5NDYxXX0=
 -->
