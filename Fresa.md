@@ -119,7 +119,15 @@ El fabricante nos dara
 
 ### Chatter / Vibraciones
 
-**chatter** es cuando la maquina vibra generando problemas en el acabado de la pieza
+**chatter** es cuando la maquina vibra generando problemas en el acabado de la pieza. esto es causado por **falta de rigidez a lo largo de la maquina**
+
+ Para evitarlo:
+
+* **Sujecion**
+	* La pieza debe estar perfectamente agarrada a la morsa, sin partes que sobresalgan de la morsa
+* **Herramienta**
+	* Se debe usar el menor largo de herramienta posible para aumentar la rigidez
+	* 
 
 ## Operaciones - WIP
 
@@ -359,6 +367,6 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU1NzA0ODAsNjk3NjAwNjIxLC02Nj
+eyJoaXN0b3J5IjpbLTIwNzkwOTgzNjcsNjk3NjAwNjIxLC02Nj
 g3MDkzNjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTVdfQ==
 -->
