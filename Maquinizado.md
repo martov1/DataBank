@@ -223,6 +223,7 @@ En un endmill normal, las puntas son filosas y finas, esto las hace mas propensa
 Son endmills con puntas redondeadas.
 
 Sirven para maquinar cualquier  superficie que no sea perpendicular a la herramienta.
+**siempre que se pueda se corta de low a high, ya que  el centro de la punta de la esfera no tiene mucha capacidad de corte**
 
 EJ:
 * Radios internos/externos
@@ -332,11 +333,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2NzAwMjUsMzA0MDg3NjUwLDExMTU0Mz
-k1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAzNiwt
-MTUzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMz
-kwMTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0Mzgz
-MjczLDc4NjM2MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LD
-c0NjM5ODY4NiwtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1
-MjU1ODhdfQ==
+eyJoaXN0b3J5IjpbODM4MzE3NzUwLDMwNDA4NzY1MCwxMTE1ND
+M5NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYs
+LTE1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4Mj
+M5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4
+MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOS
+w3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMy
+NTI1NTg4XX0=
 -->
