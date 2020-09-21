@@ -182,8 +182,12 @@ En terminos generales usamos
 * Acero rapido con cobalto
 * Powdered metal tooling
 
+.
 
 * **Tungsten carbide**
+	* **Durisimo**
+		* No puede ser muy afilado por que se parte el filo
+		* Corta cualquier material duro
 	* **materiales que corta**
 		* Acero
 		* Materiales mas duros
@@ -230,10 +234,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4Mj
-M5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4
-MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOS
-w3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMy
-NTI1NTg4LC0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3Nz
-M1LDk2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbLTE1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMT
+M5MzA2NjYyOCw4MjM5MDE2MTksLTIxMDE3NTAwODYsLTczMjQz
+MDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNT
+IsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkw
+ODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4OTU3NDUsMTYzMjc5Mz
+M3OCwxMzQyNjc3NzM1LDk2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
+
 -->
