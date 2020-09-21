@@ -163,6 +163,8 @@ En terminos generales usamos
 	* Fibra de carbono
 
 ### Material de la herramienta
+[fuente](https://www.youtube.com/watch?v=EB7B1zq8AM8)
+
 
 * **Acero rapido**
 	* **Materiales que corta**
@@ -225,10 +227,10 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODY4MDc3MSwtMTM5MzA2NjYyOCw4Mj
-M5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4
-MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOS
-w3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMy
-NTI1NTg4LC0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3Nz
-M1LDk2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbLTEwOTM5MTQ0NTMsLTEzOTMwNjY2MjgsOD
+IzOTAxNjE5LC0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQz
+ODMyNzMsNzg2MzYxOTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMT
+ksNzQ2Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkz
+MjUyNTU4OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMTM0MjY3Nz
+czNSw5NjEwODYyNzUsNTg3ODk5NDYxXX0=
 -->
