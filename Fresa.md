@@ -127,7 +127,8 @@ El fabricante nos dara
 	* La pieza debe estar perfectamente agarrada a la morsa, sin partes que sobresalgan de la morsa
 * **Herramienta**
 	* Se debe usar el menor largo de herramienta posible para aumentar la rigidez
-	* 
+	* Elegir el menor largo de flute posible
+	* Elegir el mayor ancho posible para aumentar la rigidez
 
 ## Operaciones - WIP
 
@@ -145,7 +146,7 @@ A diferencia de los drill bits, que estan diseñados para **perforar hacia abajo
 ### Largo y ancho
 
 **largo**
-* Cuanto mas larga la herramienta menos rigidez ( mas distancia entre el motor y la punta de corte) 
+* Cuanto mas larga la herramienta menos rigidez ( mas distancia entre el motor y la punta de corte)  y mas posibilidad de **chatter**
 * **siempre elegir la herramienta mas corta posible**
 * Siempre tratar de cortar con **todo el largo de la herramienta** para permitir un desgaste parejo
 * Mas corto es mas barato
@@ -155,7 +156,7 @@ EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta e
 
 
 **Ancho**
-* Cuanto mas ancho **mas rigidez**
+* Cuanto mas ancho **mas rigidez** y  por ende menor posibilidad de **chatter**
 * Cuanto mas ancho **mas precio**
 * Cuanto mas ancho **mas rapido come material**
 
@@ -367,6 +368,6 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkwOTgzNjcsNjk3NjAwNjIxLC02Nj
-g3MDkzNjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTVdfQ==
+eyJoaXN0b3J5IjpbOTU0ODY0ODA0LDY5NzYwMDYyMSwtNjY4Nz
+A5MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
 -->
