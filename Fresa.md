@@ -176,8 +176,11 @@ En terminos generales usamos
 ### Angulos 
 **Geometria de la punta**
 La punta tiene un angulo llamado **rake angle**, este angulo puede estar 
-* **Hacia el material (Positivo +**
-* **perpendicular al material**
+* **Hacia el material (Positivo +)**
+* **perpendicular al material (0 o neutral)**
+* **Alejandose del material (negativo -)**
+
+![](https://i.imgur.com/YrqE8Gb.png)
 
 **Geometria del largo**
 * Rake angle
@@ -332,6 +335,6 @@ Tipos de herramientas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDE0MTM2MiwtNjY4NzA5MzY0LC0xNj
-k3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
+eyJoaXN0b3J5IjpbNDIyMTc1MzUwLC02Njg3MDkzNjQsLTE2OT
+c4OTQ0OTQsLTE3MDEyNDk5NTVdfQ==
 -->
