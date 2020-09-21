@@ -183,8 +183,14 @@ La punta tiene un angulo llamado **rake angle**, este angulo puede estar
 ![](https://i.imgur.com/YrqE8Gb.png)
 
 **Geometria del largo**
-* Rake angle
- 
+De la misma manera, los filos del largo tambien tienen rake angles que pueden ser
+
+
+* **Hacia el material (Positivo +)**
+* **perpendicular al material (0 o neutral)**
+* **Alejandose del material (negativo -)**
+
+![](https://i.imgur.com/4cZFjcR.png) 
 
 
 ### center/non-center cutting
@@ -342,7 +348,7 @@ Tipos de herramientas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjU4OTU2NiwtNjY4NzA5MzY0LC0xNj
+eyJoaXN0b3J5IjpbMTM4NDM0NzA1OCwtNjY4NzA5MzY0LC0xNj
 k3ODk0NDk0LC0xNzAxMjQ5OTU1LDMwNDA4NzY1MCwxMTE1NDM5
 NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLT
 E1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5
