@@ -225,7 +225,7 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 ### Geometria
 
 **Rake angles**
-
+El rake angle es 
 
 
 
@@ -252,11 +252,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM4MDA1NzksOTM4Nzg2MDM2LC0xNT
-MyNDcyMzY3LC00Mjc0OTY5MzQsLTEzOTMwNjY2MjgsODIzOTAx
-NjE5LC0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQzODMyNz
-MsNzg2MzYxOTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMTksNzQ2
-Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkzMjUyNT
-U4OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMTM0MjY3NzczNSw5
-NjEwODYyNzVdfQ==
+eyJoaXN0b3J5IjpbODM0OTUyNjYyLDkzODc4NjAzNiwtMTUzMj
+Q3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkwMTYx
+OSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMjczLD
+c4NjM2MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0NjM5
+ODY4NiwtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1MjU1OD
+gsLTMzMTg5NTc0NSwxNjMyNzkzMzc4LDEzNDI2Nzc3MzUsOTYx
+MDg2Mjc1XX0=
 -->
