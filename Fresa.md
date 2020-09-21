@@ -173,9 +173,11 @@ En terminos generales usamos
 * **>6**
 	* Fibra de carbono
 
-### Angulos -???
+### Angulos 
 **Geometria de la punta**
-* Rake angle
+La punta tiene un angulo llamado **rake angle**, este angulo puede estar 
+* **Hacia el material (Positivo +**
+* **perpendicular al material**
 
 **Geometria del largo**
 * Rake angle
@@ -330,6 +332,6 @@ Tipos de herramientas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMT
-cwMTI0OTk1NV19
+eyJoaXN0b3J5IjpbLTY5MDE0MTM2MiwtNjY4NzA5MzY0LC0xNj
+k3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
 -->
