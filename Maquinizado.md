@@ -206,7 +206,7 @@ Son endmills diseñados para **Cortes de gran profundidad**, tienen un patron de
 
 ![](https://i.imgur.com/neV67EE.png)
 
-#### ball nose endmills
+#### radius endmills
 
 Tienen el borde redondeado.
 
@@ -217,6 +217,13 @@ En un endmill normal, las puntas son filosas y finas, esto las hace mas propensa
 * Preferido para **rougthing** por que al ser mas fuerte durara mas
 
 ![](https://i.imgur.com/gg4JH6I.png)
+
+#### ball nose  endmill
+
+
+
+
+
 
 ### Material de la herramienta
 
@@ -316,11 +323,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0NDA2MDQ0LDMwNDA4NzY1MCwxMTE1ND
-M5NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYs
-LTE1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4Mj
-M5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4
-MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOS
-w3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMy
-NTI1NTg4XX0=
+eyJoaXN0b3J5IjpbLTIxMzA3OTk3MjksMzA0MDg3NjUwLDExMT
+U0Mzk1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAz
+NiwtMTUzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LD
+gyMzkwMTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0
+MzgzMjczLDc4NjM2MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0Mj
+E5LDc0NjM5ODY4NiwtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5
+MzI1MjU1ODhdfQ==
 -->
