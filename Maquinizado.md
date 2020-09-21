@@ -130,7 +130,7 @@ A diferencia de los drill bits, que estan diseñados para **perforar hacia abajo
 
 
 
-### Geometria
+### Geometria general
 
 #### Largo y ancho
 
@@ -197,6 +197,8 @@ Son endmills que tienen la capacidad de cortar hacia abajo en el eje $Z$ sin mov
 Son endmills que cortan por cortadores radiaales pero en el centro no cortan.
 ![](https://i.imgur.com/3f5frqP.png)
 Eso implica que **no podemos taladrar con ellos**, sino que tenemos que hacer agujeros de manera helicoidal. y una velocidad de avance en el eje $Z$ baja comparada con $XY$
+
+### Geometrias especiales
 
 #### Rougth cutting endmills
 
@@ -304,7 +306,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTI2MjM1OSwxMTE1NDM5NTMzLDEzMz
+eyJoaXN0b3J5IjpbLTE5MjMzNzY1MiwxMTE1NDM5NTMzLDEzMz
 kxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLTE1MzI0NzIz
 NjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MTksLT
 IxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYz
