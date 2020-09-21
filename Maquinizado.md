@@ -173,9 +173,9 @@ En terminos generales usamos
 * **Tungsten carbide**
 	*	Mas duro (que el acero)
 	*	 Filo muy duradero
-	*	**Fragil**
+	*	**Duro y Fragil**
 		*	 Se parte con facilidad total o parcialmente
-		*	 
+		*	 No se desafila, se parte
 	*	Puede cortar acero
 	*	Puede hacer cortes mas profundos
 	*	Requiere un alto **surfice speeed**
@@ -207,10 +207,10 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0NjM2NDksLTEzOTMwNjY2MjgsODIzOT
-AxNjE5LC0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQzODMy
-NzMsNzg2MzYxOTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMTksNz
-Q2Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkzMjUy
-NTU4OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMTM0MjY3NzczNS
-w5NjEwODYyNzUsNTg3ODk5NDYxXX0=
+eyJoaXN0b3J5IjpbLTEwNjA0OTcwODYsLTEzOTMwNjY2MjgsOD
+IzOTAxNjE5LC0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEyMjQz
+ODMyNzMsNzg2MzYxOTY0LC0xODA3OTkyMDUyLDExNDc1MTQyMT
+ksNzQ2Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5OCwtMTkz
+MjUyNTU4OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMTM0MjY3Nz
+czNSw5NjEwODYyNzUsNTg3ODk5NDYxXX0=
 -->
