@@ -132,6 +132,9 @@ El fabricante nos dara
 	* Elegir el mayor ancho posible para aumentar la rigidez
 * **avance y velocidad**
 	* Usar el avance y velocidad correctos
+* **Resonancia**
+	* La herramienta y la pieza o la morsa pueden llegar a resonar, causando chatter, Si sucede variar levemente la altura de la herramienta para eliminar la resonancia
+	* **strong text**
 
 ## Operaciones - WIP
 
@@ -371,11 +374,11 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5ODYzMTQxLDY5NzYwMDYyMSwtNjY4Nz
-A5MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5OTU1LDMwNDA4NzY1
-MCwxMTE1NDM5NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mz
-g3ODYwMzYsLTE1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2
-NjYyOCw4MjM5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1My
-wtMTIyNDM4MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0
-NzUxNDIxOV19
+eyJoaXN0b3J5IjpbMTU2ODI1OTg0OCw2OTc2MDA2MjEsLTY2OD
+cwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0OTk1NSwzMDQwODc2
+NTAsMTExNTQzOTUzMywxMzM5MTc4OTEzLDE1MjYyMDIyNzQsOT
+M4Nzg2MDM2LC0xNTMyNDcyMzY3LC00Mjc0OTY5MzQsLTEzOTMw
+NjY2MjgsODIzOTAxNjE5LC0yMTAxNzUwMDg2LC03MzI0MzA3NT
+MsLTEyMjQzODMyNzMsNzg2MzYxOTY0LC0xODA3OTkyMDUyLDEx
+NDc1MTQyMTldfQ==
 -->
