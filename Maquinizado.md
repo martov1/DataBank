@@ -192,6 +192,7 @@ A grandes razgos
 
 * **Mas flutes**
 	*  Mejor terminado
+	* Mas filos sig
 	*  Peor chip clearing
 		* En materiales blandos esto implica mas friccion entre chips, eso puede **derretir plastico** o **fundir aluminio** en lugar de cortarlo
 * **Menos flutes** 
@@ -390,7 +391,7 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk0OTk0MTAsLTE3NTAzODYzMDgsNj
+eyJoaXN0b3J5IjpbLTE1MTI0MzAwNDcsLTE3NTAzODYzMDgsNj
 k3NjAwNjIxLC02Njg3MDkzNjQsLTE2OTc4OTQ0OTQsLTE3MDEy
 NDk5NTUsMzA0MDg3NjUwLDExMTU0Mzk1MzMsMTMzOTE3ODkxMy
 wxNTI2MjAyMjc0LDkzODc4NjAzNiwtMTUzMjQ3MjM2NywtNDI3
