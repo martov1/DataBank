@@ -230,6 +230,10 @@ EJ:
 
 ![](https://i.imgur.com/fR1et6S.png)
 
+Es un **center-cutting endmill**, se puede apreciar como dos de los flutes forman el filo
+![](https://i.imgur.com/ooJrekl.png)
+
+
 ### Material de la herramienta
 
 
@@ -328,11 +332,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0ODg4NTUyLDMwNDA4NzY1MCwxMTE1ND
-M5NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYs
-LTE1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4Mj
-M5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4
-MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOS
-w3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMy
-NTI1NTg4XX0=
+eyJoaXN0b3J5IjpbNDU2NzAwMjUsMzA0MDg3NjUwLDExMTU0Mz
+k1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAzNiwt
+MTUzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMz
+kwMTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0Mzgz
+MjczLDc4NjM2MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LD
+c0NjM5ODY4NiwtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1
+MjU1ODhdfQ==
 -->
