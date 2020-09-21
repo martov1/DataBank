@@ -198,8 +198,14 @@ De la misma manera, los filos del largo tambien tienen rake angles que pueden se
 
 
 **ENTONCES:**
- * Un **rake angle positivo en ambas caras** sirve para elementos blandos, ya que  los cortara con el filo
+ * Un **rake angle positivo en ambas caras** 
+	 * sirve para elementos blandos, ya que  los cortara con el filo.
+	 * Toma menos potencia usarla
+	 * El filo va a ser mas fino
  * Un **rake angle negativo en ambas caras** surve para elementos mas duros
+	 * El filo es mas grueso, y por ende mas fuerte
+	 * Se usa en materiales mas duros
+	 * toma mas fuerza
 
 
 ### center/non-center cutting
@@ -357,6 +363,6 @@ Tipos de herramientas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODYwNDY4NDUsLTY2ODcwOTM2NCwtMT
-Y5Nzg5NDQ5NCwtMTcwMTI0OTk1NV19
+eyJoaXN0b3J5IjpbNzA4MjUzODY2LC02Njg3MDkzNjQsLTE2OT
+c4OTQ0OTQsLTE3MDEyNDk5NTVdfQ==
 -->
