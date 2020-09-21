@@ -134,6 +134,7 @@ Algunas de las caracteristicas de las herramientas son
 		*	Mas duro (que el acero) y duradero
 		*	Puede cortar acero
 		*	Puede hacer cortes mas profundos
+		*	Requiere un alto **surfice speeed**
 * tungsten carbide carbide o acero rapido
 * Diametro de la herramienta
 * 
@@ -151,9 +152,9 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3OD
-YzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2
-ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC
-0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LDk2MTA4
-NjI3NSw1ODc4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbLTI0NjY4MzExNywtNzMyNDMwNzUzLC0xMj
+I0MzgzMjczLDc4NjM2MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0
+MjE5LDc0NjM5ODY4NiwtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLT
+E5MzI1MjU1ODgsLTMzMTg5NTc0NSwxNjMyNzkzMzc4LDEzNDI2
+Nzc3MzUsOTYxMDg2Mjc1LDU4Nzg5OTQ2MV19
 -->
