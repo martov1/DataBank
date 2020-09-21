@@ -183,11 +183,11 @@ En terminos generales usamos
 * Powdered metal tooling
 
 .
-
 * **Tungsten carbide**
 	* **Durisimo**
-		* No puede ser muy afilado por que se parte el filo
 		* Corta cualquier material duro
+		* **Filo** 
+			* No puede ser muy afilado mucho por que se parte el filo debido a la  fragilidad		
 	* **materiales que corta**
 		* Acero
 		* Materiales mas duros
@@ -234,11 +234,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMT
-M5MzA2NjYyOCw4MjM5MDE2MTksLTIxMDE3NTAwODYsLTczMjQz
-MDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNT
-IsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkw
-ODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4OTU3NDUsMTYzMjc5Mz
-M3OCwxMzQyNjc3NzM1LDk2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
-
+eyJoaXN0b3J5IjpbLTE0ODEwOTQ0NjksLTE1MzI0NzIzNjcsLT
+QyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MTksLTIxMDE3
+NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5Nj
+QsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLTE5
+NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4OT
+U3NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LDk2MTA4NjI3NSw1
+ODc4OTk0NjFdfQ==
 -->
