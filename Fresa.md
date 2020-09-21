@@ -117,7 +117,9 @@ El fabricante nos dara
 	*  **IPT muy bajo** hace que el cortador resbale y genere friccion
 	* **IPT muy alto** fuerza la herramienta y podria quebrarla
 
+### Chatter / Vibraciones
 
+**chatter** es cuando la maquina vibra generando problemas en el acabado de la pieza
 
 ## Operaciones - WIP
 
@@ -354,16 +356,9 @@ El rake angle puede ser
 
 
 
-## Seleccion de herramienta / Endmill - WIP
-
-Tipos de herramientas
-* Center cutting
-* 
-
-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3NjAwNjIxLC02Njg3MDkzNjQsLTE2OT
-c4OTQ0OTQsLTE3MDEyNDk5NTVdfQ==
+eyJoaXN0b3J5IjpbLTE4MjU1NzA0ODAsNjk3NjAwNjIxLC02Nj
+g3MDkzNjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTVdfQ==
 -->
