@@ -128,7 +128,11 @@ El fabricante nos dara
 
 A diferencia de los drill bits, que estan diseñados para **perforar hacia abajo**, los endmills estan diseñados para **cortar hacia los costados**
 
-### Largo y ancho
+
+
+### Geometria
+
+#### Largo y ancho
 
 **largo**
 * Cuanto mas larga la herramienta menos rigidez ( mas distancia entre el motor y la punta de corte) 
@@ -227,16 +231,6 @@ En terminos generales usamos
 
 Las herramientas pueden estar recubiertas de diferentes materiales para extender su vida util y su filo
 
-### Geometria
-
-**Geometria de la punta**
-* Rake angle
-
-**Geometria del largo**
-* Rake angle
-* Largo
-
-
 .
 **Rake angles**
 El rake angle puede ser
@@ -277,11 +271,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4MjAwMjY0LDExMTU0Mzk1MzMsMTMzOT
-E3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAzNiwtMTUzMjQ3MjM2
-NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkwMTYxOSwtMj
-EwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2
-MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0NjM5ODY4Ni
-wtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1MjU1ODgsLTMz
-MTg5NTc0NV19
+eyJoaXN0b3J5IjpbLTk5MTM4NDM1NCwxMTE1NDM5NTMzLDEzMz
+kxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLTE1MzI0NzIz
+NjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MTksLT
+IxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYz
+NjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2OD
+YsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0z
+MzE4OTU3NDVdfQ==
 -->
