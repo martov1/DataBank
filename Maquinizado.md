@@ -127,7 +127,11 @@ El fabricante nos dara
 Algunas de las caracteristicas de las herramientas son
 
 * Cantidad de flutes
-* Recubierto de carbide o acero rapido
+* Material de la herramienta
+	* Acero rapido
+	* Tungsten carbide
+	* M
+* tungsten carbide carbide o acero rapido
 * Diametro de la herramienta
 * 
 
@@ -144,8 +148,9 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2MzYxOTY0LC0xODA3OTkyMDUyLDExND
-c1MTQyMTksNzQ2Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5
-OCwtMTkzMjUyNTU4OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMT
-M0MjY3NzczNSw5NjEwODYyNzUsNTg3ODk5NDYxXX0=
+eyJoaXN0b3J5IjpbLTE1MDY5MjYyMjQsNzg2MzYxOTY0LC0xOD
+A3OTkyMDUyLDExNDc1MTQyMTksNzQ2Mzk4Njg2LC0xOTc0Njc3
+NDU1LDI5MDgzMTc5OCwtMTkzMjUyNTU4OCwtMzMxODk1NzQ1LD
+E2MzI3OTMzNzgsMTM0MjY3NzczNSw5NjEwODYyNzUsNTg3ODk5
+NDYxXX0=
 -->
