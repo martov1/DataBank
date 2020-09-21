@@ -174,17 +174,17 @@ En terminos generales usamos
 * **No tan duro**
 	* Solo corta cosas mas blandas que acero
  	* se parte menos facilmente por no ser tan rigido
+* **Filo**
 	* En vez de partirse, se desafila
-	* Si el feed and speed no estan bien, sobrevive
-* **Forgiving**
-* **Afilado y economia**
-	* Filo menos duradero 
+	* Si el feed and speed no estan bien, la herramienta sobrevive y solo se desafila
+	* Filo poco duradero
+* **Afilado y economia** 
 	* Barato de adquirir
-	* Reemplazo o afilado frecuente
+	* Reemplazo o afilado frecuente, por lo que es caro para la produccion en masa de piezas
 
 
-Acero rapido con cobalto
-* Powdered metal tooling
+**Acero rapido con cobalto**
+**Powdered metal tooling**
 
 .
 **Tungsten carbide**
@@ -233,11 +233,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTM3NDUxNCwtMTUzMjQ3MjM2NywtND
-I3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkwMTYxOSwtMjEwMTc1
-MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2MTk2NC
-wtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0NjM5ODY4NiwtMTk3
-NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1MjU1ODgsLTMzMTg5NT
-c0NSwxNjMyNzkzMzc4LDEzNDI2Nzc3MzUsOTYxMDg2Mjc1LDU4
-Nzg5OTQ2MV19
+eyJoaXN0b3J5IjpbLTE4NTY0NDIzNjEsLTE1MzI0NzIzNjcsLT
+QyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MTksLTIxMDE3
+NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5Nj
+QsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLTE5
+NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4OT
+U3NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LDk2MTA4NjI3NSw1
+ODc4OTk0NjFdfQ==
 -->
