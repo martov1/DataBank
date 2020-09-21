@@ -183,8 +183,13 @@ En terminos generales usamos
 
 
 #### center/non-center cutting
+fuent
+**Non-center cutting**
 
-Non-center cutting
+Son endmills que cortan por cortadores radiaales pero en el centro no cortan.
+![](https://i.imgur.com/3f5frqP.png)
+Eso implica que **no podemos taladrar con ellos**, sino que tenemos que hacer agujeros de manera helicoidal.
+
 
 ### Material de la herramienta
 
@@ -284,11 +289,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzEyNTA5NSwxMTE1NDM5NTMzLDEzMz
-kxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLTE1MzI0NzIz
-NjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MTksLT
-IxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYz
-NjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2OD
-YsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0z
-MzE4OTU3NDVdfQ==
+eyJoaXN0b3J5IjpbNDM4MDc2MDQwLDExMTU0Mzk1MzMsMTMzOT
+E3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAzNiwtMTUzMjQ3MjM2
+NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkwMTYxOSwtMj
+EwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2
+MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0NjM5ODY4Ni
+wtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1MjU1ODgsLTMz
+MTg5NTc0NV19
 -->
