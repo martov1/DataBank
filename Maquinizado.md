@@ -208,6 +208,10 @@ Son endmills diseñados para **Cortes de gran profundidad**, tienen un patron de
 
 #### ball nose endmills
 
+Tienen el borde redondeado
+
+![](https://i.imgur.com/gg4JH6I.png)
+
 ### Material de la herramienta
 
 
@@ -306,11 +310,11 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0MDg3NjUwLDExMTU0Mzk1MzMsMTMzOT
-E3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAzNiwtMTUzMjQ3MjM2
-NywtNDI3NDk2OTM0LC0xMzkzMDY2NjI4LDgyMzkwMTYxOSwtMj
-EwMTc1MDA4NiwtNzMyNDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2
-MTk2NCwtMTgwNzk5MjA1MiwxMTQ3NTE0MjE5LDc0NjM5ODY4Ni
-wtMTk3NDY3NzQ1NSwyOTA4MzE3OTgsLTE5MzI1MjU1ODgsLTMz
-MTg5NTc0NV19
+eyJoaXN0b3J5IjpbODg3MjY1MDUzLDMwNDA4NzY1MCwxMTE1ND
+M5NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYs
+LTE1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4Mj
+M5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4
+MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOS
+w3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMy
+NTI1NTg4XX0=
 -->
