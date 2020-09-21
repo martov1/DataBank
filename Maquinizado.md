@@ -124,7 +124,12 @@ El fabricante nos dara
 
 ## Herramientas
 
-Algunas de las e
+Algunas de las caracteristicas de las herramientas son
+
+* Cantidad de flutes
+* Recubierto de carbide o acero rapido
+* Diametro de la herramienta
+* 
 
 ## Seleccion de herramienta / Endmill - WIP
 
@@ -139,7 +144,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4OTI4NDkwLC0xODA3OTkyMDUyLDExND
+eyJoaXN0b3J5IjpbNzg2MzYxOTY0LC0xODA3OTkyMDUyLDExND
 c1MTQyMTksNzQ2Mzk4Njg2LC0xOTc0Njc3NDU1LDI5MDgzMTc5
 OCwtMTkzMjUyNTU4OCwtMzMxODk1NzQ1LDE2MzI3OTMzNzgsMT
 M0MjY3NzczNSw5NjEwODYyNzUsNTg3ODk5NDYxXX0=
