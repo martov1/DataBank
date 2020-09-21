@@ -156,6 +156,7 @@ Algunas de las caracteristicas de las herramientas son
 	* Genera bordes perfectamente rectos
 * Endmills conicos / taped
 	* Genera bordes en un angulo
+* Fishtail endmills
 * 
 
 ## Seleccion de herramienta / Endmill - WIP
@@ -171,10 +172,10 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzcyNjI5OTMsLTIxMDE3NTAwODYsLT
-czMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5NjQsLTE4MDc5
-OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLTE5NzQ2Nzc0NT
-UsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4OTU3NDUsMTYz
-Mjc5MzM3OCwxMzQyNjc3NzM1LDk2MTA4NjI3NSw1ODc4OTk0Nj
-FdfQ==
+eyJoaXN0b3J5IjpbODIzOTAxNjE5LC0yMTAxNzUwMDg2LC03Mz
+I0MzA3NTMsLTEyMjQzODMyNzMsNzg2MzYxOTY0LC0xODA3OTky
+MDUyLDExNDc1MTQyMTksNzQ2Mzk4Njg2LC0xOTc0Njc3NDU1LD
+I5MDgzMTc5OCwtMTkzMjUyNTU4OCwtMzMxODk1NzQ1LDE2MzI3
+OTMzNzgsMTM0MjY3NzczNSw5NjEwODYyNzUsNTg3ODk5NDYxXX
+0=
 -->
