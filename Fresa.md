@@ -184,7 +184,7 @@ La punta tiene un angulo llamado **rake angle**, este angulo puede estar
 
 **Geometria del largo**
 * Rake angle
-* Largo
+ 
 
 
 ### center/non-center cutting
@@ -213,7 +213,8 @@ Son endmills diseñados para **Cortes de gran profundidad**, tienen un patron de
 
 ### Square endmill
 
- Este tipo de endmill tiene bordes a 90 grados, eso hace que los bordes del corte queden muy **rectos**
+ Este tipo de endmill tiene bordes a 90 grados, eso hace que los bordes del corte queden muy **rectos**. tiene la desventaja de que **esto hace que ese borde sea fino y entonces fragil, por lo que tiende a romperse**
+![](https://i.imgur.com/sSiy9E6.png)
 
 ### radius endmills
 
@@ -341,6 +342,6 @@ Tipos de herramientas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwMTY5MSwtNjY4NzA5MzY0LC0xNjk3OD
-k0NDk0LC0xNzAxMjQ5OTU1XX0=
+eyJoaXN0b3J5IjpbLTYxNjU4OTU2NiwtNjY4NzA5MzY0LC0xNj
+k3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
 -->
