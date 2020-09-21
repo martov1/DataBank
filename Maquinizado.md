@@ -182,7 +182,9 @@ En terminos generales usamos
 * Largo
 
 
-#### center/non c
+#### center/non-center cutting
+
+Non-center cutting
 
 ### Material de la herramienta
 
@@ -282,7 +284,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTA1Mzk0MSwxMTE1NDM5NTMzLDEzMz
+eyJoaXN0b3J5IjpbLTMxMzEyNTA5NSwxMTE1NDM5NTMzLDEzMz
 kxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLTE1MzI0NzIz
 NjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MTksLT
 IxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYz
