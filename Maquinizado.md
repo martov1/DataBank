@@ -149,8 +149,11 @@ Algunas de las caracteristicas de las herramientas son
 		*	Puede hacer cortes mas profundos
 		*	Requiere un alto **surfice speeed**
 * tungsten carbide carbide o acero rapido
-* Diametro de la herramienta
-* 
+
+### Geometria
+
+* Endmills Rectos
+* Endmills conicos / taped
 
 ## Seleccion de herramienta / Endmill - WIP
 
@@ -165,9 +168,10 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMT
-IyNDM4MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUx
-NDIxOSw3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC
-0xOTMyNTI1NTg4LC0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQy
-Njc3NzM1LDk2MTA4NjI3NSw1ODc4OTk0NjFdfQ==
+eyJoaXN0b3J5IjpbLTU2OTUwNjgwOCwtMjEwMTc1MDA4NiwtNz
+MyNDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2MTk2NCwtMTgwNzk5
+MjA1MiwxMTQ3NTE0MjE5LDc0NjM5ODY4NiwtMTk3NDY3NzQ1NS
+wyOTA4MzE3OTgsLTE5MzI1MjU1ODgsLTMzMTg5NTc0NSwxNjMy
+NzkzMzc4LDEzNDI2Nzc3MzUsOTYxMDg2Mjc1LDU4Nzg5OTQ2MV
+19
 -->
