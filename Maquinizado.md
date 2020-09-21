@@ -129,6 +129,7 @@ Algunas de las caracteristicas de las herramientas son
 * Cantidad de flutes
 * Material de la herramienta
 	* Acero rapido
+		* 
 	* Tungsten carbide
 		*	Mas duro (que el acero) y duradero
 		*	Puede cortar acero
@@ -150,9 +151,9 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQzODMyNzMsNzg2MzYxOTY0LC0xOD
-A3OTkyMDUyLDExNDc1MTQyMTksNzQ2Mzk4Njg2LC0xOTc0Njc3
-NDU1LDI5MDgzMTc5OCwtMTkzMjUyNTU4OCwtMzMxODk1NzQ1LD
-E2MzI3OTMzNzgsMTM0MjY3NzczNSw5NjEwODYyNzUsNTg3ODk5
-NDYxXX0=
+eyJoaXN0b3J5IjpbLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3OD
+YzNjE5NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2
+ODYsLTE5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC
+0zMzE4OTU3NDUsMTYzMjc5MzM3OCwxMzQyNjc3NzM1LDk2MTA4
+NjI3NSw1ODc4OTk0NjFdfQ==
 -->
