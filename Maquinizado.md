@@ -162,15 +162,20 @@ En terminos generales usamos
 	* Fibra de carbono
 
 ### Material de la herramienta
-	* Acero rapido
-		* Solo corta cosas mas blandas que acero
-		* 
-	* Tungsten carbide
-		*	Mas duro (que el acero) y duradero
-		*	Puede cortar acero
-		*	Puede hacer cortes mas profundos
-		*	Requiere un alto **surfice speeed**
+
+* Acero rapido
+	* Solo corta cosas mas blandas que acero
+	* Forgiving, se parte menos facilmente por no ser tan rigido
+	* Filo menos duradero 
+* Tungsten carbide
+	*	Mas duro (que el acero) y con filo muy duradero
+	*	Fragil, se parte si la maquina no es muy rigida
+	*	Puede cortar acero
+	*	Puede hacer cortes mas profundos
+	*	Requiere un alto **surfice speeed**
 * tungsten carbide carbide o acero rapido
+
+### Coatings de la 
 
 ### Geometria
 
@@ -195,7 +200,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDQ4NTE2Nyw4MjM5MDE2MTksLTIxMD
+eyJoaXN0b3J5IjpbMTcxMTU2Nzk1NSw4MjM5MDE2MTksLTIxMD
 E3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5
 NjQsLTE4MDc5OTIwNTIsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLT
 E5NzQ2Nzc0NTUsMjkwODMxNzk4LC0xOTMyNTI1NTg4LC0zMzE4
