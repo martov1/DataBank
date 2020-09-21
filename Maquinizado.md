@@ -149,7 +149,7 @@ EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta e
 * Cuanto mas ancho **mas precio**
 * Cuanto mas ancho **mas rapido come material**
 
-### **Cantidad de flutes**
+#### **Cantidad de flutes**
 
 A grandez razgos
 
@@ -172,6 +172,17 @@ En terminos generales usamos
 	* Metales duros
 * **>6**
 	* Fibra de carbono
+
+#### Angulos
+**Geometria de la punta**
+* Rake angle
+
+**Geometria del largo**
+* Rake angle
+* Largo
+
+
+#### center/non c
 
 ### Material de la herramienta
 
@@ -271,7 +282,7 @@ Tipos de herramientas
 
 # Tornos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTM4NDM1NCwxMTE1NDM5NTMzLDEzMz
+eyJoaXN0b3J5IjpbLTcxMTA1Mzk0MSwxMTE1NDM5NTMzLDEzMz
 kxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLTE1MzI0NzIz
 NjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MTksLT
 IxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYz
