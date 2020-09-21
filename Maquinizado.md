@@ -200,13 +200,13 @@ Eso implica que **no podemos taladrar con ellos**, sino que tenemos que hacer ag
 
 ## Geometrias especiales
 
-#### Rougth cutting endmills
+### Rougth cutting endmills
 
 Son endmills diseñados para **Cortes de gran profundidad**, tienen un patron de **zig-zag** sobre los flutes que sirve para **romper la virtua** de manera mas efectiva, ya que  los **cortes profundos generan virtuas largas dificiles de extraer**
 
 ![](https://i.imgur.com/neV67EE.png)
 
-#### radius endmills
+### radius endmills
 
 Tienen el borde redondeado.
 
@@ -218,7 +218,7 @@ En un endmill normal, las puntas son filosas y finas, esto las hace mas propensa
 
 ![](https://i.imgur.com/gg4JH6I.png)
 
-#### ball nose  endmill
+### ball nose  endmill
 
 Son endmills con puntas redondeadas.
 
@@ -330,11 +330,11 @@ Tipos de herramientas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzU0Njc5LC0xNzAxMjQ5OTU1LDMwND
-A4NzY1MCwxMTE1NDM5NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3
-NCw5Mzg3ODYwMzYsLTE1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMT
-M5MzA2NjYyOCw4MjM5MDE2MTksLTIxMDE3NTAwODYsLTczMjQz
-MDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5NjQsLTE4MDc5OTIwNT
-IsMTE0NzUxNDIxOSw3NDYzOTg2ODYsLTE5NzQ2Nzc0NTUsMjkw
-ODMxNzk4XX0=
+eyJoaXN0b3J5IjpbLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTUsMz
+A0MDg3NjUwLDExMTU0Mzk1MzMsMTMzOTE3ODkxMywxNTI2MjAy
+Mjc0LDkzODc4NjAzNiwtMTUzMjQ3MjM2NywtNDI3NDk2OTM0LC
+0xMzkzMDY2NjI4LDgyMzkwMTYxOSwtMjEwMTc1MDA4NiwtNzMy
+NDMwNzUzLC0xMjI0MzgzMjczLDc4NjM2MTk2NCwtMTgwNzk5Mj
+A1MiwxMTQ3NTE0MjE5LDc0NjM5ODY4NiwtMTk3NDY3NzQ1NSwy
+OTA4MzE3OThdfQ==
 -->
