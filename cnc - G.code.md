@@ -381,9 +381,9 @@ EJ:
     T3M6; cambia la herramienta
 
 
-### Giro de la herramienta - WIP
+### Giro de la herramienta
 
-
+* `S200` indica una velocidad de giro de 200 unidades/min
 * `M3` comienza el giro de la herramienta clockwise
 * `M4`comienza el giro de la herramienta counter-clockwise (menos comun)
 * `M5` detener el giro de la herramienta
@@ -563,7 +563,7 @@ M30;
 ```
 
 
-## Canned cycles -WIP
+## Canned cycles
 
 Un canned cycle es una funcion del CNC que permite hacer tareas repetitivas con poco codigo. por ejemplo
 
@@ -745,5 +745,5 @@ https://www.youtube.com/watch?v=LfAxkMOvEgk&list=PL35sMcDwCf0iXK_K4H_m_V-8HbmI8M
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTExNTY4NV19
+eyJoaXN0b3J5IjpbLTk3NDczNTgxNCwxMDYxMTE1Njg1XX0=
 -->
