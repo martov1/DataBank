@@ -189,6 +189,7 @@ EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta e
 Las flutes tienen la funcion de 
 * Tener el **filo** que va a hacer el corte
 * Son el medio de evacuacuiion de **viruta**
+* **strong text**
 
 A grandes razgos
 
@@ -396,11 +397,11 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODA5MzA4NywtMTc1MDM4NjMwOCw2OT
-c2MDA2MjEsLTY2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0
-OTk1NSwzMDQwODc2NTAsMTExNTQzOTUzMywxMzM5MTc4OTEzLD
-E1MjYyMDIyNzQsOTM4Nzg2MDM2LC0xNTMyNDcyMzY3LC00Mjc0
-OTY5MzQsLTEzOTMwNjY2MjgsODIzOTAxNjE5LC0yMTAxNzUwMD
-g2LC03MzI0MzA3NTMsLTEyMjQzODMyNzMsNzg2MzYxOTY0LC0x
-ODA3OTkyMDUyXX0=
+eyJoaXN0b3J5IjpbLTQ3ODgzMjk1NywtODU4MDkzMDg3LC0xNz
+UwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0LC0xNjk3ODk0
+NDk0LC0xNzAxMjQ5OTU1LDMwNDA4NzY1MCwxMTE1NDM5NTMzLD
+EzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLTE1MzI0
+NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MT
+ksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3
+ODYzNjE5NjRdfQ==
 -->
