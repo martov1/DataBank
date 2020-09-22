@@ -143,10 +143,6 @@ Mucho  chipload genera
 * Exceso de esfuerzo para la maquina
 * Exceso de calor, fundicion o derretimiento de la viruta
 
-Poco chipload genera
-* Perdida de filo de la herramienta
-* Vibraciones y chatter
-* Cortes mas lentos y peor productividad por  comer menos material
 
 **CRITICO:** tenemos que tener un chip load **acorde a la herramienta que tenemos**, el **fabricante de la herramienta nos dara un IPT recomendado** Podemos variar el **IPT** dentro de algo razonable (15%)
 *  **IPT muy bajo** 	
@@ -155,6 +151,8 @@ Poco chipload genera
 * **IPT muy alto** 
 	* fuerza la herramienta 
 	* podria quebrarla
+	* Mal acabado
+	* Mas calo
 
 la conclusion de esto es que **TENER UNA BAJA VELOCIDAD DE AVANCE NO HACE QUE LA HERRAMIENTA DURE MAS, TODO LO CONTRARIO!**
 
@@ -512,11 +510,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjYxNTUzNyw1NDkyNDYxMjcsLTE4Mj
-M2NjgxNDUsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwtNTE5OTU1
-Mjk1LDE3NDAwMTM2NDEsNzI0MDA0NTgzLC0zMTkwOTU1MTQsMT
-k4MTI4NjYzNywtNzk0NDY3Nzc3LC0zOTQzMTU5OTQsODA2Mzgw
-MTIzLDk2ODM5MTI1MywxMDMxNTA5MzQxLDIwMzU1NzQ1ODAsMT
-gyNTg4NDE2OCwtODU4MDkzMDg3LC0xNzUwMzg2MzA4LDY5NzYw
-MDYyMV19
+eyJoaXN0b3J5IjpbNzAyMzIxNzk5LDEyNjI2MTU1MzcsNTQ5Mj
+Q2MTI3LC0xODIzNjY4MTQ1LDEwMTgyMjA4OTcsLTIwMzI1MDQw
+MDgsLTUxOTk1NTI5NSwxNzQwMDEzNjQxLDcyNDAwNDU4MywtMz
+E5MDk1NTE0LDE5ODEyODY2MzcsLTc5NDQ2Nzc3NywtMzk0MzE1
+OTk0LDgwNjM4MDEyMyw5NjgzOTEyNTMsMTAzMTUwOTM0MSwyMD
+M1NTc0NTgwLDE4MjU4ODQxNjgsLTg1ODA5MzA4NywtMTc1MDM4
+NjMwOF19
 -->
