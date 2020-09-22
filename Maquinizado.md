@@ -154,7 +154,7 @@ la conclusion de esto es que **TENER UNA BAJA VELOCIDAD DE AVANCE NO HACE QUE LA
 
 distancia recorrida por los filos de la herramienta sobre el material en un minuto
 
-**Cada herramienta de cada fabricante tiene un SFM recomendado para cada material**
+**Cada herramienta de cada fabricante tiene un $SFM$ recomendado para cada material**
 
 Ej:
 * La herramienta tiene un diametro de $2$
@@ -521,7 +521,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTEyOTAxOSwtMTA4MDkyMTI4MSwxMj
+eyJoaXN0b3J5IjpbLTk1NTQ2MzUzNywtMTA4MDkyMTI4MSwxMj
 YyNjE1NTM3LDU0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4MjIw
 ODk3LC0yMDMyNTA0MDA4LC01MTk5NTUyOTUsMTc0MDAxMzY0MS
 w3MjQwMDQ1ODMsLTMxOTA5NTUxNCwxOTgxMjg2NjM3LC03OTQ0
