@@ -184,6 +184,7 @@ EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta e
 
 ### Helicoidalidad de Flutes
 
+#### Helicoidales normales
 La forma de espiral de los flutes sirve para
 * Evacuar la viruta
 * Tener los filos
@@ -197,13 +198,13 @@ Existen **flutes sin forma helicoidal** pero son muy poco comunes
 
 ![](https://i.imgur.com/Zyz6pbo.png)
 
-Diferentes angulos de flutes, a **mayor cantidad de flutes** se interpreta que el **material a cortar sera mas duro** entonces el **angulo de la helicoidal es mas pronunciado** para **transferir mas fuerza hacia abajo en vez de hacia el costado**
+Diferentes angulos de flutes, a **mayor cantidad de flutes** se interpreta que el **material a cortar sera mas duro** entonces el **angulo de la helicoidal es mas pronunciado** para **transferir mas fuerza hacia abajo en vez de hacia el costado** y **EVITAR QUE SE PARTA**
 
 ![](https://i.imgur.com/jkDTF0P.png)
 
 Hay endmills que se diseñan para materiales laminados, que **evitan deslaminar el material** haciando un **sanguchito de fuerzas** con **helicoidales opuestas**, entonces **parte del material empuja para arriba y parte empuja para abajo**
 
-
+![](https://i.imgur.com/bIcPqhX.png)
 ### **Cantidad de flutes**
 
 [fuente](https://www.youtube.com/watch?v=Pm1N3ApOGlw)
@@ -415,11 +416,11 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwNzI4MzM2LDk2ODM5MTI1MywxMDMxNT
-A5MzQxLDIwMzU1NzQ1ODAsMTgyNTg4NDE2OCwtODU4MDkzMDg3
-LC0xNzUwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0LC0xNj
-k3ODk0NDk0LC0xNzAxMjQ5OTU1LDMwNDA4NzY1MCwxMTE1NDM5
-NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLT
-E1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5
-MDE2MTldfQ==
+eyJoaXN0b3J5IjpbLTI4MDQwMDQ3OCw5NjgzOTEyNTMsMTAzMT
+UwOTM0MSwyMDM1NTc0NTgwLDE4MjU4ODQxNjgsLTg1ODA5MzA4
+NywtMTc1MDM4NjMwOCw2OTc2MDA2MjEsLTY2ODcwOTM2NCwtMT
+Y5Nzg5NDQ5NCwtMTcwMTI0OTk1NSwzMDQwODc2NTAsMTExNTQz
+OTUzMywxMzM5MTc4OTEzLDE1MjYyMDIyNzQsOTM4Nzg2MDM2LC
+0xNTMyNDcyMzY3LC00Mjc0OTY5MzQsLTEzOTMwNjY2MjgsODIz
+OTAxNjE5XX0=
 -->
