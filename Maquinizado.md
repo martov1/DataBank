@@ -206,7 +206,7 @@ En terminos generales usamos
 * **1 - 2 flutes**
 	* Plastico
 	* Madera
-	* Metales blandos
+	* Metales blandos (aluminio)
 * **3 - 4 flutes**
 	* Detalles
 	* Metales duros
@@ -394,11 +394,11 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNTI3NzgwLC0xNzUwMzg2MzA4LDY5Nz
-YwMDYyMSwtNjY4NzA5MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5
-OTU1LDMwNDA4NzY1MCwxMTE1NDM5NTMzLDEzMzkxNzg5MTMsMT
-UyNjIwMjI3NCw5Mzg3ODYwMzYsLTE1MzI0NzIzNjcsLTQyNzQ5
-NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MTksLTIxMDE3NTAwOD
-YsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3ODYzNjE5NjQsLTE4
-MDc5OTIwNTJdfQ==
+eyJoaXN0b3J5IjpbMTU2OTMxMjM4NywtMTc1MDM4NjMwOCw2OT
+c2MDA2MjEsLTY2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0
+OTk1NSwzMDQwODc2NTAsMTExNTQzOTUzMywxMzM5MTc4OTEzLD
+E1MjYyMDIyNzQsOTM4Nzg2MDM2LC0xNTMyNDcyMzY3LC00Mjc0
+OTY5MzQsLTEzOTMwNjY2MjgsODIzOTAxNjE5LC0yMTAxNzUwMD
+g2LC03MzI0MzA3NTMsLTEyMjQzODMyNzMsNzg2MzYxOTY0LC0x
+ODA3OTkyMDUyXX0=
 -->
