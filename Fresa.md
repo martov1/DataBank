@@ -150,13 +150,12 @@ En una fresa debemos colocar una velocidad de giro y de avance tales que no romp
 para eso tenemos que **ver las especificaciones del fabricante para la herramienta que tenemos segun el material que tenemos**
 
 El fabricante nos dara
-* **IPT  o chip load** Inches per tooth, pulgadas de material a morder por un diente. es decir, el **tamaño de una viruta por cada diente**
-* **SFM** Surfice foot per min. Superficie de la herramienta por minuto
+* **IPT** 
+* **SFM**
 
-**Criterios:**
-* Podemos variar el **IPT** dentro de algo razonable (15%)
-	*  **IPT muy bajo** hace que el cortador resbale y genere friccion
-	* **IPT muy alto** fuerza la herramienta y podria quebrarla
+A partir de eso nosotros debemos determinar **Feed y RPM**
+
+$\text{chip load}=\frac{feed}{(RPM)}$
 
 ### Chatter / Vibraciones
 
@@ -496,11 +495,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4NDY4MzQyLDU0OTI0NjEyNywtMTgyMz
-Y2ODE0NSwxMDE4MjIwODk3LC0yMDMyNTA0MDA4LC01MTk5NTUy
-OTUsMTc0MDAxMzY0MSw3MjQwMDQ1ODMsLTMxOTA5NTUxNCwxOT
-gxMjg2NjM3LC03OTQ0Njc3NzcsLTM5NDMxNTk5NCw4MDYzODAx
-MjMsOTY4MzkxMjUzLDEwMzE1MDkzNDEsMjAzNTU3NDU4MCwxOD
-I1ODg0MTY4LC04NTgwOTMwODcsLTE3NTAzODYzMDgsNjk3NjAw
-NjIxXX0=
+eyJoaXN0b3J5IjpbLTc4MTU0Nzk2Niw1NDkyNDYxMjcsLTE4Mj
+M2NjgxNDUsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwtNTE5OTU1
+Mjk1LDE3NDAwMTM2NDEsNzI0MDA0NTgzLC0zMTkwOTU1MTQsMT
+k4MTI4NjYzNywtNzk0NDY3Nzc3LC0zOTQzMTU5OTQsODA2Mzgw
+MTIzLDk2ODM5MTI1MywxMDMxNTA5MzQxLDIwMzU1NzQ1ODAsMT
+gyNTg4NDE2OCwtODU4MDkzMDg3LC0xNzUwMzg2MzA4LDY5NzYw
+MDYyMV19
 -->
