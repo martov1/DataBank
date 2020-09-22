@@ -197,6 +197,11 @@ Existen **flutes sin forma helicoidal** pero son muy poco comunes
 
 ![](https://i.imgur.com/Zyz6pbo.png)
 
+Diferentes angulos de flutes, a **mayor cantidad de flutes** se interpreta que el **material a cortar sera mas duro** entonces el **angulo de la helicoidal es mas pronunciado** para **transferir mas fuerza hacia abajo en vez de hacia el costado**
+
+
+
+
 ### **Cantidad de flutes**
 
 [fuente](https://www.youtube.com/watch?v=Pm1N3ApOGlw)
@@ -408,11 +413,11 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1MDIyOTY1LDE4MjU4ODQxNjgsLTg1OD
-A5MzA4NywtMTc1MDM4NjMwOCw2OTc2MDA2MjEsLTY2ODcwOTM2
-NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0OTk1NSwzMDQwODc2NTAsMT
-ExNTQzOTUzMywxMzM5MTc4OTEzLDE1MjYyMDIyNzQsOTM4Nzg2
-MDM2LC0xNTMyNDcyMzY3LC00Mjc0OTY5MzQsLTEzOTMwNjY2Mj
-gsODIzOTAxNjE5LC0yMTAxNzUwMDg2LC03MzI0MzA3NTMsLTEy
-MjQzODMyNzNdfQ==
+eyJoaXN0b3J5IjpbMjAzNTU3NDU4MCwxODI1ODg0MTY4LC04NT
+gwOTMwODcsLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Njg3MDkz
+NjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTUsMzA0MDg3NjUwLD
+ExMTU0Mzk1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4
+NjAzNiwtMTUzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2Nj
+I4LDgyMzkwMTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0x
+MjI0MzgzMjczXX0=
 -->
