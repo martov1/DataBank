@@ -120,11 +120,9 @@ https://www.youtube.com/watch?v=galm5_6SUcM
 **IPT  o chip load:** Inches per tooth, pulgadas de material a morder por un diente. es decir, el **tamaño de una viruta por cada diente**
 
 
-
-
-* Podemos variar el **IPT** dentro de algo razonable (15%)
-	*  **IPT muy bajo** hace que el cortador resbale y genere friccion
-	* **IPT muy alto** fuerza la herramienta y podria quebrarla
+**CRITICO:** tenemos que tener un chip load **acorde a la herramienta que tenemos**, Podemos variar el **IPT** dentro de algo razonable (15%)
+*  **IPT muy bajo** hace que el cortador resbale y genere friccion
+* **IPT muy alto** fuerza la herramienta y podria quebrarla
 
 
 
@@ -482,7 +480,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2OTU0MDEzLC0yMDMyNTA0MDA4LC01MT
+eyJoaXN0b3J5IjpbMTc5NzY4Mjg3LC0yMDMyNTA0MDA4LC01MT
 k5NTUyOTUsMTc0MDAxMzY0MSw3MjQwMDQ1ODMsLTMxOTA5NTUx
 NCwxOTgxMjg2NjM3LC03OTQ0Njc3NzcsLTM5NDMxNTk5NCw4MD
 YzODAxMjMsOTY4MzkxMjUzLDEwMzE1MDkzNDEsMjAzNTU3NDU4
