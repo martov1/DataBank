@@ -199,6 +199,7 @@ A grandes razgos
 		* En materiales blandos esto implica mas friccion entre chips, eso puede **derretir plastico** o **fundir aluminio** en lugar de cortarlo
 * **Menos flutes** 
 	*  Mejor chip clearing
+		* Bue
 	*  Peor terminado
 
 En terminos generales usamos
@@ -206,7 +207,7 @@ En terminos generales usamos
 * **1 - 2 flutes**
 	* Plastico
 	* Madera
-	* Metales blandos
+	* Metales blandos (aluminio)
 * **3 - 4 flutes**
 	* Detalles
 	* Metales duros
@@ -394,7 +395,7 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNTI3NzgwLC0xNzUwMzg2MzA4LDY5Nz
-YwMDYyMSwtNjY4NzA5MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5
-OTU1XX0=
+eyJoaXN0b3J5IjpbLTExNzA5NTE5MTksLTE3NTAzODYzMDgsNj
+k3NjAwNjIxLC02Njg3MDkzNjQsLTE2OTc4OTQ0OTQsLTE3MDEy
+NDk5NTVdfQ==
 -->
