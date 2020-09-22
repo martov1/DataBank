@@ -1,3 +1,8 @@
+**FALTARIA HABLAR DE**
+* Endmills conicos / taped
+	* Genera bordes en un angulo
+* Fishtail endmills
+
 
 **Me quede en este ultimo de herramentas**
 https://www.youtube.com/watch?v=Wks3Zf0Khec&t=59s
@@ -404,14 +409,6 @@ Es un **center-cutting endmill**, se puede apreciar como dos de los flutes forma
 
 Las herramientas pueden estar recubiertas de diferentes materiales para extender su vida util y su filo
 
-.
-**Rake angles**
-El rake angle puede ser
-
-* Positive
-* Negative 
-* Neutral
-.
 
 
 **Relief angles**
@@ -421,24 +418,18 @@ El rake angle puede ser
 .
 
 
-* Endmills Rectos
-	* Genera bordes perfectamente rectos
-* Endmills conicos / taped
-	* Genera bordes en un angulo
-* Fishtail endmills
-* Ball-nose
-	* Se usan mucho para hacer moldes 
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE0MjE0MTMsLTQ0NjMxMzIwMCw5Nj
-gzOTEyNTMsMTAzMTUwOTM0MSwyMDM1NTc0NTgwLDE4MjU4ODQx
-NjgsLTg1ODA5MzA4NywtMTc1MDM4NjMwOCw2OTc2MDA2MjEsLT
-Y2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0OTk1NSwzMDQw
-ODc2NTAsMTExNTQzOTUzMywxMzM5MTc4OTEzLDE1MjYyMDIyNz
-QsOTM4Nzg2MDM2LC0xNTMyNDcyMzY3LC00Mjc0OTY5MzQsLTEz
-OTMwNjY2MjhdfQ==
+eyJoaXN0b3J5IjpbODA2MzgwMTIzLC00NDYzMTMyMDAsOTY4Mz
+kxMjUzLDEwMzE1MDkzNDEsMjAzNTU3NDU4MCwxODI1ODg0MTY4
+LC04NTgwOTMwODcsLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Nj
+g3MDkzNjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTUsMzA0MDg3
+NjUwLDExMTU0Mzk1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LD
+kzODc4NjAzNiwtMTUzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkz
+MDY2NjI4XX0=
 -->
