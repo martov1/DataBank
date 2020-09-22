@@ -416,7 +416,11 @@ Es un **center-cutting endmill**, se puede apreciar como dos de los flutes forma
 
 [Fuente](https://www.youtube.com/watch?v=nY6o04ODJ3U)
 
-Las herramientas pueden estar recubiertas de diferentes materiales para extender su vida util y su filo
+Las herramientas pueden estar recubiertas de diferentes materiales para extender su vida util y su filo.
+
+* **Sin recubrimiento**
+	* Permite afilar la herramienta, si afilas una herramienta con recubrimiento entonces le sacas el recubrimiento!
+* 
 
 
 
@@ -436,11 +440,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDAxMzY0MSw3MjQwMDQ1ODMsLTMxOT
-A5NTUxNCwxOTgxMjg2NjM3LC03OTQ0Njc3NzcsLTM5NDMxNTk5
-NCw4MDYzODAxMjMsOTY4MzkxMjUzLDEwMzE1MDkzNDEsMjAzNT
-U3NDU4MCwxODI1ODg0MTY4LC04NTgwOTMwODcsLTE3NTAzODYz
-MDgsNjk3NjAwNjIxLC02Njg3MDkzNjQsLTE2OTc4OTQ0OTQsLT
-E3MDEyNDk5NTUsMzA0MDg3NjUwLDExMTU0Mzk1MzMsMTMzOTE3
-ODkxM119
+eyJoaXN0b3J5IjpbOTA4NDk1MDYyLDE3NDAwMTM2NDEsNzI0MD
+A0NTgzLC0zMTkwOTU1MTQsMTk4MTI4NjYzNywtNzk0NDY3Nzc3
+LC0zOTQzMTU5OTQsODA2MzgwMTIzLDk2ODM5MTI1MywxMDMxNT
+A5MzQxLDIwMzU1NzQ1ODAsMTgyNTg4NDE2OCwtODU4MDkzMDg3
+LC0xNzUwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0LC0xNj
+k3ODk0NDk0LC0xNzAxMjQ5OTU1LDMwNDA4NzY1MCwxMTE1NDM5
+NTMzXX0=
 -->
