@@ -201,7 +201,7 @@ Diferentes angulos de flutes, a **mayor cantidad de flutes** se interpreta que e
 
 ![](https://i.imgur.com/jkDTF0P.png)
 
-
+Hay endmills que se diseñan para materiales laminados, que **evitan deslaminar el material** haciando un
 ### **Cantidad de flutes**
 
 [fuente](https://www.youtube.com/watch?v=Pm1N3ApOGlw)
@@ -413,8 +413,8 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4MzkxMjUzLDEwMzE1MDkzNDEsMjAzNT
-U3NDU4MCwxODI1ODg0MTY4LC04NTgwOTMwODcsLTE3NTAzODYz
-MDgsNjk3NjAwNjIxLC02Njg3MDkzNjQsLTE2OTc4OTQ0OTQsLT
-E3MDEyNDk5NTVdfQ==
+eyJoaXN0b3J5IjpbLTc0MDAzMzgxNiw5NjgzOTEyNTMsMTAzMT
+UwOTM0MSwyMDM1NTc0NTgwLDE4MjU4ODQxNjgsLTg1ODA5MzA4
+NywtMTc1MDM4NjMwOCw2OTc2MDA2MjEsLTY2ODcwOTM2NCwtMT
+Y5Nzg5NDQ5NCwtMTcwMTI0OTk1NV19
 -->
