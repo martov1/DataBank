@@ -152,7 +152,9 @@ la conclusion de esto es que **TENER UNA BAJA VELOCIDAD DE AVANCE NO HACE QUE LA
 
 ### Surfice feet/min - SFM
 
-distancia recorrida por la herramienta en un minuto
+distancia recorrida por los filos de la herramienta sobre el material en un minuto
+
+**Cada herramienta de cada fabricante tiene un SFM recomendado para cada material**
 
 Ej:
 * La herramienta tiene un diametro de $2$
@@ -519,11 +521,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA5MjEyODEsMTI2MjYxNTUzNyw1ND
-kyNDYxMjcsLTE4MjM2NjgxNDUsMTAxODIyMDg5NywtMjAzMjUw
-NDAwOCwtNTE5OTU1Mjk1LDE3NDAwMTM2NDEsNzI0MDA0NTgzLC
-0zMTkwOTU1MTQsMTk4MTI4NjYzNywtNzk0NDY3Nzc3LC0zOTQz
-MTU5OTQsODA2MzgwMTIzLDk2ODM5MTI1MywxMDMxNTA5MzQxLD
-IwMzU1NzQ1ODAsMTgyNTg4NDE2OCwtODU4MDkzMDg3LC0xNzUw
-Mzg2MzA4XX0=
+eyJoaXN0b3J5IjpbMTAzNTEyOTAxOSwtMTA4MDkyMTI4MSwxMj
+YyNjE1NTM3LDU0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4MjIw
+ODk3LC0yMDMyNTA0MDA4LC01MTk5NTUyOTUsMTc0MDAxMzY0MS
+w3MjQwMDQ1ODMsLTMxOTA5NTUxNCwxOTgxMjg2NjM3LC03OTQ0
+Njc3NzcsLTM5NDMxNTk5NCw4MDYzODAxMjMsOTY4MzkxMjUzLD
+EwMzE1MDkzNDEsMjAzNTU3NDU4MCwxODI1ODg0MTY4LC04NTgw
+OTMwODddfQ==
 -->
