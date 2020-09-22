@@ -4,9 +4,6 @@
 * Fishtail endmills
 
 
-**Me quede en este ultimo de herramentas**
-https://www.youtube.com/watch?v=Wks3Zf0Khec&t=59s
-
 **despues ver recubrimiento de herramientas**
 https://www.youtube.com/watch?v=nY6o04ODJ3U
 
@@ -417,6 +414,8 @@ Es un **center-cutting endmill**, se puede apreciar como dos de los flutes forma
 
 ## Coatings de la herramienta
 
+[Fuente](https://www.youtube.com/watch?v=nY6o04ODJ3U)
+
 Las herramientas pueden estar recubiertas de diferentes materiales para extender su vida util y su filo
 
 
@@ -437,11 +436,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0NjA5NDg0LDcyNDAwNDU4MywtMzE5MD
-k1NTE0LDE5ODEyODY2MzcsLTc5NDQ2Nzc3NywtMzk0MzE1OTk0
-LDgwNjM4MDEyMyw5NjgzOTEyNTMsMTAzMTUwOTM0MSwyMDM1NT
-c0NTgwLDE4MjU4ODQxNjgsLTg1ODA5MzA4NywtMTc1MDM4NjMw
-OCw2OTc2MDA2MjEsLTY2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMT
-cwMTI0OTk1NSwzMDQwODc2NTAsMTExNTQzOTUzMywxMzM5MTc4
-OTEzXX0=
+eyJoaXN0b3J5IjpbMTc0MDAxMzY0MSw3MjQwMDQ1ODMsLTMxOT
+A5NTUxNCwxOTgxMjg2NjM3LC03OTQ0Njc3NzcsLTM5NDMxNTk5
+NCw4MDYzODAxMjMsOTY4MzkxMjUzLDEwMzE1MDkzNDEsMjAzNT
+U3NDU4MCwxODI1ODg0MTY4LC04NTgwOTMwODcsLTE3NTAzODYz
+MDgsNjk3NjAwNjIxLC02Njg3MDkzNjQsLTE2OTc4OTQ0OTQsLT
+E3MDEyNDk5NTUsMzA0MDg3NjUwLDExMTU0Mzk1MzMsMTMzOTE3
+ODkxM119
 -->
