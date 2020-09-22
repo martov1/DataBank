@@ -286,7 +286,7 @@ De la misma manera, los filos del largo tambien tienen rake angles que pueden se
 	 * toma mas fuerza
 
 
-### center/non-center cutting
+### Center/non-center cutting
 [fuente](https://www.youtube.com/watch?v=eH50t7kUx6c)
 
 **Center cutting endmill**
@@ -434,8 +434,8 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4MzcyNDc1LDk2ODM5MTI1MywxMDMxNT
-A5MzQxLDIwMzU1NzQ1ODAsMTgyNTg4NDE2OCwtODU4MDkzMDg3
-LC0xNzUwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0LC0xNj
-k3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
+eyJoaXN0b3J5IjpbLTE5MzE0MjE0MTMsNzI4MzcyNDc1LDk2OD
+M5MTI1MywxMDMxNTA5MzQxLDIwMzU1NzQ1ODAsMTgyNTg4NDE2
+OCwtODU4MDkzMDg3LC0xNzUwMzg2MzA4LDY5NzYwMDYyMSwtNj
+Y4NzA5MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
 -->
