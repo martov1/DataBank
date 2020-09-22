@@ -189,11 +189,13 @@ La forma de espiral de los flutes sirve para
 * Tener los filos
 * Mantener una fuerza constante sobre la pieza (mientras un filo esta cortando, otro empieza a cortar, entonces **nunca "golpetean"** como sucederia si fueran filos rectos)
 * Dividir la **fuerza de corte** en dos componentes, uno paralelo y uno perpenndicular. permitiendo mayor resistencia que si los filos fueran rectos
-* 
+	* Cuantos **mas flutes**, se entiende que el material a cortar sera mas duro y tendran mayor angulo para transferir mas fuerza hacia abajo.
 
 ![](https://i.imgur.com/Gc02ZyU.png)
 
-Existen **flutes sin forma helicoidal** pero so
+Existen **flutes sin forma helicoidal** pero son muy poco comunes
+
+![](https://i.imgur.com/Zyz6pbo.png)
 
 ### **Cantidad de flutes**
 
@@ -406,7 +408,7 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTExNjgyNDYsMTgyNTg4NDE2OCwtOD
-U4MDkzMDg3LC0xNzUwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5
-MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
+eyJoaXN0b3J5IjpbODY1MDIyOTY1LDE4MjU4ODQxNjgsLTg1OD
+A5MzA4NywtMTc1MDM4NjMwOCw2OTc2MDA2MjEsLTY2ODcwOTM2
+NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0OTk1NV19
 -->
