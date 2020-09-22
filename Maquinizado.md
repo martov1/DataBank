@@ -425,7 +425,12 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 	* Muy comun - Uso general
 	* Heat resistant and hard
 * **Titanium carbo nitride** $TiCN$
-* **Chromium nitride**
+	* Color plateado
+	* Mas duro que $TiN$ y genera menos friccion
+	* Bueno para cortar aluminio
+* **Chromium nitride** $CrN$
+	* Color plateado intenso
+	* Similar a $TiCN$
 * **aluminum titanium nitride**
 * **titanium aluminum carbonitride**
 * **Iron Oxide**
@@ -448,11 +453,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NDExNjM0LDE3NDAwMTM2NDEsNzI0MD
-A0NTgzLC0zMTkwOTU1MTQsMTk4MTI4NjYzNywtNzk0NDY3Nzc3
-LC0zOTQzMTU5OTQsODA2MzgwMTIzLDk2ODM5MTI1MywxMDMxNT
-A5MzQxLDIwMzU1NzQ1ODAsMTgyNTg4NDE2OCwtODU4MDkzMDg3
-LC0xNzUwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0LC0xNj
-k3ODk0NDk0LC0xNzAxMjQ5OTU1LDMwNDA4NzY1MCwxMTE1NDM5
-NTMzXX0=
+eyJoaXN0b3J5IjpbLTEwNDg0NDIyNjIsMTc0MDAxMzY0MSw3Mj
+QwMDQ1ODMsLTMxOTA5NTUxNCwxOTgxMjg2NjM3LC03OTQ0Njc3
+NzcsLTM5NDMxNTk5NCw4MDYzODAxMjMsOTY4MzkxMjUzLDEwMz
+E1MDkzNDEsMjAzNTU3NDU4MCwxODI1ODg0MTY4LC04NTgwOTMw
+ODcsLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Njg3MDkzNjQsLT
+E2OTc4OTQ0OTQsLTE3MDEyNDk5NTUsMzA0MDg3NjUwLDExMTU0
+Mzk1MzNdfQ==
 -->
