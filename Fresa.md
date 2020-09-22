@@ -16,6 +16,16 @@ https://www.youtube.com/watch?v=_HGGkCaYMVA&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bd
 
 **Fortalecer con**
 https://www.youtube.com/watch?v=15p1Kerb4N8&list=PLNvVbYXgJCEU2yqoOpEHB0mbDEttFgH7j
+
+**mas detalles**
+https://www.youtube.com/watch?v=p4JpLKNPs9U&list=PLups-28TmUhLod3H0vhIDHl_qXPfWikfn
+
+
+**Detalles copados**
+
+https://www.youtube.com/watch?v=bKksH9UAbO8&list=PL6015CA604E06A0C6
+
+
 # Introduccion
 ## Seguridad
 
@@ -486,11 +496,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5MjQ2MTI3LC0xODIzNjY4MTQ1LDEwMT
-gyMjA4OTcsLTIwMzI1MDQwMDgsLTUxOTk1NTI5NSwxNzQwMDEz
-NjQxLDcyNDAwNDU4MywtMzE5MDk1NTE0LDE5ODEyODY2MzcsLT
-c5NDQ2Nzc3NywtMzk0MzE1OTk0LDgwNjM4MDEyMyw5NjgzOTEy
-NTMsMTAzMTUwOTM0MSwyMDM1NTc0NTgwLDE4MjU4ODQxNjgsLT
-g1ODA5MzA4NywtMTc1MDM4NjMwOCw2OTc2MDA2MjEsLTY2ODcw
-OTM2NF19
+eyJoaXN0b3J5IjpbNDc4NDY4MzQyLDU0OTI0NjEyNywtMTgyMz
+Y2ODE0NSwxMDE4MjIwODk3LC0yMDMyNTA0MDA4LC01MTk5NTUy
+OTUsMTc0MDAxMzY0MSw3MjQwMDQ1ODMsLTMxOTA5NTUxNCwxOT
+gxMjg2NjM3LC03OTQ0Njc3NzcsLTM5NDMxNTk5NCw4MDYzODAx
+MjMsOTY4MzkxMjUzLDEwMzE1MDkzNDEsMjAzNTU3NDU4MCwxOD
+I1ODg0MTY4LC04NTgwOTMwODcsLTE3NTAzODYzMDgsNjk3NjAw
+NjIxXX0=
 -->
