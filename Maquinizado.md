@@ -182,7 +182,7 @@ EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta e
 * Cuanto mas ancho **mas precio**
 * Cuanto mas ancho **mas rapido come material**
 
-### Flutes
+### Helicoidalidad de Flutes
 
 La forma de espiral de los flutes sirve para
 * Evacuar la viruta
@@ -199,7 +199,7 @@ Existen **flutes sin forma helicoidal** pero son muy poco comunes
 
 Diferentes angulos de flutes, a **mayor cantidad de flutes** se interpreta que el **material a cortar sera mas duro** entonces el **angulo de la helicoidal es mas pronunciado** para **transferir mas fuerza hacia abajo en vez de hacia el costado**
 
-
+![](https://i.imgur.com/jkDTF0P.png)
 
 
 ### **Cantidad de flutes**
@@ -413,11 +413,11 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTU3NDU4MCwxODI1ODg0MTY4LC04NT
-gwOTMwODcsLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Njg3MDkz
-NjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTUsMzA0MDg3NjUwLD
-ExMTU0Mzk1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4
-NjAzNiwtMTUzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2Nj
-I4LDgyMzkwMTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0x
-MjI0MzgzMjczXX0=
+eyJoaXN0b3J5IjpbMTAzMTUwOTM0MSwyMDM1NTc0NTgwLDE4Mj
+U4ODQxNjgsLTg1ODA5MzA4NywtMTc1MDM4NjMwOCw2OTc2MDA2
+MjEsLTY2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0OTk1NS
+wzMDQwODc2NTAsMTExNTQzOTUzMywxMzM5MTc4OTEzLDE1MjYy
+MDIyNzQsOTM4Nzg2MDM2LC0xNTMyNDcyMzY3LC00Mjc0OTY5Mz
+QsLTEzOTMwNjY2MjgsODIzOTAxNjE5LC0yMTAxNzUwMDg2LC03
+MzI0MzA3NTNdfQ==
 -->
