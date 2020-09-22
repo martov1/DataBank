@@ -20,7 +20,8 @@ https://www.youtube.com/watch?v=ip2jm_6aUyk
 **Seguir viendo**
 https://www.youtube.com/watch?v=_HGGkCaYMVA&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=3
 
-
+**Fortalecer con**
+https://www.youtube.com/watch?v=15p1Kerb4N8&list=PLNvVbYXgJCEU2yqoOpEHB0mbDEttFgH7j
 # Introduccion
 ## Seguridad
 
@@ -423,11 +424,11 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 
 ## Face mills
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTA5NTUxNCwxOTgxMjg2NjM3LC03OT
-Q0Njc3NzcsLTM5NDMxNTk5NCw4MDYzODAxMjMsOTY4MzkxMjUz
-LDEwMzE1MDkzNDEsMjAzNTU3NDU4MCwxODI1ODg0MTY4LC04NT
-gwOTMwODcsLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Njg3MDkz
-NjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTUsMzA0MDg3NjUwLD
-ExMTU0Mzk1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4
-NjAzNl19
+eyJoaXN0b3J5IjpbNzI0MDA0NTgzLC0zMTkwOTU1MTQsMTk4MT
+I4NjYzNywtNzk0NDY3Nzc3LC0zOTQzMTU5OTQsODA2MzgwMTIz
+LDk2ODM5MTI1MywxMDMxNTA5MzQxLDIwMzU1NzQ1ODAsMTgyNT
+g4NDE2OCwtODU4MDkzMDg3LC0xNzUwMzg2MzA4LDY5NzYwMDYy
+MSwtNjY4NzA5MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5OTU1LD
+MwNDA4NzY1MCwxMTE1NDM5NTMzLDEzMzkxNzg5MTMsMTUyNjIw
+MjI3NF19
 -->
