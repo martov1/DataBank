@@ -182,6 +182,14 @@ EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta e
 * Cuanto mas ancho **mas precio**
 * Cuanto mas ancho **mas rapido come material**
 
+### Flutes
+
+La forma de espiral de los flutes sirve para
+* Evacuar la viruta
+* Dividir la **fuerza de corte** e
+
+![](https://i.imgur.com/Gc02ZyU.png)
+
 ### **Cantidad de flutes**
 
 [fuente](https://www.youtube.com/watch?v=Pm1N3ApOGlw)
@@ -399,11 +407,11 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTg4NDE2OCwtODU4MDkzMDg3LC0xNz
-UwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0LC0xNjk3ODk0
-NDk0LC0xNzAxMjQ5OTU1LDMwNDA4NzY1MCwxMTE1NDM5NTMzLD
-EzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLTE1MzI0
-NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOCw4MjM5MDE2MT
-ksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIyNDM4MzI3Myw3
-ODYzNjE5NjRdfQ==
+eyJoaXN0b3J5IjpbMTYyMDk4ODcyMiwxODI1ODg0MTY4LC04NT
+gwOTMwODcsLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Njg3MDkz
+NjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTUsMzA0MDg3NjUwLD
+ExMTU0Mzk1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4
+NjAzNiwtMTUzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2Nj
+I4LDgyMzkwMTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0x
+MjI0MzgzMjczXX0=
 -->
