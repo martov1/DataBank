@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=nY6o04ODJ3U
 **Ver rapidamente este de seleccion de herramientas**
 https://www.youtube.com/watch?v=Bupr_IR-_Pk&list=PLzc0Bm2I_0pn1lfdvG2xIG_z4-YiaTq1H
 
-
+**Ver es**
 **viendo**
 https://www.youtube.com/watch?v=_HGGkCaYMVA&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=3
 
@@ -286,7 +286,7 @@ De la misma manera, los filos del largo tambien tienen rake angles que pueden se
 	 * toma mas fuerza
 
 
-### center/non-center cutting
+### Center/non-center cutting
 [fuente](https://www.youtube.com/watch?v=eH50t7kUx6c)
 
 **Center cutting endmill**
@@ -434,11 +434,11 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjMxMzIwMCw5NjgzOTEyNTMsMTAzMT
-UwOTM0MSwyMDM1NTc0NTgwLDE4MjU4ODQxNjgsLTg1ODA5MzA4
-NywtMTc1MDM4NjMwOCw2OTc2MDA2MjEsLTY2ODcwOTM2NCwtMT
-Y5Nzg5NDQ5NCwtMTcwMTI0OTk1NSwzMDQwODc2NTAsMTExNTQz
-OTUzMywxMzM5MTc4OTEzLDE1MjYyMDIyNzQsOTM4Nzg2MDM2LC
-0xNTMyNDcyMzY3LC00Mjc0OTY5MzQsLTEzOTMwNjY2MjgsODIz
-OTAxNjE5XX0=
+eyJoaXN0b3J5IjpbLTE5MzE0MjE0MTMsLTQ0NjMxMzIwMCw5Nj
+gzOTEyNTMsMTAzMTUwOTM0MSwyMDM1NTc0NTgwLDE4MjU4ODQx
+NjgsLTg1ODA5MzA4NywtMTc1MDM4NjMwOCw2OTc2MDA2MjEsLT
+Y2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0OTk1NSwzMDQw
+ODc2NTAsMTExNTQzOTUzMywxMzM5MTc4OTEzLDE1MjYyMDIyNz
+QsOTM4Nzg2MDM2LC0xNTMyNDcyMzY3LC00Mjc0OTY5MzQsLTEz
+OTMwNjY2MjhdfQ==
 -->
