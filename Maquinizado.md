@@ -156,6 +156,8 @@ distancia recorrida por los filos de la herramienta sobre el material en un minu
 
 **Cada herramienta de cada fabricante tiene un $SFM$ recomendado para cada material**
 
+A diferencia de **chip load**, podemos usar un **SFM** menor al recomendado sin demasiados problemas. El fabricante nos recomienda un **SFM** para maximizar nuestra productividad pero no siempre podemos lograrlo con la maquina que tenemos,
+
 Ej:
 * La herramienta tiene un diametro de $2$
 	* El perimetro es $2\pi r$
@@ -521,11 +523,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTQ2MzUzNywtMTA4MDkyMTI4MSwxMj
-YyNjE1NTM3LDU0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4MjIw
-ODk3LC0yMDMyNTA0MDA4LC01MTk5NTUyOTUsMTc0MDAxMzY0MS
-w3MjQwMDQ1ODMsLTMxOTA5NTUxNCwxOTgxMjg2NjM3LC03OTQ0
-Njc3NzcsLTM5NDMxNTk5NCw4MDYzODAxMjMsOTY4MzkxMjUzLD
-EwMzE1MDkzNDEsMjAzNTU3NDU4MCwxODI1ODg0MTY4LC04NTgw
-OTMwODddfQ==
+eyJoaXN0b3J5IjpbMTgxNjU2Njc2OCwtOTU1NDYzNTM3LC0xMD
+gwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC0xODIzNjY4
+MTQ1LDEwMTgyMjA4OTcsLTIwMzI1MDQwMDgsLTUxOTk1NTI5NS
+wxNzQwMDEzNjQxLDcyNDAwNDU4MywtMzE5MDk1NTE0LDE5ODEy
+ODY2MzcsLTc5NDQ2Nzc3NywtMzk0MzE1OTk0LDgwNjM4MDEyMy
+w5NjgzOTEyNTMsMTAzMTUwOTM0MSwyMDM1NTc0NTgwLDE4MjU4
+ODQxNjhdfQ==
 -->
