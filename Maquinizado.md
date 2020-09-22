@@ -126,10 +126,13 @@ https://www.youtube.com/watch?v=galm5_6SUcM
 
 ### Chip load - tamaño de viruta por diente
 
-
 **IPT  o chip load:** Inches per tooth, pulgadas de material a morder por un diente. es decir, el **tamaño de una viruta por cada diente**
 
 ![](https://i.imgur.com/6lTNVRV.png)
+
+El chipload  determinara
+* El esfuerzo que tiene que hacer la maquina al cortar
+* El calor que se generara durante el corte
 
 **CRITICO:** tenemos que tener un chip load **acorde a la herramienta que tenemos**, el **fabricante de la herramienta nos dara un IPT recomendado** Podemos variar el **IPT** dentro de algo razonable (15%)
 *  **IPT muy bajo** 	
@@ -155,7 +158,7 @@ El fabricante nos dara
 
 A partir de eso nosotros debemos determinar **Feed y RPM**
 
-$\text{chip load}=\frac{feed}{RPM)}$
+$\text{chip load}=\frac{feed}{(RPM)(\text{nro de filos})}$
 
 ### Chatter / Vibraciones
 
@@ -495,7 +498,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjM1MjgwNiw1NDkyNDYxMjcsLTE4Mj
+eyJoaXN0b3J5IjpbMTM1NzY3MjMzOCw1NDkyNDYxMjcsLTE4Mj
 M2NjgxNDUsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwtNTE5OTU1
 Mjk1LDE3NDAwMTM2NDEsNzI0MDA0NTgzLC0zMTkwOTU1MTQsMT
 k4MTI4NjYzNywtNzk0NDY3Nzc3LC0zOTQzMTU5OTQsODA2Mzgw
