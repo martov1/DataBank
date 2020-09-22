@@ -187,7 +187,7 @@ EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta e
 La forma de espiral de los flutes sirve para
 * Evacuar la viruta
 * Tener los filos
-* Mantener una fuerza constante sobre la pieza (mientras un filo esta cortand
+* Mantener una fuerza constante sobre la pieza (mientras un filo esta cortando, otro empieza a cortar, entonces **nunca "golpetean"** como sucederia si fueran filos rectos)
 * Dividir la **fuerza de corte** en dos componentes, uno paralelo y uno perpenndicular. permitiendo mayor resistencia que si los filos fueran rectos
 * 
 
@@ -404,11 +404,11 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTI5NzcyNSwxODI1ODg0MTY4LC04NT
-gwOTMwODcsLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Njg3MDkz
-NjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTUsMzA0MDg3NjUwLD
-ExMTU0Mzk1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4
-NjAzNiwtMTUzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkzMDY2Nj
-I4LDgyMzkwMTYxOSwtMjEwMTc1MDA4NiwtNzMyNDMwNzUzLC0x
-MjI0MzgzMjczXX0=
+eyJoaXN0b3J5IjpbNzk4MzY4NTgsMTgyNTg4NDE2OCwtODU4MD
+kzMDg3LC0xNzUwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0
+LC0xNjk3ODk0NDk0LC0xNzAxMjQ5OTU1LDMwNDA4NzY1MCwxMT
+E1NDM5NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYw
+MzYsLTE1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMTM5MzA2NjYyOC
+w4MjM5MDE2MTksLTIxMDE3NTAwODYsLTczMjQzMDc1MywtMTIy
+NDM4MzI3M119
 -->
