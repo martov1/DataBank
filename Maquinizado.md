@@ -196,9 +196,11 @@ A grandes razgos
 	*  Mejor terminado
 	* Mas filos sigifica que podemos tener **mas velocidad de avance** y entonces **cortar mas rapido**
 	*  Peor chip clearing
+		* Si el material es duro, tenes chips mas chiquitos
 		* En materiales blandos esto implica mas friccion entre chips, eso puede **derretir plastico** o **fundir aluminio** en lugar de cortarlo
 * **Menos flutes** 
 	*  Mejor chip clearing
+		* Bueno si el chip es grande  por que el material es blando!
 	*  Peor terminado
 
 En terminos generales usamos
@@ -394,7 +396,7 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTMxMjM4NywtMTc1MDM4NjMwOCw2OT
+eyJoaXN0b3J5IjpbMTcxMzUxNzM3OSwtMTc1MDM4NjMwOCw2OT
 c2MDA2MjEsLTY2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0
 OTk1NSwzMDQwODc2NTAsMTExNTQzOTUzMywxMzM5MTc4OTEzLD
 E1MjYyMDIyNzQsOTM4Nzg2MDM2LC0xNTMyNDcyMzY3LC00Mjc0
