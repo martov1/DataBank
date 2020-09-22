@@ -160,7 +160,9 @@ Ej:
 	* $2\pi2 = 12.566mm$ por revolucion
 * La giro a $300 RPM$
 
-Entonces tengo un $SFM$ $(300)(12.566)=3769800\$
+Entonces tengo un la superficie por minuto es $(300)(12.566)=3769800\frac{mm}{min}$, pasado a pies
+
+$SFM=12368.11024\frac{feet}{min}$
 
 
 
@@ -517,11 +519,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTYxMTg1OSwxMjYyNjE1NTM3LDU0OT
-I0NjEyNywtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC0yMDMyNTA0
-MDA4LC01MTk5NTUyOTUsMTc0MDAxMzY0MSw3MjQwMDQ1ODMsLT
-MxOTA5NTUxNCwxOTgxMjg2NjM3LC03OTQ0Njc3NzcsLTM5NDMx
-NTk5NCw4MDYzODAxMjMsOTY4MzkxMjUzLDEwMzE1MDkzNDEsMj
-AzNTU3NDU4MCwxODI1ODg0MTY4LC04NTgwOTMwODcsLTE3NTAz
-ODYzMDhdfQ==
+eyJoaXN0b3J5IjpbLTEwODA5MjEyODEsMTI2MjYxNTUzNyw1ND
+kyNDYxMjcsLTE4MjM2NjgxNDUsMTAxODIyMDg5NywtMjAzMjUw
+NDAwOCwtNTE5OTU1Mjk1LDE3NDAwMTM2NDEsNzI0MDA0NTgzLC
+0zMTkwOTU1MTQsMTk4MTI4NjYzNywtNzk0NDY3Nzc3LC0zOTQz
+MTU5OTQsODA2MzgwMTIzLDk2ODM5MTI1MywxMDMxNTA5MzQxLD
+IwMzU1NzQ1ODAsMTgyNTg4NDE2OCwtODU4MDkzMDg3LC0xNzUw
+Mzg2MzA4XX0=
 -->
