@@ -79,7 +79,7 @@ Ajustar la morsa de tal manera que este paralela a la mesa, para eso usamos un i
 
 **SIEMPRE** tendremos en cuenta que la herramienta esta diseñada para girar **en una sola direccion**. **INTENTAR CORTAR CON UNA HERRAMIENTA GIRANDO EN LA DIRECCION INCORRECTA LA PARTIRA**
 
-La herramienta debe girar en la direccion de la espiral, siempre consultar el manual o las indicaciones del fabricante
+La herramienta **salvo en casos particulares** debe girar en la direccion de la espiral, siempre consultar el manual o las indicaciones del fabricante
 
 ![Top 8 Milling Tools for New CNC Machinists - Fusion 360 Blog](https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2018/05/1-rotation-direction.png)
 
@@ -413,8 +413,8 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTUwOTM0MSwyMDM1NTc0NTgwLDE4Mj
-U4ODQxNjgsLTg1ODA5MzA4NywtMTc1MDM4NjMwOCw2OTc2MDA2
-MjEsLTY2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0OTk1NV
-19
+eyJoaXN0b3J5IjpbOTY4MzkxMjUzLDEwMzE1MDkzNDEsMjAzNT
+U3NDU4MCwxODI1ODg0MTY4LC04NTgwOTMwODcsLTE3NTAzODYz
+MDgsNjk3NjAwNjIxLC02Njg3MDkzNjQsLTE2OTc4OTQ0OTQsLT
+E3MDEyNDk5NTVdfQ==
 -->
