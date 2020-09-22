@@ -424,6 +424,7 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 
 ## Face mills
 
+[fuente 1](https://www.youtube.com/watch?v=jwORPpWJ73Y&list=PLpl7LvSkK4IGUEZZ4fh5m5uv94LC73654&index=5)
 Un face mill sirve para cortar superficies de manera plana. Todas las consideraciones anteriores para los endmills siguen siendo validas.
 
 * no tienen flutes ni helicoidales
@@ -432,15 +433,15 @@ Un face mill sirve para cortar superficies de manera plana. Todas las considerac
 
 Los face mills funcionan con herramientas llamadas insertos, que se cambian y son los que hacen el corte.
 
-
+![](https://i.imgur.com/OFbrATO.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU0MzE5MDUsNzI0MDA0NTgzLC0zMT
-kwOTU1MTQsMTk4MTI4NjYzNywtNzk0NDY3Nzc3LC0zOTQzMTU5
-OTQsODA2MzgwMTIzLDk2ODM5MTI1MywxMDMxNTA5MzQxLDIwMz
-U1NzQ1ODAsMTgyNTg4NDE2OCwtODU4MDkzMDg3LC0xNzUwMzg2
-MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0LC0xNjk3ODk0NDk0LC
-0xNzAxMjQ5OTU1LDMwNDA4NzY1MCwxMTE1NDM5NTMzLDEzMzkx
-Nzg5MTNdfQ==
+eyJoaXN0b3J5IjpbMjQ0NjA5NDg0LDcyNDAwNDU4MywtMzE5MD
+k1NTE0LDE5ODEyODY2MzcsLTc5NDQ2Nzc3NywtMzk0MzE1OTk0
+LDgwNjM4MDEyMyw5NjgzOTEyNTMsMTAzMTUwOTM0MSwyMDM1NT
+c0NTgwLDE4MjU4ODQxNjgsLTg1ODA5MzA4NywtMTc1MDM4NjMw
+OCw2OTc2MDA2MjEsLTY2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMT
+cwMTI0OTk1NSwzMDQwODc2NTAsMTExNTQzOTUzMywxMzM5MTc4
+OTEzXX0=
 -->
