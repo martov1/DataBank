@@ -420,41 +420,12 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 
 
 
-**Relief angles**
-* Primary
-* Secondary
 
-.
-
-
-
-
-
-
-**Relief angles**
-* Primary
-* Secondary
-
-.
-
-
-
-
-**Relief angles**
-* Primary
-* Secondary
-
-.
-
-
-
-
-
-
+## Face mills
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTI4NjYzNywtNzk0NDY3Nzc3LC0zOT
-QzMTU5OTQsODA2MzgwMTIzLDk2ODM5MTI1MywxMDMxNTA5MzQx
-LDIwMzU1NzQ1ODAsMTgyNTg4NDE2OCwtODU4MDkzMDg3LC0xNz
-UwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0LC0xNjk3ODk0
-NDk0LC0xNzAxMjQ5OTU1XX0=
+eyJoaXN0b3J5IjpbLTMxOTA5NTUxNCwxOTgxMjg2NjM3LC03OT
+Q0Njc3NzcsLTM5NDMxNTk5NCw4MDYzODAxMjMsOTY4MzkxMjUz
+LDEwMzE1MDkzNDEsMjAzNTU3NDU4MCwxODI1ODg0MTY4LC04NT
+gwOTMwODcsLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Njg3MDkz
+NjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTVdfQ==
 -->
