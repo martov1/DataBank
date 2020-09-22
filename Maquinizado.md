@@ -14,10 +14,11 @@ https://www.youtube.com/watch?v=nY6o04ODJ3U
 https://www.youtube.com/watch?v=Bupr_IR-_Pk&list=PLzc0Bm2I_0pn1lfdvG2xIG_z4-YiaTq1H
 
 **Ver es**
-**viendo**
-https://www.youtube.com/watch?v=_HGGkCaYMVA&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=3
+**te de herramientas y speed and feed**
+https://www.youtube.com/watch?v=ip2jm_6aUyk
 
-**despues ver para lathe**
+**Seguir viendo**
+https://www.youtube.com/watch?v=_HGGkCaYMVA&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=3
 
 
 # Introduccion
@@ -291,7 +292,7 @@ De la misma manera, los filos del largo tambien tienen rake angles que pueden se
 	 * toma mas fuerza
 
 
-### Center/non-center cutting
+### enter/non-center cutting
 [fuente](https://www.youtube.com/watch?v=eH50t7kUx6c)
 
 **Center cutting endmill**
@@ -422,14 +423,23 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 
 
 
+**Relief angles**
+* Primary
+* Secondary
+
+.
+
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2MzgwMTIzLC00NDYzMTMyMDAsOTY4Mz
-kxMjUzLDEwMzE1MDkzNDEsMjAzNTU3NDU4MCwxODI1ODg0MTY4
-LC04NTgwOTMwODcsLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Nj
-g3MDkzNjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTUsMzA0MDg3
-NjUwLDExMTU0Mzk1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LD
-kzODc4NjAzNiwtMTUzMjQ3MjM2NywtNDI3NDk2OTM0LC0xMzkz
-MDY2NjI4XX0=
+eyJoaXN0b3J5IjpbLTE0MjQzNjIxMDMsODA2MzgwMTIzLDk2OD
+M5MTI1MywxMDMxNTA5MzQxLDIwMzU1NzQ1ODAsMTgyNTg4NDE2
+OCwtODU4MDkzMDg3LC0xNzUwMzg2MzA4LDY5NzYwMDYyMSwtNj
+Y4NzA5MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5OTU1LDMwNDA4
+NzY1MCwxMTE1NDM5NTMzLDEzMzkxNzg5MTMsMTUyNjIwMjI3NC
+w5Mzg3ODYwMzYsLTE1MzI0NzIzNjcsLTQyNzQ5NjkzNCwtMTM5
+MzA2NjYyOF19
 -->
