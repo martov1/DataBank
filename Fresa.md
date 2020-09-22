@@ -137,12 +137,13 @@ El chipload  determinara
 * La velocidad a la que se puede comer material
 * El  acabado del material
 
-Exceso de chipload genera
+Mucho  chipload genera
 * Mal acabado
 * Desgaste de la herramienta o rotura
 * Exceso de esfuerzo para la maquina
 
-F
+Poco chipload genera
+* Perdida de f
 
 **CRITICO:** tenemos que tener un chip load **acorde a la herramienta que tenemos**, el **fabricante de la herramienta nos dara un IPT recomendado** Podemos variar el **IPT** dentro de algo razonable (15%)
 *  **IPT muy bajo** 	
@@ -508,7 +509,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1NTI5OTkzLDU0OTI0NjEyNywtMTgyMz
+eyJoaXN0b3J5IjpbNTU2MDAzODQwLDU0OTI0NjEyNywtMTgyMz
 Y2ODE0NSwxMDE4MjIwODk3LC0yMDMyNTA0MDA4LC01MTk5NTUy
 OTUsMTc0MDAxMzY0MSw3MjQwMDQ1ODMsLTMxOTA5NTUxNCwxOT
 gxMjg2NjM3LC03OTQ0Njc3NzcsLTM5NDMxNTk5NCw4MDYzODAx
