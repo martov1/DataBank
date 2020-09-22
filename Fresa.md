@@ -420,10 +420,12 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 
 * **Sin recubrimiento**
 	* Permite afilar la herramienta, si afilas una herramienta con recubrimiento entonces le sacas el recubrimiento!
-* **Titanium nitride**
+* **Titanium nitride** $TiN$
 * **Titanium carbo nitride**
 * **Chromium nitride**
-* **aluminum **
+* **aluminum titanium nitride**
+* **titanium aluminum carbonitride**
+* **Iron Oxide**
 
 
 
@@ -443,7 +445,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDQwNDAyOCwxNzQwMDEzNjQxLDcyND
+eyJoaXN0b3J5IjpbMTE2MDIwMzQzMSwxNzQwMDEzNjQxLDcyND
 AwNDU4MywtMzE5MDk1NTE0LDE5ODEyODY2MzcsLTc5NDQ2Nzc3
 NywtMzk0MzE1OTk0LDgwNjM4MDEyMyw5NjgzOTEyNTMsMTAzMT
 UwOTM0MSwyMDM1NTc0NTgwLDE4MjU4ODQxNjgsLTg1ODA5MzA4
