@@ -439,8 +439,13 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 	* Mantiene sus propiedades a altas tempreaturas
 	* Bueno para cortes de acero
 * **titanium aluminum carbonitride** $TiAlCN$
-	* Color cobre
-* **Iron Oxide**
+	* Color rosado
+	* Extremadamente duro
+	* se puede usar a altas temperaturas
+	* Baja friccion
+	* Bueno para aluminio acero, hierro forjado y otros materiales superduros
+* **Iron Oxide** $FeO$
+	* Se usa cuand
 
 
 
@@ -460,7 +465,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDQ4Nzc1NSwxNzQwMDEzNjQxLDcyND
+eyJoaXN0b3J5IjpbMjAzNTU1MDg2MCwxNzQwMDEzNjQxLDcyND
 AwNDU4MywtMzE5MDk1NTE0LDE5ODEyODY2MzcsLTc5NDQ2Nzc3
 NywtMzk0MzE1OTk0LDgwNjM4MDEyMyw5NjgzOTEyNTMsMTAzMT
 UwOTM0MSwyMDM1NTc0NTgwLDE4MjU4ODQxNjgsLTg1ODA5MzA4
