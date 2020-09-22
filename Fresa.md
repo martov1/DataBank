@@ -225,7 +225,7 @@ Son **MUCHO** mas propensos a generar chatter debido a que generan un golpeteo c
 ![](https://i.imgur.com/Zyz6pbo.png)
 
 ![](https://i.imgur.com/51nRnCD.png)
-
+_fuerza de corte a lo largo del tiempo para flutes rectos, notese que habra golpeteo_ 
 
 Hay endmills que se diseñan para materiales laminados, que **evitan deslaminar el material** haciando un **sanguchito de fuerzas** con **helicoidales opuestas**, entonces **parte del material empuja para arriba y parte empuja para abajo**
 
@@ -452,7 +452,7 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzI2MDIzNywtNzk0NDY3Nzc3LC0zOT
+eyJoaXN0b3J5IjpbMTk4MTI4NjYzNywtNzk0NDY3Nzc3LC0zOT
 QzMTU5OTQsODA2MzgwMTIzLDk2ODM5MTI1MywxMDMxNTA5MzQx
 LDIwMzU1NzQ1ODAsMTgyNTg4NDE2OCwtODU4MDkzMDg3LC0xNz
 UwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0LC0xNjk3ODk0
