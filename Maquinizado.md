@@ -186,7 +186,10 @@ EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta e
 
 La forma de espiral de los flutes sirve para
 * Evacuar la viruta
-* Dividir la **fuerza de corte** e
+* Tener los filos
+* Mantener una fuerza constante sobre la pieza (mientras un filo esta cortand
+* Dividir la **fuerza de corte** en dos componentes, uno paralelo y uno perpenndicular. permitiendo mayor resistencia que si los filos fueran rectos
+* 
 
 ![](https://i.imgur.com/Gc02ZyU.png)
 
@@ -194,12 +197,6 @@ La forma de espiral de los flutes sirve para
 
 [fuente](https://www.youtube.com/watch?v=Pm1N3ApOGlw)
 
-Las flutes tienen la funcion de 
-* Tener el **filo** que va a hacer el corte
-* Son el medio de evacuacuiion de **viruta**
-* la forma de espiral **divide la fuerza con un angulo**
-	* Parte de la fuerza es un vector perpendicular a la herramienta
-	* Parte de la fuerza vectoriza **HACIA ABAJO**
 
 A grandes razgos
 
@@ -407,7 +404,7 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDk4ODcyMiwxODI1ODg0MTY4LC04NT
+eyJoaXN0b3J5IjpbMTc2OTI5NzcyNSwxODI1ODg0MTY4LC04NT
 gwOTMwODcsLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Njg3MDkz
 NjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTUsMzA0MDg3NjUwLD
 ExMTU0Mzk1MzMsMTMzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4
