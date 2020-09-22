@@ -114,9 +114,13 @@ Dicho esto, normalmente **intentaremos que la direccion del corte sea igual que 
 Video coparacion para clase
 https://www.youtube.com/watch?v=galm5_6SUcM
 
-### Chip load
+### Chip load - tamaño de viruta por diente
 
-Chip load es 
+
+**IPT  o chip load:** Inches per tooth, pulgadas de material a morder por un diente. es decir, el **tamaño de una viruta por cada diente**
+
+
+
 
 * Podemos variar el **IPT** dentro de algo razonable (15%)
 	*  **IPT muy bajo** hace que el cortador resbale y genere friccion
@@ -478,11 +482,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODUwNjE5NCwtMjAzMjUwNDAwOCwtNT
-E5OTU1Mjk1LDE3NDAwMTM2NDEsNzI0MDA0NTgzLC0zMTkwOTU1
-MTQsMTk4MTI4NjYzNywtNzk0NDY3Nzc3LC0zOTQzMTU5OTQsOD
-A2MzgwMTIzLDk2ODM5MTI1MywxMDMxNTA5MzQxLDIwMzU1NzQ1
-ODAsMTgyNTg4NDE2OCwtODU4MDkzMDg3LC0xNzUwMzg2MzA4LD
-Y5NzYwMDYyMSwtNjY4NzA5MzY0LC0xNjk3ODk0NDk0LC0xNzAx
-MjQ5OTU1XX0=
+eyJoaXN0b3J5IjpbNTc2OTU0MDEzLC0yMDMyNTA0MDA4LC01MT
+k5NTUyOTUsMTc0MDAxMzY0MSw3MjQwMDQ1ODMsLTMxOTA5NTUx
+NCwxOTgxMjg2NjM3LC03OTQ0Njc3NzcsLTM5NDMxNTk5NCw4MD
+YzODAxMjMsOTY4MzkxMjUzLDEwMzE1MDkzNDEsMjAzNTU3NDU4
+MCwxODI1ODg0MTY4LC04NTgwOTMwODcsLTE3NTAzODYzMDgsNj
+k3NjAwNjIxLC02Njg3MDkzNjQsLTE2OTc4OTQ0OTQsLTE3MDEy
+NDk5NTVdfQ==
 -->
