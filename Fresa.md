@@ -209,6 +209,8 @@ Hay endmills que se diseñan para materiales laminados, que **evitan deslaminar 
 
 ![](https://i.imgur.com/CHoz0xk.png)
 
+Existen tambien **helicoidales invertidas**, es decir  helicoidales que **cortan clockwise** pero **van counterclockwise**
+
 
 
 ### **Cantidad de flutes**
@@ -422,8 +424,8 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA1Nzc0MDgsOTY4MzkxMjUzLDEwMz
-E1MDkzNDEsMjAzNTU3NDU4MCwxODI1ODg0MTY4LC04NTgwOTMw
-ODcsLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Njg3MDkzNjQsLT
-E2OTc4OTQ0OTQsLTE3MDEyNDk5NTVdfQ==
+eyJoaXN0b3J5IjpbMTI0MDE2MjI1NSw5NjgzOTEyNTMsMTAzMT
+UwOTM0MSwyMDM1NTc0NTgwLDE4MjU4ODQxNjgsLTg1ODA5MzA4
+NywtMTc1MDM4NjMwOCw2OTc2MDA2MjEsLTY2ODcwOTM2NCwtMT
+Y5Nzg5NDQ5NCwtMTcwMTI0OTk1NV19
 -->
