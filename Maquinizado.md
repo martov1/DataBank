@@ -217,13 +217,14 @@ _Distribucion de la fuerza a lo largo del tiempo para evitar golpeteo y chatter_
 Diferentes angulos de flutes, a **mayor cantidad de flutes** se interpreta que el **material a cortar sera mas duro** entonces el **angulo de la helicoidal es mas pronunciado** para **transferir mas fuerza hacia abajo en vez de hacia el costado** y **EVITAR QUE SE PARTA**
 
 ![](https://i.imgur.com/jkDTF0P.png)
-
+_Diferentes angulos de helicoidales para mayor o menor distribucion de la carga hacia abajo_
 #### Helicoidales especiales
 
 Existen **flutes sin forma helicoidal** pero son muy poco comunes
 Son **MUCHO** mas propensos a generar chatter debido a que generan un golpeteo con una cierta frecuencia muy pareja que puede ser similar a la de todo el sistema
 ![](https://i.imgur.com/Zyz6pbo.png)
 
+![](https://i.imgur.com/51nRnCD.png)
 Hay endmills que se diseñan para materiales laminados, que **evitan deslaminar el material** haciando un **sanguchito de fuerzas** con **helicoidales opuestas**, entonces **parte del material empuja para arriba y parte empuja para abajo**
 
 ![](https://i.imgur.com/CHoz0xk.png)
@@ -449,11 +450,11 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mjk1MTIxNiwtNzk0NDY3Nzc3LC0zOT
-QzMTU5OTQsODA2MzgwMTIzLDk2ODM5MTI1MywxMDMxNTA5MzQx
-LDIwMzU1NzQ1ODAsMTgyNTg4NDE2OCwtODU4MDkzMDg3LC0xNz
-UwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0LC0xNjk3ODk0
-NDk0LC0xNzAxMjQ5OTU1LDMwNDA4NzY1MCwxMTE1NDM5NTMzLD
-EzMzkxNzg5MTMsMTUyNjIwMjI3NCw5Mzg3ODYwMzYsLTE1MzI0
-NzIzNjddfQ==
+eyJoaXN0b3J5IjpbNDAyOTk2OTc3LC03OTQ0Njc3NzcsLTM5ND
+MxNTk5NCw4MDYzODAxMjMsOTY4MzkxMjUzLDEwMzE1MDkzNDEs
+MjAzNTU3NDU4MCwxODI1ODg0MTY4LC04NTgwOTMwODcsLTE3NT
+AzODYzMDgsNjk3NjAwNjIxLC02Njg3MDkzNjQsLTE2OTc4OTQ0
+OTQsLTE3MDEyNDk5NTUsMzA0MDg3NjUwLDExMTU0Mzk1MzMsMT
+MzOTE3ODkxMywxNTI2MjAyMjc0LDkzODc4NjAzNiwtMTUzMjQ3
+MjM2N119
 -->
