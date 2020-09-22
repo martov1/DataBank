@@ -121,7 +121,7 @@ https://www.youtube.com/watch?v=galm5_6SUcM
 
 ![](https://i.imgur.com/6lTNVRV.png)
 
-**CRITICO:** tenemos que tener un chip load **acorde a la herramienta que tenemos**, Podemos variar el **IPT** dentro de algo razonable (15%)
+**CRITICO:** tenemos que tener un chip load **acorde a la herramienta que tenemos**, el **fabricante de la herramienta nos dara un IPT recomendado** Podemos variar el **IPT** dentro de algo razonable (15%)
 *  **IPT muy bajo** 	
 	* hace que el cortador resbale y genere friccion
 	* Desafila la herramienta
@@ -486,7 +486,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDY1MzQwNDgsMTAxODIyMDg5NywtMj
+eyJoaXN0b3J5IjpbLTE4MjM2NjgxNDUsMTAxODIyMDg5NywtMj
 AzMjUwNDAwOCwtNTE5OTU1Mjk1LDE3NDAwMTM2NDEsNzI0MDA0
 NTgzLC0zMTkwOTU1MTQsMTk4MTI4NjYzNywtNzk0NDY3Nzc3LC
 0zOTQzMTU5OTQsODA2MzgwMTIzLDk2ODM5MTI1MywxMDMxNTA5
