@@ -206,8 +206,10 @@ La forma de espiral de los flutes sirve para
 * Dividir la **fuerza de corte** en dos componentes, uno paralelo y uno perpenndicular. permitiendo mayor resistencia que si los filos fueran rectos
 	* Cuantos **mas flutes**, se entiende que el material a cortar sera mas duro y tendran mayor angulo para transferir mas fuerza hacia abajo.
 
-![](https://i.imgur.com/p7k4cRx.png)
 
+
+![](https://i.imgur.com/p7k4cRx.png)
+_Division de fuerzas causado por la helicoidalidad_
 
 Diferentes angulos de flutes, a **mayor cantidad de flutes** se interpreta que el **material a cortar sera mas duro** entonces el **angulo de la helicoidal es mas pronunciado** para **transferir mas fuerza hacia abajo en vez de hacia el costado** y **EVITAR QUE SE PARTA**
 
@@ -444,9 +446,9 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDQ2Nzc3NywtMzk0MzE1OTk0LDgwNj
-M4MDEyMyw5NjgzOTEyNTMsMTAzMTUwOTM0MSwyMDM1NTc0NTgw
-LDE4MjU4ODQxNjgsLTg1ODA5MzA4NywtMTc1MDM4NjMwOCw2OT
-c2MDA2MjEsLTY2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0
-OTk1NV19
+eyJoaXN0b3J5IjpbLTU2NjUyOTIxNywtNzk0NDY3Nzc3LC0zOT
+QzMTU5OTQsODA2MzgwMTIzLDk2ODM5MTI1MywxMDMxNTA5MzQx
+LDIwMzU1NzQ1ODAsMTgyNTg4NDE2OCwtODU4MDkzMDg3LC0xNz
+UwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0LC0xNjk3ODk0
+NDk0LC0xNzAxMjQ5OTU1XX0=
 -->
