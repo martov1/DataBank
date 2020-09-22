@@ -192,7 +192,7 @@ La forma de espiral de los flutes sirve para
 * Dividir la **fuerza de corte** en dos componentes, uno paralelo y uno perpenndicular. permitiendo mayor resistencia que si los filos fueran rectos
 	* Cuantos **mas flutes**, se entiende que el material a cortar sera mas duro y tendran mayor angulo para transferir mas fuerza hacia abajo.
 
-![](https://i.imgur.com/Gc02ZyU.png)
+![](https://i.imgur.com/p7k4cRx.png)
 
 
 Diferentes angulos de flutes, a **mayor cantidad de flutes** se interpreta que el **material a cortar sera mas duro** entonces el **angulo de la helicoidal es mas pronunciado** para **transferir mas fuerza hacia abajo en vez de hacia el costado** y **EVITAR QUE SE PARTA**
@@ -424,8 +424,8 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDE2MjI1NSw5NjgzOTEyNTMsMTAzMT
-UwOTM0MSwyMDM1NTc0NTgwLDE4MjU4ODQxNjgsLTg1ODA5MzA4
-NywtMTc1MDM4NjMwOCw2OTc2MDA2MjEsLTY2ODcwOTM2NCwtMT
-Y5Nzg5NDQ5NCwtMTcwMTI0OTk1NV19
+eyJoaXN0b3J5IjpbLTE1NTE0MzMxNzAsOTY4MzkxMjUzLDEwMz
+E1MDkzNDEsMjAzNTU3NDU4MCwxODI1ODg0MTY4LC04NTgwOTMw
+ODcsLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Njg3MDkzNjQsLT
+E2OTc4OTQ0OTQsLTE3MDEyNDk5NTVdfQ==
 -->
