@@ -157,7 +157,10 @@ distancia recorrida por la herramienta en un minuto
 Ej:
 * La herramienta tiene un diametro de $2$
 	* El perimetro es $2\pi r$
+	* $2\pi2 = 12.566mm$ por revolucion
 * La giro a $300 RPM$
+
+Entonces tengo un $SFM$ $(300)(12.566)=3769800\$
 
 
 
@@ -514,11 +517,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNDkxNjk4LDEyNjI2MTU1MzcsNTQ5Mj
-Q2MTI3LC0xODIzNjY4MTQ1LDEwMTgyMjA4OTcsLTIwMzI1MDQw
-MDgsLTUxOTk1NTI5NSwxNzQwMDEzNjQxLDcyNDAwNDU4MywtMz
-E5MDk1NTE0LDE5ODEyODY2MzcsLTc5NDQ2Nzc3NywtMzk0MzE1
-OTk0LDgwNjM4MDEyMyw5NjgzOTEyNTMsMTAzMTUwOTM0MSwyMD
-M1NTc0NTgwLDE4MjU4ODQxNjgsLTg1ODA5MzA4NywtMTc1MDM4
-NjMwOF19
+eyJoaXN0b3J5IjpbMTU3NTYxMTg1OSwxMjYyNjE1NTM3LDU0OT
+I0NjEyNywtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC0yMDMyNTA0
+MDA4LC01MTk5NTUyOTUsMTc0MDAxMzY0MSw3MjQwMDQ1ODMsLT
+MxOTA5NTUxNCwxOTgxMjg2NjM3LC03OTQ0Njc3NzcsLTM5NDMx
+NTk5NCw4MDYzODAxMjMsOTY4MzkxMjUzLDEwMzE1MDkzNDEsMj
+AzNTU3NDU4MCwxODI1ODg0MTY4LC04NTgwOTMwODcsLTE3NTAz
+ODYzMDhdfQ==
 -->
