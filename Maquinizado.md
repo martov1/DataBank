@@ -152,7 +152,7 @@ la conclusion de esto es que **TENER UNA BAJA VELOCIDAD DE AVANCE NO HACE QUE LA
 
 ### Surfice feet/min - SFM
 
-
+distancia recorrida por la herramienta en un minuto
 
 
 
@@ -509,7 +509,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDg0NjE4OSwxMjYyNjE1NTM3LDU0OT
+eyJoaXN0b3J5IjpbMTQ3MzQ2MDQ1NCwxMjYyNjE1NTM3LDU0OT
 I0NjEyNywtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC0yMDMyNTA0
 MDA4LC01MTk5NTUyOTUsMTc0MDAxMzY0MSw3MjQwMDQ1ODMsLT
 MxOTA5NTUxNCwxOTgxMjg2NjM3LC03OTQ0Njc3NzcsLTM5NDMx
