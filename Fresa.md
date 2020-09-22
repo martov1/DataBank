@@ -216,7 +216,7 @@ Diferentes angulos de flutes, a **mayor cantidad de flutes** se interpreta que e
 #### Helicoidales especiales
 
 Existen **flutes sin forma helicoidal** pero son muy poco comunes
-
+Son **MUCHO** mas propensos a generar chatter debido a que 
 ![](https://i.imgur.com/Zyz6pbo.png)
 
 Hay endmills que se diseñan para materiales laminados, que **evitan deslaminar el material** haciando un **sanguchito de fuerzas** con **helicoidales opuestas**, entonces **parte del material empuja para arriba y parte empuja para abajo**
@@ -444,8 +444,9 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDMxNTk5NCw4MDYzODAxMjMsOTY4Mz
-kxMjUzLDEwMzE1MDkzNDEsMjAzNTU3NDU4MCwxODI1ODg0MTY4
-LC04NTgwOTMwODcsLTE3NTAzODYzMDgsNjk3NjAwNjIxLC02Nj
-g3MDkzNjQsLTE2OTc4OTQ0OTQsLTE3MDEyNDk5NTVdfQ==
+eyJoaXN0b3J5IjpbLTEwMTc3MDY0OTcsLTM5NDMxNTk5NCw4MD
+YzODAxMjMsOTY4MzkxMjUzLDEwMzE1MDkzNDEsMjAzNTU3NDU4
+MCwxODI1ODg0MTY4LC04NTgwOTMwODcsLTE3NTAzODYzMDgsNj
+k3NjAwNjIxLC02Njg3MDkzNjQsLTE2OTc4OTQ0OTQsLTE3MDEy
+NDk5NTVdfQ==
 -->
