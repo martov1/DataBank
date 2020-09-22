@@ -2,7 +2,13 @@
 **Me quede en este ultimo de herramentas**
 https://www.youtube.com/watch?v=Wks3Zf0Khec&t=59s
 
+**despues ver recubrimiento de herramientas**
+https://www.youtube.com/watch?v=nY6o04ODJ3U
 
+**Ver rapidamente este de seleccion de herramientas**
+https://www.youtube.com/watch?v=Bupr_IR-_Pk&list=PLzc0Bm2I_0pn1lfdvG2xIG_z4-YiaTq1H
+
+**Ver es**
 **viendo**
 https://www.youtube.com/watch?v=_HGGkCaYMVA&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=3
 
@@ -428,7 +434,7 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0MDkxNjE3LDk2ODM5MTI1MywxMDMxNT
+eyJoaXN0b3J5IjpbNzI4MzcyNDc1LDk2ODM5MTI1MywxMDMxNT
 A5MzQxLDIwMzU1NzQ1ODAsMTgyNTg4NDE2OCwtODU4MDkzMDg3
 LC0xNzUwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0LC0xNj
 k3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
