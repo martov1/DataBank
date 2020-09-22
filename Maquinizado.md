@@ -114,6 +114,9 @@ Dicho esto, normalmente **intentaremos que la direccion del corte sea igual que 
 Video coparacion para clase
 https://www.youtube.com/watch?v=galm5_6SUcM
 
+### Chip load
+
+
 ### Calcular velocidad de giro y avance - WIP
 
 En una fresa debemos colocar una velocidad de giro y de avance tales que no rompan la herramienta y corten el material lo mas rapido y eficientemente posible.
@@ -467,11 +470,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTk1NTI5NSwxNzQwMDEzNjQxLDcyND
-AwNDU4MywtMzE5MDk1NTE0LDE5ODEyODY2MzcsLTc5NDQ2Nzc3
-NywtMzk0MzE1OTk0LDgwNjM4MDEyMyw5NjgzOTEyNTMsMTAzMT
-UwOTM0MSwyMDM1NTc0NTgwLDE4MjU4ODQxNjgsLTg1ODA5MzA4
-NywtMTc1MDM4NjMwOCw2OTc2MDA2MjEsLTY2ODcwOTM2NCwtMT
-Y5Nzg5NDQ5NCwtMTcwMTI0OTk1NSwzMDQwODc2NTAsMTExNTQz
-OTUzM119
+eyJoaXN0b3J5IjpbLTIwMzI1MDQwMDgsLTUxOTk1NTI5NSwxNz
+QwMDEzNjQxLDcyNDAwNDU4MywtMzE5MDk1NTE0LDE5ODEyODY2
+MzcsLTc5NDQ2Nzc3NywtMzk0MzE1OTk0LDgwNjM4MDEyMyw5Nj
+gzOTEyNTMsMTAzMTUwOTM0MSwyMDM1NTc0NTgwLDE4MjU4ODQx
+NjgsLTg1ODA5MzA4NywtMTc1MDM4NjMwOCw2OTc2MDA2MjEsLT
+Y2ODcwOTM2NCwtMTY5Nzg5NDQ5NCwtMTcwMTI0OTk1NSwzMDQw
+ODc2NTBdfQ==
 -->
