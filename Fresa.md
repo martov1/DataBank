@@ -193,6 +193,8 @@ La forma de espiral de los flutes sirve para
 
 ![](https://i.imgur.com/Gc02ZyU.png)
 
+Existen **flutes sin forma helicoidal** pero so
+
 ### **Cantidad de flutes**
 
 [fuente](https://www.youtube.com/watch?v=Pm1N3ApOGlw)
@@ -404,7 +406,7 @@ El rake angle puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4MzY4NTgsMTgyNTg4NDE2OCwtODU4MD
-kzMDg3LC0xNzUwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5MzY0
-LC0xNjk3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
+eyJoaXN0b3J5IjpbLTEzMTExNjgyNDYsMTgyNTg4NDE2OCwtOD
+U4MDkzMDg3LC0xNzUwMzg2MzA4LDY5NzYwMDYyMSwtNjY4NzA5
+MzY0LC0xNjk3ODk0NDk0LC0xNzAxMjQ5OTU1XX0=
 -->
