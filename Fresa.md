@@ -355,6 +355,7 @@ _Usar  el menor largo de herramienta posible_
 * Cuanto mas ancho **mas rigidez** y  por ende menor posibilidad de **chatter**
 * Cuanto mas ancho **mas precio**
 * Cuanto mas ancho **mas rapido come material**
+* **Elegir la herramienta mas ancha posible**
 
 ### Helicoidalidad de Flutes
 
@@ -633,7 +634,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDM4MDkyMSwxMjM5MjE3MTQ4LC0xNT
+eyJoaXN0b3J5IjpbLTU4NjIxMDY2NCwxMjM5MjE3MTQ4LC0xNT
 EzNzk3MTY3LC02NjU1NDg2MzAsLTE2MDIwMjUxMDcsOTMxMTQ5
 NjM2LDEzMDk5MjU1NDcsMTgwMTQzMjQ4NiwtMTU1MjEwODgxMy
 wtMTEyMDg3MTEyOCwxMjQ5NzYxMzQ1LC0xNDEzNDc3NzU3LC0x
