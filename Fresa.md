@@ -532,8 +532,9 @@ Es un **center-cutting endmill**, se puede apreciar como dos de los flutes forma
 
 
 * **No tan duro**
-	* Solo corta cosas mas blandas que acero
+	* Solo corta cosas mas blandas que acero o haceros blandos
  	* se parte menos facilmente por no ser tan rigido
+ 	* Tiene una velocidad de corte mas lenta y un chip load mas bajo
 * **Filo**
 	* En vez de partirse, se desafila
 	* Si el feed and speed no estan bien, la herramienta sobrevive y solo se desafila
@@ -562,6 +563,7 @@ Es un **center-cutting endmill**, se puede apreciar como dos de los flutes forma
 * **Durisimo**
 	* Corta cualquier material duro
 	*	Puede hacer cortes mas profundos
+	*	Puede cortar a mas velocidad, mas rapido, mayor chip load, mayor cutting speed
 * **Filo** 
 	* No puede ser muy afilado mucho por que se parte el filo debido a la  fragilidad		
 	* La falta de filo evita que corte limpiamente materiales blandos
@@ -634,11 +636,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjIxMDY2NCwxMjM5MjE3MTQ4LC0xNT
-EzNzk3MTY3LC02NjU1NDg2MzAsLTE2MDIwMjUxMDcsOTMxMTQ5
-NjM2LDEzMDk5MjU1NDcsMTgwMTQzMjQ4NiwtMTU1MjEwODgxMy
-wtMTEyMDg3MTEyOCwxMjQ5NzYxMzQ1LC0xNDEzNDc3NzU3LC0x
-MTg4MjIxNTMsLTEwNjAyNDE3Nyw4MTc3NTY1MjEsMTA5OTI5ND
-k5NiwtNTkzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwx
-NDUwMDc2ODg4XX0=
+eyJoaXN0b3J5IjpbMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMz
+kyMTcxNDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAy
+NTEwNyw5MzExNDk2MzYsMTMwOTkyNTU0NywxODAxNDMyNDg2LC
+0xNTUyMTA4ODEzLC0xMTIwODcxMTI4LDEyNDk3NjEzNDUsLTE0
+MTM0Nzc3NTcsLTExODgyMjE1MywtMTA2MDI0MTc3LDgxNzc1Nj
+UyMSwxMDk5Mjk0OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3NCwx
+MTc5NjMyMzg1XX0=
 -->
