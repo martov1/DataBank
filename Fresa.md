@@ -153,11 +153,11 @@ El chipload  determinara
 
 la conclusion de esto es que **TENER UNA BAJA VELOCIDAD DE AVANCE NO HACE QUE LA HERRAMIENTA DURE MAS, TODO LO CONTRARIO!**
 
-### Cutting speed -Surfice feet/min (SFM)
+### Cutting speed  (SFM o M/min)
 
 distancia recorrida por los filos de la herramienta sobre el material en un minuto, es decir **superficie de la herramienta que toca el material por minuto**
 
-**Cada herramienta de cada fabricante tiene un $SFM$ recomendado para cada material**
+**Cada herramienta de cada fabricante tiene un **Cutting speed** recomendado para cada material**
 
 Podemos usar un **SFM** menor al recomendado sin problemas en materiales blandos como aluminio. El fabricante nos recomienda un **SFM** para maximizar nuestra productividad pero no siempre podemos lograrlo con la maquina que tenemos, y eso es normal.
 
@@ -186,7 +186,7 @@ Para una herramienta determinada y un material determinado el fabricante nos dar
 A partir de eso nosotros debemos determinar **Feed y RPM**
 
 
-#### spindle RPM 
+#### Spindle RPM 
 
 las $RPM$ o $n$ dependeran del $SFM$ de la herramienta en cuestion para el material en cuestion, segun determine el fabricante
 
@@ -585,11 +585,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM0Nzc3NTcsLTExODgyMjE1MywtMT
-A2MDI0MTc3LDgxNzc1NjUyMSwxMDk5Mjk0OTk2LC01OTM3OTMw
-NDMsMTkyMTk4OTQ3NCwxMTc5NjMyMzg1LDE0NTAwNzY4ODgsOT
-g5ODY4MjYxLC0xNTEyNjA1NjY3LC05NTU0NjM1MzcsLTEwODA5
-MjEyODEsMTI2MjYxNTUzNyw1NDkyNDYxMjcsLTE4MjM2NjgxND
-UsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwtNTE5OTU1Mjk1LDE3
-NDAwMTM2NDFdfQ==
+eyJoaXN0b3J5IjpbLTIzMTc4OTIyOCwtMTQxMzQ3Nzc1NywtMT
+E4ODIyMTUzLC0xMDYwMjQxNzcsODE3NzU2NTIxLDEwOTkyOTQ5
+OTYsLTU5Mzc5MzA0MywxOTIxOTg5NDc0LDExNzk2MzIzODUsMT
+Q1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MTI2MDU2NjcsLTk1NTQ2
+MzUzNywtMTA4MDkyMTI4MSwxMjYyNjE1NTM3LDU0OTI0NjEyNy
+wtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC0yMDMyNTA0MDA4LC01
+MTk5NTUyOTVdfQ==
 -->
