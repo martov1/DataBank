@@ -190,16 +190,17 @@ A partir de eso nosotros debemos determinar **Feed y RPM**
 
 #### Spindle RPM 
 
-las $RPM$ o $n$ dependeran del $SFM$ de la herramienta en cuestion para el material en cuestion, segun determine el fabricante
+las $RPM$ o $n$ dependeran del **Cutting speed** de la herramienta en cuestion para el material en cuestion, segun determine el fabricante
 
-Algunos datos
+No es dificil ver que si me dan un **cutting speed** entonces probablemente pueda calcular mis $RPM$ usando algo asi
+$$RPM=\frac{\text{perim por min recomendado x fabric}}{\text{permi de una vuelta de  mi herramienta}}$$
+
+**Derivacion de la formula en pulgadas:**
 * $12 feet=1in$
 * La formula de perimetro de un circulo es $\pi D$
 * El fabricante nos recomienda un $SFM$ ó $V_c$, osea un permetro recorrido por minuto en pies
 
 
-entonces llegamos a la formula
-$$RPM=\frac{\text{perim por min recomendado}}{\text{permi de una vuelta de  mi herramienta}}$$
 
 Como $SFM$ esta en feet lo paso a inches multiplicando por $12$, cambio las letras de nomenclatura y me queda
 $$n=\frac{12V_c}{\pi D}$$
@@ -587,11 +588,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzMTIyNzU4LC0xNDEzNDc3NzU3LC0xMT
-g4MjIxNTMsLTEwNjAyNDE3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5
-NiwtNTkzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwxND
-UwMDc2ODg4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYz
-NTM3LC0xMDgwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC
-0xODIzNjY4MTQ1LDEwMTgyMjA4OTcsLTIwMzI1MDQwMDgsLTUx
-OTk1NTI5NV19
+eyJoaXN0b3J5IjpbLTMwMjM2OTk5OCwtMTQxMzQ3Nzc1NywtMT
+E4ODIyMTUzLC0xMDYwMjQxNzcsODE3NzU2NTIxLDEwOTkyOTQ5
+OTYsLTU5Mzc5MzA0MywxOTIxOTg5NDc0LDExNzk2MzIzODUsMT
+Q1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MTI2MDU2NjcsLTk1NTQ2
+MzUzNywtMTA4MDkyMTI4MSwxMjYyNjE1NTM3LDU0OTI0NjEyNy
+wtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC0yMDMyNTA0MDA4LC01
+MTk5NTUyOTVdfQ==
 -->
