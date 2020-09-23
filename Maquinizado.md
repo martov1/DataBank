@@ -207,7 +207,9 @@ $n=381\text{ RPM}=\frac{12(200)}{2\pi}$
 
 #### Avance / Feed
 
+El avance se calcula de la siguiente manera
 
+$\text{avance}\frac{in}{min}=(IPT)(\text{tooth})$
 
 ### Chatter / Vibraciones
 
@@ -547,11 +549,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3NzU2NTIxLDEwOTkyOTQ5OTYsLTU5Mz
-c5MzA0MywxOTIxOTg5NDc0LDExNzk2MzIzODUsMTQ1MDA3Njg4
-OCw5ODk4NjgyNjEsLTE1MTI2MDU2NjcsLTk1NTQ2MzUzNywtMT
-A4MDkyMTI4MSwxMjYyNjE1NTM3LDU0OTI0NjEyNywtMTgyMzY2
-ODE0NSwxMDE4MjIwODk3LC0yMDMyNTA0MDA4LC01MTk5NTUyOT
-UsMTc0MDAxMzY0MSw3MjQwMDQ1ODMsLTMxOTA5NTUxNCwxOTgx
-Mjg2NjM3XX0=
+eyJoaXN0b3J5IjpbMTIwNzM5NDY0Myw4MTc3NTY1MjEsMTA5OT
+I5NDk5NiwtNTkzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4
+NSwxNDUwMDc2ODg4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOT
+U1NDYzNTM3LC0xMDgwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2
+MTI3LC0xODIzNjY4MTQ1LDEwMTgyMjA4OTcsLTIwMzI1MDQwMD
+gsLTUxOTk1NTI5NSwxNzQwMDEzNjQxLDcyNDAwNDU4MywtMzE5
+MDk1NTE0XX0=
 -->
