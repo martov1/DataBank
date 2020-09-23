@@ -157,16 +157,17 @@ la conclusion de esto es que **TENER UNA BAJA VELOCIDAD DE AVANCE NO HACE QUE LA
 
 distancia recorrida por los filos de la herramienta sobre el material en un minuto, es decir **superficie de la herramienta que toca el material por minuto**
 
-**Cada herramienta de cada fabricante tiene un **Cutting speed** recomendado para cada material**
+**Cada herramienta de cada fabricante tiene un CUTTING SPEED recomendado para cada material**
 
-Podemos usar un **SFM** menor al recomendado sin problemas en materiales blandos como aluminio. El fabricante nos recomienda un **SFM** para maximizar nuestra productividad pero no siempre podemos lograrlo con la maquina que tenemos, y eso es normal.
+Podemos usar un **CUTTING SPEED** menor al recomendado sin problemas en materiales blandos como aluminio. El fabricante nos recomienda un **CUTTING SPEED** para maximizar nuestra productividad pero no siempre podemos lograrlo con la maquina que tenemos, y eso es normal.
 
-En materiales **duros** como **acero o titanio** es necesario usar **como minimo el SFM del fabricante**
+En materiales **duros** como **acero o titanio** es necesario usar **exactamente el CUTTING SPEED del fabricante**. En materiales blandos como aluminio, es opcional.
+
 
 **Nomenclatura**
 Los fabricantes usan estos nombres en sus tablas y formulas
 * $RPM=n$
-* $SFM=V_c$
+* $\frac{metro}{}$$SFM=V_c$
 * $D=$ Diametro
 
 
@@ -585,7 +586,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTc4OTIyOCwtMTQxMzQ3Nzc1NywtMT
+eyJoaXN0b3J5IjpbMTI4NjEwODYyMiwtMTQxMzQ3Nzc1NywtMT
 E4ODIyMTUzLC0xMDYwMjQxNzcsODE3NzU2NTIxLDEwOTkyOTQ5
 OTYsLTU5Mzc5MzA0MywxOTIxOTg5NDc0LDExNzk2MzIzODUsMT
 Q1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MTI2MDU2NjcsLTk1NTQ2
