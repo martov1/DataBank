@@ -176,7 +176,7 @@ Ej:
 	* $2\pi2 = 12.566mm$ por revolucion
 * El fabricante me recomienda $SFM=200$
 * 
-
+$n=\frac{12V_c}{D\pi}$
 
 ### Calcular velocidad de giro y avance - WIP
 
@@ -530,7 +530,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTYxMDY2MSwxMTc5NjMyMzg1LDE0NT
+eyJoaXN0b3J5IjpbMTkyMTk4OTQ3NCwxMTc5NjMyMzg1LDE0NT
 AwNzY4ODgsOTg5ODY4MjYxLC0xNTEyNjA1NjY3LC05NTU0NjM1
 MzcsLTEwODA5MjEyODEsMTI2MjYxNTUzNyw1NDkyNDYxMjcsLT
 E4MjM2NjgxNDUsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwtNTE5
