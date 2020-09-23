@@ -163,6 +163,9 @@ Podemos usar un **CUTTING SPEED** menor al recomendado sin problemas en material
 
 En materiales **duros** como **acero o titanio** es necesario usar **exactamente el CUTTING SPEED del fabricante**. En materiales blandos como aluminio, es opcional.
 
+EL cutting speed puede venir en
+* $\frac{metros}{min}$
+* $\frac{pies}{min}$ o **Surfice Feet Min**
 
 **Nomenclatura**
 Los fabricantes usan estos nombres en sus tablas y formulas
@@ -593,11 +596,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTc2MTM0NSwtMTQxMzQ3Nzc1NywtMT
-E4ODIyMTUzLC0xMDYwMjQxNzcsODE3NzU2NTIxLDEwOTkyOTQ5
-OTYsLTU5Mzc5MzA0MywxOTIxOTg5NDc0LDExNzk2MzIzODUsMT
-Q1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MTI2MDU2NjcsLTk1NTQ2
-MzUzNywtMTA4MDkyMTI4MSwxMjYyNjE1NTM3LDU0OTI0NjEyNy
-wtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC0yMDMyNTA0MDA4LC01
-MTk5NTUyOTVdfQ==
+eyJoaXN0b3J5IjpbLTExMjA4NzExMjgsMTI0OTc2MTM0NSwtMT
+QxMzQ3Nzc1NywtMTE4ODIyMTUzLC0xMDYwMjQxNzcsODE3NzU2
+NTIxLDEwOTkyOTQ5OTYsLTU5Mzc5MzA0MywxOTIxOTg5NDc0LD
+ExNzk2MzIzODUsMTQ1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MTI2
+MDU2NjcsLTk1NTQ2MzUzNywtMTA4MDkyMTI4MSwxMjYyNjE1NT
+M3LDU0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC0y
+MDMyNTA0MDA4XX0=
 -->
