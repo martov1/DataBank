@@ -3,8 +3,7 @@
 	* Genera bordes en un angulo
 * Fishtail endmills
 
-**Ver rapidamente este de seleccion de herramientas**
-https://www.youtube.com/watch?v=Bupr_IR-_Pk&list=PLzc0Bm2I_0pn1lfdvG2xIG_z4-YiaTq1H
+
 
 **Ver es**
 **te de herramientas y speed and feed**
@@ -24,6 +23,8 @@ https://www.youtube.com/watch?v=p4JpLKNPs9U&list=PLups-28TmUhLod3H0vhIDHl_qXPfWi
 
 https://www.youtube.com/watch?v=bKksH9UAbO8&list=PL6015CA604E06A0C6
 
+**entender esto de zig zag**
+https://www.youtube.com/watch?v=KNwAHE73SHk&list=PLzc0Bm2I_0pn1lfdvG2xIG_z4-YiaTq1H&index=7
 
 # Introduccion
 ## Seguridad
@@ -632,11 +633,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTIxNzE0OCwtMTUxMzc5NzE2NywtNj
-Y1NTQ4NjMwLC0xNjAyMDI1MTA3LDkzMTE0OTYzNiwxMzA5OTI1
-NTQ3LDE4MDE0MzI0ODYsLTE1NTIxMDg4MTMsLTExMjA4NzExMj
-gsMTI0OTc2MTM0NSwtMTQxMzQ3Nzc1NywtMTE4ODIyMTUzLC0x
-MDYwMjQxNzcsODE3NzU2NTIxLDEwOTkyOTQ5OTYsLTU5Mzc5Mz
-A0MywxOTIxOTg5NDc0LDExNzk2MzIzODUsMTQ1MDA3Njg4OCw5
-ODk4NjgyNjFdfQ==
+eyJoaXN0b3J5IjpbMTA1MDM4MDkyMSwxMjM5MjE3MTQ4LC0xNT
+EzNzk3MTY3LC02NjU1NDg2MzAsLTE2MDIwMjUxMDcsOTMxMTQ5
+NjM2LDEzMDk5MjU1NDcsMTgwMTQzMjQ4NiwtMTU1MjEwODgxMy
+wtMTEyMDg3MTEyOCwxMjQ5NzYxMzQ1LC0xNDEzNDc3NzU3LC0x
+MTg4MjIxNTMsLTEwNjAyNDE3Nyw4MTc3NTY1MjEsMTA5OTI5ND
+k5NiwtNTkzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwx
+NDUwMDc2ODg4XX0=
 -->
