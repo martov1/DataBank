@@ -108,7 +108,7 @@ La herramienta **salvo en casos particulares** debe girar en la direccion de la 
 	* Menor temperatura
 	* Menor necesidad de lubricacion 
 	* Reduce riesgos de atrapamiento de viruta y consecuente desafilado
-	* Podes tener mayor width of cut (100%) pero hay que tene
+	* Podes tener mayor width of cut (100%) pero hay que tener cuidado de que evacues los chips (lubricante, aire comprimido, geometria del material etc que permitan evacuar chips)
 
 .
 
@@ -632,7 +632,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTQ0OTk4MiwtMTUxMzc5NzE2NywtNj
+eyJoaXN0b3J5IjpbMTIzOTIxNzE0OCwtMTUxMzc5NzE2NywtNj
 Y1NTQ4NjMwLC0xNjAyMDI1MTA3LDkzMTE0OTYzNiwxMzA5OTI1
 NTQ3LDE4MDE0MzI0ODYsLTE1NTIxMDg4MTMsLTExMjA4NzExMj
 gsMTI0OTc2MTM0NSwtMTQxMzQ3Nzc1NywtMTE4ODIyMTUzLC0x
