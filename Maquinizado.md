@@ -321,7 +321,7 @@ A diferencia de los drill bits, que estan diseñados para **perforar hacia abajo
 
 **largo**
 * Cuanto mas larga la herramienta menos rigidez ( mas distancia entre el motor y la punta de corte)  y mas posibilidad de **chatter**
-* **siempre elegir la herramienta mas corta posible**
+* **siempre elegir la herramienta mas corta posible siempre que tenga la profundidad del corte a realizar**
 * Siempre tratar de cortar con **todo el largo de la herramienta** para permitir un desgaste parejo
 	* **si usas solo la punta de una herramieta que no se puede afilar, la desperdiciaste! y son caras!**
 * Mas corto es mas barato
@@ -616,11 +616,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4NTIxMzU0LC02NjU1NDg2MzAsLTE2MD
-IwMjUxMDcsOTMxMTQ5NjM2LDEzMDk5MjU1NDcsMTgwMTQzMjQ4
-NiwtMTU1MjEwODgxMywtMTEyMDg3MTEyOCwxMjQ5NzYxMzQ1LC
-0xNDEzNDc3NzU3LC0xMTg4MjIxNTMsLTEwNjAyNDE3Nyw4MTc3
-NTY1MjEsMTA5OTI5NDk5NiwtNTkzNzkzMDQzLDE5MjE5ODk0Nz
-QsMTE3OTYzMjM4NSwxNDUwMDc2ODg4LDk4OTg2ODI2MSwtMTUx
-MjYwNTY2N119
+eyJoaXN0b3J5IjpbMTQxNjM4NjQ5NSwtNjY1NTQ4NjMwLC0xNj
+AyMDI1MTA3LDkzMTE0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0
+ODYsLTE1NTIxMDg4MTMsLTExMjA4NzExMjgsMTI0OTc2MTM0NS
+wtMTQxMzQ3Nzc1NywtMTE4ODIyMTUzLC0xMDYwMjQxNzcsODE3
+NzU2NTIxLDEwOTkyOTQ5OTYsLTU5Mzc5MzA0MywxOTIxOTg5ND
+c0LDExNzk2MzIzODUsMTQ1MDA3Njg4OCw5ODk4NjgyNjEsLTE1
+MTI2MDU2NjddfQ==
 -->
