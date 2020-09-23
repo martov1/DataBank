@@ -196,10 +196,11 @@ No es dificil ver que si me dan un **cutting speed** entonces probablemente pued
 $$RPM=\frac{\text{perim por min recomendado x fabric}}{\text{permi de una vuelta de  mi herramienta}}$$
 
 **Derivacion de la formula en pulgadas:**
-* **cutting speed** o $V_c$ estara en $SFM$ osea la unidad es $\frac{pies}{min}$
+* **cutting speed recomendado por fabricante** o $V_c$ estara en $SFM$ osea la unidad es $\frac{pies}{min}$
+	* Es decir, nos recomienda un perimetro a recorrer en pies por minuto
+* El perimetro de mi herramienta es $perm=\pi Diametro$
 * $12 feet=1in$
-* La formula de perimetro de un circulo es $\pi D$
-* El fabricante nos recomienda un $SFM$ ó $V_c$, osea un permetro recorrido por minuto en pies
+
 
 
 
@@ -589,11 +590,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDAzMzAyMiwtMTQxMzQ3Nzc1NywtMT
-E4ODIyMTUzLC0xMDYwMjQxNzcsODE3NzU2NTIxLDEwOTkyOTQ5
-OTYsLTU5Mzc5MzA0MywxOTIxOTg5NDc0LDExNzk2MzIzODUsMT
-Q1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MTI2MDU2NjcsLTk1NTQ2
-MzUzNywtMTA4MDkyMTI4MSwxMjYyNjE1NTM3LDU0OTI0NjEyNy
-wtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC0yMDMyNTA0MDA4LC01
-MTk5NTUyOTVdfQ==
+eyJoaXN0b3J5IjpbLTEzNDUzMjAyODIsLTE0MTM0Nzc3NTcsLT
+ExODgyMjE1MywtMTA2MDI0MTc3LDgxNzc1NjUyMSwxMDk5Mjk0
+OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3NCwxMTc5NjMyMzg1LD
+E0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNTEyNjA1NjY3LC05NTU0
+NjM1MzcsLTEwODA5MjEyODEsMTI2MjYxNTUzNyw1NDkyNDYxMj
+csLTE4MjM2NjgxNDUsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwt
+NTE5OTU1Mjk1XX0=
 -->
