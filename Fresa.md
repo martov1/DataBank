@@ -173,6 +173,13 @@ Los fabricantes usan estos nombres en sus tablas y formulas
 * $\frac{metros}{min}$ ó $SFM=V_c$
 * $D=$ Diametro
 
+### Obtener cutting speed y chip load 
+
+
+Los manuales de los fabricantes de herramientas indican que **Chip load** y **cutting speed** se debe usar para **cada herramienta** en combinacion con **el material a cortar**
+
+Para eso cada fabrcante coloca una serie de materiales en diferetes categorias y te indica **cutting speed** y **chip load** 
+
 
 ### Calcular velocidad de giro y avance 
 
@@ -597,7 +604,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTQ5MDQ1NCwtMTEyMDg3MTEyOCwxMj
+eyJoaXN0b3J5IjpbMTg3Nzc4NTk1MiwtMTEyMDg3MTEyOCwxMj
 Q5NzYxMzQ1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNTMsLTEwNjAy
 NDE3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5NiwtNTkzNzkzMDQzLD
 E5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2ODg4LDk4OTg2
