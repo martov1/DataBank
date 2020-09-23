@@ -168,7 +168,9 @@ Los fabricantes usan estos nombres en sus tablas y formulas
 
 
 
-### Calcular velocidad de giro y avance - WIP
+### Calcular velocidad de giro y avance 
+
+[fuente](https://www.youtube.com/watch?v=zzzIpC39WUg)
 
 En una fresa debemos colocar una velocidad de giro y de avance tales que no rompan la herramienta y corten el material lo mas rapido y eficientemente posible.
 
@@ -556,11 +558,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjAyNDE3Nyw4MTc3NTY1MjEsMTA5OT
-I5NDk5NiwtNTkzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4
-NSwxNDUwMDc2ODg4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOT
-U1NDYzNTM3LC0xMDgwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2
-MTI3LC0xODIzNjY4MTQ1LDEwMTgyMjA4OTcsLTIwMzI1MDQwMD
-gsLTUxOTk1NTI5NSwxNzQwMDEzNjQxLDcyNDAwNDU4MywtMzE5
-MDk1NTE0XX0=
+eyJoaXN0b3J5IjpbLTIwMjk3MjAyMDcsLTEwNjAyNDE3Nyw4MT
+c3NTY1MjEsMTA5OTI5NDk5NiwtNTkzNzkzMDQzLDE5MjE5ODk0
+NzQsMTE3OTYzMjM4NSwxNDUwMDc2ODg4LDk4OTg2ODI2MSwtMT
+UxMjYwNTY2NywtOTU1NDYzNTM3LC0xMDgwOTIxMjgxLDEyNjI2
+MTU1MzcsNTQ5MjQ2MTI3LC0xODIzNjY4MTQ1LDEwMTgyMjA4OT
+csLTIwMzI1MDQwMDgsLTUxOTk1NTI5NSwxNzQwMDEzNjQxLDcy
+NDAwNDU4M119
 -->
