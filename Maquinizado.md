@@ -178,7 +178,9 @@ Los fabricantes usan estos nombres en sus tablas y formulas
 
 Los manuales de los fabricantes de herramientas indican que **Chip load** y **cutting speed** se debe usar para **cada herramienta** en combinacion con **el material a cortar**
 
-Para eso cada fabrcante coloca una serie de materiales en diferetes categorias y te indica **cutting speed** y **chip load** para cada m
+Para eso cada fabrcante coloca una serie de materiales en diferetes categorias y te indica **cutting speed** y **chip load** para cada material dentro de cada categoria.
+
+
 
 
 ### Calcular velocidad de giro y avance 
@@ -604,7 +606,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA2MzUyOTQsLTExMjA4NzExMjgsMT
+eyJoaXN0b3J5IjpbLTE1NTIxMDg4MTMsLTExMjA4NzExMjgsMT
 I0OTc2MTM0NSwtMTQxMzQ3Nzc1NywtMTE4ODIyMTUzLC0xMDYw
 MjQxNzcsODE3NzU2NTIxLDEwOTkyOTQ5OTYsLTU5Mzc5MzA0My
 wxOTIxOTg5NDc0LDExNzk2MzIzODUsMTQ1MDA3Njg4OCw5ODk4
