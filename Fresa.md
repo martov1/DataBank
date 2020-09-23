@@ -225,7 +225,10 @@ $$\text{avance}\frac{in}{min}=f_zZ_nn$$
 
 Muchos manuales de fabricante de herramientas te van a dar por lo menos dos parametros de **Cutting speed/SFM** y **Chip load/IPT**
 
-* U
+* Uno para **Slotting**
+* Uno para **Side milling**
+
+Tambien se pueden poner **aun mas especificos** y dar recomendacion
 
 ### Chatter / Vibraciones
 
@@ -565,7 +568,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTc0NDUxMSwtMTA2MDI0MTc3LDgxNz
+eyJoaXN0b3J5IjpbMTg2NzE0MjA0NywtMTA2MDI0MTc3LDgxNz
 c1NjUyMSwxMDk5Mjk0OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3
 NCwxMTc5NjMyMzg1LDE0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNT
 EyNjA1NjY3LC05NTU0NjM1MzcsLTEwODA5MjEyODEsMTI2MjYx
