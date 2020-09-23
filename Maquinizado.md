@@ -190,6 +190,15 @@ Buscamos la combinacion de
 Si  no estas seguro siempre podes **llamar a la  empresa fabricante de la herramienta**
 
 
+Muchos manuales de fabricante de herramientas te van a dar por lo menos dos parametros de **Cutting speed** y **Chip load** dependiendo de la **operacion a realizar**
+
+* Uno para **Slotting**
+* Uno para **Side milling**
+
+Tambien se pueden poner **aun mas especificos** y dar recomendaciones para operaciones muy particulares 
+
+![](https://i.imgur.com/wgWGvzL.png)
+
 ### Calcular velocidad de giro y avance 
 
 [fuente pulgadas](https://www.youtube.com/watch?v=zzzIpC39WUg)
@@ -266,16 +275,6 @@ donde
 * $n$ es $RPM$
 
 
-#### Sloting vs side milling
-
-Muchos manuales de fabricante de herramientas te van a dar por lo menos dos parametros de **Cutting speed/SFM** y **Chip load/IPT**
-
-* Uno para **Slotting**
-* Uno para **Side milling**
-
-Tambien se pueden poner **aun mas especificos** y dar recomendaciones para operaciones muy particulares 
-
-![](https://i.imgur.com/wgWGvzL.png)
 
 ### Chatter / Vibraciones
 
@@ -615,11 +614,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTkyNTU0NywxODAxNDMyNDg2LC0xNT
-UyMTA4ODEzLC0xMTIwODcxMTI4LDEyNDk3NjEzNDUsLTE0MTM0
-Nzc3NTcsLTExODgyMjE1MywtMTA2MDI0MTc3LDgxNzc1NjUyMS
-wxMDk5Mjk0OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3NCwxMTc5
-NjMyMzg1LDE0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNTEyNjA1Nj
-Y3LC05NTU0NjM1MzcsLTEwODA5MjEyODEsMTI2MjYxNTUzNyw1
-NDkyNDYxMjddfQ==
+eyJoaXN0b3J5IjpbMTgyMDIxNjI1NCwxMzA5OTI1NTQ3LDE4MD
+E0MzI0ODYsLTE1NTIxMDg4MTMsLTExMjA4NzExMjgsMTI0OTc2
+MTM0NSwtMTQxMzQ3Nzc1NywtMTE4ODIyMTUzLC0xMDYwMjQxNz
+csODE3NzU2NTIxLDEwOTkyOTQ5OTYsLTU5Mzc5MzA0MywxOTIx
+OTg5NDc0LDExNzk2MzIzODUsMTQ1MDA3Njg4OCw5ODk4NjgyNj
+EsLTE1MTI2MDU2NjcsLTk1NTQ2MzUzNywtMTA4MDkyMTI4MSwx
+MjYyNjE1NTM3XX0=
 -->
