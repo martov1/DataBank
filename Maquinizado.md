@@ -162,12 +162,12 @@ En materiales **duros** como **acero o titanio** es necesario usar **como minimo
 Ej:
 * La herramienta tiene un diametro de $2in$
 	* El perimetro es $\pi D$
-	* $\pi2 = 12.566mm$ por revolucion
+	* $\pi2 = 6.28in$ por revolucion
 * El fabricante me recomienda $SFM=200$
+* $12 feet=1in$
 
+entonces llegamos a la formula
 $$n=\frac{12V_c}{D\pi}$$
-o analogamente $n=\frac{3.82V_c}{D}$
-El 12 convierte feet a inches
 
 $n=381=\frac{12(200)}{2\pi}$
 
@@ -523,11 +523,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM2NTkwMjgsLTU5Mzc5MzA0MywxOT
-IxOTg5NDc0LDExNzk2MzIzODUsMTQ1MDA3Njg4OCw5ODk4Njgy
-NjEsLTE1MTI2MDU2NjcsLTk1NTQ2MzUzNywtMTA4MDkyMTI4MS
-wxMjYyNjE1NTM3LDU0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4
-MjIwODk3LC0yMDMyNTA0MDA4LC01MTk5NTUyOTUsMTc0MDAxMz
-Y0MSw3MjQwMDQ1ODMsLTMxOTA5NTUxNCwxOTgxMjg2NjM3LC03
-OTQ0Njc3NzddfQ==
+eyJoaXN0b3J5IjpbODI0Nzg1MjIzLC01OTM3OTMwNDMsMTkyMT
+k4OTQ3NCwxMTc5NjMyMzg1LDE0NTAwNzY4ODgsOTg5ODY4MjYx
+LC0xNTEyNjA1NjY3LC05NTU0NjM1MzcsLTEwODA5MjEyODEsMT
+I2MjYxNTUzNyw1NDkyNDYxMjcsLTE4MjM2NjgxNDUsMTAxODIy
+MDg5NywtMjAzMjUwNDAwOCwtNTE5OTU1Mjk1LDE3NDAwMTM2ND
+EsNzI0MDA0NTgzLC0zMTkwOTU1MTQsMTk4MTI4NjYzNywtNzk0
+NDY3Nzc3XX0=
 -->
