@@ -192,7 +192,9 @@ Algunos datos
 
 
 entonces llegamos a la formula
-$$RPM=$$
+$$RPM=\frac{\text{perim por min recomendado}}{\text{permi de mi herramienta}}$$
+
+Como $SFM$ esta en f
 $$n=\frac{12V_c}{\pi D}$$
 
 Ejemplo para obtener $n$
@@ -545,11 +547,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTU1MjE0OSwxMDk5Mjk0OTk2LC01OT
-M3OTMwNDMsMTkyMTk4OTQ3NCwxMTc5NjMyMzg1LDE0NTAwNzY4
-ODgsOTg5ODY4MjYxLC0xNTEyNjA1NjY3LC05NTU0NjM1MzcsLT
-EwODA5MjEyODEsMTI2MjYxNTUzNyw1NDkyNDYxMjcsLTE4MjM2
-NjgxNDUsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwtNTE5OTU1Mj
-k1LDE3NDAwMTM2NDEsNzI0MDA0NTgzLC0zMTkwOTU1MTQsMTk4
-MTI4NjYzN119
+eyJoaXN0b3J5IjpbLTE0ODkxNjI3MzQsMTA5OTI5NDk5NiwtNT
+kzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2
+ODg4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYzNTM3LC
+0xMDgwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC0xODIz
+NjY4MTQ1LDEwMTgyMjA4OTcsLTIwMzI1MDQwMDgsLTUxOTk1NT
+I5NSwxNzQwMDEzNjQxLDcyNDAwNDU4MywtMzE5MDk1NTE0LDE5
+ODEyODY2MzddfQ==
 -->
