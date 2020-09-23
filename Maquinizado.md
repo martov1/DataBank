@@ -241,13 +241,15 @@ Por que me dan la **velocidad de corte** o $V_c$ en metros y $1000mm=1m$
 El avance se calcula despues de haber calculado las $RPM$ y de la siguiente manera
 
 Dado 
-* $IPT$ Inch per tooth, a veces indicado como $f_z$
+* **Chipload** Inch per tooth o mm per tooth, a veces indicado como $f_z$
 * Numero de dientes del endmill, indicado como $Z_n$
 * Las $RPM$ que obtuvimos, indicado como $n$
 
 Calculamos el avance tal que **Cada diente en la herramienta coma lo que tiene que comer en las RPM elegidas**
 
+**tanto para mm como para inches**
 $$\text{avance}\frac{in}{min}=f_zZ_nn$$
+
 
 
 
@@ -613,11 +615,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTQzMjQ4NiwtMTU1MjEwODgxMywtMT
-EyMDg3MTEyOCwxMjQ5NzYxMzQ1LC0xNDEzNDc3NzU3LC0xMTg4
-MjIxNTMsLTEwNjAyNDE3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5Ni
-wtNTkzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUw
-MDc2ODg4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYzNT
-M3LC0xMDgwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC0x
-ODIzNjY4MTQ1XX0=
+eyJoaXN0b3J5IjpbMTMwOTkyNTU0NywxODAxNDMyNDg2LC0xNT
+UyMTA4ODEzLC0xMTIwODcxMTI4LDEyNDk3NjEzNDUsLTE0MTM0
+Nzc3NTcsLTExODgyMjE1MywtMTA2MDI0MTc3LDgxNzc1NjUyMS
+wxMDk5Mjk0OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3NCwxMTc5
+NjMyMzg1LDE0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNTEyNjA1Nj
+Y3LC05NTU0NjM1MzcsLTEwODA5MjEyODEsMTI2MjYxNTUzNyw1
+NDkyNDYxMjddfQ==
 -->
