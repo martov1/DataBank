@@ -167,22 +167,23 @@ En materiales **duros** como **acero o titanio** es necesario usar **exactamente
 **Nomenclatura**
 Los fabricantes usan estos nombres en sus tablas y formulas
 * $RPM=n$
-* $\frac{}$$SFM=V_c$
+* $\frac{metros}{min}$ ó $SFM=V_c$
 * $D=$ Diametro
 
 
 
 ### Calcular velocidad de giro y avance 
 
-[fuente](https://www.youtube.com/watch?v=zzzIpC39WUg)
+[fuente pulgadas](https://www.youtube.com/watch?v=zzzIpC39WUg)
+[fuente mm](https://www.youtube.com/watch?v=gTnkNHB7dss)
 
 En una fresa debemos colocar una velocidad de giro y de avance tales que no rompan la herramienta y corten el material lo mas rapido y eficientemente posible.
 
 para eso tenemos que **ver las especificaciones del fabricante para la herramienta que tenemos segun el material que tenemos**
 
 Para una herramienta determinada y un material determinado el fabricante nos dara
-* **IPT** 
-* **SFM**
+* **Chip load** 
+* **Cutting speed**
 
 A partir de eso nosotros debemos determinar **Feed y RPM**
 
@@ -586,11 +587,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA5ODYzMjUsLTE0MTM0Nzc3NTcsLT
-ExODgyMjE1MywtMTA2MDI0MTc3LDgxNzc1NjUyMSwxMDk5Mjk0
-OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3NCwxMTc5NjMyMzg1LD
-E0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNTEyNjA1NjY3LC05NTU0
-NjM1MzcsLTEwODA5MjEyODEsMTI2MjYxNTUzNyw1NDkyNDYxMj
-csLTE4MjM2NjgxNDUsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwt
-NTE5OTU1Mjk1XX0=
+eyJoaXN0b3J5IjpbOTkzMTIyNzU4LC0xNDEzNDc3NzU3LC0xMT
+g4MjIxNTMsLTEwNjAyNDE3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5
+NiwtNTkzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwxND
+UwMDc2ODg4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYz
+NTM3LC0xMDgwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC
+0xODIzNjY4MTQ1LDEwMTgyMjA4OTcsLTIwMzI1MDQwMDgsLTUx
+OTk1NTI5NV19
 -->
