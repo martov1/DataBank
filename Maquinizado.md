@@ -156,26 +156,15 @@ distancia recorrida por los filos de la herramienta sobre el material en un minu
 
 **Cada herramienta de cada fabricante tiene un $SFM$ recomendado para cada material**
 
-A diferencia de **chip load**, podemos usar un **SFM** menor al recomendado sin problemas en materiales blandos como aluminio. El fabricante nos recomienda un **SFM** para maximizar nuestra productividad pero no siempre podemos lograrlo con la maquina que tenemos, y eso es normal.
+Podemos usar un **SFM** menor al recomendado sin problemas en materiales blandos como aluminio. El fabricante nos recomienda un **SFM** para maximizar nuestra productividad pero no siempre podemos lograrlo con la maquina que tenemos, y eso es normal.
 
 En materiales **duros** como **acero o titanio** es necesario usar **como minimo el SFM del fabricante**
-
-Ej:
-* La herramienta tiene un diametro de $2$
-	* El perimetro es $2\pi r$
-	* $2\pi2 = 12.566mm$ por revolucion
-* La giro a $300 RPM$
-
-Entonces tengo un la superficie por minuto es $(300)(12.566)=3769800\frac{mm}{min}$, pasado a pies
-
-$SFM=12368.11024\frac{feet}{min}$
-
 Ej:
 * La herramienta tiene un diametro de $2in$
-	* El perimetro es $2\pi r$
-	* $2\pi2 = 12.566mm$ por revolucion
+	* El perimetro es $\pi D$
+	* $\pi2 = 12.566mm$ por revolucion
 * El fabricante me recomienda $SFM=200$
-* 
+
 $$n=\frac{12V_c}{D\pi}$$
 o analogamente $n=\frac{3.82V_c}{D}$
 El 12 convierte feet a inches
@@ -534,11 +523,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Mzc5MzA0MywxOTIxOTg5NDc0LDExNz
-k2MzIzODUsMTQ1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MTI2MDU2
-NjcsLTk1NTQ2MzUzNywtMTA4MDkyMTI4MSwxMjYyNjE1NTM3LD
-U0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC0yMDMy
-NTA0MDA4LC01MTk5NTUyOTUsMTc0MDAxMzY0MSw3MjQwMDQ1OD
-MsLTMxOTA5NTUxNCwxOTgxMjg2NjM3LC03OTQ0Njc3NzcsLTM5
-NDMxNTk5NF19
+eyJoaXN0b3J5IjpbLTEyMzM2NTkwMjgsLTU5Mzc5MzA0MywxOT
+IxOTg5NDc0LDExNzk2MzIzODUsMTQ1MDA3Njg4OCw5ODk4Njgy
+NjEsLTE1MTI2MDU2NjcsLTk1NTQ2MzUzNywtMTA4MDkyMTI4MS
+wxMjYyNjE1NTM3LDU0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4
+MjIwODk3LC0yMDMyNTA0MDA4LC01MTk5NTUyOTUsMTc0MDAxMz
+Y0MSw3MjQwMDQ1ODMsLTMxOTA5NTUxNCwxOTgxMjg2NjM3LC03
+OTQ0Njc3NzddfQ==
 -->
