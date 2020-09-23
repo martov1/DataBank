@@ -202,8 +202,8 @@ Perim  minimo recomendado por el fabriante tiene que estar en la unidad de diame
 
 Dada la siguiente nomenclatura de catalogos
 $n=$ RPM, lo que queremos obtener
-$V_c$= Cutting speed, sale del
-$D$= Diammetro de la herramienta en mm
+$V_c$= Cutting speed, sale del catalogo
+$D$= Diammetro de la herramienta en mm, sale del catalogo
 
 **Formula version pulgadas**
 
@@ -593,11 +593,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTgzNDc1OTcsLTE0MTM0Nzc3NTcsLT
-ExODgyMjE1MywtMTA2MDI0MTc3LDgxNzc1NjUyMSwxMDk5Mjk0
-OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3NCwxMTc5NjMyMzg1LD
-E0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNTEyNjA1NjY3LC05NTU0
-NjM1MzcsLTEwODA5MjEyODEsMTI2MjYxNTUzNyw1NDkyNDYxMj
-csLTE4MjM2NjgxNDUsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwt
-NTE5OTU1Mjk1XX0=
+eyJoaXN0b3J5IjpbMTI0OTc2MTM0NSwtMTQxMzQ3Nzc1NywtMT
+E4ODIyMTUzLC0xMDYwMjQxNzcsODE3NzU2NTIxLDEwOTkyOTQ5
+OTYsLTU5Mzc5MzA0MywxOTIxOTg5NDc0LDExNzk2MzIzODUsMT
+Q1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MTI2MDU2NjcsLTk1NTQ2
+MzUzNywtMTA4MDkyMTI4MSwxMjYyNjE1NTM3LDU0OTI0NjEyNy
+wtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC0yMDMyNTA0MDA4LC01
+MTk5NTUyOTVdfQ==
 -->
