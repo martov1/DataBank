@@ -178,7 +178,7 @@ Los fabricantes usan estos nombres en sus tablas y formulas
 
 Los manuales de los fabricantes de herramientas indican que **Chip load** y **cutting speed** se debe usar para **cada herramienta** en combinacion con **el material a cortar**
 
-Para eso cada fabrcante coloca una serie de materiales en diferetes categorias y te indica **cutting speed** y **chip load** para cada material dentro de cada categoria.
+Para eso cada fabrcante coloca una serie de materiales en diferetes categorias y te indica **cutting speed** y **chip load** para cada material dentro de cada categoria y subcategoria.
 
 ![](https://i.imgur.com/LxCBhPB.png)
 
@@ -186,6 +186,8 @@ Buscamos la combinacion de
 * Herramienta
 * Material a cortar
 * Operacion
+
+Si  no estas seguro siempre podes **llamar a la  empresa fabricante de la herramienta**
 
 
 ### Calcular velocidad de giro y avance 
@@ -611,11 +613,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg3MzgxNjMsLTE1NTIxMDg4MTMsLT
-ExMjA4NzExMjgsMTI0OTc2MTM0NSwtMTQxMzQ3Nzc1NywtMTE4
-ODIyMTUzLC0xMDYwMjQxNzcsODE3NzU2NTIxLDEwOTkyOTQ5OT
-YsLTU5Mzc5MzA0MywxOTIxOTg5NDc0LDExNzk2MzIzODUsMTQ1
-MDA3Njg4OCw5ODk4NjgyNjEsLTE1MTI2MDU2NjcsLTk1NTQ2Mz
-UzNywtMTA4MDkyMTI4MSwxMjYyNjE1NTM3LDU0OTI0NjEyNywt
-MTgyMzY2ODE0NV19
+eyJoaXN0b3J5IjpbMTgwMTQzMjQ4NiwtMTU1MjEwODgxMywtMT
+EyMDg3MTEyOCwxMjQ5NzYxMzQ1LC0xNDEzNDc3NzU3LC0xMTg4
+MjIxNTMsLTEwNjAyNDE3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5Ni
+wtNTkzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUw
+MDc2ODg4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYzNT
+M3LC0xMDgwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC0x
+ODIzNjY4MTQ1XX0=
 -->
