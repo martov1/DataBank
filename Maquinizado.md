@@ -103,9 +103,15 @@ La herramienta **salvo en casos particulares** debe girar en la direccion de la 
 
 ### Width of cut/ length of cut
 
-**Width of cut:** que porcentaje de la herramienta esta embutida en el material. Intentar alrededor de **30%** para una mejor e
+* **Width of cut:** que porcentaje de la herramienta esta embutida en el material. Intentar alrededor de **30%** para 
+	* una mejor evacuacion de chips.
+	* Menor temperatura
+	* Menor necesidad de lubricacion 
 
-**Deepth of cut:** que profundidad del largo util de la herramienta esta ebutida en el material, intentar que sea **100%** para hacer un desgaste parejo de la herramienta
+.
+
+* **Deepth of cut:** que profundidad del largo util de la herramienta esta ebutida en el material, intentar que sea **100%** para 
+	*  Un desgaste parejo de la herramienta
 
 
 ### Direccion de corte (climb /conventional )
@@ -624,11 +630,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjU1OTAwMSwtMTUxMzc5NzE2NywtNj
-Y1NTQ4NjMwLC0xNjAyMDI1MTA3LDkzMTE0OTYzNiwxMzA5OTI1
-NTQ3LDE4MDE0MzI0ODYsLTE1NTIxMDg4MTMsLTExMjA4NzExMj
-gsMTI0OTc2MTM0NSwtMTQxMzQ3Nzc1NywtMTE4ODIyMTUzLC0x
-MDYwMjQxNzcsODE3NzU2NTIxLDEwOTkyOTQ5OTYsLTU5Mzc5Mz
-A0MywxOTIxOTg5NDc0LDExNzk2MzIzODUsMTQ1MDA3Njg4OCw5
-ODk4NjgyNjFdfQ==
+eyJoaXN0b3J5IjpbLTE3NDA2Njc1OTEsLTE1MTM3OTcxNjcsLT
+Y2NTU0ODYzMCwtMTYwMjAyNTEwNyw5MzExNDk2MzYsMTMwOTky
+NTU0NywxODAxNDMyNDg2LC0xNTUyMTA4ODEzLC0xMTIwODcxMT
+I4LDEyNDk3NjEzNDUsLTE0MTM0Nzc3NTcsLTExODgyMjE1Mywt
+MTA2MDI0MTc3LDgxNzc1NjUyMSwxMDk5Mjk0OTk2LC01OTM3OT
+MwNDMsMTkyMTk4OTQ3NCwxMTc5NjMyMzg1LDE0NTAwNzY4ODgs
+OTg5ODY4MjYxXX0=
 -->
