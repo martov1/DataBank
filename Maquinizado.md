@@ -175,6 +175,7 @@ Los fabricantes usan estos nombres en sus tablas y formulas
 
 
 
+
 ### Calcular velocidad de giro y avance 
 
 [fuente pulgadas](https://www.youtube.com/watch?v=zzzIpC39WUg)
@@ -598,11 +599,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjU4OTQ0NCwtMTEyMDg3MTEyOCwxMj
-Q5NzYxMzQ1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNTMsLTEwNjAy
-NDE3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5NiwtNTkzNzkzMDQzLD
-E5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2ODg4LDk4OTg2
-ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYzNTM3LC0xMDgwOTIxMj
-gxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC0xODIzNjY4MTQ1LDEw
-MTgyMjA4OTddfQ==
+eyJoaXN0b3J5IjpbLTE3MTQ0Njg2MjIsLTExMjA4NzExMjgsMT
+I0OTc2MTM0NSwtMTQxMzQ3Nzc1NywtMTE4ODIyMTUzLC0xMDYw
+MjQxNzcsODE3NzU2NTIxLDEwOTkyOTQ5OTYsLTU5Mzc5MzA0My
+wxOTIxOTg5NDc0LDExNzk2MzIzODUsMTQ1MDA3Njg4OCw5ODk4
+NjgyNjEsLTE1MTI2MDU2NjcsLTk1NTQ2MzUzNywtMTA4MDkyMT
+I4MSwxMjYyNjE1NTM3LDU0OTI0NjEyNywtMTgyMzY2ODE0NSwx
+MDE4MjIwODk3XX0=
 -->
