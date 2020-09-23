@@ -234,6 +234,9 @@ Calculamos el avance tal que **Cada diente en la herramienta coma lo que tiene q
 
 $$\text{avance}\frac{in}{min}=f_zZ_nn$$
 
+$$\text{avance}\frac{mm}{min}=f_zZ_nn$$
+
+
 #### Avance / Feed para drilling
 En el caso de tener que taladrar con una mecha de taladro, no se usa **IPT (inch per tooth)** sino **IPR (Inch per revolution)** el calculo sera
 
@@ -596,11 +599,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjA4NzExMjgsMTI0OTc2MTM0NSwtMT
-QxMzQ3Nzc1NywtMTE4ODIyMTUzLC0xMDYwMjQxNzcsODE3NzU2
-NTIxLDEwOTkyOTQ5OTYsLTU5Mzc5MzA0MywxOTIxOTg5NDc0LD
-ExNzk2MzIzODUsMTQ1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MTI2
-MDU2NjcsLTk1NTQ2MzUzNywtMTA4MDkyMTI4MSwxMjYyNjE1NT
-M3LDU0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC0y
-MDMyNTA0MDA4XX0=
+eyJoaXN0b3J5IjpbMTAwNDU4NTYzNiwtMTEyMDg3MTEyOCwxMj
+Q5NzYxMzQ1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNTMsLTEwNjAy
+NDE3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5NiwtNTkzNzkzMDQzLD
+E5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2ODg4LDk4OTg2
+ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYzNTM3LC0xMDgwOTIxMj
+gxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC0xODIzNjY4MTQ1LDEw
+MTgyMjA4OTddfQ==
 -->
