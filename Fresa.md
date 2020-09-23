@@ -176,7 +176,8 @@ Ej:
 	* $2\pi2 = 12.566mm$ por revolucion
 * El fabricante me recomienda $SFM=200$
 * 
-$n=\frac{12V_c}{D\pi}$
+$$n=\frac{12V_c}{D\pi}$$
+o analogamente $n=\frac{3.82V_c}{D}$
 El 12 convierte feet a inches
 
 $n=381=\frac{12(200)}{2\pi}$
@@ -533,11 +534,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MTc5OTYsMTkyMTk4OTQ3NCwxMTc5Nj
-MyMzg1LDE0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNTEyNjA1NjY3
-LC05NTU0NjM1MzcsLTEwODA5MjEyODEsMTI2MjYxNTUzNyw1ND
-kyNDYxMjcsLTE4MjM2NjgxNDUsMTAxODIyMDg5NywtMjAzMjUw
-NDAwOCwtNTE5OTU1Mjk1LDE3NDAwMTM2NDEsNzI0MDA0NTgzLC
-0zMTkwOTU1MTQsMTk4MTI4NjYzNywtNzk0NDY3Nzc3LC0zOTQz
-MTU5OTRdfQ==
+eyJoaXN0b3J5IjpbLTU5Mzc5MzA0MywxOTIxOTg5NDc0LDExNz
+k2MzIzODUsMTQ1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MTI2MDU2
+NjcsLTk1NTQ2MzUzNywtMTA4MDkyMTI4MSwxMjYyNjE1NTM3LD
+U0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC0yMDMy
+NTA0MDA4LC01MTk5NTUyOTUsMTc0MDAxMzY0MSw3MjQwMDQ1OD
+MsLTMxOTA5NTUxNCwxOTgxMjg2NjM3LC03OTQ0Njc3NzcsLTM5
+NDMxNTk5NF19
 -->
