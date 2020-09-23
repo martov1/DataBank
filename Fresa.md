@@ -174,7 +174,6 @@ Los fabricantes usan estos nombres en sus tablas y formulas
 * $D=$ Diametro
 
 
-
 ### Calcular velocidad de giro y avance 
 
 [fuente pulgadas](https://www.youtube.com/watch?v=zzzIpC39WUg)
@@ -598,7 +597,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjU4OTQ0NCwtMTEyMDg3MTEyOCwxMj
+eyJoaXN0b3J5IjpbMTAzNTQ5MDQ1NCwtMTEyMDg3MTEyOCwxMj
 Q5NzYxMzQ1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNTMsLTEwNjAy
 NDE3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5NiwtNTkzNzkzMDQzLD
 E5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2ODg4LDk4OTg2
