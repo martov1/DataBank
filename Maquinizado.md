@@ -101,6 +101,12 @@ La herramienta **salvo en casos particulares** debe girar en la direccion de la 
 
 ![Top 8 Milling Tools for New CNC Machinists - Fusion 360 Blog](https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2018/05/1-rotation-direction.png)
 
+### Width of cut/ length of cut
+
+**Width of cut:** que porcentaje de la herramienta esta embutida en el material. Intentar alrededor de **30%**
+**Deepth of cut:**
+
+
 ### Direccion de corte (climb /conventional )
 
 Recordemos que el filo y la forma de la herramienta afecta una serie de factores a la hora de cortar, por ejemplo la direccion hacia donde sale la viruta y la direccion del filo.
@@ -617,11 +623,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMT
-YwMjAyNTEwNyw5MzExNDk2MzYsMTMwOTkyNTU0NywxODAxNDMy
-NDg2LC0xNTUyMTA4ODEzLC0xMTIwODcxMTI4LDEyNDk3NjEzND
-UsLTE0MTM0Nzc3NTcsLTExODgyMjE1MywtMTA2MDI0MTc3LDgx
-Nzc1NjUyMSwxMDk5Mjk0OTk2LC01OTM3OTMwNDMsMTkyMTk4OT
-Q3NCwxMTc5NjMyMzg1LDE0NTAwNzY4ODgsOTg5ODY4MjYxLC0x
-NTEyNjA1NjY3XX0=
+eyJoaXN0b3J5IjpbMTQwNzY3OTY0MCwtMTUxMzc5NzE2NywtNj
+Y1NTQ4NjMwLC0xNjAyMDI1MTA3LDkzMTE0OTYzNiwxMzA5OTI1
+NTQ3LDE4MDE0MzI0ODYsLTE1NTIxMDg4MTMsLTExMjA4NzExMj
+gsMTI0OTc2MTM0NSwtMTQxMzQ3Nzc1NywtMTE4ODIyMTUzLC0x
+MDYwMjQxNzcsODE3NzU2NTIxLDEwOTkyOTQ5OTYsLTU5Mzc5Mz
+A0MywxOTIxOTg5NDc0LDExNzk2MzIzODUsMTQ1MDA3Njg4OCw5
+ODk4NjgyNjFdfQ==
 -->
