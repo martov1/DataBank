@@ -3,6 +3,9 @@
 	* Genera bordes en un angulo
 * Fishtail endmills
 
+**Terminar feeds and speed en metrico**
+https://www.youtube.com/watch?v=gTnkNHB7dss
+
 
 **Ver rapidamente este de seleccion de herramientas**
 https://www.youtube.com/watch?v=Bupr_IR-_Pk&list=PLzc0Bm2I_0pn1lfdvG2xIG_z4-YiaTq1H
@@ -582,11 +585,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODgyMjE1MywtMTA2MDI0MTc3LDgxNz
-c1NjUyMSwxMDk5Mjk0OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3
-NCwxMTc5NjMyMzg1LDE0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNT
-EyNjA1NjY3LC05NTU0NjM1MzcsLTEwODA5MjEyODEsMTI2MjYx
-NTUzNyw1NDkyNDYxMjcsLTE4MjM2NjgxNDUsMTAxODIyMDg5Ny
-wtMjAzMjUwNDAwOCwtNTE5OTU1Mjk1LDE3NDAwMTM2NDEsNzI0
-MDA0NTgzXX0=
+eyJoaXN0b3J5IjpbLTE0MTM0Nzc3NTcsLTExODgyMjE1MywtMT
+A2MDI0MTc3LDgxNzc1NjUyMSwxMDk5Mjk0OTk2LC01OTM3OTMw
+NDMsMTkyMTk4OTQ3NCwxMTc5NjMyMzg1LDE0NTAwNzY4ODgsOT
+g5ODY4MjYxLC0xNTEyNjA1NjY3LC05NTU0NjM1MzcsLTEwODA5
+MjEyODEsMTI2MjYxNTUzNyw1NDkyNDYxMjcsLTE4MjM2NjgxND
+UsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwtNTE5OTU1Mjk1LDE3
+NDAwMTM2NDFdfQ==
 -->
