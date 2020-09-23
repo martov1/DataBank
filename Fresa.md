@@ -207,9 +207,10 @@ $n=381\text{ RPM}=\frac{12(200)}{2\pi}$
 
 #### Avance / Feed
 
-El avance se calcula de la siguiente manera
-
-$\text{avance}\frac{in}{min}=(IPT)(\text{})$
+El avance se calcula despues de haber calculado las $RPM$ y de la siguiente manera
+* $IPT$ Inch per tooth, a veces indicado como $f_z$
+* Numero de dientes del endmill, indicado como $Z_n$
+$\text{avance}\frac{in}{min}=f_zZ_n(RPM)$
 
 ### Chatter / Vibraciones
 
@@ -549,7 +550,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIxMDQ4NSw4MTc3NTY1MjEsMTA5OT
+eyJoaXN0b3J5IjpbLTU2NDk1MTQ2Myw4MTc3NTY1MjEsMTA5OT
 I5NDk5NiwtNTkzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4
 NSwxNDUwMDc2ODg4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOT
 U1NDYzNTM3LC0xMDgwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2
