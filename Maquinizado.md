@@ -400,11 +400,12 @@ En terminos generales usamos
 	* Madera
 	* Metales blandos (aluminio)
 * **3 - 4 flutes**
-	* Detalles
+	* Terminados en metales blandos
 	* Metales duros
 * **>6**
 	* Fibra de carbono
 	* Acero de herramientas
+	* Terminados
 
 ### Angulos 
 **Geometria de la punta**
@@ -610,11 +611,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxMTQ5NjM2LDEzMDk5MjU1NDcsMTgwMT
-QzMjQ4NiwtMTU1MjEwODgxMywtMTEyMDg3MTEyOCwxMjQ5NzYx
-MzQ1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNTMsLTEwNjAyNDE3Ny
-w4MTc3NTY1MjEsMTA5OTI5NDk5NiwtNTkzNzkzMDQzLDE5MjE5
-ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2ODg4LDk4OTg2ODI2MS
-wtMTUxMjYwNTY2NywtOTU1NDYzNTM3LC0xMDgwOTIxMjgxLDEy
-NjI2MTU1MzddfQ==
+eyJoaXN0b3J5IjpbLTExMjU2OTcyODMsOTMxMTQ5NjM2LDEzMD
+k5MjU1NDcsMTgwMTQzMjQ4NiwtMTU1MjEwODgxMywtMTEyMDg3
+MTEyOCwxMjQ5NzYxMzQ1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNT
+MsLTEwNjAyNDE3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5NiwtNTkz
+NzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2OD
+g4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYzNTM3LC0x
+MDgwOTIxMjgxXX0=
 -->
