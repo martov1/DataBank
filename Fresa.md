@@ -192,9 +192,9 @@ Algunos datos
 
 
 entonces llegamos a la formula
-$$RPM=\frac{\text{perim por min recomendado}}{\text{permi de mi herramienta}}$$
+$$RPM=\frac{\text{perim por min recomendado}}{\text{permi de una vuelta de  mi herramienta}}$$
 
-Como $SFM$ esta en f
+Como $SFM$ esta en feet lo paso a inches multiplicando por $12$, cambio las letras de nomenclatura y me queda
 $$n=\frac{12V_c}{\pi D}$$
 
 Ejemplo para obtener $n$
@@ -203,7 +203,7 @@ Ejemplo para obtener $n$
 
 Sabemos que la superficie por revolucion de nuestra herramienta es entonces  $\pi2 = 6.28in$
 
-$n=381=\frac{12(200)}{2\pi}$
+$n=381\text{ RPM}=\frac{12(200)}{2\pi}$
 
 #### Avance / Feed
 
@@ -547,11 +547,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODkxNjI3MzQsMTA5OTI5NDk5NiwtNT
-kzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2
-ODg4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYzNTM3LC
-0xMDgwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC0xODIz
-NjY4MTQ1LDEwMTgyMjA4OTcsLTIwMzI1MDQwMDgsLTUxOTk1NT
-I5NSwxNzQwMDEzNjQxLDcyNDAwNDU4MywtMzE5MDk1NTE0LDE5
-ODEyODY2MzddfQ==
+eyJoaXN0b3J5IjpbODE3NzU2NTIxLDEwOTkyOTQ5OTYsLTU5Mz
+c5MzA0MywxOTIxOTg5NDc0LDExNzk2MzIzODUsMTQ1MDA3Njg4
+OCw5ODk4NjgyNjEsLTE1MTI2MDU2NjcsLTk1NTQ2MzUzNywtMT
+A4MDkyMTI4MSwxMjYyNjE1NTM3LDU0OTI0NjEyNywtMTgyMzY2
+ODE0NSwxMDE4MjIwODk3LC0yMDMyNTA0MDA4LC01MTk5NTUyOT
+UsMTc0MDAxMzY0MSw3MjQwMDQ1ODMsLTMxOTA5NTUxNCwxOTgx
+Mjg2NjM3XX0=
 -->
