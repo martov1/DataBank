@@ -329,8 +329,10 @@ A diferencia de los drill bits, que estan diseñados para **perforar hacia abajo
 
 EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta el final del angulo de la flute
 ![](https://i.imgur.com/tRfjT1I.png)
+_Largo de corte utilizable de una herramienta_
 
-
+![](https://i.imgur.com/rUPIbsE.png)
+_Usar  el menor largo de herramienta posible_
 **Ancho**
 * Cuanto mas ancho **mas rigidez** y  por ende menor posibilidad de **chatter**
 * Cuanto mas ancho **mas precio**
@@ -613,11 +615,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyODkxMzMxLC0xNjAyMDI1MTA3LDkzMT
-E0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0ODYsLTE1NTIxMDg4
-MTMsLTExMjA4NzExMjgsMTI0OTc2MTM0NSwtMTQxMzQ3Nzc1Ny
-wtMTE4ODIyMTUzLC0xMDYwMjQxNzcsODE3NzU2NTIxLDEwOTky
-OTQ5OTYsLTU5Mzc5MzA0MywxOTIxOTg5NDc0LDExNzk2MzIzOD
-UsMTQ1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MTI2MDU2NjcsLTk1
-NTQ2MzUzN119
+eyJoaXN0b3J5IjpbLTY2NTU0ODYzMCwtMTYwMjAyNTEwNyw5Mz
+ExNDk2MzYsMTMwOTkyNTU0NywxODAxNDMyNDg2LC0xNTUyMTA4
+ODEzLC0xMTIwODcxMTI4LDEyNDk3NjEzNDUsLTE0MTM0Nzc3NT
+csLTExODgyMjE1MywtMTA2MDI0MTc3LDgxNzc1NjUyMSwxMDk5
+Mjk0OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3NCwxMTc5NjMyMz
+g1LDE0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNTEyNjA1NjY3LC05
+NTU0NjM1MzddfQ==
 -->
