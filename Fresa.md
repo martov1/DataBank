@@ -179,9 +179,15 @@ Para una herramienta determinada y un material determinado el fabricante nos dar
 * **SFM**
 
 A partir de eso nosotros debemos determinar **Feed y RPM**
-#### 
-Nociones para obtener las $RPM$
-* La herramienta tiene un diametro ej$2in$
+
+
+#### spindle RPM 
+
+las $RPM$ o $n$ dependeran del $SFM$ de la herramienta en cuestion para el material en cuestion, segun determine el fabricante
+
+Ejemplo
+* El diametro de mi herramienta es $2in$
+* La herramienta tiene un diametro ej
 	* La formula de perimetro de un circulo es $\pi D$
 	* la superficie por revolucion entonces es $\pi2 = 6.28in$
 * El fabricante me recomienda $V_c=200$
@@ -193,6 +199,11 @@ $$n=\frac{12V_c}{\pi D}$$
 Ejemplo para obtener $n$
 
 $n=381=\frac{12(200)}{2\pi}$
+
+#### Avance / Feed
+
+
+
 ### Chatter / Vibraciones
 
 [fuente](https://www.youtube.com/watch?v=rKPxfzx3sxE)
@@ -531,11 +542,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0NjM5NzgsMTA5OTI5NDk5NiwtNTkzNz
-kzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2ODg4
-LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYzNTM3LC0xMD
-gwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC0xODIzNjY4
-MTQ1LDEwMTgyMjA4OTcsLTIwMzI1MDQwMDgsLTUxOTk1NTI5NS
-wxNzQwMDEzNjQxLDcyNDAwNDU4MywtMzE5MDk1NTE0LDE5ODEy
-ODY2MzddfQ==
+eyJoaXN0b3J5IjpbMjA5NzQ5Nzk0NiwxMDk5Mjk0OTk2LC01OT
+M3OTMwNDMsMTkyMTk4OTQ3NCwxMTc5NjMyMzg1LDE0NTAwNzY4
+ODgsOTg5ODY4MjYxLC0xNTEyNjA1NjY3LC05NTU0NjM1MzcsLT
+EwODA5MjEyODEsMTI2MjYxNTUzNyw1NDkyNDYxMjcsLTE4MjM2
+NjgxNDUsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwtNTE5OTU1Mj
+k1LDE3NDAwMTM2NDEsNzI0MDA0NTgzLC0zMTkwOTU1MTQsMTk4
+MTI4NjYzN119
 -->
