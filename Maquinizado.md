@@ -169,13 +169,15 @@ Los fabricantes usan estos nombres en sus tablas y formulas
 
 Nociones para obtener las $RPM$
 * La herramienta tiene un diametro ej$2in$
-	* El perimetro es $\pi D$
-	* $\pi2 = 6.28in$ por revolucion
+	* La formula de perimetro de un circulo es $\pi D$
+	* la superficie por revolucion entonces es $\pi2 = 6.28in$
 * El fabricante me recomienda $V_c=200$
 * $12 feet=1in$
 
 entonces llegamos a la formula
-$$n=\frac{12V_c}{D\pi}$$
+$$n=\frac{12V_c}{\pi D}$$
+
+Ejemplo para obtener $n$
 
 $n=381=\frac{12(200)}{2\pi}$
 
@@ -531,11 +533,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg1NTYwMjgsLTU5Mzc5MzA0MywxOT
-IxOTg5NDc0LDExNzk2MzIzODUsMTQ1MDA3Njg4OCw5ODk4Njgy
-NjEsLTE1MTI2MDU2NjcsLTk1NTQ2MzUzNywtMTA4MDkyMTI4MS
-wxMjYyNjE1NTM3LDU0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4
-MjIwODk3LC0yMDMyNTA0MDA4LC01MTk5NTUyOTUsMTc0MDAxMz
-Y0MSw3MjQwMDQ1ODMsLTMxOTA5NTUxNCwxOTgxMjg2NjM3LC03
-OTQ0Njc3NzddfQ==
+eyJoaXN0b3J5IjpbMTA5OTI5NDk5NiwtNTkzNzkzMDQzLDE5Mj
+E5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2ODg4LDk4OTg2ODI2
+MSwtMTUxMjYwNTY2NywtOTU1NDYzNTM3LC0xMDgwOTIxMjgxLD
+EyNjI2MTU1MzcsNTQ5MjQ2MTI3LC0xODIzNjY4MTQ1LDEwMTgy
+MjA4OTcsLTIwMzI1MDQwMDgsLTUxOTk1NTI5NSwxNzQwMDEzNj
+QxLDcyNDAwNDU4MywtMzE5MDk1NTE0LDE5ODEyODY2MzcsLTc5
+NDQ2Nzc3N119
 -->
