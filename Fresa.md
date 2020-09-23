@@ -167,6 +167,19 @@ Los fabricantes usan estos nombres en sus tablas y formulas
 * $D=$ Diametro
 
 
+
+### Calcular velocidad de giro y avance - WIP
+
+En una fresa debemos colocar una velocidad de giro y de avance tales que no rompan la herramienta y corten el material lo mas rapido y eficientemente posible.
+
+para eso tenemos que **ver las especificaciones del fabricante para la herramienta que tenemos segun el material que tenemos**
+
+Para una herramienta determinada y un material determinado el fabricante nos dara
+* **IPT** 
+* **SFM**
+
+A partir de eso nosotros debemos determinar **Feed y RPM**
+#### 
 Nociones para obtener las $RPM$
 * La herramienta tiene un diametro ej$2in$
 	* La formula de perimetro de un circulo es $\pi D$
@@ -180,21 +193,6 @@ $$n=\frac{12V_c}{\pi D}$$
 Ejemplo para obtener $n$
 
 $n=381=\frac{12(200)}{2\pi}$
-
-### Calcular velocidad de giro y avance - WIP
-
-En una fresa debemos colocar una velocidad de giro y de avance tales que no rompan la herramienta y corten el material lo mas rapido y eficientemente posible.
-
-para eso tenemos que **ver las especificaciones del fabricante para la herramienta que tenemos segun el material que tenemos**
-
-El fabricante nos dara
-* **IPT** 
-* **SFM**
-
-A partir de eso nosotros debemos determinar **Feed y RPM**
-
-$\text{chip load}=\frac{feed}{(RPM)(\text{nro de filos})}$
-
 ### Chatter / Vibraciones
 
 [fuente](https://www.youtube.com/watch?v=rKPxfzx3sxE)
@@ -533,11 +531,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTI5NDk5NiwtNTkzNzkzMDQzLDE5Mj
-E5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2ODg4LDk4OTg2ODI2
-MSwtMTUxMjYwNTY2NywtOTU1NDYzNTM3LC0xMDgwOTIxMjgxLD
-EyNjI2MTU1MzcsNTQ5MjQ2MTI3LC0xODIzNjY4MTQ1LDEwMTgy
-MjA4OTcsLTIwMzI1MDQwMDgsLTUxOTk1NTI5NSwxNzQwMDEzNj
-QxLDcyNDAwNDU4MywtMzE5MDk1NTE0LDE5ODEyODY2MzcsLTc5
-NDQ2Nzc3N119
+eyJoaXN0b3J5IjpbMzM0NjM5NzgsMTA5OTI5NDk5NiwtNTkzNz
+kzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2ODg4
+LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYzNTM3LC0xMD
+gwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC0xODIzNjY4
+MTQ1LDEwMTgyMjA4OTcsLTIwMzI1MDQwMDgsLTUxOTk1NTI5NS
+wxNzQwMDEzNjQxLDcyNDAwNDU4MywtMzE5MDk1NTE0LDE5ODEy
+ODY2MzddfQ==
 -->
