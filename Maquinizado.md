@@ -384,7 +384,7 @@ A grandes razgos
 
 * **Mas flutes**
 	*  Mejor terminado
-	* Mas filos sigifica que podemos tener **mas velocidad de avance** y entonces **cortar mas rapido** que con menos flutes
+	* Mas filos sigifica que podemos tener **mas velocidad de avance con el mismo chip load** y entonces **cortar mas rapido** que con menos flutes
 	*  Peor chip clearing
 		* Si el material es duro, tenes chips mas chiquitos
 		* En materiales blandos esto implica mas friccion entre chips, eso puede **derretir plastico** o **fundir aluminio** en lugar de cortarlo
@@ -611,7 +611,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU2OTcyODMsOTMxMTQ5NjM2LDEzMD
+eyJoaXN0b3J5IjpbLTE2MDIwMjUxMDcsOTMxMTQ5NjM2LDEzMD
 k5MjU1NDcsMTgwMTQzMjQ4NiwtMTU1MjEwODgxMywtMTEyMDg3
 MTEyOCwxMjQ5NzYxMzQ1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNT
 MsLTEwNjAyNDE3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5NiwtNTkz
