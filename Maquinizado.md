@@ -225,7 +225,10 @@ $$\text{avance}\frac{in}{min}=f_zZ_nn$$
 
 Muchos manuales de fabricante de herramientas te van a dar por lo menos dos parametros de **Cutting speed/SFM** y **Chip load/IPT**
 
-* Uno para 
+* Uno para **Slotting**
+* Uno para **Side milling**
+
+Tambien se pueden poner **aun mas especificos** y dar recomendaciones para operacio
 
 ### Chatter / Vibraciones
 
@@ -565,11 +568,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5MzM3MDg2LC0xMDYwMjQxNzcsODE3Nz
-U2NTIxLDEwOTkyOTQ5OTYsLTU5Mzc5MzA0MywxOTIxOTg5NDc0
-LDExNzk2MzIzODUsMTQ1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MT
-I2MDU2NjcsLTk1NTQ2MzUzNywtMTA4MDkyMTI4MSwxMjYyNjE1
-NTM3LDU0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC
-0yMDMyNTA0MDA4LC01MTk5NTUyOTUsMTc0MDAxMzY0MSw3MjQw
-MDQ1ODNdfQ==
+eyJoaXN0b3J5IjpbLTY1NjgzNDYyOSwtMTA2MDI0MTc3LDgxNz
+c1NjUyMSwxMDk5Mjk0OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3
+NCwxMTc5NjMyMzg1LDE0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNT
+EyNjA1NjY3LC05NTU0NjM1MzcsLTEwODA5MjEyODEsMTI2MjYx
+NTUzNyw1NDkyNDYxMjcsLTE4MjM2NjgxNDUsMTAxODIyMDg5Ny
+wtMjAzMjUwNDAwOCwtNTE5OTU1Mjk1LDE3NDAwMTM2NDEsNzI0
+MDA0NTgzXX0=
 -->
