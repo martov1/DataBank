@@ -171,12 +171,14 @@ Entonces tengo un la superficie por minuto es $(300)(12.566)=3769800\frac{mm}{mi
 $SFM=12368.11024\frac{feet}{min}$
 
 Ej:
-* La herramienta tiene un diametro de $2$
+* La herramienta tiene un diametro de $2in$
 	* El perimetro es $2\pi r$
 	* $2\pi2 = 12.566mm$ por revolucion
 * El fabricante me recomienda $SFM=200$
 * 
 $n=\frac{12V_c}{D\pi}$
+
+$n=381=\frac{12(200)}{2\pi}$
 
 ### Calcular velocidad de giro y avance - WIP
 
@@ -530,11 +532,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTk4OTQ3NCwxMTc5NjMyMzg1LDE0NT
-AwNzY4ODgsOTg5ODY4MjYxLC0xNTEyNjA1NjY3LC05NTU0NjM1
-MzcsLTEwODA5MjEyODEsMTI2MjYxNTUzNyw1NDkyNDYxMjcsLT
-E4MjM2NjgxNDUsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwtNTE5
-OTU1Mjk1LDE3NDAwMTM2NDEsNzI0MDA0NTgzLC0zMTkwOTU1MT
-QsMTk4MTI4NjYzNywtNzk0NDY3Nzc3LC0zOTQzMTU5OTQsODA2
-MzgwMTIzXX0=
+eyJoaXN0b3J5IjpbLTE3MTQ0MDIyNDAsMTkyMTk4OTQ3NCwxMT
+c5NjMyMzg1LDE0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNTEyNjA1
+NjY3LC05NTU0NjM1MzcsLTEwODA5MjEyODEsMTI2MjYxNTUzNy
+w1NDkyNDYxMjcsLTE4MjM2NjgxNDUsMTAxODIyMDg5NywtMjAz
+MjUwNDAwOCwtNTE5OTU1Mjk1LDE3NDAwMTM2NDEsNzI0MDA0NT
+gzLC0zMTkwOTU1MTQsMTk4MTI4NjYzNywtNzk0NDY3Nzc3LC0z
+OTQzMTU5OTRdfQ==
 -->
