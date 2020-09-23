@@ -159,11 +159,19 @@ distancia recorrida por los filos de la herramienta sobre el material en un minu
 Podemos usar un **SFM** menor al recomendado sin problemas en materiales blandos como aluminio. El fabricante nos recomienda un **SFM** para maximizar nuestra productividad pero no siempre podemos lograrlo con la maquina que tenemos, y eso es normal.
 
 En materiales **duros** como **acero o titanio** es necesario usar **como minimo el SFM del fabricante**
-Ej:
-* La herramienta tiene un diametro de $2in$
+
+**Nomenclatura**
+Los fabricantes usan estos nombres en sus tablas y formulas
+* $RPM=n$
+* $SFM=V_c$
+* $D=$ Diametro
+
+
+Nociones para obtener las $RPM$
+* La herramienta tiene un diametro ej$2in$
 	* El perimetro es $\pi D$
 	* $\pi2 = 6.28in$ por revolucion
-* El fabricante me recomienda $SFM=200$
+* El fabricante me recomienda $V_c=200$
 * $12 feet=1in$
 
 entonces llegamos a la formula
@@ -523,11 +531,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0Nzg1MjIzLC01OTM3OTMwNDMsMTkyMT
-k4OTQ3NCwxMTc5NjMyMzg1LDE0NTAwNzY4ODgsOTg5ODY4MjYx
-LC0xNTEyNjA1NjY3LC05NTU0NjM1MzcsLTEwODA5MjEyODEsMT
-I2MjYxNTUzNyw1NDkyNDYxMjcsLTE4MjM2NjgxNDUsMTAxODIy
-MDg5NywtMjAzMjUwNDAwOCwtNTE5OTU1Mjk1LDE3NDAwMTM2ND
-EsNzI0MDA0NTgzLC0zMTkwOTU1MTQsMTk4MTI4NjYzNywtNzk0
-NDY3Nzc3XX0=
+eyJoaXN0b3J5IjpbLTIwOTg1NTYwMjgsLTU5Mzc5MzA0MywxOT
+IxOTg5NDc0LDExNzk2MzIzODUsMTQ1MDA3Njg4OCw5ODk4Njgy
+NjEsLTE1MTI2MDU2NjcsLTk1NTQ2MzUzNywtMTA4MDkyMTI4MS
+wxMjYyNjE1NTM3LDU0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4
+MjIwODk3LC0yMDMyNTA0MDA4LC01MTk5NTUyOTUsMTc0MDAxMz
+Y0MSw3MjQwMDQ1ODMsLTMxOTA5NTUxNCwxOTgxMjg2NjM3LC03
+OTQ0Njc3NzddfQ==
 -->
