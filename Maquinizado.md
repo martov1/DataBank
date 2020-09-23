@@ -150,7 +150,7 @@ El chipload  determinara
 
 la conclusion de esto es que **TENER UNA BAJA VELOCIDAD DE AVANCE NO HACE QUE LA HERRAMIENTA DURE MAS, TODO LO CONTRARIO!**
 
-### Surfice feet/min - SFM
+### Cutting speed Surfice feet/min - SFM
 
 distancia recorrida por los filos de la herramienta sobre el material en un minuto
 
@@ -525,11 +525,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MT
-I2MDU2NjcsLTk1NTQ2MzUzNywtMTA4MDkyMTI4MSwxMjYyNjE1
-NTM3LDU0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC
-0yMDMyNTA0MDA4LC01MTk5NTUyOTUsMTc0MDAxMzY0MSw3MjQw
-MDQ1ODMsLTMxOTA5NTUxNCwxOTgxMjg2NjM3LC03OTQ0Njc3Nz
-csLTM5NDMxNTk5NCw4MDYzODAxMjMsOTY4MzkxMjUzLDEwMzE1
-MDkzNDFdfQ==
+eyJoaXN0b3J5IjpbLTY2MDk1NDA2NSwxNDUwMDc2ODg4LDk4OT
+g2ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYzNTM3LC0xMDgwOTIx
+MjgxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC0xODIzNjY4MTQ1LD
+EwMTgyMjA4OTcsLTIwMzI1MDQwMDgsLTUxOTk1NTI5NSwxNzQw
+MDEzNjQxLDcyNDAwNDU4MywtMzE5MDk1NTE0LDE5ODEyODY2Mz
+csLTc5NDQ2Nzc3NywtMzk0MzE1OTk0LDgwNjM4MDEyMyw5Njgz
+OTEyNTNdfQ==
 -->
