@@ -201,57 +201,22 @@ $\text{permi de una vuelta de  mi herramienta}=\pi Diametro$
 Perim  minimo recomendado por el fabriante tiene que estar en la unidad de diametro para hacer la division. osea que:
 
 Dada la siguiente nomenclatura de catalogos
-
+$n=$ RPM, lo que queremos o
+$V_c$= Cutting speed
+$D$= Diammetro de la herramienta en mm
 
 **Formula version pulgadas**
 
 $$n=\frac{12V_c}{\pi D}$$
 
-Por que me dan la velocidad en **SFM** y $12 inches =1feet$
+Por que me dan la **velocidad de corte** o $V_c$ en **SFM** y $12 inches =1feet$
 
 
 **Formula version milimetros**
 
 $$n=\frac{1000V_c}{\pi D}$$
 
-Por que me dan la velocidad en metros y $1000mm=1m$
-
-**Derivacion de la formula en PULGADAS:**
-* **cutting speed recomendado por fabricante** o $V_c$ estara en $SFM$ osea la unidad es $\frac{pies}{min}$
-	* Es decir, nos recomienda un perimetro a recorrer en pies por minuto
-* El perimetro de mi herramienta es $perm=\pi Diametro$
-* $12 feet=1in$
-
-Como $SFM$ esta en feet lo paso a inches multiplicando por $12$, luego divido por el permetro de mi herramienta para saber cuantas veces tiene que girar
-$$n=\frac{12V_c}{\pi D}$$
-
-Ejemplo para obtener $n$
-* El diametro de mi herramienta es $2in$
-* El fabricante me recomienda $V_c=200$
-
-Sabemos que la superficie por revolucion de nuestra herramienta es entonces  $\pi2 = 6.28in$
-
-$n=381\text{ RPM}=\frac{12(200)}{2\pi}$
-
-**Derivacion de la formula en MILIMETROS:**
-* **cutting speed recomendado por fabricante** o $V_c$ estara en  $\frac{milimetros}{min}$
-	* Es decir, nos recomienda un perimetro a recorrer en $mm$ por minuto
-* El perimetro de mi herramienta es $perm=\pi Diametro$
-* $1000mil=1metro$
-
-Como $SFM$ esta en feet lo paso a inches multiplicando por $12$, luego divido por el permetro de mi herramienta para saber cuantas veces tiene que girar
-
-$$n=\frac{1000V_c}{\pi D}$$
-
-Ejemplo para obtener $n$
-* El diametro de mi herramienta es $2in$
-* El fabricante me recomienda $V_c=200$
-
-Sabemos que la superficie por revolucion de nuestra herramienta es entonces  $\pi2 = 6.28in$
-
-$n=381\text{ RPM}=\frac{12(200)}{2\pi}$
-
-
+Por que me dan la **velocidad de corte** o $V_c$ en metros y $1000mm=1m$
 
 #### Avance / Feed para milling
 
@@ -628,7 +593,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIxNTEyMDAsLTE0MTM0Nzc3NTcsLT
+eyJoaXN0b3J5IjpbLTE4Mzk1MTgyMDcsLTE0MTM0Nzc3NTcsLT
 ExODgyMjE1MywtMTA2MDI0MTc3LDgxNzc1NjUyMSwxMDk5Mjk0
 OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3NCwxMTc5NjMyMzg1LD
 E0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNTEyNjA1NjY3LC05NTU0
