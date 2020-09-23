@@ -395,11 +395,11 @@ A grandes razgos
 
 En terminos generales usamos
 
-* **1 - 2 flutes**
+* **1 - 2   flutes**
 	* Plastico
 	* Madera
 	* Metales blandos (aluminio)
-* **3 - 4 flutes**
+* **3 - 4 -5 flutes**
 	* Terminados en metales blandos
 	* Metales duros
 * **>6**
@@ -611,11 +611,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDIwMjUxMDcsOTMxMTQ5NjM2LDEzMD
-k5MjU1NDcsMTgwMTQzMjQ4NiwtMTU1MjEwODgxMywtMTEyMDg3
-MTEyOCwxMjQ5NzYxMzQ1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNT
-MsLTEwNjAyNDE3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5NiwtNTkz
-NzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2OD
-g4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYzNTM3LC0x
-MDgwOTIxMjgxXX0=
+eyJoaXN0b3J5IjpbNTU1NjU0NzEsLTE2MDIwMjUxMDcsOTMxMT
+Q5NjM2LDEzMDk5MjU1NDcsMTgwMTQzMjQ4NiwtMTU1MjEwODgx
+MywtMTEyMDg3MTEyOCwxMjQ5NzYxMzQ1LC0xNDEzNDc3NzU3LC
+0xMTg4MjIxNTMsLTEwNjAyNDE3Nyw4MTc3NTY1MjEsMTA5OTI5
+NDk5NiwtNTkzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NS
+wxNDUwMDc2ODg4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOTU1
+NDYzNTM3XX0=
 -->
