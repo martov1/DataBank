@@ -234,7 +234,6 @@ Calculamos el avance tal que **Cada diente en la herramienta coma lo que tiene q
 
 $$\text{avance}\frac{in}{min}=f_zZ_nn$$
 
-$$\text{avance}\frac{mm}{min}=f_zZ_nn$$
 
 
 #### Avance / Feed para drilling
@@ -599,7 +598,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDU4NTYzNiwtMTEyMDg3MTEyOCwxMj
+eyJoaXN0b3J5IjpbMTQxNjU4OTQ0NCwtMTEyMDg3MTEyOCwxMj
 Q5NzYxMzQ1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNTMsLTEwNjAy
 NDE3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5NiwtNTkzNzkzMDQzLD
 E5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2ODg4LDk4OTg2
