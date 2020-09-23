@@ -207,7 +207,7 @@ Sabemos que la superficie por revolucion de nuestra herramienta es entonces  $\p
 
 $n=381\text{ RPM}=\frac{12(200)}{2\pi}$
 
-#### Avance / Feed
+#### Avance / Feed para milling
 
 El avance se calcula despues de haber calculado las $RPM$ y de la siguiente manera
 
@@ -231,6 +231,16 @@ Muchos manuales de fabricante de herramientas te van a dar por lo menos dos para
 Tambien se pueden poner **aun mas especificos** y dar recomendaciones para operaciones muy particulares 
 
 ![](https://i.imgur.com/wgWGvzL.png)
+#### Avance / Feed para drilling
+En el caso de tener que taladrar con una mecha de taladro, no se usa **SFM** sino **strong text** el calculo sera
+
+
+$V_f=f_nn$
+
+donde
+*$V_f$ es velocidad de feed
+* $f_n$ es feed por revolucion
+
 
 ### Chatter / Vibraciones
 
@@ -570,11 +580,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MjkzMDI2LC0xMDYwMjQxNzcsODE3Nz
-U2NTIxLDEwOTkyOTQ5OTYsLTU5Mzc5MzA0MywxOTIxOTg5NDc0
-LDExNzk2MzIzODUsMTQ1MDA3Njg4OCw5ODk4NjgyNjEsLTE1MT
-I2MDU2NjcsLTk1NTQ2MzUzNywtMTA4MDkyMTI4MSwxMjYyNjE1
-NTM3LDU0OTI0NjEyNywtMTgyMzY2ODE0NSwxMDE4MjIwODk3LC
-0yMDMyNTA0MDA4LC01MTk5NTUyOTUsMTc0MDAxMzY0MSw3MjQw
-MDQ1ODNdfQ==
+eyJoaXN0b3J5IjpbLTEwOTI5Mjk1NDEsLTEwNjAyNDE3Nyw4MT
+c3NTY1MjEsMTA5OTI5NDk5NiwtNTkzNzkzMDQzLDE5MjE5ODk0
+NzQsMTE3OTYzMjM4NSwxNDUwMDc2ODg4LDk4OTg2ODI2MSwtMT
+UxMjYwNTY2NywtOTU1NDYzNTM3LC0xMDgwOTIxMjgxLDEyNjI2
+MTU1MzcsNTQ5MjQ2MTI3LC0xODIzNjY4MTQ1LDEwMTgyMjA4OT
+csLTIwMzI1MDQwMDgsLTUxOTk1NTI5NSwxNzQwMDEzNjQxLDcy
+NDAwNDU4M119
 -->
