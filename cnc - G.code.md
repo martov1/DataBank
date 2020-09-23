@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=KO3_SfZo_QE&list=PLaCDmykyjVw8cABQfqSll18S65kkfN
 
  **setup de cnc mill**
 https://www.youtube.com/watch?v=4HWuhbhySpw&list=PLpl7LvSkK4IFDD4G638p6_Sr-BUl20Ocn
+**CNC lathe programming**
+https://www.youtube.com/watch?v=o9vXeH8lCjQ&list=PL35sMcDwCf0iL-pMqxzclnKoLpCGShkI7
 
 # Intro
 
@@ -719,6 +721,6 @@ https://www.youtube.com/watch?v=LfAxkMOvEgk&list=PL35sMcDwCf0iXK_K4H_m_V-8HbmI8M
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzM2ODE0NiwtMzUyMDM1MTAzLDEwNj
-ExMTU2ODVdfQ==
+eyJoaXN0b3J5IjpbMjEwNzY4ODc3NSwxNTkzMzY4MTQ2LC0zNT
+IwMzUxMDMsMTA2MTExNTY4NV19
 -->
