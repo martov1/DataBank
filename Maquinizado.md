@@ -220,6 +220,18 @@ Calculamos el avance tal que **Cada diente en la herramienta coma lo que tiene q
 
 $$\text{avance}\frac{in}{min}=f_zZ_nn$$
 
+#### Avance / Feed para drilling
+En el caso de tener que taladrar con una mecha de taladro, no se usa **IPT (inch per tooth)** sino **IPR (Inch per revolution)** el calculo sera
+
+
+$V_f=f_nn$
+
+donde
+
+* $V_f$ es velocidad de feed
+* $f_n$ es feed por revolucion
+* $n$ es $RPM$
+
 
 #### Sloting vs side milling
 
@@ -231,16 +243,6 @@ Muchos manuales de fabricante de herramientas te van a dar por lo menos dos para
 Tambien se pueden poner **aun mas especificos** y dar recomendaciones para operaciones muy particulares 
 
 ![](https://i.imgur.com/wgWGvzL.png)
-#### Avance / Feed para drilling
-En el caso de tener que taladrar con una mecha de taladro, no se usa **SFM** sino **strong text** el calculo sera
-
-
-$V_f=f_nn$
-
-donde
-*$V_f$ es velocidad de feed
-* $f_n$ es feed por revolucion
-
 
 ### Chatter / Vibraciones
 
@@ -580,11 +582,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI5Mjk1NDEsLTEwNjAyNDE3Nyw4MT
-c3NTY1MjEsMTA5OTI5NDk5NiwtNTkzNzkzMDQzLDE5MjE5ODk0
-NzQsMTE3OTYzMjM4NSwxNDUwMDc2ODg4LDk4OTg2ODI2MSwtMT
-UxMjYwNTY2NywtOTU1NDYzNTM3LC0xMDgwOTIxMjgxLDEyNjI2
-MTU1MzcsNTQ5MjQ2MTI3LC0xODIzNjY4MTQ1LDEwMTgyMjA4OT
-csLTIwMzI1MDQwMDgsLTUxOTk1NTI5NSwxNzQwMDEzNjQxLDcy
-NDAwNDU4M119
+eyJoaXN0b3J5IjpbLTExODgyMjE1MywtMTA2MDI0MTc3LDgxNz
+c1NjUyMSwxMDk5Mjk0OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3
+NCwxMTc5NjMyMzg1LDE0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNT
+EyNjA1NjY3LC05NTU0NjM1MzcsLTEwODA5MjEyODEsMTI2MjYx
+NTUzNyw1NDkyNDYxMjcsLTE4MjM2NjgxNDUsMTAxODIyMDg5Ny
+wtMjAzMjUwNDAwOCwtNTE5OTU1Mjk1LDE3NDAwMTM2NDEsNzI0
+MDA0NTgzXX0=
 -->
