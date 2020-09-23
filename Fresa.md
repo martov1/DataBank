@@ -216,10 +216,11 @@ $n=381\text{ RPM}=\frac{12(200)}{2\pi}$
 * **cutting speed recomendado por fabricante** o $V_c$ estara en  $\frac{milimetros}{min}$
 	* Es decir, nos recomienda un perimetro a recorrer en $mm$ por minuto
 * El perimetro de mi herramienta es $perm=\pi Diametro$
-* $12 feet=1in$
+* $1000mil=1metro$
 
 Como $SFM$ esta en feet lo paso a inches multiplicando por $12$, luego divido por el permetro de mi herramienta para saber cuantas veces tiene que girar
-$$n=\frac{12V_c}{\pi D}$$
+
+$$n=\frac{1000V_c}{\pi D}$$
 
 Ejemplo para obtener $n$
 * El diametro de mi herramienta es $2in$
@@ -606,11 +607,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1NTY1NzQxLC0xNDEzNDc3NzU3LC0xMT
-g4MjIxNTMsLTEwNjAyNDE3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5
-NiwtNTkzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwxND
-UwMDc2ODg4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYz
-NTM3LC0xMDgwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC
-0xODIzNjY4MTQ1LDEwMTgyMjA4OTcsLTIwMzI1MDQwMDgsLTUx
-OTk1NTI5NV19
+eyJoaXN0b3J5IjpbLTEzMTUwMzEzODEsLTE0MTM0Nzc3NTcsLT
+ExODgyMjE1MywtMTA2MDI0MTc3LDgxNzc1NjUyMSwxMDk5Mjk0
+OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3NCwxMTc5NjMyMzg1LD
+E0NTAwNzY4ODgsOTg5ODY4MjYxLC0xNTEyNjA1NjY3LC05NTU0
+NjM1MzcsLTEwODA5MjEyODEsMTI2MjYxNTUzNyw1NDkyNDYxMj
+csLTE4MjM2NjgxNDUsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwt
+NTE5OTU1Mjk1XX0=
 -->
