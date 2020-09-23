@@ -185,17 +185,19 @@ A partir de eso nosotros debemos determinar **Feed y RPM**
 
 las $RPM$ o $n$ dependeran del $SFM$ de la herramienta en cuestion para el material en cuestion, segun determine el fabricante
 
-Ejemplo
-* El diametro de mi herramienta es $2in$
-* La herramienta tiene un diametro ej
-	* la superficie por revolucion entonces es $\pi2 = 6.28in$
-* El fabricante me recomienda $V_c=200$
+Algunos datos
 * $12 feet=1in$
+* La formula de perimetro de un circulo es $\pi D$
+
 
 entonces llegamos a la formula
 $$n=\frac{12V_c}{\pi D}$$
 
 Ejemplo para obtener $n$
+* El diametro de mi herramienta es $2in$
+* El fabricante me recomienda $V_c=200$
+
+Sabemos que la superficie por revolucion de nuestra herramienta es entonces  $\pi2 = 6.28in$
 
 $n=381=\frac{12(200)}{2\pi}$
 
@@ -541,11 +543,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzQ1MzU5MywxMDk5Mjk0OTk2LC01OT
-M3OTMwNDMsMTkyMTk4OTQ3NCwxMTc5NjMyMzg1LDE0NTAwNzY4
-ODgsOTg5ODY4MjYxLC0xNTEyNjA1NjY3LC05NTU0NjM1MzcsLT
-EwODA5MjEyODEsMTI2MjYxNTUzNyw1NDkyNDYxMjcsLTE4MjM2
-NjgxNDUsMTAxODIyMDg5NywtMjAzMjUwNDAwOCwtNTE5OTU1Mj
-k1LDE3NDAwMTM2NDEsNzI0MDA0NTgzLC0zMTkwOTU1MTQsMTk4
-MTI4NjYzN119
+eyJoaXN0b3J5IjpbLTE5MTgwNjE0MTMsMTA5OTI5NDk5NiwtNT
+kzNzkzMDQzLDE5MjE5ODk0NzQsMTE3OTYzMjM4NSwxNDUwMDc2
+ODg4LDk4OTg2ODI2MSwtMTUxMjYwNTY2NywtOTU1NDYzNTM3LC
+0xMDgwOTIxMjgxLDEyNjI2MTU1MzcsNTQ5MjQ2MTI3LC0xODIz
+NjY4MTQ1LDEwMTgyMjA4OTcsLTIwMzI1MDQwMDgsLTUxOTk1NT
+I5NSwxNzQwMDEzNjQxLDcyNDAwNDU4MywtMzE5MDk1NTE0LDE5
+ODEyODY2MzddfQ==
 -->
