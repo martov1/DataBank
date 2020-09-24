@@ -296,7 +296,9 @@ Para evitarlo
 * Si la maquina tiene fluido enfriante, usalo
 * Si la maquina tiene soplador de aire comprimido, usalo
 * Sino soplalas con aire comprimido o apaga la maquina y usa un cepillo
+* **No tocarlas, son filosas y calientes**
 
+![](https://i.imgur.com/eMwbjQw.png)
 
 ### Chatter / Vibraciones
 
@@ -655,11 +657,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyMjAwMzQwLC01NTk4MTg2ODgsMTg0Mj
-I5OTMyMSwxNjE3Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNjY0
-LDEyMzkyMTcxNDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMT
-YwMjAyNTEwNyw5MzExNDk2MzYsMTMwOTkyNTU0NywxODAxNDMy
-NDg2LC0xNTUyMTA4ODEzLC0xMTIwODcxMTI4LDEyNDk3NjEzND
-UsLTE0MTM0Nzc3NTcsLTExODgyMjE1MywtMTA2MDI0MTc3LDgx
-Nzc1NjUyMV19
+eyJoaXN0b3J5IjpbMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4ND
+IyOTkzMjEsMTYxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2
+NCwxMjM5MjE3MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2MzAsLT
+E2MDIwMjUxMDcsOTMxMTQ5NjM2LDEzMDk5MjU1NDcsMTgwMTQz
+MjQ4NiwtMTU1MjEwODgxMywtMTEyMDg3MTEyOCwxMjQ5NzYxMz
+Q1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNTMsLTEwNjAyNDE3Nyw4
+MTc3NTY1MjFdfQ==
 -->
