@@ -136,7 +136,11 @@ Dicho esto, normalmente **intentaremos que la direccion del corte sea igual que 
 
 **Conclusiones**
 * **Climb cutting**
-	* Lo preferimos en maquinas CNC o maquinas grandes, por que son mas rigida 
+	* Lo preferimos en maquinas CNC o maquinas grandes, por que son mas rigidas
+	* En maquinas manuales lo usamos para la terminacion
+	* Necesitas gran rigidez en todo (pieza, maquina, todo)
+* **Convenitional cutting**
+	* En maquinas manuales lo usamos para casi todo 
 
 Video coparacion para clase
 https://www.youtube.com/watch?v=galm5_6SUcM
@@ -662,7 +666,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDAzOTIxMiwxMjMyNzg1MjIwLC01NT
+eyJoaXN0b3J5IjpbLTE3NDYzMTY5NiwxMjMyNzg1MjIwLC01NT
 k4MTg2ODgsMTg0MjI5OTMyMSwxNjE3Mjc4MjEsMTczOTY1MzIw
 NSwtNTg2MjEwNjY0LDEyMzkyMTcxNDgsLTE1MTM3OTcxNjcsLT
 Y2NTU0ODYzMCwtMTYwMjAyNTEwNyw5MzExNDk2MzYsMTMwOTky
