@@ -369,10 +369,11 @@ Plunging es usar el **endmill como una mecha de taladro** para **cortar hacia ab
 
 Hay que **evitarlo siempre que sea posible!** 
 * Siempre que sea posible **usa un drill bit y despues cambia a un endmill**
+	* Si hace falta achatar el fondo del agujero, usas un endmill en el fondo del ag
 * No siempre se puede evitar 
 	*  Solo se puede hacer con **center cutting endmills**
 	* el endmill **no esta diseñado para evacuar viruta hacia arriba**
-* Usar una herramienta con menor cantidad de flutes, ya que evacua mejor y ademas generalmente solo dos de las flutes realmente cortan abajo
+	* Usar una herramienta con **menor cantidad de flutes**, ya que evacua mejor y ademas generalmente solo dos de las flutes realmente cortan abajo
 
 
 ## Accesorios - WIP
@@ -747,11 +748,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzY2NzU3MzgsMTMwNTQ2MTk1NCwtOT
-M1OTYzMzIsLTE2NTU0NTcxNTMsMTA1NDkxNjI2MSwxNzk1OTAx
-MzE4LDEyMzI3ODUyMjAsLTU1OTgxODY4OCwxODQyMjk5MzIxLD
-E2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2NjQsMTIzOTIx
-NzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC0xNjAyMDI1MT
-A3LDkzMTE0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0ODYsLTE1
-NTIxMDg4MTNdfQ==
+eyJoaXN0b3J5IjpbLTMwNDM0NzQxLDEzMDU0NjE5NTQsLTkzNT
+k2MzMyLC0xNjU1NDU3MTUzLDEwNTQ5MTYyNjEsMTc5NTkwMTMx
+OCwxMjMyNzg1MjIwLC01NTk4MTg2ODgsMTg0MjI5OTMyMSwxNj
+E3Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMzkyMTcx
+NDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAyNTEwNy
+w5MzExNDk2MzYsMTMwOTkyNTU0NywxODAxNDMyNDg2LC0xNTUy
+MTA4ODEzXX0=
 -->
