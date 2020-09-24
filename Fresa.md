@@ -323,9 +323,9 @@ donde
 
 ### Paralelos - WIP
 
-Son dos piezas de metal perfectamente paralelas y a 90 grados para elevar la pieza encima de la altura de la morsa manteniendola co un agarre de 90 grados.
+Son dos piezas de metal perfectamente paralelas (hasta una precision muy elevada) y a 90 grados para elevar la pieza encima de la altura de la morsa manteniendola co un agarre de 90 grados.
 
-
+![](https://i.imgur.com/tV8oSw7.png)
 
 # Herramientas
 
@@ -640,11 +640,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA2NTI3MTQsMTg0MjI5OTMyMSwxNj
-E3Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMzkyMTcx
-NDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAyNTEwNy
-w5MzExNDk2MzYsMTMwOTkyNTU0NywxODAxNDMyNDg2LC0xNTUy
-MTA4ODEzLC0xMTIwODcxMTI4LDEyNDk3NjEzNDUsLTE0MTM0Nz
-c3NTcsLTExODgyMjE1MywtMTA2MDI0MTc3LDgxNzc1NjUyMSwx
-MDk5Mjk0OTk2XX0=
+eyJoaXN0b3J5IjpbLTU1OTgxODY4OCwxODQyMjk5MzIxLDE2MT
+cyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2NjQsMTIzOTIxNzE0
+OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC0xNjAyMDI1MTA3LD
+kzMTE0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0ODYsLTE1NTIx
+MDg4MTMsLTExMjA4NzExMjgsMTI0OTc2MTM0NSwtMTQxMzQ3Nz
+c1NywtMTE4ODIyMTUzLC0xMDYwMjQxNzcsODE3NzU2NTIxLDEw
+OTkyOTQ5OTZdfQ==
 -->
