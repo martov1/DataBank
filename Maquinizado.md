@@ -7,7 +7,7 @@
 
 
 **Seguir viendo**
-https://www.youtube.com/watch?v=_HGGkCaYMVA&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=3
+https://www.youtube.com/watch?v=5V0s6fLyRH0&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=4
 
 **Fortalecer con**
 https://www.youtube.com/watch?v=15p1Kerb4N8&list=PLNvVbYXgJCEU2yqoOpEHB0mbDEttFgH7j
@@ -669,7 +669,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTYxNDg0NywxMjMyNzg1MjIwLC01NT
+eyJoaXN0b3J5IjpbMTc5NTkwMTMxOCwxMjMyNzg1MjIwLC01NT
 k4MTg2ODgsMTg0MjI5OTMyMSwxNjE3Mjc4MjEsMTczOTY1MzIw
 NSwtNTg2MjEwNjY0LDEyMzkyMTcxNDgsLTE1MTM3OTcxNjcsLT
 Y2NTU0ODYzMCwtMTYwMjAyNTEwNyw5MzExNDk2MzYsMTMwOTky
