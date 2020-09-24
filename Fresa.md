@@ -409,8 +409,8 @@ A grandes razgos
 		* Si el material es duro, tenes chips mas chiquitos
 		* En materiales blandos esto implica mas friccion entre chips, eso puede **derretir plastico** o **fundir aluminio** en lugar de cortarlo
 * **Menos flutes** 
-	*  Mejor chip clearing
-		* Bueno si el chip es grande  por que el material es blando!
+	*  Mejor chip clearing, tienen mas espacio y tiempo para salir
+		* Bueno si el chip es grande, largo y no se romppe por que el material es blando!
 	*  Peor terminado
 
 En terminos generales usamos
@@ -633,11 +633,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4Nj
-IxMDY2NCwxMjM5MjE3MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2
-MzAsLTE2MDIwMjUxMDcsOTMxMTQ5NjM2LDEzMDk5MjU1NDcsMT
-gwMTQzMjQ4NiwtMTU1MjEwODgxMywtMTEyMDg3MTEyOCwxMjQ5
-NzYxMzQ1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNTMsLTEwNjAyND
-E3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5NiwtNTkzNzkzMDQzLDE5
-MjE5ODk0NzRdfQ==
+eyJoaXN0b3J5IjpbMTg0MjI5OTMyMSwxNjE3Mjc4MjEsMTczOT
+Y1MzIwNSwtNTg2MjEwNjY0LDEyMzkyMTcxNDgsLTE1MTM3OTcx
+NjcsLTY2NTU0ODYzMCwtMTYwMjAyNTEwNyw5MzExNDk2MzYsMT
+MwOTkyNTU0NywxODAxNDMyNDg2LC0xNTUyMTA4ODEzLC0xMTIw
+ODcxMTI4LDEyNDk3NjEzNDUsLTE0MTM0Nzc3NTcsLTExODgyMj
+E1MywtMTA2MDI0MTc3LDgxNzc1NjUyMSwxMDk5Mjk0OTk2LC01
+OTM3OTMwNDNdfQ==
 -->
