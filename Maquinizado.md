@@ -289,7 +289,14 @@ donde
 Queres evitar tener virtuta cerca del cortador, ya que
 
 * En elementos blandos, la friccion y el calor pueden derretirlos
-* En elementos duros, las chips pueden calentarse tanto que se templan 
+* En elementos duros, las chips pueden calentarse tanto que se templan y son aun mas duras que el material original, volver a cortarlas con la herramienta genera problemas
+* Estresa y desafila la herramienta sin necesidad
+
+Para evitarlo
+* Si la maquina tiene fluido enfriante, usalo
+* Si la maquina tiene soplador de aire comprimido, usalo
+* Sino soplalas con aire comprimido o apaga la maquina y usa un cepillo
+
 
 ### Chatter / Vibraciones
 
@@ -648,11 +655,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg3OTU3ODgsLTU1OTgxODY4OCwxOD
-QyMjk5MzIxLDE2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2
-NjQsMTIzOTIxNzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC
-0xNjAyMDI1MTA3LDkzMTE0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0
-MzI0ODYsLTE1NTIxMDg4MTMsLTExMjA4NzExMjgsMTI0OTc2MT
-M0NSwtMTQxMzQ3Nzc1NywtMTE4ODIyMTUzLC0xMDYwMjQxNzcs
-ODE3NzU2NTIxXX0=
+eyJoaXN0b3J5IjpbMzIyMjAwMzQwLC01NTk4MTg2ODgsMTg0Mj
+I5OTMyMSwxNjE3Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNjY0
+LDEyMzkyMTcxNDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMT
+YwMjAyNTEwNyw5MzExNDk2MzYsMTMwOTkyNTU0NywxODAxNDMy
+NDg2LC0xNTUyMTA4ODEzLC0xMTIwODcxMTI4LDEyNDk3NjEzND
+UsLTE0MTM0Nzc3NTcsLTExODgyMjE1MywtMTA2MDI0MTc3LDgx
+Nzc1NjUyMV19
 -->
