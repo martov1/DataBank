@@ -365,7 +365,7 @@ Son dos piezas de metal perfectamente paralelas (hasta una precision muy elevada
 
 ![](https://i.imgur.com/tV8oSw7.png)
 
-# Herramientas
+# Endmills
 
 [videos fuente](https://www.youtube.com/watch?v=EB7B1zq8AM8)
 
@@ -663,7 +663,7 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 
 
 
-## Face mills
+# Face mills
 
 [fuente 1](https://www.youtube.com/watch?v=jwORPpWJ73Y&list=PLpl7LvSkK4IGUEZZ4fh5m5uv94LC73654&index=5)
 Un face mill sirve para cortar superficies de manera plana. Todas las consideraciones anteriores para los endmills siguen siendo validas.
@@ -676,13 +676,17 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 ![](https://i.imgur.com/OFbrATO.png)
 
+## Geometria
 
+### 
+Al elegir un endmill tener en cuenta
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDkxNjI2MSwxNzk1OTAxMzE4LDEyMz
-I3ODUyMjAsLTU1OTgxODY4OCwxODQyMjk5MzIxLDE2MTcyNzgy
-MSwxNzM5NjUzMjA1LC01ODYyMTA2NjQsMTIzOTIxNzE0OCwtMT
-UxMzc5NzE2NywtNjY1NTQ4NjMwLC0xNjAyMDI1MTA3LDkzMTE0
-OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0ODYsLTE1NTIxMDg4MT
-MsLTExMjA4NzExMjgsMTI0OTc2MTM0NSwtMTQxMzQ3Nzc1Nywt
-MTE4ODIyMTUzXX0=
+eyJoaXN0b3J5IjpbLTc2Mjk3NjUwNywxMDU0OTE2MjYxLDE3OT
+U5MDEzMTgsMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4NDIyOTkz
+MjEsMTYxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2NCwxMj
+M5MjE3MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2MzAsLTE2MDIw
+MjUxMDcsOTMxMTQ5NjM2LDEzMDk5MjU1NDcsMTgwMTQzMjQ4Ni
+wtMTU1MjEwODgxMywtMTEyMDg3MTEyOCwxMjQ5NzYxMzQ1LC0x
+NDEzNDc3NzU3XX0=
 -->
