@@ -284,6 +284,12 @@ donde
 * $n$ es $RPM$
 
 
+### Chip control
+
+Queres evitar tener virtuta cerca del cortador, ya que
+
+* En elementos blandos, la friccion y el calor pueden derretirlos
+* En elementos duros, las chips pueden calentarse tanto que se templan 
 
 ### Chatter / Vibraciones
 
@@ -316,6 +322,8 @@ donde
 	* La herramienta y la pieza o la morsa pueden llegar a resonar, causando chatter, Si sucede variar levemente la altura de la herramienta para eliminar la resonancia
 	* **Reducir/aumentar la velocidad**
 		* Si la pieza resuena probar apretando el boton de **+-20%  speed** de la maquina y ver si deja  de vibrar
+
+
 
 ## Operaciones - WIP
 
@@ -640,11 +648,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTgxODY4OCwxODQyMjk5MzIxLDE2MT
-cyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2NjQsMTIzOTIxNzE0
-OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC0xNjAyMDI1MTA3LD
-kzMTE0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0ODYsLTE1NTIx
-MDg4MTMsLTExMjA4NzExMjgsMTI0OTc2MTM0NSwtMTQxMzQ3Nz
-c1NywtMTE4ODIyMTUzLC0xMDYwMjQxNzcsODE3NzU2NTIxLDEw
-OTkyOTQ5OTZdfQ==
+eyJoaXN0b3J5IjpbLTE2ODg3OTU3ODgsLTU1OTgxODY4OCwxOD
+QyMjk5MzIxLDE2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2
+NjQsMTIzOTIxNzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC
+0xNjAyMDI1MTA3LDkzMTE0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0
+MzI0ODYsLTE1NTIxMDg4MTMsLTExMjA4NzExMjgsMTI0OTc2MT
+M0NSwtMTQxMzQ3Nzc1NywtMTE4ODIyMTUzLC0xMDYwMjQxNzcs
+ODE3NzU2NTIxXX0=
 -->
