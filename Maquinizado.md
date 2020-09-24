@@ -681,19 +681,25 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 ### Diametro
 El diametro efectivo de un endmill va desde una punto de un filo hasta la punta opuesta.
 
-Siempre **hay que elegir un diametro 1.5 veces mas grande que  el corte que se va a hacer**, eso permite que se forme una viruta de un tamaño razonable que pueda ser evacuada sin generar exceso de calor
+Siempre **hay que elegir un diametro  1.5 (o mas ) veces mas grande que  el corte que se va a hacer**, eso permite que se forme una viruta de un tamaño razonable que pueda ser evacuada sin generar exceso de calor
 
 ![](https://i.imgur.com/hF9kwhz.png)
+_Diametro efectivo
+
+
+
+_Formacion de chips con __
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxODI2NDQyLDEwNTQ5MTYyNjEsMTc5NT
-kwMTMxOCwxMjMyNzg1MjIwLC01NTk4MTg2ODgsMTg0MjI5OTMy
-MSwxNjE3Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMz
-kyMTcxNDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAy
-NTEwNyw5MzExNDk2MzYsMTMwOTkyNTU0NywxODAxNDMyNDg2LC
-0xNTUyMTA4ODEzLC0xMTIwODcxMTI4LDEyNDk3NjEzNDUsLTE0
-MTM0Nzc3NTddfQ==
+eyJoaXN0b3J5IjpbLTE1MTY0NTgxMjMsMTA1NDkxNjI2MSwxNz
+k1OTAxMzE4LDEyMzI3ODUyMjAsLTU1OTgxODY4OCwxODQyMjk5
+MzIxLDE2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2NjQsMT
+IzOTIxNzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC0xNjAy
+MDI1MTA3LDkzMTE0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0OD
+YsLTE1NTIxMDg4MTMsLTExMjA4NzExMjgsMTI0OTc2MTM0NSwt
+MTQxMzQ3Nzc1N119
 -->
