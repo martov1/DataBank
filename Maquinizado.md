@@ -23,8 +23,7 @@ https://www.youtube.com/watch?v=bKksH9UAbO8&list=PL6015CA604E06A0C6
 **entender esto de zig zag**
 https://www.youtube.com/watch?v=KNwAHE73SHk&list=PLzc0Bm2I_0pn1lfdvG2xIG_z4-YiaTq1H&index=7
 
-# Introduccion
-## Seguridad
+# Seguridad
 
 Para manipular una fresa es necesario:
 * Pelo corto o atado
@@ -33,7 +32,7 @@ Para manipular una fresa es necesario:
 * Sin anillos, joyas, cadenas ni nada colgando
 * No acercar las manos a la maquina mientras este girando o moviendose
 
-## Comandos y partes de la fresa - WIP
+# Comandos y partes de la fresa - WIP
 ![IDENTIFYING MACHINE PARTS, CONTROLS, AND THEIR FUNCTIONS – Cad cam  Engineering WorldWide](https://cadcamengineering.net/wp-content/uploads/2015/02/IDENTIFYING-MACHINE-PARTS-J-3.jpg)
 
 
@@ -41,7 +40,7 @@ Las operaciones que requieren rigidez se hacen con las cranks (knee vertical, tr
 
 Si necesitas hacer operaciones rapidas de agujereado, podes usar el quill feed hand lever que funciona como un taladro
 
-## Ajuste y nivelado previo de maquina
+# Ajuste y nivelado previo de maquina
 
 [fuente](https://www.youtube.com/watch?v=YkTgyvaYn0M&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=2)
 
@@ -89,9 +88,9 @@ Ajustar la morsa de tal manera que este paralela a la mesa, para eso usamos un i
 
 
 
-## Conceptos de fresa 
+# Conceptos de fresa 
 
-### Direccion de giro
+## Direccion de giro
 
 **SIEMPRE** tendremos en cuenta que la herramienta esta diseñada para girar **en una sola direccion**. **INTENTAR CORTAR CON UNA HERRAMIENTA GIRANDO EN LA DIRECCION INCORRECTA LA PARTIRA**
 
@@ -344,6 +343,8 @@ Para evitarlo
 
 
 ## Operaciones - WIP
+
+### Face milling
 
 ## Accesorios - WIP
 
@@ -666,11 +667,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE5OTgyNzMsMTIzMjc4NTIyMCwtNT
-U5ODE4Njg4LDE4NDIyOTkzMjEsMTYxNzI3ODIxLDE3Mzk2NTMy
-MDUsLTU4NjIxMDY2NCwxMjM5MjE3MTQ4LC0xNTEzNzk3MTY3LC
-02NjU1NDg2MzAsLTE2MDIwMjUxMDcsOTMxMTQ5NjM2LDEzMDk5
-MjU1NDcsMTgwMTQzMjQ4NiwtMTU1MjEwODgxMywtMTEyMDg3MT
-EyOCwxMjQ5NzYxMzQ1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNTMs
-LTEwNjAyNDE3N119
+eyJoaXN0b3J5IjpbLTI5MTcxMTU2NiwxMjMyNzg1MjIwLC01NT
+k4MTg2ODgsMTg0MjI5OTMyMSwxNjE3Mjc4MjEsMTczOTY1MzIw
+NSwtNTg2MjEwNjY0LDEyMzkyMTcxNDgsLTE1MTM3OTcxNjcsLT
+Y2NTU0ODYzMCwtMTYwMjAyNTEwNyw5MzExNDk2MzYsMTMwOTky
+NTU0NywxODAxNDMyNDg2LC0xNTUyMTA4ODEzLC0xMTIwODcxMT
+I4LDEyNDk3NjEzNDUsLTE0MTM0Nzc3NTcsLTExODgyMjE1Mywt
+MTA2MDI0MTc3XX0=
 -->
