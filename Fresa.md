@@ -700,17 +700,32 @@ _Formacion de chips con un diametro de herramienta muy pequeño_
 Un facemill tiene **dos rake angles**
 
 * **Radial rake angle**
-El angulo que forma el cortador con el eje de la herramienta, puede ser positivo (Hacia el material), neutro (perpendicular al material) o negativo (Hacia el lado contrario al material)
+El angulo que forma el cortador con el eje de la herramienta, puede ser 
+* **positivo** (Hacia el material)
+*  **neutro** (perpendicular al material)
+*  **negativo** (Hacia el lado contrario al material) como se muestra en la imagen
 ![](https://i.imgur.com/TSOCpEt.png)
 _Ejemplo de un radial rake angle negativo_
-
 * **Axial rake angle**
 
 
 
+.
+**La seleccion del angulo es igual que en los endmills:**
+ * Un **rake angle positivo en ambas caras** 
+	 * sirve para elementos blandos, ya que  los cortara con el filo.
+	 * Toma menos potencia usarla (por que corta con el filo)
+	 * El filo va a ser mas fino y por ende mas endeble
+ * Un **rake angle negativo en ambas caras** surve para elementos mas duros
+     * el filo no corta, sino que **raspa** el material
+	 * El filo es mas grueso, y por ende mas fuerte
+	 * Se usa en materiales mas duros
+	 * toma mas fuerza
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODgyNTIzNiwxMDU0OTE2MjYxLDE3OT
+eyJoaXN0b3J5IjpbMTk1MDY2NTUzNSwxMDU0OTE2MjYxLDE3OT
 U5MDEzMTgsMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4NDIyOTkz
 MjEsMTYxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2NCwxMj
 M5MjE3MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2MzAsLTE2MDIw
