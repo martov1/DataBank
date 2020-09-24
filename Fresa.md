@@ -123,15 +123,20 @@ Dicho esto, normalmente **intentaremos que la direccion del corte sea igual que 
 * Se le llama al corte en direccion  contraria al giro de la herramienta **conventional cutting**
 	* Requiere mucha menos energia y fuerza por parte de la maquina
 	* Puede cortar mayor cantidad de material en una pasada
-* Se llama al corte en direccion del giro de la herramienta.
+
+.
+* Se llama al corte en direccion **opuesta** al giro de la herramienta.
 **climb cutting**
 	* Requiere mucha mas energia para hacer el corte, **no** lo usamos con cortes de mucho material o con maquinas chicas
 	* Produce un mejor acabado
 	* Bueno para cortes de terminacion.
 	* la herramienta mordera fuertemente la pieza, si esta no esta firmemente sujeta podria salir despedida si se esta maquinando mucho material
 		* Para minimizar este efecto, que el corte siempre este paralelo a la morsa
+		* La maquina necesita de gran rigidez
 
-**En una maquina CNC siempre preferimos usar el climb cutting**
+**Conclusiones**
+* **Climb cutting**
+	* Lo preferimos en maquinas CNC o maquinas grandes, por que son mas rigida 
 
 Video coparacion para clase
 https://www.youtube.com/watch?v=galm5_6SUcM
@@ -657,11 +662,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4ND
-IyOTkzMjEsMTYxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2
-NCwxMjM5MjE3MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2MzAsLT
-E2MDIwMjUxMDcsOTMxMTQ5NjM2LDEzMDk5MjU1NDcsMTgwMTQz
-MjQ4NiwtMTU1MjEwODgxMywtMTEyMDg3MTEyOCwxMjQ5NzYxMz
-Q1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNTMsLTEwNjAyNDE3Nyw4
-MTc3NTY1MjFdfQ==
+eyJoaXN0b3J5IjpbLTI1MDAzOTIxMiwxMjMyNzg1MjIwLC01NT
+k4MTg2ODgsMTg0MjI5OTMyMSwxNjE3Mjc4MjEsMTczOTY1MzIw
+NSwtNTg2MjEwNjY0LDEyMzkyMTcxNDgsLTE1MTM3OTcxNjcsLT
+Y2NTU0ODYzMCwtMTYwMjAyNTEwNyw5MzExNDk2MzYsMTMwOTky
+NTU0NywxODAxNDMyNDg2LC0xNTUyMTA4ODEzLC0xMTIwODcxMT
+I4LDEyNDk3NjEzNDUsLTE0MTM0Nzc3NTcsLTExODgyMjE1Mywt
+MTA2MDI0MTc3XX0=
 -->
