@@ -678,11 +678,18 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 ## Geometria
 
+### Diametro
+El diametro efectivo de un endmill va desde una punto de un filo hasta la punta opuesta.
 
-Al elegir un endmill tener en cuenta
-* 
+Siempre **hay que elegir un diametro 1.5 veces mas grande que  el corte que se va a hacer**, eso permite que se forme una viruta de un tamaño razonable que pueda ser evacuada sin generar exceso de calor
+
+![](https://i.imgur.com/hF9kwhz.png)
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzM2OTkwLDEwNTQ5MTYyNjEsMTc5NT
+eyJoaXN0b3J5IjpbNzcxODI2NDQyLDEwNTQ5MTYyNjEsMTc5NT
 kwMTMxOCwxMjMyNzg1MjIwLC01NTk4MTg2ODgsMTg0MjI5OTMy
 MSwxNjE3Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMz
 kyMTcxNDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAy
