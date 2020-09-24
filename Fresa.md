@@ -482,7 +482,7 @@ La punta tiene un angulo llamado **rake angle**, este angulo puede estar
 ![](https://i.imgur.com/YrqE8Gb.png)
 
 **Geometria del largo**
-De la misma manera, los filos del largo tambien tienen rake angles que pueden ser
+De la misma manera, los filos del largo tambien tienen **rake angles** que pueden ser
 
 
 * **Hacia el material (Positivo +)**
@@ -697,17 +697,20 @@ _Formacion de chips con un diametro de herramienta muy pequeño_
 ### Angulos
 
 
-El **Rake angle** de un facemill
+Un facemill tiene **dos rake angles**
+
+* **Radial rake angle**
+* **Axial rake angle**
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzc3MjAxMiwxMDU0OTE2MjYxLDE3OT
-U5MDEzMTgsMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4NDIyOTkz
-MjEsMTYxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2NCwxMj
-M5MjE3MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2MzAsLTE2MDIw
-MjUxMDcsOTMxMTQ5NjM2LDEzMDk5MjU1NDcsMTgwMTQzMjQ4Ni
-wtMTU1MjEwODgxMywtMTEyMDg3MTEyOCwxMjQ5NzYxMzQ1LC0x
-NDEzNDc3NzU3XX0=
+eyJoaXN0b3J5IjpbODUxMzc5NTQ4LDEwNTQ5MTYyNjEsMTc5NT
+kwMTMxOCwxMjMyNzg1MjIwLC01NTk4MTg2ODgsMTg0MjI5OTMy
+MSwxNjE3Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMz
+kyMTcxNDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAy
+NTEwNyw5MzExNDk2MzYsMTMwOTkyNTU0NywxODAxNDMyNDg2LC
+0xNTUyMTA4ODEzLC0xMTIwODcxMTI4LDEyNDk3NjEzNDUsLTE0
+MTM0Nzc3NTddfQ==
 -->
