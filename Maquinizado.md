@@ -346,11 +346,14 @@ Para evitarlo
 
 ### Face milling
 
-Es la operacion de hacer una cara **PLANA
+Es la operacion de hacer una cara **PLANA**, muchas veces arrancamos nuestro trabajo haciendo **face milling** en **todas las caras de nuestro material** para llevarlo a escuadra y a una dimension aproximadamente cercana a nuestra pieza inicial.
+
+
 ![](https://i.imgur.com/2Hf7Hjv.png)_Comparacion de un bloque de aluminio face milled y uno cortado con una sierra de mano_
 
 
-Para hacer face milling podemos usar un **enndmill** o
+Para hacer face milling podemos usar un **enndmill** o un **facemill**
+
 
 
 
@@ -675,11 +678,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAwMjAwMTcsMTc5NTkwMTMxOCwxMj
-MyNzg1MjIwLC01NTk4MTg2ODgsMTg0MjI5OTMyMSwxNjE3Mjc4
-MjEsMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMzkyMTcxNDgsLT
-E1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAyNTEwNyw5MzEx
-NDk2MzYsMTMwOTkyNTU0NywxODAxNDMyNDg2LC0xNTUyMTA4OD
-EzLC0xMTIwODcxMTI4LDEyNDk3NjEzNDUsLTE0MTM0Nzc3NTcs
-LTExODgyMjE1M119
+eyJoaXN0b3J5IjpbMTA1NDkxNjI2MSwxNzk1OTAxMzE4LDEyMz
+I3ODUyMjAsLTU1OTgxODY4OCwxODQyMjk5MzIxLDE2MTcyNzgy
+MSwxNzM5NjUzMjA1LC01ODYyMTA2NjQsMTIzOTIxNzE0OCwtMT
+UxMzc5NzE2NywtNjY1NTQ4NjMwLC0xNjAyMDI1MTA3LDkzMTE0
+OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0ODYsLTE1NTIxMDg4MT
+MsLTExMjA4NzExMjgsMTI0OTc2MTM0NSwtMTQxMzQ3Nzc1Nywt
+MTE4ODIyMTUzXX0=
 -->
