@@ -346,7 +346,8 @@ Para evitarlo
 
 ### Face milling
 
-Es la operacion de hacer una cara **PLANA**
+Es la operacion de hacer una cara **PLANA
+![](https://i.imgur.com/2Hf7Hjv.png)_Comparacion de un bloque de aluminio face_
 
 
 
@@ -675,11 +676,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODk3MTAxMiwxNzk1OTAxMzE4LDEyMz
-I3ODUyMjAsLTU1OTgxODY4OCwxODQyMjk5MzIxLDE2MTcyNzgy
-MSwxNzM5NjUzMjA1LC01ODYyMTA2NjQsMTIzOTIxNzE0OCwtMT
-UxMzc5NzE2NywtNjY1NTQ4NjMwLC0xNjAyMDI1MTA3LDkzMTE0
-OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0ODYsLTE1NTIxMDg4MT
-MsLTExMjA4NzExMjgsMTI0OTc2MTM0NSwtMTQxMzQ3Nzc1Nywt
-MTE4ODIyMTUzXX0=
+eyJoaXN0b3J5IjpbLTI1NDQ5NDIsMTc5NTkwMTMxOCwxMjMyNz
+g1MjIwLC01NTk4MTg2ODgsMTg0MjI5OTMyMSwxNjE3Mjc4MjEs
+MTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMzkyMTcxNDgsLTE1MT
+M3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAyNTEwNyw5MzExNDk2
+MzYsMTMwOTkyNTU0NywxODAxNDMyNDg2LC0xNTUyMTA4ODEzLC
+0xMTIwODcxMTI4LDEyNDk3NjEzNDUsLTE0MTM0Nzc3NTcsLTEx
+ODgyMjE1M119
 -->
