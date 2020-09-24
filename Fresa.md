@@ -7,6 +7,7 @@
 
 
 
+
 **Seguir viendo**
 https://www.youtube.com/watch?v=5V0s6fLyRH0&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=
 
@@ -125,7 +126,7 @@ Dicho esto, normalmente **intentaremos que la direccion del corte sea igual que 
 	* Puede cortar mayor cantidad de material en una pasada
 
 .
-* Se llama al corte en direccion al giro de la herramienta.
+* Se llama al corte en direccion l giro de la herramienta.
 **lib cutting**
 	* Requiere mucha mas energia para hacer el corte, **no** lo usamos con cortes de mucho material o con maquinas chicas
 	* Produce un mejor acabado
@@ -173,13 +174,13 @@ la conclusion de esto es que **TENER UNA BAJA VELOCIDAD DE AVANCE NO HACE QUE LA
 
 ### Cutting speed  (SFM o M/min)
 
-distancia recorrida por los filos de  eeta sobe el material en un minuto, es decir **superficie de erma oca el material por minuto**
+distancia recorrida por los filos de ta sobe el material en un minuto, es decir **superficie de erma oca el material por minuto**
 
 **Cada herramienta de cada fabricante tiene un CUTTING SPEED recomendado para cada material**
 
-Podemos usar un **CUTTING SPEED** menor al recomendado sin problemas en materiales blandos como aluminio E fariante SCUTTING SPEED** para maximizar nuestra productividad pero no siempre podemos lograrlo con la maquina que tenemos, y eso es normal.
+Podemos usar un **CUTTING SPEED** menor S recomendado sin problemas en materiales blandos como aluminio E fariante  SCUTTING SPEED** para maximizar nuestra productividad pero no siempre podemos lograrlo con la maquina que tenemos, y eso es normal.
 
-En materiales **duros** como **acero o titanio** es necesario usar **exactamente el CUTTING SPEED del fabricante**. En materiales blandos como aluminio, es opcional.
+En materiales **duros** como **acero o titanio** es necesario usar **exactamente el CUTTINGPEel fabicnt**. En materiales blandos como aluminio, es opcional.
 
 EL cutting speed puede venir en
 * $\frac{metros}{min}$
@@ -194,9 +195,9 @@ Los fabricantes usan estos nombres en sus tablas y formulas
 ### Obtener cutting speed y chip load 
 
 
-Los manuales de los fabricantes de herramientas indican que **Chip load** y **cutting speed** se debe usar para **cada herramienta** en combinacion con **el material a cortar**
+Los manuales de los fabricantes de eetaican que **Chip load** y **cutting speed** se debe usar para **cada herramienta** en combinacion con **el material a cortar**
 
-Para eso cada fabrcante coloca una serie de materiales en diferetes categorias y te indica **cutting speed** y **chip load** para cada material dentro de cada categoria y subcategoria.
+Para eso cada fabrcante coloca una serie de materiales en diferetes categorias y te indica tin eehip load** para cada material dentro de cada categoria y subcategoria.
 
 ![](https://i.imgur.com/LxCBhPB.png)
 
@@ -205,10 +206,18 @@ Buscamos la combinacion de
 * Material a cortar
 * Operacion
 
-Si  no estas seguro siempre podes **llamar a la  empresa fabricante de  herramienta**
- onl
+Si  no estas seguro siempre podes **llamar a n  ae de  herramienta**
+lco aules e abricante onl
 
-usmanua erca de rraments an a r or lo menos dos paetrse tn see y ad** dependiendo de la **operacion a realiza  ar*Slotin n para deillamien sn ner *auna eeifis*  a mnaine para oprios  palas 
+usmanua rcndeheramientas te an a da  l menos o arametros de **Cuttingetrse tn speed** y **Chip lo y ad** dependiendo de la **operacion a realizar**
+
+* Uno para *  ar*Slotting**
+* Uno para **Side milling**
+
+T n para deillambien se pueiad
+
+ara lo
+* Si minaiene uden poer**amasespeciios*  a recomdacioa eeifis*  a mnains paraacess y aieros  palas 
 
 ![](https://i.imgur.com/w.png)
 
@@ -230,7 +239,7 @@ A partir de eso nosotros debemos determinar **Feed y RPM**
 
 #### pindle RPM 
 
-las $RPM$ o $n$ dependeran del **Cutting speed** de la herramienta en cuestion para el material en cuestion, segun determine el fabricante
+as $RPM$ o $n$ dependeran del **Cutting speed** de la herramienta en cuestion para el material en cuestion, segun determine el fabricante
 
 No es dificil ver que si me dan un **cutting speed** entonces probablemente pueda calcular mis $RPM$ usando algo asi
 $$RPM=\frac{\text{perim por min recomendado x fabric}}{\text{permi de una vuelta de  mi herramienta}}$$
@@ -294,7 +303,7 @@ Queres evitar tener virtuta cerca del cortador, ya que
 
 * En elementos blandos, la friccion y el calor pueden derretirlos
 * En elementos duros, las chips pueden calentarse tanto que se templan y son aun mas duras que el material original, volver a cortarlas con la herramienta genera problemas
-* Estresa y desafila la erramienta sin necesidad
+* Estresa y desafila la herramienta sin necesidad
 
 Para evitarlo
 * Si la maquina tiene fluido enfriante, usalo
@@ -761,11 +770,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyNDAwNTQyLC05NTg0NDM2NDYsMTMwNT
-Q2MTk1NCwtOTM1OTYzMzIsLTE2NTU0NTcxNTMsMTA1NDkxNjI2
-MSwxNzk1OTAxMzE4LDEyMzI3ODUyMjAsLTU1OTgxODY4OCwxOD
-QyMjk5MzIxLDE2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2
-NjQsMTIzOTIxNzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC
-0xNjAyMDI1MTA3LDkzMTE0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0
-MzI0ODZdfQ==
+eyJoaXN0b3J5IjpbLTU5MzYzMjU5OCwtOTU4NDQzNjQ2LDEzMD
+U0NjE5NTQsLTkzNTk2MzMyLC0xNjU1NDU3MTUzLDEwNTQ5MTYy
+NjEsMTc5NTkwMTMxOCwxMjMyNzg1MjIwLC01NTk4MTg2ODgsMT
+g0MjI5OTMyMSwxNjE3Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEw
+NjY0LDEyMzkyMTcxNDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMC
+wtMTYwMjAyNTEwNyw5MzExNDk2MzYsMTMwOTkyNTU0NywxODAx
+NDMyNDg2XX0=
 -->
