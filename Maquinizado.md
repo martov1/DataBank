@@ -383,11 +383,12 @@ Podes determinar en base a tu viruta si estas haciendo una operacion correctamen
 	* Chips cortitas
 * Side milling
 	* Chips alargadas como agujas
-* Baja velocidad de corte y tool rubbing
+* Baja velocidad de corte y tool rubbing o desafilada
 	* Chips que son como polvo
 * Chips negras
 	* Alta temperatura, tal vez se templaron (puede o no ser normal, indicador de que necesitas cooling)
 
+![](https://i.imgur.com/E4kPdxc.png)
 
 ## Accesorios - WIP
 
@@ -761,11 +762,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0OTE1ODk5LDEzMDU0NjE5NTQsLTkzNT
-k2MzMyLC0xNjU1NDU3MTUzLDEwNTQ5MTYyNjEsMTc5NTkwMTMx
-OCwxMjMyNzg1MjIwLC01NTk4MTg2ODgsMTg0MjI5OTMyMSwxNj
-E3Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMzkyMTcx
-NDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAyNTEwNy
-w5MzExNDk2MzYsMTMwOTkyNTU0NywxODAxNDMyNDg2LC0xNTUy
-MTA4ODEzXX0=
+eyJoaXN0b3J5IjpbLTk1ODQ0MzY0NiwxMzA1NDYxOTU0LC05Mz
+U5NjMzMiwtMTY1NTQ1NzE1MywxMDU0OTE2MjYxLDE3OTU5MDEz
+MTgsMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4NDIyOTkzMjEsMT
+YxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2NCwxMjM5MjE3
+MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2MzAsLTE2MDIwMjUxMD
+csOTMxMTQ5NjM2LDEzMDk5MjU1NDcsMTgwMTQzMjQ4NiwtMTU1
+MjEwODgxM119
 -->
