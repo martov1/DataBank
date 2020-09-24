@@ -6,8 +6,9 @@
 
 
 
+
 **Seguir viendo**
-https://www.youtube.com/watch?v=5V0s6fLyRH0&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=4
+https://www.youtube.com/watch?v=5V0s6fLyRH0&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=
 
 **Fortalecer con**
 https://www.youtube.com/watch?v=15p1Kerb4N8&list=PLNvVbYXgJCEU2yqoOpEHB0mbDEttFgH7j
@@ -117,7 +118,7 @@ La herramienta **salvo en casos particulares** debe girar en la direccion de la 
 
 Recordemos que el filo y la forma de la herramienta afecta una serie de factores a la hora de cortar, por ejemplo la direccion hacia donde sale la viruta y la direccion del filo.
 
-Dicho esto, normalmente **intentaremos que la direccion del corte sea igual que la direccion de giro de la herramienta**
+Dicho esto, normalmente **intentaremos que la direccion del corte sea igual que la direccion  giro de la herramienta**
 
 * Se le llama al corte en direccion  contraria al giro de la herramienta **conventional cutting**
 	* Requiere mucha menos energia y fuerza por parte de la maquina
@@ -125,13 +126,13 @@ Dicho esto, normalmente **intentaremos que la direccion del corte sea igual que 
 
 .
 * Se llama al corte en direccion al giro de la herramienta.
-**climb cutting**
+**lib cutting**
 	* Requiere mucha mas energia para hacer el corte, **no** lo usamos con cortes de mucho material o con maquinas chicas
 	* Produce un mejor acabado
 	* Bueno para cortes de terminacion.
 	* la herramienta mordera fuertemente la pieza, si esta no esta firmemente sujeta podria salir despedida si se esta maquinando mucho material
 		* Para minimizar este efecto, que el corte siempre este paralelo a la morsa
-		* La maquina necesita de gran rigidez
+		* a maquina necesita de gran rigidez
 
 **Conclusiones**
 * **Climb cutting**
@@ -158,12 +159,12 @@ El chipload  determinara
 * El  acabado del material
 
 
-**CRITICO:** tenemos que tener un chip load **acorde a la herramienta que tenemos**, el **fabricante de la herramienta nos dara un IPT recomendado** Podemos variar el **IPT** dentro de algo razonable (15%)
+**CRITICO:** tenemos que tener un chip load **acorde a la herramienta que tenemos**, el **fabricante de la herramienta nos dara un  recomendado** Podemos variar el **** dentro de algo razonable (15%)
 *  **IPT muy bajo** 	
 	* hace que el cortador resbale y genere friccion
 	* Desafila la herramienta
 * **IPT muy alto** 
-	* fuerza la herramienta 
+	* fuerza la erramienta 
 	* podria quebrarla
 	* Mal acabado
 	* Mas calor
@@ -172,11 +173,11 @@ la conclusion de esto es que **TENER UNA BAJA VELOCIDAD DE AVANCE NO HACE QUE LA
 
 ### Cutting speed  (SFM o M/min)
 
-distancia recorrida por los filos de la herramienta sobre el material en un minuto, es decir **superficie de la herramienta que toca el material por minuto**
+distancia recorrida por los filos de  eeta sobe el material en un minuto, es decir **superficie de erma oca el material por minuto**
 
 **Cada herramienta de cada fabricante tiene un CUTTING SPEED recomendado para cada material**
 
-Podemos usar un **CUTTING SPEED** menor al recomendado sin problemas en materiales blandos como aluminio. El fabricante nos recomienda un **CUTTING SPEED** para maximizar nuestra productividad pero no siempre podemos lograrlo con la maquina que tenemos, y eso es normal.
+Podemos usar un **CUTTING SPEED** menor al recomendado sin problemas en materiales blandos como aluminio E fariante SCUTTING SPEED** para maximizar nuestra productividad pero no siempre podemos lograrlo con la maquina que tenemos, y eso es normal.
 
 En materiales **duros** como **acero o titanio** es necesario usar **exactamente el CUTTING SPEED del fabricante**. En materiales blandos como aluminio, es opcional.
 
@@ -204,17 +205,12 @@ Buscamos la combinacion de
 * Material a cortar
 * Operacion
 
-Si  no estas seguro siempre podes **llamar a la  empresa fabricante de la herramienta**
+Si  no estas seguro siempre podes **llamar a la  empresa fabricante de  herramienta**
+ onl
 
+usmanua erca de rraments an a r or lo menos dos paetrse tn see y ad** dependiendo de la **operacion a realiza  ar*Slotin n para deillamien sn ner *auna eeifis*  a mnaine para oprios  palas 
 
-Muchos manuales de fabricante de herramientas te van a dar por lo menos dos parametros de **Cutting speed** y **Chip load** dependiendo de la **operacion a realizar**
-
-* Uno para **Slotting**
-* Uno para **Side milling**
-
-Tambien se pueden poner **aun mas especificos** y dar recomendaciones para operaciones muy particulares 
-
-![](https://i.imgur.com/wgWGvzL.png)
+![](https://i.imgur.com/w.png)
 
 ### Calcular velocidad de giro y avance 
 
@@ -225,14 +221,14 @@ En una fresa debemos colocar una velocidad de giro y de avance tales que no romp
 
 para eso tenemos que **ver las especificaciones del fabricante para la herramienta que tenemos segun el material que tenemos**
 
-Para una herramienta determinada y un material determinado el fabricante nos dara
+Para una herramienta determinada y un material  nos dara
 * **Chip load** 
 * **Cutting speed**
 
 A partir de eso nosotros debemos determinar **Feed y RPM**
 
 
-#### Spindle RPM 
+#### pindle RPM 
 
 las $RPM$ o $n$ dependeran del **Cutting speed** de la herramienta en cuestion para el material en cuestion, segun determine el fabricante
 
@@ -298,7 +294,7 @@ Queres evitar tener virtuta cerca del cortador, ya que
 
 * En elementos blandos, la friccion y el calor pueden derretirlos
 * En elementos duros, las chips pueden calentarse tanto que se templan y son aun mas duras que el material original, volver a cortarlas con la herramienta genera problemas
-* Estresa y desafila la herramienta sin necesidad
+* Estresa y desafila la erramienta sin necesidad
 
 Para evitarlo
 * Si la maquina tiene fluido enfriante, usalo
@@ -306,7 +302,7 @@ Para evitarlo
 * Sino soplalas con aire comprimido o apaga la maquina y usa un cepillo
 * **No tocarlas, son filosas y calientes**
 
-![](https://i.imgur.com/eMwbjQw.png)
+![](https://i.imgur.com/eMwbjQwwgWGvzL.png)
 
 ### Chatter / Vibraciones
 
@@ -398,7 +394,8 @@ Son dos piezas de metal perfectamente paralelas (hasta una precision muy elevada
 
 ![](https://i.imgur.com/tV8oSw7.png)
 
-# Endmills
+# Endmill
+# Herramientas
 
 [videos fuente](https://www.youtube.com/watch?v=EB7B1zq8AM8)
 
@@ -415,7 +412,8 @@ A diferencia de los drill bits, que estan diseñados para **perforar hacia abajo
 * **Siempre es preferible que el corte sea lo mas profundo posible**
 * **siempre elegir la herramienta mas corta que tenga la profundidad de corte adecuada**
 * Siempre tratar de cortar con **todo el largo de la herramienta** para permitir un desgaste parejo
-	* **si usas solo la punta de una herramieta que no se puede afilar, la desperdiciaste! y son caras!**
+	* **si usas solo la punta de una herramieta que no se puede afilar, la desperdiciaste! y son caras!**siempre elegir la herramienta mas corta posible**
+* Siempre tratar de cortar con **todo el largo de la herramienta** para permitir un desgaste parejo
 * Mas corto es mas barato
 
 
@@ -426,6 +424,7 @@ _Largo de corte utilizable de una herramienta_
 
 ![](https://i.imgur.com/rUPIbsE.png)
 _Usar  el menor largo de herramienta posible_
+
 **Ancho**
 * Cuanto mas ancho **mas rigidez** y  por ende menor posibilidad de **chatter**
 * Cuanto mas ancho **mas precio**
@@ -488,7 +487,7 @@ A grandes razgos
 		* En materiales blandos esto implica mas friccion entre chips, eso puede **derretir plastico** o **fundir aluminio** en lugar de cortarlo
 * **Menos flutes** 
 	*  Mejor chip clearing, tienen mas espacio y tiempo para salir
-		* Bueno si el chip es grande, largo y no se romppe por que el material es blando!
+		* Bueno si el chip es grande, largo y no se romppe  por que el material es blando!
 	*  Peor terminado
 
 En terminos generales usamos
@@ -498,7 +497,7 @@ En terminos generales usamos
 	* Madera
 	* Metales blandos (aluminio)
 * **3 - 4 -5 flutes**
-	* Terminados en metales blandos
+	* Terminados en metales blandoDetalles
 	* Metales duros
 * **>6**
 	* Fibra de carbono
@@ -697,7 +696,7 @@ Las herramientas pueden estar recubiertas de diferentes materiales para extender
 
 
 
-# Face mills
+## Face mills
 
 [fuente 1](https://www.youtube.com/watch?v=jwORPpWJ73Y&list=PLpl7LvSkK4IGUEZZ4fh5m5uv94LC73654&index=5)
 Un face mill sirve para cortar superficies de manera plana. Todas las consideraciones anteriores para los endmills siguen siendo validas.
@@ -762,11 +761,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODQ0MzY0NiwxMzA1NDYxOTU0LC05Mz
-U5NjMzMiwtMTY1NTQ1NzE1MywxMDU0OTE2MjYxLDE3OTU5MDEz
-MTgsMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4NDIyOTkzMjEsMT
-YxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2NCwxMjM5MjE3
-MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2MzAsLTE2MDIwMjUxMD
-csOTMxMTQ5NjM2LDEzMDk5MjU1NDcsMTgwMTQzMjQ4NiwtMTU1
-MjEwODgxM119
+eyJoaXN0b3J5IjpbNDcyNDAwNTQyLC05NTg0NDM2NDYsMTMwNT
+Q2MTk1NCwtOTM1OTYzMzIsLTE2NTU0NTcxNTMsMTA1NDkxNjI2
+MSwxNzk1OTAxMzE4LDEyMzI3ODUyMjAsLTU1OTgxODY4OCwxOD
+QyMjk5MzIxLDE2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2
+NjQsMTIzOTIxNzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC
+0xNjAyMDI1MTA3LDkzMTE0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0
+MzI0ODZdfQ==
 -->
