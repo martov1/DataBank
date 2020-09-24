@@ -359,10 +359,17 @@ Es la operacion de hacer una cara **PLANA**, muchas veces arrancamos nuestro tra
 Es la operacion de cortar a 90 grados de la herramienta
 
 Demanda mas fuerza de la maquina, por lo que dependiendo de la potencia tal vez tengas que cortar con menor **Cutting speed**
-
 Podes hacer **Side milling** solo con un **endmill**
 
+![](https://i.imgur.com/psvfKIa.png)
 
+### Plunging
+
+Plunging es usar el **endmill como una mecha de taladro** para **cortar hacia abajo**
+
+Hay que **evitarlo siempre que sea posible!** 
+* el endmill no esta diseñado para evacuar viruta hacia arriba
+* Genera un desgaste desparejo de la herramie 
 
 
 ## Accesorios - WIP
@@ -737,11 +744,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4MTY4NDU4LDEzMDU0NjE5NTQsLTkzNT
-k2MzMyLC0xNjU1NDU3MTUzLDEwNTQ5MTYyNjEsMTc5NTkwMTMx
-OCwxMjMyNzg1MjIwLC01NTk4MTg2ODgsMTg0MjI5OTMyMSwxNj
-E3Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMzkyMTcx
-NDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAyNTEwNy
-w5MzExNDk2MzYsMTMwOTkyNTU0NywxODAxNDMyNDg2LC0xNTUy
-MTA4ODEzXX0=
+eyJoaXN0b3J5IjpbLTY0ODU4ODUyMCwxMzA1NDYxOTU0LC05Mz
+U5NjMzMiwtMTY1NTQ1NzE1MywxMDU0OTE2MjYxLDE3OTU5MDEz
+MTgsMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4NDIyOTkzMjEsMT
+YxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2NCwxMjM5MjE3
+MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2MzAsLTE2MDIwMjUxMD
+csOTMxMTQ5NjM2LDEzMDk5MjU1NDcsMTgwMTQzMjQ4NiwtMTU1
+MjEwODgxM119
 -->
