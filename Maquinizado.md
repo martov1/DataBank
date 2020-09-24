@@ -375,6 +375,13 @@ Hay que **evitarlo siempre que sea posible!**
 	* el endmill **no esta diseñado para evacuar viruta hacia arriba**
 	* Usar una herramienta con **menor cantidad de flutes**, ya que evacua mejor y ademas generalmente solo dos de las flutes realmente cortan abajo
 
+### Chip diagnostics
+
+Podes determinar en base a tu viruta si estas haciendo una operacion correctamente
+
+* Face milling
+	* Chips cortit
+
 
 ## Accesorios - WIP
 
@@ -748,11 +755,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzAyMzY1NTAsMTMwNTQ2MTk1NCwtOT
-M1OTYzMzIsLTE2NTU0NTcxNTMsMTA1NDkxNjI2MSwxNzk1OTAx
-MzE4LDEyMzI3ODUyMjAsLTU1OTgxODY4OCwxODQyMjk5MzIxLD
-E2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2NjQsMTIzOTIx
-NzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC0xNjAyMDI1MT
-A3LDkzMTE0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0ODYsLTE1
-NTIxMDg4MTNdfQ==
+eyJoaXN0b3J5IjpbMTA0Mzk4MDgzMCwxMzA1NDYxOTU0LC05Mz
+U5NjMzMiwtMTY1NTQ1NzE1MywxMDU0OTE2MjYxLDE3OTU5MDEz
+MTgsMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4NDIyOTkzMjEsMT
+YxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2NCwxMjM5MjE3
+MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2MzAsLTE2MDIwMjUxMD
+csOTMxMTQ5NjM2LDEzMDk5MjU1NDcsMTgwMTQzMjQ4NiwtMTU1
+MjEwODgxM119
 -->
