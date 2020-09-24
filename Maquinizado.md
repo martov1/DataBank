@@ -32,7 +32,7 @@ Para manipular una fresa es necesario:
 * Sin anillos, joyas, cadenas ni nada colgando
 * No acercar las manos a la maquina mientras este girando o moviendose
 
-## Comandos y partes de la fresa - WIP
+## Comandos y partes de la fresa
 ![IDENTIFYING MACHINE PARTS, CONTROLS, AND THEIR FUNCTIONS – Cad cam  Engineering WorldWide](https://cadcamengineering.net/wp-content/uploads/2015/02/IDENTIFYING-MACHINE-PARTS-J-3.jpg)
 
 
@@ -729,11 +729,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU0NTcxNTMsMTA1NDkxNjI2MSwxNz
-k1OTAxMzE4LDEyMzI3ODUyMjAsLTU1OTgxODY4OCwxODQyMjk5
-MzIxLDE2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2NjQsMT
-IzOTIxNzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC0xNjAy
-MDI1MTA3LDkzMTE0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0OD
-YsLTE1NTIxMDg4MTMsLTExMjA4NzExMjgsMTI0OTc2MTM0NSwt
-MTQxMzQ3Nzc1N119
+eyJoaXN0b3J5IjpbLTkzNTk2MzMyLC0xNjU1NDU3MTUzLDEwNT
+Q5MTYyNjEsMTc5NTkwMTMxOCwxMjMyNzg1MjIwLC01NTk4MTg2
+ODgsMTg0MjI5OTMyMSwxNjE3Mjc4MjEsMTczOTY1MzIwNSwtNT
+g2MjEwNjY0LDEyMzkyMTcxNDgsLTE1MTM3OTcxNjcsLTY2NTU0
+ODYzMCwtMTYwMjAyNTEwNyw5MzExNDk2MzYsMTMwOTkyNTU0Ny
+wxODAxNDMyNDg2LC0xNTUyMTA4ODEzLC0xMTIwODcxMTI4LDEy
+NDk3NjEzNDVdfQ==
 -->
