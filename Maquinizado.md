@@ -346,7 +346,8 @@ Para evitarlo
 
 ### Face milling
 
-Es la operacion de hacer una cara **PLANA**
+Es la operacion de hacer una cara **PLANA
+![](https://i.imgur.com/2Hf7Hjv.png)_Comparacion de un bloque de aluminio face milled y u_
 
 
 
@@ -675,7 +676,7 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODk3MTAxMiwxNzk1OTAxMzE4LDEyMz
+eyJoaXN0b3J5IjpbMjA0NDM2ODkxNywxNzk1OTAxMzE4LDEyMz
 I3ODUyMjAsLTU1OTgxODY4OCwxODQyMjk5MzIxLDE2MTcyNzgy
 MSwxNzM5NjUzMjA1LC01ODYyMTA2NjQsMTIzOTIxNzE0OCwtMT
 UxMzc5NzE2NywtNjY1NTQ4NjMwLC0xNjAyMDI1MTA3LDkzMTE0
