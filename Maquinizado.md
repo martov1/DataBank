@@ -5,9 +5,6 @@
 
 
 
-**Ver es**
-**te de herramientas y speed and feed**
-https://www.youtube.com/watch?v=ip2jm_6aUyk
 
 **Seguir viendo**
 https://www.youtube.com/watch?v=_HGGkCaYMVA&list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ&index=3
@@ -636,11 +633,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMz
-kyMTcxNDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAy
-NTEwNyw5MzExNDk2MzYsMTMwOTkyNTU0NywxODAxNDMyNDg2LC
-0xNTUyMTA4ODEzLC0xMTIwODcxMTI4LDEyNDk3NjEzNDUsLTE0
-MTM0Nzc3NTcsLTExODgyMjE1MywtMTA2MDI0MTc3LDgxNzc1Nj
-UyMSwxMDk5Mjk0OTk2LC01OTM3OTMwNDMsMTkyMTk4OTQ3NCwx
-MTc5NjMyMzg1XX0=
+eyJoaXN0b3J5IjpbMTYxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4Nj
+IxMDY2NCwxMjM5MjE3MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2
+MzAsLTE2MDIwMjUxMDcsOTMxMTQ5NjM2LDEzMDk5MjU1NDcsMT
+gwMTQzMjQ4NiwtMTU1MjEwODgxMywtMTEyMDg3MTEyOCwxMjQ5
+NzYxMzQ1LC0xNDEzNDc3NzU3LC0xMTg4MjIxNTMsLTEwNjAyND
+E3Nyw4MTc3NTY1MjEsMTA5OTI5NDk5NiwtNTkzNzkzMDQzLDE5
+MjE5ODk0NzRdfQ==
 -->
