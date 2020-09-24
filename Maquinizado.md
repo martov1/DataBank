@@ -700,14 +700,18 @@ _Formacion de chips con un diametro de herramienta muy pequeño_
 Un facemill tiene **dos rake angles**
 
 * **Radial rake angle**
-El angulo que forma el cortador con el eje de la herramienta, puede ser 
+El angulo que forma el cortador con el eje $x$ de la herramienta, puede ser 
 * **positivo** (Hacia el material)
 *  **neutro** (perpendicular al material)
 *  **negativo** (Hacia el lado contrario al material) como se muestra en la imagen
 ![](https://i.imgur.com/TSOCpEt.png)
 _Ejemplo de un radial rake angle negativo_
 * **Axial rake angle**
-
+El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser 
+* **positivo** (Hacia el material)
+*  **neutro** (perpendicular al material)
+*  **negativo** (Hacia el lado contrario al material) como se muestra en la imagen
+![](https://i.imgur.com/f4JZAmK.png)
 
 
 .
@@ -725,11 +729,11 @@ _Ejemplo de un radial rake angle negativo_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDY2NTUzNSwxMDU0OTE2MjYxLDE3OT
-U5MDEzMTgsMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4NDIyOTkz
-MjEsMTYxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2NCwxMj
-M5MjE3MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2MzAsLTE2MDIw
-MjUxMDcsOTMxMTQ5NjM2LDEzMDk5MjU1NDcsMTgwMTQzMjQ4Ni
-wtMTU1MjEwODgxMywtMTEyMDg3MTEyOCwxMjQ5NzYxMzQ1LC0x
-NDEzNDc3NzU3XX0=
+eyJoaXN0b3J5IjpbLTE2NTU0NTcxNTMsMTA1NDkxNjI2MSwxNz
+k1OTAxMzE4LDEyMzI3ODUyMjAsLTU1OTgxODY4OCwxODQyMjk5
+MzIxLDE2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2NjQsMT
+IzOTIxNzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC0xNjAy
+MDI1MTA3LDkzMTE0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0OD
+YsLTE1NTIxMDg4MTMsLTExMjA4NzExMjgsMTI0OTc2MTM0NSwt
+MTQxMzQ3Nzc1N119
 -->
