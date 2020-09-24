@@ -344,7 +344,7 @@ Para evitarlo
 
 ## Operaciones - WIP
 
-### Face milling
+### Face/side milling
 
 Es la operacion de hacer una cara **PLANA**, muchas veces arrancamos nuestro trabajo haciendo **face milling** en **todas las caras de nuestro material** para llevarlo a escuadra y a una dimension aproximadamente cercana a nuestra pieza inicial.
 
@@ -352,7 +352,8 @@ Es la operacion de hacer una cara **PLANA**, muchas veces arrancamos nuestro tra
 ![](https://i.imgur.com/2Hf7Hjv.png)_Comparacion de un bloque de aluminio face milled y uno cortado con una sierra de mano_
 
 
-Para hacer face milling podemos usar un **enndmill** o un **facemill**
+* Para hacer **face milling** podemos usar un **enndmill** o un **facemill**
+* Podes hacer **Side milling** solo con un **endmill**
 
 
 
@@ -729,11 +730,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTk2MzMyLC0xNjU1NDU3MTUzLDEwNT
-Q5MTYyNjEsMTc5NTkwMTMxOCwxMjMyNzg1MjIwLC01NTk4MTg2
-ODgsMTg0MjI5OTMyMSwxNjE3Mjc4MjEsMTczOTY1MzIwNSwtNT
-g2MjEwNjY0LDEyMzkyMTcxNDgsLTE1MTM3OTcxNjcsLTY2NTU0
-ODYzMCwtMTYwMjAyNTEwNyw5MzExNDk2MzYsMTMwOTkyNTU0Ny
-wxODAxNDMyNDg2LC0xNTUyMTA4ODEzLC0xMTIwODcxMTI4LDEy
-NDk3NjEzNDVdfQ==
+eyJoaXN0b3J5IjpbMTMwNTQ2MTk1NCwtOTM1OTYzMzIsLTE2NT
+U0NTcxNTMsMTA1NDkxNjI2MSwxNzk1OTAxMzE4LDEyMzI3ODUy
+MjAsLTU1OTgxODY4OCwxODQyMjk5MzIxLDE2MTcyNzgyMSwxNz
+M5NjUzMjA1LC01ODYyMTA2NjQsMTIzOTIxNzE0OCwtMTUxMzc5
+NzE2NywtNjY1NTQ4NjMwLC0xNjAyMDI1MTA3LDkzMTE0OTYzNi
+wxMzA5OTI1NTQ3LDE4MDE0MzI0ODYsLTE1NTIxMDg4MTMsLTEx
+MjA4NzExMjhdfQ==
 -->
