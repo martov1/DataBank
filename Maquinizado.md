@@ -504,7 +504,7 @@ De la misma manera, los filos del largo tambien tienen rake angles que pueden se
 	 * toma mas fuerza
 
 
-### enter/non-center cutting
+### Center/non-center cutting
 [fuente](https://www.youtube.com/watch?v=eH50t7kUx6c)
 
 **Center cutting endmill**
@@ -519,6 +519,7 @@ Son endmills que tienen la capacidad de cortar hacia abajo en el eje $Z$ sin mov
 Son endmills que cortan por cortadores radiaales pero en el centro no cortan.
 ![](https://i.imgur.com/3f5frqP.png)
 Eso implica que **no podemos taladrar con ellos**, sino que tenemos que hacer agujeros de manera helicoidal. y una velocidad de avance en el eje $Z$ baja comparada con $XY$
+
 
 ## Geometrias especiales
 
@@ -693,17 +694,20 @@ _Diametro efectivo_
 _Formacion de chips con un diametro de herramienta muy pequeño_
 
 
-### Direccion de corte
+### Angulos
+
+
+n facemill
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNjMyNTg0LDEwNTQ5MTYyNjEsMTc5NT
-kwMTMxOCwxMjMyNzg1MjIwLC01NTk4MTg2ODgsMTg0MjI5OTMy
-MSwxNjE3Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMz
-kyMTcxNDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAy
-NTEwNyw5MzExNDk2MzYsMTMwOTkyNTU0NywxODAxNDMyNDg2LC
-0xNTUyMTA4ODEzLC0xMTIwODcxMTI4LDEyNDk3NjEzNDUsLTE0
-MTM0Nzc3NTddfQ==
+eyJoaXN0b3J5IjpbLTEwMjgyOTI1NTUsMTA1NDkxNjI2MSwxNz
+k1OTAxMzE4LDEyMzI3ODUyMjAsLTU1OTgxODY4OCwxODQyMjk5
+MzIxLDE2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2NjQsMT
+IzOTIxNzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC0xNjAy
+MDI1MTA3LDkzMTE0OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0OD
+YsLTE1NTIxMDg4MTMsLTExMjA4NzExMjgsMTI0OTc2MTM0NSwt
+MTQxMzQ3Nzc1N119
 -->
