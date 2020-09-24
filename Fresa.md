@@ -369,7 +369,10 @@ Plunging es usar el **endmill como una mecha de taladro** para **cortar hacia ab
 
 Hay que **evitarlo siempre que sea posible!** 
 * el endmill no esta diseñado para evacuar viruta hacia arriba
-* Genera un desgaste desparejo de la herramie 
+* Genera un desgaste desparejo de la herramienta
+*  Solo se puede hacer con **center cutting endmills**
+* No siempre se puede evitar
+* Usar una herramienta con menor cantidad de flutes, ya que evacua mejor
 
 
 ## Accesorios - WIP
@@ -744,7 +747,7 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODU4ODUyMCwxMzA1NDYxOTU0LC05Mz
+eyJoaXN0b3J5IjpbLTc1NDg5MDYwMiwxMzA1NDYxOTU0LC05Mz
 U5NjMzMiwtMTY1NTQ1NzE1MywxMDU0OTE2MjYxLDE3OTU5MDEz
 MTgsMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4NDIyOTkzMjEsMT
 YxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2NCwxMjM5MjE3
