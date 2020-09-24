@@ -346,6 +346,12 @@ Para evitarlo
 
 ### Face milling
 
+Es la operacion de hacer una cara **PLANA**
+
+
+
+
+
 
 
 ## Accesorios - WIP
@@ -669,11 +675,11 @@ Los face mills funcionan con herramientas llamadas insertos, que se cambian y so
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTkwMTMxOCwxMjMyNzg1MjIwLC01NT
-k4MTg2ODgsMTg0MjI5OTMyMSwxNjE3Mjc4MjEsMTczOTY1MzIw
-NSwtNTg2MjEwNjY0LDEyMzkyMTcxNDgsLTE1MTM3OTcxNjcsLT
-Y2NTU0ODYzMCwtMTYwMjAyNTEwNyw5MzExNDk2MzYsMTMwOTky
-NTU0NywxODAxNDMyNDg2LC0xNTUyMTA4ODEzLC0xMTIwODcxMT
-I4LDEyNDk3NjEzNDUsLTE0MTM0Nzc3NTcsLTExODgyMjE1Mywt
-MTA2MDI0MTc3XX0=
+eyJoaXN0b3J5IjpbMTkwODk3MTAxMiwxNzk1OTAxMzE4LDEyMz
+I3ODUyMjAsLTU1OTgxODY4OCwxODQyMjk5MzIxLDE2MTcyNzgy
+MSwxNzM5NjUzMjA1LC01ODYyMTA2NjQsMTIzOTIxNzE0OCwtMT
+UxMzc5NzE2NywtNjY1NTQ4NjMwLC0xNjAyMDI1MTA3LDkzMTE0
+OTYzNiwxMzA5OTI1NTQ3LDE4MDE0MzI0ODYsLTE1NTIxMDg4MT
+MsLTExMjA4NzExMjgsMTI0OTc2MTM0NSwtMTQxMzQ3Nzc1Nywt
+MTE4ODIyMTUzXX0=
 -->
