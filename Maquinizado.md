@@ -403,9 +403,13 @@ Podes determinar en base a tu viruta si estas haciendo una operacion correctamen
 ![](https://i.imgur.com/E4kPdxc.png)
 
 
-## Procedimientos
+## Procedimiento general - WIP
 
-###
+Este es un procedimie
+
+### Square out the stock
+
+Arrancamos creando una pieza con sus lados perfectamente a 90 grados
 
 ## Accesorios - WIP
 
@@ -783,11 +787,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTAxNDI4OSwtMTI0NjUzMDk4MiwtMT
-YwODczNDczNCwtNTkzNjMyNTk4LC05NTg0NDM2NDYsMTMwNTQ2
-MTk1NCwtOTM1OTYzMzIsLTE2NTU0NTcxNTMsMTA1NDkxNjI2MS
-wxNzk1OTAxMzE4LDEyMzI3ODUyMjAsLTU1OTgxODY4OCwxODQy
-Mjk5MzIxLDE2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2Nj
-QsMTIzOTIxNzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC0x
-NjAyMDI1MTA3XX0=
+eyJoaXN0b3J5IjpbLTIxMzIyNTY0NDcsLTEyNDY1MzA5ODIsLT
+E2MDg3MzQ3MzQsLTU5MzYzMjU5OCwtOTU4NDQzNjQ2LDEzMDU0
+NjE5NTQsLTkzNTk2MzMyLC0xNjU1NDU3MTUzLDEwNTQ5MTYyNj
+EsMTc5NTkwMTMxOCwxMjMyNzg1MjIwLC01NTk4MTg2ODgsMTg0
+MjI5OTMyMSwxNjE3Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNj
+Y0LDEyMzkyMTcxNDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwt
+MTYwMjAyNTEwN119
 -->
