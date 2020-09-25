@@ -374,7 +374,9 @@ Es la operacion de hacer una cara **PLANA**, muchas veces arrancamos nuestro tra
 
 ### Square up stock - WIP
 
- Es el primer procedimiento que se suele hacer al maquinar algo, es para hacer la pieza inicia totalmente rectangu
+ Es el primer procedimiento que se suele hacer al maquinar algo, es para hacer la pieza inicia totalmente rectangular (todos angulos de 90 grados) y se hace entonces con **6 face milling operations**
+
+
 ### Side milling
 
 Es la operacion de cortar a 90 grados de la herramienta
@@ -788,11 +790,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTE5MjY4MCwtMTI0NjUzMDk4MiwtMT
-YwODczNDczNCwtNTkzNjMyNTk4LC05NTg0NDM2NDYsMTMwNTQ2
-MTk1NCwtOTM1OTYzMzIsLTE2NTU0NTcxNTMsMTA1NDkxNjI2MS
-wxNzk1OTAxMzE4LDEyMzI3ODUyMjAsLTU1OTgxODY4OCwxODQy
-Mjk5MzIxLDE2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2Nj
-QsMTIzOTIxNzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC0x
-NjAyMDI1MTA3XX0=
+eyJoaXN0b3J5IjpbLTM4ODYyMTk4LC0xMjQ2NTMwOTgyLC0xNj
+A4NzM0NzM0LC01OTM2MzI1OTgsLTk1ODQ0MzY0NiwxMzA1NDYx
+OTU0LC05MzU5NjMzMiwtMTY1NTQ1NzE1MywxMDU0OTE2MjYxLD
+E3OTU5MDEzMTgsMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4NDIy
+OTkzMjEsMTYxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2NC
+wxMjM5MjE3MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2MzAsLTE2
+MDIwMjUxMDddfQ==
 -->
