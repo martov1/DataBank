@@ -379,7 +379,8 @@ Es la operacion de hacer una cara **PLANA**, muchas veces arrancamos nuestro tra
 * Limpiar la maquina para evitar errores de precision por apoyar la pieza o los paralelos en viruta
 * Poner los paralelos
 * Apoyar la pieza con sus dos lados mas rectos contra los paralelos y la parte fija de la morsa
-* Apretar l
+* Apretar la morsa y martillar la pieza contra la morsa para evitar **vise lift** (la tendencia a que la morsa se eleve un poco hacia arriba al apretarla) hasta que la pieza este **apretaada contra los paralelos!**
+* 
 ### Side milling
 
 Es la operacion de cortar a 90 grados de la herramienta
@@ -793,7 +794,7 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjM3NjIyMSwtMTI0NjUzMDk4MiwtMT
+eyJoaXN0b3J5IjpbLTY0MDEyMDE5MiwtMTI0NjUzMDk4MiwtMT
 YwODczNDczNCwtNTkzNjMyNTk4LC05NTg0NDM2NDYsMTMwNTQ2
 MTk1NCwtOTM1OTYzMzIsLTE2NTU0NTcxNTMsMTA1NDkxNjI2MS
 wxNzk1OTAxMzE4LDEyMzI3ODUyMjAsLTU1OTgxODY4OCwxODQy
