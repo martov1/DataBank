@@ -345,6 +345,17 @@ Para evitarlo
 
 ## Operaciones - WIP
 
+### Preparacion de la pieza
+
+Antes de arrancar a maquinar la pieza es importante **Sacar todo el material posible por otros medios mas baratos y rapidos**
+
+Una cortadora de banda o de disco puede 
+* Remover mas material
+* Mas rapido
+* Sin desgastar herramientas caras de fresa
+
+Siempre saca todo el material posible con herramientas mas baratas y rapidas de operar y usa  la fresa par
+
 ### Face/side milling
 
 Es la operacion de hacer una cara **PLANA**, muchas veces arrancamos nuestro trabajo haciendo **face milling** en **todas las caras de nuestro material** para llevarlo a escuadra y a una dimension aproximadamente cercana a nuestra pieza inicial.
@@ -767,11 +778,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY1MzA5ODIsLTE2MDg3MzQ3MzQsLT
-U5MzYzMjU5OCwtOTU4NDQzNjQ2LDEzMDU0NjE5NTQsLTkzNTk2
-MzMyLC0xNjU1NDU3MTUzLDEwNTQ5MTYyNjEsMTc5NTkwMTMxOC
-wxMjMyNzg1MjIwLC01NTk4MTg2ODgsMTg0MjI5OTMyMSwxNjE3
-Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMzkyMTcxND
-gsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAyNTEwNyw5
-MzExNDk2MzZdfQ==
+eyJoaXN0b3J5IjpbMjEyMzU5NDc3OCwtMTI0NjUzMDk4MiwtMT
+YwODczNDczNCwtNTkzNjMyNTk4LC05NTg0NDM2NDYsMTMwNTQ2
+MTk1NCwtOTM1OTYzMzIsLTE2NTU0NTcxNTMsMTA1NDkxNjI2MS
+wxNzk1OTAxMzE4LDEyMzI3ODUyMjAsLTU1OTgxODY4OCwxODQy
+Mjk5MzIxLDE2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2Nj
+QsMTIzOTIxNzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC0x
+NjAyMDI1MTA3XX0=
 -->
