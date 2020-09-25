@@ -517,6 +517,7 @@ La punta tiene un angulo llamado **rake angle**, este angulo puede estar
 * **Alejandose del material (negativo -)**
 
 ![](https://i.imgur.com/YrqE8Gb.png)
+![](https://i.imgur.com/lwgBwlh.png)
 
 **Geometria del largo**
 De la misma manera, los filos del largo tambien tienen **rake angles** que pueden ser
@@ -766,11 +767,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg3MzQ3MzQsLTU5MzYzMjU5OCwtOT
-U4NDQzNjQ2LDEzMDU0NjE5NTQsLTkzNTk2MzMyLC0xNjU1NDU3
-MTUzLDEwNTQ5MTYyNjEsMTc5NTkwMTMxOCwxMjMyNzg1MjIwLC
-01NTk4MTg2ODgsMTg0MjI5OTMyMSwxNjE3Mjc4MjEsMTczOTY1
-MzIwNSwtNTg2MjEwNjY0LDEyMzkyMTcxNDgsLTE1MTM3OTcxNj
-csLTY2NTU0ODYzMCwtMTYwMjAyNTEwNyw5MzExNDk2MzYsMTMw
-OTkyNTU0N119
+eyJoaXN0b3J5IjpbLTEyNDY1MzA5ODIsLTE2MDg3MzQ3MzQsLT
+U5MzYzMjU5OCwtOTU4NDQzNjQ2LDEzMDU0NjE5NTQsLTkzNTk2
+MzMyLC0xNjU1NDU3MTUzLDEwNTQ5MTYyNjEsMTc5NTkwMTMxOC
+wxMjMyNzg1MjIwLC01NTk4MTg2ODgsMTg0MjI5OTMyMSwxNjE3
+Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMzkyMTcxND
+gsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwtMTYwMjAyNTEwNyw5
+MzExNDk2MzZdfQ==
 -->
