@@ -379,6 +379,7 @@ Es la operacion de hacer una cara **PLANA**, muchas veces arrancamos nuestro tra
 * Limpiar la maquina para evitar errores de precision por apoyar la pieza o los paralelos en viruta
 * Poner los paralelos
 * Apoyar la pieza con sus dos lados mas rectos contra los paralelos y la parte fija de la morsa
+* 
 ### Side milling
 
 Es la operacion de cortar a 90 grados de la herramienta
@@ -792,11 +793,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY2MTUxOTQsLTEyNDY1MzA5ODIsLT
-E2MDg3MzQ3MzQsLTU5MzYzMjU5OCwtOTU4NDQzNjQ2LDEzMDU0
-NjE5NTQsLTkzNTk2MzMyLC0xNjU1NDU3MTUzLDEwNTQ5MTYyNj
-EsMTc5NTkwMTMxOCwxMjMyNzg1MjIwLC01NTk4MTg2ODgsMTg0
-MjI5OTMyMSwxNjE3Mjc4MjEsMTczOTY1MzIwNSwtNTg2MjEwNj
-Y0LDEyMzkyMTcxNDgsLTE1MTM3OTcxNjcsLTY2NTU0ODYzMCwt
-MTYwMjAyNTEwN119
+eyJoaXN0b3J5IjpbOTI1MzA1OTAyLC0xMjQ2NTMwOTgyLC0xNj
+A4NzM0NzM0LC01OTM2MzI1OTgsLTk1ODQ0MzY0NiwxMzA1NDYx
+OTU0LC05MzU5NjMzMiwtMTY1NTQ1NzE1MywxMDU0OTE2MjYxLD
+E3OTU5MDEzMTgsMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4NDIy
+OTkzMjEsMTYxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2NC
+wxMjM5MjE3MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2MzAsLTE2
+MDIwMjUxMDddfQ==
 -->
