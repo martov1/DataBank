@@ -356,7 +356,7 @@ Una cortadora de banda o de disco puede
 
 Siempre saca todo el material posible con herramientas mas baratas y rapidas de operar y **usa  la fresa para lo que sea indispensable**
 
-### Face/side milling
+### Facemilling
 
 Es la operacion de hacer una cara **PLANA**, muchas veces arrancamos nuestro trabajo haciendo **face milling** en **todas las caras de nuestro material** para llevarlo a escuadra y a una dimension aproximadamente cercana a nuestra pieza inicial.
 
@@ -401,6 +401,9 @@ Podes determinar en base a tu viruta si estas haciendo una operacion correctamen
 	* Alta temperatura, tal vez se templaron (puede o no ser normal, indicador de que necesitas cooling)
 
 ![](https://i.imgur.com/E4kPdxc.png)
+
+
+## Procedimientos
 
 ## Accesorios - WIP
 
@@ -778,11 +781,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4ODM0MTg3LC0xMjQ2NTMwOTgyLC0xNj
-A4NzM0NzM0LC01OTM2MzI1OTgsLTk1ODQ0MzY0NiwxMzA1NDYx
-OTU0LC05MzU5NjMzMiwtMTY1NTQ1NzE1MywxMDU0OTE2MjYxLD
-E3OTU5MDEzMTgsMTIzMjc4NTIyMCwtNTU5ODE4Njg4LDE4NDIy
-OTkzMjEsMTYxNzI3ODIxLDE3Mzk2NTMyMDUsLTU4NjIxMDY2NC
-wxMjM5MjE3MTQ4LC0xNTEzNzk3MTY3LC02NjU1NDg2MzAsLTE2
-MDIwMjUxMDddfQ==
+eyJoaXN0b3J5IjpbMTkyMjU3NjcwMCwtMTI0NjUzMDk4MiwtMT
+YwODczNDczNCwtNTkzNjMyNTk4LC05NTg0NDM2NDYsMTMwNTQ2
+MTk1NCwtOTM1OTYzMzIsLTE2NTU0NTcxNTMsMTA1NDkxNjI2MS
+wxNzk1OTAxMzE4LDEyMzI3ODUyMjAsLTU1OTgxODY4OCwxODQy
+Mjk5MzIxLDE2MTcyNzgyMSwxNzM5NjUzMjA1LC01ODYyMTA2Nj
+QsMTIzOTIxNzE0OCwtMTUxMzc5NzE2NywtNjY1NTQ4NjMwLC0x
+NjAyMDI1MTA3XX0=
 -->
