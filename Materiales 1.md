@@ -295,5 +295,6 @@ Notese en el **grafico de stress/strain** que:
 
 ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/6ZwHLmm.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5MDQ5Mzk1LC0xMjAzMDc3MDYzXX0=
+eyJoaXN0b3J5IjpbNzg4MjY2MTEsMzQ5MDQ5Mzk1LC0xMjAzMD
+c3MDYzXX0=
 -->
