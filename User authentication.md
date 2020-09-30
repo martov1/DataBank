@@ -169,9 +169,9 @@ El problema de las colisiones en las tablas de hellman es que una vez que se pro
 
 Las rainbow tables usan **una funcion $$R$$ distinta en cada eslabon de la cadena**, entonces si en dos cadenas diferentes tenes una colision (el mismo valor), salvo que la colision suceda en el mismo punto en ambas cadenas (el mismo eslabon, y por ende la misma funcion $$R$$), seran procesados por funcones $$R$$ distintas que evitaran que los valores de las dos cadenas se repitan
 
-![](http://i.markdownnotes.com/Sin_t%C3%ADtulo_A81cvZi.png)
+![](https://i.imgur.com/t2pp4CG.png)
 
-![](http://i.markdownnotes.com/Rainbow_table_collisions_explained.jpg)
+![](https://i.imgur.com/vKyjrUT.jpg)
 **Habra de igual manera colisiones y repeticiones, pero ahora una colision no implica (generalmente) que el resto de la cadena tambien esta repetido en otra cadena.**
 
 
@@ -260,5 +260,6 @@ Consisten en cookies ó tokens que contienen la informacion de la sesion (por ej
 * La **perdida de la clave privada** es grave y compromete todos los tokens.
 * La revocacion de tokens es dificil
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg2MjA4OTddfQ==
+eyJoaXN0b3J5IjpbLTEyMDg0NjAzODEsLTE0MDg2MjA4OTddfQ
+==
 -->
