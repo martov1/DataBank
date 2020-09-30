@@ -374,9 +374,11 @@ Ademas si estas trabajando en una fresa, el burr puede modificarte la posicion d
 
 ![](https://i.imgur.com/RKP8Tkj.png)
 
+## Parting
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTc0NjUzMSwtNzg1NjYwNzMzLDE4Nj
-YyNjAzMjgsLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5NjgzMjM5
-MF19
+eyJoaXN0b3J5IjpbLTIwNjA3MTQ1NzYsMTQzOTc0NjUzMSwtNz
+g1NjYwNzMzLDE4NjYyNjAzMjgsLTE2MTExNjIzMTYsMTA2NDUx
+MjI0LDg5NjgzMjM5MF19
 -->
