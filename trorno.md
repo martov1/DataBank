@@ -410,14 +410,15 @@ Tener en cuenta
 * La herramienta tiene que estar bien **afilada**
 * Los **speeds and feeds** tienen que estar bien
 * La **rigidez** tiene que ser excelente!
+	* Estar lo mas cerca posible del plato
+![](https://i.imgur.com/jdicmQC.png)
 	* Usar el menor largo posible de herramienta ![](https://i.imgur.com/2tGwmCO.png)
 	* **Altura** del filo alineada perfectamente con el eje del torno, **NUNCA  jamas debe estar debajo del centro**
-	* ![](https://i.imgur.com/ADQPa6P.png)
+![](https://i.imgur.com/ADQPa6P.png)
 * **Perpendicularidad perfecta** a lapieza 
-	* Podes apoyar el carro porta herramientas contra la pieza o contra un cuadrado de maquinista
-	* ![](https://i.imgur.com/TyTyy7K.png)
+	* Podes apoyar el carro porta herramientas contra la pieza o contra un cuadrado de maquinista![](https://i.imgur.com/TyTyy7K.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY0NzY0MTAsOTY3ODg1ODQyLC0xOD
+eyJoaXN0b3J5IjpbLTE1ODU5OTI3MjgsOTY3ODg1ODQyLC0xOD
 YxMTA1ODI5LDE0Mzk3NDY1MzEsLTc4NTY2MDczMywxODY2MjYw
 MzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIzOTBdfQ
 ==
