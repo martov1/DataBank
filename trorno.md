@@ -399,20 +399,20 @@ Es
 * **USAR** proteccion facial
 * **SABER** usar la parada de emergencia
 * **Es demandante con la herramienta y la maquina**
-	* La herramienta tiene que estar bien **afilada**
-	* Los **speeds and feeds** tienen que estar bien
-	* La **rigidez** tiene que ser excelente!
+
 
 >Usamos el torno para dividir la pieza **en vez de una sierra** por que
 >* Es preciso
 >* Es rapido
 >* Es comodo
 
-
-Se hace con un **parting tool**
-
+Tener en cuenta
+	* La herramienta tiene que estar bien **afilada**
+	* Los **speeds and feeds** tienen que estar bien
+	* La **rigidez** tiene que ser excelente!
+		* Usar el menor largo posible de herramienta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5MzQ4MDkxLDk2Nzg4NTg0MiwtMTg2MT
+eyJoaXN0b3J5IjpbNDQ2MDIzODI0LDk2Nzg4NTg0MiwtMTg2MT
 EwNTgyOSwxNDM5NzQ2NTMxLC03ODU2NjA3MzMsMTg2NjI2MDMy
 OCwtMTYxMTE2MjMxNiwxMDY0NTEyMjQsODk2ODMyMzkwXX0=
 -->
