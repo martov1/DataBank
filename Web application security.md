@@ -68,7 +68,7 @@ https://www.udemy.com/webhacking/
 
 
 
-# Problematicas
+## Problematicas
 
 
 Las web apps tienen como mayor problematica que **El usuario puede realizar inputs**
@@ -88,9 +88,9 @@ Por consiguiente, cuando desarrollas una web app, tenes que:
 
 
 
-# Seguridad de un servidor HTTP
+## Seguridad de un servidor HTTP
 
-## Usar HTTPS y cookies bien configuradas
+### Usar HTTPS y cookies bien configuradas
 
 El servidor debera:
 
@@ -548,7 +548,7 @@ El browser envia la solicitud con la cookie que corresponda, autorizando el requ
 
 Mientras el atacante no pueda determinar el valor del token con anticipacion, no podra hacer ataques de CSRF
 
-![](http://i.markdownnotes.com/All-You-Need-To-Know-About-Cross-Site-Request-Forgery-CSRF-640x480.jpg)
+![](https://i.imgur.com/goHbK6P.jpg)
 
 ## UI redressing
 
@@ -1097,5 +1097,5 @@ Dependiendo del medio donde se guarden, las estrategias pueden ser diferentes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM4MjQ2NzZdfQ==
+eyJoaXN0b3J5IjpbMTg1ODAzNjY0MSwtMTY3MzgyNDY3Nl19
 -->
