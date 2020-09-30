@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=bvJhRtRR7rk
 # Herramientas - WIP
 
 
-### Tipos de herramientas - WIP
+## Tipos de herramientas - WIP
 
 #### Parting tools
 
@@ -70,7 +70,7 @@ Se trata de una herramienta con un angulo de 85 grados en vez de 90 para poder h
 Para agrandar agujeros internos
 
 ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/7GrpJat.png)
-### Material - WIP
+## Material - WIP
 Tienen las mismas caracteristicas en cuanto al material que las herramientas de fresa.
 
 * Carbide 
@@ -428,8 +428,9 @@ Tener en cuenta
 	* Un **facing operation**
 	* usar **una lija**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDA0MzgzOCwtMTI2OTkxOTgyNywtMj
-A2NDg5MzUxNiwtMTcyNzIyMzE4OCw5Njc4ODU4NDIsLTE4NjEx
-MDU4MjksMTQzOTc0NjUzMSwtNzg1NjYwNzMzLDE4NjYyNjAzMj
-gsLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5NjgzMjM5MF19
+eyJoaXN0b3J5IjpbLTEwMjkxMzMyODYsLTIzMDA0MzgzOCwtMT
+I2OTkxOTgyNywtMjA2NDg5MzUxNiwtMTcyNzIyMzE4OCw5Njc4
+ODU4NDIsLTE4NjExMDU4MjksMTQzOTc0NjUzMSwtNzg1NjYwNz
+MzLDE4NjYyNjAzMjgsLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5
+NjgzMjM5MF19
 -->
