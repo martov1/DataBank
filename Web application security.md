@@ -1098,5 +1098,6 @@ Dependiendo del medio donde se guarden, las estrategias pueden ser diferentes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDE3NjQwNSwtMTY3MzgyNDY3Nl19
+eyJoaXN0b3J5IjpbLTEzMzgxNjY4MDYsMTU5MDE3NjQwNSwtMT
+Y3MzgyNDY3Nl19
 -->
