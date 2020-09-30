@@ -407,12 +407,14 @@ Es
 >* Es comodo
 
 Tener en cuenta
-	* La herramienta tiene que estar bien **afilada**
-	* Los **speeds and feeds** tienen que estar bien
-	* La **rigidez** tiene que ser excelente!
-		* Usar el menor largo posible de herramienta
+* La herramienta tiene que estar bien **afilada**
+* Los **speeds and feeds** tienen que estar bien
+* La **rigidez** tiene que ser excelente!
+	* Usar el menor largo posible de herramienta ![](https://i.imgur.com/2tGwmCO.png)
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2MDIzODI0LDk2Nzg4NTg0MiwtMTg2MT
-EwNTgyOSwxNDM5NzQ2NTMxLC03ODU2NjA3MzMsMTg2NjI2MDMy
-OCwtMTYxMTE2MjMxNiwxMDY0NTEyMjQsODk2ODMyMzkwXX0=
+eyJoaXN0b3J5IjpbLTExMjA5MTM3ODQsOTY3ODg1ODQyLC0xOD
+YxMTA1ODI5LDE0Mzk3NDY1MzEsLTc4NTY2MDczMywxODY2MjYw
+MzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIzOTBdfQ
+==
 -->
