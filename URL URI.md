@@ -243,5 +243,5 @@ EJ: dado el contexto `C:/carpeta/carpeta2` se puede considerar la **relative URI
 
 Cuando se pasa de una URI a otra cuya **unica diferencia es el fragment** deberia ser interpretada como una **accion de navegacion dentro del recurso que ya fue obtenido, y no deberia comenzar una nueva accion de obtencion del recurso** (Ej deberia hacerte scrollear dentro de la pagina web, no deberia volver a bajarla y despues hacerte scrollear.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODM1NjkwOF19
+eyJoaXN0b3J5IjpbMTkyNzc0OTExNiwtNzc4MzU2OTA4XX0=
 -->
