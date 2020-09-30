@@ -1,5 +1,6 @@
 
 
+
  - [ ] [science of engineering materials](https://courses.edx.org/courses/course-v1:MISISx+MSE1x+3T2016/course/)
 
 - [ ] [Course in materials science and engineering](https://www.youtube.com/watch?v=SJt4oHTGi9Y&index=4&list=PLNyFAB_Relapn1pgXLAIKk0vgtUMRdBUA)
@@ -163,7 +164,7 @@ Los alotropos del hierro pueden absorver una cantidad limitada de carbono.
 
 ### Cementite / Cementita
 
-La cementita ($$Fe_3C$$) es un compuesto hierro-carbono, su peso molecular es**93.3% hierro** y **6.67% carbono**. se lo considera una ceramica. Es un material **duro** y **fragil**
+La cementita ($Fe_3C$) es un compuesto hierro-carbono, su peso molecular es**93.3% hierro** y **6.67% carbono**. se lo considera una ceramica. Es un material **duro** y **fragil**
 
  
 
@@ -193,7 +194,7 @@ La **Martensita** es **ferrita sobresaturada de carbono**, es decir, tiene mas c
 
 Ocurre cuando el **hierro se enfria rapidamente**, transicionando de **Austenita** a **Ferrita** en muy poco tiempo.
 
-$$\large \boxed{ \text{Austenita } \xrightarrow{\text{enfriamiento rapido}} \text{Ferrita}}$$
+$\large \boxed{ \text{Austenita } \xrightarrow{\text{enfriamiento rapido}} \text{Ferrita}}$
 
 Cuando se transiciona RAPIDAMENTE de Austentita a Ferrita, **el carbono**, que esta **alojado en la Austentita** (disolucion maxima 2.04%) **no tiene tiempo de salir de la estructura cristalina y formar cementita durante la transformacion**, por lo que **queda atrapado artificialmente** en la estructura cristalina de **la Ferrita**, que normalmente solo disuelve el 0.021%.**La estructura cristalina queda deformada y tensionada.**
 
@@ -341,5 +342,5 @@ De esta manera se obtiene una pieza con una superficie dura pero un interior duc
 * Someter el acero a un medio con carbono (solido, gaseoso, etc) para que se carburice superficialmente
 * Templar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzk2NDc3OF19
+eyJoaXN0b3J5IjpbLTczMTgxNzYzMiwxMTEzOTY0Nzc4XX0=
 -->
