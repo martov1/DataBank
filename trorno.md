@@ -424,9 +424,12 @@ Tener en cuenta
 	* Podes apoyar el carro porta herramientas contra la pieza o contra un cuadrado de maquinista![](https://i.imgur.com/TyTyy7K.png)
 * Usar **MUCHO Cuttring fluid**
 * Colocar un carton abajo para que cuando la pieza caiga no golpee los rieles de precision del torno 
+* Sacar la puntita que queda, podrias hacer
+	* Un **facing operation**
+	* usar **una lija**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk5MTk4MjcsLTIwNjQ4OTM1MTYsLT
-E3MjcyMjMxODgsOTY3ODg1ODQyLC0xODYxMTA1ODI5LDE0Mzk3
-NDY1MzEsLTc4NTY2MDczMywxODY2MjYwMzI4LC0xNjExMTYyMz
-E2LDEwNjQ1MTIyNCw4OTY4MzIzOTBdfQ==
+eyJoaXN0b3J5IjpbLTIzMDA0MzgzOCwtMTI2OTkxOTgyNywtMj
+A2NDg5MzUxNiwtMTcyNzIyMzE4OCw5Njc4ODU4NDIsLTE4NjEx
+MDU4MjksMTQzOTc0NjUzMSwtNzg1NjYwNzMzLDE4NjYyNjAzMj
+gsLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5NjgzMjM5MF19
 -->
