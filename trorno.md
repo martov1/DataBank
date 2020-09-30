@@ -29,6 +29,11 @@ Son herramientas para dividir la pieza en pedazos,
 * Pueden ser de acero rapido o de inserto de carbide
 
 ![](https://i.imgur.com/sxnfOPP.png)
+Hay de varios tipos
+* Herramienta de torno norma con forma
+	* Podes usar un holder
+* Blade
+	* Necesita un holder separado
 
 #### Debarbing tool - WIP
 
@@ -402,7 +407,7 @@ Es
 Se hace con un **parting tool**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3ODg1ODQyLC0xODYxMTA1ODI5LDE0Mz
-k3NDY1MzEsLTc4NTY2MDczMywxODY2MjYwMzI4LC0xNjExMTYy
-MzE2LDEwNjQ1MTIyNCw4OTY4MzIzOTBdfQ==
+eyJoaXN0b3J5IjpbMjcyNjI4OTA0LDk2Nzg4NTg0MiwtMTg2MT
+EwNTgyOSwxNDM5NzQ2NTMxLC03ODU2NjA3MzMsMTg2NjI2MDMy
+OCwtMTYxMTE2MjMxNiwxMDY0NTEyMjQsODk2ODMyMzkwXX0=
 -->
