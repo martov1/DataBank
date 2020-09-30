@@ -27,7 +27,7 @@
 	* oxígeno básico o L-D  
 		 * .$\text{Hierro arrabio} + Oxigeno + Chatarra \Rightarrow Acero$
 	* Horno de arco electrico 
-		 * $\text{Hierro esponja y/o Chatarra} + coke \Rightarrow Acero  $
+		 * $\text{Hierro esponja y/o Chatarra} + coke \Rightarrow Acero$
 	
 	
 	
@@ -257,5 +257,5 @@ El horno electrico tiene la capacidad de convertir **arrabio** y **scrap steel**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTAxOTQ2NDRdfQ==
+eyJoaXN0b3J5IjpbMTIwNTg3Mzk2NCwtMjA5MDE5NDY0NF19
 -->
