@@ -413,10 +413,12 @@ Tener en cuenta
 	* Usar el menor largo posible de herramienta ![](https://i.imgur.com/2tGwmCO.png)
 	* **Altura** del filo alineada perfectamente con el eje del torno, **NUNCA  jamas debe estar debajo del centro**
 	* ![](https://i.imgur.com/ADQPa6P.png)
-	* 
-	* 
+* **Perpendicularidad perfecta** a lapieza 
+	* Podes apoyar el carro porta herramientas contra la pieza o contra un cuadrado de maquinista
+	* ![](https://i.imgur.com/TyTyy7K.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjU5NTI0Nyw5Njc4ODU4NDIsLTE4Nj
-ExMDU4MjksMTQzOTc0NjUzMSwtNzg1NjYwNzMzLDE4NjYyNjAz
-MjgsLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5NjgzMjM5MF19
+eyJoaXN0b3J5IjpbLTE5MzY0NzY0MTAsOTY3ODg1ODQyLC0xOD
+YxMTA1ODI5LDE0Mzk3NDY1MzEsLTc4NTY2MDczMywxODY2MjYw
+MzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIzOTBdfQ
+==
 -->
