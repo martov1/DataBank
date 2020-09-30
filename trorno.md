@@ -411,11 +411,12 @@ Tener en cuenta
 * Los **speeds and feeds** tienen que estar bien
 * La **rigidez** tiene que ser excelente!
 	* Usar el menor largo posible de herramienta ![](https://i.imgur.com/2tGwmCO.png)
-	* **Altura** del filo alineada perfectamente con el eje del torno
+	* **Altura** del filo alineada perfectamente con el eje del torno, **NUNCA  jamas debe estar debajo del centro**
 	* ![](https://i.imgur.com/ADQPa6P.png)
 	* 
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzMzOTcwMiw5Njc4ODU4NDIsLTE4Nj
+eyJoaXN0b3J5IjpbLTYyNjU5NTI0Nyw5Njc4ODU4NDIsLTE4Nj
 ExMDU4MjksMTQzOTc0NjUzMSwtNzg1NjYwNzMzLDE4NjYyNjAz
 MjgsLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5NjgzMjM5MF19
 -->
