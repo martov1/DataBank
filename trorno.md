@@ -382,9 +382,14 @@ Es
 * **USAR** proteccion facial
 * **SABER** usar la parada de emergencia
 
+>Usamos el torno para dividir la pieza **en vez de una sierra** por que
+>* Es preciso
+>* Es rapido
+>* Es comodo
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI4NDA4OTYsMTQzOTc0NjUzMSwtNz
+eyJoaXN0b3J5IjpbLTIxMjkxMzcyNzQsMTQzOTc0NjUzMSwtNz
 g1NjYwNzMzLDE4NjYyNjAzMjgsLTE2MTExNjIzMTYsMTA2NDUx
 MjI0LDg5NjgzMjM5MF19
 -->
