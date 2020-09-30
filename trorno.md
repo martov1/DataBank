@@ -410,6 +410,7 @@ Es
 Tener en cuenta
 * La herramienta tiene que estar bien **afilada**
 * Los **speeds and feeds** tienen que estar bien
+	* Usar velocidades lentas
 * La **rigidez** tiene que ser excelente!
 	* Bloquear el carro porta herramientas
 	* Estar lo mas cerca posible del plato
@@ -421,8 +422,8 @@ Tener en cuenta
 	* Podes apoyar el carro porta herramientas contra la pieza o contra un cuadrado de maquinista![](https://i.imgur.com/TyTyy7K.png)
 * Usar **MUCHO Cuttring fluid**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjcyMjMxODgsOTY3ODg1ODQyLC0xOD
-YxMTA1ODI5LDE0Mzk3NDY1MzEsLTc4NTY2MDczMywxODY2MjYw
-MzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIzOTBdfQ
-==
+eyJoaXN0b3J5IjpbLTEyOTkwODI4OTcsLTE3MjcyMjMxODgsOT
+Y3ODg1ODQyLC0xODYxMTA1ODI5LDE0Mzk3NDY1MzEsLTc4NTY2
+MDczMywxODY2MjYwMzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNC
+w4OTY4MzIzOTBdfQ==
 -->
