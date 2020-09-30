@@ -352,13 +352,15 @@ Deburring es **remover la rebaba filosa que queda como resultado del proceso de 
 
 Se puede hacer
 * Con una **lima**
-	* 
+	* Limamos solo en la direccion de los dientes de la lima
+	* nunca acercamos la punta de la lima al chuc
 * Tapered cutter, para deburrear agujeros
 	* ![](https://i.imgur.com/eFkxaTa.png)
 * Deburring tool
 	* ![](https://i.imgur.com/YfPhMcE.png)
 * Papel de lija
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTY2MDczMywxODY2MjYwMzI4LC0xNj
-ExMTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIzOTBdfQ==
+eyJoaXN0b3J5IjpbMTg4NDQ4Nzg5NSwtNzg1NjYwNzMzLDE4Nj
+YyNjAzMjgsLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5NjgzMjM5
+MF19
 -->
