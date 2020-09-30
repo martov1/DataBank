@@ -381,6 +381,9 @@ Es
 
 * **USAR** proteccion facial
 * **SABER** usar la parada de emergencia
+* **Es demandante con la herramienta y la maquina**
+	* La herramienta tiene que estar bien afilada
+	* Los speeds and feeds tienen que estar bien
 
 >Usamos el torno para dividir la pieza **en vez de una sierra** por que
 >* Es preciso
@@ -389,7 +392,7 @@ Es
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkxMzcyNzQsMTQzOTc0NjUzMSwtNz
+eyJoaXN0b3J5IjpbLTE4NjExMDU4MjksMTQzOTc0NjUzMSwtNz
 g1NjYwNzMzLDE4NjYyNjAzMjgsLTE2MTExNjIzMTYsMTA2NDUx
 MjI0LDg5NjgzMjM5MF19
 -->
