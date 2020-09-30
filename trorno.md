@@ -429,10 +429,17 @@ Tener en cuenta
 * Sacar la puntita que queda, podrias hacer
 	* Un **facing operation**
 	* usar **una lija**
+
+
+
+
+## Tapping -WIP
+
+[fuente](https://www.youtube.com/watch?v=WRuJ3k0V-fA&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=17)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1MjM5NjY0LDE0MDEyMDEzNzQsLTIzMD
-A0MzgzOCwtMTI2OTkxOTgyNywtMjA2NDg5MzUxNiwtMTcyNzIy
-MzE4OCw5Njc4ODU4NDIsLTE4NjExMDU4MjksMTQzOTc0NjUzMS
-wtNzg1NjYwNzMzLDE4NjYyNjAzMjgsLTE2MTExNjIzMTYsMTA2
-NDUxMjI0LDg5NjgzMjM5MF19
+eyJoaXN0b3J5IjpbMTA1MjI3MDc4Nyw2NTUyMzk2NjQsMTQwMT
+IwMTM3NCwtMjMwMDQzODM4LC0xMjY5OTE5ODI3LC0yMDY0ODkz
+NTE2LC0xNzI3MjIzMTg4LDk2Nzg4NTg0MiwtMTg2MTEwNTgyOS
+wxNDM5NzQ2NTMxLC03ODU2NjA3MzMsMTg2NjI2MDMyOCwtMTYx
+MTE2MjMxNiwxMDY0NTEyMjQsODk2ODMyMzkwXX0=
 -->
