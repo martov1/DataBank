@@ -368,8 +368,11 @@ Se puede hacer
 Muchos elementos de medicion pueden agarrar el burr y darte una medicion inflada. Hay que tener cuidado
 
 ![](https://i.imgur.com/JuFR5aC.png)
+
+
+Ademas si estas trabajando en una fresa, el burr puede modificart
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5OTg3MjQ0LC03ODU2NjA3MzMsMTg2Nj
-I2MDMyOCwtMTYxMTE2MjMxNiwxMDY0NTEyMjQsODk2ODMyMzkw
-XX0=
+eyJoaXN0b3J5IjpbLTE4NDc1MjY1NTYsLTc4NTY2MDczMywxOD
+Y2MjYwMzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIz
+OTBdfQ==
 -->
