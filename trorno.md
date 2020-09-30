@@ -438,10 +438,16 @@ Tener en cuenta
 ## Tapping -WIP
 
 [fuente](https://www.youtube.com/watch?v=WRuJ3k0V-fA&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=17)
+
+### Taps
+
+### Dies
+
+### Single point threading
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNzExNDczLDY1NTIzOTY2NCwxNDAxMj
-AxMzc0LC0yMzAwNDM4MzgsLTEyNjk5MTk4MjcsLTIwNjQ4OTM1
-MTYsLTE3MjcyMjMxODgsOTY3ODg1ODQyLC0xODYxMTA1ODI5LD
-E0Mzk3NDY1MzEsLTc4NTY2MDczMywxODY2MjYwMzI4LC0xNjEx
-MTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIzOTBdfQ==
+eyJoaXN0b3J5IjpbLTEzMDkwMjEwOTMsNjU1MjM5NjY0LDE0MD
+EyMDEzNzQsLTIzMDA0MzgzOCwtMTI2OTkxOTgyNywtMjA2NDg5
+MzUxNiwtMTcyNzIyMzE4OCw5Njc4ODU4NDIsLTE4NjExMDU4Mj
+ksMTQzOTc0NjUzMSwtNzg1NjYwNzMzLDE4NjYyNjAzMjgsLTE2
+MTExNjIzMTYsMTA2NDUxMjI0LDg5NjgzMjM5MF19
 -->
