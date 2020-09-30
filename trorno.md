@@ -423,9 +423,10 @@ Tener en cuenta
 * **Perpendicularidad perfecta** a lapieza 
 	* Podes apoyar el carro porta herramientas contra la pieza o contra un cuadrado de maquinista![](https://i.imgur.com/TyTyy7K.png)
 * Usar **MUCHO Cuttring fluid**
+* Colocar un carton abajCuando la pieza caiga, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ4OTM1MTYsLTE3MjcyMjMxODgsOT
-Y3ODg1ODQyLC0xODYxMTA1ODI5LDE0Mzk3NDY1MzEsLTc4NTY2
-MDczMywxODY2MjYwMzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNC
-w4OTY4MzIzOTBdfQ==
+eyJoaXN0b3J5IjpbMTI0MjgyNzg1NiwtMjA2NDg5MzUxNiwtMT
+cyNzIyMzE4OCw5Njc4ODU4NDIsLTE4NjExMDU4MjksMTQzOTc0
+NjUzMSwtNzg1NjYwNzMzLDE4NjYyNjAzMjgsLTE2MTExNjIzMT
+YsMTA2NDUxMjI0LDg5NjgzMjM5MF19
 -->
