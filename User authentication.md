@@ -260,6 +260,6 @@ Consisten en cookies ó tokens que contienen la informacion de la sesion (por ej
 * La **perdida de la clave privada** es grave y compromete todos los tokens.
 * La revocacion de tokens es dificil
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg0NjAzODEsLTE0MDg2MjA4OTddfQ
-==
+eyJoaXN0b3J5IjpbMTYyNTA5NDcyOSwtMTIwODQ2MDM4MSwtMT
+QwODYyMDg5N119
 -->
