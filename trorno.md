@@ -84,6 +84,8 @@ Tienen las mismas caracteristicas en cuanto al material que las herramientas de 
 	* forgiving
 
 
+## Angulos - WIP
+
 # Consideraciones-WIP
 
 ### Tool holder -WIP
@@ -428,9 +430,9 @@ Tener en cuenta
 	* Un **facing operation**
 	* usar **una lija**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjkxMzMyODYsLTIzMDA0MzgzOCwtMT
-I2OTkxOTgyNywtMjA2NDg5MzUxNiwtMTcyNzIyMzE4OCw5Njc4
-ODU4NDIsLTE4NjExMDU4MjksMTQzOTc0NjUzMSwtNzg1NjYwNz
-MzLDE4NjYyNjAzMjgsLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5
-NjgzMjM5MF19
+eyJoaXN0b3J5IjpbMTQwMTIwMTM3NCwtMjMwMDQzODM4LC0xMj
+Y5OTE5ODI3LC0yMDY0ODkzNTE2LC0xNzI3MjIzMTg4LDk2Nzg4
+NTg0MiwtMTg2MTEwNTgyOSwxNDM5NzQ2NTMxLC03ODU2NjA3Mz
+MsMTg2NjI2MDMyOCwtMTYxMTE2MjMxNiwxMDY0NTEyMjQsODk2
+ODMyMzkwXX0=
 -->
