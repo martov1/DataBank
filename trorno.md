@@ -400,6 +400,7 @@ Es
 * **USAR** proteccion facial
 * **SABER** usar la parada de emergencia
 * **Es demandante con la herramienta y la maquina**
+* **No acercar la cara**
 
 
 >Usamos el torno para dividir la pieza **en vez de una sierra** por que
@@ -409,6 +410,7 @@ Es
 
 Tener en cuenta
 * La herramienta tiene que estar bien **afilada**
+* Remover chips frecuentemente
 * Los **speeds and feeds** tienen que estar bien
 	* Usar velocidades lentas
 * La **rigidez** tiene que ser excelente!
@@ -422,7 +424,7 @@ Tener en cuenta
 	* Podes apoyar el carro porta herramientas contra la pieza o contra un cuadrado de maquinista![](https://i.imgur.com/TyTyy7K.png)
 * Usar **MUCHO Cuttring fluid**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTkwODI4OTcsLTE3MjcyMjMxODgsOT
+eyJoaXN0b3J5IjpbLTIwNjQ4OTM1MTYsLTE3MjcyMjMxODgsOT
 Y3ODg1ODQyLC0xODYxMTA1ODI5LDE0Mzk3NDY1MzEsLTc4NTY2
 MDczMywxODY2MjYwMzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNC
 w4OTY4MzIzOTBdfQ==
