@@ -139,7 +139,7 @@ La siguiente clasificacion es bastante general y no es siempre correcta.
 
 Se trata de un conjunto de **propiedades fisicas** de los materiales que indican como reacciona el material al ser sometido a diferentes **fuerzas mecanicas** tales como:
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/eR0q3S4.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/eR0q3S4.png)
 
 
 ## Stress y Strain
@@ -157,7 +157,7 @@ $\LARGE\boxed{\sigma= \frac{Fuerza}{Area}= \frac{F}{A}}$
 **Notese que:** Si aplicas una misma fuerza sobre un area menor (ej martillar un clavo) el stress sobre el material es mucho mayor que al aplicar la misma fuerza sobre un area mayor (golpear la madra con el martillo directamente)
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/BjCLp2Z.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/BjCLp2Z.png)
 
 ### Strain
 
@@ -169,7 +169,7 @@ Describe el ratio de **deformacion del material sobre el largo original** al ser
 $\LARGE\boxed{\varepsilon = \frac{\Delta \quad largo}{largo \quad orignal} = \frac{\Delta L}{L_0}}$
 **EJ:**  Como resultado de $F$, el material se elongó  10CM y media originalmente 50CM entonces el strain es de $\frac{10}{50}= \frac{1}{5}$. es decir que el material se elonga un quinto de su largo original como respuesta a alguna fuerza.
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/3ZJpCUA.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/3ZJpCUA.png)
 
 
 ## Resistencia a la tension
@@ -186,7 +186,7 @@ La capacidad de un material de **recurperar su forma inicial** luego de desapare
 
 >En un grafico de **stress/strain** podemos identificar el periodo elastico como el primero que aparece, ademas podemos identificarlo por **ser una linea recta** o casi una linea recta debido a que siguen la **ley de hooke**. El punto en el que el material deja de comportarse elasticamente se denomina **yield point**
 >
-![](https://github.com/martov1/DataBank/blob/master/imagenes/B9Uue81.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/B9Uue81.png)
 
 
 Los materiales elasticos generan una fuerza intentando volver a su forma original, para ello cumplen la **ley de hooke**.
@@ -238,7 +238,7 @@ Es la capacidad de un material de **deformarse de forma permanente e irreversibl
 
 En general la **plasticidad sucede despues de un periodo de elasticidad**.
 
->Es importante notar que cuando se deja de realizar un stress sobre un material, la deformacion plastica queda, pero la deformacion elastica vuelve a su lugar, es decir, **al remover la fuerza deformadora el material deshace la parte de su deformacion total que corresponde al periodo elastico**![](https://github.com/martov1/DataBank/blob/master/imagenes/qLT7W6d.jpg)
+>Es importante notar que cuando se deja de realizar un stress sobre un material, la deformacion plastica queda, pero la deformacion elastica vuelve a su lugar, es decir, **al remover la fuerza deformadora el material deshace la parte de su deformacion total que corresponde al periodo elastico**![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/qLT7W6d.jpg)
 
 
 
@@ -248,7 +248,7 @@ En general la **plasticidad sucede despues de un periodo de elasticidad**.
 
 >Mas propiamente definido, la tenacidad es **la cantidad de energia que puede ser absorbida por unidad de volumen antes de llegar a la ruptura, y es entonces la suma de rienmann del grafico de stress/strain**
 >
-![](https://github.com/martov1/DataBank/blob/master/imagenes/Opx3mrv.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/Opx3mrv.jpg)
 
 
 
@@ -261,7 +261,7 @@ En general la **plasticidad sucede despues de un periodo de elasticidad**.
 **Fragilidad:** Es la propiedad de los materiales a **fracturarse ante una minima o nula deformacion plastica**. Por ejemplo el **vidrio** o la **tiza**. Un material **fragil es lo opuesto a maleable y ductil**
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/QoAiQEr.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/QoAiQEr.jpg)
 Un material ductil se deforma mucho antes de llegar al punto de reputra, el material fragil casi no se deforma, podemos ver evidencia de esto al comparar las fraturas de ambos materiales.
 
 ### Dureza
@@ -279,7 +279,7 @@ Notese en el **grafico de stress/strain** que:
 * **La ruptura** llega despues de que el material comienza a hacerse mas fino como concecuencia de la plasticidad, esto se llama **Estriccion**
 * El **Modulo de young** es **la pendiente del periodo elastico**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/hkkE4pM.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/hkkE4pM.png)
 
 
 **Diferentes materiales tienen diferente comportamiento:**
@@ -289,11 +289,11 @@ Notese en el **grafico de stress/strain** que:
 * Un material **Ductil** suele ser bastante elastico y tiene bastante deformacion plastica
 * Un material **muy plastico** puede tener muy poca deformacion elastica y mucha deformacion plastica antes de romperse (muy tenaz, poco fragil, poco duro)
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/glyyww8.gif)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/glyyww8.gif)
 
 **Algunos ejemplos reales:**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/6ZwHLmm.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/6ZwHLmm.jpg)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyMDMwNzcwNjNdfQ==
 -->

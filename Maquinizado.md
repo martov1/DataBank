@@ -35,7 +35,7 @@ Para manipular una fresa es necesario:
 * No acercar las manos a la maquina mientras este girando o moviendose
 
 ## Comandos y partes de la fresa
-![IDENTIFYING MACHINE PARTS, CONTROLS, AND THEIR FUNCTIONS – Cad cam  Engineering WorldWide](https://github.com/martov1/DataBank/blob/master/imagenes/IDENTIFYING-MACHINE-PARTS-J-3.jpg)
+![IDENTIFYING MACHINE PARTS, CONTROLS, AND THEIR FUNCTIONS – Cad cam  Engineering WorldWide](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/IDENTIFYING-MACHINE-PARTS-J-3.jpg)
 
 
 Las operaciones que requieren rigidez se hacen con las cranks (knee vertical, traverse) y bloqueamos el quill feed hand lever para aumentar la rigidez 
@@ -59,7 +59,7 @@ Un problema de nivelacion en la mesa de trabajo se transfiere a la morsa que se 
 
 La cabeza de la fresa debe estar  perpendicular a la mesa, para ajustarlo la cabeza esta sobre dos ejes que permite rotarla en dos direcciones
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/6W1zosB.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/6W1zosB.png)
 
 
 
@@ -68,7 +68,7 @@ Para determinar si el ajuste fue exitoso usamos un instrumento de medicion de al
  Si no hay diferencia de altura entre un extremo de la mesa y el otro entonces estamos alineados. ($\text{diferencia}<0.025mm$) 
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/EEvo2aD.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/EEvo2aD.png)
 
 ###  Ajuste: alineacion de Morsa
 
@@ -78,14 +78,14 @@ Sacar la morsa, desarmarla, limpiarla y sacarle la grasa.
 
 Revisar base de la morsa y remover picos en la base de la morsa con una piedra, ya que introducen error. lo mismo con la mesa de trabajo.
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/iqMGuzn.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/iqMGuzn.png)
 
 Colocar **cuidadosamente** la morsa en la mesa
 
 Ajustar la morsa de tal manera que este paralela a la mesa, para eso usamos un instrumento de medicion en **la cabeza de la fresa** y medimos dos puntas de la fresa para verificar que dan el mismo valor, caso contrario ajustamos.
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/jvd9PYz.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/jvd9PYz.png)
 
 
 
@@ -98,7 +98,7 @@ Ajustar la morsa de tal manera que este paralela a la mesa, para eso usamos un i
 
 La herramienta **salvo en casos particulares** debe girar en la direccion de la espiral, siempre consultar el manual o las indicaciones del fabricante
 
-![Top 8 Milling Tools for New CNC Machinists - Fusion 360 Blog](https://github.com/martov1/DataBank/blob/master/imagenes/1-rotation-direction.png)
+![Top 8 Milling Tools for New CNC Machinists - Fusion 360 Blog](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/1-rotation-direction.png)
 
 ### Width of cut/ length of cut
 
@@ -150,7 +150,7 @@ https://www.youtube.com/watch?v=galm5_6SUcM
 
 **IPT  o chip load:** Inches per tooth, pulgadas de material a morder por un diente. es decir, el **tamaño de una viruta por cada diente**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/6lTNVRV.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/6lTNVRV.png)
 
 El chipload  determinara
 * El esfuerzo que tiene que hacer la maquina al cortar
@@ -199,7 +199,7 @@ Los manuales de los fabricantes de eetaican que **Chip load** y **cutting speed*
 
 Para eso cada fabrcante coloca una serie de materiales en diferetes categorias y te indica tin eehip load** para cada material dentro de cada categoria y subcategoria.
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/LxCBhPB.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/LxCBhPB.png)
 
 Buscamos la combinacion de 
 * Herramienta
@@ -219,7 +219,7 @@ T n para deillambien se pueiad
 ara lo
 * Si minaiene uden poer**amasespeciios*  a recomdacioa eeifis*  a mnains paraacess y aieros  palas 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/w.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/w.png)
 
 ### Calcular velocidad de giro y avance 
 
@@ -311,7 +311,7 @@ Para evitarlo
 * Sino soplalas con aire comprimido o apaga la maquina y usa un cepillo
 * **No tocarlas, son filosas y calientes**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/eMwbjQwwgWGvzL.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/eMwbjQwwgWGvzL.png)
 
 ### Chatter / Vibraciones
 
@@ -320,7 +320,7 @@ Para evitarlo
 **chatter** es cuando la maquina vibra generando **problemas en el acabado de la pieza** y un **ruido muy molesto**.
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/UOgZO76.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/UOgZO76.png)
 
 
 
@@ -365,7 +365,7 @@ Siempre saca todo el material posible con herramientas mas baratas y rapidas de 
 Es la operacion de hacer una cara **PLANA**, muchas veces arrancamos nuestro trabajo haciendo **face milling** en **todas las caras de nuestro material** para llevarlo a escuadra y a una dimension aproximadamente cercana a nuestra pieza inicial.
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/2Hf7Hjv.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/2Hf7Hjv.png)
 _Comparacion de un bloque de aluminio face milled y uno cortado con una sierra de mano_
 
 
@@ -389,7 +389,7 @@ Es la operacion de cortar a 90 grados de la herramienta
 Demanda mas fuerza de la maquina, por lo que dependiendo de la potencia tal vez tengas que cortar con menor **Cutting speed**
 Podes hacer **Side milling** solo con un **endmill**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/psvfKIa.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/psvfKIa.png)
 
 ### Plunging
 
@@ -416,7 +416,7 @@ Podes determinar en base a tu viruta si estas haciendo una operacion correctamen
 * Chips negras
 	* Alta temperatura, tal vez se templaron (puede o no ser normal, indicador de que necesitas cooling)
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/E4kPdxc.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/E4kPdxc.png)
 
 
 ## Accesorios - WIP
@@ -425,7 +425,7 @@ Podes determinar en base a tu viruta si estas haciendo una operacion correctamen
 
 Son dos piezas de metal perfectamente paralelas (hasta una precision muy elevada) y a 90 grados para elevar la pieza encima de la altura de la morsa manteniendola co un agarre de 90 grados.
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/tV8oSw7.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/tV8oSw7.png)
 
 # Endmill
 # Herramientas
@@ -452,10 +452,10 @@ A diferencia de los drill bits, que estan diseñados para **perforar hacia abajo
 
 
 EL largo **utilizable** de una herramienta de fresado va desde la  punta hasta el final del angulo de la flute
-![](https://github.com/martov1/DataBank/blob/master/imagenes/tRfjT1I.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/tRfjT1I.png)
 _Largo de corte utilizable de una herramienta_
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/rUPIbsE.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/rUPIbsE.png)
 _Usar  el menor largo de herramienta posible_
 
 **Ancho**
@@ -476,33 +476,33 @@ La forma de espiral de los flutes sirve para
 
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/p7k4cRx.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/p7k4cRx.png)
 _Division de fuerzas causado por la helicoidalidad_
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/kjPJQEa.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/kjPJQEa.png)
 _Distribucion de la fuerza a lo largo del tiempo para evitar golpeteo y chatter_
 
 Diferentes angulos de flutes, a **mayor cantidad de flutes** se interpreta que el **material a cortar sera mas duro** entonces el **angulo de la helicoidal es mas pronunciado** para **transferir mas fuerza hacia abajo en vez de hacia el costado** y **EVITAR QUE SE PARTA**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/jkDTF0P.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/jkDTF0P.png)
 _Diferentes angulos de helicoidales para mayor o menor distribucion de la carga hacia abajo_
 #### Helicoidales especiales
 
 Existen **flutes sin forma helicoidal** pero son muy poco comunes
 Son **MUCHO** mas propensos a generar chatter debido a que generan un golpeteo con una cierta frecuencia muy pareja que puede ser similar a la de todo el sistema
-![](https://github.com/martov1/DataBank/blob/master/imagenes/Zyz6pbo.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/Zyz6pbo.png)
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/51nRnCD.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/51nRnCD.png)
 _fuerza de corte a lo largo del tiempo para flutes rectos, notese que habra golpeteo_ 
 
 Hay endmills que se diseñan para materiales laminados, que **evitan deslaminar el material** haciando un **sanguchito de fuerzas** con **helicoidales opuestas**, entonces **parte del material empuja para arriba y parte empuja para abajo**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/CHoz0xk.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/CHoz0xk.png)
 
 Existen tambien **helicoidales invertidas**, es decir  helicoidales que **cortan clockwise** pero **van counterclockwise**
 Esto permite que **el flute empuje la pieza para abajo en vez de para arriba**, hay **materiales fragiles que lo requieren**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/sEorwi1.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/sEorwi1.png)
 
 
 ### **Cantidad de flutes**
@@ -544,8 +544,8 @@ La punta tiene un angulo llamado **rake angle**, este angulo puede estar
 * **perpendicular al material (0 o neutral)**
 * **Alejandose del material (negativo -)**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/YrqE8Gb.png)
-![](https://github.com/martov1/DataBank/blob/master/imagenes/lwgBwlh.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/YrqE8Gb.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/lwgBwlh.png)
 
 **Geometria del largo**
 De la misma manera, los filos del largo tambien tienen **rake angles** que pueden ser
@@ -555,7 +555,7 @@ De la misma manera, los filos del largo tambien tienen **rake angles** que puede
 * **perpendicular al material (0 o neutral)**
 * **Alejandose del material (negativo -)**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/4cZFjcR.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/4cZFjcR.png)
 
 
 **ENTONCES:**
@@ -577,13 +577,13 @@ De la misma manera, los filos del largo tambien tienen **rake angles** que puede
 
 Son endmills que tienen la capacidad de cortar hacia abajo en el eje $Z$ sin moverse en $XY$, Tienen **un filo unferior** en **ROJO** y huecos para **evacuar la viruta** en **AZUL**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/uE5AY1C.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/uE5AY1C.png)
 
 
 **Non-center cutting**
 
 Son endmills que cortan por cortadores radiaales pero en el centro no cortan.
-![](https://github.com/martov1/DataBank/blob/master/imagenes/3f5frqP.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/3f5frqP.png)
 Eso implica que **no podemos taladrar con ellos**, sino que tenemos que hacer agujeros de manera helicoidal. y una velocidad de avance en el eje $Z$ baja comparada con $XY$
 
 
@@ -593,12 +593,12 @@ Eso implica que **no podemos taladrar con ellos**, sino que tenemos que hacer ag
 
 Son endmills diseñados para **Cortes de gran profundidad**, tienen un patron de **zig-zag** sobre los flutes que sirve para **romper la virtua** de manera mas efectiva, ya que  los **cortes profundos generan virtuas largas dificiles de extraer**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/neV67EE.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/neV67EE.png)
 
 ### Square endmill
 
  Este tipo de endmill tiene bordes a 90 grados, eso hace que los bordes del corte queden muy **rectos**. tiene la desventaja de que **esto hace que ese borde sea fino y entonces fragil, por lo que tiende a romperse**
-![](https://github.com/martov1/DataBank/blob/master/imagenes/sSiy9E6.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/sSiy9E6.png)
 
 ### radius endmills
 
@@ -610,7 +610,7 @@ En un endmill normal, las puntas son filosas y finas, esto las hace mas propensa
 * Los bordes del fondo del agujero seran redondeados en lugar de rectos
 * Preferido para **rougthing** por que al ser mas fuerte durara mas
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/gg4JH6I.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/gg4JH6I.png)
 
 ### ball nose  endmill
 
@@ -623,10 +623,10 @@ EJ:
 * Radios internos/externos
 * formas curvas que no estan en el eje $XY$
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/fR1et6S.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/fR1et6S.png)
 
 Es un **center-cutting endmill**, se puede apreciar como dos de los flutes forman el filo
-![](https://github.com/martov1/DataBank/blob/master/imagenes/ooJrekl.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/ooJrekl.png)
 
 
 
@@ -741,7 +741,7 @@ Un face mill sirve para cortar superficies de manera plana. Todas las considerac
 
 Los face mills funcionan con herramientas llamadas insertos, que se cambian y son los que hacen el corte.
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/OFbrATO.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/OFbrATO.png)
 
 ## Geometria
 
@@ -752,11 +752,11 @@ El diametro efectivo de un endmill va desde una punto de un filo hasta la punta 
 
 Siempre **hay que elegir un diametro  1.5 (o mas ) veces mas grande que  el corte que se va a hacer**, eso permite que se forme una viruta de un tamaño razonable que pueda ser evacuada sin generar exceso de calor
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/hF9kwhz.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/hF9kwhz.png)
 _Diametro efectivo_
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/ownymYr.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/ownymYr.png)
 _Formacion de chips con un diametro de herramienta muy pequeño_
 
 
@@ -770,14 +770,14 @@ El angulo que forma el cortador con el eje $x$ de la herramienta, puede ser
 * **positivo** (Hacia el material)
 *  **neutro** (perpendicular al material)
 *  **negativo** (Hacia el lado contrario al material) como se muestra en la imagen
-![](https://github.com/martov1/DataBank/blob/master/imagenes/TSOCpEt.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/TSOCpEt.png)
 _Ejemplo de un radial rake angle negativo_
 * **Axial rake angle**
 El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser 
 * **positivo** (Hacia el material)
 *  **neutro** (perpendicular al material)
 *  **negativo** (Hacia el lado contrario al material) como se muestra en la imagen
-![](https://github.com/martov1/DataBank/blob/master/imagenes/f4JZAmK.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/f4JZAmK.png)
 
 
 .

@@ -169,9 +169,9 @@ El problema de las colisiones en las tablas de hellman es que una vez que se pro
 
 Las rainbow tables usan **una funcion $$R$$ distinta en cada eslabon de la cadena**, entonces si en dos cadenas diferentes tenes una colision (el mismo valor), salvo que la colision suceda en el mismo punto en ambas cadenas (el mismo eslabon, y por ende la misma funcion $$R$$), seran procesados por funcones $$R$$ distintas que evitaran que los valores de las dos cadenas se repitan
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/t2pp4CG.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/t2pp4CG.png)
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/vKyjrUT.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/vKyjrUT.jpg)
 **Habra de igual manera colisiones y repeticiones, pero ahora una colision no implica (generalmente) que el resto de la cadena tambien esta repetido en otra cadena.**
 
 

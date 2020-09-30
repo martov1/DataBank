@@ -469,7 +469,7 @@ Los JOINS no añaden poder expresivo, se pueden llegar a los mismos resultados c
 > $\theta$ es una condicion. EJ: `Almuno LIKE 'jorge%'`
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/SQL_JOINS.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/SQL_JOINS.png)
 
 
 
@@ -483,7 +483,7 @@ $R_1 \bowtie_\theta R_2$
 $R_1 \quad \text{INNER  JOIN} \quad R_2 \quad \text{ON} \quad \theta $
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/inner_join.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/inner_join.png)
 
 
 **EJEMPLO:**
@@ -525,7 +525,7 @@ SELECT alumno, promedio FROM alumnos INNER JOIN notas USING dni
 NATURAL JOIN **toma las columnas (atributos) con el mismo nombre y las usa como condicion para el JOIN** de la misma manera que lo hace el natural join de algebra lineal.
 Ademas, al igual que en algebra lineal, **Elimina los duplicados**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/inner_join.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/inner_join.png)
 
 
 ```
@@ -535,14 +535,14 @@ SELECT alumno, beca FROM alumnos, notas WHERE alumno.DNI=becados.DNI
 SELECT alumno, promedio FROM alumnos NATURAL JOIN becados
 ```
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/natural_join.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/natural_join.jpg)
 
 ### INNER JOIN USING 
 
 Es muy similar al NATURAL JOIN y al THETA JOIN, **es mas un short-hand que otra cosa**.
 Lo usas cuando queres hacer un natural join pero con atributos puntuales.
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/inner_join.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/inner_join.png)
 
 
 ```
@@ -566,7 +566,7 @@ $R_1 \text{ left outer } R_2 \text{ ON } \theta = R_2 \text{ right outer } R_1 \
 
 No añade poder expresivo, se puede hacer con otros operadores de SQL.
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/left_y_right_outer_join_BlNBTGy.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/left_y_right_outer_join_BlNBTGy.png)
 
 **EJEMPLO:**
 
@@ -609,7 +609,7 @@ SELECT alumno, promedio FROM alumnos LEFT OUTER JOIN notas USING dni
 
 Es la suma de los resultados del LEFT OUTER JOIN y el RIGHT OUTER JOIN eliminando los duplicados.
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/full_outer_join.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/full_outer_join.png)
 
 **EJEMPLO:**
 * Equivalente **sin usar** el operador JOIN:

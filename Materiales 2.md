@@ -91,7 +91,7 @@ Un systema Eutectico es aquel donde debido a las proporciones de aliantes elegid
 **EJ: Hierro liquido a austentita + cementita**
 
 **Ejemplo:**
-![](https://github.com/martov1/DataBank/blob/master/imagenes/PhysicalMetallurgy1-2012R.Eqra.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/PhysicalMetallurgy1-2012R.Eqra.jpg)
 
 
 ### Eutectoid systems
@@ -129,7 +129,7 @@ Se da cuando el hierro esta **por debajo de  los 912º**
 * Propiedades paramagneticas
 * El **carbon** no se disuelve bien. (**menos de 0.021%**).
 * Por debajo de los 770º se vuelve **ferromagnetico** (punto curie)
-![](https://github.com/martov1/DataBank/blob/master/imagenes/bcc_small.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/bcc_small.jpg)
 
 
 
@@ -141,20 +141,20 @@ Se lo considera **nomenclatura obsoleta**, el el alpha iron entre 912º y 770º,
 Se da cuando el hierro esta **entre 1394º y 912º**
 * Estructura cristalina **face centered cubic (FCC)**
 * puede disolver una cantidad importante de **carbon** (**hasta 2.04%**), esta concentracion de carbon es la que se encuentra por ejemplo en el acero inoxidable.
-![](https://github.com/martov1/DataBank/blob/master/imagenes/fcc_small.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/fcc_small.jpg)
 
 
 ### Delta iron
 Se da **entre el punto de fusion (1538º) y 1394º**. 
 	* Estructura cristalina **body-centered cubic**
 	* puede disolver**hasta 0.09% de carbono**
-![](https://github.com/martov1/DataBank/blob/master/imagenes/bcc_small.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/bcc_small.jpg)
 
 
 ### Altropodos segun temperatura y presion
 Las temperaturas a las que se forman los 3 diferentes allotropos estan indicadas en Condiciones Normales de Presion. A diferentes presiones estas temperaturas varian segun el siguiente grafico.
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/800px-Pure_iron_phase_diagram_EN.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/800px-Pure_iron_phase_diagram_EN.jpg)
 
 ## Fases de las aleaciones hierro carbono
 
@@ -202,12 +202,12 @@ Cuando se transiciona RAPIDAMENTE de Austentita a Ferrita, **el carbono**, que e
 **Entonces se forma la Ferrita sobresaturada de carbono, que llamamos Martensita:**
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/maxresdefault.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/maxresdefault.jpg)
 
 Como resultado, la Martensita es un material **altamente tensionado** lo cual lo hace **extremadamente DURO y FRAGIL**
 
 Se puede ver la tension y el estiramiento causado por el carbono extra en el material con un microscopio.
-![](https://github.com/martov1/DataBank/blob/master/imagenes/faqjmn004f4.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/faqjmn004f4.jpg)
 
 
 
@@ -228,7 +228,7 @@ Esta formacion es muy comun en muchos hierros y aceros.
 La pearlite se forma debido a una **reaccion eutectoica / eutectoid** durante el **lento enfriamiento** de una solucion solida hierro-carbono, durante el cual el **carbono es expulsado de la austentita ya que esta se esta transformando en ferrita**, que disuelve menos carbono. 
 
 **Parte del excedente de carbono forma cementita y esta separacion eutoctoica forma laminas.**
-![](https://github.com/martov1/DataBank/blob/master/imagenes/pearlite_small.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/pearlite_small.jpg)
 
 
 ## Ledeburite
@@ -249,22 +249,22 @@ Las dos caracteristicas que determinan las estructuras que se forman en el hierr
 
 Sabemos que  **cuanto mas carbono se añade, menos ferrita y mas cementita se genera**, hasta llegar al **100% de cementita en 6.67% de carbono**.
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/ferrita_y_cementita_Xw92rk8.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/ferrita_y_cementita_Xw92rk8.jpg)
 
 ### En equilibrio (enfriamiento normal)
 **La formacion de las estructuras hierro carbono se da durante el enfriamiento** de la aleacion.
 Podemos ver el comportamiento de diferentes aleaciones hierro-carbono y como se dividen en fases distintas en su phase diagram, dnde se ven claramento los puntos **eutecticos, eutectoicos y peritecticos**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/points.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/points.jpg)
 
 
 * **Punto eutectoico (0.8% carbono):** donde la **Austentita solida** se divide mediante reaccion eutectoica en dos fases de **ferrita y cementita al mismo tiempo, formando Pearlite**
-![](https://github.com/martov1/DataBank/blob/master/imagenes/pearlite_small_tH1swqP.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/pearlite_small_tH1swqP.jpg)
 	* **Area Pre-eutectoica (<0.8% carbono):** Durante la transicion **coexiten austentita y ferrita**, como la separacion no es al mismo tiempo, se forman**vetas o granos de ferrita pura** hasta que se alcanza el 0.8% de carbono, de ahi en mas se forma **pearlite**
 	En una metalografia comun muchas veces no se puede distinguir el pearlite por el contrastre, y se ve como machas negras, en un microscopio electronico se se ve.
-	![](https://github.com/martov1/DataBank/blob/master/imagenes/steel_pre-eutectoic.jpg) ![](https://github.com/martov1/DataBank/blob/master/imagenes/steel_pre-eutectoic_larger.jpg)
+	![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/steel_pre-eutectoic.jpg) ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/steel_pre-eutectoic_larger.jpg)
 	* **Area post-eutectoica(0.8%< carbono <2% ):**Durante la transicion **coexisten austentita y cementita**, como **la separacion no es al mismo tiempo, se froman vetas o granos de cementita pura hasta que la cantidad de carbono baja a 0.8%**, desde ese momento se genera **Pearlite**. Debido a a tecnica usada, en la metalografia la cementita se ve blanca.
-	![](https://github.com/martov1/DataBank/blob/master/imagenes/post-eutoic_steel.jpg) 
+	![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/post-eutoic_steel.jpg) 
 * **Punto eutectico:** Donde la solucion de hierro y carbono liquidos se solidifica y se transforma en **cementita y ledeuburite**
 
 
@@ -277,7 +277,7 @@ Si luego se**calienta de forma controlada** el material a una **temperatura inte
 
 Controlando la cantidad de tiempo de templado podemos controlar la proporcion de martensita y ferrita-cementita, generando un material menos duro y fragil a nuestro gusto.
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/martensita_templada.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/martensita_templada.jpg)
 
 
 # Materiales a base de hierro-carbono
@@ -293,7 +293,7 @@ Cabe destacar que cada uno de estos materiales, a tempeatura ambiente es una com
 * **3.8% - 4.7%** : Hierro arrabio (pig iron)
 * **=6.7%**: cementita (cementite)
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/aceros_y_hierros.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/aceros_y_hierros.jpg)
 
 
 

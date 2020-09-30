@@ -108,7 +108,7 @@ Toda conexion comienza con una solicitud del cliente que contiene:
 * Payload body
 
 Ejemplo: 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/2016-02-09_05-59-06.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/2016-02-09_05-59-06.png)
 El server responde con lo mismo, pero ademas añade un **success o error code** en el header
 
 Client request:

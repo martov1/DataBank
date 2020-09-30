@@ -173,7 +173,7 @@ A continuacion se detallan las 3 partes de forma mas detallada
 
  
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/fotomila_qoiTSZ8.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/fotomila_qoiTSZ8.png)
 
 ### Necesidad de la Pre-master key
 
@@ -202,7 +202,7 @@ Una vez que el handshake fue realizado, se establece una sesion usndo el session
 * **Encriptacion** - Se encripta el fragmento con **criptografia simetrica**
 * **SSL header** - Se añade un **SSL RECORD HEADER**
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/fotomila_qCa7bek.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/fotomila_qCa7bek.png)
 
 
 

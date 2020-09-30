@@ -172,7 +172,7 @@ en general **Las claves son strings largos aleatorios provenientes de un fuerte 
 Entonces para enviar la clave se usa otro metodo menos rapido llamado criptografia asimetrica.
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/wWhbYNz.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/wWhbYNz.png)
 
 
 
@@ -605,7 +605,7 @@ El algoritmo basicamente es asi:
 		* Cuanto mas **larga la clave**, mas claves se genera y mas veces se encripta el mensaje 
 		 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/PIu5hyb.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/PIu5hyb.png)
 
 ### Longitud de la clave
 
@@ -640,7 +640,7 @@ El algoritmo tiene:
 * **Muchas Rondas intermedias** - La cantidad de rondas depende del largo de la clave
 * **Una ronda final** - unica, al final del algoritmo
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/A9jcSvg.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/A9jcSvg.png)
 
 Pasos del algoritmo: 
 
@@ -748,7 +748,7 @@ El funcionamiento es muy simple.
 > * El $G$ debe ser un generador de un grupo $ Z_P^*$
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/SvtOXfx.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/SvtOXfx.png)
 
 
 ### Porque funciona
@@ -817,7 +817,7 @@ Es la estrategia mas **basica e insegura** que hay para encriptar usando block c
 
 Cada bloque se encripta con el algoritmo de encriptacion usando la clave privada.
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/kihwZae.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/kihwZae.jpg)
 
 
 ## CBC
@@ -865,7 +865,7 @@ El algoritmo funciona asi:
 	* Se encripta esa suma
 	$C_n= AES( B_N \oplus C_{n-1})$
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/2EIs3sA.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/2EIs3sA.jpg)
 
 * **Desencriptacion:**
 	* **Primer bloque** 
@@ -876,7 +876,7 @@ El algoritmo funciona asi:
 		* Se hace un XOR con el ciphertext no desencriptado del bloque anterior  
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/MyTPbeR.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/MyTPbeR.jpg)
 
 
 >**CONCLUSIONES:**
@@ -922,7 +922,7 @@ Aunque el $IV$ sea publico, la clave secreta con la que se lo encripta con el bl
 	* Se toma el $IV$ encriptado enteriormente y se lo **vuelve a encriptar**, cenerando un **nuevo ciphertext**, este a su vez se usa en un **stream cipher** para encriptar los siguientes $N$ bits y asi sucesivamente 
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/D4jKT13.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/D4jKT13.png)
 
 >**El proceso de desencriptacion** es dentico al de encriptacion, en virtud de que es un stream cipher, entonces una operacion XOR se revierte haciendo la misma operacion.
 
@@ -1196,7 +1196,7 @@ Un ataque ante el cual Diffie-Hellman no puede protegerte es el denominado **Man
 > De esa manera **evitas el man-in-the-middle**
 > Si usaras RSA directamente para encriptar, no tendrias [forward secrecy](https://crypto.stackexchange.com/questions/31291/why-use-diffie-hellman-key-exchange-over-rsa-or-any-public-key-encryption)
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/qToc8Eh.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/qToc8Eh.jpg)
 
 
 
@@ -1208,7 +1208,7 @@ Con cualquier **Asymetric key** un atacante puede interceptar la comunicacion y 
 **Para solucionar esto se usan certificados, que son claves publicas abaladas por un tercero**
 
 
-![](https://github.com/martov1/DataBank/blob/master/imagenes/mOLH81p.jpg)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/mOLH81p.jpg)
 
 
 # Fuentes
