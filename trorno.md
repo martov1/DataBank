@@ -346,6 +346,8 @@ Podes hacer la terminacion fina con lijas, arrancando con _400_ y cada vez mas, 
 
 ## Deburring
 
+### Operacion
+
 Deburring es **remover la rebaba filosa que queda como resultado del proceso de maquinado en los bordes de la pieza**, no
 
 ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/image.png)
@@ -360,8 +362,12 @@ Se puede hacer
 * Deburring tool
 	* ![](https://i.imgur.com/YfPhMcE.png)
 * Papel de lija
+
+### Importancia para la precision
+
+Muchos elementos de medicion pueden agarrar el burr y darte una medicion inflada. Hay que tener cuidado
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTk3MTQ4NiwtNzg1NjYwNzMzLDE4Nj
-YyNjAzMjgsLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5NjgzMjM5
-MF19
+eyJoaXN0b3J5IjpbLTE1NTA4NjcwMjEsLTc4NTY2MDczMywxOD
+Y2MjYwMzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIz
+OTBdfQ==
 -->
