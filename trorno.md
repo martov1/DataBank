@@ -366,8 +366,10 @@ Se puede hacer
 ### Importancia para la precision
 
 Muchos elementos de medicion pueden agarrar el burr y darte una medicion inflada. Hay que tener cuidado
+
+![](https://i.imgur.com/JuFR5aC.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTA4NjcwMjEsLTc4NTY2MDczMywxOD
-Y2MjYwMzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIz
-OTBdfQ==
+eyJoaXN0b3J5IjpbNDY5OTg3MjQ0LC03ODU2NjA3MzMsMTg2Nj
+I2MDMyOCwtMTYxMTE2MjMxNiwxMDY0NTEyMjQsODk2ODMyMzkw
+XX0=
 -->
