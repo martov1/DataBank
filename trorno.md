@@ -376,9 +376,12 @@ Ademas si estas trabajando en una fresa, el burr puede modificarte la posicion d
 
 ## Parting
 
+Es la operacion que consiste en **dividir la pieza en dos partes**, es una **OPERACION PELOGROSA** ya que **la herramienta tiende a partirse**
 
+* **USAR** proteccion facial
+* **SABER** usar la parada de emergencia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA3MTQ1NzYsMTQzOTc0NjUzMSwtNz
-g1NjYwNzMzLDE4NjYyNjAzMjgsLTE2MTExNjIzMTYsMTA2NDUx
-MjI0LDg5NjgzMjM5MF19
+eyJoaXN0b3J5IjpbMzU4MjYyMDA2LDE0Mzk3NDY1MzEsLTc4NT
+Y2MDczMywxODY2MjYwMzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIy
+NCw4OTY4MzIzOTBdfQ==
 -->
