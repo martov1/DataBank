@@ -457,7 +457,7 @@ Busca por la prmera columna de una tabla un varlor y devuelve unel valor de una 
 * **Match()** 
 	* En una columna, devuelve el numero de row donde este un valor. 
 	* En una row devuelve enl numero de columna donde esta el valor
- ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/5656556.jpg)
+ ![](https://raw.githubusercontent.com/martov1/DataBank/blob/master/imagenesi.markdownnotes.com/5656556.jpg)
 
 ### Combinacionde nidex y match
 
@@ -644,6 +644,6 @@ Si queres mostrar datos en la form, tenes que usar el evento **INITIALIZE**
 
 Los macros aparecen como **metodos** en Vba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzAwNjIwOSwxNTM0ODM4MjkxLC05Nj
-cxNTM4OTldfQ==
+eyJoaXN0b3J5IjpbMTY0MTgzNjUxNywyMDQ3MDA2MjA5LDE1Mz
+Q4MzgyOTEsLTk2NzE1Mzg5OV19
 -->
