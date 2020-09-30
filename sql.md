@@ -850,5 +850,5 @@ Son funciones de conveniencia que suelen estar embebidas en las implementaciones
 * **LIMIT num** - Limita la canitdad de resultados de una query
 `SELECT column_name(s) FROM table_name WHERE condition LIMIT number `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0OTMzNTEwXX0=
+eyJoaXN0b3J5IjpbMTMxOTc4NDIzOCw3NDQ5MzM1MTBdfQ==
 -->
