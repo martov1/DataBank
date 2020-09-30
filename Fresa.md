@@ -351,6 +351,7 @@ Para evitarlo
 
 ### Preparacion de la pieza
 
+#### Remocion del grueso
 Antes de arrancar a maquinar la pieza es importante **Sacar todo el material posible por otros medios mas baratos y rapidos**
 
 Una cortadora de banda o de disco puede 
@@ -359,6 +360,12 @@ Una cortadora de banda o de disco puede
 * Sin desgastar herramientas caras de fresa
 
 Siempre saca todo el material posible con herramientas mas baratas y rapidas de operar y **usa  la fresa para lo que sea indispensable**
+
+#### Deburring
+
+El burr puede modificarte el square de la pieza y las mediciones, hay que sacar la rebaba para evitarlo
+
+![](https://i.imgur.com/RKP8Tkj.png)
 
 ### Facemilling
 
@@ -795,7 +802,7 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4NTU5ODc3LC02NDAxMjAxOTIsLTEyND
+eyJoaXN0b3J5IjpbNjEyNjM1MDY5LC02NDAxMjAxOTIsLTEyND
 Y1MzA5ODIsLTE2MDg3MzQ3MzQsLTU5MzYzMjU5OCwtOTU4NDQz
 NjQ2LDEzMDU0NjE5NTQsLTkzNTk2MzMyLC0xNjU1NDU3MTUzLD
 EwNTQ5MTYyNjEsMTc5NTkwMTMxOCwxMjMyNzg1MjIwLC01NTk4
