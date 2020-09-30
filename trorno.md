@@ -411,9 +411,10 @@ Tener en cuenta
 * Los **speeds and feeds** tienen que estar bien
 * La **rigidez** tiene que ser excelente!
 	* Usar el menor largo posible de herramienta ![](https://i.imgur.com/2tGwmCO.png)
+	* Altura correcta
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjA5MTM3ODQsOTY3ODg1ODQyLC0xOD
+eyJoaXN0b3J5IjpbLTEzMzQ5ODA0OTYsOTY3ODg1ODQyLC0xOD
 YxMTA1ODI5LDE0Mzk3NDY1MzEsLTc4NTY2MDczMywxODY2MjYw
 MzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIzOTBdfQ
 ==
