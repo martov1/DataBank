@@ -343,6 +343,14 @@ Podes hacer la terminacion fina con lijas, arrancando con _400_ y cada vez mas, 
 * **Sostener la lija con mucha ligereza** si la atrapa el torno, que te las saque de las manos.
 
 ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/4WkqNMG.png)
+
+## Deburring
+
+Deburring es **remover la rebaba filosa que queda como resultado del proceso de maquinado en los bordes de la pieza**
+
+Se puede hacer
+* Con una **lima**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDUxMjI0LDg5NjgzMjM5MF19
+eyJoaXN0b3J5IjpbLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5Nj
+gzMjM5MF19
 -->
