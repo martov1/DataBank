@@ -1,6 +1,7 @@
 
 
 
+
 **CNIT 129S 2016**
 
 - [x] CNIT 129S: Securing Web Applications Ch 1-2	
@@ -99,7 +100,7 @@ El servidor debera:
 	* Evitar que el **servidor envie cookies en http** (puede hacerlo aunque la cookie este setada como safe) 
 
 
-## Obscurecer informacion del servidor
+### Obscurecer informacion del servidor
 
 Los servidores (apache, Ngnix, etc) tienen vulnerabilidades conocidas en determinadas versiones, proveerle al atacante la informacion de que servidor estas corriendo puede ser darles una ventaja. para evitarlo:
 
@@ -108,7 +109,7 @@ Los servidores (apache, Ngnix, etc) tienen vulnerabilidades conocidas en determi
 * Evitar proveer file extensions.
 
 
-## Recavar informacion del atacante
+### Recavar informacion del atacante
 
 Los logs sirven para btener infromacion del ataque, pero tambien pueden contener datos sensibles que un atacante podria intentar robar.
 
@@ -116,7 +117,7 @@ Los logs sirven para btener infromacion del ataque, pero tambien pueden contener
 * Si realmente podes, Loguea todo
 * Mantene los **logs encriptados**
 
-## Configuracion de CORS
+### Configuracion de CORS
 
 
 CORS permite que **Un servidor pueda indicarle a un browser que es seguro relajar las restricciones del Same-Origin-Policy para un request en particular**
@@ -134,7 +135,7 @@ Lo importante aca es que **Si no lo necesitas, no lo habilites** y si lo necesit
 
 
 
-# Identificacion de vectores de ataque
+## Identificacion de vectores de ataque
 
 Los posibles vectores de ataque mas comunes son todos aquellos donde:
 
@@ -185,7 +186,7 @@ Los posibles vectores de ataque mas comunes son todos aquellos donde:
 	* Hidden fields que pueden ser modificados
 
 
-# Bypassing Client-side controls
+## Bypassing Client-side controls
 
 Si los datos son controlados unicamente por el client-side y no por el server-side, entonces un atacante puede aprovechar esto para inyectar parametros no controlados.
 
@@ -202,7 +203,7 @@ EJ:
 * JS form validation
 
 
-# Broken authentication
+## Broken authentication
 
 **Los problemas basicos son:**
 
@@ -224,7 +225,7 @@ EJ:
 	* La logica del lock out debe estar en el server
 * **Minimal password complexity** 
 
-## Cambio de contraseñas
+### Cambio de contraseñas
 
 * Cuando te piden la contraseña antigua para el cambio de contraseña y las error conditions te dan idea si esta bien o mal.
 
@@ -232,12 +233,12 @@ EJ:
 
 * Cuando no notificas al usuario via email que se cambio la contraseña
 
-## Forgotten password
+### Forgotten password
 
 * Preguntas de seguridad que se pueden bruteforcear
 * Preguntas de seguridad escritas por el usuario
 
-## Logging e identificacion de ataques
+### Logging e identificacion de ataques
 
 El servidor debe ser capaz de identificar los ataques a las interfaces de autenticacion
 
@@ -245,7 +246,7 @@ El servidor debe ser capaz de identificar los ataques a las interfaces de autent
 * Alertar sobre multiples intentos desde la misma IP
 * Alertar sobre multiples intentos de login al mismo usuario
 
-# Cross-site-scripting (XSS)
+## Cross-site-scripting (XSS)
 
 Consiste en **utilizar los medios que el sitio web tiene para que los usuarios publiquen contenido** (seccion de comentarios, posts, etc.) para colocar **HTML o JS** que sera **interpretado por los navegadores de terceros**. 
 
@@ -266,7 +267,7 @@ santitizar con alguna libreria para **XSS**
 * **Outputs** del server que no deberian contener HTML o JS
 
 
-## Reflected XSS attack
+### Reflected XSS attack
 
 Es cuando podes colocar como input algo que el server devuelve sin sanitizar (**Refleja**).
 Es posible reproducirlo e inyectar JS o HTML, si logras que la victima haga este request (ej, le mandas el link con una URL que lo hace) entonces la victima ejecutara el codigo de XSS
@@ -276,7 +277,7 @@ Es posible reproducirlo e inyectar JS o HTML, si logras que la victima haga este
 
 > http://www.miforo.com/mensaje=<script>enviar cookie a otro dominio</script>
 
-## DOM XSS attack
+### DOM XSS attack
 
 Explicacion: https://www.youtube.com/watch?v=j4nNx6IpWnk
 
@@ -286,39 +287,39 @@ El ejemplo mas comun es un fragmento en la URL, los fragmentos nunca se envian a
 
 > http://www.miforo.com/mensajeDeAlerta#<script>enviar cookie a otro dominio</script>
 
-## Stored XSS attack
+### Stored XSS attack
 
 Es cuando guardas algo en el server (un comentario por ejemplo) que se ejecuta en los browsers de terceros
 
-## XSS segun contexto
+### XSS segun contexto
 
 A veces no podes correr codigo arbitrario porque las defensas (filtros) de la aplicacion te lo evitan, pero tal vez parte del codigo esta en un tag que podes atacar (un img src por ejemplo)
 
-## XSS - Deteccion
+### XSS - Deteccion
 
 Podes detectar ocurrencias de XSS colocando un string en cada input, HTTP header y request y buscando en la respuesta si el string vuelve integro. A partir de eso tenes que ver en que contexto se usa ese string para ver si podes aprovecharlo para vulnerar la aplicacion.
 
-## XSS - evasion de filtros
+### XSS - evasion de filtros
 
 Aca hay data sobre diferentes trucos para evadir filtros de XSS
 Cosas como encodear partes del script tag o event handler en **base64, hexa, html characters, unicode, etc**
 https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
 
-## same-user XSS
+### same-user XSS
 
 Es cuando el ataque XSS esta restringido a una pagina que solo un usuario puede ver.
 Inicialmente parece poco peligrosos, pero si el atacante logra inyectar su cookie a otro usuario o lograr que se autentique como el entonces el browser de la victima ejecutara el XSS
 
 
-# Broken Session management
+## Broken Session management
 
 
 La **sesion** es la informacion que permite al usuario tener una experiencia personalizada, ademas permite identificar al usuario despues de la autenticacion.
 
 
 
-## Tipos de sesiones
-### Cryptographic session
+### Tipos de sesiones
+#### Cryptographic session
 
 Es cuando la sesion se guarda encriptada en el client side, y solo puede ser desencriptada en el server side (**JWE**).
 
@@ -338,7 +339,7 @@ Es cuando la sesion se guarda encriptada en el client side, y solo puede ser des
 * **Lock out**al probar varios tokens invalidos
 	* **Firmar** los tokens y bloquear IPs que intentan ingresar con ifrmas invalidas
 
-### Session token / ID
+#### Session token / ID
 
 La sesion se guarda en el server-side y se le da al client side un identificador unico que permite asociar al client side con esa sesion.
 
@@ -364,9 +365,9 @@ La sesion se guarda en el server-side y se le da al client side un identificador
 * **Firmar** los tokens para poder detectar intentos de login con tokens invalidos y bloquear la IP 
 
 
-## Ataques y vulnerabilidades
+### Ataques y vulnerabilidades
 
-### En general
+#### En general
 
 
 * **Mal manejo del token o sessionID**
@@ -388,14 +389,14 @@ La sesion se guarda en el server-side y se le da al client side un identificador
 	* No proveer un nuevo session ID en cada login
 
 
-### SessionID brutefrocer
+#### SessionID brutefrocer
 
 Los ataques que consisten en intentar muchos SessionIDs son ataques de fuerza bruta.
 Hay varias formas de determinar que los sessionIDs son aleatorios y no son SessionIDs viejos.
 
 * **Firmar** el token, para verificar que el servidor no fue quien lo creo.
 
-## Session fixation
+### Session fixation
 
 Es cuando el browser tiene un session token  (en una cookie por ejemplo) y al loguearse nuevamente al sitio web, el servidor valida **ese mismo token** para esa sesion **en lugar de asignar un nuevo token**
 
@@ -412,7 +413,7 @@ Si logras **inyectar un session ID** conocido entonces podes esperar a que el us
 * Invalidar el token viejo
 
 
-## Logout y token/cookie reuse
+### Logout y token/cookie reuse
 
 Es el uso de tokens viejos para acceder a la cuenta de un usuario si es que todavia son validos del lado del server. Muchos servicios nunca invalidan sus tokens
 
@@ -421,7 +422,7 @@ Los sessionIDs deben ser **borrados del server o invalidados**, no solo borrados
 * **Log out** - Deberia invalidar el token en el server
 * **Expiracion** - Si el token expira en el cliente tambien deberia expirar al mismo tiempo en el server
 
-# Access control
+## Access control
 
 Consiste en saber en todo momento quien es el usuario, y limitar sus capacidades dependiendo de su rol. 
 
@@ -443,7 +444,7 @@ Los ataques sobre el acces control son:
 	* Permite al usuario privilegios de otro usuario   (user1 a user2)
 
 
-## Unsecured direct object access
+### Unsecured direct object access
 
 Consiste en tener un recurso no protegido  asumiendo que mientras la URL no sea conocida, no sera usado por los usuarios.
 
@@ -451,7 +452,7 @@ Consiste en tener un recurso no protegido  asumiendo que mientras la URL no sea 
 * Admin function
 * Imagenes, docs,pdfs con URLs
 
-# Inyection
+## Inyection
 
 
 Es la inyeccion de codigo en alguno de los Input fields de la aplicacion que puede luego ser mal interpretado por el servidor.
@@ -459,36 +460,36 @@ Es la inyeccion de codigo en alguno de los Input fields de la aplicacion que pue
 https://www.youtube.com/watch?v=0gCYar3GAmw
 
 
-## SQL Inyection
+### SQL Inyection
 
 Es cuando se inyecta codigo SQL inesperado en un input field.
 
 
-### Parametrized querys
+#### Parametrized querys
 
 Los Adaptadores entre lenguaje y base de datos tienen la capacidad de generar "prepared statements"
 SQL prepared statements / parametrized statements
 
-### ORMs
+#### ORMs
 
 Muchos frameworks tienen ORMs que evitan el sql inyection
 
-### Privilegios
+#### Privilegios
 
 Las querys deben correr con los privilegios minimos necesarios para hacer su tarea, de esta forma si un atacante logra inyectar codigo, los daños seran limitados
 
-## NOSQL Inyection
+### NOSQL Inyection
 
 Entender mongoDB
 
-## Shell Command inyection
+### Shell Command inyection
 
 Es una vulnerabilidad que se da cuando la aplicacion envia algun input a un shell del server, es re picante
 
 Entender sobre linux server administration
 https://www.youtube.com/watch?v=MM5HdaxqXvg
 
-## Command inyection
+### Command inyection
 
 Es cuando podes inyectar codigo arbitrario, por ejemplo cuando se coloca algo sin sanitizar como parametro en PHP.
 
@@ -497,13 +498,13 @@ Podes inyectar valores no esperados en el query, que son evaluados por PHP
 > http://retentionpanel.com/view_order.php?submit=4;exit()
 
 
-## SMTP Inyection
+### SMTP Inyection
 
 Cuando tenes un from que envia un email, el protocolo SMTP es muy simple y si estas alimentando con el imput del usuario el mail entonces un atacante podria usarlo para enviar spam.
 
 Principalmente se deben **filtrar los new lines** para evitar crear strings que puedan ser interpretados por SMTP como varios mails
 
-# Back-end attack
+## Back-end attack
 
 Ver cuando sepa Linux administration y apache
 
@@ -511,7 +512,7 @@ https://www.youtube.com/watch?v=MM5HdaxqXvg&list=PL7gCgFw1RV1M6vJFX1RPDhgPZbg9qU
 
 https://www.youtube.com/watch?v=mgDcP6bXtJE&list=PL7gCgFw1RV1M6vJFX1RPDhgPZbg9qU3ub&index=19
 
-# Site Request Forgery 
+## Site Request Forgery 
 
 Se trata de una familia de ataques que consisten en hacerle pensar al browser que el usuario desea realizar una accion con un sitio, entonces el browser envia la cookie de ese sitio.
 
@@ -520,7 +521,7 @@ Se trata de una familia de ataques que consisten en hacerle pensar al browser qu
 
 En general **las contramedidas ya estan siendo usadas por frameworks**
 
-## On-Site-Request-Forgery (OSRF)
+### On-Site-Request-Forgery (OSRF)
 
 Es una forma de aprovechar un ataque **stored XSS** para realizar un ataque de request forgery.
 
@@ -535,7 +536,7 @@ Estos ataques suceden dentro del sitio que se desea atacar
 * Filtrar caracteres especiales `/ . \ ? & =`
 
 
-## Cross-Site-Request-Forgery (CSRF)
+### Cross-Site-Request-Forgery (CSRF)
 
 
 **El atacante crea un sitio web con un link/form que se submitea sola/js/img con src/otra cosa que genera un request al sitio atacado.**
@@ -550,11 +551,11 @@ Mientras el atacante no pueda determinar el valor del token con anticipacion, no
 
 ![](https://i.imgur.com/goHbK6P.jpg)
 
-## UI redressing
+### UI redressing
 
 Se trata de ataques que escondel el UI de la pagina victima y coloca algo encima que hace que el usuario haga algo que no desea
 
-### ClickJacking
+#### ClickJacking
 
 Se coloca la pagina victima como un **Iframe transparente** por encima de la pagina del atacante. se colocal UI de tal forma que la victima haga clicks en el UI de la pagina atacada para realizar acciones que no eran las deseadas. (Hacer compras, etc)
 
@@ -565,11 +566,11 @@ El HTTP header **X-Frame-Options** con valor
 
 Evita que la pagina sea cargada como un Iframe 
 
-### Reverse strokeJacking
+#### Reverse strokeJacking
 
 Es cuando hay un Iframe transparente que tiene el focus, y usa JS para detectar las teclas que apretas, a su vez JS añade tus inputs en los campos adecuados, para que parezca que todo funciona normalmente
 
-# HTTP header inyection / HTTP Response Splitting
+## HTTP header inyection / HTTP Response Splitting
 
 Los servidores HTTP modernos no son vulnerables a esto, pero nuevos trends (**node con express por ejemplo** pueden ser vulnerables.
 
@@ -581,12 +582,12 @@ Se da cuando alguna parte de la aplicacion permite que el usuario agregue _algo_
 
 Si este es el caso entonces un atacante podria escribir mucho mas que el header, ya que si podes poner **line breaks** entonces podes inyectar todos los headers que quieras o incluso **una pagina web entera**
 
-## Combinacion con same-user XSS
+### Combinacion con same-user XSS
 
 Si es posible hacer XSS hacia uno mismo, y aemas existe un HTTP header inyection vulnerability, entonces podes **inyectar tu sesion a un tercero y van a ejecutar el codigo del XSS**
 
 
-# Open redirects
+## Open redirects
 
 Es cuando la pagina web usa alguno de los siguientes para determinar a donde redirige
 
@@ -607,14 +608,14 @@ Un atacante podria proveer un link al sitio atacado que redirija a un sitio de p
 
 
 
-# window.Opener hijacking
+## window.Opener hijacking
 
 Cuando abris un link en una pestaña nueva, [Window.opener](https://developer.mozilla.org/en-US/docs/Web/API/Window/opener) permite que la nueva pestaña tenga algunos controles sobre la anterior, estre estos puede **redireccionar la pestaña anterior**, esto se puede usar para phishing (cuando el usuario cierre la pestaña y vuelva a la pestaña anterior, se encontrara con otra pagina)
 
 **Solucion:**
 En el anchor tag, usar siempre **rel="noopener"** para evitar que el sitio al que mandamos al usuario tenga control sobre nuestra pestaña.
 
-# Unsafe deserialization 
+## Unsafe deserialization 
 
 [Ejemplos con PHP](https://www.owasp.org/index.php/PHP_Object_Injection)
 La serealizacion es el proceso de transformar un objeto/array/funcion/clase en un string que se pueda guardar en una base de datos (un campo string en SQL por ejemplo) o que se pueda enviar por una red.
@@ -626,7 +627,7 @@ Esto significa que un atacante puede instanciar una clase del programa (esto req
 
 Si el atacante puede inyectar arbitrariamente datos que seran deserealizados sin sanitizar, y esos datos son ejecutados (ej instancias un objeto con un constructor ), el atacante tendra la posibilidad de **inyectar codigo arbitrario**
 
-# Unrestricted file upload
+## Unrestricted file upload
 
 Permitir que los usuarios suban archivos al servidor implica un gran riesgo, ya que si esos archivos son luego accesibles a los usuarios, un atacante podria **inyectar codigo malicioso** que el servidor pordia ejecutar.  Esto implica que **es facil escalar de unrestricted file upload a code execution**
 
@@ -646,10 +647,10 @@ Algunas formas de controlar los archvios subidos al server son:
 
 
 
-# Browser enforced security
+## Browser enforced security
 
 
-## same-origin-policy 
+### same-origin-policy 
 
 
 **Glosario:**
@@ -664,7 +665,7 @@ Se trata de una serie de politicas que evitan que se realicen acciones entre dos
  * El JS de la pestaña $$A$$ no puede hablar con el de la pestaña $$B$$
 
 
-### Iframes y Cross-document messaging
+#### Iframes y Cross-document messaging
 
 Un Iframe que tiene un origen distinto al de la pagina que la contiene esta protegida por la same-origin-policy.
 **El browser no le permitira al JS de la pagina contenedora acceder al Iframe y modificar su contenido.**
@@ -681,7 +682,7 @@ Un Iframe que tiene un origen distinto al de la pagina que la contiene esta prot
 \scriptsize{\href{(https://www.youtube.com/watch?v=XTKqQ9mhcgM}{\text{Video explicativo}}}$$
 
 
-### HTTP requests
+#### HTTP requests
 
 El browser rechaza el envio de requests HTTP a un dominio diferente al dominio de origen como parte de la politica same-origin-policy. Se puede realizar excepciones usando el **protocolo CORS** 
 
@@ -702,7 +703,7 @@ Algunos de los requests que **no limita por default:**
 
 ---
 
-##  Content security policy
+###  Content security policy
 
 Su proposito es proteger al usuario de XSS, CSRF e inyeccion de contenido mediante
 
@@ -742,7 +743,7 @@ content=" directiva 1; directiva 2; directiva 3;"
 >
 ```
 
-### Scope de CSP
+#### Scope de CSP
 
 **Las CSP tienen un scope que se limita a la pagina abierta en ese momento.** es decir que
  `www.ejemplo.com/index.html` y `www.ejemplo.com/login.html` **pueden tener diferentes SCP directives**
@@ -751,7 +752,7 @@ CSP bloquea por default los **in-line scripts**
 
 
 
-### Politicas disponibles
+#### Politicas disponibles
 
 Las siguientes politicas (tambien llamadas **"directivas"**) se pueden colocar tanto en el `Content-Security-Policy` **header** como en el `<meta>` tag.
 	
@@ -831,7 +832,7 @@ integrity="sha384oqVuAfXRKap7fdgcCYblablabla">
 
 
 
-### Propiedades utilizables en las directivas
+#### Propiedades utilizables en las directivas
 
 
 
@@ -892,7 +893,7 @@ default-src: 'https' //solo cargar cosas en HTTPS
 
 
 
-### SCP reports 
+#### SCP reports 
 
 >report-uri esta **depricated**, use **report-to** en su lugar cuando consideres que report-to tiene suficiente traccion en todos los navegadores y existe buena documentacion de como usarlo.
 
@@ -935,7 +936,7 @@ Content-Security-Policy:
 *  **status-code** - El HTTP code dela pagina
 
 
-### SCP testing
+#### SCP testing
 
 
 Se puede configurar las SCP para que no sean efectivas, sino que unicamente generen repotes de error, esto sirve para evitar romper el sitio al introducir nuevas politicas.
@@ -944,14 +945,14 @@ Para esto usamos **Content-Security-Policy-Report-Only:**
 Content-Security-Policy-Report-Only:: default-src 'self';
 ```
 
-## HSTS - Strict Transport Security
+### HSTS - Strict Transport Security
 
 Indicada en [  HTTP Strict Transport Security (HSTS) - RFC 6797](https://tools.ietf.org/html/rfc6797)
 
 >**HSTS** es un mecanismo que tiene un sitio web de indicarle al browser que **nunca debe conectarse a este dominio mediante HTTP**, sino unicamente mediante HTTPS
 
 
-### HSTS Header
+#### HSTS Header
 El servidor indica al user-agent que tiene prohibido intentar comunicarse mediante HTTP usando el HTTP header  Strict-Transport-Security.
 ```
 Strict-Transport-Security
@@ -969,7 +970,7 @@ Strict-Transport-Security
 	 Strict-Transport-Security: max-age=15768000 ; includeSubDomains
 ```
 
-### Funcionamiento 
+#### Funcionamiento 
 
 **USER AGENT:**
 
@@ -1000,7 +1001,7 @@ Al intentar ingresar a un sitio mediante HTTP, el user agent:
 	* Respuesta con permanent redirect **CODE 301** al mismo sitio pero con HTTPS.
 
 
-## Referrer-Policy
+### Referrer-Policy
 
 El Referrer-Policy es un header que permite al servidor indicarle al browser que colocar en el HTTP header "referer" cuando es redirigido de esta pagina.
 
@@ -1035,7 +1036,7 @@ Referrer-Policy: strict-origin-when-cross-origin
 Referrer-Policy: unsafe-url
 ```
 
-## XSS Auditor
+### XSS Auditor
 
 Algunos browsers (chrome, IE, Opera) tienen sistemas de defensa contra XSS integrados llamados **XSS Auditor** que en general estan **activados por default**, pero pueden ser **activados y configurados por el servidor** con el HTTP Header **X-XSS-Protection**.
 
@@ -1054,9 +1055,9 @@ X-XSS-Protection: 1; mode=block
 ```
 
 
-# Logging y monitoring
+## Logging y monitoring
 
-## Eventos a loguear
+### Eventos a loguear
 
 La aplicacion que crees debe tener logging para los eventos de seguridad que sean relevantes, y de ser necesario enviar alertas.
 
@@ -1079,7 +1080,7 @@ La aplicacion que crees debe tener logging para los eventos de seguridad que sea
 * **Uso excesivo**  
 
 
-## Proteccion de logs
+### Proteccion de logs
 
 Los logs suelen tener **informacion sensible** y deben ser protegidos.
 
@@ -1097,5 +1098,5 @@ Dependiendo del medio donde se guarden, las estrategias pueden ser diferentes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODAzNjY0MSwtMTY3MzgyNDY3Nl19
+eyJoaXN0b3J5IjpbMTU5MDE3NjQwNSwtMTY3MzgyNDY3Nl19
 -->
