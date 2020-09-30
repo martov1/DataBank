@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=bvJhRtRR7rk
 # Herramientas - WIP
 
 
-## Tipos de herramientas - WIP
+## Herramientas de corte - WIP
 
 #### Parting tools
 
@@ -70,6 +70,8 @@ Se trata de una herramienta con un angulo de 85 grados en vez de 90 para poder h
 Para agrandar agujeros internos
 
 ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/7GrpJat.png)
+## Herramientas de tapping y dies  - WIP
+
 ## Material - WIP
 Tienen las mismas caracteristicas en cuanto al material que las herramientas de fresa.
 
@@ -437,9 +439,9 @@ Tener en cuenta
 
 [fuente](https://www.youtube.com/watch?v=WRuJ3k0V-fA&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=17)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjI3MDc4Nyw2NTUyMzk2NjQsMTQwMT
-IwMTM3NCwtMjMwMDQzODM4LC0xMjY5OTE5ODI3LC0yMDY0ODkz
-NTE2LC0xNzI3MjIzMTg4LDk2Nzg4NTg0MiwtMTg2MTEwNTgyOS
-wxNDM5NzQ2NTMxLC03ODU2NjA3MzMsMTg2NjI2MDMyOCwtMTYx
-MTE2MjMxNiwxMDY0NTEyMjQsODk2ODMyMzkwXX0=
+eyJoaXN0b3J5IjpbNzgyNzExNDczLDY1NTIzOTY2NCwxNDAxMj
+AxMzc0LC0yMzAwNDM4MzgsLTEyNjk5MTk4MjcsLTIwNjQ4OTM1
+MTYsLTE3MjcyMjMxODgsOTY3ODg1ODQyLC0xODYxMTA1ODI5LD
+E0Mzk3NDY1MzEsLTc4NTY2MDczMywxODY2MjYwMzI4LC0xNjEx
+MTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIzOTBdfQ==
 -->
