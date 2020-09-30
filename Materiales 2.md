@@ -342,5 +342,6 @@ De esta manera se obtiene una pieza con una superficie dura pero un interior duc
 * Someter el acero a un medio con carbono (solido, gaseoso, etc) para que se carburice superficialmente
 * Templar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTgxNzYzMiwxMTEzOTY0Nzc4XX0=
+eyJoaXN0b3J5IjpbMjk2MzAzODA4LC03MzE4MTc2MzIsMTExMz
+k2NDc3OF19
 -->
