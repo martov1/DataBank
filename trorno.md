@@ -346,11 +346,13 @@ Podes hacer la terminacion fina con lijas, arrancando con _400_ y cada vez mas, 
 
 ## Deburring
 
-Deburring es **remover la rebaba filosa que queda como resultado del proceso de maquinado en los bordes de la pieza**
+Deburring es **remover la rebaba filosa que queda como resultado del proceso de maquinado en los bordes de la pieza**, no
+
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/image.png)
 
 Se puede hacer
 * Con una **lima**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5Nj
-gzMjM5MF19
+eyJoaXN0b3J5IjpbMTg2NjI2MDMyOCwtMTYxMTE2MjMxNiwxMD
+Y0NTEyMjQsODk2ODMyMzkwXX0=
 -->
