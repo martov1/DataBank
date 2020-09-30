@@ -22,6 +22,14 @@ https://www.youtube.com/watch?v=bvJhRtRR7rk
 
 ### Tipos de herramientas - WIP
 
+#### Parting tools
+
+Son herramientas para dividir la pieza en pedazos, 
+* **NO** son herramientas de corte de un solo punto, sino que son herramientas de forma
+* Pueden ser de acero rapido o de inserto de carbide
+
+![](https://i.imgur.com/sxnfOPP.png)
+
 #### Debarbing tool - WIP
 
 Es una herramienta para sacar la rebaba de los agujeros
@@ -391,10 +399,10 @@ Es
 >* Es comodo
 
 
-
+Se hace con un **parting tool**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1NDc3MzAzLC0xODYxMTA1ODI5LDE0Mz
+eyJoaXN0b3J5IjpbOTY3ODg1ODQyLC0xODYxMTA1ODI5LDE0Mz
 k3NDY1MzEsLTc4NTY2MDczMywxODY2MjYwMzI4LC0xNjExMTYy
 MzE2LDEwNjQ1MTIyNCw4OTY4MzIzOTBdfQ==
 -->
