@@ -575,5 +575,5 @@ Simplemente con emitir un valor criptoseguro y luego verificar que ese valor es 
 
 * Si guardas el access/refresh token en la base de datos, **encriptalo**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTEyNTg1MzBdfQ==
+eyJoaXN0b3J5IjpbOTU3MjkwMzQyLC0xMTUxMjU4NTMwXX0=
 -->
