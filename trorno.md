@@ -370,9 +370,13 @@ Muchos elementos de medicion pueden agarrar el burr y darte una medicion inflada
 ![](https://i.imgur.com/JuFR5aC.png)
 
 
-Ademas si estas trabajando en una fresa, el burr puede modificart
+Ademas si estas trabajando en una fresa, el burr puede modificarte la posicion de la pieza y que quede toricida
+
+![](https://i.imgur.com/RKP8Tkj.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc1MjY1NTYsLTc4NTY2MDczMywxOD
-Y2MjYwMzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIz
-OTBdfQ==
+eyJoaXN0b3J5IjpbMTQzOTc0NjUzMSwtNzg1NjYwNzMzLDE4Nj
+YyNjAzMjgsLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5NjgzMjM5
+MF19
 -->
