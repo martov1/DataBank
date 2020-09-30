@@ -401,7 +401,7 @@ Es
 * **Es demandante con la herramienta y la maquina**
 	* La herramienta tiene que estar bien afilada
 	* Los speeds and feeds tienen que estar bien
-	* La **r**
+	* La **rigidez** tiene que ser excelente!
 
 >Usamos el torno para dividir la pieza **en vez de una sierra** por que
 >* Es preciso
@@ -412,7 +412,7 @@ Es
 Se hace con un **parting tool**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTM4OTU2MSw5Njc4ODU4NDIsLTE4Nj
-ExMDU4MjksMTQzOTc0NjUzMSwtNzg1NjYwNzMzLDE4NjYyNjAz
-MjgsLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5NjgzMjM5MF19
+eyJoaXN0b3J5IjpbMzc4MDYwMTU1LDk2Nzg4NTg0MiwtMTg2MT
+EwNTgyOSwxNDM5NzQ2NTMxLC03ODU2NjA3MzMsMTg2NjI2MDMy
+OCwtMTYxMTE2MjMxNiwxMDY0NTEyMjQsODk2ODMyMzkwXX0=
 -->
