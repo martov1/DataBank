@@ -344,5 +344,5 @@ Podes hacer la terminacion fina con lijas, arrancando con _400_ y cada vez mas, 
 
 ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/4WkqNMG.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2ODMyMzkwXX0=
+eyJoaXN0b3J5IjpbMTA2NDUxMjI0LDg5NjgzMjM5MF19
 -->
