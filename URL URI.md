@@ -183,7 +183,7 @@ Scheme: //authority/path1/path2/pathN  ?query # fragment
 
 
 Ejemplo de partes opcionales:
-![](http://i.markdownnotes.com/dsfsdf.jpg)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/dsfsdf.jpg)
 
 ### Scheme:
 

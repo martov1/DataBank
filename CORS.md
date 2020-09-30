@@ -98,7 +98,7 @@ Es **CSRF safe**
  Access-Control-Allow-Origin: *
 ```
 
-![](http://i.markdownnotes.com/aaa_1Fzg5Bq.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/aaa_1Fzg5Bq.png)
 
 >**Simple-requests** son aquellos con los que cumplen con este **white-list**
 >
@@ -158,7 +158,7 @@ Para todos aquellos requests que no califican como "Simple requests" el **Protoc
 	* **REQUEST DENEGADO** Los CORS headers indican que el request no se puede realizar, el browser no envia el request original
 	* **AUSENCIA DE CORS HEADERS** - Si el server no responde con CORS headers entonces el browser no realiza el request
 		
-![](http://i.markdownnotes.com/hhh.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/hhh.png)
 
 ## CORS formas de determinar si autorizar un origen.
 

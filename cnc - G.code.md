@@ -101,7 +101,7 @@ para hacer cortes lentos  que **si son para corte de material**
 
 #### ejercicio simplificado
 
-![](https://i.imgur.com/N4skT1B.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/N4skT1B.png)
 
     
     (estoy parado en X0 Y0 antes de iniciar mi programa)
@@ -133,7 +133,7 @@ Si quiero indicar un arco desde mi posicion actual al punto $(1;1.1)$ y  que el 
 Usando una herramienta de 0.5mm de diametro, decida una serie de coordenadas para trazar la siguiente pieza.
 Recuerde que todas las coordenadas tienen que tener un offset de 0.25mm, ya que ahi esta el borde de corte de la herramienta
 
-![](https://i.imgur.com/kgIuHBM.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/kgIuHBM.png)
 
 
 ### Back home
@@ -158,7 +158,7 @@ El work offset sirve para **cambiar el sistema de coordenadas**, en lugar de que
 
 Lo especificamos con un punto desde desde el $(0,0)$ de la maquina hasta el punto que nosotros queramos, ese sera el **nuevo origen** $(0,0)$ de ahi en adelante
 
-![](https://i.imgur.com/T0k6gRv.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/T0k6gRv.png)
 
 
 
@@ -383,11 +383,11 @@ EJ:
 Podemos indicarle a la maquina el radio de nuestra herramienta para evitar tener que programar las coordenadas teniendo en cuenta ese radio.
 
 Generalmente programaremos el diametro de cada herramienta en el panel de la maquina, con lo que la maquina sabra de antemano que radio correspondera a cada herramienta.
-![](https://i.imgur.com/nak8vo5.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/nak8vo5.png)
 
 
-![](https://i.imgur.com/BqBX6Vt.png)
-![](https://i.imgur.com/Kw6enDk.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/BqBX6Vt.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/Kw6enDk.png)
 
  Para eso utilizaremos
 
@@ -406,11 +406,11 @@ Generalmente programaremos el diametro de cada herramienta en el panel de la maq
 en cuanto doy el comando $G41$ , $G42$  o $G40$ la maquina ajustara en **ese instante** la herramienta.
 * osea **no que puedo estar al lado del material** por que lo voy a cortar sin querer o partir la herramienta 
 
-![](https://i.imgur.com/X6gE1Pj.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/X6gE1Pj.png)
 
 #### Ejercicio
 
-![](https://i.imgur.com/N4skT1B.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/N4skT1B.png)
 En maquinas donde no hay table
 
    
@@ -440,7 +440,7 @@ En maquinas donde quiero usar un offset que esta configurado en una tabla de la 
 
 Operan igual que en 2D pero en 3 dimensiones
 
-![](https://i.imgur.com/T0k6gRv.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/T0k6gRv.png)
 
 
 Usamos las mismas instrucciones
@@ -464,7 +464,7 @@ Por defecto las coordenadas siempre son con referencia a la punta del mandril qu
 
 El tool offset nos permite indicarle al cnc **donde esta la punta o el filo de la herramienta**. de esta manera todas las coordenadas que coloquemos seran siempre con referencia a la punta o filo de la herramienta y no al mandril.
 
-![](https://i.imgur.com/JWqlRIY.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/JWqlRIY.png)
 
 #### Practica: codigo G
 

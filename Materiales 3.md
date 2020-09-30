@@ -160,7 +160,7 @@ El alto horno consiste en una estructura tubular de 50mts que se alimenta por ar
 
 
 
-![](http://i.markdownnotes.com/www.askiitians.comonlinetestforumsimages255-2364_untitled.png.jpg.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/www.askiitians.comonlinetestforumsimages255-2364_untitled.png.jpg.png)
 
 
 

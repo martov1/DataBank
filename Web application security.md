@@ -549,7 +549,7 @@ El browser envia la solicitud con la cookie que corresponda, autorizando el requ
 
 Mientras el atacante no pueda determinar el valor del token con anticipacion, no podra hacer ataques de CSRF
 
-![](https://i.imgur.com/goHbK6P.jpg)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/goHbK6P.jpg)
 
 ### UI redressing
 

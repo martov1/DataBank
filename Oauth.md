@@ -184,7 +184,7 @@ Antes de poder autenticar con Oauth, hay que registrarse con el **Authorization 
 	* Google responde con un nuevo **Access token** y **Refresh token**
 
 
-![](http://i.markdownnotes.com/fotomila_8TGnEu2.jpg)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/fotomila_8TGnEu2.jpg)
 
 
 ---
@@ -218,7 +218,7 @@ Es una forma de tuilizar Oauth cuando **no tenes un backend** y necesitas que to
 * El usuario tiene acceso al Access token de forma directa (inevitable)
 * No se autentica al cliente (misitio), es inevitable
 
-![](http://i.markdownnotes.com/oauth2-and-spring-security-15-638.jpg)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/oauth2-and-spring-security-15-638.jpg)
 
 
 ---
@@ -240,7 +240,7 @@ Este flow **se usa muy poco** y solamente en aplicaciones muy privilegiadas (OS 
 
 Este flow **se usa poco**, el cliente (miSitio) puede obtener un token **solamente con sus credenciales** (EJ: client_id y client_secret) sin tener que preguntarle nada al usuario ni pedirle consentimiento.
 
-![](http://i.markdownnotes.com/image001_eP3CK8y.png)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/image001_eP3CK8y.png)
 
 
 

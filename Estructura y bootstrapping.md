@@ -372,7 +372,7 @@ Desde ahi:
 
 ![enter image description here](https://lh3.googleusercontent.com/1hiHL5JaLxKG9eIbT_Gz0bNmNuDrapyCJ5yNMMgCQNexQe23aAmJ3MMzNIm88Gw65DrRWTGIEmvi)
 
-![](http://i.markdownnotes.com/flow_laravel_FUz0i4h_0uUbk89.jpg)
+![](https://github.com/martov1/DataBank/blob/master/imagenes/flow_laravel_FUz0i4h_0uUbk89.jpg)
 
 
 ## Dependency inyection 

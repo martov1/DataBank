@@ -457,7 +457,7 @@ Busca por la prmera columna de una tabla un varlor y devuelve unel valor de una 
 * **Match()** 
 	* En una columna, devuelve el numero de row donde este un valor. 
 	* En una row devuelve enl numero de columna donde esta el valor
- ![](http://i.markdownnotes.com/5656556.jpg)
+ ![](https://github.com/martov1/DataBank/blob/master/imagenes/5656556.jpg)
 
 ### Combinacionde nidex y match
 
