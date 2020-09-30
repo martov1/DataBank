@@ -352,7 +352,9 @@ Deburring es **remover la rebaba filosa que queda como resultado del proceso de 
 
 Se puede hacer
 * Con una **lima**
+* Tapered cutter, para deburrear agujeros
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjI2MDMyOCwtMTYxMTE2MjMxNiwxMD
-Y0NTEyMjQsODk2ODMyMzkwXX0=
+eyJoaXN0b3J5IjpbMzA1ODA1NjM4LDE4NjYyNjAzMjgsLTE2MT
+ExNjIzMTYsMTA2NDUxMjI0LDg5NjgzMjM5MF19
 -->
