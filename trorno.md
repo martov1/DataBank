@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=bvJhRtRR7rk
 
 Es una herramienta para sacar la rebaba de los agujeros
 
-![](https://i.imgur.com/j976nxh.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/j976nxh.png)
 
 #### Tapering tools - WIP
 
@@ -39,20 +39,20 @@ Un rimmer
 * Tiene gran **dureza**
 * **NUNCA debe ser usado en direccion inversa**
 
-![](https://i.imgur.com/2El0lwx.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/2El0lwx.png)
 
 
 
 #### Inside corner turning bit - WIP
 
 Se trata de una herramienta con un angulo de 85 grados en vez de 90 para poder hacer cortes llegando a una pared de 90 grados sin rozar la pared (por que la herramienta tiene 85grados y no 90)
-![](https://i.imgur.com/djr0l63.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/djr0l63.png)
 
 #### Boring bars - WIP
 
 Para agrandar agujeros internos
 
-![](https://i.imgur.com/7GrpJat.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/7GrpJat.png)
 ### Material - WIP
 Tienen las mismas caracteristicas en cuanto al material que las herramientas de fresa.
 
@@ -73,14 +73,14 @@ Tienen las mismas caracteristicas en cuanto al material que las herramientas de 
 
 Se trata de una parte que sostiene la herramienta y permite ajustar su altura
 
-![](https://i.imgur.com/7CncxqX.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/7CncxqX.png)
 
 Se suele reemplazar el tool holder entero, se saca y se pone y con una palanca se asegura por presion.
 
-![](https://i.imgur.com/HlqwqJ7.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/HlqwqJ7.png)
 Ademas suelen tener un ajuste para cambiar el angulo de la herramienta con respecto a la pieza  
 
-![](https://i.imgur.com/pyArBwM.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/pyArBwM.png)
 
 
 ### Hand weels
@@ -90,7 +90,7 @@ Los engranajes que mueven el carro porta herramientas tienen un juego cuando te 
 
 **Sino no podes confiar en el indicador de milimetros**
 
-![](https://i.imgur.com/SYzoi0V.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/SYzoi0V.png)
 #### Direct e indirect hand weels
 
 Las **hand weels** vienen en dos variedad
@@ -98,7 +98,7 @@ Las **hand weels** vienen en dos variedad
 * **Direct read** indican la reduccion de **diametro** que estas haciendo
 * **indirect read** indican la reduccion de **radio** que estas haciendo
 
-![](https://i.imgur.com/8Ycy5Ge.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/8Ycy5Ge.png)
 
 ### Chatter
 
@@ -137,13 +137,13 @@ Para utilizarla, colocamos un medidor de distacia y vamos girand y ajustando, te
 
 Para las ultimas milesimas directamente ajustas mas la mordaza a la que le faltan las milesimas
 
-![](https://i.imgur.com/ILwNBLE.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/ILwNBLE.png)
 
 #### 4 jaw independent chucks - uso en caras no circulares
 
 El plata de 4 mordazas independientes tambien te permite agarrar objetos no cilindricos para hacer caras planas!
 
-![](https://i.imgur.com/IpKQf07.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/IpKQf07.png)
 
 
 # Preparacion de la pieza
@@ -157,7 +157,7 @@ Si bien cuando hacer **turning** logras **siempre** un circulo concentrico con e
 
 **Solucion:** Si tenemos que reganar la concentricidad que teniamos si sacamos la pieza del plato, tenemos que usar un plato de **cuatro mordazas de ajuste independiente** y **DOLOROSAMENTE** ajusatar cada mordaza mientras usamos un medidor de distancia para asegurar que al girar el plato, el medidor no cambia.
 
-![](https://i.imgur.com/mgg5Q5q.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/mgg5Q5q.png)
 
 
 ## Agarre torcido en platos
@@ -177,7 +177,7 @@ Con un medidor de distancia  verificas que al girar la pieza siempre tenes la mi
 Si la pieza es **dos o tres veces mas larga que su radio, necesitas un tail support**. Por supuesto depende de la rigidez o flexibilidad de la pieza en si misma.
 
 Para colocarlo, acercamos el centro hasta que haga presion moderada y lo trabamos con la palanca
-![](https://i.imgur.com/xQB1aKG.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/xQB1aKG.png)
 
 
 #### Preparar la pieza para un tail support - WIP
@@ -190,13 +190,13 @@ Al ser tan **Dura** tiende a partirse, asi que vienen con puntas de ambos lados 
 
 
 
-![](https://i.imgur.com/BeVMBlv.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/BeVMBlv.png)
 Pasos
 * Colocar el center drill
 * Usar $RPM$ rapidas, por que la **surfice speed** en el centro es casi $0$
 * Usar cutting oil para lubricar
 * Perforar hasta donde termina la parte angulada de la herramienta
-* ![](https://i.imgur.com/bHJpdrV.png)
+* ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/bHJpdrV.png)
 
 
 #### Tipos de tail support - WIP
@@ -225,7 +225,7 @@ Es trabajar una cara de la pieza para hacerla plana y a 90º, cosa que en genera
 * Ajustar la pieza al plato
 * Alinear la herramienta con el eje del torno
 	* Se suele hacer con la punta de la cabeza movil, a ojo
-	* ![](https://i.imgur.com/sbWsrKL.png)
+	* ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/sbWsrKL.png)
 * Determinar $RPM$
 	* Si el torno es de **velocidad variable**, vas a tener que aumentar la velocidad a medida que la herramienta avanza
 	* Si es de **velocidad fija**, usas un promedio
@@ -234,9 +234,9 @@ Es trabajar una cara de la pieza para hacerla plana y a 90º, cosa que en genera
 * Avanzas en $Z$ un poquito ej: $0.5mm$
 * Tira de la palanca que asegura el carro porta herramientas para que no se mueva en el eje $Z$
 * Avanza en el eje $X$ cortando hasta llegar al centro de la pieza
-	* ![](https://i.imgur.com/E2LYis6.png)
+	* ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/E2LYis6.png)
 	* Repetir hasta que la cara este pareja
-	* ![](https://i.imgur.com/iObQMXs.png)
+	* ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/iObQMXs.png)
 ## Turning
 
 Es reducir el diametro de la pieza a lo largo.
@@ -245,7 +245,7 @@ Siempre compramos algo mas grande que nuestro objetivo y hacemos turning en una 
 * Puede (y suele) no ser recta
 * Asegurar concentricidad perfecta (el plato puede no centrar correctamente)
 
-![](https://i.imgur.com/NTlYsJl.png)_Ejemplo de como hacer turning obliga a la concentricidad, aun con un agarre de plato exageradamente no concentrico_
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/NTlYsJl.png)_Ejemplo de como hacer turning obliga a la concentricidad, aun con un agarre de plato exageradamente no concentrico_
 
 **Pasos**
 [fuente](https://www.youtube.com/watch?v=1IsG8vIXA8k&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=5)
@@ -260,7 +260,7 @@ Siempre compramos algo mas grande que nuestro objetivo y hacemos turning en una 
 [fuente](https://www.youtube.com/watch?v=aQwWRW-PdTE&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=7)
 Es una combinacion de **facing** y **turning**, el objetivo es **hacer una parte de menor diametro separada por una pared de 90 grados perfecta por otra parte de diferente diametro**
 
-![](https://i.imgur.com/WMlVTbb.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/WMlVTbb.png)
 _usamos un sensor de comparacion de distancia_
 
 Pasos
@@ -272,7 +272,7 @@ Pasos
 * **Observese** que siempre va a quedar un pequeño chanfer microscopico por la forma de la herramienta, aun cuando este super afilada, enntonces si otra pieza tiene que encastrar, vas a tener una luz
 	* **Solucion 1** durate el facing, cuando estas contra el cilindro interno, hacer una edidura de unas decimas de milimetro para eliminar el chanfer
 	* **Solucion 2** Usar un parting tool
-![](https://i.imgur.com/aAnYpv5.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/aAnYpv5.png)
 _Encastre inperfecto debido al chanfer_
 
 ## Drilling
@@ -289,7 +289,7 @@ _Encastre inperfecto debido al chanfer_
 
 El taladrado se hace con un jacobs chuck en el tail support
 
-![](https://i.imgur.com/D8gvO6u.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/D8gvO6u.png)
 
 Pasos:
 * **Agujero guia:** Usar un **center drill** (el mismo que usamos para poner un tail support) para asegurarnos un agujero guia bien centrado. aplicando cutting oil
@@ -297,7 +297,7 @@ Pasos:
 	*  **sacando los chips** salienndo del agujero cada tanto si el agujero no es superificial (sentiras la resistencia) 
 	* **usando  cutting oil** periodicamente
 	* **midiendo profundidad** si hace falta, recordando que no tenemos gran precision
-	* ![](https://i.imgur.com/Pgb9o67.png)
+	* ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/Pgb9o67.png)
 * **Drill** usamos un drill bit un poquito mas pequeño que el agujero final que deseamos ($0.5mm$  mas chico que el diametro final)
 * **Rimming** usamos un rimmer, para hacer los ultimos $0.5mm$
 	* **NUNCA** girar un rimmer en la direccion opuesta a sus filos (ni siquiera  con la mano), arruina totalmente su precision
@@ -307,7 +307,7 @@ Pasos:
 	* **tener paciencia**
 * **Debarbing:** Sacamos la rebaba con un rebarbing tool
 	* Se puede hacer a mano (Toma dos vueltas)
-	* ![](https://i.imgur.com/j976nxh.png)
+	* ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/j976nxh.png)
 
 ## Boreing - WIP
 
@@ -325,7 +325,7 @@ Un buen surfice finishing es importante por que
 **como lograr un buen finishing:**
 * hay material que es simplemente mas facil de maquinar
 * Usar una herramienta con mas superficie (menos punteaguda, mas redondeada )
-* ![](https://i.imgur.com/DbbLukr.png)
+* ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/DbbLukr.png)
 * Usar un buen **speed and feed**
 	* High surfice speed
 	* low feed
@@ -342,7 +342,7 @@ Podes hacer la terminacion fina con lijas, arrancando con _400_ y cada vez mas, 
 * **cubrir todas las puperficies de precision** del torno, los trocitos de lija son mas duros que el metal del torno y va a destruir la superficie de precision del torno
 * **Sostener la lija con mucha ligereza** si la atrapa el torno, que te las saque de las manos.
 
-![](https://i.imgur.com/4WkqNMG.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/4WkqNMG.png)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbODk2ODMyMzkwXX0=
 -->

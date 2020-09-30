@@ -5,7 +5,7 @@
 El torno CNC es en general una maquina de dos ejes, $X Z$
 
 
-![](https://i.imgur.com/hEaCU8S.png)
+![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/hEaCU8S.png)
 
 
 ## Comandos basicos
