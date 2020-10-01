@@ -194,6 +194,7 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 	* Se usa para lubricar la bancada del torno
 	* Proteje del oxido
 ![](https://i.imgur.com/cBYqz01.png)
+	* Se puede usar en casi todo
 * 
 
 
@@ -554,7 +555,7 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzAwOTczMjYsNjkxNTQxNDAxLDU1MD
+eyJoaXN0b3J5IjpbLTIxNDQ1MjUyOTUsNjkxNTQxNDAxLDU1MD
 IxMDQxNSw3MTYwNDM0NjQsLTEyMTM0OTg4OTQsLTEwNjAzOTA5
 NTgsMjEwMzIzMDE0LC0xMDc3ODU0ODYyLDIxMzIzNDcwNzgsMj
 g2NDY1MzM3LC0xNjc1OTgyNTg4LDE0ODI5MDg4NDAsMzI2NjUx
