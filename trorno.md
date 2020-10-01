@@ -172,7 +172,7 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/IpKQf07.png)
 ## Feeds and speeds - WIP
 
-fuente
+[fuente](https://www.youtube.com/watch?v=NrcDr2WO6Ho&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=21)
 
 # Preparacion de la pieza
 ## Concentricity
@@ -470,11 +470,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDc3OTA3LDIxMzIzNDcwNzgsMjg2ND
-Y1MzM3LC0xNjc1OTgyNTg4LDE0ODI5MDg4NDAsMzI2NjUxMTI1
-LC0yMTQzODcxODY0LDQ0MzU5NzU3NiwtMTMwOTAyMTA5Myw2NT
-UyMzk2NjQsMTQwMTIwMTM3NCwtMjMwMDQzODM4LC0xMjY5OTE5
-ODI3LC0yMDY0ODkzNTE2LC0xNzI3MjIzMTg4LDk2Nzg4NTg0Mi
-wtMTg2MTEwNTgyOSwxNDM5NzQ2NTMxLC03ODU2NjA3MzMsMTg2
-NjI2MDMyOF19
+eyJoaXN0b3J5IjpbLTEwNzc4NTQ4NjIsMjEzMjM0NzA3OCwyOD
+Y0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4MjkwODg0MCwzMjY2NTEx
+MjUsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC0xMzA5MDIxMDkzLD
+Y1NTIzOTY2NCwxNDAxMjAxMzc0LC0yMzAwNDM4MzgsLTEyNjk5
+MTk4MjcsLTIwNjQ4OTM1MTYsLTE3MjcyMjMxODgsOTY3ODg1OD
+QyLC0xODYxMTA1ODI5LDE0Mzk3NDY1MzEsLTc4NTY2MDczMywx
+ODY2MjYwMzI4XX0=
 -->
