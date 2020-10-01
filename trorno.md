@@ -303,7 +303,9 @@ Para usar un steady rest **necesitas**
 * Aceitar el lugar de la pieza donde tocan los rodillos
 * Si tenes chatter, ajustar un poquitito mas hasta que desaparezca
 * Mantener buena lubricacion
-* Si la precision lo amerita, **Corroborar concentricidad**
+* Si la precision lo amerita y la pieza esta maquinada (osea que es concentrica), **Corroborar que se mantiene la concentricidad**
+	* Usando un comparador, ver que da el mismo valor a lo largo de toda la pieza
+	![](https://i.imgur.com/WuidUhj.png)
 * **MANTENER DOEDOS LEJOS DEL APARATO EN OPERACION**
 
 # Operaciones
@@ -535,11 +537,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQzMzcxOTIsNzE2MDQzNDY0LC0xMj
-EzNDk4ODk0LC0xMDYwMzkwOTU4LDIxMDMyMzAxNCwtMTA3Nzg1
-NDg2MiwyMTMyMzQ3MDc4LDI4NjQ2NTMzNywtMTY3NTk4MjU4OC
-wxNDgyOTA4ODQwLDMyNjY1MTEyNSwtMjE0Mzg3MTg2NCw0NDM1
-OTc1NzYsLTEzMDkwMjEwOTMsNjU1MjM5NjY0LDE0MDEyMDEzNz
-QsLTIzMDA0MzgzOCwtMTI2OTkxOTgyNywtMjA2NDg5MzUxNiwt
-MTcyNzIyMzE4OF19
+eyJoaXN0b3J5IjpbOTU0NDc1NjI4LDcxNjA0MzQ2NCwtMTIxMz
+Q5ODg5NCwtMTA2MDM5MDk1OCwyMTAzMjMwMTQsLTEwNzc4NTQ4
+NjIsMjEzMjM0NzA3OCwyODY0NjUzMzcsLTE2NzU5ODI1ODgsMT
+Q4MjkwODg0MCwzMjY2NTExMjUsLTIxNDM4NzE4NjQsNDQzNTk3
+NTc2LC0xMzA5MDIxMDkzLDY1NTIzOTY2NCwxNDAxMjAxMzc0LC
+0yMzAwNDM4MzgsLTEyNjk5MTk4MjcsLTIwNjQ4OTM1MTYsLTE3
+MjcyMjMxODhdfQ==
 -->
