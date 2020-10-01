@@ -224,6 +224,11 @@ Hay pegamentos utiles en el taller
 	* Para sellar roscas hidraulica y neumaticamente
 	* Por si la rosca que hiciste es una porqueria que no sella
 
+
+### Proteccion de piezas
+
+Para protejer una pieza del oxido afectando sus dimensiones de la menor manera hacemos cold 
+
 ## Limpieza y mantenimiento - WIP
 
 Es critico 
@@ -583,11 +588,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQyMTQ0MTEsLTE0MjU0NzIyNDUsLT
-IwOTM0NDgxNDMsLTE0MjM5OTk2MDUsMTIxODYzNTM2Miw2OTE1
-NDE0MDEsNTUwMjEwNDE1LDcxNjA0MzQ2NCwtMTIxMzQ5ODg5NC
-wtMTA2MDM5MDk1OCwyMTAzMjMwMTQsLTEwNzc4NTQ4NjIsMjEz
-MjM0NzA3OCwyODY0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4MjkwOD
-g0MCwzMjY2NTExMjUsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC0x
-MzA5MDIxMDkzXX0=
+eyJoaXN0b3J5IjpbNzQzNzAwMTIsLTE0MjU0NzIyNDUsLTIwOT
+M0NDgxNDMsLTE0MjM5OTk2MDUsMTIxODYzNTM2Miw2OTE1NDE0
+MDEsNTUwMjEwNDE1LDcxNjA0MzQ2NCwtMTIxMzQ5ODg5NCwtMT
+A2MDM5MDk1OCwyMTAzMjMwMTQsLTEwNzc4NTQ4NjIsMjEzMjM0
+NzA3OCwyODY0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4MjkwODg0MC
+wzMjY2NTExMjUsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC0xMzA5
+MDIxMDkzXX0=
 -->
