@@ -198,6 +198,7 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 * **Cutting fluid/aceite de corte**
 	* Para lubricar mientras maquinamos
 	* Para despejar chips
+	* El humo es **toxico**
 * **Grasa lubricante/grasa de litio**
 	* Lubricar dead centers de tail suports
 	* Lubricar change gears del torno
@@ -570,11 +571,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM0NDgxNDMsLTE0MjM5OTk2MDUsMT
-IxODYzNTM2Miw2OTE1NDE0MDEsNTUwMjEwNDE1LDcxNjA0MzQ2
-NCwtMTIxMzQ5ODg5NCwtMTA2MDM5MDk1OCwyMTAzMjMwMTQsLT
-EwNzc4NTQ4NjIsMjEzMjM0NzA3OCwyODY0NjUzMzcsLTE2NzU5
-ODI1ODgsMTQ4MjkwODg0MCwzMjY2NTExMjUsLTIxNDM4NzE4Nj
-QsNDQzNTk3NTc2LC0xMzA5MDIxMDkzLDY1NTIzOTY2NCwxNDAx
-MjAxMzc0XX0=
+eyJoaXN0b3J5IjpbLTE0MjU0NzIyNDUsLTIwOTM0NDgxNDMsLT
+E0MjM5OTk2MDUsMTIxODYzNTM2Miw2OTE1NDE0MDEsNTUwMjEw
+NDE1LDcxNjA0MzQ2NCwtMTIxMzQ5ODg5NCwtMTA2MDM5MDk1OC
+wyMTAzMjMwMTQsLTEwNzc4NTQ4NjIsMjEzMjM0NzA3OCwyODY0
+NjUzMzcsLTE2NzU5ODI1ODgsMTQ4MjkwODg0MCwzMjY2NTExMj
+UsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC0xMzA5MDIxMDkzLDY1
+NTIzOTY2NF19
 -->
