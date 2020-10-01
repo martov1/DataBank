@@ -461,13 +461,16 @@ Pasos:
 Identico a taps pero con un holder 
 
 ![](https://i.imgur.com/eAf5FFa.png)
+La principal preocupacion sera que el die "muerda" la pieza por primera vez
+
+
 ### Single point threading
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjkwODg0MCwzMjY2NTExMjUsLTIxND
-M4NzE4NjQsNDQzNTk3NTc2LC0xMzA5MDIxMDkzLDY1NTIzOTY2
-NCwxNDAxMjAxMzc0LC0yMzAwNDM4MzgsLTEyNjk5MTk4MjcsLT
-IwNjQ4OTM1MTYsLTE3MjcyMjMxODgsOTY3ODg1ODQyLC0xODYx
-MTA1ODI5LDE0Mzk3NDY1MzEsLTc4NTY2MDczMywxODY2MjYwMz
-I4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIzOTBdfQ==
-
+eyJoaXN0b3J5IjpbLTY3OTkwNTYxNiwxNDgyOTA4ODQwLDMyNj
+Y1MTEyNSwtMjE0Mzg3MTg2NCw0NDM1OTc1NzYsLTEzMDkwMjEw
+OTMsNjU1MjM5NjY0LDE0MDEyMDEzNzQsLTIzMDA0MzgzOCwtMT
+I2OTkxOTgyNywtMjA2NDg5MzUxNiwtMTcyNzIyMzE4OCw5Njc4
+ODU4NDIsLTE4NjExMDU4MjksMTQzOTc0NjUzMSwtNzg1NjYwNz
+MzLDE4NjYyNjAzMjgsLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5
+NjgzMjM5MF19
 -->
