@@ -445,15 +445,16 @@ La ventaja de usar un torno para usar un tap (que podriamos usar manualmente) es
 
 Pasos:
 *	Agujerear el agujero con el diametro correcto segun la tabla de roscas
+*	
 
 ### Dies
 
 ### Single point threading
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTg3ODcxMywtMTMwOTAyMTA5Myw2NT
-UyMzk2NjQsMTQwMTIwMTM3NCwtMjMwMDQzODM4LC0xMjY5OTE5
-ODI3LC0yMDY0ODkzNTE2LC0xNzI3MjIzMTg4LDk2Nzg4NTg0Mi
-wtMTg2MTEwNTgyOSwxNDM5NzQ2NTMxLC03ODU2NjA3MzMsMTg2
-NjI2MDMyOCwtMTYxMTE2MjMxNiwxMDY0NTEyMjQsODk2ODMyMz
-kwXX0=
+eyJoaXN0b3J5IjpbLTExNjg2NjYwOTMsLTEzMDkwMjEwOTMsNj
+U1MjM5NjY0LDE0MDEyMDEzNzQsLTIzMDA0MzgzOCwtMTI2OTkx
+OTgyNywtMjA2NDg5MzUxNiwtMTcyNzIyMzE4OCw5Njc4ODU4ND
+IsLTE4NjExMDU4MjksMTQzOTc0NjUzMSwtNzg1NjYwNzMzLDE4
+NjYyNjAzMjgsLTE2MTExNjIzMTYsMTA2NDUxMjI0LDg5NjgzMj
+M5MF19
 -->
