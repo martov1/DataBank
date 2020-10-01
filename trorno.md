@@ -183,6 +183,8 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 [fuente](https://www.youtube.com/watch?v=NrcDr2WO6Ho&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=21)
 
 ## Liquidos y quimicos - WIP
+[fuente](https://www.youtube.com/watch?v=x8tx-cBulno&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=22)
+
 
 ## Limpieza y mantenimiento - WIP
 
@@ -540,11 +542,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxNTQxNDAxLDU1MDIxMDQxNSw3MTYwND
-M0NjQsLTEyMTM0OTg4OTQsLTEwNjAzOTA5NTgsMjEwMzIzMDE0
-LC0xMDc3ODU0ODYyLDIxMzIzNDcwNzgsMjg2NDY1MzM3LC0xNj
-c1OTgyNTg4LDE0ODI5MDg4NDAsMzI2NjUxMTI1LC0yMTQzODcx
-ODY0LDQ0MzU5NzU3NiwtMTMwOTAyMTA5Myw2NTUyMzk2NjQsMT
-QwMTIwMTM3NCwtMjMwMDQzODM4LC0xMjY5OTE5ODI3LC0yMDY0
-ODkzNTE2XX0=
+eyJoaXN0b3J5IjpbLTEwNTMyMTAyNjgsNjkxNTQxNDAxLDU1MD
+IxMDQxNSw3MTYwNDM0NjQsLTEyMTM0OTg4OTQsLTEwNjAzOTA5
+NTgsMjEwMzIzMDE0LC0xMDc3ODU0ODYyLDIxMzIzNDcwNzgsMj
+g2NDY1MzM3LC0xNjc1OTgyNTg4LDE0ODI5MDg4NDAsMzI2NjUx
+MTI1LC0yMTQzODcxODY0LDQ0MzU5NzU3NiwtMTMwOTAyMTA5My
+w2NTUyMzk2NjQsMTQwMTIwMTM3NCwtMjMwMDQzODM4LC0xMjY5
+OTE5ODI3XX0=
 -->
