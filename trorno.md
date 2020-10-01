@@ -170,7 +170,7 @@ Para las ultimas milesimas directamente ajustas mas la mordaza a la que le falta
 El plata de 4 mordazas independientes tambien te permite agarrar objetos no cilindricos para hacer caras planas!
 
 ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/IpKQf07.png)
-
+## Feeds and speeds - WIP
 
 # Preparacion de la pieza
 ## Concentricity
@@ -468,11 +468,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NDY1MzM3LC0xNjc1OTgyNTg4LDE0OD
-I5MDg4NDAsMzI2NjUxMTI1LC0yMTQzODcxODY0LDQ0MzU5NzU3
-NiwtMTMwOTAyMTA5Myw2NTUyMzk2NjQsMTQwMTIwMTM3NCwtMj
-MwMDQzODM4LC0xMjY5OTE5ODI3LC0yMDY0ODkzNTE2LC0xNzI3
-MjIzMTg4LDk2Nzg4NTg0MiwtMTg2MTEwNTgyOSwxNDM5NzQ2NT
-MxLC03ODU2NjA3MzMsMTg2NjI2MDMyOCwtMTYxMTE2MjMxNiwx
-MDY0NTEyMjRdfQ==
+eyJoaXN0b3J5IjpbMjEzMjM0NzA3OCwyODY0NjUzMzcsLTE2Nz
+U5ODI1ODgsMTQ4MjkwODg0MCwzMjY2NTExMjUsLTIxNDM4NzE4
+NjQsNDQzNTk3NTc2LC0xMzA5MDIxMDkzLDY1NTIzOTY2NCwxND
+AxMjAxMzc0LC0yMzAwNDM4MzgsLTEyNjk5MTk4MjcsLTIwNjQ4
+OTM1MTYsLTE3MjcyMjMxODgsOTY3ODg1ODQyLC0xODYxMTA1OD
+I5LDE0Mzk3NDY1MzEsLTc4NTY2MDczMywxODY2MjYwMzI4LC0x
+NjExMTYyMzE2XX0=
 -->
