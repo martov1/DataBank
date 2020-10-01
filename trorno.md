@@ -204,6 +204,10 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 	* Lubricar cosas que son dificiles de acceder
 	* Lubricar rodamientos
 	* Acumula mugre (malo!)
+* **WD-40**
+	* Buen lubricante para aluminio y bronce
+	* Bueno como desengrasante y liq de limpieza
+* **Anchor lube**
 
 
 
@@ -566,11 +570,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM5OTk2MDUsMTIxODYzNTM2Miw2OT
-E1NDE0MDEsNTUwMjEwNDE1LDcxNjA0MzQ2NCwtMTIxMzQ5ODg5
-NCwtMTA2MDM5MDk1OCwyMTAzMjMwMTQsLTEwNzc4NTQ4NjIsMj
-EzMjM0NzA3OCwyODY0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4Mjkw
-ODg0MCwzMjY2NTExMjUsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC
-0xMzA5MDIxMDkzLDY1NTIzOTY2NCwxNDAxMjAxMzc0LC0yMzAw
-NDM4MzhdfQ==
+eyJoaXN0b3J5IjpbLTIwOTM0NDgxNDMsLTE0MjM5OTk2MDUsMT
+IxODYzNTM2Miw2OTE1NDE0MDEsNTUwMjEwNDE1LDcxNjA0MzQ2
+NCwtMTIxMzQ5ODg5NCwtMTA2MDM5MDk1OCwyMTAzMjMwMTQsLT
+EwNzc4NTQ4NjIsMjEzMjM0NzA3OCwyODY0NjUzMzcsLTE2NzU5
+ODI1ODgsMTQ4MjkwODg0MCwzMjY2NTExMjUsLTIxNDM4NzE4Nj
+QsNDQzNTk3NTc2LC0xMzA5MDIxMDkzLDY1NTIzOTY2NCwxNDAx
+MjAxMzc0XX0=
 -->
