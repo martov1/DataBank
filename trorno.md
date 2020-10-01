@@ -175,10 +175,7 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 
 ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/IpKQf07.png)
 
-
-## Steady rest
-
-Es un implemento para **Aumentar la rigidez** si la pieza es muy larga
+**
 
 
 ## Feeds and speeds - WIP
@@ -262,6 +259,12 @@ hay
 	* Giran con la pieza con rodamientos
 	* Son mas grandes
 	* Mas caros
+
+
+## Steady rest - WIP
+
+Es un implemento para **Aumentar la rigidez** si la pieza es muy larga y **no queremos usar un tail support**
+
 
 
 # Operaciones
@@ -493,11 +496,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzIzMDE0LC0xMDc3ODU0ODYyLDIxMz
-IzNDcwNzgsMjg2NDY1MzM3LC0xNjc1OTgyNTg4LDE0ODI5MDg4
-NDAsMzI2NjUxMTI1LC0yMTQzODcxODY0LDQ0MzU5NzU3NiwtMT
-MwOTAyMTA5Myw2NTUyMzk2NjQsMTQwMTIwMTM3NCwtMjMwMDQz
-ODM4LC0xMjY5OTE5ODI3LC0yMDY0ODkzNTE2LC0xNzI3MjIzMT
-g4LDk2Nzg4NTg0MiwtMTg2MTEwNTgyOSwxNDM5NzQ2NTMxLC03
-ODU2NjA3MzNdfQ==
+eyJoaXN0b3J5IjpbMTE3ODExNzM3MywyMTAzMjMwMTQsLTEwNz
+c4NTQ4NjIsMjEzMjM0NzA3OCwyODY0NjUzMzcsLTE2NzU5ODI1
+ODgsMTQ4MjkwODg0MCwzMjY2NTExMjUsLTIxNDM4NzE4NjQsND
+QzNTk3NTc2LC0xMzA5MDIxMDkzLDY1NTIzOTY2NCwxNDAxMjAx
+Mzc0LC0yMzAwNDM4MzgsLTEyNjk5MTk4MjcsLTIwNjQ4OTM1MT
+YsLTE3MjcyMjMxODgsOTY3ODg1ODQyLC0xODYxMTA1ODI5LDE0
+Mzk3NDY1MzFdfQ==
 -->
