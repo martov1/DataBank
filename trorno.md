@@ -210,7 +210,15 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 	* Bueno como desengrasante y liq de limpieza
 * **Anchor lube**
 
+### Pegamentos
 
+Hay pegamentos utiles en el taller
+
+* **loctite 603**
+	* Para pegar metales entre si, o asegurar assemblies
+	* Se despega con calor
+* **Loctite 242**
+	* Para fijar roscas en situaciones de alta vibracion
 
 ## Limpieza y mantenimiento - WIP
 
@@ -571,11 +579,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU0NzIyNDUsLTIwOTM0NDgxNDMsLT
-E0MjM5OTk2MDUsMTIxODYzNTM2Miw2OTE1NDE0MDEsNTUwMjEw
-NDE1LDcxNjA0MzQ2NCwtMTIxMzQ5ODg5NCwtMTA2MDM5MDk1OC
-wyMTAzMjMwMTQsLTEwNzc4NTQ4NjIsMjEzMjM0NzA3OCwyODY0
-NjUzMzcsLTE2NzU5ODI1ODgsMTQ4MjkwODg0MCwzMjY2NTExMj
-UsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC0xMzA5MDIxMDkzLDY1
-NTIzOTY2NF19
+eyJoaXN0b3J5IjpbLTU3NDc0NjU5OSwtMTQyNTQ3MjI0NSwtMj
+A5MzQ0ODE0MywtMTQyMzk5OTYwNSwxMjE4NjM1MzYyLDY5MTU0
+MTQwMSw1NTAyMTA0MTUsNzE2MDQzNDY0LC0xMjEzNDk4ODk0LC
+0xMDYwMzkwOTU4LDIxMDMyMzAxNCwtMTA3Nzg1NDg2MiwyMTMy
+MzQ3MDc4LDI4NjQ2NTMzNywtMTY3NTk4MjU4OCwxNDgyOTA4OD
+QwLDMyNjY1MTEyNSwtMjE0Mzg3MTg2NCw0NDM1OTc1NzYsLTEz
+MDkwMjEwOTNdfQ==
 -->
