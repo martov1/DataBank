@@ -174,6 +174,13 @@ Para las ultimas milesimas directamente ajustas mas la mordaza a la que le falta
 El plata de 4 mordazas independientes tambien te permite agarrar objetos no cilindricos para hacer caras planas!
 
 ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/IpKQf07.png)
+
+
+## Steady rest
+
+Es un implemento para **Aumentar la rigidez** si la pieza es muy larga
+
+
 ## Feeds and speeds - WIP
 
 [fuente](https://www.youtube.com/watch?v=NrcDr2WO6Ho&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=21)
@@ -486,11 +493,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTcwMTU0NjksLTEwNzc4NTQ4NjIsMj
-EzMjM0NzA3OCwyODY0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4Mjkw
-ODg0MCwzMjY2NTExMjUsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC
-0xMzA5MDIxMDkzLDY1NTIzOTY2NCwxNDAxMjAxMzc0LC0yMzAw
-NDM4MzgsLTEyNjk5MTk4MjcsLTIwNjQ4OTM1MTYsLTE3MjcyMj
-MxODgsOTY3ODg1ODQyLC0xODYxMTA1ODI5LDE0Mzk3NDY1MzEs
-LTc4NTY2MDczM119
+eyJoaXN0b3J5IjpbMjEwMzIzMDE0LC0xMDc3ODU0ODYyLDIxMz
+IzNDcwNzgsMjg2NDY1MzM3LC0xNjc1OTgyNTg4LDE0ODI5MDg4
+NDAsMzI2NjUxMTI1LC0yMTQzODcxODY0LDQ0MzU5NzU3NiwtMT
+MwOTAyMTA5Myw2NTUyMzk2NjQsMTQwMTIwMTM3NCwtMjMwMDQz
+ODM4LC0xMjY5OTE5ODI3LC0yMDY0ODkzNTE2LC0xNzI3MjIzMT
+g4LDk2Nzg4NTg0MiwtMTg2MTEwNTgyOSwxNDM5NzQ2NTMxLC03
+ODU2NjA3MzNdfQ==
 -->
