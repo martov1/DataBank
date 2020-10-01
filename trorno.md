@@ -235,6 +235,7 @@ Para protejer una pieza del oxido afectando sus dimensiones de la menor manera p
 * **Oiling**
 	* Requiere volver a aplicar periodicamente
 	* sucio
+* 
 
 ## Limpieza y mantenimiento - WIP
 
@@ -595,11 +596,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjkxMDE2NzgsLTQzMzA2MDU1NCwtMT
-QyNTQ3MjI0NSwtMjA5MzQ0ODE0MywtMTQyMzk5OTYwNSwxMjE4
-NjM1MzYyLDY5MTU0MTQwMSw1NTAyMTA0MTUsNzE2MDQzNDY0LC
-0xMjEzNDk4ODk0LC0xMDYwMzkwOTU4LDIxMDMyMzAxNCwtMTA3
-Nzg1NDg2MiwyMTMyMzQ3MDc4LDI4NjQ2NTMzNywtMTY3NTk4Mj
-U4OCwxNDgyOTA4ODQwLDMyNjY1MTEyNSwtMjE0Mzg3MTg2NCw0
-NDM1OTc1NzZdfQ==
+eyJoaXN0b3J5IjpbLTIwMTAyMDc5MTAsLTE4MjkxMDE2NzgsLT
+QzMzA2MDU1NCwtMTQyNTQ3MjI0NSwtMjA5MzQ0ODE0MywtMTQy
+Mzk5OTYwNSwxMjE4NjM1MzYyLDY5MTU0MTQwMSw1NTAyMTA0MT
+UsNzE2MDQzNDY0LC0xMjEzNDk4ODk0LC0xMDYwMzkwOTU4LDIx
+MDMyMzAxNCwtMTA3Nzg1NDg2MiwyMTMyMzQ3MDc4LDI4NjQ2NT
+MzNywtMTY3NTk4MjU4OCwxNDgyOTA4ODQwLDMyNjY1MTEyNSwt
+MjE0Mzg3MTg2NF19
 -->
