@@ -263,6 +263,8 @@ hay
 
 ## Steady rest - WIP
 
+[fuente](https://www.youtube.com/watch?v=J02ricbIIvc&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=24)
+
 Es un implemento para **Aumentar la rigidez** si la pieza es muy larga y **no queremos usar un tail support** por que
 
 * La pieza es tan larga que usando un tail support no nos entra en el torno
@@ -518,11 +520,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MDQzNDY0LC0xMjEzNDk4ODk0LC0xMD
-YwMzkwOTU4LDIxMDMyMzAxNCwtMTA3Nzg1NDg2MiwyMTMyMzQ3
-MDc4LDI4NjQ2NTMzNywtMTY3NTk4MjU4OCwxNDgyOTA4ODQwLD
-MyNjY1MTEyNSwtMjE0Mzg3MTg2NCw0NDM1OTc1NzYsLTEzMDkw
-MjEwOTMsNjU1MjM5NjY0LDE0MDEyMDEzNzQsLTIzMDA0MzgzOC
-wtMTI2OTkxOTgyNywtMjA2NDg5MzUxNiwtMTcyNzIyMzE4OCw5
-Njc4ODU4NDJdfQ==
+eyJoaXN0b3J5IjpbLTIwNDQzNTY0MDAsNzE2MDQzNDY0LC0xMj
+EzNDk4ODk0LC0xMDYwMzkwOTU4LDIxMDMyMzAxNCwtMTA3Nzg1
+NDg2MiwyMTMyMzQ3MDc4LDI4NjQ2NTMzNywtMTY3NTk4MjU4OC
+wxNDgyOTA4ODQwLDMyNjY1MTEyNSwtMjE0Mzg3MTg2NCw0NDM1
+OTc1NzYsLTEzMDkwMjEwOTMsNjU1MjM5NjY0LDE0MDEyMDEzNz
+QsLTIzMDA0MzgzOCwtMTI2OTkxOTgyNywtMjA2NDg5MzUxNiwt
+MTcyNzIyMzE4OF19
 -->
