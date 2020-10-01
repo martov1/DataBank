@@ -246,6 +246,8 @@ Para protejer una pieza del oxido afectando sus dimensiones de la menor manera p
 * **Acetona**
 	* Limpieza general y desengrasado
 	* INFLAMABLE, mantener lejos de chispas
+* **Agua jabonosa**
+	* Para encontrar fugas de aire en roscas
 
 ## Limpieza y mantenimiento - WIP
 
@@ -606,7 +608,7 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTg1ODcyNiwtMTgyOTEwMTY3OCwtND
+eyJoaXN0b3J5IjpbMTA4MTE1NDY0MywtMTgyOTEwMTY3OCwtND
 MzMDYwNTU0LC0xNDI1NDcyMjQ1LC0yMDkzNDQ4MTQzLC0xNDIz
 OTk5NjA1LDEyMTg2MzUzNjIsNjkxNTQxNDAxLDU1MDIxMDQxNS
 w3MTYwNDM0NjQsLTEyMTM0OTg4OTQsLTEwNjAzOTA5NTgsMjEw
