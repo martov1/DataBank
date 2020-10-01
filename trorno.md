@@ -195,7 +195,7 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 	* Proteje del oxido
 ![](https://i.imgur.com/cBYqz01.png)
 	* Se puede usar en casi todo
-* **Cutting fluid**
+* **Cutting fluid/aceite de corte**
 	* 
 
 
@@ -559,11 +559,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODYzNTM2Miw2OTE1NDE0MDEsNTUwMj
-EwNDE1LDcxNjA0MzQ2NCwtMTIxMzQ5ODg5NCwtMTA2MDM5MDk1
-OCwyMTAzMjMwMTQsLTEwNzc4NTQ4NjIsMjEzMjM0NzA3OCwyOD
-Y0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4MjkwODg0MCwzMjY2NTEx
-MjUsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC0xMzA5MDIxMDkzLD
-Y1NTIzOTY2NCwxNDAxMjAxMzc0LC0yMzAwNDM4MzgsLTEyNjk5
-MTk4MjddfQ==
+eyJoaXN0b3J5IjpbLTgzOTg2NjE4OCwxMjE4NjM1MzYyLDY5MT
+U0MTQwMSw1NTAyMTA0MTUsNzE2MDQzNDY0LC0xMjEzNDk4ODk0
+LC0xMDYwMzkwOTU4LDIxMDMyMzAxNCwtMTA3Nzg1NDg2MiwyMT
+MyMzQ3MDc4LDI4NjQ2NTMzNywtMTY3NTk4MjU4OCwxNDgyOTA4
+ODQwLDMyNjY1MTEyNSwtMjE0Mzg3MTg2NCw0NDM1OTc1NzYsLT
+EzMDkwMjEwOTMsNjU1MjM5NjY0LDE0MDEyMDEzNzQsLTIzMDA0
+MzgzOF19
 -->
