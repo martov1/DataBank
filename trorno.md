@@ -72,6 +72,11 @@ Para agrandar agujeros internos
 ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/7GrpJat.png)
 ## Herramientas de tapping y dies  - WIP
 
+
+### Taps - WIP
+
+* **Ridiculamente** duras
+
 ## Material - WIP
 Tienen las mismas caracteristicas en cuanto al material que las herramientas de fresa.
 
@@ -448,14 +453,17 @@ Pasos:
 *	asegurar la pieza y el tap
 *	Girar la pieza manualmente mientras se presiona ligeramiente con el tap, evitando que el tap se mueva de alguna manera
 
+![](https://i.imgur.com/WejRYkb.png)
+
+
 ### Dies
 
 ### Single point threading
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNTk3NTc2LC0xMzA5MDIxMDkzLDY1NT
-IzOTY2NCwxNDAxMjAxMzc0LC0yMzAwNDM4MzgsLTEyNjk5MTk4
-MjcsLTIwNjQ4OTM1MTYsLTE3MjcyMjMxODgsOTY3ODg1ODQyLC
-0xODYxMTA1ODI5LDE0Mzk3NDY1MzEsLTc4NTY2MDczMywxODY2
-MjYwMzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNCw4OTY4MzIzOT
-BdfQ==
+eyJoaXN0b3J5IjpbMTQwNjUwMTY3Niw0NDM1OTc1NzYsLTEzMD
+kwMjEwOTMsNjU1MjM5NjY0LDE0MDEyMDEzNzQsLTIzMDA0Mzgz
+OCwtMTI2OTkxOTgyNywtMjA2NDg5MzUxNiwtMTcyNzIyMzE4OC
+w5Njc4ODU4NDIsLTE4NjExMDU4MjksMTQzOTc0NjUzMSwtNzg1
+NjYwNzMzLDE4NjYyNjAzMjgsLTE2MTExNjIzMTYsMTA2NDUxMj
+I0LDg5NjgzMjM5MF19
 -->
