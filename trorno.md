@@ -461,12 +461,14 @@ Pasos:
 Identico a taps pero con un holder 
 
 ![](https://i.imgur.com/eAf5FFa.png)
-La principal preocupacion sera que el die "muerda" la pieza por primera vez
+La principal preocupacion sera que el die "muerda" la pieza por primera vez. Para facilitarlo 
+* hacemos un taper en la punta
+* reducimos el diametro 
 
 
 ### Single point threading
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTkwNTYxNiwxNDgyOTA4ODQwLDMyNj
+eyJoaXN0b3J5IjpbLTE5MTgzNDg2MiwxNDgyOTA4ODQwLDMyNj
 Y1MTEyNSwtMjE0Mzg3MTg2NCw0NDM1OTc1NzYsLTEzMDkwMjEw
 OTMsNjU1MjM5NjY0LDE0MDEyMDEzNzQsLTIzMDA0MzgzOCwtMT
 I2OTkxOTgyNywtMjA2NDg5MzUxNiwtMTcyNzIyMzE4OCw5Njc4
