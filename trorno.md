@@ -217,8 +217,12 @@ Hay pegamentos utiles en el taller
 * **loctite 603**
 	* Para pegar metales entre si, o asegurar assemblies
 	* Se despega con calor
+	* Por si hiciste mal las dimensiones
 * **Loctite 242**
 	* Para fijar roscas en situaciones de alta vibracion
+* **Loctite 545**
+	* Para sellar roscas hidraulica y neumaticamente
+	* Por si la rosca que hiciste es una porqueria que no sella
 
 ## Limpieza y mantenimiento - WIP
 
@@ -579,11 +583,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDc0NjU5OSwtMTQyNTQ3MjI0NSwtMj
-A5MzQ0ODE0MywtMTQyMzk5OTYwNSwxMjE4NjM1MzYyLDY5MTU0
-MTQwMSw1NTAyMTA0MTUsNzE2MDQzNDY0LC0xMjEzNDk4ODk0LC
-0xMDYwMzkwOTU4LDIxMDMyMzAxNCwtMTA3Nzg1NDg2MiwyMTMy
-MzQ3MDc4LDI4NjQ2NTMzNywtMTY3NTk4MjU4OCwxNDgyOTA4OD
-QwLDMyNjY1MTEyNSwtMjE0Mzg3MTg2NCw0NDM1OTc1NzYsLTEz
-MDkwMjEwOTNdfQ==
+eyJoaXN0b3J5IjpbLTExOTQyMTQ0MTEsLTE0MjU0NzIyNDUsLT
+IwOTM0NDgxNDMsLTE0MjM5OTk2MDUsMTIxODYzNTM2Miw2OTE1
+NDE0MDEsNTUwMjEwNDE1LDcxNjA0MzQ2NCwtMTIxMzQ5ODg5NC
+wtMTA2MDM5MDk1OCwyMTAzMjMwMTQsLTEwNzc4NTQ4NjIsMjEz
+MjM0NzA3OCwyODY0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4MjkwOD
+g0MCwzMjY2NTExMjUsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC0x
+MzA5MDIxMDkzXX0=
 -->
