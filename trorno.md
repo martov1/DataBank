@@ -261,19 +261,18 @@ hay
 	* Mas caros
 
 
-## Steady rest - WIP
+## Steady rest
 
 [fuente](https://www.youtube.com/watch?v=J02ricbIIvc&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=24)
 
 Es un implemento para **Aumentar la rigidez** si la pieza es muy larga y **no queremos usar un tail support** por que
-
 * La pieza es tan larga que usando un tail support no nos entra en el torno
 * queremos trabajar la cara donde iria apoyado el tail support
 
 Para usar un steady rest **necesitas**
 * Una **superficie maquinada** en la pieza sobre la cual se apoye el rest.
 
-
+>**SEGURIDAD:** Un steady rest puede agarrar dedos y ropa, man
 
 **PASOS PREVIOS:**
 * **SI HAY ESPACIO PARA UN TAIL SUPPORT**
@@ -303,6 +302,8 @@ Para usar un steady rest **necesitas**
 ![](https://i.imgur.com/jCBCpxb.png)
 * Aceitar el lugar de la pieza donde tocan los rodillos
 * Si tenes chatter, ajustar un poquitito mas hasta que desaparezca
+* Mantener buena lubricacion
+* **MANTENER DOEDOS LEJOS DEL APARATO EN OPERACION**
 
 # Operaciones
 
@@ -533,7 +534,7 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTYzODM2Miw3MTYwNDM0NjQsLTEyMT
+eyJoaXN0b3J5IjpbLTQ0Mzc5NDM3NCw3MTYwNDM0NjQsLTEyMT
 M0OTg4OTQsLTEwNjAzOTA5NTgsMjEwMzIzMDE0LC0xMDc3ODU0
 ODYyLDIxMzIzNDcwNzgsMjg2NDY1MzM3LC0xNjc1OTgyNTg4LD
 E0ODI5MDg4NDAsMzI2NjUxMTI1LC0yMTQzODcxODY0LDQ0MzU5
