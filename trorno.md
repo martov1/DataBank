@@ -291,7 +291,13 @@ Para usar un steady rest **necesitas**
 			* Con Taladro de banco (corriendo la mesita y agarrando la pieza con un sargento al costado de la mesita)
 
 
+![](https://i.imgur.com/VaZpUmf.png)
 
+
+**PASOS DE COLOCACION:**
+
+* Colocar el carro porta herramientas del lado del que vas a maquinar
+* Colocar el steady rest sobre 
 
 # Operaciones
 
@@ -522,7 +528,7 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTc5MDg5NCw3MTYwNDM0NjQsLTEyMT
+eyJoaXN0b3J5IjpbMTk3NDAyNzA3Niw3MTYwNDM0NjQsLTEyMT
 M0OTg4OTQsLTEwNjAzOTA5NTgsMjEwMzIzMDE0LC0xMDc3ODU0
 ODYyLDIxMzIzNDcwNzgsMjg2NDY1MzM3LC0xNjc1OTgyNTg4LD
 E0ODI5MDg4NDAsMzI2NjUxMTI1LC0yMTQzODcxODY0LDQ0MzU5
