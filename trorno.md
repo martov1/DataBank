@@ -284,7 +284,9 @@ Para usar un steady rest **necesitas**
 * **SI NO HAY ESPACIO PARA UN TAIL SUPPORT**
 	* Aproximas el centro con un center finder
 		* Lo marcas con un center punch
-		* Agujerear co
+		* Agujerear con un **center drill**
+			* con taladro de mano 
+			* Con Taladro de banco (corriendo la mesita y agarrando la pieza con un sargento al costado de la mesita)
 
 
 # Operaciones
@@ -516,11 +518,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODQyODEwMCwtMTIxMzQ5ODg5NCwtMT
-A2MDM5MDk1OCwyMTAzMjMwMTQsLTEwNzc4NTQ4NjIsMjEzMjM0
-NzA3OCwyODY0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4MjkwODg0MC
-wzMjY2NTExMjUsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC0xMzA5
-MDIxMDkzLDY1NTIzOTY2NCwxNDAxMjAxMzc0LC0yMzAwNDM4Mz
-gsLTEyNjk5MTk4MjcsLTIwNjQ4OTM1MTYsLTE3MjcyMjMxODgs
-OTY3ODg1ODQyXX0=
+eyJoaXN0b3J5IjpbNzE2MDQzNDY0LC0xMjEzNDk4ODk0LC0xMD
+YwMzkwOTU4LDIxMDMyMzAxNCwtMTA3Nzg1NDg2MiwyMTMyMzQ3
+MDc4LDI4NjQ2NTMzNywtMTY3NTk4MjU4OCwxNDgyOTA4ODQwLD
+MyNjY1MTEyNSwtMjE0Mzg3MTg2NCw0NDM1OTc1NzYsLTEzMDkw
+MjEwOTMsNjU1MjM5NjY0LDE0MDEyMDEzNzQsLTIzMDA0MzgzOC
+wtMTI2OTkxOTgyNywtMjA2NDg5MzUxNiwtMTcyNzIyMzE4OCw5
+Njc4ODU4NDJdfQ==
 -->
