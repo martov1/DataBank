@@ -97,6 +97,8 @@ Tienen las mismas caracteristicas en cuanto al material que las herramientas de 
 
 # Consideraciones-WIP
 
+
+
 ### Tool holder -WIP
 
 Se trata de una parte que sostiene la herramienta y permite ajustar su altura
@@ -178,16 +180,17 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 
 ## Liquidos y quimicos - WIP
 
-
-
-
-# Preparacion de la pieza
-
-## Limpieza
+## Limpieza y mantenimiento - WIP
 
 Es critico 
 * **limpiar los rieles del torno** para que no se arruinen las superficies de precisio
 * **Lubricar** el torno despues de cada uso
+
+
+# Preparacion de la pieza
+
+
+
 ## Concentricity de la pieza
 
 [fuente](https://www.youtube.com/watch?v=MofsvIIKx3k&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=8)
@@ -483,11 +486,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4ODkwNzY5LC0xMDc3ODU0ODYyLDIxMz
-IzNDcwNzgsMjg2NDY1MzM3LC0xNjc1OTgyNTg4LDE0ODI5MDg4
-NDAsMzI2NjUxMTI1LC0yMTQzODcxODY0LDQ0MzU5NzU3NiwtMT
-MwOTAyMTA5Myw2NTUyMzk2NjQsMTQwMTIwMTM3NCwtMjMwMDQz
-ODM4LC0xMjY5OTE5ODI3LC0yMDY0ODkzNTE2LC0xNzI3MjIzMT
-g4LDk2Nzg4NTg0MiwtMTg2MTEwNTgyOSwxNDM5NzQ2NTMxLC03
-ODU2NjA3MzNdfQ==
+eyJoaXN0b3J5IjpbLTE5MTcwMTU0NjksLTEwNzc4NTQ4NjIsMj
+EzMjM0NzA3OCwyODY0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4Mjkw
+ODg0MCwzMjY2NTExMjUsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC
+0xMzA5MDIxMDkzLDY1NTIzOTY2NCwxNDAxMjAxMzc0LC0yMzAw
+NDM4MzgsLTEyNjk5MTk4MjcsLTIwNjQ4OTM1MTYsLTE3MjcyMj
+MxODgsOTY3ODg1ODQyLC0xODYxMTA1ODI5LDE0Mzk3NDY1MzEs
+LTc4NTY2MDczM119
 -->
