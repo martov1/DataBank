@@ -304,8 +304,9 @@ Para usar un steady rest **necesitas**
 * Si tenes chatter, ajustar un poquitito mas hasta que desaparezca
 * Mantener buena lubricacion
 * Si la precision lo amerita y la pieza esta maquinada (osea que es concentrica), **Corroborar que se mantiene la concentricidad**
-	* Usando un comparador, ver que da el mismo valor a lo largo de toda la pieza
-	![](https://i.imgur.com/WuidUhj.png)
+	* Usando un comparador, ver que da el mismo valor a lo largo de toda la pieza en ambos costados
+![](https://i.imgur.com/WuidUhj.png)
+![](https://i.imgur.com/zBAHNzF.png)
 * **MANTENER DOEDOS LEJOS DEL APARATO EN OPERACION**
 
 # Operaciones
@@ -537,7 +538,7 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NDc1NjI4LDcxNjA0MzQ2NCwtMTIxMz
+eyJoaXN0b3J5IjpbNTUwMjEwNDE1LDcxNjA0MzQ2NCwtMTIxMz
 Q5ODg5NCwtMTA2MDM5MDk1OCwyMTAzMjMwMTQsLTEwNzc4NTQ4
 NjIsMjEzMjM0NzA3OCwyODY0NjUzMzcsLTE2NzU5ODI1ODgsMT
 Q4MjkwODg0MCwzMjY2NTExMjUsLTIxNDM4NzE4NjQsNDQzNTk3
