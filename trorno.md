@@ -92,7 +92,10 @@ Tienen las mismas caracteristicas en cuanto al material que las herramientas de 
 
 ## Angulos  - WIP
 
-## Fabricacio de herramientas
+## Fabricacio de herramientas - WIP
+
+
+
 
 # Consideraciones-WIP
 
@@ -607,11 +610,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDM5NTA3OSwxNzM2NjI3Mzk1LC0xOD
-I5MTAxNjc4LC00MzMwNjA1NTQsLTE0MjU0NzIyNDUsLTIwOTM0
-NDgxNDMsLTE0MjM5OTk2MDUsMTIxODYzNTM2Miw2OTE1NDE0MD
-EsNTUwMjEwNDE1LDcxNjA0MzQ2NCwtMTIxMzQ5ODg5NCwtMTA2
-MDM5MDk1OCwyMTAzMjMwMTQsLTEwNzc4NTQ4NjIsMjEzMjM0Nz
-A3OCwyODY0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4MjkwODg0MCwz
-MjY2NTExMjVdfQ==
+eyJoaXN0b3J5IjpbNjEzNDU2NDI0LDEyMDQzOTUwNzksMTczNj
+YyNzM5NSwtMTgyOTEwMTY3OCwtNDMzMDYwNTU0LC0xNDI1NDcy
+MjQ1LC0yMDkzNDQ4MTQzLC0xNDIzOTk5NjA1LDEyMTg2MzUzNj
+IsNjkxNTQxNDAxLDU1MDIxMDQxNSw3MTYwNDM0NjQsLTEyMTM0
+OTg4OTQsLTEwNjAzOTA5NTgsMjEwMzIzMDE0LC0xMDc3ODU0OD
+YyLDIxMzIzNDcwNzgsMjg2NDY1MzM3LC0xNjc1OTgyNTg4LDE0
+ODI5MDg4NDBdfQ==
 -->
