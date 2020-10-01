@@ -185,6 +185,11 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 ## Liquidos y quimicos - WIP
 [fuente](https://www.youtube.com/watch?v=x8tx-cBulno&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=22)
 
+### Lubricantes
+
+* **way oil ISO 68**
+
+
 
 ## Limpieza y mantenimiento - WIP
 
@@ -542,11 +547,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMyMTAyNjgsNjkxNTQxNDAxLDU1MD
-IxMDQxNSw3MTYwNDM0NjQsLTEyMTM0OTg4OTQsLTEwNjAzOTA5
-NTgsMjEwMzIzMDE0LC0xMDc3ODU0ODYyLDIxMzIzNDcwNzgsMj
-g2NDY1MzM3LC0xNjc1OTgyNTg4LDE0ODI5MDg4NDAsMzI2NjUx
-MTI1LC0yMTQzODcxODY0LDQ0MzU5NzU3NiwtMTMwOTAyMTA5My
-w2NTUyMzk2NjQsMTQwMTIwMTM3NCwtMjMwMDQzODM4LC0xMjY5
-OTE5ODI3XX0=
+eyJoaXN0b3J5IjpbMjE0MTgxODU4NSw2OTE1NDE0MDEsNTUwMj
+EwNDE1LDcxNjA0MzQ2NCwtMTIxMzQ5ODg5NCwtMTA2MDM5MDk1
+OCwyMTAzMjMwMTQsLTEwNzc4NTQ4NjIsMjEzMjM0NzA3OCwyOD
+Y0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4MjkwODg0MCwzMjY2NTEx
+MjUsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC0xMzA5MDIxMDkzLD
+Y1NTIzOTY2NCwxNDAxMjAxMzc0LC0yMzAwNDM4MzgsLTEyNjk5
+MTk4MjddfQ==
 -->
