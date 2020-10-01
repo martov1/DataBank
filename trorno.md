@@ -272,7 +272,7 @@ Es un implemento para **Aumentar la rigidez** si la pieza es muy larga y **no qu
 Para usar un steady rest **necesitas**
 * Una **superficie maquinada** en la pieza sobre la cual se apoye el rest.
 
->**SEGURIDAD:** Un steady rest puede agarrar dedos y ropa, man
+>**SEGURIDAD:** Un steady rest puede agarrar dedos y ropa, mantener las manos lejos del dispositivo en operacion
 
 **PASOS PREVIOS:**
 * **SI HAY ESPACIO PARA UN TAIL SUPPORT**
@@ -534,7 +534,7 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Mzc5NDM3NCw3MTYwNDM0NjQsLTEyMT
+eyJoaXN0b3J5IjpbMTI4NjgyMjE5Miw3MTYwNDM0NjQsLTEyMT
 M0OTg4OTQsLTEwNjAzOTA5NTgsMjEwMzIzMDE0LC0xMDc3ODU0
 ODYyLDIxMzIzNDcwNzgsMjg2NDY1MzM3LC0xNjc1OTgyNTg4LD
 E0ODI5MDg4NDAsMzI2NjUxMTI1LC0yMTQzODcxODY0LDQ0MzU5
