@@ -21,6 +21,8 @@ https://www.youtube.com/watch?v=bvJhRtRR7rk
 
 #### Parting tools
 
+[fuente](https://www.youtube.com/watch?v=5LtYzjR1JuM)
+
 Son herramientas para dividir la pieza en pedazos, 
 * **NO** son herramientas de corte de un solo punto, sino que son herramientas de forma
 * Pueden ser de acero rapido o de inserto de carbide
@@ -563,7 +565,7 @@ Tener en cuenta
 	* Bloquear el carro porta herramientas
 	* Estar lo mas cerca posible del plato
 ![](https://i.imgur.com/jdicmQC.png)
-	* Usar el menor largo posible de herramienta ![](https://i.imgur.com/2tGwmCO.png)
+	* Usar el menor largo posible de herramienta para mas rigidez![](https://i.imgur.com/2tGwmCO.png)
 	* **Altura** del filo alineada perfectamente con el eje del torno, **NUNCA  jamas debe estar debajo del centro**
 ![](https://i.imgur.com/ADQPa6P.png)
 * **Perpendicularidad perfecta** a lapieza 
@@ -605,11 +607,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjYyNzM5NSwtMTgyOTEwMTY3OCwtND
-MzMDYwNTU0LC0xNDI1NDcyMjQ1LC0yMDkzNDQ4MTQzLC0xNDIz
-OTk5NjA1LDEyMTg2MzUzNjIsNjkxNTQxNDAxLDU1MDIxMDQxNS
-w3MTYwNDM0NjQsLTEyMTM0OTg4OTQsLTEwNjAzOTA5NTgsMjEw
-MzIzMDE0LC0xMDc3ODU0ODYyLDIxMzIzNDcwNzgsMjg2NDY1Mz
-M3LC0xNjc1OTgyNTg4LDE0ODI5MDg4NDAsMzI2NjUxMTI1LC0y
-MTQzODcxODY0XX0=
+eyJoaXN0b3J5IjpbMTIwNDM5NTA3OSwxNzM2NjI3Mzk1LC0xOD
+I5MTAxNjc4LC00MzMwNjA1NTQsLTE0MjU0NzIyNDUsLTIwOTM0
+NDgxNDMsLTE0MjM5OTk2MDUsMTIxODYzNTM2Miw2OTE1NDE0MD
+EsNTUwMjEwNDE1LDcxNjA0MzQ2NCwtMTIxMzQ5ODg5NCwtMTA2
+MDM5MDk1OCwyMTAzMjMwMTQsLTEwNzc4NTQ4NjIsMjEzMjM0Nz
+A3OCwyODY0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4MjkwODg0MCwz
+MjY2NTExMjVdfQ==
 -->
