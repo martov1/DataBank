@@ -190,6 +190,9 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 * **way oil ISO 68**
 	* El lubricante mas comun en el taller
 	* Se suele colocar en aceiteras por que viene en tachos grandes
+	* Se usa con aceitera para lubricar las maquinas con ball bearings
+	* Se usa para lubricar la bancada del torno
+![](https://i.imgur.com/cBYqz01.png)
 
 
 
@@ -549,11 +552,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzMDc1NTAxLDY5MTU0MTQwMSw1NTAyMT
-A0MTUsNzE2MDQzNDY0LC0xMjEzNDk4ODk0LC0xMDYwMzkwOTU4
-LDIxMDMyMzAxNCwtMTA3Nzg1NDg2MiwyMTMyMzQ3MDc4LDI4Nj
-Q2NTMzNywtMTY3NTk4MjU4OCwxNDgyOTA4ODQwLDMyNjY1MTEy
-NSwtMjE0Mzg3MTg2NCw0NDM1OTc1NzYsLTEzMDkwMjEwOTMsNj
-U1MjM5NjY0LDE0MDEyMDEzNzQsLTIzMDA0MzgzOCwtMTI2OTkx
-OTgyN119
+eyJoaXN0b3J5IjpbMTc2NTk4MTE4Myw2OTE1NDE0MDEsNTUwMj
+EwNDE1LDcxNjA0MzQ2NCwtMTIxMzQ5ODg5NCwtMTA2MDM5MDk1
+OCwyMTAzMjMwMTQsLTEwNzc4NTQ4NjIsMjEzMjM0NzA3OCwyOD
+Y0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4MjkwODg0MCwzMjY2NTEx
+MjUsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC0xMzA5MDIxMDkzLD
+Y1NTIzOTY2NCwxNDAxMjAxMzc0LC0yMzAwNDM4MzgsLTEyNjk5
+MTk4MjddfQ==
 -->
