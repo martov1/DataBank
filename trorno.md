@@ -197,6 +197,7 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 	* Se puede usar en casi todo
 * **Cutting fluid/aceite de corte**
 	* 
+	* 
 
 
 
@@ -559,7 +560,7 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTg2NjE4OCwxMjE4NjM1MzYyLDY5MT
+eyJoaXN0b3J5IjpbMjAzNDA0MDAyMCwxMjE4NjM1MzYyLDY5MT
 U0MTQwMSw1NTAyMTA0MTUsNzE2MDQzNDY0LC0xMjEzNDk4ODk0
 LC0xMDYwMzkwOTU4LDIxMDMyMzAxNCwtMTA3Nzg1NDg2MiwyMT
 MyMzQ3MDc4LDI4NjQ2NTMzNywtMTY3NTk4MjU4OCwxNDgyOTA4
