@@ -196,8 +196,11 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 ![](https://i.imgur.com/cBYqz01.png)
 	* Se puede usar en casi todo
 * **Cutting fluid/aceite de corte**
-	* 
-	* 
+	* Para lubricar mientras maquinamos
+* **Grasa lubricante/grasa de litio**
+	* Lubricar dead centers de tail suports
+	* Lubricar change gears del torno
+	* Lubricar 
 
 
 
@@ -560,7 +563,7 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDA0MDAyMCwxMjE4NjM1MzYyLDY5MT
+eyJoaXN0b3J5IjpbLTgyMjg0NDcxNiwxMjE4NjM1MzYyLDY5MT
 U0MTQwMSw1NTAyMTA0MTUsNzE2MDQzNDY0LC0xMjEzNDk4ODk0
 LC0xMDYwMzkwOTU4LDIxMDMyMzAxNCwtMTA3Nzg1NDg2MiwyMT
 MyMzQ3MDc4LDI4NjQ2NTMzNywtMTY3NTk4MjU4OCwxNDgyOTA4
