@@ -466,13 +466,13 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 * reducimos el diametro aprox $0.127mm$ por debajo del diametro recomendado
 
 
-### Single point threading
+### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzU5ODI1ODgsMTQ4MjkwODg0MCwzMj
-Y2NTExMjUsLTIxNDM4NzE4NjQsNDQzNTk3NTc2LC0xMzA5MDIx
-MDkzLDY1NTIzOTY2NCwxNDAxMjAxMzc0LC0yMzAwNDM4MzgsLT
-EyNjk5MTk4MjcsLTIwNjQ4OTM1MTYsLTE3MjcyMjMxODgsOTY3
-ODg1ODQyLC0xODYxMTA1ODI5LDE0Mzk3NDY1MzEsLTc4NTY2MD
-czMywxODY2MjYwMzI4LC0xNjExMTYyMzE2LDEwNjQ1MTIyNCw4
-OTY4MzIzOTBdfQ==
+eyJoaXN0b3J5IjpbMjg2NDY1MzM3LC0xNjc1OTgyNTg4LDE0OD
+I5MDg4NDAsMzI2NjUxMTI1LC0yMTQzODcxODY0LDQ0MzU5NzU3
+NiwtMTMwOTAyMTA5Myw2NTUyMzk2NjQsMTQwMTIwMTM3NCwtMj
+MwMDQzODM4LC0xMjY5OTE5ODI3LC0yMDY0ODkzNTE2LC0xNzI3
+MjIzMTg4LDk2Nzg4NTg0MiwtMTg2MTEwNTgyOSwxNDM5NzQ2NT
+MxLC03ODU2NjA3MzMsMTg2NjI2MDMyOCwtMTYxMTE2MjMxNiwx
+MDY0NTEyMjRdfQ==
 -->
