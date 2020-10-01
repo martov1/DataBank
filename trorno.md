@@ -1,6 +1,3 @@
-**VER**
-https://www.youtube.com/watch?v=H6Dnmd3lDzA&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN
-
 **Ver**
 
 https://www.youtube.com/watch?v=DQ4yKKXdvng&list=PL2935W76vRNGZaLzcqvAjcIblmrIVQIzj
@@ -608,7 +605,7 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTE1NDY0MywtMTgyOTEwMTY3OCwtND
+eyJoaXN0b3J5IjpbMTczNjYyNzM5NSwtMTgyOTEwMTY3OCwtND
 MzMDYwNTU0LC0xNDI1NDcyMjQ1LC0yMDkzNDQ4MTQzLC0xNDIz
 OTk5NjA1LDEyMTg2MzUzNjIsNjkxNTQxNDAxLDU1MDIxMDQxNS
 w3MTYwNDM0NjQsLTEyMTM0OTg4OTQsLTEwNjAzOTA5NTgsMjEw
