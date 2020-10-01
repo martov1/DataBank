@@ -188,6 +188,8 @@ El plata de 4 mordazas independientes tambien te permite agarrar objetos no cili
 ### Lubricantes
 
 * **way oil ISO 68**
+	* El lubricante mas comun en el taller
+	* Se sue
 
 
 
@@ -547,7 +549,7 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTgxODU4NSw2OTE1NDE0MDEsNTUwMj
+eyJoaXN0b3J5IjpbLTM3OTE0MzE5Myw2OTE1NDE0MDEsNTUwMj
 EwNDE1LDcxNjA0MzQ2NCwtMTIxMzQ5ODg5NCwtMTA2MDM5MDk1
 OCwyMTAzMjMwMTQsLTEwNzc4NTQ4NjIsMjEzMjM0NzA3OCwyOD
 Y0NjUzMzcsLTE2NzU5ODI1ODgsMTQ4MjkwODg0MCwzMjY2NTEx
