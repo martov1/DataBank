@@ -268,7 +268,8 @@ Es un implemento para **Aumentar la rigidez** si la pieza es muy larga y **no qu
 * La pieza es tan larga que usando un tail support no nos entra en el torno
 * queremos trabajar la cara donde iria apoyado el tail support
 
-Para usar un steady rest 
+Para usar un steady rest **necesitas**
+* Una **superficie maquinada** en la pieza sobre la cual se apoye el rest.
 
 
 
@@ -501,11 +502,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU2NjYxMTksMjEwMzIzMDE0LC0xMD
-c3ODU0ODYyLDIxMzIzNDcwNzgsMjg2NDY1MzM3LC0xNjc1OTgy
-NTg4LDE0ODI5MDg4NDAsMzI2NjUxMTI1LC0yMTQzODcxODY0LD
-Q0MzU5NzU3NiwtMTMwOTAyMTA5Myw2NTUyMzk2NjQsMTQwMTIw
-MTM3NCwtMjMwMDQzODM4LC0xMjY5OTE5ODI3LC0yMDY0ODkzNT
-E2LC0xNzI3MjIzMTg4LDk2Nzg4NTg0MiwtMTg2MTEwNTgyOSwx
-NDM5NzQ2NTMxXX0=
+eyJoaXN0b3J5IjpbNjA0NDgwNjQ3LDIxMDMyMzAxNCwtMTA3Nz
+g1NDg2MiwyMTMyMzQ3MDc4LDI4NjQ2NTMzNywtMTY3NTk4MjU4
+OCwxNDgyOTA4ODQwLDMyNjY1MTEyNSwtMjE0Mzg3MTg2NCw0ND
+M1OTc1NzYsLTEzMDkwMjEwOTMsNjU1MjM5NjY0LDE0MDEyMDEz
+NzQsLTIzMDA0MzgzOCwtMTI2OTkxOTgyNywtMjA2NDg5MzUxNi
+wtMTcyNzIyMzE4OCw5Njc4ODU4NDIsLTE4NjExMDU4MjksMTQz
+OTc0NjUzMV19
 -->
