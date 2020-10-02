@@ -46,6 +46,12 @@ G18; Usar el plano XZ
 G99;  
 G50 S500; Configurar una velocidad maxima, no usar la del programa anterior!
 ```
+
+## Offsets
+
+### Tool nose radious comp
+
+
 ## Canned cycles
 
 ### G72 -Rougth   Facing
@@ -160,8 +166,9 @@ G0 X3 Z.1;
 G70 P100 Q110;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTk0OTMzMywxMzYxNTc5MTE0LC0xMj
-M5MzAxMTU5LC0zNTk1MjI0OTksMTY2NzEwNDg4NiwxNDQxMDIz
-NjkyLDE5NTYyMzA0MTIsLTE2NDYzNTQ0NzQsLTI3MjM3NjgxNS
-wtMjA3NzY5MDE0MCwtNDUwMzgyMTU3XX0=
+eyJoaXN0b3J5IjpbLTE0OTI1MjkxNzcsLTY4MTk0OTMzMywxMz
+YxNTc5MTE0LC0xMjM5MzAxMTU5LC0zNTk1MjI0OTksMTY2NzEw
+NDg4NiwxNDQxMDIzNjkyLDE5NTYyMzA0MTIsLTE2NDYzNTQ0Nz
+QsLTI3MjM3NjgxNSwtMjA3NzY5MDE0MCwtNDUwMzgyMTU3XX0=
+
 -->
