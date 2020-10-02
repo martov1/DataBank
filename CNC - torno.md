@@ -125,8 +125,9 @@ N110 X3
 ### Rougthing cycle interno
 
 ![](https://i.imgur.com/MmznR15.png)
+Igual al externo, pero lo programamos con path desde un agujero central y hacia afuera
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzEwNDg4NiwxNDQxMDIzNjkyLDE5NT
-YyMzA0MTIsLTE2NDYzNTQ0NzQsLTI3MjM3NjgxNSwtMjA3NzY5
-MDE0MCwtNDUwMzgyMTU3XX0=
+eyJoaXN0b3J5IjpbLTE1Mjk4MjIxNTcsMTY2NzEwNDg4NiwxND
+QxMDIzNjkyLDE5NTYyMzA0MTIsLTE2NDYzNTQ0NzQsLTI3MjM3
+NjgxNSwtMjA3NzY5MDE0MCwtNDUwMzgyMTU3XX0=
 -->
