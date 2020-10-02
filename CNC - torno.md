@@ -97,17 +97,17 @@ N300 G0 X70.0 Z5.0 F200;
 
  
 Igual que G72 pero en vez de facing (desde afuera hacia adentro) es  turning
-
-* `U` profundidad de cada pasada
-* 
+* Primera linea
+	* `U` profundidad de cada pasada
+	* `R` Cuanto alejarse de la pieza despues de la pasada
 
 ```
 G0 X3 Z.1;Distancia segura a la que volver
-G71 U R; Prof x pass. y retract.
+G71 U1 R1; Prof x pass. y retract.
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0OTMxODA2LC0xNjQ2MzU0NDc0LC0yNz
-IzNzY4MTUsLTIwNzc2OTAxNDAsLTQ1MDM4MjE1N119
+eyJoaXN0b3J5IjpbMTk1NjIzMDQxMiwtMTY0NjM1NDQ3NCwtMj
+cyMzc2ODE1LC0yMDc3NjkwMTQwLC00NTAzODIxNTddfQ==
 -->
