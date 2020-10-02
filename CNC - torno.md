@@ -109,11 +109,16 @@ Igual que G72 pero en vez de facing (desde afuera hacia adentro) es  turning
 G0 X3 Z.1;Distancia segura a la que volver
 G71 U1 R1; Prof x pass. y retract.
 G71 P100 Q110 U0.2 W0.05 F0.2
+N100 G0 X0 Z1
+G1 Z-1 
+G1 X1 
+G1 Z-1
+G1 X1.5
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTI5ODY5MCwxOTU2MjMwNDEyLC0xNj
-Q2MzU0NDc0LC0yNzIzNzY4MTUsLTIwNzc2OTAxNDAsLTQ1MDM4
-MjE1N119
+eyJoaXN0b3J5IjpbOTM5MTk3ODkwLDE5NTYyMzA0MTIsLTE2ND
+YzNTQ0NzQsLTI3MjM3NjgxNSwtMjA3NzY5MDE0MCwtNDUwMzgy
+MTU3XX0=
 -->
