@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=DQ4yKKXdvng&list=PL2935W76vRNGZaLzcqvAjcIblmrIVQIzj
 
+**Toolbits**
+https://www.youtube.com/watch?v=__A2xtLF0AU&t=195s
 
 **Parting tool**
 https://www.youtube.com/watch?v=5LtYzjR1JuM
@@ -610,11 +612,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzE3NTQzNyw2MTM0NTY0MjQsMTIwND
-M5NTA3OSwxNzM2NjI3Mzk1LC0xODI5MTAxNjc4LC00MzMwNjA1
-NTQsLTE0MjU0NzIyNDUsLTIwOTM0NDgxNDMsLTE0MjM5OTk2MD
-UsMTIxODYzNTM2Miw2OTE1NDE0MDEsNTUwMjEwNDE1LDcxNjA0
-MzQ2NCwtMTIxMzQ5ODg5NCwtMTA2MDM5MDk1OCwyMTAzMjMwMT
-QsLTEwNzc4NTQ4NjIsMjEzMjM0NzA3OCwyODY0NjUzMzcsLTE2
-NzU5ODI1ODhdfQ==
+eyJoaXN0b3J5IjpbMTA4NDIwMDYxMSwtMjYzMTc1NDM3LDYxMz
+Q1NjQyNCwxMjA0Mzk1MDc5LDE3MzY2MjczOTUsLTE4MjkxMDE2
+NzgsLTQzMzA2MDU1NCwtMTQyNTQ3MjI0NSwtMjA5MzQ0ODE0My
+wtMTQyMzk5OTYwNSwxMjE4NjM1MzYyLDY5MTU0MTQwMSw1NTAy
+MTA0MTUsNzE2MDQzNDY0LC0xMjEzNDk4ODk0LC0xMDYwMzkwOT
+U4LDIxMDMyMzAxNCwtMTA3Nzg1NDg2MiwyMTMyMzQ3MDc4LDI4
+NjQ2NTMzN119
 -->
