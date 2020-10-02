@@ -95,7 +95,7 @@ N300 G0 X70.0 Z5.0 F200;
 
 ![](https://i.imgur.com/ovFbqMn.png)
 
-
+ 
 Igual que G72 pero en vez de facing (desde afuera hacia adentro) es a lo largo.
 
 * `U` profundidad de cada pasada
@@ -108,6 +108,6 @@ G71 U R; Prof x pass. y retract.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDYzNTQ0NzQsLTI3MjM3NjgxNSwtMj
-A3NzY5MDE0MCwtNDUwMzgyMTU3XX0=
+eyJoaXN0b3J5IjpbMTYwMDQwOTk4NiwtMTY0NjM1NDQ3NCwtMj
+cyMzc2ODE1LC0yMDc3NjkwMTQwLC00NTAzODIxNTddfQ==
 -->
