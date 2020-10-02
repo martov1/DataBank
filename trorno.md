@@ -94,7 +94,7 @@ Tienen las mismas caracteristicas en cuanto al material que las herramientas de 
 
 ## Angulos  - WIP
 
-## Fabricacio de herramientas - WIP
+## Fabricacion de herramientas - WIP
 
 
 
@@ -290,7 +290,7 @@ Con un medidor de distancia  verificas que al girar la pieza siempre tenes la mi
 * La pieza en si misma no esta derecha
 	* **Solucion:** Turning
 
-## Tail support - WIP
+## Tail support
 
 #### Criterio y colocacion
 
@@ -584,7 +584,7 @@ Tener en cuenta
 
 
 
-## Tapping -WIP
+## Tapping
 
 [fuente](https://www.youtube.com/watch?v=WRuJ3k0V-fA&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN&index=17)
 
@@ -612,11 +612,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ### Single point threading - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDIwMDYxMSwtMjYzMTc1NDM3LDYxMz
-Q1NjQyNCwxMjA0Mzk1MDc5LDE3MzY2MjczOTUsLTE4MjkxMDE2
-NzgsLTQzMzA2MDU1NCwtMTQyNTQ3MjI0NSwtMjA5MzQ0ODE0My
-wtMTQyMzk5OTYwNSwxMjE4NjM1MzYyLDY5MTU0MTQwMSw1NTAy
-MTA0MTUsNzE2MDQzNDY0LC0xMjEzNDk4ODk0LC0xMDYwMzkwOT
-U4LDIxMDMyMzAxNCwtMTA3Nzg1NDg2MiwyMTMyMzQ3MDc4LDI4
-NjQ2NTMzN119
+eyJoaXN0b3J5IjpbMTA4NTc5Nzk1NywxMDg0MjAwNjExLC0yNj
+MxNzU0MzcsNjEzNDU2NDI0LDEyMDQzOTUwNzksMTczNjYyNzM5
+NSwtMTgyOTEwMTY3OCwtNDMzMDYwNTU0LC0xNDI1NDcyMjQ1LC
+0yMDkzNDQ4MTQzLC0xNDIzOTk5NjA1LDEyMTg2MzUzNjIsNjkx
+NTQxNDAxLDU1MDIxMDQxNSw3MTYwNDM0NjQsLTEyMTM0OTg4OT
+QsLTEwNjAzOTA5NTgsMjEwMzIzMDE0LC0xMDc3ODU0ODYyLDIx
+MzIzNDcwNzhdfQ==
 -->
