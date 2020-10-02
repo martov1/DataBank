@@ -48,7 +48,11 @@ G50 S500; Configurar una velocidad maxima, no usar la del programa anterior!
 
 ### G72 -Rougth   Facing
 
+
+
 Se usa para hacer un frentado grueso
+
+![](https://i.imgur.com/HaEzuja.png)
 
 * Primero nos colocamos a una **altura segura** usando $G0$
  * luego procedemos a llamar a $G72$ configurando todos los **parametros para el ciclo**
@@ -101,6 +105,6 @@ G71 U R; Prof x pass. y retract.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzc2OTAxNDAsLTIwNzc2OTAxNDAsLT
-Q1MDM4MjE1N119
+eyJoaXN0b3J5IjpbLTI3MjM3NjgxNSwtMjA3NzY5MDE0MCwtND
+UwMzgyMTU3XX0=
 -->
