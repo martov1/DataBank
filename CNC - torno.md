@@ -52,7 +52,7 @@ G50 S500; Configurar una velocidad maxima, no usar la del programa anterior!
 ### Tool nose radious comp
 
 Los insertos o herramientas tienen un radio en la punta (no son perfectamente punteagudos) para hacer que el filo sea mas ancho y resistente, y asi evitar que se parta
-
+![](https://i.imgur.com/Sx1OjjT.png)
 
 
 
@@ -170,9 +170,9 @@ G0 X3 Z.1;
 G70 P100 Q110;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDI3NDU3NCwtNjgxOTQ5MzMzLDEzNj
-E1NzkxMTQsLTEyMzkzMDExNTksLTM1OTUyMjQ5OSwxNjY3MTA0
-ODg2LDE0NDEwMjM2OTIsMTk1NjIzMDQxMiwtMTY0NjM1NDQ3NC
-wtMjcyMzc2ODE1LC0yMDc3NjkwMTQwLC00NTAzODIxNTddfQ==
-
+eyJoaXN0b3J5IjpbLTEwNDEyOTczMTIsLTUxMDI3NDU3NCwtNj
+gxOTQ5MzMzLDEzNjE1NzkxMTQsLTEyMzkzMDExNTksLTM1OTUy
+MjQ5OSwxNjY3MTA0ODg2LDE0NDEwMjM2OTIsMTk1NjIzMDQxMi
+wtMTY0NjM1NDQ3NCwtMjcyMzc2ODE1LC0yMDc3NjkwMTQwLC00
+NTAzODIxNTddfQ==
 -->
