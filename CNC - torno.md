@@ -93,6 +93,8 @@ N300 G0 X70.0 Z5.0 F200;
 
 ### G71 - Rougth turning cycle
 
+### Rougthing cycle diametro externo
+
 ![](https://i.imgur.com/ovFbqMn.png)
 
  
@@ -120,9 +122,11 @@ G1 Z-2.3
 N110 X3
 ```
 
+### Rougthing cycle interno
 
+![](https://i.imgur.com/MmznR15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTAyMzY5MiwxOTU2MjMwNDEyLC0xNj
-Q2MzU0NDc0LC0yNzIzNzY4MTUsLTIwNzc2OTAxNDAsLTQ1MDM4
-MjE1N119
+eyJoaXN0b3J5IjpbMTY2NzEwNDg4NiwxNDQxMDIzNjkyLDE5NT
+YyMzA0MTIsLTE2NDYzNTQ0NzQsLTI3MjM3NjgxNSwtMjA3NzY5
+MDE0MCwtNDUwMzgyMTU3XX0=
 -->
