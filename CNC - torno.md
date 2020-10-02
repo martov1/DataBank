@@ -129,9 +129,9 @@ N110 X3
 * Igual al externo, pero
 	*  programamos con path ($G1$) desde un agujero central y hacia afuera
 	* La posicion inicial sera **dentro del agujero inicial**
-	* 
+	* `U` y `w` van a usar el signo opuesto (por que "dejar material" en coordenadas desde adentro va a llevar el signo opuesto)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTgzMTQxMywxNjY3MTA0ODg2LDE0ND
+eyJoaXN0b3J5IjpbLTM1OTUyMjQ5OSwxNjY3MTA0ODg2LDE0ND
 EwMjM2OTIsMTk1NjIzMDQxMiwtMTY0NjM1NDQ3NCwtMjcyMzc2
 ODE1LC0yMDc3NjkwMTQwLC00NTAzODIxNTddfQ==
 -->
