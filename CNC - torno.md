@@ -134,9 +134,11 @@ N110 X3
 ### G70 - Finishing cycle
 
 Sirve para hacer la terminacion del rougthing hecho con $G71$ o $G72$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkzMDExNTksLTM1OTUyMjQ5OSwxNj
-Y3MTA0ODg2LDE0NDEwMjM2OTIsMTk1NjIzMDQxMiwtMTY0NjM1
-NDQ3NCwtMjcyMzc2ODE1LC0yMDc3NjkwMTQwLC00NTAzODIxNT
-ddfQ==
+eyJoaXN0b3J5IjpbNDM3NDMyODUsLTEyMzkzMDExNTksLTM1OT
+UyMjQ5OSwxNjY3MTA0ODg2LDE0NDEwMjM2OTIsMTk1NjIzMDQx
+MiwtMTY0NjM1NDQ3NCwtMjcyMzc2ODE1LC0yMDc3NjkwMTQwLC
+00NTAzODIxNTddfQ==
 -->
