@@ -93,7 +93,7 @@ N300 G0 X70.0 Z5.0 F200;
 
 ### G71 - Rougth turning cycle
 
-### Rougthing cycle diametro externo
+#### Rougthing cycle diametro externo
 
 ![](https://i.imgur.com/ovFbqMn.png)
 
@@ -122,16 +122,21 @@ G1 Z-2.3
 N110 X3
 ```
 
-### Rougthing cycle interno
+#### Rougthing cycle interno
 
 ![](https://i.imgur.com/MmznR15.png)
 
-* Igual al externo, pero
+* I**gual al externo, pero**
 	*  programamos con path ($G1$) desde un agujero central y hacia afuera
 	* La posicion inicial sera **dentro del agujero inicial**
 	* `U` y `w` van a usar el signo opuesto (por que "dejar material" en coordenadas desde adentro va a llevar el signo opuesto)
+
+### G70 - Finishing cycle
+
+Sirve para hacer la terminacion del rougthing hecho con $G71$ o $G72$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTUyMjQ5OSwxNjY3MTA0ODg2LDE0ND
-EwMjM2OTIsMTk1NjIzMDQxMiwtMTY0NjM1NDQ3NCwtMjcyMzc2
-ODE1LC0yMDc3NjkwMTQwLC00NTAzODIxNTddfQ==
+eyJoaXN0b3J5IjpbLTEyMzkzMDExNTksLTM1OTUyMjQ5OSwxNj
+Y3MTA0ODg2LDE0NDEwMjM2OTIsMTk1NjIzMDQxMiwtMTY0NjM1
+NDQ3NCwtMjcyMzc2ODE1LC0yMDc3NjkwMTQwLC00NTAzODIxNT
+ddfQ==
 -->
