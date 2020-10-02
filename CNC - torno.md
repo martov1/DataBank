@@ -135,10 +135,25 @@ N110 X3
 
 Sirve para hacer la terminacion del rougthing hecho con $G71$ o $G72$
 
+Se trata de un concepto super sencillo.
+Llamamos a $G70$ indicandole que paths terminar, son los mismos paths  que indicamos a $G70$/$G71$
 
+
+
+```
+(HACES UN ROUGTHING CYCLE)
+G0 X3 Z.1;
+G71 U1 R1;
+G71 P100 Q110 U0.2 W0.05 F0.2
+N100 G0 X0 Z1
+G1 Z-1 
+G1 Z-2.3
+N110 X3
+G70 P100 Q110; ()
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3NDMyODUsLTEyMzkzMDExNTksLTM1OT
-UyMjQ5OSwxNjY3MTA0ODg2LDE0NDEwMjM2OTIsMTk1NjIzMDQx
-MiwtMTY0NjM1NDQ3NCwtMjcyMzc2ODE1LC0yMDc3NjkwMTQwLC
-00NTAzODIxNTddfQ==
+eyJoaXN0b3J5IjpbLTIxNDA2NDA1NDEsLTEyMzkzMDExNTksLT
+M1OTUyMjQ5OSwxNjY3MTA0ODg2LDE0NDEwMjM2OTIsMTk1NjIz
+MDQxMiwtMTY0NjM1NDQ3NCwtMjcyMzc2ODE1LC0yMDc3NjkwMT
+QwLC00NTAzODIxNTddfQ==
 -->
