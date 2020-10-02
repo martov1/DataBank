@@ -2,6 +2,9 @@
 **afianzar  G71/G72**
 https://www.youtube.com/watch?v=0_GiMspK0pc
 
+**Tooltip radious**
+https://www.youtube.com/watch?v=nqnSMoqgGV4
+
 # Coordennadas
 
 El torno CNC es en general una maquina de dos ejes, $X Z$
@@ -170,9 +173,9 @@ G0 X3 Z.1;
 G70 P100 Q110;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDEyOTczMTIsLTUxMDI3NDU3NCwtNj
-gxOTQ5MzMzLDEzNjE1NzkxMTQsLTEyMzkzMDExNTksLTM1OTUy
-MjQ5OSwxNjY3MTA0ODg2LDE0NDEwMjM2OTIsMTk1NjIzMDQxMi
-wtMTY0NjM1NDQ3NCwtMjcyMzc2ODE1LC0yMDc3NjkwMTQwLC00
-NTAzODIxNTddfQ==
+eyJoaXN0b3J5IjpbLTE3ODc1NjQ0ODUsLTEwNDEyOTczMTIsLT
+UxMDI3NDU3NCwtNjgxOTQ5MzMzLDEzNjE1NzkxMTQsLTEyMzkz
+MDExNTksLTM1OTUyMjQ5OSwxNjY3MTA0ODg2LDE0NDEwMjM2OT
+IsMTk1NjIzMDQxMiwtMTY0NjM1NDQ3NCwtMjcyMzc2ODE1LC0y
+MDc3NjkwMTQwLC00NTAzODIxNTddfQ==
 -->
