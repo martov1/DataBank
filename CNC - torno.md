@@ -51,6 +51,10 @@ G50 S500; Configurar una velocidad maxima, no usar la del programa anterior!
 
 ### Tool nose radious comp
 
+Los insertos o herramientas tienen un radio en la punta (no son perfectamente punteagudos) para hacer que el filo sea mas ancho y resistente, y asi evitar que se parta
+
+
+
 
 ## Canned cycles
 
@@ -166,9 +170,9 @@ G0 X3 Z.1;
 G70 P100 Q110;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI1MjkxNzcsLTY4MTk0OTMzMywxMz
-YxNTc5MTE0LC0xMjM5MzAxMTU5LC0zNTk1MjI0OTksMTY2NzEw
-NDg4NiwxNDQxMDIzNjkyLDE5NTYyMzA0MTIsLTE2NDYzNTQ0Nz
-QsLTI3MjM3NjgxNSwtMjA3NzY5MDE0MCwtNDUwMzgyMTU3XX0=
+eyJoaXN0b3J5IjpbLTUxMDI3NDU3NCwtNjgxOTQ5MzMzLDEzNj
+E1NzkxMTQsLTEyMzkzMDExNTksLTM1OTUyMjQ5OSwxNjY3MTA0
+ODg2LDE0NDEwMjM2OTIsMTk1NjIzMDQxMiwtMTY0NjM1NDQ3NC
+wtMjcyMzc2ODE1LC0yMDc3NjkwMTQwLC00NTAzODIxNTddfQ==
 
 -->
