@@ -102,7 +102,8 @@ Igual que G72 pero en vez de facing (desde afuera hacia adentro) es  turning
 	* `R` Cuanto alejarse de la pieza despues de la pasada
 * **Segunda linea**
 	* `P` y `Q` lineas de inicio y fin de ciclo
-	* `U` y `W` cuand
+	* `U` y `W` cuanto dejar en $X$ y $Z$ respectivamente para un finishing pass
+	* `F` feed rate
 
 ```
 G0 X3 Z.1;Distancia segura a la que volver
@@ -112,7 +113,7 @@ G71 P100 Q110 U0.2 W0.05 F0.2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NDY2MzUxLDE5NTYyMzA0MTIsLTE2ND
-YzNTQ0NzQsLTI3MjM3NjgxNSwtMjA3NzY5MDE0MCwtNDUwMzgy
-MTU3XX0=
+eyJoaXN0b3J5IjpbMTk4OTI5ODY5MCwxOTU2MjMwNDEyLC0xNj
+Q2MzU0NDc0LC0yNzIzNzY4MTUsLTIwNzc2OTAxNDAsLTQ1MDM4
+MjE1N119
 -->
