@@ -63,7 +63,7 @@ Se usa para hacer un frentado grueso
 	* `W` Profundidad del corte en **cada passada**
 	* `R` cantidad de mm a la que retraerse antes de volver a arrancar el corte
 * **Parametros de la segunda linea**
-	* `U` Cantidad que dejar para una finishing pass despues, en eje  $Z$ (para facing sera $0$)
+	* `U` Cantidad que dejar para una finishing pass despues, en eje  $X$ (para facing sera $0$)
 	* `W` cantidad que dejar para finishing pass en eje  $Z$
 	* `P`  linea $N$ donde empezar la operacion
 	* `Q`linea $N$ donde terminar la operacion
@@ -101,6 +101,6 @@ G71 U R; Prof x pass. y retract.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Nzc1NzE1OCwtMjA3NzY5MDE0MCwtND
-UwMzgyMTU3XX0=
+eyJoaXN0b3J5IjpbLTIwNzc2OTAxNDAsLTIwNzc2OTAxNDAsLT
+Q1MDM4MjE1N119
 -->
