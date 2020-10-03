@@ -2,6 +2,9 @@
 **Lathe tool offsets**
 https://www.youtube.com/watch?v=zYthYyopw24
 
+**Lathe and tool offsets**
+https://www.youtube.com/watch?v=0cIixGo0Nsg
+
 
 **afianzar  G71/G72**
 https://www.youtube.com/watch?v=0_GiMspK0pc
@@ -179,10 +182,10 @@ G0 X3 Z.1;
 G70 P100 Q110;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Mzg5MDIxOCwyMDc4MzMyNDI5LDIxMj
-I0NzA2MywtMTc4NzU2NDQ4NSwtMTA0MTI5NzMxMiwtNTEwMjc0
-NTc0LC02ODE5NDkzMzMsMTM2MTU3OTExNCwtMTIzOTMwMTE1OS
-wtMzU5NTIyNDk5LDE2NjcxMDQ4ODYsMTQ0MTAyMzY5MiwxOTU2
-MjMwNDEyLC0xNjQ2MzU0NDc0LC0yNzIzNzY4MTUsLTIwNzc2OT
-AxNDAsLTQ1MDM4MjE1N119
+eyJoaXN0b3J5IjpbNTY3OTcwNjY2LC05NTM4OTAyMTgsMjA3OD
+MzMjQyOSwyMTIyNDcwNjMsLTE3ODc1NjQ0ODUsLTEwNDEyOTcz
+MTIsLTUxMDI3NDU3NCwtNjgxOTQ5MzMzLDEzNjE1NzkxMTQsLT
+EyMzkzMDExNTksLTM1OTUyMjQ5OSwxNjY3MTA0ODg2LDE0NDEw
+MjM2OTIsMTk1NjIzMDQxMiwtMTY0NjM1NDQ3NCwtMjcyMzc2OD
+E1LC0yMDc3NjkwMTQwLC00NTAzODIxNTddfQ==
 -->
