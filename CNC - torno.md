@@ -53,7 +53,7 @@ G50 S500; Configurar una velocidad maxima, no usar la del programa anterior!
 ## Offsets
 
 ### Tool nose radious comp
-
+[fuente](https://www.allaboutcncs.com/cnc-lathe-cutter-radius-compensation-quick-guide/)
 Los insertos o herramientas tienen un radio en la punta (no son perfectamente punteagudos) para hacer que el filo sea mas ancho y resistente, y asi evitar que se parta
 ![](https://i.imgur.com/Sx1OjjT.png)
 
@@ -175,9 +175,10 @@ G0 X3 Z.1;
 G70 P100 Q110;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjQ3MDYzLC0xNzg3NTY0NDg1LC0xMD
-QxMjk3MzEyLC01MTAyNzQ1NzQsLTY4MTk0OTMzMywxMzYxNTc5
-MTE0LC0xMjM5MzAxMTU5LC0zNTk1MjI0OTksMTY2NzEwNDg4Ni
-wxNDQxMDIzNjkyLDE5NTYyMzA0MTIsLTE2NDYzNTQ0NzQsLTI3
-MjM3NjgxNSwtMjA3NzY5MDE0MCwtNDUwMzgyMTU3XX0=
+eyJoaXN0b3J5IjpbMjA3ODMzMjQyOSwyMTIyNDcwNjMsLTE3OD
+c1NjQ0ODUsLTEwNDEyOTczMTIsLTUxMDI3NDU3NCwtNjgxOTQ5
+MzMzLDEzNjE1NzkxMTQsLTEyMzkzMDExNTksLTM1OTUyMjQ5OS
+wxNjY3MTA0ODg2LDE0NDEwMjM2OTIsMTk1NjIzMDQxMiwtMTY0
+NjM1NDQ3NCwtMjcyMzc2ODE1LC0yMDc3NjkwMTQwLC00NTAzOD
+IxNTddfQ==
 -->
