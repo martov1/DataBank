@@ -292,7 +292,7 @@ Con un medidor de distancia  verificas que al girar la pieza siempre tenes la mi
 * La pieza en si misma no esta derecha
 	* **Solucion:** Turning
 
-## Tail support
+## Tail support - contrapunto
 
 #### Criterio y colocacion
 
@@ -616,11 +616,11 @@ La principal preocupacion sera que el die "muerda" la pieza por primera vez. Par
 
 ## knurling - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxMTU1MzU0LDEwODU3OTc5NTcsMTA4ND
-IwMDYxMSwtMjYzMTc1NDM3LDYxMzQ1NjQyNCwxMjA0Mzk1MDc5
-LDE3MzY2MjczOTUsLTE4MjkxMDE2NzgsLTQzMzA2MDU1NCwtMT
-QyNTQ3MjI0NSwtMjA5MzQ0ODE0MywtMTQyMzk5OTYwNSwxMjE4
-NjM1MzYyLDY5MTU0MTQwMSw1NTAyMTA0MTUsNzE2MDQzNDY0LC
-0xMjEzNDk4ODk0LC0xMDYwMzkwOTU4LDIxMDMyMzAxNCwtMTA3
-Nzg1NDg2Ml19
+eyJoaXN0b3J5IjpbNTc4MTUwNDc0LDYyMTE1NTM1NCwxMDg1Nz
+k3OTU3LDEwODQyMDA2MTEsLTI2MzE3NTQzNyw2MTM0NTY0MjQs
+MTIwNDM5NTA3OSwxNzM2NjI3Mzk1LC0xODI5MTAxNjc4LC00Mz
+MwNjA1NTQsLTE0MjU0NzIyNDUsLTIwOTM0NDgxNDMsLTE0MjM5
+OTk2MDUsMTIxODYzNTM2Miw2OTE1NDE0MDEsNTUwMjEwNDE1LD
+cxNjA0MzQ2NCwtMTIxMzQ5ODg5NCwtMTA2MDM5MDk1OCwyMTAz
+MjMwMTRdfQ==
 -->
