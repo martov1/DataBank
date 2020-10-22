@@ -731,10 +731,13 @@ $$\dot{E_m}= \dot{m}(h+\frac{V^2}{2}+gz)$$
 En estos sistemas las variables $V,m,E$ etc permanecen constantes, lo que cambia es la materia que entra y la que sale
 
 
-Entonces si tenemos un sistema con movimiento de materia
+Entonces si tenemos un sistema con movimiento de materia pero sin variacion de las demas variables
 
-$$\Delta U = \not{q} - \not{w} + E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
-$\dot{E}_{\text{materia entrante}}-\dot{E}_{\text{materia saliente}}=\frac{de}{dt}$
+$$\Delta U = \sout{q} - \sout{w} + E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
+$$\Delta U =  E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
+
+Notamos que el cambio de energia por unidad de tiempo entonces sera 
+$\dot{E}_{\text{materia entrante}}-\dot{E}_{\text{materia saliente}}=\frac{du}{dt}$
 
 
 ## Segunda ley
@@ -757,7 +760,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTE1MjkyMSwtMTgzMzMzNTEsMTMzOT
-Y4NTMzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5
-OSwtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTExMjE2Njg3MzQsLTE4MzMzMzUxLDEzMz
+k2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMz
+OTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
 -->
