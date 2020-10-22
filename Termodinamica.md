@@ -721,11 +721,11 @@ $$E_m= PV+U+E_c+E_p$$
 $$E_m= H+E_c+E_p$$
 
 **Recordamos** que $E_c=\frac{mv^2}{2}$ y $E_p=mgz$, reemplazando 
-$$E_m= m(h+\frac{V^2}{2}+gz)$$
+$$\fbox{$E_m= m(h+\frac{V^2}{2}+gz)$}$$
 >(notemos que la entalpia absoluta $H$ pasa a ser entalpia especifica $h$)
 
 **Podemos** verlo sobre unidad de tiempo
-$$E_m= m(h+\frac{V^2}{2}+gz)$$
+$$\dot{E_m}= \dot{m}(h+\frac{V^2}{2}+gz)$$
 
 
 ## Segunda ley
@@ -748,7 +748,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjI1MjQxNzgsMTMzOTY4NTMzLDEwOT
-A5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcy
-NTcyLDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTE4MzMzMzUxLDEzMzk2ODUzMywxMDkwOT
+k4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMzOTksLTY0MTk3MjU3
+MiwxMTkyNzQ1NjgwXX0=
 -->
