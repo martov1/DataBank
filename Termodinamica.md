@@ -716,7 +716,13 @@ Donde
 **Recordamos** que el trabajo que genera un fluido es $w=PV$ entonces
 $$E_m= PV+U+E_c+E_p$$
 
-**Recordamos** que la entalpia es $$
+**Recordamos** que la entalpia es $H=U+PV$, reemplazando
+
+$$E_m= H+E_c+E_p$$
+
+**Recordamos** que $E_c=\frac{mv^2}{2}$ y $E_p=mgz$, reemplazando
+$$E_m= H+E_c+E_p$$
+
 
 
 ## Segunda ley
@@ -739,7 +745,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjc0OTcyOCwxMzM5Njg1MzMsMTA5MD
+eyJoaXN0b3J5IjpbMTYwNDEyMzgzNiwxMzM5Njg1MzMsMTA5MD
 k5ODY0OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5LC02NDE5NzI1
 NzIsMTE5Mjc0NTY4MF19
 -->
