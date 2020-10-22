@@ -703,8 +703,12 @@ alternativamente
 
 $$\Delta U = \Delta q -  \Delta w + \Delta E_m$$
 
-En un sistema 
+Podemos definir la energia que tiene la masa como
 
+$$E_m= w +U+E_c+E_p$$
+
+Recordamos que el trabajo que genera un fluido es $w=PV$
+$$E_m= PV+U+E_c+E_p$$
 
 
 ## Segunda ley
@@ -727,7 +731,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM5ODc4OTEsMTMzOTY4NTMzLDEwOT
-A5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcy
-NTcyLDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbMzQwOTU5NzYsMTMzOTY4NTMzLDEwOTA5OT
+g2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcyNTcy
+LDExOTI3NDU2ODBdfQ==
 -->
