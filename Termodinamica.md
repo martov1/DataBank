@@ -728,6 +728,8 @@ $$\fbox{$E_m= m(h+\frac{V^2}{2}+gz)$}$$
 $$\dot{E_m}= \dot{m}(h+\frac{V^2}{2}+gz)$$
 
 ### En sistemas flujo-estacionarios
+
+
 En estos sistemas las variables $V,m,E$ etc permanecen constantes, lo que cambia es la materia que entra y la que sale
 
 
@@ -762,7 +764,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDUzNjI4MjMsLTE4MzMzMzUxLDEzMz
-k2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMz
-OTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
+eyJoaXN0b3J5IjpbNTM2MjIyNDIxLC0xMDQ1MzYyODIzLC0xOD
+MzMzM1MSwxMzM5Njg1MzMsMTA5MDk5ODY0OCwtMTE1MTMwNzUw
+MSwyMDM5OTEzMzk5LC02NDE5NzI1NzIsMTE5Mjc0NTY4MF19
 -->
