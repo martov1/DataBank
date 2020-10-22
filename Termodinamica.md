@@ -1,6 +1,9 @@
 [fuente](https://www.youtube.com/watch?v=TwKQ3MDrLlM&list=PLkiO5Q9dOKIJtJSu7f8f7dfSIPSPM4aVU&index=6) 
 Quede en el video 11
 
+Reforzar con esto
+https://www.youtube.com/watch?v=f-nW8E-BaLY&list=PLpy49ASOsq5jjTvknWiLzXPdvSpVc1WVJ&index=2
+
 # Sistemas
 ## Definiciones
 
@@ -764,7 +767,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI4ODY3NzQsLTEwNDUzNjI4MjMsLT
+eyJoaXN0b3J5IjpbLTIwMDU4NDUzNDMsLTEwNDUzNjI4MjMsLT
 E4MzMzMzUxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3
 NTAxLDIwMzk5MTMzOTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX
 0=
