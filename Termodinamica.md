@@ -716,6 +716,8 @@ Donde
 **Recordamos** que el trabajo que genera un fluido es $w=PV$ entonces
 $$E_m= PV+U+E_c+E_p$$
 
+**Recordamos** que la entalpia es $$
+
 
 ## Segunda ley
 _de forma natural La entropia solo puede aumentar_
@@ -737,7 +739,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTU4NTcxLDEzMzk2ODUzMywxMDkwOT
-k4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMzOTksLTY0MTk3MjU3
-MiwxMTkyNzQ1NjgwXX0=
+eyJoaXN0b3J5IjpbMTAxNjc0OTcyOCwxMzM5Njg1MzMsMTA5MD
+k5ODY0OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5LC02NDE5NzI1
+NzIsMTE5Mjc0NTY4MF19
 -->
