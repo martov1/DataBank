@@ -707,7 +707,13 @@ Podemos definir la energia que tiene la masa como
 
 $$E_m= w +U+E_c+E_p$$
 
-Recordamos que el trabajo que genera un fluido es $w=PV$
+Donde 
+* $w$ Trabajo que hace el fluido
+* $u$ energia interna de la masa
+* $E_c$ energia cinetica de la masa
+* $E_p$ Energia potencial gravitatoria de la masa
+
+**Recordamos** que el trabajo que genera un fluido es $w=PV$ entonces
 $$E_m= PV+U+E_c+E_p$$
 
 
@@ -731,7 +737,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwOTU5NzYsMTMzOTY4NTMzLDEwOTA5OT
-g2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcyNTcy
-LDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbMTY5MTU4NTcxLDEzMzk2ODUzMywxMDkwOT
+k4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMzOTksLTY0MTk3MjU3
+MiwxMTkyNzQ1NjgwXX0=
 -->
