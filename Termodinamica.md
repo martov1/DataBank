@@ -627,34 +627,6 @@ Entonces el trabajo es el area debajo de la curva del grafico **presion-volumen*
 
 ![](https://i.imgur.com/49NWbs2.png)
 
-
-
-# Leyes de la termodinámica 
-
-## Primera ley
-_La energia no se crea ni se destruye, solo se transforma_
-
-es decir que el cambio en energia de un sistema es el calor absorbido ($q$ entrante) en ese instante menos el trabajo realizado ($w$ saliente) en ese instante
-
-En un **Sistema cerrado**
-
-$$\Delta U = q - w$$
-
-Si el sistema **es abierto** entonces hay que tener en cuenta la **energia de la masa que entra o sale**
-
-$$\Delta U = q - w + E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
-
-alternativamente
-
-$$\Delta U = \Delta q -  \Delta w + \Delta E_m$$
-
-
-## Segunda ley
-_de forma natural La entropia solo puede aumentar_
-
-En terminos sencillos _El calor fluye de cosas a alta temperatura a cosas de baja temperatura_
-
-
 # Flujo masico y volumetrico
 
 ### Velocidad promedio
@@ -709,6 +681,30 @@ Si fluyen liquidos, estos no se comprimen, entonces siempre sucedera que el fluj
 $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 ![](https://i.imgur.com/F9I7OwG.png =200x)
 
+# Leyes de la termodinámica 
+
+## Primera ley
+_La energia no se crea ni se destruye, solo se transforma_
+
+es decir que el cambio en energia de un sistema es el calor absorbido ($q$ entrante) en ese instante menos el trabajo realizado ($w$ saliente) en ese instante
+
+En un **Sistema cerrado**
+
+$$\Delta U = q - w$$
+
+Si el sistema **es abierto** entonces hay que tener en cuenta la **energia de la masa que entra o sale**
+
+$$\Delta U = q - w + E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
+
+alternativamente
+
+$$\Delta U = \Delta q -  \Delta w + \Delta E_m$$
+
+
+## Segunda ley
+_de forma natural La entropia solo puede aumentar_
+
+En terminos sencillos _El calor fluye de cosas a alta temperatura a cosas de baja temperatura_
 
 # Ciclos -WIP
 
@@ -725,6 +721,6 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTkxMzM5OSwtMTE1MTMwNzUwMSwtNj
-QxOTcyNTcyLDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtMT
+E1MTMwNzUwMSwtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
 -->
