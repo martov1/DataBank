@@ -727,8 +727,13 @@ $$\fbox{$E_m= m(h+\frac{V^2}{2}+gz)$}$$
 **Podemos** verlo sobre unidad de tiempo
 $$\dot{E_m}= \dot{m}(h+\frac{V^2}{2}+gz)$$
 
+### En sistemas flujo-estacionarios
+En estos sistemas las variables $V,m,E$ etc permanecen constantes, lo que cambia es la materia que entra y la que sale
+
+
 Entonces si tenemos un sistema con movimiento de materia
 
+$$\Delta U = \not{q} - \not{w} + E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
 $\dot{E}_{\text{materia entrante}}-\dot{E}_{\text{materia saliente}}=\frac{de}{dt}$
 
 
@@ -752,7 +757,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzU0OTM4MCwtMTgzMzMzNTEsMTMzOT
+eyJoaXN0b3J5IjpbLTk0OTE1MjkyMSwtMTgzMzMzNTEsMTMzOT
 Y4NTMzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5
 OSwtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
 -->
