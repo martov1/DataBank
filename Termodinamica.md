@@ -686,17 +686,21 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 ## Primera ley
 _La energia no se crea ni se destruye, solo se transforma_
 
-es decir que el cambio en energia de un sistema es el calor absorbido (energia entrante) en ese instante menos el trabajo realizado (energia salient) en ese instante
+es decir que el cambio en energia de un sistema es el calor absorbido ($q$ entrante) en ese instante menos el trabajo realizado ($w$ saliente) en ese instante
+
+En un **Sistema cerrado**
 
 $$\Delta U = q - w$$
 
-Si el sistema es abierto entonces hay que tener en cuenta la **energia de la masa que entra o sale**
+Si el sistema **es abierto** entonces hay que tener en cuenta la **energia de la masa que entra o sale**
 
 $$\Delta U = q - w + E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
 
-altenrativamente
+alternativamente
 
 $$\Delta U = \Delta q -  \Delta w + \Delta E_m$$
+
+
 ## Segunda ley
 _de forma natural La entropia solo puede aumentar_
 
@@ -717,5 +721,6 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
+eyJoaXN0b3J5IjpbLTExNTEzMDc1MDEsLTY0MTk3MjU3MiwxMT
+kyNzQ1NjgwXX0=
 -->
