@@ -679,6 +679,7 @@ Si fluyen liquidos, estos no se comprimen, entonces siempre sucedera que el fluj
 
 
 $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
+![](https://i.imgur.com/F9I7OwG.png =200x)
 
 # Leyes de la termodinámica 
 
@@ -716,5 +717,5 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Mjc0NTY4MF19
+eyJoaXN0b3J5IjpbLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
 -->
