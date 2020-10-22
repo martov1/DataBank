@@ -729,7 +729,7 @@ $$\dot{E_m}= \dot{m}(h+\frac{V^2}{2}+gz)$$
 
 Entonces si tenemos un sistema con movimiento de materia
 
-$E_{\text{materia entrante}}$
+$\dot{E}_{\text{materia entrante}}-\dot{E}_{\text{materia saliente}}=\frac{de}{dt}$
 
 
 ## Segunda ley
@@ -752,7 +752,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzAzODA4ODYsLTE4MzMzMzUxLDEzMz
-k2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMz
-OTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
+eyJoaXN0b3J5IjpbLTg2NzU0OTM4MCwtMTgzMzMzNTEsMTMzOT
+Y4NTMzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5
+OSwtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
 -->
