@@ -685,7 +685,7 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 
 ## Primera ley
 
-### En general
+### En sistemas cerrados
 _La energia no se crea ni se destruye, solo se transforma_
 
 es decir que el cambio en energia de un sistema es el calor absorbido ($q$ entrante) en ese instante menos el trabajo realizado ($w$ saliente) en ese instante
@@ -694,6 +694,7 @@ En un **Sistema cerrado**
 
 $$\Delta U = q - w$$
 
+### En sistemas de fluido en movimiento
 Si el sistema **es abierto** entonces hay que tener en cuenta la **energia de la masa que entra o sale**
 
 $$\Delta U = q - w + E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
@@ -702,7 +703,7 @@ alternativamente
 
 $$\Delta U = \Delta q -  \Delta w + \Delta E_m$$
 
-### En sistemas de fluido en movimiento
+En un sistema 
 
 
 
@@ -726,7 +727,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTY4NTMzLDEwOTA5OTg2NDgsLTExNT
-EzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcyNTcyLDExOTI3NDU2
-ODBdfQ==
+eyJoaXN0b3J5IjpbLTE3MTM5ODc4OTEsMTMzOTY4NTMzLDEwOT
+A5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcy
+NTcyLDExOTI3NDU2ODBdfQ==
 -->
