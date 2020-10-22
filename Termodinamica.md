@@ -727,6 +727,10 @@ $$\fbox{$E_m= m(h+\frac{V^2}{2}+gz)$}$$
 **Podemos** verlo sobre unidad de tiempo
 $$\dot{E_m}= \dot{m}(h+\frac{V^2}{2}+gz)$$
 
+Entonces si tenemos un sistema con movimiento de materia
+
+$E_{\text{materia entrante}}$
+
 
 ## Segunda ley
 _de forma natural La entropia solo puede aumentar_
@@ -748,7 +752,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzMzMzUxLDEzMzk2ODUzMywxMDkwOT
-k4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMzOTksLTY0MTk3MjU3
-MiwxMTkyNzQ1NjgwXX0=
+eyJoaXN0b3J5IjpbLTE0NzAzODA4ODYsLTE4MzMzMzUxLDEzMz
+k2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMz
+OTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
 -->
