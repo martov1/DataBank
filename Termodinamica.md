@@ -739,9 +739,10 @@ $$\Delta U =  E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
 Notamos que el cambio de energia por unidad de tiempo entonces sera 
 $\dot{E}_{\text{materia entrante}}-\dot{E}_{\text{materia saliente}}=\frac{du}{dt}$
 
-Y en un sistema flujo-estacionario, entra y sale la misma cantidad de materia, entonces
-$\frac{du}{dt}=0$
-$\dot{E}_{\text{materia entrante}}-\dot{E}_{\text{materia saliente}}=$
+Y en un **sistema flujo-estacionario, entra y sale la misma cantidad de materia**, entonces
+* $\frac{du}{dt}=0$
+
+* $\dot{E}_{\text{materia entrante}}=\dot{E}_{\text{materia saliente}}$
 
 ## Segunda ley
 _de forma natural La entropia solo puede aumentar_
@@ -763,7 +764,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Mjg4ODIwNCwtMTgzMzMzNTEsMTMzOT
+eyJoaXN0b3J5IjpbMTQwMTUyNDM0NSwtMTgzMzMzNTEsMTMzOT
 Y4NTMzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5
 OSwtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
 -->
