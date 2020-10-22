@@ -731,8 +731,6 @@ $$\dot{E_m}= \dot{m}(h+\frac{V^2}{2}+gz)$$
 En estos sistemas las variables $V,m,E$ etc permanecen constantes, lo que cambia es la materia que entra y la que sale
 
 
-Entonces si tenemos un sistema con movimiento de materia pero sin variacion de las demas variables
-
 $$\Delta U = \sout{q} - \sout{w} + E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
 $$\Delta U =  E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
 
@@ -764,7 +762,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTUyNDM0NSwtMTgzMzMzNTEsMTMzOT
-Y4NTMzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5
-OSwtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTEwNDUzNjI4MjMsLTE4MzMzMzUxLDEzMz
+k2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMz
+OTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
 -->
