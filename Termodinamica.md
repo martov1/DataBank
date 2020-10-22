@@ -684,6 +684,8 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 # Leyes de la termodinámica 
 
 ## Primera ley
+
+### En general
 _La energia no se crea ni se destruye, solo se transforma_
 
 es decir que el cambio en energia de un sistema es el calor absorbido ($q$ entrante) en ese instante menos el trabajo realizado ($w$ saliente) en ese instante
@@ -699,6 +701,9 @@ $$\Delta U = q - w + E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
 alternativamente
 
 $$\Delta U = \Delta q -  \Delta w + \Delta E_m$$
+
+### En sistemas de fluido en movimiento
+
 
 
 ## Segunda ley
@@ -721,6 +726,6 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtMT
-E1MTMwNzUwMSwtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbMTA5MDk5ODY0OCwtMTE1MTMwNzUwMSwyMD
+M5OTEzMzk5LC02NDE5NzI1NzIsMTE5Mjc0NTY4MF19
 -->
