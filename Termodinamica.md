@@ -743,11 +743,19 @@ $$\dot{E_m}= \dot{m}(h+\frac{V^2}{2}+gz)$$
 
 ### En sistemas flujo-estacionarios
 
-En un sistema de flujo estacionario entra la misma cantidad de masa que sale. Por la primera ley de la termodinamica tendremos que **la suma de las energias de entrada sera igual a las energias de salida**.
+En un sistema de flujo estacionario entra la misma cantidad de masa que sale. 
+
+$$\sum \dot{m}_{\text{entrante}}= \sum \dot{m}_{\text{saliente}}$$
+
+
 
 En estos sistemas las variables $V,m,T$ etc permanecen constantes, como asi tambien la energia en el volumen de control $E_{vc}$.
+
+
 ![](https://i.imgur.com/2KRHAVC.png)
-Lo que cambia es la materia que entra y la que sale, y la energia que esta disipa dentro del sistema
+Por la primera ley de la termodinamica tendremos que **la suma de las energias de entrada sera igual a las energias de salida**.
+
+Lo que cambia es la materia que entra y la que sale, y la energía que esta disipa dentro del sistema
 
 $$\fbox{$\dot{Q}_{\text{entr}}+\dot{w}_{\text{entr}}+\sum{\dot{E}_{\text{masa entr}}}=\dot{Q}_{\text{salid}}+\dot{w}_{\text{salid}}+\sum{\dot{E}_{\text{masa salid}}}$}$$
 
@@ -790,8 +798,8 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3MzQ5NzI0LDE2NjQ2MDQ2MzUsMTY3NT
-AzNjIwMCwtMjAwNTg0NTM0MywtMTA0NTM2MjgyMywtMTgzMzMz
-NTEsMTMzOTY4NTMzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMj
-AzOTkxMzM5OSwtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTI3MDY4OTMzMywxNjY0NjA0NjM1LDE2Nz
+UwMzYyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNjI4MjMsLTE4MzMz
+MzUxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLD
+IwMzk5MTMzOTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
 -->
