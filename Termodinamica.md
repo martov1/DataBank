@@ -732,7 +732,7 @@ $$E_m= H+E_c+E_p$$
 $$\fbox{$E_m= m(h+\frac{V^2}{2}+gz)$}$$
 >(notemos que la entalpia absoluta $H$ pasa a ser entalpia especifica $h$)
 
-**Podemos** verlo sobre unidad de tiempo
+:arrow_right:**Podemos** verlo sobre unidad de tiempo
 $$\dot{E_m}= \dot{m}(h+\frac{V^2}{2}+gz)$$
 
 ### En sistemas flujo-estacionarios - WIP
@@ -743,9 +743,13 @@ En estos sistemas las variables $V,m,T$ etc permanecen constantes, como asi tamb
 ![](https://i.imgur.com/2KRHAVC.png)
 Lo que cambia es la materia que entra y la que sale, y la energia que esta disipa dentro del sistema
 
-$$\dot{Q}_{\text{entr}}+\dot{w}_{\text{entr}}+\sum{\dot{E}_{\text{masa entr}}}=\dot{Q}_{\text{salid}}+\dot{w}_{\text{salid}}+\sum{\dot{E}_{\text{masa salid}}}$$
+$$\fbox{$\dot{Q}_{\text{entr}}+\dot{w}_{\text{entr}}+\sum{\dot{E}_{\text{masa entr}}}=\dot{Q}_{\text{salid}}+\dot{w}_{\text{salid}}+\sum{\dot{E}_{\text{masa salid}}}$}$$
 
-**RECORDAMOS** 
+:arrow_right:**RECORDAMOS** 
+
+
+$\dot{E}_{\text{masa entr}}=m.()$
+
 
 ---
 **NO ENTENDI, CREO QUE NO ESTA BIEN**
@@ -780,7 +784,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDk3MjQ1NSwxNjc1MDM2MjAwLC0yMD
+eyJoaXN0b3J5IjpbLTg3Njk5MTQyOCwxNjc1MDM2MjAwLC0yMD
 A1ODQ1MzQzLC0xMDQ1MzYyODIzLC0xODMzMzM1MSwxMzM5Njg1
 MzMsMTA5MDk5ODY0OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5LC
 02NDE5NzI1NzIsMTE5Mjc0NTY4MF19
