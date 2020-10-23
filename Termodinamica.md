@@ -717,6 +717,7 @@ alternativamente
 
 $$\Delta U = \Delta q -  \Delta w + \Delta E_m$$
 
+#### Energia de la masa
 Podemos definir la energia que tiene la masa como
 
 $$E_m= w +U+E_c+E_p$$
@@ -797,8 +798,9 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTM2MDA2MywxNjY0NjA0NjM1LDE2Nz
-UwMzYyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNjI4MjMsLTE4MzMz
-MzUxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLD
-IwMzk5MTMzOTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
+eyJoaXN0b3J5IjpbLTE3NTQ1MTgzNzYsMTAxOTM2MDA2MywxNj
+Y0NjA0NjM1LDE2NzUwMzYyMDAsLTIwMDU4NDUzNDMsLTEwNDUz
+NjI4MjMsLTE4MzMzMzUxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC
+0xMTUxMzA3NTAxLDIwMzk5MTMzOTksLTY0MTk3MjU3MiwxMTky
+NzQ1NjgwXX0=
 -->
