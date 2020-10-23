@@ -693,6 +693,10 @@ La primera ley, enterminos matematicos, nos va a decir que
 
 >**CRITICO:**:warning:**La suma de la energia que se transforma, entrante y saliente del sistema siempre sera 0**:warning:
 
+En terminos simples
+
+$$E_{inicial}$$
+
 ### En sistemas cerrados
 
 
@@ -784,8 +788,8 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDYwNDYzNSwxNjc1MDM2MjAwLC0yMD
-A1ODQ1MzQzLC0xMDQ1MzYyODIzLC0xODMzMzM1MSwxMzM5Njg1
-MzMsMTA5MDk5ODY0OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5LC
-02NDE5NzI1NzIsMTE5Mjc0NTY4MF19
+eyJoaXN0b3J5IjpbLTkyNDMxMzM4NSwxNjY0NjA0NjM1LDE2Nz
+UwMzYyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNjI4MjMsLTE4MzMz
+MzUxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLD
+IwMzk5MTMzOTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
 -->
