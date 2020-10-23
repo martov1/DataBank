@@ -695,7 +695,9 @@ La primera ley, enterminos matematicos, nos va a decir que
 
 En terminos simples
 
-$$E_{inicial}$$
+$$E_{inicial} + E_{entra}-E_{sale}=E_{final}$$
+ó en terminos de cambio de energia
+$$ E_{entra}-E_{sale}=\Delta E$$
 
 ### En sistemas cerrados
 
@@ -704,7 +706,7 @@ Es decir que **en un sistema cerrado** el cambio en energia de un sistema es el 
 
 En un **Sistema cerrado**
 
-$$\Delta U = q - w$$
+$$\Delta E = q - w$$
 
 ### En sistemas de fluido en movimiento
 Si el sistema **es abierto** entonces hay que tener en cuenta la **energia de la masa que entra o sale**
@@ -788,7 +790,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDMxMzM4NSwxNjY0NjA0NjM1LDE2Nz
+eyJoaXN0b3J5IjpbLTk4MDI1OTkyMCwxNjY0NjA0NjM1LDE2Nz
 UwMzYyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNjI4MjMsLTE4MzMz
 MzUxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLD
 IwMzk5MTMzOTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
