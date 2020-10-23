@@ -747,10 +747,12 @@ $$\fbox{$\dot{Q}_{\text{entr}}+\dot{w}_{\text{entr}}+\sum{\dot{E}_{\text{masa en
 
 :arrow_right:**RECORDAMOS** 
 
-La energia de la masa es la cantidad de masa $m$ multiplicada por la suma de las energias especificas (Entalpia especifica$h$,energia Potencial graviatoria $E_p$, energia cinetico $E_c$) 
-$\dot{E}_{\text{masa entr}}=m.(h+E_c+E_p)$
+La energia de la masa es el flujo de masa $\dot{m}$ multiplicada por la suma de las energias especificas (Entalpia especifica$h$,energia Potencial graviatoria $E_p$, energia cinetico $E_c$) 
+$\dot{E}_{\text{masa entr}}=\dot{m}.(h+E_c+E_p)$
 
 :arrow_right:**ENTONCES** 
+$$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{\dot{E}_{e}}=\dot{Q}_{s}+\dot{w}_{s}+\sum{\dot{E}_{s}}$}$$
+
 
 ---
 **NO ENTENDI, CREO QUE NO ESTA BIEN**
@@ -785,8 +787,8 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI1MTI4NTIsMTY3NTAzNjIwMCwtMj
-AwNTg0NTM0MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4
-NTMzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OS
-wtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTY0NTU1MTE1NCwxNjc1MDM2MjAwLC0yMD
+A1ODQ1MzQzLC0xMDQ1MzYyODIzLC0xODMzMzM1MSwxMzM5Njg1
+MzMsMTA5MDk5ODY0OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5LC
+02NDE5NzI1NzIsMTE5Mjc0NTY4MF19
 -->
