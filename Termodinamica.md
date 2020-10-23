@@ -782,6 +782,8 @@ Entonces podemos eliminar el termino $+gz_s$ siempre que nuestro dispositivo no 
 
 #### En sistemas de flujo-no-estacionarios
 
+La principal diferencia con estos sistemas es que **la masa que entra no es igual a la masa que sale**
+
 
 ## Segunda ley
 _de forma natural La entropia solo puede aumentar_
@@ -803,9 +805,10 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA1OTMyMDgsLTgxMTc5MDQ4MSw2MT
-A2ODIwMSwxMDE5MzYwMDYzLDE2NjQ2MDQ2MzUsMTY3NTAzNjIw
-MCwtMjAwNTg0NTM0MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMT
-MzOTY4NTMzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkx
-MzM5OSwtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTE0MDE2NDkyNzgsLTIwODA1OTMyMDgsLT
+gxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5MzYwMDYzLDE2NjQ2MDQ2
+MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0MywtMTA0NTM2MjgyMy
+wtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOTA5OTg2NDgsLTExNTEz
+MDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcyNTcyLDExOTI3NDU2OD
+BdfQ==
 -->
