@@ -786,9 +786,9 @@ La principal diferencia con estos sistemas es que **la masa que entra no es igua
 
 Las diferencias son
 * $m$ ya no es igual en los dos lados, ahora hay $m_1$ y $m_2$
-* Hay un termino adicional $m_s.e_s-m_e.e_e$
+* Hay un termino adicional $m_2.e_2-m_1.e_1$ que indica la **energia de la masa que no salio del sistema**
 
-$$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m_1}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot{Q}_{s}+\dot{w}_{s}+\sum{ \dot{m_2}(h_s+\frac{V_s^2}{2}+gz_s)}+(m_1.e_s-m_e.1_1$})$$
+$$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m_1}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot{Q}_{s}+\dot{w}_{s}+(m_2.e_2-m_1.e_1)+\sum{ \dot{m_2}(h_s+\frac{V_s^2}{2}+gz_s)}$}$$
 
 
 ## Segunda ley
@@ -811,7 +811,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAyNTU2NDQsLTIwODA1OTMyMDgsLT
+eyJoaXN0b3J5IjpbLTE1MTQzOTI1OTAsLTIwODA1OTMyMDgsLT
 gxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5MzYwMDYzLDE2NjQ2MDQ2
 MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0MywtMTA0NTM2MjgyMy
 wtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOTA5OTg2NDgsLTExNTEz
