@@ -708,7 +708,7 @@ En un **Sistema cerrado**
 
 $$\Delta E = q - w$$
 
-### En sistemas de fluido en movimiento
+### En sistemas abiertos
 Si el sistema **es abierto** entonces hay que tener en cuenta la **energia de la masa que entra o sale**
 
 $$\Delta U = q - w + E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
@@ -741,7 +741,7 @@ $$\fbox{$E_m= m(h+\frac{V^2}{2}+gz)$}$$
 :arrow_right:**Podemos** verlo sobre unidad de tiempo
 $$\dot{E_m}= \dot{m}(h+\frac{V^2}{2}+gz)$$
 
-### En sistemas flujo-estacionarios - WIP
+### En sistemas flujo-estacionarios
 
 En un sistema de flujo estacionario entra la misma cantidad de masa que sale. Por la primera ley de la termodinamica tendremos que **la suma de las energias de entrada sera igual a las energias de salida**.
 
@@ -790,8 +790,8 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDI1OTkyMCwxNjY0NjA0NjM1LDE2Nz
-UwMzYyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNjI4MjMsLTE4MzMz
-MzUxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLD
-IwMzk5MTMzOTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
+eyJoaXN0b3J5IjpbODA3MzQ5NzI0LDE2NjQ2MDQ2MzUsMTY3NT
+AzNjIwMCwtMjAwNTg0NTM0MywtMTA0NTM2MjgyMywtMTgzMzMz
+NTEsMTMzOTY4NTMzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMj
+AzOTkxMzM5OSwtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
 -->
