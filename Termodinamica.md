@@ -687,9 +687,14 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 # Leyes de la termodinámica 
 
 ## Primera ley
+_La energia no se crea ni se destruye, solo se transforma_
+
+La primera ley, enterminos matematicos, nos va a decir que 
+
+La suma de la energia entrante y saliente del sistema siempre sera 0
 
 ### En sistemas cerrados
-_La energia no se crea ni se destruye, solo se transforma_
+
 
 es decir que el cambio en energia de un sistema es el calor absorbido ($q$ entrante) en ese instante menos el trabajo realizado ($w$ saliente) en ese instante
 
@@ -767,8 +772,8 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU4NDUzNDMsLTEwNDUzNjI4MjMsLT
-E4MzMzMzUxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3
-NTAxLDIwMzk5MTMzOTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX
-0=
+eyJoaXN0b3J5IjpbNDk3MjA5NjY1LC0yMDA1ODQ1MzQzLC0xMD
+Q1MzYyODIzLC0xODMzMzM1MSwxMzM5Njg1MzMsMTA5MDk5ODY0
+OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5LC02NDE5NzI1NzIsMT
+E5Mjc0NTY4MF19
 -->
