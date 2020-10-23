@@ -784,7 +784,11 @@ Entonces podemos eliminar el termino $+gz_s$ siempre que nuestro dispositivo no 
 
 La principal diferencia con estos sistemas es que **la masa que entra no es igual a la masa que sale**
 
-$$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m_1}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot{Q}_{s}+\dot{w}_{s}+\sum{ \dot{m_2}(h_s+\frac{V_s^2}{2}+gz_s)}$}+(m_s.e_s-m_e.e_e)$$
+Las diferencias son
+* $m$ ya no es igual en los dos lados, ahora hay $m_1$ y $m_2$
+* Hay un termino adicional $m_s.e_s-m_e.e_e$
+
+$$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m_1}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot{Q}_{s}+\dot{w}_{s}+\sum{ \dot{m_2}(h_s+\frac{V_s^2}{2}+gz_s)}+(m_1.e_s-m_e.1_1$})$$
 
 
 ## Segunda ley
@@ -807,10 +811,10 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2NjgyNzU0LC0yMDgwNTkzMjA4LC04MT
-E3OTA0ODEsNjEwNjgyMDEsMTAxOTM2MDA2MywxNjY0NjA0NjM1
-LDE2NzUwMzYyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNjI4MjMsLT
-E4MzMzMzUxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3
-NTAxLDIwMzk5MTMzOTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX
-0=
+eyJoaXN0b3J5IjpbLTEwMTAyNTU2NDQsLTIwODA1OTMyMDgsLT
+gxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5MzYwMDYzLDE2NjQ2MDQ2
+MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0MywtMTA0NTM2MjgyMy
+wtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOTA5OTg2NDgsLTExNTEz
+MDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcyNTcyLDExOTI3NDU2OD
+BdfQ==
 -->
