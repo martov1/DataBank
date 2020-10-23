@@ -750,6 +750,7 @@ $$\fbox{$\dot{Q}_{\text{entr}}+\dot{w}_{\text{entr}}+\sum{\dot{E}_{\text{masa en
 La energia de la masa es la cantidad de masa $m$ multiplicada por la suma de las energias especificas (Entalpia especifica$h$,energia Potencial graviatoria $E_p$, energia cinetico $E_c$) 
 $\dot{E}_{\text{masa entr}}=m.(h+E_c+E_p)$
 
+:arrow_right:**ENTONCES** 
 
 ---
 **NO ENTENDI, CREO QUE NO ESTA BIEN**
@@ -784,8 +785,8 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTQzNjkxMSwxNjc1MDM2MjAwLC0yMD
-A1ODQ1MzQzLC0xMDQ1MzYyODIzLC0xODMzMzM1MSwxMzM5Njg1
-MzMsMTA5MDk5ODY0OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5LC
-02NDE5NzI1NzIsMTE5Mjc0NTY4MF19
+eyJoaXN0b3J5IjpbLTEzNjI1MTI4NTIsMTY3NTAzNjIwMCwtMj
+AwNTg0NTM0MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4
+NTMzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OS
+wtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
 -->
