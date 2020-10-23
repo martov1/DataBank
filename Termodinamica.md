@@ -748,14 +748,13 @@ En un sistema de flujo estacionario entra la misma cantidad de masa que sale.
 $$\sum \dot{m}_{\text{entrante}}= \sum \dot{m}_{\text{saliente}}$$
 
 
-
 En estos sistemas las variables $V,m,T$ etc permanecen constantes, como asi tambien la energia en el volumen de control $E_{vc}$.
 
 
 ![](https://i.imgur.com/2KRHAVC.png)
 Por la primera ley de la termodinamica tendremos que **la suma de las energias de entrada sera igual a las energias de salida**.
 
-Lo que cambia es la materia que entra y la que sale, y la energía que esta disipa dentro del sistema
+Lo que cambia es la materia que entra y sale, y la energía que esta disipa dentro del sistema (calor y trabajo)
 
 $$\fbox{$\dot{Q}_{\text{entr}}+\dot{w}_{\text{entr}}+\sum{\dot{E}_{\text{masa entr}}}=\dot{Q}_{\text{salid}}+\dot{w}_{\text{salid}}+\sum{\dot{E}_{\text{masa salid}}}$}$$
 
@@ -798,7 +797,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDY4OTMzMywxNjY0NjA0NjM1LDE2Nz
+eyJoaXN0b3J5IjpbMTAxOTM2MDA2MywxNjY0NjA0NjM1LDE2Nz
 UwMzYyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNjI4MjMsLTE4MzMz
 MzUxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLD
 IwMzk5MTMzOTksLTY0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
