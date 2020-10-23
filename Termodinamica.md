@@ -780,7 +780,7 @@ En muchos dispositivos que modelamos como sistemas flujo-estacionarios **no hay 
 Entonces podemos eliminar el termino $+gz_s$ siempre que nuestro dispositivo no tenga grandes diferencias de altura de entrada o salida
  $$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m}(h_e+\frac{V_e^2}{2})}=\dot{Q}_{s}+\dot{w}_{s}+\sum{ \dot{m}(h_s+\frac{V_s^2}{2})}$}$$
 
-
+### Simplificaciones en dispositivos
 
 ## Segunda ley
 _de forma natural La entropia solo puede aumentar_
@@ -802,9 +802,9 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwNjgyMDEsMTAxOTM2MDA2MywxNjY0Nj
-A0NjM1LDE2NzUwMzYyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNjI4
-MjMsLTE4MzMzMzUxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0xMT
-UxMzA3NTAxLDIwMzk5MTMzOTksLTY0MTk3MjU3MiwxMTkyNzQ1
-NjgwXX0=
+eyJoaXN0b3J5IjpbLTY2MzM1OTk5MSw2MTA2ODIwMSwxMDE5Mz
+YwMDYzLDE2NjQ2MDQ2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0
+MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOT
+A5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcy
+NTcyLDExOTI3NDU2ODBdfQ==
 -->
