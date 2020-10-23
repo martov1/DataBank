@@ -754,9 +754,13 @@ osea
 $$\dot{E_m}= \dot{m}(h+\frac{V^2}{2}+gz)$$
 
 :arrow_right:**ENTONCES** 
-Reemplazamos la energia y calculamos la energia de la materia de entrada y de salida usando los valores (velocidad de entrada$V_e ;V_s$ y salida, altura de entrada y salida, entalpia de entrada y salida)
+Reemplazamos la energia y calculamos la energia de la materia de entrada y de salida usando los valores 
+* Velocidad de entrada$V_e$  y salida$V_s$
+* Altura de entrada $z_e$ y salida$z_s$
+* Entalpia de entrada $h_e$ y salida $h_s$
 $$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot{Q}_{s}+\dot{w}_{s}+\sum{ \dot{m}(h_s+\frac{V_s^2}{2}+gz_s)}$}$$
 
+:arrow_right:**En muchos casos $E_p$ es d** 
 
 ---
 **NO ENTENDI, CREO QUE NO ESTA BIEN**
@@ -791,7 +795,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzMyNTIzMiwxNjc1MDM2MjAwLC0yMD
+eyJoaXN0b3J5IjpbMTA4MzM1ODEzMSwxNjc1MDM2MjAwLC0yMD
 A1ODQ1MzQzLC0xMDQ1MzYyODIzLC0xODMzMzM1MSwxMzM5Njg1
 MzMsMTA5MDk5ODY0OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5LC
 02NDE5NzI1NzIsMTE5Mjc0NTY4MF19
