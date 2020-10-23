@@ -784,7 +784,7 @@ Entonces podemos eliminar el termino $+gz_s$ siempre que nuestro dispositivo no 
 
 |Dispositivo|Simplificacion|
 |--|--|
-|Bomba|$$\dot{Q}\approx 0 \\ \DeltaE_c$$|
+|Bomba|$$\dot{Q}\approx 0 \\ \Delta E_c\approx0\\$$|
 
 
 ## Segunda ley
@@ -807,7 +807,7 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQyMDc3MTAsNjEwNjgyMDEsMTAxOT
+eyJoaXN0b3J5IjpbLTE0Mjc5NDA0NTAsNjEwNjgyMDEsMTAxOT
 M2MDA2MywxNjY0NjA0NjM1LDE2NzUwMzYyMDAsLTIwMDU4NDUz
 NDMsLTEwNDUzNjI4MjMsLTE4MzMzMzUxLDEzMzk2ODUzMywxMD
 kwOTk4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMzOTksLTY0MTk3
