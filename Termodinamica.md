@@ -691,7 +691,7 @@ _La energia no se crea ni se destruye, solo se transforma_
 
 La primera ley, enterminos matematicos, nos va a decir que 
 
-La suma de la energia entrante y saliente del sistema siempre sera 0
+**La suma de la energia que se transforma, entrante y saliente del sistema siempre sera 0**
 
 ### En sistemas cerrados
 
@@ -772,8 +772,8 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3MjA5NjY1LC0yMDA1ODQ1MzQzLC0xMD
-Q1MzYyODIzLC0xODMzMzM1MSwxMzM5Njg1MzMsMTA5MDk5ODY0
-OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5LC02NDE5NzI1NzIsMT
-E5Mjc0NTY4MF19
+eyJoaXN0b3J5IjpbLTQ5OTM2MDE1MSwtMjAwNTg0NTM0MywtMT
+A0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOTA5OTg2
+NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcyNTcyLD
+ExOTI3NDU2ODBdfQ==
 -->
