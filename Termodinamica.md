@@ -1,8 +1,8 @@
 [fuente](https://www.youtube.com/watch?v=TwKQ3MDrLlM&list=PLkiO5Q9dOKIJtJSu7f8f7dfSIPSPM4aVU&index=6) 
 Quede en el video 11
 
-Reforzar con esto
-https://www.youtube.com/watch?v=f-nW8E-BaLY&list=PLpy49ASOsq5jjTvknWiLzXPdvSpVc1WVJ&index=2
+Simplificar con esto
+https://www.youtube.com/watch?v=fSEFfWf2au0&list=PLH2l6uzC4UEVUmJdTMStYXad_sI73_T0x&index=10
 
 # Sistemas
 ## Definiciones
@@ -811,10 +811,10 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQzOTI1OTAsLTIwODA1OTMyMDgsLT
-gxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5MzYwMDYzLDE2NjQ2MDQ2
-MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0MywtMTA0NTM2MjgyMy
-wtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOTA5OTg2NDgsLTExNTEz
-MDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcyNTcyLDExOTI3NDU2OD
-BdfQ==
+eyJoaXN0b3J5IjpbLTUzOTMyMjE5NywtMTUxNDM5MjU5MCwtMj
+A4MDU5MzIwOCwtODExNzkwNDgxLDYxMDY4MjAxLDEwMTkzNjAw
+NjMsMTY2NDYwNDYzNSwxNjc1MDM2MjAwLC0yMDA1ODQ1MzQzLC
+0xMDQ1MzYyODIzLC0xODMzMzM1MSwxMzM5Njg1MzMsMTA5MDk5
+ODY0OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5LC02NDE5NzI1Nz
+IsMTE5Mjc0NTY4MF19
 -->
