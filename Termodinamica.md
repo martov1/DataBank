@@ -783,7 +783,8 @@ Entonces podemos eliminar el termino $+gz_s$ siempre que nuestro dispositivo no 
 ### Simplificaciones en dispositivos
 | Dispositivo | Simplificacion                                                     |
 |-------------|--------------------------------------------------------------------|
-| Bomba       | $$\dot{Q}\approx 0 \\ \Delta E_c\approx0 \\ \Delta E_p \approx 0$$ |
+| Bomba       | $$\dot{Q}\approx 0 \\ \Delta E_c\approx0 \\ \Delta E_p \approx 0 \\ P_2>P_1$$ |
+| Compresor | $$\dot{Q}\approx 0 \\ \Delta E_c\approx0 \\ \Delta E_p \approx 0 \\ P_2>P_1$$ |
 
 
 ## Segunda ley
@@ -806,9 +807,9 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5Mz
-YwMDYzLDE2NjQ2MDQ2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0
-MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOT
-A5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcy
-NTcyLDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbMTA0ODkyMTQyOCwtODExNzkwNDgxLDYxMD
+Y4MjAxLDEwMTkzNjAwNjMsMTY2NDYwNDYzNSwxNjc1MDM2MjAw
+LC0yMDA1ODQ1MzQzLC0xMDQ1MzYyODIzLC0xODMzMzM1MSwxMz
+M5Njg1MzMsMTA5MDk5ODY0OCwtMTE1MTMwNzUwMSwyMDM5OTEz
+Mzk5LC02NDE5NzI1NzIsMTE5Mjc0NTY4MF19
 -->
