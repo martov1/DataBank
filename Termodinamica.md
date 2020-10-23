@@ -764,19 +764,6 @@ $$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot{Q
 Entonces podemos eliminar el termino $+gz_s$ siempre que nuestro dispositivo no tenga grandes diferencias de altura de entrada o salida
  $$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m}(h_e+\frac{V_e^2}{2})}=\dot{Q}_{s}+\dot{w}_{s}+\sum{ \dot{m}(h_s+\frac{V_s^2}{2})}$}$$
 
----
-**NO ENTENDI, CREO QUE NO ESTA BIEN**
-$$\Delta U = \sout{q} - \sout{w} + E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
-$$\Delta U =  E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
-
-Notamos que el cambio de energia por unidad de tiempo entonces sera 
-$\dot{E}_{\text{materia entrante}}-\dot{E}_{\text{materia saliente}}=\frac{du}{dt}$
-
-Y en un **sistema flujo-estacionario, entra y sale la misma cantidad de materia**, entonces
-* $\frac{du}{dt}=0$
-
-* $\dot{E}_{\text{materia entrante}}=\dot{E}_{\text{materia saliente}}$
-**NO ENTENDI, CREO QUE NO ESTA BIEN**
 ## Segunda ley
 _de forma natural La entropia solo puede aumentar_
 
@@ -797,8 +784,8 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE4OTM3MTMsMTY3NTAzNjIwMCwtMj
-AwNTg0NTM0MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4
-NTMzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OS
-wtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbMTY2NDYwNDYzNSwxNjc1MDM2MjAwLC0yMD
+A1ODQ1MzQzLC0xMDQ1MzYyODIzLC0xODMzMzM1MSwxMzM5Njg1
+MzMsMTA5MDk5ODY0OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5LC
+02NDE5NzI1NzIsMTE5Mjc0NTY4MF19
 -->
