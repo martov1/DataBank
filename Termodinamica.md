@@ -774,7 +774,9 @@ Reemplazamos la energia y calculamos la energia de la materia de entrada y de sa
 * Entalpia de entrada $h_e$ y salida $h_s$
 $$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot{Q}_{s}+\dot{w}_{s}+\sum{ \dot{m}(h_s+\frac{V_s^2}{2}+gz_s)}$}$$
 
-:arrow_right:**En muchos casos $E_p$ es despreciable**
+#### Casos con En bombas
+
+
 Entonces podemos eliminar el termino $+gz_s$ siempre que nuestro dispositivo no tenga grandes diferencias de altura de entrada o salida
  $$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m}(h_e+\frac{V_e^2}{2})}=\dot{Q}_{s}+\dot{w}_{s}+\sum{ \dot{m}(h_s+\frac{V_s^2}{2})}$}$$
 
@@ -798,9 +800,9 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTg2OTM0MCwxMDE5MzYwMDYzLDE2Nj
-Q2MDQ2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0MywtMTA0NTM2
-MjgyMywtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOTA5OTg2NDgsLT
-ExNTEzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcyNTcyLDExOTI3
-NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbMjc0NDI0MzIyLDEwMTkzNjAwNjMsMTY2ND
+YwNDYzNSwxNjc1MDM2MjAwLC0yMDA1ODQ1MzQzLC0xMDQ1MzYy
+ODIzLC0xODMzMzM1MSwxMzM5Njg1MzMsMTA5MDk5ODY0OCwtMT
+E1MTMwNzUwMSwyMDM5OTEzMzk5LC02NDE5NzI1NzIsMTE5Mjc0
+NTY4MF19
 -->
