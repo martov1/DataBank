@@ -737,12 +737,13 @@ $$\dot{E_m}= \dot{m}(h+\frac{V^2}{2}+gz)$$
 
 ### En sistemas flujo-estacionarios - WIP
 
-En un sistema de flujo estacionario entra la misma cantidad de masa que sale,
+En un sistema de flujo estacionario entra la misma cantidad de masa que sale. Por la primera ley de la termodinamica tendremos que la suma de las energias de entrada sera igual a las energias de salida.
 
 
 **NO ENTENDI, CREO QUE NO ESTA BIEN**
 En estos sistemas las variables $V,m,E$ etc permanecen constantes, lo que cambia es la materia que entra y la que sale
 
+$$Q_{\text{entrada}}+w_{\text{entrada}}+\sum{E_{\text{masa entrada}}}$$
 
 $$\Delta U = \sout{q} - \sout{w} + E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
 $$\Delta U =  E_{\text{masa que entra}}-E_{\text{masa que sale}}$$
@@ -775,8 +776,8 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA3MTEwMjEsMTY3NTAzNjIwMCwtMj
-AwNTg0NTM0MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4
-NTMzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OS
-wtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbMzAzNDExNzQ0LDE2NzUwMzYyMDAsLTIwMD
+U4NDUzNDMsLTEwNDUzNjI4MjMsLTE4MzMzMzUxLDEzMzk2ODUz
+MywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMzOTksLT
+Y0MTk3MjU3MiwxMTkyNzQ1NjgwXX0=
 -->
