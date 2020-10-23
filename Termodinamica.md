@@ -737,6 +737,9 @@ $$\dot{E_m}= \dot{m}(h+\frac{V^2}{2}+gz)$$
 
 ### En sistemas flujo-estacionarios - WIP
 
+En un sistema de flujo estacionario entra la misma cantidad de masa que sale,
+
+
 **NO ENTENDI, CREO QUE NO ESTA BIEN**
 En estos sistemas las variables $V,m,E$ etc permanecen constantes, lo que cambia es la materia que entra y la que sale
 
@@ -772,8 +775,8 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTAzNjIwMCwtMjAwNTg0NTM0MywtMT
-A0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOTA5OTg2
-NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcyNTcyLD
-ExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTE5OTA3MTEwMjEsMTY3NTAzNjIwMCwtMj
+AwNTg0NTM0MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4
+NTMzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OS
+wtNjQxOTcyNTcyLDExOTI3NDU2ODBdfQ==
 -->
