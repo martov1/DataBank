@@ -781,10 +781,9 @@ Entonces podemos eliminar el termino $+gz_s$ siempre que nuestro dispositivo no 
  $$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m}(h_e+\frac{V_e^2}{2})}=\dot{Q}_{s}+\dot{w}_{s}+\sum{ \dot{m}(h_s+\frac{V_s^2}{2})}$}$$
 
 ### Simplificaciones en dispositivos
-
-|Dispositivo|Simplificacion|
-|--|--|
-|Bomba|$$\dot{Q}\approx 0 \\ \Delta E_c\approx0\\$$|
+| Dispositivo | Simplificacion                                                     |
+|-------------|--------------------------------------------------------------------|
+| Bomba       | $$\dot{Q}\approx 0 \\ \Delta E_c\approx0 \\ \Delta E_p \approx 0$$ |
 
 
 ## Segunda ley
@@ -807,9 +806,9 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc5NDA0NTAsNjEwNjgyMDEsMTAxOT
-M2MDA2MywxNjY0NjA0NjM1LDE2NzUwMzYyMDAsLTIwMDU4NDUz
-NDMsLTEwNDUzNjI4MjMsLTE4MzMzMzUxLDEzMzk2ODUzMywxMD
-kwOTk4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMzOTksLTY0MTk3
-MjU3MiwxMTkyNzQ1NjgwXX0=
+eyJoaXN0b3J5IjpbLTgxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5Mz
+YwMDYzLDE2NjQ2MDQ2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0
+MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOT
+A5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcy
+NTcyLDExOTI3NDU2ODBdfQ==
 -->
