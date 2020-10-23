@@ -784,6 +784,8 @@ Entonces podemos eliminar el termino $+gz_s$ siempre que nuestro dispositivo no 
 
 La principal diferencia con estos sistemas es que **la masa que entra no es igual a la masa que sale**
 
+$$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m_1}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot{Q}_{s}+\dot{w}_{s}+\sum{ \dot{m_2}(h_s+\frac{V_s^2}{2}+gz_s)}$}$$
+
 
 ## Segunda ley
 _de forma natural La entropia solo puede aumentar_
@@ -805,10 +807,10 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE2NDkyNzgsLTIwODA1OTMyMDgsLT
-gxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5MzYwMDYzLDE2NjQ2MDQ2
-MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0MywtMTA0NTM2MjgyMy
-wtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOTA5OTg2NDgsLTExNTEz
-MDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcyNTcyLDExOTI3NDU2OD
-BdfQ==
+eyJoaXN0b3J5IjpbLTI2MzIxMjg1MywtMjA4MDU5MzIwOCwtOD
+ExNzkwNDgxLDYxMDY4MjAxLDEwMTkzNjAwNjMsMTY2NDYwNDYz
+NSwxNjc1MDM2MjAwLC0yMDA1ODQ1MzQzLC0xMDQ1MzYyODIzLC
+0xODMzMzM1MSwxMzM5Njg1MzMsMTA5MDk5ODY0OCwtMTE1MTMw
+NzUwMSwyMDM5OTEzMzk5LC02NDE5NzI1NzIsMTE5Mjc0NTY4MF
+19
 -->
