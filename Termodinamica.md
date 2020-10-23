@@ -782,6 +782,11 @@ Entonces podemos eliminar el termino $+gz_s$ siempre que nuestro dispositivo no 
 
 ### Simplificaciones en dispositivos
 
+|Dispositivo|Simplificacion|
+|--|--|
+|Bomba|$$\dot{Q}\approx 0 \\ \DeltaE_c$$|
+
+
 ## Segunda ley
 _de forma natural La entropia solo puede aumentar_
 
@@ -802,9 +807,9 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzM1OTk5MSw2MTA2ODIwMSwxMDE5Mz
-YwMDYzLDE2NjQ2MDQ2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0
-MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOT
-A5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcy
-NTcyLDExOTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTEzMjQyMDc3MTAsNjEwNjgyMDEsMTAxOT
+M2MDA2MywxNjY0NjA0NjM1LDE2NzUwMzYyMDAsLTIwMDU4NDUz
+NDMsLTEwNDUzNjI4MjMsLTE4MzMzMzUxLDEzMzk2ODUzMywxMD
+kwOTk4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMzOTksLTY0MTk3
+MjU3MiwxMTkyNzQ1NjgwXX0=
 -->
