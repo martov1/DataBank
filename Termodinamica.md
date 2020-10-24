@@ -824,17 +824,18 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 * Requiere de una pequeña cantidad de **trabajo negativo en forma de compresion**  para producir **trabajo positivo en forma de expansion** 
 * Es el mas eficiente por que **todo el calor positivo se transforma en trabajo (expansion isotermica y luego adiabatica)**
 * no tiene eficiencia del 100% por que para volver al estado inicial hace falta comprimir el gas, pero para hacerlo con el menor trabajo posible se lo comprime **de forma isotermica y luego adiabatica**
+* Notamos que entra un $Q_1$ en el paso 1 sale un $Q_2$ en el paso 3, entonces 
 
 ![](https://i.imgur.com/MaGMtE9.png)
 ## Ciclo refrigeracion por gas
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ0MDkwNDUsNDY1MDg1Njg0LDgxNT
-Q3Nzc2NiwtMjEwNzY4Nzc2OCwtMTgzMjYwMjg5OSwtMTUwMTQ3
-NzM3MiwtNTM5MzIyMTk3LC0xNTE0MzkyNTkwLC0yMDgwNTkzMj
-A4LC04MTE3OTA0ODEsNjEwNjgyMDEsMTAxOTM2MDA2MywxNjY0
-NjA0NjM1LDE2NzUwMzYyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNj
-I4MjMsLTE4MzMzMzUxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0x
-MTUxMzA3NTAxXX0=
+eyJoaXN0b3J5IjpbMTcwNjQ3NTQ0NCwtMTg0NDQwOTA0NSw0Nj
+UwODU2ODQsODE1NDc3NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAy
+ODk5LC0xNTAxNDc3MzcyLC01MzkzMjIxOTcsLTE1MTQzOTI1OT
+AsLTIwODA1OTMyMDgsLTgxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5
+MzYwMDYzLDE2NjQ2MDQ2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NT
+M0MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4NTMzLDEw
+OTA5OTg2NDhdfQ==
 -->
