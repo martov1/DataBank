@@ -823,18 +823,18 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene una eficiencia del 100%**
 * Requiere de una pequeña cantidad de **trabajo negativo en forma de compresion**  para producir **trabajo positivo en forma de expansion** 
 * Es el mas eficiente por que **todo el calor positivo se transforma en trabajo (expansion isotermica y luego adiabatica)**
-* no tiene eficiencia del 100% por que para volver al estado inicial hace falta comprimir el gas, pero para hacerlo con el menor trabajo posible se 
+* no tiene eficiencia del 100% por que para volver al estado inicial hace falta comprimir el gas, pero para hacerlo con el menor trabajo posible se lo comprime **de forma isotermica y luego adiabatica**
 
 ![](https://i.imgur.com/MaGMtE9.png)
 ## Ciclo refrigeracion por gas
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTEzMjg3Miw0NjUwODU2ODQsODE1ND
-c3NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAyODk5LC0xNTAxNDc3
-MzcyLC01MzkzMjIxOTcsLTE1MTQzOTI1OTAsLTIwODA1OTMyMD
-gsLTgxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5MzYwMDYzLDE2NjQ2
-MDQ2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0MywtMTA0NTM2Mj
-gyMywtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOTA5OTg2NDgsLTEx
-NTEzMDc1MDFdfQ==
+eyJoaXN0b3J5IjpbLTE4NDQ0MDkwNDUsNDY1MDg1Njg0LDgxNT
+Q3Nzc2NiwtMjEwNzY4Nzc2OCwtMTgzMjYwMjg5OSwtMTUwMTQ3
+NzM3MiwtNTM5MzIyMTk3LC0xNTE0MzkyNTkwLC0yMDgwNTkzMj
+A4LC04MTE3OTA0ODEsNjEwNjgyMDEsMTAxOTM2MDA2MywxNjY0
+NjA0NjM1LDE2NzUwMzYyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNj
+I4MjMsLTE4MzMzMzUxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0x
+MTUxMzA3NTAxXX0=
 -->
