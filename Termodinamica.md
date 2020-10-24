@@ -854,7 +854,7 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 ![](https://i.imgur.com/eSdA52A.png)
 ## Ciclo rankine (turbina de vapor)
 
-Nuevamente
+Nuevamente, como concencuencia de la primera ley
 
 $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
@@ -868,11 +868,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTEwMTYzMyw4NjczOTQyODQsLTExNj
-EwNTUyNjgsLTE4OTAxMTQwMzAsMjEwNzE0OTk3NiwtMTY3ODQy
-OTUzNywtMjA0OTI3NjUwOCwtMTg0NDQwOTA0NSw0NjUwODU2OD
-QsODE1NDc3NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAyODk5LC0x
-NTAxNDc3MzcyLC01MzkzMjIxOTcsLTE1MTQzOTI1OTAsLTIwOD
-A1OTMyMDgsLTgxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5MzYwMDYz
-LDE2NjQ2MDQ2MzVdfQ==
+eyJoaXN0b3J5IjpbLTE2ODk3MzA2OTUsODY3Mzk0Mjg0LC0xMT
+YxMDU1MjY4LC0xODkwMTE0MDMwLDIxMDcxNDk5NzYsLTE2Nzg0
+Mjk1MzcsLTIwNDkyNzY1MDgsLTE4NDQ0MDkwNDUsNDY1MDg1Nj
+g0LDgxNTQ3Nzc2NiwtMjEwNzY4Nzc2OCwtMTgzMjYwMjg5OSwt
+MTUwMTQ3NzM3MiwtNTM5MzIyMTk3LC0xNTE0MzkyNTkwLC0yMD
+gwNTkzMjA4LC04MTE3OTA0ODEsNjEwNjgyMDEsMTAxOTM2MDA2
+MywxNjY0NjA0NjM1XX0=
 -->
