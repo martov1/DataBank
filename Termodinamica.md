@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=fSEFfWf2au0&list=PLH2l6uzC4UEVUmJdTMStYXad_sI73_
 
 **carnot**
 https://physics.stackexchange.com/questions/507397/queries-about-the-carnot-cycle
-
+**carnot**
+https://www.youtube.com/watch?v=m6XaSGQi2wA
 
 # Sistemas
 ## Definiciones
@@ -43,6 +44,7 @@ Las **propiedades** de un **sistema termodinamico** son sus caracteristicas, por
 		*  Chem. bonds
 		*  Temperatura
 		*  Trabajo mecanico
+		* Agitacion de las moleculas que no resulta en temperatura
 	* Masa
 * **Propiedades especificas** (intensivas pero independizadas de la cantidad de masa)
 	* Volumen especifico ($v=\frac{volumen}{masa}$)
@@ -822,11 +824,11 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODAwNTE2NywtMjEwNzY4Nzc2OCwtMT
-gzMjYwMjg5OSwtMTUwMTQ3NzM3MiwtNTM5MzIyMTk3LC0xNTE0
-MzkyNTkwLC0yMDgwNTkzMjA4LC04MTE3OTA0ODEsNjEwNjgyMD
-EsMTAxOTM2MDA2MywxNjY0NjA0NjM1LDE2NzUwMzYyMDAsLTIw
-MDU4NDUzNDMsLTEwNDUzNjI4MjMsLTE4MzMzMzUxLDEzMzk2OD
-UzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLDIwMzk5MTMzOTks
-LTY0MTk3MjU3Ml19
+eyJoaXN0b3J5IjpbLTEwMTY3MDU3MTAsLTIxMDc2ODc3NjgsLT
+E4MzI2MDI4OTksLTE1MDE0NzczNzIsLTUzOTMyMjE5NywtMTUx
+NDM5MjU5MCwtMjA4MDU5MzIwOCwtODExNzkwNDgxLDYxMDY4Mj
+AxLDEwMTkzNjAwNjMsMTY2NDYwNDYzNSwxNjc1MDM2MjAwLC0y
+MDA1ODQ1MzQzLC0xMDQ1MzYyODIzLC0xODMzMzM1MSwxMzM5Nj
+g1MzMsMTA5MDk5ODY0OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5
+LC02NDE5NzI1NzJdfQ==
 -->
