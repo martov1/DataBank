@@ -819,7 +819,7 @@ Esto implica que para todo ciclo el cambio de energia interna $U$ entre el princ
 ![](https://i.imgur.com/i5rgNXC.png =400x)
 
 
-## Ciclo de carnot - WIP
+## Ciclo de carnot 
 
 Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene una eficiencia del 100%**
 * Requiere de una pequeña cantidad de **trabajo negativo en forma de compresion**  para producir **trabajo positivo en forma de expansion** 
@@ -861,7 +861,7 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY4ODQ3ODEsMjEwNzE0OTk3NiwtMT
+eyJoaXN0b3J5IjpbLTE4OTAxMTQwMzAsMjEwNzE0OTk3NiwtMT
 Y3ODQyOTUzNywtMjA0OTI3NjUwOCwtMTg0NDQwOTA0NSw0NjUw
 ODU2ODQsODE1NDc3NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAyOD
 k5LC0xNTAxNDc3MzcyLC01MzkzMjIxOTcsLTE1MTQzOTI1OTAs
