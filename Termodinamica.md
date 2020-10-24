@@ -838,8 +838,10 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 **Algunas observaciones importantes**
 
 * :warning: Es el mas eficiente por que **todo el calor POSITIVO se transforma en trabajo (expansion isotermica y luego adiabatica)**
-* :warning: no tiene eficiencia del 100% por que **para volver al estado inicial hace falta comprimir el gas, pero para hacerlo con el menor trabajo posible se lo comprime de forma isotermica y luego adiabatica**
-* Notamos que entra un $Q_1$ en el paso 1 sale un $Q_2$ en el paso 3, entonces **no todo el calor se esta transformando en trabajo** $w$.
+* :warning: no tiene eficiencia del 100% por que **para volver al estado inicial hace falta comprimir el gas, pero para hacerlo con el menor trabajo posible**
+	*  se lo comprime de forma isotermica  para volver al nivel de energia interna en forma de temperatura necesario $T_1$
+	* Se lo comprime de forma **adiabatica** para volver al nivel de energia interna en forma de presion necesario $P$
+* Notamos que entra un $Q_1$ en el paso 1 y sale un $Q_2$ en el paso 3, entonces **no todo el calor se esta transformando en trabajo** $w$.
 	* En los procesos $adiabaticos$ no se pierde calor
 	* En los procesos isotermicos se gana $Q_1$ o se desecha $Q_2$
 	* Entonces el cambio de energia interna al final del ciclo es cero, por que vuelvo a donde empece  $\Delta U=0= Q_1-Q_2-w$
@@ -855,11 +857,11 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzNzE2MTcxLC0xNjc4NDI5NTM3LC0yMD
-Q5Mjc2NTA4LC0xODQ0NDA5MDQ1LDQ2NTA4NTY4NCw4MTU0Nzc3
-NjYsLTIxMDc2ODc3NjgsLTE4MzI2MDI4OTksLTE1MDE0NzczNz
-IsLTUzOTMyMjE5NywtMTUxNDM5MjU5MCwtMjA4MDU5MzIwOCwt
-ODExNzkwNDgxLDYxMDY4MjAxLDEwMTkzNjAwNjMsMTY2NDYwND
-YzNSwxNjc1MDM2MjAwLC0yMDA1ODQ1MzQzLC0xMDQ1MzYyODIz
-LC0xODMzMzM1MV19
+eyJoaXN0b3J5IjpbMTQ0NDQ3Mzk1OCwtMTY3ODQyOTUzNywtMj
+A0OTI3NjUwOCwtMTg0NDQwOTA0NSw0NjUwODU2ODQsODE1NDc3
+NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAyODk5LC0xNTAxNDc3Mz
+cyLC01MzkzMjIxOTcsLTE1MTQzOTI1OTAsLTIwODA1OTMyMDgs
+LTgxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5MzYwMDYzLDE2NjQ2MD
+Q2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0MywtMTA0NTM2Mjgy
+MywtMTgzMzMzNTFdfQ==
 -->
