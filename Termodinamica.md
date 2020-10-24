@@ -829,17 +829,18 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 	* En los procesos $adiabaticos$ no se pierde calor
 	* En los procesos isotermicos se gana $Q_1$ o se desecha $Q_2$
 	* Entonces el cambio de energia interna al final del ciclo es cero, por que vuelvo a donde empece  $\Delta U=0= Q_1-Q_2-w$
+	* Entonces el trabajo sera igual a $w=Q_1-Q_2$
 
 ![](https://i.imgur.com/MaGMtE9.png)
 ## Ciclo refrigeracion por gas
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDkyNzY1MDgsLTE4NDQ0MDkwNDUsND
-Y1MDg1Njg0LDgxNTQ3Nzc2NiwtMjEwNzY4Nzc2OCwtMTgzMjYw
-Mjg5OSwtMTUwMTQ3NzM3MiwtNTM5MzIyMTk3LC0xNTE0MzkyNT
-kwLC0yMDgwNTkzMjA4LC04MTE3OTA0ODEsNjEwNjgyMDEsMTAx
-OTM2MDA2MywxNjY0NjA0NjM1LDE2NzUwMzYyMDAsLTIwMDU4ND
-UzNDMsLTEwNDUzNjI4MjMsLTE4MzMzMzUxLDEzMzk2ODUzMywx
-MDkwOTk4NjQ4XX0=
+eyJoaXN0b3J5IjpbMTMxOTMwNTMzMSwtMjA0OTI3NjUwOCwtMT
+g0NDQwOTA0NSw0NjUwODU2ODQsODE1NDc3NzY2LC0yMTA3Njg3
+NzY4LC0xODMyNjAyODk5LC0xNTAxNDc3MzcyLC01MzkzMjIxOT
+csLTE1MTQzOTI1OTAsLTIwODA1OTMyMDgsLTgxMTc5MDQ4MSw2
+MTA2ODIwMSwxMDE5MzYwMDYzLDE2NjQ2MDQ2MzUsMTY3NTAzNj
+IwMCwtMjAwNTg0NTM0MywtMTA0NTM2MjgyMywtMTgzMzMzNTEs
+MTMzOTY4NTMzXX0=
 -->
