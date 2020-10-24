@@ -836,17 +836,17 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 1. Añado calor $Q_1$ de forma **isotermica**, osea que la temperatura $T_1$ no cambia, ese calor cambia el volumen $V_1$ del fluido, generando trabajo $w_1$ que empuja el piston (intercambio perfecto de  $Q_1$ por $w_2$, osea que $\Delta U = Q_1 - w = 0$)
 2. Mantengo el sistema **adiabatico** (sin transferencia de claor al exterior) la energia termica interna $U$ se va disipando hasta que pasamos de $T_1$ a $T_2$ transformándose adiabaticamente en volumen $V_2$ transformando $\Delta U=w$ **sin perdida de energia por calor**
 3. El piston ejerce **trabajo negativo** $-w_3$ comprimiendo el gas, ese trabajo se disipa en forma **isotermica** $Q_2=-w_3$, esto hace que $w_3$ sea lo mas chiquito posible
-4. El piston ejerce **trabajo negativo**  $-w_4$ en forma **adiabatica** transformando el trabajo en temperatuta
+4. El piston ejerce **trabajo negativo**  $-w_4$ en forma **adiabatica** transformando el trabajo en temperatura, elevando la energia interna $w=\Delta U$ hasta alcanzar la temperatura $T_1$
 
 ## Ciclo refrigeracion por gas
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxMDcwOTI3LC0yMDQ5Mjc2NTA4LC0xOD
-Q0NDA5MDQ1LDQ2NTA4NTY4NCw4MTU0Nzc3NjYsLTIxMDc2ODc3
-NjgsLTE4MzI2MDI4OTksLTE1MDE0NzczNzIsLTUzOTMyMjE5Ny
-wtMTUxNDM5MjU5MCwtMjA4MDU5MzIwOCwtODExNzkwNDgxLDYx
-MDY4MjAxLDEwMTkzNjAwNjMsMTY2NDYwNDYzNSwxNjc1MDM2Mj
-AwLC0yMDA1ODQ1MzQzLC0xMDQ1MzYyODIzLC0xODMzMzM1MSwx
-MzM5Njg1MzNdfQ==
+eyJoaXN0b3J5IjpbLTE2Nzg0Mjk1MzcsLTIwNDkyNzY1MDgsLT
+E4NDQ0MDkwNDUsNDY1MDg1Njg0LDgxNTQ3Nzc2NiwtMjEwNzY4
+Nzc2OCwtMTgzMjYwMjg5OSwtMTUwMTQ3NzM3MiwtNTM5MzIyMT
+k3LC0xNTE0MzkyNTkwLC0yMDgwNTkzMjA4LC04MTE3OTA0ODEs
+NjEwNjgyMDEsMTAxOTM2MDA2MywxNjY0NjA0NjM1LDE2NzUwMz
+YyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNjI4MjMsLTE4MzMzMzUx
+LDEzMzk2ODUzM119
 -->
