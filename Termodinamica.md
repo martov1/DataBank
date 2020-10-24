@@ -839,8 +839,8 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 
 * :warning: Es el mas eficiente por que **todo el calor POSITIVO se transforma en trabajo (expansion isotermica y luego adiabatica)**
 * :warning: no tiene eficiencia del 100% por que **para volver al estado inicial hace falta comprimir el gas, pero para hacerlo con el menor trabajo posible**
-	*  se lo comprime de forma isotermica  para volver al nivel de energia interna en forma de temperatura necesario $T_1$
-	* Se lo comprime de forma **adiabatica** para volver al nivel de energia interna en forma de presion necesario $P$
+	*  **Pare retornar $PV$ al punto de origen** Se lo comprime de forma **isotermica**
+	* **Pare retornar $PV$ al punto de origen**Se lo comprime de forma **adiabatica** para volver al nivel de energia interna en forma de presion y volumen necesario $Pv$
 * Notamos que entra un $Q_1$ en el paso 1 y sale un $Q_2$ en el paso 3, entonces **no todo el calor se esta transformando en trabajo** $w$.
 	* En los procesos $adiabaticos$ no se pierde calor
 	* En los procesos isotermicos se gana $Q_1$ o se desecha $Q_2$
@@ -857,7 +857,7 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDQ3Mzk1OCwtMTY3ODQyOTUzNywtMj
+eyJoaXN0b3J5IjpbLTQzOTg1NDA5MywtMTY3ODQyOTUzNywtMj
 A0OTI3NjUwOCwtMTg0NDQwOTA0NSw0NjUwODU2ODQsODE1NDc3
 NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAyODk5LC0xNTAxNDc3Mz
 cyLC01MzkzMjIxOTcsLTE1MTQzOTI1OTAsLTIwODA1OTMyMDgs
