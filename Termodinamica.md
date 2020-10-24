@@ -4,6 +4,8 @@ Quede en el video 13
 Ciclo de carnot
 https://www.youtube.com/watch?v=2B81W6nNds0&list=PLH2l6uzC4UEVUmJdTMStYXad_sI73_T0x&index=11
 
+**CRITICO CARNOT NECESITA TRABAJO POSITIVO**https://www.physicsforums.com/threads/why-does-heat-engine-need-to-do-negative-work-to-surround.866356/
+
 **CRITICO:** CORREGIR energia interna $u$ vs energia $E$, por que $u$ incluye $p.v$ y la enrgia que entregas con calor cuando entregas calor pero la temperatura no sube (en temp de saturacion)
 ![](https://i.imgur.com/sfLPDsD.png)
 Simplificar con esto
@@ -824,11 +826,11 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NDc3NzY2LC0yMTA3Njg3NzY4LC0xOD
-MyNjAyODk5LC0xNTAxNDc3MzcyLC01MzkzMjIxOTcsLTE1MTQz
-OTI1OTAsLTIwODA1OTMyMDgsLTgxMTc5MDQ4MSw2MTA2ODIwMS
-wxMDE5MzYwMDYzLDE2NjQ2MDQ2MzUsMTY3NTAzNjIwMCwtMjAw
-NTg0NTM0MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4NT
-MzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwt
-NjQxOTcyNTcyXX0=
+eyJoaXN0b3J5IjpbNDY1MDg1Njg0LDgxNTQ3Nzc2NiwtMjEwNz
+Y4Nzc2OCwtMTgzMjYwMjg5OSwtMTUwMTQ3NzM3MiwtNTM5MzIy
+MTk3LC0xNTE0MzkyNTkwLC0yMDgwNTkzMjA4LC04MTE3OTA0OD
+EsNjEwNjgyMDEsMTAxOTM2MDA2MywxNjY0NjA0NjM1LDE2NzUw
+MzYyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNjI4MjMsLTE4MzMzMz
+UxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLDIw
+Mzk5MTMzOTldfQ==
 -->
