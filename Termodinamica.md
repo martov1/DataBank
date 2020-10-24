@@ -813,7 +813,7 @@ En terminos sencillos _El calor fluye de cosas a alta temperatura a cosas de baj
 
 Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  el **estado final es igual al inicial antes de empezar**.
 
-Esto implica que p
+Esto implica que para todo ciclo el cambio de energia interna $U$ entre el principio y el final del ciclo es cerp $\Delta U = 0$
 
 
 ![](https://i.imgur.com/i5rgNXC.png =400x)
@@ -835,11 +835,11 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTI0NTU0MywtMTg0NDQwOTA0NSw0Nj
-UwODU2ODQsODE1NDc3NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAy
-ODk5LC0xNTAxNDc3MzcyLC01MzkzMjIxOTcsLTE1MTQzOTI1OT
-AsLTIwODA1OTMyMDgsLTgxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5
-MzYwMDYzLDE2NjQ2MDQ2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NT
-M0MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4NTMzLDEw
-OTA5OTg2NDhdfQ==
+eyJoaXN0b3J5IjpbLTIwNDkyNzY1MDgsLTE4NDQ0MDkwNDUsND
+Y1MDg1Njg0LDgxNTQ3Nzc2NiwtMjEwNzY4Nzc2OCwtMTgzMjYw
+Mjg5OSwtMTUwMTQ3NzM3MiwtNTM5MzIyMTk3LC0xNTE0MzkyNT
+kwLC0yMDgwNTkzMjA4LC04MTE3OTA0ODEsNjEwNjgyMDEsMTAx
+OTM2MDA2MywxNjY0NjA0NjM1LDE2NzUwMzYyMDAsLTIwMDU4ND
+UzNDMsLTEwNDUzNjI4MjMsLTE4MzMzMzUxLDEzMzk2ODUzMywx
+MDkwOTk4NjQ4XX0=
 -->
