@@ -813,6 +813,7 @@ En terminos sencillos _El calor fluye de cosas a alta temperatura a cosas de baj
 
 Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  el **estado final es igual al inicial antes de empezar**.
 
+Esto implica que p
 
 
 ![](https://i.imgur.com/i5rgNXC.png =400x)
@@ -827,18 +828,18 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 * Notamos que entra un $Q_1$ en el paso 1 sale un $Q_2$ en el paso 3, entonces **no todo el calor se esta transformando en trabajo** $w$.
 	* En los procesos $adiabaticos$ no se pierde calor
 	* En los procesos isotermicos se gana $Q_1$ o se desecha $Q_2$
-	* Entonces $\Delta U= Q_1-Q_2-w$
+	* Entonces el cambio de energia interna al final del ciclo es cero, por que vuelvo a donde empece  $\Delta U=0= Q_1-Q_2-w$
 
 ![](https://i.imgur.com/MaGMtE9.png)
 ## Ciclo refrigeracion por gas
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NDAzMDcwLC0xODQ0NDA5MDQ1LDQ2NT
-A4NTY4NCw4MTU0Nzc3NjYsLTIxMDc2ODc3NjgsLTE4MzI2MDI4
-OTksLTE1MDE0NzczNzIsLTUzOTMyMjE5NywtMTUxNDM5MjU5MC
-wtMjA4MDU5MzIwOCwtODExNzkwNDgxLDYxMDY4MjAxLDEwMTkz
-NjAwNjMsMTY2NDYwNDYzNSwxNjc1MDM2MjAwLC0yMDA1ODQ1Mz
-QzLC0xMDQ1MzYyODIzLC0xODMzMzM1MSwxMzM5Njg1MzMsMTA5
-MDk5ODY0OF19
+eyJoaXN0b3J5IjpbLTY1MTI0NTU0MywtMTg0NDQwOTA0NSw0Nj
+UwODU2ODQsODE1NDc3NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAy
+ODk5LC0xNTAxNDc3MzcyLC01MzkzMjIxOTcsLTE1MTQzOTI1OT
+AsLTIwODA1OTMyMDgsLTgxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5
+MzYwMDYzLDE2NjQ2MDQ2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NT
+M0MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4NTMzLDEw
+OTA5OTg2NDhdfQ==
 -->
