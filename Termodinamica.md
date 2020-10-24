@@ -852,16 +852,20 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 
 
 ![](https://i.imgur.com/eSdA52A.png)
+## Ciclo rankine (turbina de vapor)
+
+
+
 
 ## Ciclo refrigeracion por gas
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzE0OTk3NiwtMTY3ODQyOTUzNywtMj
-A0OTI3NjUwOCwtMTg0NDQwOTA0NSw0NjUwODU2ODQsODE1NDc3
-NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAyODk5LC0xNTAxNDc3Mz
-cyLC01MzkzMjIxOTcsLTE1MTQzOTI1OTAsLTIwODA1OTMyMDgs
-LTgxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5MzYwMDYzLDE2NjQ2MD
-Q2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0MywtMTA0NTM2Mjgy
-MywtMTgzMzMzNTFdfQ==
+eyJoaXN0b3J5IjpbLTEzNzY4ODQ3ODEsMjEwNzE0OTk3NiwtMT
+Y3ODQyOTUzNywtMjA0OTI3NjUwOCwtMTg0NDQwOTA0NSw0NjUw
+ODU2ODQsODE1NDc3NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAyOD
+k5LC0xNTAxNDc3MzcyLC01MzkzMjIxOTcsLTE1MTQzOTI1OTAs
+LTIwODA1OTMyMDgsLTgxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5Mz
+YwMDYzLDE2NjQ2MDQ2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0
+MywtMTA0NTM2MjgyM119
 -->
