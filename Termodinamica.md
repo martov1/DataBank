@@ -820,17 +820,19 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 ## Ciclo de carnot - WIP
 
+Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene una eficiencia del 100%**
+* Requiere de una pequeña cantidad de **trabajo negativo** en forma d para producir **trabajo positivo** 
 
-
+![](https://i.imgur.com/MaGMtE9.png)
 ## Ciclo refrigeracion por gas
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MDg1Njg0LDgxNTQ3Nzc2NiwtMjEwNz
-Y4Nzc2OCwtMTgzMjYwMjg5OSwtMTUwMTQ3NzM3MiwtNTM5MzIy
-MTk3LC0xNTE0MzkyNTkwLC0yMDgwNTkzMjA4LC04MTE3OTA0OD
-EsNjEwNjgyMDEsMTAxOTM2MDA2MywxNjY0NjA0NjM1LDE2NzUw
-MzYyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNjI4MjMsLTE4MzMzMz
-UxLDEzMzk2ODUzMywxMDkwOTk4NjQ4LC0xMTUxMzA3NTAxLDIw
-Mzk5MTMzOTldfQ==
+eyJoaXN0b3J5IjpbNTM3OTU5NDc3LDQ2NTA4NTY4NCw4MTU0Nz
+c3NjYsLTIxMDc2ODc3NjgsLTE4MzI2MDI4OTksLTE1MDE0Nzcz
+NzIsLTUzOTMyMjE5NywtMTUxNDM5MjU5MCwtMjA4MDU5MzIwOC
+wtODExNzkwNDgxLDYxMDY4MjAxLDEwMTkzNjAwNjMsMTY2NDYw
+NDYzNSwxNjc1MDM2MjAwLC0yMDA1ODQ1MzQzLC0xMDQ1MzYyOD
+IzLC0xODMzMzM1MSwxMzM5Njg1MzMsMTA5MDk5ODY0OCwtMTE1
+MTMwNzUwMV19
 -->
