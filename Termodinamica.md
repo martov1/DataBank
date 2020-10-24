@@ -838,15 +838,18 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 3. El piston ejerce **trabajo negativo** $-w_3$ comprimiendo el gas, ese trabajo se disipa en forma **isotermica** $Q_2=-w_3$, esto hace que $w_3$ sea lo mas chiquito posible
 4. El piston ejerce **trabajo negativo**  $-w_4$ en forma **adiabatica** transformando el trabajo en temperatura, elevando la energia interna $w=\Delta U$ hasta alcanzar la temperatura $T_1$
 
+
+
+
 ## Ciclo refrigeracion por gas
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg0Mjk1MzcsLTIwNDkyNzY1MDgsLT
-E4NDQ0MDkwNDUsNDY1MDg1Njg0LDgxNTQ3Nzc2NiwtMjEwNzY4
-Nzc2OCwtMTgzMjYwMjg5OSwtMTUwMTQ3NzM3MiwtNTM5MzIyMT
-k3LC0xNTE0MzkyNTkwLC0yMDgwNTkzMjA4LC04MTE3OTA0ODEs
-NjEwNjgyMDEsMTAxOTM2MDA2MywxNjY0NjA0NjM1LDE2NzUwMz
-YyMDAsLTIwMDU4NDUzNDMsLTEwNDUzNjI4MjMsLTE4MzMzMzUx
-LDEzMzk2ODUzM119
+eyJoaXN0b3J5IjpbMTE4Mjc1MzQ0OSwtMTY3ODQyOTUzNywtMj
+A0OTI3NjUwOCwtMTg0NDQwOTA0NSw0NjUwODU2ODQsODE1NDc3
+NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAyODk5LC0xNTAxNDc3Mz
+cyLC01MzkzMjIxOTcsLTE1MTQzOTI1OTAsLTIwODA1OTMyMDgs
+LTgxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5MzYwMDYzLDE2NjQ2MD
+Q2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0MywtMTA0NTM2Mjgy
+MywtMTgzMzMzNTFdfQ==
 -->
