@@ -834,18 +834,19 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 ![](https://i.imgur.com/MaGMtE9.png)
 **Pasos del ciclo**
 1. Añado calor $Q_1$ de forma **isotermica**, osea que la temperatura $T_1$ no cambia, ese calor cambia el volumen $V_1$ del fluido, generando trabajo $w_1$ que empuja el piston (intercambio perfecto de  $Q_1$ por $w_2$, osea que $\Delta U = Q_1 - w = 0$)
-2. No añado calor, la energia termica interna $U$ se va disipando hasta que pasamos de $T_1$ a $T_2$ transformándose adiabaticamente en volumen $V_2$ transformando $\Delta U=w$ **sin perdida de energia por calor**
-3. El piston ejerce **trabajo negativo** $-w_3$ comprimiendo el gas, ese trabajo se disipa en forma **isotermica** $Q_2=-w_3$, esto hace que $w_3$ sea lo mas ch
+2. Mantengo el sistema **adiabatico** (sin transferencia de claor al exterior) la energia termica interna $U$ se va disipando hasta que pasamos de $T_1$ a $T_2$ transformándose adiabaticamente en volumen $V_2$ transformando $\Delta U=w$ **sin perdida de energia por calor**
+3. El piston ejerce **trabajo negativo** $-w_3$ comprimiendo el gas, ese trabajo se disipa en forma **isotermica** $Q_2=-w_3$, esto hace que $w_3$ sea lo mas chiquito posible
+4. El piston ejerce **trabajo negativo**  $-w_4$ en forma **adiabatica** transformando el trabajo en temperatuta
 
 ## Ciclo refrigeracion por gas
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTQ3MDQ4OSwtMjA0OTI3NjUwOCwtMT
-g0NDQwOTA0NSw0NjUwODU2ODQsODE1NDc3NzY2LC0yMTA3Njg3
-NzY4LC0xODMyNjAyODk5LC0xNTAxNDc3MzcyLC01MzkzMjIxOT
-csLTE1MTQzOTI1OTAsLTIwODA1OTMyMDgsLTgxMTc5MDQ4MSw2
-MTA2ODIwMSwxMDE5MzYwMDYzLDE2NjQ2MDQ2MzUsMTY3NTAzNj
-IwMCwtMjAwNTg0NTM0MywtMTA0NTM2MjgyMywtMTgzMzMzNTEs
-MTMzOTY4NTMzXX0=
+eyJoaXN0b3J5IjpbMzkxMDcwOTI3LC0yMDQ5Mjc2NTA4LC0xOD
+Q0NDA5MDQ1LDQ2NTA4NTY4NCw4MTU0Nzc3NjYsLTIxMDc2ODc3
+NjgsLTE4MzI2MDI4OTksLTE1MDE0NzczNzIsLTUzOTMyMjE5Ny
+wtMTUxNDM5MjU5MCwtMjA4MDU5MzIwOCwtODExNzkwNDgxLDYx
+MDY4MjAxLDEwMTkzNjAwNjMsMTY2NDYwNDYzNSwxNjc1MDM2Mj
+AwLC0yMDA1ODQ1MzQzLC0xMDQ1MzYyODIzLC0xODMzMzM1MSwx
+MzM5Njg1MzNdfQ==
 -->
