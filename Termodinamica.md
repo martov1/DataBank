@@ -4,8 +4,8 @@ Quede en el video 13
 Ciclo de carnot
 https://www.youtube.com/watch?v=2B81W6nNds0&list=PLH2l6uzC4UEVUmJdTMStYXad_sI73_T0x&index=11
 
-**CRITICO:** CORREGIR energia interna $u$ vs energia $E$, por que $u$ incluye la energia que no es calor (osea, )
-
+**CRITICO:** CORREGIR energia interna $u$ vs energia $E$, por que $u$ incluye $p.v$ y la enrgia que entregas con calor cuando entregas calor pero la temperatura no sube (en temp de saturacion)
+![](https://i.imgur.com/sfLPDsD.png)
 Simplificar con esto
 https://www.youtube.com/watch?v=fSEFfWf2au0&list=PLH2l6uzC4UEVUmJdTMStYXad_sI73_T0x&index=10
 
@@ -818,11 +818,11 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTk0ODQxLC0xODMyNjAyODk5LC0xNT
-AxNDc3MzcyLC01MzkzMjIxOTcsLTE1MTQzOTI1OTAsLTIwODA1
-OTMyMDgsLTgxMTc5MDQ4MSw2MTA2ODIwMSwxMDE5MzYwMDYzLD
-E2NjQ2MDQ2MzUsMTY3NTAzNjIwMCwtMjAwNTg0NTM0MywtMTA0
-NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4NTMzLDEwOTA5OTg2ND
-gsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwtNjQxOTcyNTcyLDEx
-OTI3NDU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTIxMDc2ODc3NjgsLTE4MzI2MDI4OTksLT
+E1MDE0NzczNzIsLTUzOTMyMjE5NywtMTUxNDM5MjU5MCwtMjA4
+MDU5MzIwOCwtODExNzkwNDgxLDYxMDY4MjAxLDEwMTkzNjAwNj
+MsMTY2NDYwNDYzNSwxNjc1MDM2MjAwLC0yMDA1ODQ1MzQzLC0x
+MDQ1MzYyODIzLC0xODMzMzM1MSwxMzM5Njg1MzMsMTA5MDk5OD
+Y0OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5LC02NDE5NzI1NzIs
+MTE5Mjc0NTY4MF19
 -->
