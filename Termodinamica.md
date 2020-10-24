@@ -479,7 +479,7 @@ De forma diferencial
 
 $$dE= \delta  E_{entrante}-  \delta E_{saliente}$$
 
-Sabiendo que  el cambio de  energia es el calor mas el trabajo$E=w+q$, si asumimos que no hay trabajo siendo generado $w=0$
+Sabiendo que  el cambio de  energia es el calor mas el trabajo$\Delta E=w+q$, si asumimos que no hay trabajo siendo generado $w=0$
 
 $$dE= \delta  q_{entrante}-  \delta q_{saliente}$$
 
@@ -824,11 +824,11 @@ Un ciclo es una **serie de procesos** en el que, al final del ultimo proceso,  e
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDgyMzczMTQsLTIxMDc2ODc3NjgsLT
-E4MzI2MDI4OTksLTE1MDE0NzczNzIsLTUzOTMyMjE5NywtMTUx
-NDM5MjU5MCwtMjA4MDU5MzIwOCwtODExNzkwNDgxLDYxMDY4Mj
-AxLDEwMTkzNjAwNjMsMTY2NDYwNDYzNSwxNjc1MDM2MjAwLC0y
-MDA1ODQ1MzQzLC0xMDQ1MzYyODIzLC0xODMzMzM1MSwxMzM5Nj
-g1MzMsMTA5MDk5ODY0OCwtMTE1MTMwNzUwMSwyMDM5OTEzMzk5
-LC02NDE5NzI1NzJdfQ==
+eyJoaXN0b3J5IjpbODE1NDc3NzY2LC0yMTA3Njg3NzY4LC0xOD
+MyNjAyODk5LC0xNTAxNDc3MzcyLC01MzkzMjIxOTcsLTE1MTQz
+OTI1OTAsLTIwODA1OTMyMDgsLTgxMTc5MDQ4MSw2MTA2ODIwMS
+wxMDE5MzYwMDYzLDE2NjQ2MDQ2MzUsMTY3NTAzNjIwMCwtMjAw
+NTg0NTM0MywtMTA0NTM2MjgyMywtMTgzMzMzNTEsMTMzOTY4NT
+MzLDEwOTA5OTg2NDgsLTExNTEzMDc1MDEsMjAzOTkxMzM5OSwt
+NjQxOTcyNTcyXX0=
 -->
