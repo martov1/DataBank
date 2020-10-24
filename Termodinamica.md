@@ -833,14 +833,14 @@ Es el ciclo de motor de calor mas eficiente, pero **aun siendo ideal, no tiene u
 
 ![](https://i.imgur.com/MaGMtE9.png)
 **Pasos del ciclo**
-1. Añado calor de forma isotermica, osea que la temperatura no cambia, ese calor cambia el volumen del fluido, generando trabajo en el piston (intercambio perfecto de  $Q_1$ por $w$, osea que $\Delta U = Q_1 - w = 0$)
+1. Añado calor $Q_1$ de forma **isotermica**, osea que la temperatura $T_1$ no cambia, ese calor cambia el volumen $V_1$ del fluido, generando trabajo en el piston (intercambio perfecto de  $Q_1$ por $w$, osea que $\Delta U = Q_1 - w = 0$)
 2. 
 
 ## Ciclo refrigeracion por gas
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTA5MTEyNCwtMjA0OTI3NjUwOCwtMT
+eyJoaXN0b3J5IjpbMTMwNDYwMTkzNSwtMjA0OTI3NjUwOCwtMT
 g0NDQwOTA0NSw0NjUwODU2ODQsODE1NDc3NzY2LC0yMTA3Njg3
 NzY4LC0xODMyNjAyODk5LC0xNTAxNDc3MzcyLC01MzkzMjIxOT
 csLTE1MTQzOTI1OTAsLTIwODA1OTMyMDgsLTgxMTc5MDQ4MSw2
