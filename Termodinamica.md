@@ -1,20 +1,11 @@
 [fuente](https://www.youtube.com/watch?v=TwKQ3MDrLlM&list=PLkiO5Q9dOKIJtJSu7f8f7dfSIPSPM4aVU&index=6) 
 Quede en el video 13
 
-Ciclo de carnot
-https://www.youtube.com/watch?v=2B81W6nNds0&list=PLH2l6uzC4UEVUmJdTMStYXad_sI73_T0x&index=11
-
-**CRITICO CARNOT NECESITA TRABAJO POSITIVO**https://www.physicsforums.com/threads/why-does-heat-engine-need-to-do-negative-work-to-surround.866356/
 
 **CRITICO:** CORREGIR energia interna $u$ vs energia $E$, por que $u$ incluye $p.v$ y la enrgia que entregas con calor cuando entregas calor pero la temperatura no sube (en temp de saturacion)
 ![](https://i.imgur.com/sfLPDsD.png)
 Simplificar con esto
 https://www.youtube.com/watch?v=fSEFfWf2au0&list=PLH2l6uzC4UEVUmJdTMStYXad_sI73_T0x&index=10
-
-**carnot**
-https://physics.stackexchange.com/questions/507397/queries-about-the-carnot-cycle
-**carnot**
-https://www.youtube.com/watch?v=m6XaSGQi2wA
 
 # Sistemas
 ## Definiciones
@@ -868,11 +859,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk3MzA2OTUsODY3Mzk0Mjg0LC0xMT
-YxMDU1MjY4LC0xODkwMTE0MDMwLDIxMDcxNDk5NzYsLTE2Nzg0
-Mjk1MzcsLTIwNDkyNzY1MDgsLTE4NDQ0MDkwNDUsNDY1MDg1Nj
-g0LDgxNTQ3Nzc2NiwtMjEwNzY4Nzc2OCwtMTgzMjYwMjg5OSwt
-MTUwMTQ3NzM3MiwtNTM5MzIyMTk3LC0xNTE0MzkyNTkwLC0yMD
-gwNTkzMjA4LC04MTE3OTA0ODEsNjEwNjgyMDEsMTAxOTM2MDA2
-MywxNjY0NjA0NjM1XX0=
+eyJoaXN0b3J5IjpbLTY1ODU5OTc0MCwtMTY4OTczMDY5NSw4Nj
+czOTQyODQsLTExNjEwNTUyNjgsLTE4OTAxMTQwMzAsMjEwNzE0
+OTk3NiwtMTY3ODQyOTUzNywtMjA0OTI3NjUwOCwtMTg0NDQwOT
+A0NSw0NjUwODU2ODQsODE1NDc3NzY2LC0yMTA3Njg3NzY4LC0x
+ODMyNjAyODk5LC0xNTAxNDc3MzcyLC01MzkzMjIxOTcsLTE1MT
+QzOTI1OTAsLTIwODA1OTMyMDgsLTgxMTc5MDQ4MSw2MTA2ODIw
+MSwxMDE5MzYwMDYzXX0=
 -->
