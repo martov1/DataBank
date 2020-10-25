@@ -10,7 +10,8 @@ para la parte teórica tener presente
 *  Ciclo diessel
 *  Otto
 *  Rankine
-*  Turbina de gas, como así también las definiciones de Primer y segundo principio, evoluciones con gases ideales. Espero te sirva la referencia, un abrazo.
+*  Turbina de gas
+*  definiciones de Primer y segundo principio, evoluciones con gases ideales. 
 
 ---
 
@@ -871,11 +872,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzU0NDExOCwtODM1MTQxMjEzLC02NT
-g1OTk3NDAsLTE2ODk3MzA2OTUsODY3Mzk0Mjg0LC0xMTYxMDU1
-MjY4LC0xODkwMTE0MDMwLDIxMDcxNDk5NzYsLTE2Nzg0Mjk1Mz
-csLTIwNDkyNzY1MDgsLTE4NDQ0MDkwNDUsNDY1MDg1Njg0LDgx
-NTQ3Nzc2NiwtMjEwNzY4Nzc2OCwtMTgzMjYwMjg5OSwtMTUwMT
-Q3NzM3MiwtNTM5MzIyMTk3LC0xNTE0MzkyNTkwLC0yMDgwNTkz
-MjA4LC04MTE3OTA0ODFdfQ==
+eyJoaXN0b3J5IjpbLTY4NzM4OTkyLC04MzUxNDEyMTMsLTY1OD
+U5OTc0MCwtMTY4OTczMDY5NSw4NjczOTQyODQsLTExNjEwNTUy
+NjgsLTE4OTAxMTQwMzAsMjEwNzE0OTk3NiwtMTY3ODQyOTUzNy
+wtMjA0OTI3NjUwOCwtMTg0NDQwOTA0NSw0NjUwODU2ODQsODE1
+NDc3NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAyODk5LC0xNTAxND
+c3MzcyLC01MzkzMjIxOTcsLTE1MTQzOTI1OTAsLTIwODA1OTMy
+MDgsLTgxMTc5MDQ4MV19
 -->
