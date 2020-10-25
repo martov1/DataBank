@@ -1,6 +1,18 @@
 [fuente](https://www.youtube.com/watch?v=TwKQ3MDrLlM&list=PLkiO5Q9dOKIJtJSu7f8f7dfSIPSPM4aVU&index=6) 
 Quede en el video 14
 
+---
+Hola Ricardo, te cuento que para Resistencia tenés que resolver bien los problemas de vigas cargadas y sus diagramas de características, para la parte de elementos de máquinas, resolver problemas de transmisión por correas y engranajes, todos ejercicios que hemos ido resolviendo, tal vez alguna pregunta sencilla de esfuerzos simples (Tracción, compresión, Flexión y Torsión). 
+
+Para Máquinas térmicas, resolver problemas de 
+* ciclos de vapor mediante el uso de diagrama
+para la parte teórica tener presente
+*  Ciclo diessel
+*  Otto
+*  Rankine
+*  Turbina de gas, como así también las definiciones de Primer y segundo principio, evoluciones con gases ideales. Espero te sirva la referencia, un abrazo.
+
+---
 
 **CRITICO:** CORREGIR energia interna $u$ vs energia $E$, por que $u$ incluye $p.v$ y la enrgia que entregas con calor cuando entregas calor pero la temperatura no sube (en temp de saturacion)
 ![](https://i.imgur.com/sfLPDsD.png)
@@ -859,11 +871,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTE0MTIxMywtNjU4NTk5NzQwLC0xNj
-g5NzMwNjk1LDg2NzM5NDI4NCwtMTE2MTA1NTI2OCwtMTg5MDEx
-NDAzMCwyMTA3MTQ5OTc2LC0xNjc4NDI5NTM3LC0yMDQ5Mjc2NT
-A4LC0xODQ0NDA5MDQ1LDQ2NTA4NTY4NCw4MTU0Nzc3NjYsLTIx
-MDc2ODc3NjgsLTE4MzI2MDI4OTksLTE1MDE0NzczNzIsLTUzOT
-MyMjE5NywtMTUxNDM5MjU5MCwtMjA4MDU5MzIwOCwtODExNzkw
-NDgxLDYxMDY4MjAxXX0=
+eyJoaXN0b3J5IjpbMTMxNzU0NDExOCwtODM1MTQxMjEzLC02NT
+g1OTk3NDAsLTE2ODk3MzA2OTUsODY3Mzk0Mjg0LC0xMTYxMDU1
+MjY4LC0xODkwMTE0MDMwLDIxMDcxNDk5NzYsLTE2Nzg0Mjk1Mz
+csLTIwNDkyNzY1MDgsLTE4NDQ0MDkwNDUsNDY1MDg1Njg0LDgx
+NTQ3Nzc2NiwtMjEwNzY4Nzc2OCwtMTgzMjYwMjg5OSwtMTUwMT
+Q3NzM3MiwtNTM5MzIyMTk3LC0xNTE0MzkyNTkwLC0yMDgwNTkz
+MjA4LC04MTE3OTA0ODFdfQ==
 -->
