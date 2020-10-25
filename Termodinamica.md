@@ -1,5 +1,5 @@
 [fuente](https://www.youtube.com/watch?v=TwKQ3MDrLlM&list=PLkiO5Q9dOKIJtJSu7f8f7dfSIPSPM4aVU&index=6) 
-Quede en el video 13
+Quede en el video 14
 
 
 **CRITICO:** CORREGIR energia interna $u$ vs energia $E$, por que $u$ incluye $p.v$ y la enrgia que entregas con calor cuando entregas calor pero la temperatura no sube (en temp de saturacion)
@@ -859,11 +859,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODU5OTc0MCwtMTY4OTczMDY5NSw4Nj
-czOTQyODQsLTExNjEwNTUyNjgsLTE4OTAxMTQwMzAsMjEwNzE0
-OTk3NiwtMTY3ODQyOTUzNywtMjA0OTI3NjUwOCwtMTg0NDQwOT
-A0NSw0NjUwODU2ODQsODE1NDc3NzY2LC0yMTA3Njg3NzY4LC0x
-ODMyNjAyODk5LC0xNTAxNDc3MzcyLC01MzkzMjIxOTcsLTE1MT
-QzOTI1OTAsLTIwODA1OTMyMDgsLTgxMTc5MDQ4MSw2MTA2ODIw
-MSwxMDE5MzYwMDYzXX0=
+eyJoaXN0b3J5IjpbLTgzNTE0MTIxMywtNjU4NTk5NzQwLC0xNj
+g5NzMwNjk1LDg2NzM5NDI4NCwtMTE2MTA1NTI2OCwtMTg5MDEx
+NDAzMCwyMTA3MTQ5OTc2LC0xNjc4NDI5NTM3LC0yMDQ5Mjc2NT
+A4LC0xODQ0NDA5MDQ1LDQ2NTA4NTY4NCw4MTU0Nzc3NjYsLTIx
+MDc2ODc3NjgsLTE4MzI2MDI4OTksLTE1MDE0NzczNzIsLTUzOT
+MyMjE5NywtMTUxNDM5MjU5MCwtMjA4MDU5MzIwOCwtODExNzkw
+NDgxLDYxMDY4MjAxXX0=
 -->
