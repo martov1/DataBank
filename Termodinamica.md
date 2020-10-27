@@ -700,6 +700,9 @@ Si fluyen liquidos, estos no se comprimen, entonces siempre sucedera que el fluj
 
 $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 ![](https://i.imgur.com/F9I7OwG.png =200x)
+# Entropia
+
+
 
 # Leyes de la termodinámica 
 
@@ -872,11 +875,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA3NjY4NSwtODM1MTQxMjEzLC02NT
-g1OTk3NDAsLTE2ODk3MzA2OTUsODY3Mzk0Mjg0LC0xMTYxMDU1
-MjY4LC0xODkwMTE0MDMwLDIxMDcxNDk5NzYsLTE2Nzg0Mjk1Mz
-csLTIwNDkyNzY1MDgsLTE4NDQ0MDkwNDUsNDY1MDg1Njg0LDgx
-NTQ3Nzc2NiwtMjEwNzY4Nzc2OCwtMTgzMjYwMjg5OSwtMTUwMT
-Q3NzM3MiwtNTM5MzIyMTk3LC0xNTE0MzkyNTkwLC0yMDgwNTkz
-MjA4LC04MTE3OTA0ODFdfQ==
+eyJoaXN0b3J5IjpbLTE1NjY1NzI1MzgsLTE2ODA3NjY4NSwtOD
+M1MTQxMjEzLC02NTg1OTk3NDAsLTE2ODk3MzA2OTUsODY3Mzk0
+Mjg0LC0xMTYxMDU1MjY4LC0xODkwMTE0MDMwLDIxMDcxNDk5Nz
+YsLTE2Nzg0Mjk1MzcsLTIwNDkyNzY1MDgsLTE4NDQ0MDkwNDUs
+NDY1MDg1Njg0LDgxNTQ3Nzc2NiwtMjEwNzY4Nzc2OCwtMTgzMj
+YwMjg5OSwtMTUwMTQ3NzM3MiwtNTM5MzIyMTk3LC0xNTE0Mzky
+NTkwLC0yMDgwNTkzMjA4XX0=
 -->
