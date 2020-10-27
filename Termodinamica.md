@@ -710,8 +710,11 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 
 Es una manera de medir la cantidad de energia que no esta disponible para realizar trabajo.
 
+Para $T$ constente:
+$$\Delta s = \frac{\Delta Q_{rev}}{T}$$ 
 
-$$\Delta s = \sum \frac{Q_{rev}}{T}$$
+Para $T$ no constante
+$$\Delta s = \int \frac{Q_{rev}}{T}$$
 
 El **cambio de entalpia** es:
 * **el calor** aplicado sobre un sistema **reversible** sobre **la temperatura a la que fue aplicado** ese calor 
@@ -893,11 +896,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjI0MjI3LC01MjM5Nzk0ODcsLTEwNj
-I3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3MDAy
-MTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2NjU3MjUzOC
-wtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5OTc0MCwtMTY4
-OTczMDY5NSw4NjczOTQyODQsLTExNjEwNTUyNjgsLTE4OTAxMT
-QwMzAsMjEwNzE0OTk3NiwtMTY3ODQyOTUzNywtMjA0OTI3NjUw
-OCwtMTg0NDQwOTA0NV19
+eyJoaXN0b3J5IjpbLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01Mj
+M5Nzk0ODcsLTEwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgy
+NTIzLDE5MjU3MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OS
+wtMTU2NjU3MjUzOCwtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1
+ODU5OTc0MCwtMTY4OTczMDY5NSw4NjczOTQyODQsLTExNjEwNT
+UyNjgsLTE4OTAxMTQwMzAsMjEwNzE0OTk3NiwtMTY3ODQyOTUz
+NywtMjA0OTI3NjUwOF19
 -->
