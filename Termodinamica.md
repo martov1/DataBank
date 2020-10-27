@@ -726,9 +726,9 @@ El **cambio de entalpia** es:
 
 **EJEMPLO**
 
-Se derrite un cubo de hielo de 1kg, añadiendo calor $Q$  y manteniendose a temperatura $T$.
+Se derrite un cubo de hielo de 1kg, añadiendo calor $Q=334880j$  y manteniendose a temperatura $T=273K$.
 
-$$\Delta s =\frac{Q}{T} = \frac{334880}{273K}=1277\frac{j}{K}$$ 
+$$\Delta s =\frac{Q}{T} = \frac{334880j}{273K}=1277\frac{j}{K}$$ 
 
 # Leyes de la termodinámica 
 
@@ -904,11 +904,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzQ1OTY0OCwtMTQ4MTM2NTk1NSwtOD
-MyMjQyMjcsLTUyMzk3OTQ4NywtMTA2Mjc0NjMzMSwxODA4NzE0
-ODM1LDE4OTQ0ODI1MjMsMTkyNTcwMDIxNSwtMjM5NzkxNDcwLC
-0xNTEwODUwNzc5LC0xNTY2NTcyNTM4LC0xNjgwNzY2ODUsLTgz
-NTE0MTIxMywtNjU4NTk5NzQwLC0xNjg5NzMwNjk1LDg2NzM5ND
-I4NCwtMTE2MTA1NTI2OCwtMTg5MDExNDAzMCwyMTA3MTQ5OTc2
-LC0xNjc4NDI5NTM3XX0=
+eyJoaXN0b3J5IjpbLTE0ODIzNzcwODcsLTE0ODEzNjU5NTUsLT
+gzMjI0MjI3LC01MjM5Nzk0ODcsLTEwNjI3NDYzMzEsMTgwODcx
+NDgzNSwxODk0NDgyNTIzLDE5MjU3MDAyMTUsLTIzOTc5MTQ3MC
+wtMTUxMDg1MDc3OSwtMTU2NjU3MjUzOCwtMTY4MDc2Njg1LC04
+MzUxNDEyMTMsLTY1ODU5OTc0MCwtMTY4OTczMDY5NSw4NjczOT
+QyODQsLTExNjEwNTUyNjgsLTE4OTAxMTQwMzAsMjEwNzE0OTk3
+NiwtMTY3ODQyOTUzN119
 -->
