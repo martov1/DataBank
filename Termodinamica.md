@@ -727,7 +727,7 @@ El **cambio de entalpia** es:
 
 Se derrite un cubo de hielo de 1kg, añadiendo calor $Q$  y manteniendose a temperatura $T$.
 
-$$\Delta s =\frac{Q}{T} = \frac{m.c_l}{T}=\frac{1.4186}{T}$$ 
+$$\Delta s =\frac{Q}{T} = \frac{334880}{273K}=1277\frac{j}{k}$$ 
 
 # Leyes de la termodinámica 
 
@@ -903,7 +903,7 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5NjUyODQ3LC0xNDgxMzY1OTU1LC04Mz
+eyJoaXN0b3J5IjpbNTIxODk2Mjg1LC0xNDgxMzY1OTU1LC04Mz
 IyNDIyNywtNTIzOTc5NDg3LC0xMDYyNzQ2MzMxLDE4MDg3MTQ4
 MzUsMTg5NDQ4MjUyMywxOTI1NzAwMjE1LC0yMzk3OTE0NzAsLT
 E1MTA4NTA3NzksLTE1NjY1NzI1MzgsLTE2ODA3NjY4NSwtODM1
