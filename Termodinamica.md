@@ -733,6 +733,7 @@ $$\Delta s =\frac{Q}{T} = \frac{334880j}{273K}=1277\frac{j}{K}$$
 
 ### Definicion como desorden
 
+La entropia mide el desorden molecular, por eso un gas tendra mayor entropia que un liquido
 
 
 # Leyes de la termodinámica 
@@ -909,11 +910,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTczMDg3OCwtMTQ4MjM3NzA4NywtMT
-Q4MTM2NTk1NSwtODMyMjQyMjcsLTUyMzk3OTQ4NywtMTA2Mjc0
-NjMzMSwxODA4NzE0ODM1LDE4OTQ0ODI1MjMsMTkyNTcwMDIxNS
-wtMjM5NzkxNDcwLC0xNTEwODUwNzc5LC0xNTY2NTcyNTM4LC0x
-NjgwNzY2ODUsLTgzNTE0MTIxMywtNjU4NTk5NzQwLC0xNjg5Nz
-MwNjk1LDg2NzM5NDI4NCwtMTE2MTA1NTI2OCwtMTg5MDExNDAz
-MCwyMTA3MTQ5OTc2XX0=
+eyJoaXN0b3J5IjpbLTE5ODA0OTI4MTgsLTE0ODIzNzcwODcsLT
+E0ODEzNjU5NTUsLTgzMjI0MjI3LC01MjM5Nzk0ODcsLTEwNjI3
+NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3MDAyMT
+UsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2NjU3MjUzOCwt
+MTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5OTc0MCwtMTY4OT
+czMDY5NSw4NjczOTQyODQsLTExNjEwNTUyNjgsLTE4OTAxMTQw
+MzAsMjEwNzE0OTk3Nl19
 -->
