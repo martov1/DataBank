@@ -325,7 +325,7 @@ Se pueden hacer tiendiendo en cuenta **presion constante** o **temperatura const
 
 
 
-## Entalpia
+# Entalpia
 
 ### En general
 
@@ -362,7 +362,7 @@ $$\Delta H =\sout{-P \Delta V} +q + \sout{P \Delta V}$$
 $$\Delta H =q $$
 
 
-## Analisis en cambio de defases 
+# Analisis en cambio de defases 
 
 ### Volumen, entalpia y energia en una fase
 
@@ -888,11 +888,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTcwMDIxNSwtMjM5NzkxNDcwLC0xNT
-EwODUwNzc5LC0xNTY2NTcyNTM4LC0xNjgwNzY2ODUsLTgzNTE0
-MTIxMywtNjU4NTk5NzQwLC0xNjg5NzMwNjk1LDg2NzM5NDI4NC
-wtMTE2MTA1NTI2OCwtMTg5MDExNDAzMCwyMTA3MTQ5OTc2LC0x
-Njc4NDI5NTM3LC0yMDQ5Mjc2NTA4LC0xODQ0NDA5MDQ1LDQ2NT
-A4NTY4NCw4MTU0Nzc3NjYsLTIxMDc2ODc3NjgsLTE4MzI2MDI4
-OTksLTE1MDE0NzczNzJdfQ==
+eyJoaXN0b3J5IjpbLTE3ODg4NTc3MzMsMTkyNTcwMDIxNSwtMj
+M5NzkxNDcwLC0xNTEwODUwNzc5LC0xNTY2NTcyNTM4LC0xNjgw
+NzY2ODUsLTgzNTE0MTIxMywtNjU4NTk5NzQwLC0xNjg5NzMwNj
+k1LDg2NzM5NDI4NCwtMTE2MTA1NTI2OCwtMTg5MDExNDAzMCwy
+MTA3MTQ5OTc2LC0xNjc4NDI5NTM3LC0yMDQ5Mjc2NTA4LC0xOD
+Q0NDA5MDQ1LDQ2NTA4NTY4NCw4MTU0Nzc3NjYsLTIxMDc2ODc3
+NjgsLTE4MzI2MDI4OTldfQ==
 -->
