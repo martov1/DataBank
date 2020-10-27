@@ -3,8 +3,8 @@ Quede en el video 14
 
 [Fuente mejor](https://www.youtube.com/watch?v=MGA2uGck3iQ&list=PLX2gX-ftPVXXMDW2aoPCk7nM-58n7nW5M&index=112)
 
-entropia
-https://www.youtube.com/watch?v=sPz5RrFus1Q&list=PLqwfRVlgGdFCs2ByAiC4bfGM3zSsbVcwF&index=22
+entropia segun otro profesor
+https://www.youtube.com/watch?v=OmNG8woYHTY&list=PLr1GRpwvVUHQPCf9nVhmS-whdsS7OWPxs&index=21
 
 
 
@@ -920,11 +920,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5MDAzNjAsLTE5ODA0OTI4MTgsLTE0OD
-IzNzcwODcsLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01MjM5Nzk0
-ODcsLTEwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLD
-E5MjU3MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2
-NjU3MjUzOCwtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5OT
-c0MCwtMTY4OTczMDY5NSw4NjczOTQyODQsLTExNjEwNTUyNjgs
-LTE4OTAxMTQwMzBdfQ==
+eyJoaXN0b3J5IjpbNzI1OTI3MDI4LDIzOTAwMzYwLC0xOTgwND
+kyODE4LC0xNDgyMzc3MDg3LC0xNDgxMzY1OTU1LC04MzIyNDIy
+NywtNTIzOTc5NDg3LC0xMDYyNzQ2MzMxLDE4MDg3MTQ4MzUsMT
+g5NDQ4MjUyMywxOTI1NzAwMjE1LC0yMzk3OTE0NzAsLTE1MTA4
+NTA3NzksLTE1NjY1NzI1MzgsLTE2ODA3NjY4NSwtODM1MTQxMj
+EzLC02NTg1OTk3NDAsLTE2ODk3MzA2OTUsODY3Mzk0Mjg0LC0x
+MTYxMDU1MjY4XX0=
 -->
