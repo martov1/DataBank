@@ -708,7 +708,7 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 ![](https://i.imgur.com/F9I7OwG.png =200x)
 # Entropia
 
-Es una manera de medir la cantidad de estados posibles en un sistema.
+Es una manera de medir la cantidad de energia que no esta disponible para realizar trabajo.
 
 
 $$\Delta s = \sum \frac{Q_{rev}}{T}$$
@@ -893,11 +893,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzk3OTQ4NywtMTA2Mjc0NjMzMSwxOD
-A4NzE0ODM1LDE4OTQ0ODI1MjMsMTkyNTcwMDIxNSwtMjM5Nzkx
-NDcwLC0xNTEwODUwNzc5LC0xNTY2NTcyNTM4LC0xNjgwNzY2OD
-UsLTgzNTE0MTIxMywtNjU4NTk5NzQwLC0xNjg5NzMwNjk1LDg2
-NzM5NDI4NCwtMTE2MTA1NTI2OCwtMTg5MDExNDAzMCwyMTA3MT
-Q5OTc2LC0xNjc4NDI5NTM3LC0yMDQ5Mjc2NTA4LC0xODQ0NDA5
-MDQ1LDQ2NTA4NTY4NF19
+eyJoaXN0b3J5IjpbLTgzMjI0MjI3LC01MjM5Nzk0ODcsLTEwNj
+I3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3MDAy
+MTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2NjU3MjUzOC
+wtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5OTc0MCwtMTY4
+OTczMDY5NSw4NjczOTQyODQsLTExNjEwNTUyNjgsLTE4OTAxMT
+QwMzAsMjEwNzE0OTk3NiwtMTY3ODQyOTUzNywtMjA0OTI3NjUw
+OCwtMTg0NDQwOTA0NV19
 -->
