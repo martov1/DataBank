@@ -721,6 +721,11 @@ El **cambio de entalpia** es:
 * Si sucedió varias veces entonces es la **suma de todas**
 
 
+**EJEMPLO**
+
+Se derrite un cubo de hielo, añadiendo calor $Q$  y manteniendose a temperatura $T$
+
+$$\Delta s = \frac{}{T}$$ 
 
 # Leyes de la termodinámica 
 
@@ -896,11 +901,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01Mj
-M5Nzk0ODcsLTEwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgy
-NTIzLDE5MjU3MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OS
-wtMTU2NjU3MjUzOCwtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1
-ODU5OTc0MCwtMTY4OTczMDY5NSw4NjczOTQyODQsLTExNjEwNT
-UyNjgsLTE4OTAxMTQwMzAsMjEwNzE0OTk3NiwtMTY3ODQyOTUz
-NywtMjA0OTI3NjUwOF19
+eyJoaXN0b3J5IjpbMTUyODM3NDM4NCwtMTQ4MTM2NTk1NSwtOD
+MyMjQyMjcsLTUyMzk3OTQ4NywtMTA2Mjc0NjMzMSwxODA4NzE0
+ODM1LDE4OTQ0ODI1MjMsMTkyNTcwMDIxNSwtMjM5NzkxNDcwLC
+0xNTEwODUwNzc5LC0xNTY2NTcyNTM4LC0xNjgwNzY2ODUsLTgz
+NTE0MTIxMywtNjU4NTk5NzQwLC0xNjg5NzMwNjk1LDg2NzM5ND
+I4NCwtMTE2MTA1NTI2OCwtMTg5MDExNDAzMCwyMTA3MTQ5OTc2
+LC0xNjc4NDI5NTM3XX0=
 -->
