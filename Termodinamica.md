@@ -709,9 +709,9 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 # Entropia
 
 
-$$\Delta s = \frac{Q}{T}$$
+$$\Delta s = \sum \frac{Q}{T}$$
 
-El cambio de entalpia es **el calor** sobre **la temperatura a la que fue aplicado** ese calor
+El **cambio de entalpia** es **el calor** sobre **la temperatura a la que fue aplicado** ese calor
 
 
 
@@ -886,11 +886,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAwODc1MjAsLTIzOTc5MTQ3MCwtMT
-UxMDg1MDc3OSwtMTU2NjU3MjUzOCwtMTY4MDc2Njg1LC04MzUx
-NDEyMTMsLTY1ODU5OTc0MCwtMTY4OTczMDY5NSw4NjczOTQyOD
-QsLTExNjEwNTUyNjgsLTE4OTAxMTQwMzAsMjEwNzE0OTk3Niwt
-MTY3ODQyOTUzNywtMjA0OTI3NjUwOCwtMTg0NDQwOTA0NSw0Nj
-UwODU2ODQsODE1NDc3NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAy
-ODk5LC0xNTAxNDc3MzcyXX0=
+eyJoaXN0b3J5IjpbMzk3NDg1NzgxLC0yMzk3OTE0NzAsLTE1MT
+A4NTA3NzksLTE1NjY1NzI1MzgsLTE2ODA3NjY4NSwtODM1MTQx
+MjEzLC02NTg1OTk3NDAsLTE2ODk3MzA2OTUsODY3Mzk0Mjg0LC
+0xMTYxMDU1MjY4LC0xODkwMTE0MDMwLDIxMDcxNDk5NzYsLTE2
+Nzg0Mjk1MzcsLTIwNDkyNzY1MDgsLTE4NDQ0MDkwNDUsNDY1MD
+g1Njg0LDgxNTQ3Nzc2NiwtMjEwNzY4Nzc2OCwtMTgzMjYwMjg5
+OSwtMTUwMTQ3NzM3Ml19
 -->
