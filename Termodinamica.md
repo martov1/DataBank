@@ -579,10 +579,10 @@ $$\Delta H =q $$
 
 :arrow_right:**ENTONCES:** los calores especificos para gases ideales son solo **funcion de la temperatura**
 
-$$\fbox{$\frac{dE(T)}{dT}=C_p(T)$}$$
+$$\fbox{$\frac{dU(T)}{dT}=C_p(T)$}$$
 $$\fbox{$\frac{dH(T)}{dT}=C_v(T)$}$$
 Implicando ademas que si conozco la variacion de temperatura, conozco la variacion de energia interna o entalpia
-$$\fbox{$\Delta E(T)=\int^{T_1}_{T_2} C_p(T)$}$$
+$$\fbox{$\Delta U(T)=\int^{T_1}_{T_2} C_p(T)$}$$
 $$\fbox{$\Delta H(T)=\int^{T_1}_{T_2} C_v(T)$}$$
 
 :warning: **Estas funciones existen como aproximaciones de taylor a las que se llega de forma experimental para cada compuesto**
@@ -888,11 +888,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODg4NTc3MzMsMTkyNTcwMDIxNSwtMj
-M5NzkxNDcwLC0xNTEwODUwNzc5LC0xNTY2NTcyNTM4LC0xNjgw
-NzY2ODUsLTgzNTE0MTIxMywtNjU4NTk5NzQwLC0xNjg5NzMwNj
-k1LDg2NzM5NDI4NCwtMTE2MTA1NTI2OCwtMTg5MDExNDAzMCwy
-MTA3MTQ5OTc2LC0xNjc4NDI5NTM3LC0yMDQ5Mjc2NTA4LC0xOD
-Q0NDA5MDQ1LDQ2NTA4NTY4NCw4MTU0Nzc3NjYsLTIxMDc2ODc3
-NjgsLTE4MzI2MDI4OTldfQ==
+eyJoaXN0b3J5IjpbMTg5NDQ4MjUyMywxOTI1NzAwMjE1LC0yMz
+k3OTE0NzAsLTE1MTA4NTA3NzksLTE1NjY1NzI1MzgsLTE2ODA3
+NjY4NSwtODM1MTQxMjEzLC02NTg1OTk3NDAsLTE2ODk3MzA2OT
+UsODY3Mzk0Mjg0LC0xMTYxMDU1MjY4LC0xODkwMTE0MDMwLDIx
+MDcxNDk5NzYsLTE2Nzg0Mjk1MzcsLTIwNDkyNzY1MDgsLTE4ND
+Q0MDkwNDUsNDY1MDg1Njg0LDgxNTQ3Nzc2NiwtMjEwNzY4Nzc2
+OCwtMTgzMjYwMjg5OV19
 -->
