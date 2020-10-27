@@ -722,11 +722,11 @@ $$ E_{entra}-E_{sale}=\Delta E$$
 ### En sistemas cerrados
 
 
-Es decir que **en un sistema cerrado** el cambio en energia de un sistema es el calor absorbido ($q$ entrante) en ese instante menos el trabajo realizado ($w$ saliente) en ese instante
+Es decir que **en un sistema cerrado** el cambio en energia interna de un sistema es el calor absorbido ($q$ entrante) en ese instante menos el trabajo realizado ($w$ saliente) en ese instante
 
 En un **Sistema cerrado**
 
-$$\Delta E = q - w$$
+$$\Delta U = q - w$$
 
 ### En sistemas abiertos
 Si el sistema **es abierto** entonces hay que tener en cuenta la **energia de la masa que entra o sale**
@@ -875,11 +875,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY1NzI1MzgsLTE2ODA3NjY4NSwtOD
-M1MTQxMjEzLC02NTg1OTk3NDAsLTE2ODk3MzA2OTUsODY3Mzk0
-Mjg0LC0xMTYxMDU1MjY4LC0xODkwMTE0MDMwLDIxMDcxNDk5Nz
-YsLTE2Nzg0Mjk1MzcsLTIwNDkyNzY1MDgsLTE4NDQ0MDkwNDUs
-NDY1MDg1Njg0LDgxNTQ3Nzc2NiwtMjEwNzY4Nzc2OCwtMTgzMj
-YwMjg5OSwtMTUwMTQ3NzM3MiwtNTM5MzIyMTk3LC0xNTE0Mzky
-NTkwLC0yMDgwNTkzMjA4XX0=
+eyJoaXN0b3J5IjpbLTE1MTA4NTA3NzksLTE1NjY1NzI1MzgsLT
+E2ODA3NjY4NSwtODM1MTQxMjEzLC02NTg1OTk3NDAsLTE2ODk3
+MzA2OTUsODY3Mzk0Mjg0LC0xMTYxMDU1MjY4LC0xODkwMTE0MD
+MwLDIxMDcxNDk5NzYsLTE2Nzg0Mjk1MzcsLTIwNDkyNzY1MDgs
+LTE4NDQ0MDkwNDUsNDY1MDg1Njg0LDgxNTQ3Nzc2NiwtMjEwNz
+Y4Nzc2OCwtMTgzMjYwMjg5OSwtMTUwMTQ3NzM3MiwtNTM5MzIy
+MTk3LC0xNTE0MzkyNTkwXX0=
 -->
