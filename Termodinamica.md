@@ -709,6 +709,11 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 # Entropia
 
 
+$$\Delta s = \frac{Q}{T}$$
+
+El cambio de entalpia es **el calor** sobre **la temperatura a la que fue aplicado** ese calor
+
+
 
 # Leyes de la termodinámica 
 
@@ -881,11 +886,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMT
-U2NjU3MjUzOCwtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5
-OTc0MCwtMTY4OTczMDY5NSw4NjczOTQyODQsLTExNjEwNTUyNj
-gsLTE4OTAxMTQwMzAsMjEwNzE0OTk3NiwtMTY3ODQyOTUzNywt
-MjA0OTI3NjUwOCwtMTg0NDQwOTA0NSw0NjUwODU2ODQsODE1ND
-c3NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAyODk5LC0xNTAxNDc3
-MzcyLC01MzkzMjIxOTddfQ==
+eyJoaXN0b3J5IjpbLTE3NTAwODc1MjAsLTIzOTc5MTQ3MCwtMT
+UxMDg1MDc3OSwtMTU2NjU3MjUzOCwtMTY4MDc2Njg1LC04MzUx
+NDEyMTMsLTY1ODU5OTc0MCwtMTY4OTczMDY5NSw4NjczOTQyOD
+QsLTExNjEwNTUyNjgsLTE4OTAxMTQwMzAsMjEwNzE0OTk3Niwt
+MTY3ODQyOTUzNywtMjA0OTI3NjUwOCwtMTg0NDQwOTA0NSw0Nj
+UwODU2ODQsODE1NDc3NzY2LC0yMTA3Njg3NzY4LC0xODMyNjAy
+ODk5LC0xNTAxNDc3MzcyXX0=
 -->
