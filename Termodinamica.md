@@ -711,7 +711,9 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 
 $$\Delta s = \sum \frac{Q}{T}$$
 
-El **cambio de entalpia** es **el calor** sobre **la temperatura a la que fue aplicado** ese calor
+El **cambio de entalpia** es:
+* **el calor** sobre **la temperatura a la que fue aplicado** ese calor.
+* Si sucedio varias veces entonces es la **suma de todas**
 
 
 
@@ -886,11 +888,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3NDg1NzgxLC0yMzk3OTE0NzAsLTE1MT
-A4NTA3NzksLTE1NjY1NzI1MzgsLTE2ODA3NjY4NSwtODM1MTQx
-MjEzLC02NTg1OTk3NDAsLTE2ODk3MzA2OTUsODY3Mzk0Mjg0LC
-0xMTYxMDU1MjY4LC0xODkwMTE0MDMwLDIxMDcxNDk5NzYsLTE2
-Nzg0Mjk1MzcsLTIwNDkyNzY1MDgsLTE4NDQ0MDkwNDUsNDY1MD
-g1Njg0LDgxNTQ3Nzc2NiwtMjEwNzY4Nzc2OCwtMTgzMjYwMjg5
-OSwtMTUwMTQ3NzM3Ml19
+eyJoaXN0b3J5IjpbMTkyNTcwMDIxNSwtMjM5NzkxNDcwLC0xNT
+EwODUwNzc5LC0xNTY2NTcyNTM4LC0xNjgwNzY2ODUsLTgzNTE0
+MTIxMywtNjU4NTk5NzQwLC0xNjg5NzMwNjk1LDg2NzM5NDI4NC
+wtMTE2MTA1NTI2OCwtMTg5MDExNDAzMCwyMTA3MTQ5OTc2LC0x
+Njc4NDI5NTM3LC0yMDQ5Mjc2NTA4LC0xODQ0NDA5MDQ1LDQ2NT
+A4NTY4NCw4MTU0Nzc3NjYsLTIxMDc2ODc3NjgsLTE4MzI2MDI4
+OTksLTE1MDE0NzczNzJdfQ==
 -->
