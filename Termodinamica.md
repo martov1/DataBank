@@ -723,9 +723,9 @@ El **cambio de entalpia** es:
 
 **EJEMPLO**
 
-Se derrite un cubo de hielo, añadiendo calor $Q$  y manteniendose a temperatura $T$
+Se derrite un cubo de hielo de 1kg, añadiendo calor $Q$  y manteniendose a temperatura $T$. el agua tiene un calor latente $C_l$ de 
 
-$$\Delta s = \frac{}{T}$$ 
+$$\Delta s =\frac{Q}{T} = \frac{m.c_l}{T}=\frac{m.c_l}{T}$$ 
 
 # Leyes de la termodinámica 
 
@@ -901,11 +901,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODM3NDM4NCwtMTQ4MTM2NTk1NSwtOD
-MyMjQyMjcsLTUyMzk3OTQ4NywtMTA2Mjc0NjMzMSwxODA4NzE0
-ODM1LDE4OTQ0ODI1MjMsMTkyNTcwMDIxNSwtMjM5NzkxNDcwLC
-0xNTEwODUwNzc5LC0xNTY2NTcyNTM4LC0xNjgwNzY2ODUsLTgz
-NTE0MTIxMywtNjU4NTk5NzQwLC0xNjg5NzMwNjk1LDg2NzM5ND
-I4NCwtMTE2MTA1NTI2OCwtMTg5MDExNDAzMCwyMTA3MTQ5OTc2
-LC0xNjc4NDI5NTM3XX0=
+eyJoaXN0b3J5IjpbNjE2Nzc5ODEzLC0xNDgxMzY1OTU1LC04Mz
+IyNDIyNywtNTIzOTc5NDg3LC0xMDYyNzQ2MzMxLDE4MDg3MTQ4
+MzUsMTg5NDQ4MjUyMywxOTI1NzAwMjE1LC0yMzk3OTE0NzAsLT
+E1MTA4NTA3NzksLTE1NjY1NzI1MzgsLTE2ODA3NjY4NSwtODM1
+MTQxMjEzLC02NTg1OTk3NDAsLTE2ODk3MzA2OTUsODY3Mzk0Mj
+g0LC0xMTYxMDU1MjY4LC0xODkwMTE0MDMwLDIxMDcxNDk5NzYs
+LTE2Nzg0Mjk1MzddfQ==
 -->
