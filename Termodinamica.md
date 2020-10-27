@@ -708,12 +708,14 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 ![](https://i.imgur.com/F9I7OwG.png =200x)
 # Entropia
 
+Es una manera de medir la cantidad de estados posibles en un sistema.
+
 
 $$\Delta s = \sum \frac{Q_{rev}}{T}$$
 
 El **cambio de entalpia** es:
 * **el calor** aplicado sobre un sistema **reversible** sobre **la temperatura a la que fue aplicado** ese calor 
-* Si sucedio varias veces entonces es la **suma de todas**
+* Si sucedió varias veces entonces es la **suma de todas**
 
 
 
@@ -891,11 +893,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI3NDYzMzEsMTgwODcxNDgzNSwxOD
-k0NDgyNTIzLDE5MjU3MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1
-MDc3OSwtMTU2NjU3MjUzOCwtMTY4MDc2Njg1LC04MzUxNDEyMT
-MsLTY1ODU5OTc0MCwtMTY4OTczMDY5NSw4NjczOTQyODQsLTEx
-NjEwNTUyNjgsLTE4OTAxMTQwMzAsMjEwNzE0OTk3NiwtMTY3OD
-QyOTUzNywtMjA0OTI3NjUwOCwtMTg0NDQwOTA0NSw0NjUwODU2
-ODQsODE1NDc3NzY2XX0=
+eyJoaXN0b3J5IjpbLTUyMzk3OTQ4NywtMTA2Mjc0NjMzMSwxOD
+A4NzE0ODM1LDE4OTQ0ODI1MjMsMTkyNTcwMDIxNSwtMjM5Nzkx
+NDcwLC0xNTEwODUwNzc5LC0xNTY2NTcyNTM4LC0xNjgwNzY2OD
+UsLTgzNTE0MTIxMywtNjU4NTk5NzQwLC0xNjg5NzMwNjk1LDg2
+NzM5NDI4NCwtMTE2MTA1NTI2OCwtMTg5MDExNDAzMCwyMTA3MT
+Q5OTc2LC0xNjc4NDI5NTM3LC0yMDQ5Mjc2NTA4LC0xODQ0NDA5
+MDQ1LDQ2NTA4NTY4NF19
 -->
