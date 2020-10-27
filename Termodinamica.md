@@ -710,7 +710,7 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 ![](https://i.imgur.com/F9I7OwG.png =200x)
 # Entropia
 
-### Definicion
+#### Definicion
 Es una manera de medir la cantidad de energia que no esta disponible para realizar trabajo. 
 
 Para $T$ constente:
@@ -726,20 +726,22 @@ El **cambio de entalpia** es:
 * Es una **propiedad extensiva**
 
 
-### Ejemplo
+#### Ejemplo
 
 Se derrite un cubo de hielo de 1kg, añadiendo calor $Q=334880j$  y manteniendose a temperatura $T=273K$.
 
 $$\Delta s =\frac{Q}{T} = \frac{334880j}{273K}=1277\frac{j}{K}$$ 
 
-### Definicion como desorden
+#### Definicion como desorden
 
 La entropia mide el desorden molecular, por eso un gas tendra mayor entropia que un liquido
-### graficos T-S
+#### graficos T-S
 Hay graficos  temperatura entropia y sus relaciones definen tambien la fase de la substancia
 
-![](https://i.imgur.com/EzDhAko.png)
+![](https://i.imgur.com/EzDhAko.png =x250)
+#### Cambios en la entropia
 
+Para todo proceso **no reversible** se **crea entropia nueva** $S_{gen}$
 
 
 
@@ -917,7 +919,7 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjEyMTU5NSwtMTk4MDQ5MjgxOCwtMT
+eyJoaXN0b3J5IjpbLTQwOTEwMzc5MCwtMTk4MDQ5MjgxOCwtMT
 Q4MjM3NzA4NywtMTQ4MTM2NTk1NSwtODMyMjQyMjcsLTUyMzk3
 OTQ4NywtMTA2Mjc0NjMzMSwxODA4NzE0ODM1LDE4OTQ0ODI1Mj
 MsMTkyNTcwMDIxNSwtMjM5NzkxNDcwLC0xNTEwODUwNzc5LC0x
