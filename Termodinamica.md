@@ -827,6 +827,9 @@ $$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m_1}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot
 ## Segunda ley
 _de forma natural La entropia solo puede aumentar_
 
+$$\Delta S  \geq 0$$
+
+
 En terminos sencillos _El calor fluye de cosas a alta temperatura a cosas de baja temperatura_
 
 # Ciclos -WIP
@@ -888,11 +891,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODcxNDgzNSwxODk0NDgyNTIzLDE5Mj
-U3MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2NjU3
-MjUzOCwtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5OTc0MC
-wtMTY4OTczMDY5NSw4NjczOTQyODQsLTExNjEwNTUyNjgsLTE4
-OTAxMTQwMzAsMjEwNzE0OTk3NiwtMTY3ODQyOTUzNywtMjA0OT
-I3NjUwOCwtMTg0NDQwOTA0NSw0NjUwODU2ODQsODE1NDc3NzY2
-LC0yMTA3Njg3NzY4XX0=
+eyJoaXN0b3J5IjpbLTEwNjI3NDYzMzEsMTgwODcxNDgzNSwxOD
+k0NDgyNTIzLDE5MjU3MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1
+MDc3OSwtMTU2NjU3MjUzOCwtMTY4MDc2Njg1LC04MzUxNDEyMT
+MsLTY1ODU5OTc0MCwtMTY4OTczMDY5NSw4NjczOTQyODQsLTEx
+NjEwNTUyNjgsLTE4OTAxMTQwMzAsMjEwNzE0OTk3NiwtMTY3OD
+QyOTUzNywtMjA0OTI3NjUwOCwtMTg0NDQwOTA0NSw0NjUwODU2
+ODQsODE1NDc3NzY2XX0=
 -->
