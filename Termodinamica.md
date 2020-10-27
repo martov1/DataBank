@@ -741,9 +741,10 @@ Hay graficos  temperatura entropia y sus relaciones definen tambien la fase de l
 ![](https://i.imgur.com/EzDhAko.png =x250)
 #### Cambios en la entropia
 
-Para todo proceso **no reversible** se **crea entropia nueva** $S_{gen}$
+* Para todo proceso **no reversible** se **crea entropia nueva** $S_{gen}$
+* Para los procesos adiabaticos y reversibles no se genera entropia
 
-
+![](https://i.imgur.com/l86GTdW.png =x100)
 
 # Leyes de la termodinámica 
 
@@ -919,11 +920,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTEwMzc5MCwtMTk4MDQ5MjgxOCwtMT
-Q4MjM3NzA4NywtMTQ4MTM2NTk1NSwtODMyMjQyMjcsLTUyMzk3
-OTQ4NywtMTA2Mjc0NjMzMSwxODA4NzE0ODM1LDE4OTQ0ODI1Mj
-MsMTkyNTcwMDIxNSwtMjM5NzkxNDcwLC0xNTEwODUwNzc5LC0x
-NTY2NTcyNTM4LC0xNjgwNzY2ODUsLTgzNTE0MTIxMywtNjU4NT
-k5NzQwLC0xNjg5NzMwNjk1LDg2NzM5NDI4NCwtMTE2MTA1NTI2
-OCwtMTg5MDExNDAzMF19
+eyJoaXN0b3J5IjpbMTQwMTMwMDg1LC0xOTgwNDkyODE4LC0xND
+gyMzc3MDg3LC0xNDgxMzY1OTU1LC04MzIyNDIyNywtNTIzOTc5
+NDg3LC0xMDYyNzQ2MzMxLDE4MDg3MTQ4MzUsMTg5NDQ4MjUyMy
+wxOTI1NzAwMjE1LC0yMzk3OTE0NzAsLTE1MTA4NTA3NzksLTE1
+NjY1NzI1MzgsLTE2ODA3NjY4NSwtODM1MTQxMjEzLC02NTg1OT
+k3NDAsLTE2ODk3MzA2OTUsODY3Mzk0Mjg0LC0xMTYxMDU1MjY4
+LC0xODkwMTE0MDMwXX0=
 -->
