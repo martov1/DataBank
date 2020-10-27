@@ -722,7 +722,8 @@ $$\Delta s = \int \frac{Q_{rev}}{T}$$
 El **cambio de entalpia** es:
 * **el calor** aplicado sobre un sistema **reversible** sobre **la temperatura a la que fue aplicado** ese calor 
 * Si sucedió varias veces entonces es la **suma de todas**
-* Su unidad es $\frac{Joule}{Kelvin}$
+* Su unidad es $\frac{Joule}{Kelvin}/kg$
+* Es una **propiedad extensiva**
 
 
 ### Ejemplo
@@ -734,6 +735,12 @@ $$\Delta s =\frac{Q}{T} = \frac{334880j}{273K}=1277\frac{j}{K}$$
 ### Definicion como desorden
 
 La entropia mide el desorden molecular, por eso un gas tendra mayor entropia que un liquido
+### graficos T-S
+Hay graficos  temperatura entropia y sus relaciones definen tambien la fase de la substancia
+
+![](https://i.imgur.com/EzDhAko.png)
+
+
 
 
 # Leyes de la termodinámica 
@@ -910,11 +917,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODA0OTI4MTgsLTE0ODIzNzcwODcsLT
-E0ODEzNjU5NTUsLTgzMjI0MjI3LC01MjM5Nzk0ODcsLTEwNjI3
-NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3MDAyMT
-UsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2NjU3MjUzOCwt
-MTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5OTc0MCwtMTY4OT
-czMDY5NSw4NjczOTQyODQsLTExNjEwNTUyNjgsLTE4OTAxMTQw
-MzAsMjEwNzE0OTk3Nl19
+eyJoaXN0b3J5IjpbLTk4NjEyMTU5NSwtMTk4MDQ5MjgxOCwtMT
+Q4MjM3NzA4NywtMTQ4MTM2NTk1NSwtODMyMjQyMjcsLTUyMzk3
+OTQ4NywtMTA2Mjc0NjMzMSwxODA4NzE0ODM1LDE4OTQ0ODI1Mj
+MsMTkyNTcwMDIxNSwtMjM5NzkxNDcwLC0xNTEwODUwNzc5LC0x
+NTY2NTcyNTM4LC0xNjgwNzY2ODUsLTgzNTE0MTIxMywtNjU4NT
+k5NzQwLC0xNjg5NzMwNjk1LDg2NzM5NDI4NCwtMTE2MTA1NTI2
+OCwtMTg5MDExNDAzMF19
 -->
