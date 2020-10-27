@@ -709,10 +709,10 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 # Entropia
 
 
-$$\Delta s = \sum \frac{Q}{T}$$
+$$\Delta s = \sum \frac{Q_{rev}}{T}$$
 
 El **cambio de entalpia** es:
-* **el calor** sobre **la temperatura a la que fue aplicado** ese calor.
+* **el calor** aplicado sobre un sistema **reversible** sobre **la temperatura a la que fue aplicado** ese calor 
 * Si sucedio varias veces entonces es la **suma de todas**
 
 
@@ -888,11 +888,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDQ4MjUyMywxOTI1NzAwMjE1LC0yMz
-k3OTE0NzAsLTE1MTA4NTA3NzksLTE1NjY1NzI1MzgsLTE2ODA3
-NjY4NSwtODM1MTQxMjEzLC02NTg1OTk3NDAsLTE2ODk3MzA2OT
-UsODY3Mzk0Mjg0LC0xMTYxMDU1MjY4LC0xODkwMTE0MDMwLDIx
-MDcxNDk5NzYsLTE2Nzg0Mjk1MzcsLTIwNDkyNzY1MDgsLTE4ND
-Q0MDkwNDUsNDY1MDg1Njg0LDgxNTQ3Nzc2NiwtMjEwNzY4Nzc2
-OCwtMTgzMjYwMjg5OV19
+eyJoaXN0b3J5IjpbMTgwODcxNDgzNSwxODk0NDgyNTIzLDE5Mj
+U3MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2NjU3
+MjUzOCwtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5OTc0MC
+wtMTY4OTczMDY5NSw4NjczOTQyODQsLTExNjEwNTUyNjgsLTE4
+OTAxMTQwMzAsMjEwNzE0OTk3NiwtMTY3ODQyOTUzNywtMjA0OT
+I3NjUwOCwtMTg0NDQwOTA0NSw0NjUwODU2ODQsODE1NDc3NzY2
+LC0yMTA3Njg3NzY4XX0=
 -->
