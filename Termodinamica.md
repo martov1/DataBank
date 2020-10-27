@@ -735,7 +735,7 @@ $$\Delta s =\frac{Q}{T} = \frac{334880j}{273K}=1277\frac{j}{K}$$
 #### Definicion como desorden
 
 La entropia mide el desorden molecular, por eso un gas tendra mayor entropia que un liquido
-#### graficos T-S
+#### Graficos T-S
 Hay graficos  temperatura entropia y sus relaciones definen tambien la fase de la substancia
 
 ![](https://i.imgur.com/EzDhAko.png =x250)
@@ -744,7 +744,7 @@ Hay graficos  temperatura entropia y sus relaciones definen tambien la fase de l
 * Para todo proceso **no reversible** se **crea entropia nueva** $S_{gen}$
 * Para los procesos adiabaticos y reversibles no se genera entropia
 
-![](https://i.imgur.com/l86GTdW.png =x100)
+![](https://i.imgur.com/l86GTdW.png =x130)
 
 # Leyes de la termodinámica 
 
@@ -920,11 +920,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTMwMDg1LC0xOTgwNDkyODE4LC0xND
-gyMzc3MDg3LC0xNDgxMzY1OTU1LC04MzIyNDIyNywtNTIzOTc5
-NDg3LC0xMDYyNzQ2MzMxLDE4MDg3MTQ4MzUsMTg5NDQ4MjUyMy
-wxOTI1NzAwMjE1LC0yMzk3OTE0NzAsLTE1MTA4NTA3NzksLTE1
-NjY1NzI1MzgsLTE2ODA3NjY4NSwtODM1MTQxMjEzLC02NTg1OT
-k3NDAsLTE2ODk3MzA2OTUsODY3Mzk0Mjg0LC0xMTYxMDU1MjY4
-LC0xODkwMTE0MDMwXX0=
+eyJoaXN0b3J5IjpbMjM5MDAzNjAsLTE5ODA0OTI4MTgsLTE0OD
+IzNzcwODcsLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01MjM5Nzk0
+ODcsLTEwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLD
+E5MjU3MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2
+NjU3MjUzOCwtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5OT
+c0MCwtMTY4OTczMDY5NSw4NjczOTQyODQsLTExNjEwNTUyNjgs
+LTE4OTAxMTQwMzBdfQ==
 -->
