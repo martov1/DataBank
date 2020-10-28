@@ -852,6 +852,9 @@ Las diferencias son
 
 $$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m_1}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot{Q}_{s}+\dot{w}_{s}+(m_2.e_2-m_1.e_1)+\sum{ \dot{m_2}(h_s+\frac{V_s^2}{2}+gz_s)}$}$$
 
+#### Eficiencia
+
+En un motor o una serie de procesos, llam
 
 ## Segunda ley
 _de forma natural La entropia solo puede aumentar_
@@ -920,11 +923,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTA4Nzk1OCw3MjU5MjcwMjgsMjM5MD
-AzNjAsLTE5ODA0OTI4MTgsLTE0ODIzNzcwODcsLTE0ODEzNjU5
-NTUsLTgzMjI0MjI3LC01MjM5Nzk0ODcsLTEwNjI3NDYzMzEsMT
-gwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3MDAyMTUsLTIzOTc5
-MTQ3MCwtMTUxMDg1MDc3OSwtMTU2NjU3MjUzOCwtMTY4MDc2Nj
-g1LC04MzUxNDEyMTMsLTY1ODU5OTc0MCwtMTY4OTczMDY5NSw4
-NjczOTQyODRdfQ==
+eyJoaXN0b3J5IjpbLTE0NzY0NzgxNDMsLTk4NTA4Nzk1OCw3Mj
+U5MjcwMjgsMjM5MDAzNjAsLTE5ODA0OTI4MTgsLTE0ODIzNzcw
+ODcsLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01MjM5Nzk0ODcsLT
+EwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3
+MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2NjU3Mj
+UzOCwtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5OTc0MCwt
+MTY4OTczMDY5NV19
 -->
