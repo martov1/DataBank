@@ -713,7 +713,12 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 #### Definicion
 Es una manera de medir la cantidad de energia que no esta disponible para realizar trabajo. 
 
+
+
+
 Para $T$ constente:
+
+$$ S = \frac{ Q}{T}$$ 
 $$\Delta s = \frac{\Delta Q_{rev}}{T}$$ 
 
 Para $T$ no constante
@@ -939,11 +944,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3ODkzNzMxLDEzNjcxODQzMTEsLTk4NT
-A4Nzk1OCw3MjU5MjcwMjgsMjM5MDAzNjAsLTE5ODA0OTI4MTgs
-LTE0ODIzNzcwODcsLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01Mj
-M5Nzk0ODcsLTEwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgy
-NTIzLDE5MjU3MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OS
-wtMTU2NjU3MjUzOCwtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1
-ODU5OTc0MF19
+eyJoaXN0b3J5IjpbLTYyMjAxNzIyLDI1Nzg5MzczMSwxMzY3MT
+g0MzExLC05ODUwODc5NTgsNzI1OTI3MDI4LDIzOTAwMzYwLC0x
+OTgwNDkyODE4LC0xNDgyMzc3MDg3LC0xNDgxMzY1OTU1LC04Mz
+IyNDIyNywtNTIzOTc5NDg3LC0xMDYyNzQ2MzMxLDE4MDg3MTQ4
+MzUsMTg5NDQ4MjUyMywxOTI1NzAwMjE1LC0yMzk3OTE0NzAsLT
+E1MTA4NTA3NzksLTE1NjY1NzI1MzgsLTE2ODA3NjY4NSwtODM1
+MTQxMjEzXX0=
 -->
