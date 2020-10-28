@@ -930,9 +930,11 @@ $$n=\frac{w_f}{Q_i}$$
  $$Q_i-W_i=Q_f-W_f$$
  
  $$Q_i=Q_f-W_f$$
-  $$\frac{Q_i}{Q_f}=-W_f$$
-  Recordamos que 
-  $\Delta T = \Delta Q T $
+  $$Q_i-Q_f=-W_f$$
+  Recordamos que el cambio de temperatura es el calor multiplicado por el calor especifico.
+  $\Delta T = \Delta Q.C_e$
+  
+  $\Delta T = \Delta Q.C_e$
 
 ## Ciclo rankine (turbina de vapor)
 
@@ -950,11 +952,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTI4MDE5NiwtOTg1MDg3OTU4LDcyNT
-kyNzAyOCwyMzkwMDM2MCwtMTk4MDQ5MjgxOCwtMTQ4MjM3NzA4
-NywtMTQ4MTM2NTk1NSwtODMyMjQyMjcsLTUyMzk3OTQ4NywtMT
-A2Mjc0NjMzMSwxODA4NzE0ODM1LDE4OTQ0ODI1MjMsMTkyNTcw
-MDIxNSwtMjM5NzkxNDcwLC0xNTEwODUwNzc5LC0xNTY2NTcyNT
-M4LC0xNjgwNzY2ODUsLTgzNTE0MTIxMywtNjU4NTk5NzQwLC0x
-Njg5NzMwNjk1XX0=
+eyJoaXN0b3J5IjpbMjA1OTgwNjA2LC05ODUwODc5NTgsNzI1OT
+I3MDI4LDIzOTAwMzYwLC0xOTgwNDkyODE4LC0xNDgyMzc3MDg3
+LC0xNDgxMzY1OTU1LC04MzIyNDIyNywtNTIzOTc5NDg3LC0xMD
+YyNzQ2MzMxLDE4MDg3MTQ4MzUsMTg5NDQ4MjUyMywxOTI1NzAw
+MjE1LC0yMzk3OTE0NzAsLTE1MTA4NTA3NzksLTE1NjY1NzI1Mz
+gsLTE2ODA3NjY4NSwtODM1MTQxMjEzLC02NTg1OTk3NDAsLTE2
+ODk3MzA2OTVdfQ==
 -->
