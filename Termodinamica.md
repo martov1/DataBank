@@ -855,7 +855,10 @@ $$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m_1}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot
 #### Eficiencia en maquinas termicas
 
 Notamos que toda maquina termica transforma **calor** $Q$ en **trabajo** $w$  o viceversa
+Por la primera ley, el calor y trabajo inicial seran iguales a los finales, notamos que para todo proceso no todo el calor se transforma en trabajo . La parte que no se transforma en trabajo depende e la eficiencia
 
+$$Q_i+w_i=Q_f+w_f$$
+$$Q_i+w_i=Q_f+w_f$$
 
 $$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m_1}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot{Q}_{s}+\dot{w}_{s}+(m_2.e_2-m_1.e_1)+\sum{ \dot{m_2}(h_s+\frac{V_s^2}{2}+gz_s)}$}$$
 
@@ -926,7 +929,7 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjY4NjE5NCwtOTg1MDg3OTU4LDcyNT
+eyJoaXN0b3J5IjpbLTE5Mjg2ODIyNSwtOTg1MDg3OTU4LDcyNT
 kyNzAyOCwyMzkwMDM2MCwtMTk4MDQ5MjgxOCwtMTQ4MjM3NzA4
 NywtMTQ4MTM2NTk1NSwtODMyMjQyMjcsLTUyMzk3OTQ4NywtMT
 A2Mjc0NjMzMSwxODA4NzE0ODM1LDE4OTQ0ODI1MjMsMTkyNTcw
