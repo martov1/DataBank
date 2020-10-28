@@ -852,9 +852,12 @@ Las diferencias son
 
 $$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m_1}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot{Q}_{s}+\dot{w}_{s}+(m_2.e_2-m_1.e_1)+\sum{ \dot{m_2}(h_s+\frac{V_s^2}{2}+gz_s)}$}$$
 
-#### Eficiencia
+#### Eficiencia en maquinas termicas
 
-En un motor o una serie de procesos, llam
+Notamos que toda maquina termica transforma **calor** $Q$ en **trabajo** $w$  o viceversa
+
+
+$$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m_1}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot{Q}_{s}+\dot{w}_{s}+(m_2.e_2-m_1.e_1)+\sum{ \dot{m_2}(h_s+\frac{V_s^2}{2}+gz_s)}$}$$
 
 ## Segunda ley
 _de forma natural La entropia solo puede aumentar_
@@ -923,11 +926,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY0NzgxNDMsLTk4NTA4Nzk1OCw3Mj
-U5MjcwMjgsMjM5MDAzNjAsLTE5ODA0OTI4MTgsLTE0ODIzNzcw
-ODcsLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01MjM5Nzk0ODcsLT
-EwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3
-MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2NjU3Mj
-UzOCwtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5OTc0MCwt
-MTY4OTczMDY5NV19
+eyJoaXN0b3J5IjpbMTkzNjY4NjE5NCwtOTg1MDg3OTU4LDcyNT
+kyNzAyOCwyMzkwMDM2MCwtMTk4MDQ5MjgxOCwtMTQ4MjM3NzA4
+NywtMTQ4MTM2NTk1NSwtODMyMjQyMjcsLTUyMzk3OTQ4NywtMT
+A2Mjc0NjMzMSwxODA4NzE0ODM1LDE4OTQ0ODI1MjMsMTkyNTcw
+MDIxNSwtMjM5NzkxNDcwLC0xNTEwODUwNzc5LC0xNTY2NTcyNT
+M4LC0xNjgwNzY2ODUsLTgzNTE0MTIxMywtNjU4NTk5NzQwLC0x
+Njg5NzMwNjk1XX0=
 -->
