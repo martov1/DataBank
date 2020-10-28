@@ -716,7 +716,7 @@ Es una manera de medir la cantidad de energia que no esta disponible para realiz
 
 
 
-Para $T$ constente:
+Para $T$ constente y un proceso reversible:
 
 $$ S = \frac{ Q}{T}$$ 
 $$\Delta s = \frac{\Delta Q_{rev}}{T}$$ 
@@ -944,11 +944,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjAxNzIyLDI1Nzg5MzczMSwxMzY3MT
-g0MzExLC05ODUwODc5NTgsNzI1OTI3MDI4LDIzOTAwMzYwLC0x
-OTgwNDkyODE4LC0xNDgyMzc3MDg3LC0xNDgxMzY1OTU1LC04Mz
-IyNDIyNywtNTIzOTc5NDg3LC0xMDYyNzQ2MzMxLDE4MDg3MTQ4
-MzUsMTg5NDQ4MjUyMywxOTI1NzAwMjE1LC0yMzk3OTE0NzAsLT
-E1MTA4NTA3NzksLTE1NjY1NzI1MzgsLTE2ODA3NjY4NSwtODM1
-MTQxMjEzXX0=
+eyJoaXN0b3J5IjpbLTIwMTg3MDgzNjgsLTYyMjAxNzIyLDI1Nz
+g5MzczMSwxMzY3MTg0MzExLC05ODUwODc5NTgsNzI1OTI3MDI4
+LDIzOTAwMzYwLC0xOTgwNDkyODE4LC0xNDgyMzc3MDg3LC0xND
+gxMzY1OTU1LC04MzIyNDIyNywtNTIzOTc5NDg3LC0xMDYyNzQ2
+MzMxLDE4MDg3MTQ4MzUsMTg5NDQ4MjUyMywxOTI1NzAwMjE1LC
+0yMzk3OTE0NzAsLTE1MTA4NTA3NzksLTE1NjY1NzI1MzgsLTE2
+ODA3NjY4NV19
 -->
