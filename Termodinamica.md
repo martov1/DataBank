@@ -855,16 +855,16 @@ $$\fbox{$\dot{Q}_{e}+\dot{w}_{e}+\sum{ \dot{m_1}(h_e+\frac{V_e^2}{2}+gz_e)}=\dot
 #### Eficiencia en maquinas termicas
 
 Notamos que toda maquina termica transforma **calor** $Q$ en **trabajo** $w$  o viceversa
-Por la primera ley, el calor y trabajo inicial seran iguales a los finales, notamos que para todo proceso no todo el calor se transforma en trabajo . La parte que no se transforma en trabajo depende e la eficiencia
+Por la primera ley, el calor y trabajo inicial seran iguales a los finales, notamos que **para todo proceso no todo el calor se transforma en trabajo . La parte que no se transforma en trabajo depende e la eficiencia**
 
 ejemplo
 $$Q_i+w_i=Q_f+w_f$$
 El motor inicia con calor inicial 100 y trabajo inicial 0, generalndo 80 unidades de trabajo
 $$100+0=Q_f+80$$
 
-Declaramos entonces que tiene un $80%$ de eficiencia $n$, podemos transformar esto en una formula trivialmente.
+Declaramos entonces que tiene un $80\%$ de eficiencia $n$ ó $n=0.8$, podemos transformar esto en una formula trivialmente.
 
-$n=\frac{w_f}{q}$
+$$n=\frac{w_f}{Q_i}=\frac{80}{100}=0.8=80\%$$
 
 ## Segunda ley
 _de forma natural La entropia solo puede aumentar_
@@ -933,11 +933,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk3NTc2NjAsLTk4NTA4Nzk1OCw3Mj
-U5MjcwMjgsMjM5MDAzNjAsLTE5ODA0OTI4MTgsLTE0ODIzNzcw
-ODcsLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01MjM5Nzk0ODcsLT
-EwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3
-MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2NjU3Mj
-UzOCwtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5OTc0MCwt
-MTY4OTczMDY5NV19
+eyJoaXN0b3J5IjpbMTc4NjMyNDIwMywtOTg1MDg3OTU4LDcyNT
+kyNzAyOCwyMzkwMDM2MCwtMTk4MDQ5MjgxOCwtMTQ4MjM3NzA4
+NywtMTQ4MTM2NTk1NSwtODMyMjQyMjcsLTUyMzk3OTQ4NywtMT
+A2Mjc0NjMzMSwxODA4NzE0ODM1LDE4OTQ0ODI1MjMsMTkyNTcw
+MDIxNSwtMjM5NzkxNDcwLC0xNTEwODUwNzc5LC0xNTY2NTcyNT
+M4LC0xNjgwNzY2ODUsLTgzNTE0MTIxMywtNjU4NTk5NzQwLC0x
+Njg5NzMwNjk1XX0=
 -->
