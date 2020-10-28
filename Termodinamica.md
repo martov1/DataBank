@@ -739,10 +739,10 @@ La entropia mide el desorden molecular, por eso un gas tendra mayor entropia que
 Hay graficos  temperatura entropia y sus relaciones definen tambien la fase de la substancia
 
 ![](https://i.imgur.com/EzDhAko.png =x250)
-#### Cambios en la entropia
+#### Cambios en la entropia, proc isentropicos
 
 * Para todo proceso **no reversible** se **crea entropia nueva** $S_{gen}$
-* Para los procesos adiabaticos y reversibles no se genera entropia
+* Para los procesos adiabaticos y reversibles no se genera entropia y se los llama **procesos isentropicos**
 
 ![](https://i.imgur.com/l86GTdW.png =x130)
 
@@ -920,11 +920,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1OTI3MDI4LDIzOTAwMzYwLC0xOTgwND
-kyODE4LC0xNDgyMzc3MDg3LC0xNDgxMzY1OTU1LC04MzIyNDIy
-NywtNTIzOTc5NDg3LC0xMDYyNzQ2MzMxLDE4MDg3MTQ4MzUsMT
-g5NDQ4MjUyMywxOTI1NzAwMjE1LC0yMzk3OTE0NzAsLTE1MTA4
-NTA3NzksLTE1NjY1NzI1MzgsLTE2ODA3NjY4NSwtODM1MTQxMj
-EzLC02NTg1OTk3NDAsLTE2ODk3MzA2OTUsODY3Mzk0Mjg0LC0x
-MTYxMDU1MjY4XX0=
+eyJoaXN0b3J5IjpbLTk4NTA4Nzk1OCw3MjU5MjcwMjgsMjM5MD
+AzNjAsLTE5ODA0OTI4MTgsLTE0ODIzNzcwODcsLTE0ODEzNjU5
+NTUsLTgzMjI0MjI3LC01MjM5Nzk0ODcsLTEwNjI3NDYzMzEsMT
+gwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3MDAyMTUsLTIzOTc5
+MTQ3MCwtMTUxMDg1MDc3OSwtMTU2NjU3MjUzOCwtMTY4MDc2Nj
+g1LC04MzUxNDEyMTMsLTY1ODU5OTc0MCwtMTY4OTczMDY5NSw4
+NjczOTQyODRdfQ==
 -->
