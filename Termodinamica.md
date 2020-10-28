@@ -933,8 +933,7 @@ $$n=\frac{w_f}{Q_i}$$
   $$Q_i-Q_f=-W_f$$
   Recordamos que el cambio de temperatura es el calor multiplicado por el calor especifico.
   $\Delta T = \Delta Q.C_e$
-  
-  $\Delta T = \Delta Q.C_e$
+  Entonces se puede establecer que la eficiencia sera 
 
 ## Ciclo rankine (turbina de vapor)
 
@@ -952,11 +951,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTgwNjA2LC05ODUwODc5NTgsNzI1OT
-I3MDI4LDIzOTAwMzYwLC0xOTgwNDkyODE4LC0xNDgyMzc3MDg3
-LC0xNDgxMzY1OTU1LC04MzIyNDIyNywtNTIzOTc5NDg3LC0xMD
-YyNzQ2MzMxLDE4MDg3MTQ4MzUsMTg5NDQ4MjUyMywxOTI1NzAw
-MjE1LC0yMzk3OTE0NzAsLTE1MTA4NTA3NzksLTE1NjY1NzI1Mz
-gsLTE2ODA3NjY4NSwtODM1MTQxMjEzLC02NTg1OTk3NDAsLTE2
-ODk3MzA2OTVdfQ==
+eyJoaXN0b3J5IjpbLTEzMDM4MjQ5MjgsLTk4NTA4Nzk1OCw3Mj
+U5MjcwMjgsMjM5MDAzNjAsLTE5ODA0OTI4MTgsLTE0ODIzNzcw
+ODcsLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01MjM5Nzk0ODcsLT
+EwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3
+MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2NjU3Mj
+UzOCwtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5OTc0MCwt
+MTY4OTczMDY5NV19
 -->
