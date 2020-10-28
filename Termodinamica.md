@@ -931,6 +931,8 @@ $$n=\frac{w_f}{Q_i}$$
  
  $$Q_i=Q_f-W_f$$
   $$\frac{Q_i}{Q_f}=-W_f$$
+  Recordamos que 
+  $\Delta T = \Delta Q T $
 
 ## Ciclo rankine (turbina de vapor)
 
@@ -948,11 +950,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk1MzY5MDIsLTk4NTA4Nzk1OCw3Mj
-U5MjcwMjgsMjM5MDAzNjAsLTE5ODA0OTI4MTgsLTE0ODIzNzcw
-ODcsLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01MjM5Nzk0ODcsLT
-EwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3
-MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2NjU3Mj
-UzOCwtMTY4MDc2Njg1LC04MzUxNDEyMTMsLTY1ODU5OTc0MCwt
-MTY4OTczMDY5NV19
+eyJoaXN0b3J5IjpbLTI2MTI4MDE5NiwtOTg1MDg3OTU4LDcyNT
+kyNzAyOCwyMzkwMDM2MCwtMTk4MDQ5MjgxOCwtMTQ4MjM3NzA4
+NywtMTQ4MTM2NTk1NSwtODMyMjQyMjcsLTUyMzk3OTQ4NywtMT
+A2Mjc0NjMzMSwxODA4NzE0ODM1LDE4OTQ0ODI1MjMsMTkyNTcw
+MDIxNSwtMjM5NzkxNDcwLC0xNTEwODUwNzc5LC0xNTY2NTcyNT
+M4LC0xNjgwNzY2ODUsLTgzNTE0MTIxMywtNjU4NTk5NzQwLC0x
+Njg5NzMwNjk1XX0=
 -->
