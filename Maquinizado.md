@@ -174,7 +174,7 @@ la conclusion de esto es que **TENER UNA BAJA VELOCIDAD DE AVANCE NO HACE QUE LA
 
 ### Cutting speed  (SFM o M/min)
 
-distancia recorrida por los filos de ta sobe el material en un minuto, es decir **superficie de erma oca el material por minuto**
+distancia recorrida por los filos de la herramienta sobe el material en un minuto, es decir **superficie de herramienta sobre el material por minuto**
 
 **Cada herramienta de cada fabricante tiene un CUTTING SPEED recomendado para cada material**
 
@@ -802,11 +802,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNjM1MDY5LC02NDAxMjAxOTIsLTEyND
-Y1MzA5ODIsLTE2MDg3MzQ3MzQsLTU5MzYzMjU5OCwtOTU4NDQz
-NjQ2LDEzMDU0NjE5NTQsLTkzNTk2MzMyLC0xNjU1NDU3MTUzLD
-EwNTQ5MTYyNjEsMTc5NTkwMTMxOCwxMjMyNzg1MjIwLC01NTk4
-MTg2ODgsMTg0MjI5OTMyMSwxNjE3Mjc4MjEsMTczOTY1MzIwNS
-wtNTg2MjEwNjY0LDEyMzkyMTcxNDgsLTE1MTM3OTcxNjcsLTY2
-NTU0ODYzMF19
+eyJoaXN0b3J5IjpbLTk4NDMwNTYzOCw2MTI2MzUwNjksLTY0MD
+EyMDE5MiwtMTI0NjUzMDk4MiwtMTYwODczNDczNCwtNTkzNjMy
+NTk4LC05NTg0NDM2NDYsMTMwNTQ2MTk1NCwtOTM1OTYzMzIsLT
+E2NTU0NTcxNTMsMTA1NDkxNjI2MSwxNzk1OTAxMzE4LDEyMzI3
+ODUyMjAsLTU1OTgxODY4OCwxODQyMjk5MzIxLDE2MTcyNzgyMS
+wxNzM5NjUzMjA1LC01ODYyMTA2NjQsMTIzOTIxNzE0OCwtMTUx
+Mzc5NzE2N119
 -->
