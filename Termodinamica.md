@@ -713,13 +713,13 @@ $$\sum \dot{\forall}_\text{entrante}= \sum \dot{\forall}_\text{entrante}$$
 #### Definicion
 Es una manera de medir la cantidad de energia que no esta disponible para realizar trabajo. 
 
+Cambia solo en procesos irreversibles.
 
 
-
-Para $T$ constente y un proceso reversible:
+Para $T$ constente:
 
 $$ S = \frac{ Q}{T}$$ 
-$$\Delta s = \frac{\Delta Q_{rev}}{T}$$ 
+$$\Delta s = \frac{\Delta Q}{T}$$ 
 
 Para $T$ no constante
 $$\Delta s = \int \frac{Q_{rev}}{T}$$
@@ -951,11 +951,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjI0ODM4NCwtMjAxODcwODM2OCwtNj
-IyMDE3MjIsMjU3ODkzNzMxLDEzNjcxODQzMTEsLTk4NTA4Nzk1
-OCw3MjU5MjcwMjgsMjM5MDAzNjAsLTE5ODA0OTI4MTgsLTE0OD
-IzNzcwODcsLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01MjM5Nzk0
-ODcsLTEwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLD
-E5MjU3MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2
-NjU3MjUzOF19
+eyJoaXN0b3J5IjpbMTM5MTQxNjU3MCwtNDMyMjQ4Mzg0LC0yMD
+E4NzA4MzY4LC02MjIwMTcyMiwyNTc4OTM3MzEsMTM2NzE4NDMx
+MSwtOTg1MDg3OTU4LDcyNTkyNzAyOCwyMzkwMDM2MCwtMTk4MD
+Q5MjgxOCwtMTQ4MjM3NzA4NywtMTQ4MTM2NTk1NSwtODMyMjQy
+MjcsLTUyMzk3OTQ4NywtMTA2Mjc0NjMzMSwxODA4NzE0ODM1LD
+E4OTQ0ODI1MjMsMTkyNTcwMDIxNSwtMjM5NzkxNDcwLC0xNTEw
+ODUwNzc5XX0=
 -->
