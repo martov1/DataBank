@@ -195,9 +195,9 @@ Los fabricantes usan estos nombres en sus tablas y formulas
 ### Obtener cutting speed y chip load 
 
 
-Los manuales de los fabricantes de eetaican que **Chip load** y **cutting speed** se debe usar para **cada herramienta** en combinacion con **el material a cortar**
+Los manuales de los fabricantes te indican que **Chip load** y **cutting speed** se debe usar para **cada herramienta** en combinacion con **el material a cortar**
 
-Para eso cada fabrcante coloca una serie de materiales en diferetes categorias y te indica tin eehip load** para cada material dentro de cada categoria y subcategoria.
+Para eso cada fabrcante coloca una serie de materiales en diferetes categorias y te indica el **chip load** para cada material dentro de cada categoria y subcategoria.
 
 ![](https://raw.githubusercontent.com/martov1/DataBank/master/imagenes/LxCBhPB.png)
 
@@ -802,11 +802,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjU5NDUyMCw2MTI2MzUwNjksLTY0MD
-EyMDE5MiwtMTI0NjUzMDk4MiwtMTYwODczNDczNCwtNTkzNjMy
-NTk4LC05NTg0NDM2NDYsMTMwNTQ2MTk1NCwtOTM1OTYzMzIsLT
-E2NTU0NTcxNTMsMTA1NDkxNjI2MSwxNzk1OTAxMzE4LDEyMzI3
-ODUyMjAsLTU1OTgxODY4OCwxODQyMjk5MzIxLDE2MTcyNzgyMS
-wxNzM5NjUzMjA1LC01ODYyMTA2NjQsMTIzOTIxNzE0OCwtMTUx
-Mzc5NzE2N119
+eyJoaXN0b3J5IjpbLTEwOTk0MDU5NDksNjEyNjM1MDY5LC02ND
+AxMjAxOTIsLTEyNDY1MzA5ODIsLTE2MDg3MzQ3MzQsLTU5MzYz
+MjU5OCwtOTU4NDQzNjQ2LDEzMDU0NjE5NTQsLTkzNTk2MzMyLC
+0xNjU1NDU3MTUzLDEwNTQ5MTYyNjEsMTc5NTkwMTMxOCwxMjMy
+Nzg1MjIwLC01NTk4MTg2ODgsMTg0MjI5OTMyMSwxNjE3Mjc4Mj
+EsMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMzkyMTcxNDgsLTE1
+MTM3OTcxNjddfQ==
 -->
