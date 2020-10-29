@@ -178,9 +178,9 @@ distancia recorrida por los filos de la herramienta sobe el material en un minut
 
 **Cada herramienta de cada fabricante tiene un CUTTING SPEED recomendado para cada material**
 
-Podemos usar un **CUTTING SPEED** menor S recomendado sin problemas en materiales blandos como aluminio E fariante  SCUTTING SPEED** para maximizar nuestra productividad pero no siempre podemos lograrlo con la maquina que tenemos, y eso es normal.
+Podemos usar un **CUTTING SPEED** menor S recomendado sin problemas en materiales blandos como aluminio. El cutting speed del fabricante sirve para maximizar nuestra productividad pero no siempre podemos lograrlo con la maquina que tenemos, y eso es normal.
 
-En materiales **duros** como **acero o titanio** es necesario usar **exactamente el CUTTINGPEel fabicnt**. En materiales blandos como aluminio, es opcional.
+En materiales **duros** como **acero o titanio** es necesario usar **exactamente el CUTTING SPEED del fabicante**. En materiales blandos como aluminio, es opcional.
 
 EL cutting speed puede venir en
 * $\frac{metros}{min}$
@@ -802,7 +802,7 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDMwNTYzOCw2MTI2MzUwNjksLTY0MD
+eyJoaXN0b3J5IjpbLTQ5MjU5NDUyMCw2MTI2MzUwNjksLTY0MD
 EyMDE5MiwtMTI0NjUzMDk4MiwtMTYwODczNDczNCwtNTkzNjMy
 NTk4LC05NTg0NDM2NDYsMTMwNTQ2MTk1NCwtOTM1OTYzMzIsLT
 E2NTU0NTcxNTMsMTA1NDkxNjI2MSwxNzk1OTAxMzE4LDEyMzI3
