@@ -206,12 +206,10 @@ Buscamos la combinacion de
 * Material a cortar
 * Operacion
 
-Si  no estas seguro siempre podes **llamar a n  ae de  herramienta**
-lco aules e abricante onl
+Si  no estas seguro siempre podes **llamar al fabricante de la  herramienta**
+El fabricante puede dar varios valores de **Cutting speed** y **Chip load** dependiendo de la **operacion a realizar**
 
-usmanua rcndeheramientas te an a da  l menos o arametros de **Cuttingetrse tn speed** y **Chip lo y ad** dependiendo de la **operacion a realizar**
-
-* Uno para *  ar*Slotting**
+* Uno para **Slotting**
 * Uno para **Side milling**
 
 T n para deillambien se pueiad
@@ -802,11 +800,11 @@ El angulo que forma el cortador con el eje $Z$ de la herramienta, puede ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTk0MDU5NDksNjEyNjM1MDY5LC02ND
-AxMjAxOTIsLTEyNDY1MzA5ODIsLTE2MDg3MzQ3MzQsLTU5MzYz
-MjU5OCwtOTU4NDQzNjQ2LDEzMDU0NjE5NTQsLTkzNTk2MzMyLC
-0xNjU1NDU3MTUzLDEwNTQ5MTYyNjEsMTc5NTkwMTMxOCwxMjMy
-Nzg1MjIwLC01NTk4MTg2ODgsMTg0MjI5OTMyMSwxNjE3Mjc4Mj
-EsMTczOTY1MzIwNSwtNTg2MjEwNjY0LDEyMzkyMTcxNDgsLTE1
-MTM3OTcxNjddfQ==
+eyJoaXN0b3J5IjpbLTQxMzUyODg3LDYxMjYzNTA2OSwtNjQwMT
+IwMTkyLC0xMjQ2NTMwOTgyLC0xNjA4NzM0NzM0LC01OTM2MzI1
+OTgsLTk1ODQ0MzY0NiwxMzA1NDYxOTU0LC05MzU5NjMzMiwtMT
+Y1NTQ1NzE1MywxMDU0OTE2MjYxLDE3OTU5MDEzMTgsMTIzMjc4
+NTIyMCwtNTU5ODE4Njg4LDE4NDIyOTkzMjEsMTYxNzI3ODIxLD
+E3Mzk2NTMyMDUsLTU4NjIxMDY2NCwxMjM5MjE3MTQ4LC0xNTEz
+Nzk3MTY3XX0=
 -->
