@@ -739,6 +739,10 @@ $$\Delta s =\frac{Q}{T} = \frac{334880j}{273K}=1277\frac{j}{K}$$
 
 #### Ejemplo a temp no constante
 
+Asumimos presion constante, usamos entonces el calor especifico a presion constante $C_p$
+
+$$\Delta S = mC_p \log$$
+
 #### Definicion como desorden
 
 La entropia mide el desorden molecular, por eso un gas tendra mayor entropia que un liquido
@@ -946,7 +950,7 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODgzMDUzMywtMjAxODcwODM2OCwtNj
+eyJoaXN0b3J5IjpbLTc5MjYzODU1OCwtMjAxODcwODM2OCwtNj
 IyMDE3MjIsMjU3ODkzNzMxLDEzNjcxODQzMTEsLTk4NTA4Nzk1
 OCw3MjU5MjcwMjgsMjM5MDAzNjAsLTE5ODA0OTI4MTgsLTE0OD
 IzNzcwODcsLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01MjM5Nzk0
