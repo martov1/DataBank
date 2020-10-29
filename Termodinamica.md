@@ -731,11 +731,13 @@ El **cambio de entalpia** es:
 * Es una **propiedad extensiva**
 
 
-#### Ejemplo
+#### Ejemplo a temp constante
 
 Se derrite un cubo de hielo de 1kg, añadiendo calor $Q=334880j$  y manteniendose a temperatura $T=273K$.
 
 $$\Delta s =\frac{Q}{T} = \frac{334880j}{273K}=1277\frac{j}{K}$$ 
+
+#### Ejemplo a temp no constante
 
 #### Definicion como desorden
 
@@ -944,11 +946,11 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 
 ![](https://i.imgur.com/kKIGpn4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg3MDgzNjgsLTYyMjAxNzIyLDI1Nz
-g5MzczMSwxMzY3MTg0MzExLC05ODUwODc5NTgsNzI1OTI3MDI4
-LDIzOTAwMzYwLC0xOTgwNDkyODE4LC0xNDgyMzc3MDg3LC0xND
-gxMzY1OTU1LC04MzIyNDIyNywtNTIzOTc5NDg3LC0xMDYyNzQ2
-MzMxLDE4MDg3MTQ4MzUsMTg5NDQ4MjUyMywxOTI1NzAwMjE1LC
-0yMzk3OTE0NzAsLTE1MTA4NTA3NzksLTE1NjY1NzI1MzgsLTE2
-ODA3NjY4NV19
+eyJoaXN0b3J5IjpbLTIwODgzMDUzMywtMjAxODcwODM2OCwtNj
+IyMDE3MjIsMjU3ODkzNzMxLDEzNjcxODQzMTEsLTk4NTA4Nzk1
+OCw3MjU5MjcwMjgsMjM5MDAzNjAsLTE5ODA0OTI4MTgsLTE0OD
+IzNzcwODcsLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01MjM5Nzk0
+ODcsLTEwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLD
+E5MjU3MDAyMTUsLTIzOTc5MTQ3MCwtMTUxMDg1MDc3OSwtMTU2
+NjU3MjUzOF19
 -->
