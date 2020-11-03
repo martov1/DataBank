@@ -1,7 +1,7 @@
 **Nivel técnico electrónico**
 https://www.youtube.com/watch?v=KkoudrHOpGE&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo
 
-Quede en video 3
+Quede en video 3 minuto 7
 
 # Componentes
 
@@ -72,5 +72,5 @@ Las resistencias nos indican mediante un codigo de colores cual es su **valor no
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjUzMjg3OF19
+eyJoaXN0b3J5IjpbODExMjgyODkzLDE4ODY1MzI4NzhdfQ==
 -->
