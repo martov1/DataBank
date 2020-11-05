@@ -67,10 +67,17 @@ Las resistencias nos indican mediante un codigo de colores cual es su **valor no
 
 ![](https://i.imgur.com/aLuFpcL.png =500x)
 ![](https://i.imgur.com/033ZctY.png =500x)
+#### Codigo de colores alta precision
+
+Cuando llegas a cierta precision, la **temperatura** comienza a afectarte la medicion de resistencia, ya que el resistor cambia su resistencia cuando cambia su temperatura. 
+Cuando tenes resistores que estan hechos para tanta presicion, vienen con una banda mas que indica cuanto cambia la resistencia por grado de temperatura fuera del valor ideal.
+
+
 
 ### Potenciometro
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExMjgyODkzLDE4ODY1MzI4NzhdfQ==
+eyJoaXN0b3J5IjpbMTI1OTE3MjAyMiw4MTEyODI4OTMsMTg4Nj
+UzMjg3OF19
 -->
