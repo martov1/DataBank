@@ -83,7 +83,7 @@ EJ:
 	* Una millonesima parte de $R$ es $\frac{10\Omega}{1.000.000}=0.00001 \Omega$
 	* Como el coeficiente es $50\frac{ppm}{C}$, por grado cambia 
 		* $50*0.00001\Omega=0.0005\Omega$
-	* Osea que si cambia 5 grados centigrados de la temperatura estandar, es decrla variacion de resistencia es 
+	* Osea que si cambia 5 grados centigrados de la temperatura estandar, es decir, esta a $30C$ la variacion de resistencia es 
 		* $5*0.0005\Omega=0.0025\Omega$
 
 ![](https://i.imgur.com/c9SjPNv.png =x250)
@@ -94,6 +94,6 @@ EJ:
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDEwNTk5NiwtODcwMDk1NDE1LDEyNT
-kxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4NzhdfQ==
+eyJoaXN0b3J5IjpbLTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMj
+U5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMyODc4XX0=
 -->
