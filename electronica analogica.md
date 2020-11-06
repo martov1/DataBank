@@ -64,6 +64,7 @@ Las series mas populares son las siguientes. Podemos conseguir componentes de es
 Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar en forma de calor sin quemarse
 ![](https://i.imgur.com/qIhVTSV.png)
 
+## Resistores Fijos
 
 ### Resistencias tubulares
 #### Codigo de colores
@@ -185,10 +186,13 @@ Algunos ejemplos estandares son
 * * **PT1000** - a 0º presenta $1000\Omega$
 
 ![](https://i.imgur.com/U0SE0rl.png)
+#### Varistor - VDR
+
+Es una resistencia que **varia con la tension**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU4MTQ5OSw2NDA5NTcwODcsMTk3OD
-g4NDM2OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0
-LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLT
-g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
-ODc4XX0=
+eyJoaXN0b3J5IjpbMzQ0MTE4MDUsNjQwOTU3MDg3LDE5Nzg4OD
+QzNjgsNTM2NTE5MTg2LC02NjM2MzEzOTgsLTIzMDEyMzQxNCwy
+MDYzNDA3ODg0LC0xMzkyMTAxMzc3LC0xMzE5NzYwMDcxLC04Nz
+AwOTU0MTUsMTI1OTE3MjAyMiw4MTEyODI4OTMsMTg4NjUzMjg3
+OF19
 -->
