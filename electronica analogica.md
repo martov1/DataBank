@@ -128,11 +128,16 @@ Son las resistencias hechas para soportar una cantidad mayor de potencia que las
 ![](https://i.imgur.com/n20zwqj.png =x200)
 
 
-### Potenciometro
+## Resistores variables
 
-Es una resistencia variable
+Es una resistencia variable que cambia segun un mecanismo, los hay
+* Rotativos
+* Deslizantes
+* Multivuelta
+* Deslizante con tornillo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ5NTEzMTcsLTIzMDEyMzQxNCwyMD
+eyJoaXN0b3J5IjpbLTE0MDk4NjcxOTAsLTIzMDEyMzQxNCwyMD
 YzNDA3ODg0LC0xMzkyMTAxMzc3LC0xMzE5NzYwMDcxLC04NzAw
 OTU0MTUsMTI1OTE3MjAyMiw4MTEyODI4OTMsMTg4NjUzMjg3OF
 19
