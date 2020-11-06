@@ -101,6 +101,7 @@ Tienen en general una tolerancia del $5\%$ y se indican con dos digitos que indi
 Se utiliza la letra $R$ para indicar un punto decimal
 
 ![](https://i.imgur.com/z0eK60C.png)
+ #### Resistencias de precision
 
 ### Capacidad de potencia y tamaño fisico
 Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar en forma de calor sin quemarse
@@ -110,7 +111,7 @@ Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar 
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODE4NTAyMSwtMTMxOTc2MDA3MSwtOD
+eyJoaXN0b3J5IjpbLTIyNjg4NjA1MSwtMTMxOTc2MDA3MSwtOD
 cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
 NzhdfQ==
 -->
