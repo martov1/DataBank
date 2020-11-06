@@ -95,7 +95,7 @@ a
  
 Tienen en general una tolerancia del $5\%$ y se indican con dos digitos que indican numeros y un digito que indica la cantidad de ceros que colocarles
 
-
+![](https://i.imgur.com/1HVgAp8.png)
 
  #### Resistencias Menores a 10$\Omega$
 
@@ -107,7 +107,7 @@ Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar 
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU2NDU3MjgsLTEzMTk3NjAwNzEsLT
-g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
-ODc4XX0=
+eyJoaXN0b3J5IjpbLTE5NjIwNjY5MCwtMTMxOTc2MDA3MSwtOD
+cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
+NzhdfQ==
 -->
