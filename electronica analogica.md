@@ -130,10 +130,16 @@ Son las resistencias hechas para soportar una cantidad mayor de potencia que las
 
 ## Resistores variables
 
-Es una resistencia variable que cambia segun un mecanismo, los hay
+Es una resistencia variable que cambia segun un mecanismo, pueden ser
+* Logaritmicos
+* Lineales
+
+Los hay
 * Rotativos
 * Deslizantes
+	* ![](https://i.imgur.com/XYTMk1o.png =100x)
 * Multivuelta
+	* ![](https://i.imgur.com/qztn530.png =100x)
 * Deslizante con tornillo
 * De ajuste (trimmer)
 	* Hecho para ajustar una vez y no tocarlo mas, generalmente para compensar algo de otro componente.
@@ -143,8 +149,8 @@ Es una resistencia variable que cambia segun un mecanismo, los hay
 	* ![](https://i.imgur.com/VKmx6pQ.png =100x)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTk1MTcyLC0yMzAxMjM0MTQsMjA2Mz
-QwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtODcwMDk1
-NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4NzhdfQ
-==
+eyJoaXN0b3J5IjpbLTE2NzgxMzQ5NDcsLTIzMDEyMzQxNCwyMD
+YzNDA3ODg0LC0xMzkyMTAxMzc3LC0xMzE5NzYwMDcxLC04NzAw
+OTU0MTUsMTI1OTE3MjAyMiw4MTEyODI4OTMsMTg4NjUzMjg3OF
+19
 -->
