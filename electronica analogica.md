@@ -1,7 +1,10 @@
 **Nivel técnico electrónico**
 https://www.youtube.com/watch?v=KkoudrHOpGE&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo
 
-Quede en video 3 minuto 7
+Quede en clase 6
+**VER BIEN FUENTES REALES Y CAIDA DE TENSION!**
+https://www.youtube.com/watch?v=JSnm1vGaWBE
+
 
 # Componentes
 
@@ -207,9 +210,9 @@ Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas q
 
 ![](https://i.imgur.com/035We3a.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMzU1MTUsMjA4NzQ2NDkzMiw2NDA5NT
-cwODcsMTk3ODg4NDM2OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwt
-MjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMT
-k3NjAwNzEsLTg3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5
-MywxODg2NTMyODc4XX0=
+eyJoaXN0b3J5IjpbLTQ2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3ND
+Y0OTMyLDY0MDk1NzA4NywxOTc4ODg0MzY4LDUzNjUxOTE4Niwt
+NjYzNjMxMzk4LC0yMzAxMjM0MTQsMjA2MzQwNzg4NCwtMTM5Mj
+EwMTM3NywtMTMxOTc2MDA3MSwtODcwMDk1NDE1LDEyNTkxNzIw
+MjIsODExMjgyODkzLDE4ODY1MzI4NzhdfQ==
 -->
