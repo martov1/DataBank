@@ -69,7 +69,7 @@ Las resistencias nos indican mediante un codigo de colores cual es su **valor no
 ![](https://i.imgur.com/033ZctY.png =500x)
 #### Codigo de colores alta precision
 
-Cuando llegas a cierta precision, la **temperatura** comienza a afectarte la medicion de resistencia, ya que el resistor cambia su resistencia cuando cambia su temperatura. 
+Cuando llegas a cierta precision, la **temperatura** comienza a afectarte la medicion de resistencia, **ya que el resistor cambia su resistencia cuando cambia su temperatura.** 
 Cuando tenes resistores que estan hechos para tanta presicion, vienen con una banda mas que indica cuanto cambia la resistencia por grado de temperatura fuera del valor ideal.
 
 El coeficiente esta expresado en partes por millon $PPM/C$, es decir, dividis la resistencia $R$ del resistor en un millon de partes, y el coeficiente te dice cuantas de esas partes cambian por grado centigrado.
@@ -86,7 +86,7 @@ EJ:
 	* Osea que si cambia 5 grados centigrados de la temperatura estandar, la variacion de resistencia es 
 		* $5*0.0005\Omega=0.0025\Omega$
 
-
+![](https://i.imgur.com/c9SjPNv.png =x250)
 
 
 
@@ -94,6 +94,6 @@ EJ:
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1NDEyNjI5LDEyNTkxNzIwMjIsODExMj
-gyODkzLDE4ODY1MzI4NzhdfQ==
+eyJoaXN0b3J5IjpbMTI0NzE5ODMsMTI1OTE3MjAyMiw4MTEyOD
+I4OTMsMTg4NjUzMjg3OF19
 -->
