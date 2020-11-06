@@ -119,13 +119,14 @@ Los primeros dos digitos responden a una tabla, el tercer digito es una letra y 
 
 
 ### Resistencias de potencia
-Son las resist
+Son las resistencias hechas para soportar una cantidad mayor de potencia que las resistencias comunes.
+
 
 ### Potenciometro
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzIyMzM2MTMsMjA2MzQwNzg4NCwtMT
-M5MjEwMTM3NywtMTMxOTc2MDA3MSwtODcwMDk1NDE1LDEyNTkx
-NzIwMjIsODExMjgyODkzLDE4ODY1MzI4NzhdfQ==
+eyJoaXN0b3J5IjpbLTIzMDEyMzQxNCwyMDYzNDA3ODg0LC0xMz
+kyMTAxMzc3LC0xMzE5NzYwMDcxLC04NzAwOTU0MTUsMTI1OTE3
+MjAyMiw4MTEyODI4OTMsMTg4NjUzMjg3OF19
 -->
