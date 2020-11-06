@@ -137,12 +137,14 @@ Es una resistencia variable que cambia segun un mecanismo, los hay
 * Deslizante con tornillo
 * De ajuste (trimmer)
 	* Hecho para ajustar una vez y no tocarlo mas, generalmente para compensar algo de otro componente.
+	* ![](https://i.imgur.com/5z2a4c4.png)
 * De control
 	* Facil accionamiento, robusto, para que el usuario lo toque
+	* ![](https://i.imgur.com/VKmx6pQ.png =100x)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTU4NDQ3OCwtMjMwMTIzNDE0LDIwNj
-M0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5
-NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMyODc4XX
-0=
+eyJoaXN0b3J5IjpbMjA4NTk1MTcyLC0yMzAxMjM0MTQsMjA2Mz
+QwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtODcwMDk1
+NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4NzhdfQ
+==
 -->
