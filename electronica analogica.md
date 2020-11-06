@@ -102,9 +102,11 @@ Se utiliza la letra $R$ para indicar un punto decimal
 
 ![](https://i.imgur.com/z0eK60C.png)
  #### Resistencias de precision
- Se miden igual que los demas, pero tienen una tolerancia de $1\%$ y tienen un numero mas, por lo que permiten 
+ Se miden igual que los demas, pero tienen una tolerancia de $1\%$ y tienen un numero mas, por lo que permiten un numero mas de precision
 
 ![](https://i.imgur.com/BRA8QhS.png)
+Asimismo, tienen su correlato para resistencias menores de $10\Omega$
+
 ### Capacidad de potencia y tamaño fisico
 Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar en forma de calor sin quemarse
 ![](https://i.imgur.com/qIhVTSV.png)
@@ -113,7 +115,7 @@ Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar 
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDI5NTkwNCwtMTMxOTc2MDA3MSwtOD
-cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
-NzhdfQ==
+eyJoaXN0b3J5IjpbLTE3NjA1NTg4NTYsLTEzMTk3NjAwNzEsLT
+g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
+ODc4XX0=
 -->
