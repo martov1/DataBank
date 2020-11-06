@@ -136,7 +136,10 @@ Es una resistencia variable que cambia segun un mecanismo, pueden ser
 	* Para audio, por que el oide escucha en una escala logaritmica
 * Lineales
 
-Los hay
+![](https://i.imgur.com/gt4CdPd.png =x150)
+
+
+**Los hay:**
 * Rotativos
 * Deslizantes
 	* ![](https://i.imgur.com/XYTMk1o.png =100x)
@@ -151,8 +154,8 @@ Los hay
 	* ![](https://i.imgur.com/VKmx6pQ.png =100x)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTY0Mjk2MywtMjMwMTIzNDE0LDIwNj
-M0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5
-NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMyODc4XX
-0=
+eyJoaXN0b3J5IjpbLTIwMDc5ODI1NTksLTIzMDEyMzQxNCwyMD
+YzNDA3ODg0LC0xMzkyMTAxMzc3LC0xMzE5NzYwMDcxLC04NzAw
+OTU0MTUsMTI1OTE3MjAyMiw4MTEyODI4OTMsMTg4NjUzMjg3OF
+19
 -->
