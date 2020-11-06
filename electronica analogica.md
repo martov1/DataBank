@@ -76,11 +76,14 @@ El coeficiente esta expresado en partes por millon $PPM/C$, es decir, dividis la
 $$\frac{R}{1.000.000}*\text{coef}*\Delta T$$
 
 EJ:
+* **Datos:**
 * Resistor $10\Omega$
-* Una millonesima parte de $R$ es $\frac{10}{1.000.000}=0.00001 \Omega$
 * Coeficiente $50\frac{ppm}{C}$
-* osea que por grado cambia $50*0.00001\Omega=0.0005\Omega$
-* Osea que si cambia 5 grados centigrados es $5*0.0005\Omega=$
+* **Calculo:**
+	* Una millonesima parte de $R$ es $\frac{10\Omega}{1.000.000}=0.00001 \Omega$
+	* Como el coeficiente es $50\frac{ppm}{C}$, por grado cambia $50*0.00001\Omega=0.0005\Omega$
+	* Osea que si cambia 5 grados centigrados es 
+		* $5*0.0005\Omega=0.0025\Omega$
 
 
 
@@ -90,6 +93,6 @@ EJ:
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODk2MzE4OSwxMjU5MTcyMDIyLDgxMT
+eyJoaXN0b3J5IjpbMTM0NzI5OTMyNywxMjU5MTcyMDIyLDgxMT
 I4Mjg5MywxODg2NTMyODc4XX0=
 -->
