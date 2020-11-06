@@ -194,8 +194,14 @@ Se usan para
 * Proteccion contra sobretension
 * Estabilizacion de tension
 
+
+
+
+![](https://i.imgur.com/Ugb3zas.png =500x)
+Generalmente se colocan en paralelo con una entrada de tension para cortocircuitarla en caso de un pico de tension y protejer al aparato, muchas veces quemando un fusible.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0NjI0MDY2LDY0MDk1NzA4NywxOTc4OD
+eyJoaXN0b3J5IjpbNzYwNzI3NjQ1LDY0MDk1NzA4NywxOTc4OD
 g0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMzAxMjM0MTQs
 MjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtOD
 cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
