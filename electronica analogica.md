@@ -188,11 +188,16 @@ Algunos ejemplos estandares son
 ![](https://i.imgur.com/U0SE0rl.png)
 #### Varistor - VDR
 
-Es una resistencia que **varia con la tension**
+Es una resistencia que **varia con la tension**, su **resistencia disminuye con mayor tension**, la variacion **no es lineal**
+Se usan para
+* Eliminacion de chispas
+* Proteccion contra sobretension
+* Estabilizacion de tension
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MTE4MDUsNjQwOTU3MDg3LDE5Nzg4OD
-QzNjgsNTM2NTE5MTg2LC02NjM2MzEzOTgsLTIzMDEyMzQxNCwy
-MDYzNDA3ODg0LC0xMzkyMTAxMzc3LC0xMzE5NzYwMDcxLC04Nz
-AwOTU0MTUsMTI1OTE3MjAyMiw4MTEyODI4OTMsMTg4NjUzMjg3
-OF19
+eyJoaXN0b3J5IjpbODk0NjI0MDY2LDY0MDk1NzA4NywxOTc4OD
+g0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMzAxMjM0MTQs
+MjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtOD
+cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
+NzhdfQ==
 -->
