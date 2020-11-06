@@ -109,7 +109,7 @@ Asimismo, tienen su correlato para resistencias menores de $100\Omega$
 ![](https://i.imgur.com/pBniQZV.png)
  #### Resistencias de codigo EIA-96
 
-Los primeros dos digitos responden a una tabla, el tercer digito es una letra y representa un multiplicador que se multiplica por el valor de la tabla. tienen una precision con un $1%$
+Los primeros dos digitos responden a una tabla, el tercer digito es una letra y representa un multiplicador que se multiplica por el valor de la tabla. tienen una precision con un $1\%$ de tolerancia
 
 ![](https://i.imgur.com/Ke95hXh.png =400x)
 ### Capacidad de potencia y tamaño fisico
@@ -120,7 +120,7 @@ Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar 
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Mzc0MDUzOSwtMTM5MjEwMTM3NywtMT
+eyJoaXN0b3J5IjpbMjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMT
 MxOTc2MDA3MSwtODcwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgy
 ODkzLDE4ODY1MzI4NzhdfQ==
 -->
