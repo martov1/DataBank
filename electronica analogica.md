@@ -105,7 +105,8 @@ Se utiliza la letra $R$ para indicar un punto decimal
  Se miden igual que los demas, pero tienen una tolerancia de $1\%$ y tienen un numero mas, por lo que permiten un numero mas de precision
 
 ![](https://i.imgur.com/BRA8QhS.png)
-Asimismo, tienen su correlato para resistencias menores de $10\Omega$
+Asimismo, tienen su correlato para resistencias menores de $100\Omega$
+![](https://i.imgur.com/pBniQZV.png)
 
 ### Capacidad de potencia y tamaño fisico
 Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar en forma de calor sin quemarse
@@ -115,7 +116,7 @@ Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar 
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA1NTg4NTYsLTEzMTk3NjAwNzEsLT
+eyJoaXN0b3J5IjpbLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLT
 g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
 ODc4XX0=
 -->
