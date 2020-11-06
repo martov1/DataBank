@@ -60,6 +60,10 @@ Al aumentar la cantidad de pasos, tambien estamos aumentando la exactitud de los
 ![](https://i.imgur.com/0oUIbdG.png =300x)
 Las series mas populares son las siguientes. Podemos conseguir componentes de estas series con multiplos esos valores en ohms.
 ![](https://i.imgur.com/ZEdxfpS.png)
+#### Capacidad de potencia y tamaño fisico
+Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar en forma de calor sin quemarse
+![](https://i.imgur.com/qIhVTSV.png)
+
 
 ### Resistencias tubulares
 #### Codigo de colores
@@ -112,15 +116,16 @@ Asimismo, tienen su correlato para resistencias menores de $100\Omega$
 Los primeros dos digitos responden a una tabla, el tercer digito es una letra y representa un multiplicador que se multiplica por el valor de la tabla. tienen una precision con un $1\%$ de tolerancia
 
 ![](https://i.imgur.com/Ke95hXh.png =400x)
-### Capacidad de potencia y tamaño fisico
-Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar en forma de calor sin quemarse
-![](https://i.imgur.com/qIhVTSV.png)
+
+
+### Resistencias de potencia
+Son las resist
 
 ### Potenciometro
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMT
-MxOTc2MDA3MSwtODcwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgy
-ODkzLDE4ODY1MzI4NzhdfQ==
+eyJoaXN0b3J5IjpbLTE1NzIyMzM2MTMsMjA2MzQwNzg4NCwtMT
+M5MjEwMTM3NywtMTMxOTc2MDA3MSwtODcwMDk1NDE1LDEyNTkx
+NzIwMjIsODExMjgyODkzLDE4ODY1MzI4NzhdfQ==
 -->
