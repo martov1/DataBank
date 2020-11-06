@@ -160,11 +160,14 @@ Es una resistencia variable que cambia segun un mecanismo,
 Varian con determindas magnitudes fisicas. su simbolo es
 ![](https://i.imgur.com/42E9TQM.png =200x)
 
-#### Varistor
+#### Termistor
 
+Son resistencias que **varian segun la temperatura**, los hay de dos tipos
+
+* **NTC**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2NTE5MTg2LC02NjM2MzEzOTgsLTIzMD
-EyMzQxNCwyMDYzNDA3ODg0LC0xMzkyMTAxMzc3LC0xMzE5NzYw
-MDcxLC04NzAwOTU0MTUsMTI1OTE3MjAyMiw4MTEyODI4OTMsMT
-g4NjUzMjg3OF19
+eyJoaXN0b3J5IjpbLTkyMzYxMzcwMiw1MzY1MTkxODYsLTY2Mz
+YzMTM5OCwtMjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEzOTIxMDEz
+NzcsLTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMjU5MTcyMDIyLD
+gxMTI4Mjg5MywxODg2NTMyODc4XX0=
 -->
