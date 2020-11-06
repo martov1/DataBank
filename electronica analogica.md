@@ -164,9 +164,14 @@ Varian con determindas magnitudes fisicas. su simbolo es
 
 Son resistencias que **varian segun la temperatura**, los hay de dos tipos
 
-* **NTC**
+* **Negative temperature coeficient (NTC)** Varias su resistencia inversamente a la temperatura 
+	* Mas temperatura, menos resistencia
+	* Se usan como termostatos o sensores de temperatura en refrigeracion
+* **Positive temperature coeficient (PTC)**
+	* Mas temperatura, mas resistencia
+	*  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzYxMzcwMiw1MzY1MTkxODYsLTY2Mz
+eyJoaXN0b3J5IjpbMTk3ODg4NDM2OCw1MzY1MTkxODYsLTY2Mz
 YzMTM5OCwtMjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEzOTIxMDEz
 NzcsLTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMjU5MTcyMDIyLD
 gxMTI4Mjg5MywxODg2NTMyODc4XX0=
