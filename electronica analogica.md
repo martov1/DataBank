@@ -88,8 +88,16 @@ EJ:
 		* $5*0.0005\Omega=0.0025\Omega$
 
 ![](https://i.imgur.com/c9SjPNv.png =x250)
-### Valores en resistencias SMD
+### Resistencias SMD
+a
  
+ #### Resistencias mayores a 10$\Omega$
+ 
+Tienen en general una tolerancia del $5\%$ y se indican con dos digitos que indican numeros y un digito que indica la cantidad de ceros que colocarles
+
+
+
+ #### Resistencias Menores a 10$\Omega$
 
 ### Capacidad de potencia y tamaño fisico
 Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar en forma de calor sin quemarse
@@ -99,7 +107,7 @@ Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar 
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODI1Nzk0OSwtMTMxOTc2MDA3MSwtOD
-cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
-NzhdfQ==
+eyJoaXN0b3J5IjpbLTE0NzU2NDU3MjgsLTEzMTk3NjAwNzEsLT
+g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
+ODc4XX0=
 -->
