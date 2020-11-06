@@ -130,8 +130,10 @@ Son las resistencias hechas para soportar una cantidad mayor de potencia que las
 
 ## Resistores variables
 
+[fuente](https://www.youtube.com/watch?v=jli6YBkRt3U&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=3)
 Es una resistencia variable que cambia segun un mecanismo, pueden ser
 * Logaritmicos
+	* Para audio, por que el oide escucha en una escala logaritmica
 * Lineales
 
 Los hay
@@ -149,8 +151,8 @@ Los hay
 	* ![](https://i.imgur.com/VKmx6pQ.png =100x)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgxMzQ5NDcsLTIzMDEyMzQxNCwyMD
-YzNDA3ODg0LC0xMzkyMTAxMzc3LC0xMzE5NzYwMDcxLC04NzAw
-OTU0MTUsMTI1OTE3MjAyMiw4MTEyODI4OTMsMTg4NjUzMjg3OF
-19
+eyJoaXN0b3J5IjpbMTg4NTY0Mjk2MywtMjMwMTIzNDE0LDIwNj
+M0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5
+NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMyODc4XX
+0=
 -->
