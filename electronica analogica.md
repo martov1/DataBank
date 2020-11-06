@@ -73,11 +73,14 @@ Cuando llegas a cierta precision, la **temperatura** comienza a afectarte la med
 Cuando tenes resistores que estan hechos para tanta presicion, vienen con una banda mas que indica cuanto cambia la resistencia por grado de temperatura fuera del valor ideal.
 
 
+$$\frac{R}{10.00.000}R$$
+
+
 
 ### Potenciometro
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTE3MjAyMiw4MTEyODI4OTMsMTg4Nj
-UzMjg3OF19
+eyJoaXN0b3J5IjpbLTg2NjI0MzQwOSwxMjU5MTcyMDIyLDgxMT
+I4Mjg5MywxODg2NTMyODc4XX0=
 -->
