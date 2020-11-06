@@ -202,11 +202,11 @@ Generalmente se colocan en paralelo con una entrada de tension para cortocircuit
 ![](https://i.imgur.com/CPtxKLb.png)
 #### Fotoresistencias LDR
 
-Varian su resistencia con la luz, generalmente **no son lineales**, hay t
+Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas que te dicen de acuerdo a cuantos **lux** que resistencia tendran
 
 ![](https://i.imgur.com/035We3a.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTMxNTcxNCw2NDA5NTcwODcsMTk3OD
+eyJoaXN0b3J5IjpbMjA4NzQ2NDkzMiw2NDA5NTcwODcsMTk3OD
 g4NDM2OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0
 LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLT
 g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
