@@ -151,6 +151,7 @@ Es una resistencia variable que cambia segun un mecanismo,
 * Deslizante con tornillo
 * De ajuste (trimmer)
 	* Hecho para ajustar una vez y no tocarlo mas, generalmente para compensar algo de otro componente.
+	* Tienen gran precision
 	* ![](https://i.imgur.com/5z2a4c4.png)
 * De control
 	* Facil accionamiento, robusto, para que el usuario lo toque
@@ -206,9 +207,9 @@ Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas q
 
 ![](https://i.imgur.com/035We3a.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzQ2NDkzMiw2NDA5NTcwODcsMTk3OD
-g4NDM2OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0
-LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLT
-g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
-ODc4XX0=
+eyJoaXN0b3J5IjpbODAyMzU1MTUsMjA4NzQ2NDkzMiw2NDA5NT
+cwODcsMTk3ODg4NDM2OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwt
+MjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMT
+k3NjAwNzEsLTg3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5
+MywxODg2NTMyODc4XX0=
 -->
