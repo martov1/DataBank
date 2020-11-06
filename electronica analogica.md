@@ -130,6 +130,7 @@ Son las resistencias hechas para soportar una cantidad mayor de potencia que las
 
 ## Resistores variables
 
+### Potenciometros
 [fuente](https://www.youtube.com/watch?v=jli6YBkRt3U&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=3)
 Es una resistencia variable que cambia segun un mecanismo,
  **pueden ser:**
@@ -154,8 +155,11 @@ Es una resistencia variable que cambia segun un mecanismo,
 	* Facil accionamiento, robusto, para que el usuario lo toque
 	* ![](https://i.imgur.com/VKmx6pQ.png =100x)
 
+### Variables no lineales
+
+Varian con 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzkyNDgzNywtMjMwMTIzNDE0LDIwNj
+eyJoaXN0b3J5IjpbLTY2MzYzMTM5OCwtMjMwMTIzNDE0LDIwNj
 M0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5
 NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMyODc4XX
 0=
