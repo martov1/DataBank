@@ -162,7 +162,7 @@ Varian con determindas magnitudes fisicas. su simbolo es
 
 #### Termistor
 
-Son resistencias que **varian segun la temperatura**, los hay de dos tipos. Tienen como caracteristica
+Son resistencias que **varian segun la temperatura**, los hay de dos tipos. Tienen como caracteristica **no tener una curva temperatura-resistencia lineal**
 
 * **Negative temperature coeficient (NTC)** Varias su resistencia inversamente a la temperatura 
 	* Mas temperatura, menos resistencia
@@ -174,10 +174,14 @@ Son resistencias que **varian segun la temperatura**, los hay de dos tipos. Tien
 Simbologia:
 ![](https://i.imgur.com/bE0tNKr.png)
 #### Termoresistencia RTD
+
+Similares a los termistores, pero tienen una curva **temperatura-resistencia lineal**
+
+![](https://i.imgur.com/xrnNi3V.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU2NzM2ODMsNjQwOTU3MDg3LDE5Nz
-g4ODQzNjgsNTM2NTE5MTg2LC02NjM2MzEzOTgsLTIzMDEyMzQx
-NCwyMDYzNDA3ODg0LC0xMzkyMTAxMzc3LC0xMzE5NzYwMDcxLC
-04NzAwOTU0MTUsMTI1OTE3MjAyMiw4MTEyODI4OTMsMTg4NjUz
-Mjg3OF19
+eyJoaXN0b3J5IjpbMTQ0NzcwMDcyMyw2NDA5NTcwODcsMTk3OD
+g4NDM2OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0
+LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLT
+g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
+ODc4XX0=
 -->
