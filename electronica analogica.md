@@ -87,13 +87,15 @@ EJ:
 		* $5*0.0005\Omega=0.0025\Omega$
 
 ![](https://i.imgur.com/c9SjPNv.png =x250)
-
+### Capacidad de potencia y tamaño fisico
+Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar en forma de calor sin quemarse
 
 
 ### Potenciometro
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMj
-U5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMyODc4XX0=
+eyJoaXN0b3J5IjpbLTE2MTQ1MTgzNDcsLTEzMTk3NjAwNzEsLT
+g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
+ODc4XX0=
 -->
