@@ -98,6 +98,9 @@ Tienen en general una tolerancia del $5\%$ y se indican con dos digitos que indi
 ![](https://i.imgur.com/1HVgAp8.png)
 
  #### Resistencias Menores a 10$\Omega$
+Se utiliza la letra $R$ para indicar un punto decimal
+
+![](https://i.imgur.com/z0eK60C.png)
 
 ### Capacidad de potencia y tamaño fisico
 Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar en forma de calor sin quemarse
@@ -107,7 +110,7 @@ Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar 
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjIwNjY5MCwtMTMxOTc2MDA3MSwtOD
+eyJoaXN0b3J5IjpbLTQyODE4NTAyMSwtMTMxOTc2MDA3MSwtOD
 cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
 NzhdfQ==
 -->
