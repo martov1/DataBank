@@ -87,6 +87,9 @@ EJ:
 		* $5*0.0005\Omega=0.0025\Omega$
 
 ![](https://i.imgur.com/c9SjPNv.png =x250)
+### Valores en resistencias SMD
+ 
+
 ### Capacidad de potencia y tamaño fisico
 Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar en forma de calor sin quemarse
 ![](https://i.imgur.com/qIhVTSV.png)
@@ -95,7 +98,7 @@ Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar 
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI0NzA1MjUsLTEzMTk3NjAwNzEsLT
-g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
-ODc4XX0=
+eyJoaXN0b3J5IjpbLTI3MjA1MjA0NiwtMTMxOTc2MDA3MSwtOD
+cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
+NzhdfQ==
 -->
