@@ -61,6 +61,7 @@ Al aumentar la cantidad de pasos, tambien estamos aumentando la exactitud de los
 Las series mas populares son las siguientes. Podemos conseguir componentes de estas series con multiplos esos valores en ohms.
 ![](https://i.imgur.com/ZEdxfpS.png)
 
+### Resistencias tubulares
 #### Codigo de colores
 
 Las resistencias nos indican mediante un codigo de colores cual es su **valor nominal** y su **tolerancia**, en base a eso ademas podemos definir a que **serie pertenecen**
@@ -98,7 +99,7 @@ Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar 
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjA1MjA0NiwtMTMxOTc2MDA3MSwtOD
+eyJoaXN0b3J5IjpbLTk1ODI1Nzk0OSwtMTMxOTc2MDA3MSwtOD
 cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
 NzhdfQ==
 -->
