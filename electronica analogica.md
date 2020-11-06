@@ -175,13 +175,17 @@ Simbologia:
 ![](https://i.imgur.com/bE0tNKr.png)
 #### Termoresistencia RTD
 
-Similares a los termistores, pero tienen una curva **temperatura-resistencia lineal**
+Similares a los termistores, pero tienen una curva **temperatura-resistencia lineal**.
+Al aumentar la temperatura, aumenta su resistencia
+Algunos ejemplos estandares son
+* **PT100** - a 0º presenta $100\Omega$
+* * **PT1000** - a 0º presenta $1000\Omega$
 
-![](https://i.imgur.com/xrnNi3V.png)
+![](https://i.imgur.com/U0SE0rl.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzcwMDcyMyw2NDA5NTcwODcsMTk3OD
-g4NDM2OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0
-LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLT
-g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
-ODc4XX0=
+eyJoaXN0b3J5IjpbNzA4MzM3NjEyLDY0MDk1NzA4NywxOTc4OD
+g0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMzAxMjM0MTQs
+MjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtOD
+cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
+NzhdfQ==
 -->
