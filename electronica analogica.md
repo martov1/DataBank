@@ -157,10 +157,14 @@ Es una resistencia variable que cambia segun un mecanismo,
 
 ### Variables no lineales
 
-Varian con 
+Varian con determindas magnitudes fisicas. su simbolo es
+![](https://i.imgur.com/42E9TQM.png =200x)
+
+#### Varistor
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzYzMTM5OCwtMjMwMTIzNDE0LDIwNj
-M0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5
-NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMyODc4XX
-0=
+eyJoaXN0b3J5IjpbNTM2NTE5MTg2LC02NjM2MzEzOTgsLTIzMD
+EyMzQxNCwyMDYzNDA3ODg0LC0xMzkyMTAxMzc3LC0xMzE5NzYw
+MDcxLC04NzAwOTU0MTUsMTI1OTE3MjAyMiw4MTEyODI4OTMsMT
+g4NjUzMjg3OF19
 -->
