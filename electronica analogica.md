@@ -107,6 +107,7 @@ Se utiliza la letra $R$ para indicar un punto decimal
 ![](https://i.imgur.com/BRA8QhS.png)
 Asimismo, tienen su correlato para resistencias menores de $100\Omega$
 ![](https://i.imgur.com/pBniQZV.png)
+ #### Resistencias de codigo EIA-96
 
 ### Capacidad de potencia y tamaño fisico
 Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar en forma de calor sin quemarse
@@ -116,7 +117,7 @@ Los resistores cambian su tamaño dependiendo de la potencia que pueden disipar 
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLT
-g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
-ODc4XX0=
+eyJoaXN0b3J5IjpbMTg0NDYyMDcxNSwtMTM5MjEwMTM3NywtMT
+MxOTc2MDA3MSwtODcwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgy
+ODkzLDE4ODY1MzI4NzhdfQ==
 -->
