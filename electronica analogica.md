@@ -73,11 +73,14 @@ Cuando llegas a cierta precision, la **temperatura** comienza a afectarte la med
 Cuando tenes resistores que estan hechos para tanta presicion, vienen con una banda mas que indica cuanto cambia la resistencia por grado de temperatura fuera del valor ideal.
 
 El coeficiente esta expresado en partes por millon $PPM/C$, es decir, dividis la resistencia $R$ del resistor en un millon de partes, y el coeficiente te dice cuantas de esas partes cambian por grado centigrado.
+$$\frac{R}{1.000.000}*\text{coef}*\Delta T$$
 
 EJ:
-$Resistor$
+Resistor $10\Omega$
+una millonesima parte de $R$ es $\frac{10}{1.000.000}=$
+Coeficiente $50ppm$
 
-$$\frac{R}{1.000.000}*\text{coef}*\Delta T$$
+
 
 
 
@@ -85,6 +88,6 @@ $$\frac{R}{1.000.000}*\text{coef}*\Delta T$$
 
 Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyODU3NzM2LDEyNTkxNzIwMjIsODExMj
-gyODkzLDE4ODY1MzI4NzhdfQ==
+eyJoaXN0b3J5IjpbLTI5NjI2OTU2NCwxMjU5MTcyMDIyLDgxMT
+I4Mjg5MywxODg2NTMyODc4XX0=
 -->
