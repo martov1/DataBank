@@ -169,10 +169,13 @@ Son resistencias que **varian segun la temperatura**, los hay de dos tipos
 	* Se usan como termostatos o sensores de temperatura en refrigeracion
 * **Positive temperature coeficient (PTC)**
 	* Mas temperatura, mas resistencia
-	*  
+	*  Se usan en termostatos y protecciones contra sobretensiones y corto-circuitos
+
+Simbologia:
+![](https://i.imgur.com/bE0tNKr.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODg4NDM2OCw1MzY1MTkxODYsLTY2Mz
-YzMTM5OCwtMjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEzOTIxMDEz
-NzcsLTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMjU5MTcyMDIyLD
-gxMTI4Mjg5MywxODg2NTMyODc4XX0=
+eyJoaXN0b3J5IjpbNjQwOTU3MDg3LDE5Nzg4ODQzNjgsNTM2NT
+E5MTg2LC02NjM2MzEzOTgsLTIzMDEyMzQxNCwyMDYzNDA3ODg0
+LC0xMzkyMTAxMzc3LC0xMzE5NzYwMDcxLC04NzAwOTU0MTUsMT
+I1OTE3MjAyMiw4MTEyODI4OTMsMTg4NjUzMjg3OF19
 -->
