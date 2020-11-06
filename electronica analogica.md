@@ -173,6 +173,9 @@ Son resistencias que **varian segun la temperatura**, los hay de dos tipos. Tien
 
 Simbologia:
 ![](https://i.imgur.com/bE0tNKr.png)
+Curva de resistencia-temperatura
+![](https://i.imgur.com/Tyjjot5.png =250x)
+
 #### Termoresistencia RTD
 
 Similares a los termistores, pero tienen una curva **temperatura-resistencia lineal**.
@@ -183,9 +186,9 @@ Algunos ejemplos estandares son
 
 ![](https://i.imgur.com/U0SE0rl.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4MzM3NjEyLDY0MDk1NzA4NywxOTc4OD
-g0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMzAxMjM0MTQs
-MjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtOD
-cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
-NzhdfQ==
+eyJoaXN0b3J5IjpbLTExNTU4MTQ5OSw2NDA5NTcwODcsMTk3OD
+g4NDM2OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0
+LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLT
+g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
+ODc4XX0=
 -->
