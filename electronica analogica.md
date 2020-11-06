@@ -199,11 +199,16 @@ Se usan para
 
 ![](https://i.imgur.com/Ugb3zas.png =500x)
 Generalmente se colocan en paralelo con una entrada de tension para cortocircuitarla en caso de un pico de tension y protejer al aparato, muchas veces quemando un fusible.
+![](https://i.imgur.com/CPtxKLb.png)
+#### Fotoresistencias LDR
 
+Varian su resistencia con la luz, generalmente **no son lineales**, hay t
+
+![](https://i.imgur.com/035We3a.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNzI3NjQ1LDY0MDk1NzA4NywxOTc4OD
-g0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMzAxMjM0MTQs
-MjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtOD
-cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
-NzhdfQ==
+eyJoaXN0b3J5IjpbMTc0NTMxNTcxNCw2NDA5NTcwODcsMTk3OD
+g4NDM2OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0
+LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLT
+g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
+ODc4XX0=
 -->
