@@ -5,7 +5,8 @@ Quede en clase 6
 **VER BIEN FUENTES REALES Y CAIDA DE TENSION!**
 https://www.youtube.com/watch?v=JSnm1vGaWBE
 
-
+**VER aplicacion en reparacion de notebooks**
+https://www.youtube.com/watch?v=1XGun_-06aA&list=PLHk1hZEmw3_zlUPRfVeBHLSUviVNfR4pN
 # Componentes
 
 ## Resistores
@@ -210,9 +211,9 @@ Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas q
 
 ![](https://i.imgur.com/035We3a.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3ND
-Y0OTMyLDY0MDk1NzA4NywxOTc4ODg0MzY4LDUzNjUxOTE4Niwt
-NjYzNjMxMzk4LC0yMzAxMjM0MTQsMjA2MzQwNzg4NCwtMTM5Mj
-EwMTM3NywtMTMxOTc2MDA3MSwtODcwMDk1NDE1LDEyNTkxNzIw
-MjIsODExMjgyODkzLDE4ODY1MzI4NzhdfQ==
+eyJoaXN0b3J5IjpbNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMz
+U1MTUsMjA4NzQ2NDkzMiw2NDA5NTcwODcsMTk3ODg4NDM2OCw1
+MzY1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0LDIwNjM0MD
+c4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5NTQx
+NSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMyODc4XX0=
 -->
