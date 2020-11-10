@@ -139,25 +139,25 @@ Son las resistencias hechas para soportar una cantidad mayor de potencia que las
 [fuente](https://www.youtube.com/watch?v=jli6YBkRt3U&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=3)
 Es una resistencia variable que cambia segun un mecanismo,
  **pueden ser:**
-* Logaritmicos
+* **Logaritmicos**
 	* Para audio, por que el oide escucha en una escala logaritmica
-* Lineales
+* **Lineales**
 
 ![](https://i.imgur.com/gt4CdPd.png =x150)
 
 
 **Los hay:**
-* Rotativos
-* Deslizantes
+* **Rotativos**
+* **Deslizantes**
 	* ![](https://i.imgur.com/XYTMk1o.png =100x)
-* Multivuelta
+* **Multivuelta**
 	* ![](https://i.imgur.com/qztn530.png =100x)
-* Deslizante con tornillo
-* De ajuste (trimmer)
+* **Deslizante con tornillo**
+* **De ajuste (trimmer)**
 	* Hecho para ajustar una vez y no tocarlo mas, generalmente para compensar algo de otro componente.
 	* Tienen gran precision
 	* ![](https://i.imgur.com/5z2a4c4.png)
-* De control
+* **De control**
 	* Facil accionamiento, robusto, para que el usuario lo toque
 	* ![](https://i.imgur.com/VKmx6pQ.png =100x)
 
@@ -211,9 +211,10 @@ Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas q
 
 ![](https://i.imgur.com/035We3a.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMz
-U1MTUsMjA4NzQ2NDkzMiw2NDA5NTcwODcsMTk3ODg4NDM2OCw1
-MzY1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0LDIwNjM0MD
-c4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5NTQx
-NSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMyODc4XX0=
+eyJoaXN0b3J5IjpbMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mj
+g1MzYzOSw4MDIzNTUxNSwyMDg3NDY0OTMyLDY0MDk1NzA4Nywx
+OTc4ODg0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMzAxMj
+M0MTQsMjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2MDA3
+MSwtODcwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4OD
+Y1MzI4NzhdfQ==
 -->
