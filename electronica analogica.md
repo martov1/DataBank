@@ -230,18 +230,13 @@ Las fuentes reales son fuentes ideales a las que se les coloca una resistencia i
 ![](https://i.imgur.com/hg0oRhV.png =250x)
 Ejemplo:
 Tengo una fuente real de $12v$ con una resistencia interna $R_g=0.1\Omega$
-Veo que si le conecto
-
-Imaginemos que nuestra fuente tiene una $R_g=0.05 \Omega$ y a la fuente le conectamos una resistencia pequeña de $0.1 \Omega$
-
-$\frac{12v}{R_g}=6A$
-osea que la resistencia interna es $R_g=\frac{12}{6}=2\Omega$
-Imaginemos ahora que nosotros le exigimos mas corriente
+Veo que si le conecto una resistencia de $12\Omega$ obtendré 1 ampere
+$\frac{12}{12.1}=1A$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDA4NDcwOTYsNDM4MzE4NTEwLDE3Nj
-gyMjY4NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMzU1MTUs
-MjA4NzQ2NDkzMiw2NDA5NTcwODcsMTk3ODg4NDM2OCw1MzY1MT
-kxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0LDIwNjM0MDc4ODQs
-LTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMj
-U5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMyODc4XX0=
+eyJoaXN0b3J5IjpbLTU0NTk2MjQ5NCw0MzgzMTg1MTAsMTc2OD
+IyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwy
+MDg3NDY0OTMyLDY0MDk1NzA4NywxOTc4ODg0MzY4LDUzNjUxOT
+E4NiwtNjYzNjMxMzk4LC0yMzAxMjM0MTQsMjA2MzQwNzg4NCwt
+MTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtODcwMDk1NDE1LDEyNT
+kxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4NzhdfQ==
 -->
