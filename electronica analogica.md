@@ -228,7 +228,7 @@ Las fuentes reales son fuentes ideales a las que se les coloca una resistencia i
 ![](https://i.imgur.com/9jciDfn.png =250x)
 **Cuanto mas corriente exigis, menos voltaje tenes**
 ![](https://i.imgur.com/hg0oRhV.png =250x)
-Cuando estamos en el punto de diseño de la fuente, por ejemplo $12V$, esta nos va a entregar una corriente maxima $I_{max}=6A$
+Por ejemplo, si una fuente esta diseñada para entregar $12V$ y un maximo de $6A$, eso significa que nuestro circuito tiene que tener como minimo una resistencia de $$
 
 Vemos por ley de ohm
 $\frac{V}{R_g}=I$
@@ -237,10 +237,10 @@ $\frac{12v}{R_g}=6A$
 osea que la resistencia interna es $R_g=\frac{12}{6}=2\Omega$
 Imaginemos ahora que nosotros le exigimos mas corriente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4MzE4NTEwLDE3NjgyMjY4NjcsNDA4Nj
-I4NTk1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4NzQ2NDkzMiw2
-NDA5NTcwODcsMTk3ODg4NDM2OCw1MzY1MTkxODYsLTY2MzYzMT
-M5OCwtMjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcs
-LTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMT
-I4Mjg5MywxODg2NTMyODc4XX0=
+eyJoaXN0b3J5IjpbLTEzNTYyMjYzNiw0MzgzMTg1MTAsMTc2OD
+IyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwy
+MDg3NDY0OTMyLDY0MDk1NzA4NywxOTc4ODg0MzY4LDUzNjUxOT
+E4NiwtNjYzNjMxMzk4LC0yMzAxMjM0MTQsMjA2MzQwNzg4NCwt
+MTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtODcwMDk1NDE1LDEyNT
+kxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4NzhdfQ==
 -->
