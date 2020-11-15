@@ -230,15 +230,15 @@ Las fuentes reales son fuentes ideales a las que se les coloca una resistencia i
 ![](https://i.imgur.com/hg0oRhV.png =250x)
 Ejemplo:
 Tengo una fuente real de $12v$ con una resistencia interna $R_g=0.1\Omega$
-Veo que si le conecto una resistencia de $12\Omega$ obtendré 1 ampere
-$\frac{12}{12.1}=1A$
 
-y la caida de tension en mi resistencia externa es de $11.9V$ ($\frac{v}{12\Omega}=1A$) y la caida de tension en la resistencia interna es de $0.1V$ ($frac{}{}$)
+* Veo que si le conecto una resistencia de $12\Omega$ obtendré 1 ampere
+$\frac{12}{12.1}=1A$
+* y la caida de tension en mi resistencia externa es de $11.9V$ ($\frac{v}{12\Omega}=1A$) y la caida de tension en la resistencia interna es de $0.1V$ ($\frac{v}{0.1\Omega}=1$)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNDc2NjIyLDQzODMxODUxMCwxNzY4Mj
-I2ODY3LDQwODYyODU5NSwtNDYyODUzNjM5LDgwMjM1NTE1LDIw
-ODc0NjQ5MzIsNjQwOTU3MDg3LDE5Nzg4ODQzNjgsNTM2NTE5MT
-g2LC02NjM2MzEzOTgsLTIzMDEyMzQxNCwyMDYzNDA3ODg0LC0x
-MzkyMTAxMzc3LC0xMzE5NzYwMDcxLC04NzAwOTU0MTUsMTI1OT
-E3MjAyMiw4MTEyODI4OTMsMTg4NjUzMjg3OF19
+eyJoaXN0b3J5IjpbLTE4MzIyNTc0ODYsNDM4MzE4NTEwLDE3Nj
+gyMjY4NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMzU1MTUs
+MjA4NzQ2NDkzMiw2NDA5NTcwODcsMTk3ODg4NDM2OCw1MzY1MT
+kxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0LDIwNjM0MDc4ODQs
+LTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMj
+U5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMyODc4XX0=
 -->
