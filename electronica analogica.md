@@ -231,15 +231,16 @@ Las fuentes reales son fuentes ideales a las que se les coloca una resistencia i
 Cuando estamos en el punto de diseño de la fuente, por ejemplo $12V$, esta nos va a entregar una corriente maxima $I_{max}=6A$
 
 Vemos por ley de ohm
-$$\frac{V}{R_g}=I$$
+$\frac{V}{R_g}=I$
 
-$$\frac{12v}{R_g}=6A$$
-osea que la resistencia interna es 
+$\frac{12v}{R_g}=6A$
+osea que la resistencia interna es $R_g=\frac{12}{6}=2\Omega$
+Imaginemos ahora que nosotros le exigimos mas corriente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDI1NjgzNiwxNzY4MjI2ODY3LDQwOD
-YyODU5NSwtNDYyODUzNjM5LDgwMjM1NTE1LDIwODc0NjQ5MzIs
-NjQwOTU3MDg3LDE5Nzg4ODQzNjgsNTM2NTE5MTg2LC02NjM2Mz
-EzOTgsLTIzMDEyMzQxNCwyMDYzNDA3ODg0LC0xMzkyMTAxMzc3
-LC0xMzE5NzYwMDcxLC04NzAwOTU0MTUsMTI1OTE3MjAyMiw4MT
-EyODI4OTMsMTg4NjUzMjg3OF19
+eyJoaXN0b3J5IjpbNDM4MzE4NTEwLDE3NjgyMjY4NjcsNDA4Nj
+I4NTk1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4NzQ2NDkzMiw2
+NDA5NTcwODcsMTk3ODg4NDM2OCw1MzY1MTkxODYsLTY2MzYzMT
+M5OCwtMjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcs
+LTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMT
+I4Mjg5MywxODg2NTMyODc4XX0=
 -->
