@@ -7,9 +7,9 @@ https://www.youtube.com/watch?v=JSnm1vGaWBE
 
 **VER aplicacion en reparacion de notebooks**
 https://www.youtube.com/watch?v=1XGun_-06aA&list=PLHk1hZEmw3_zlUPRfVeBHLSUviVNfR4pN
-# Componentes
 
-## Resistores
+
+# Resistores
 
 ### Clasificaciones
 Son elementos diseñados para ofrecer una resistencia al paso de la corriente
@@ -210,11 +210,18 @@ Generalmente se colocan en paralelo con una entrada de tension para cortocircuit
 Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas que te dicen de acuerdo a cuantos **lux** que resistencia tendran
 
 ![](https://i.imgur.com/035We3a.png)
+# Fuentes
+
+Las fuentes se dividen de la siguente forma
+* Magnitud que proveen
+	* Voltaje
+	* Tension
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mj
-g1MzYzOSw4MDIzNTUxNSwyMDg3NDY0OTMyLDY0MDk1NzA4Nywx
-OTc4ODg0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMzAxMj
-M0MTQsMjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2MDA3
-MSwtODcwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4OD
-Y1MzI4NzhdfQ==
+eyJoaXN0b3J5IjpbMjgxOTk0Mjk5LDE3NjgyMjY4NjcsNDA4Nj
+I4NTk1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4NzQ2NDkzMiw2
+NDA5NTcwODcsMTk3ODg4NDM2OCw1MzY1MTkxODYsLTY2MzYzMT
+M5OCwtMjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcs
+LTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMT
+I4Mjg5MywxODg2NTMyODc4XX0=
 -->
