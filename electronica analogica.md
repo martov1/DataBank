@@ -223,15 +223,16 @@ Las fuentes se dividen de la siguente forma
 
 ### Fuentes reales
 
-Las fuentes reales son fuentes ideales a las que se les coloca una resistencia interna para **modelar la caida de tension que tiene una fuente real cuando le exigis demasiada corriente**
+Las fuentes reales son fuentes ideales a las que se les coloca una resistencia interna $R_g$ para **modelar la caida de tension que tiene una fuente real cuando le exigis demasiada corriente**
 
+![](https://i.imgur.com/9jciDfn.png =250x)
 **Cuanto mas corriente exigis, menos voltaje tenes**
 ![](https://i.imgur.com/hg0oRhV.png =250x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzYzNTY0NCwxNzY4MjI2ODY3LDQwOD
-YyODU5NSwtNDYyODUzNjM5LDgwMjM1NTE1LDIwODc0NjQ5MzIs
-NjQwOTU3MDg3LDE5Nzg4ODQzNjgsNTM2NTE5MTg2LC02NjM2Mz
-EzOTgsLTIzMDEyMzQxNCwyMDYzNDA3ODg0LC0xMzkyMTAxMzc3
-LC0xMzE5NzYwMDcxLC04NzAwOTU0MTUsMTI1OTE3MjAyMiw4MT
-EyODI4OTMsMTg4NjUzMjg3OF19
+eyJoaXN0b3J5IjpbMTc3MjA3NTEwLDE3NjgyMjY4NjcsNDA4Nj
+I4NTk1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4NzQ2NDkzMiw2
+NDA5NTcwODcsMTk3ODg4NDM2OCw1MzY1MTkxODYsLTY2MzYzMT
+M5OCwtMjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcs
+LTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMT
+I4Mjg5MywxODg2NTMyODc4XX0=
 -->
