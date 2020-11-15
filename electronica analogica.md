@@ -232,12 +232,13 @@ Ejemplo:
 Tengo una fuente real de $12v$ con una resistencia interna $R_g=0.1\Omega$
 Veo que si le conecto una resistencia de $12\Omega$ obtendré 1 ampere
 $\frac{12}{12.1}=1A$
-y la caida de tension en mi resistencia externa es de 
+
+y la caida de tension en mi resistencia externa es de $11.9V$ ($\frac{v}{12\Omega}=1A$) y la caida de tension en la resistencia interna es de $0.1V$ ($frac{}{}$)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDAxNzA3MCw0MzgzMTg1MTAsMTc2OD
-IyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwy
-MDg3NDY0OTMyLDY0MDk1NzA4NywxOTc4ODg0MzY4LDUzNjUxOT
-E4NiwtNjYzNjMxMzk4LC0yMzAxMjM0MTQsMjA2MzQwNzg4NCwt
-MTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtODcwMDk1NDE1LDEyNT
-kxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4NzhdfQ==
+eyJoaXN0b3J5IjpbODUzNDc2NjIyLDQzODMxODUxMCwxNzY4Mj
+I2ODY3LDQwODYyODU5NSwtNDYyODUzNjM5LDgwMjM1NTE1LDIw
+ODc0NjQ5MzIsNjQwOTU3MDg3LDE5Nzg4ODQzNjgsNTM2NTE5MT
+g2LC02NjM2MzEzOTgsLTIzMDEyMzQxNCwyMDYzNDA3ODg0LC0x
+MzkyMTAxMzc3LC0xMzE5NzYwMDcxLC04NzAwOTU0MTUsMTI1OT
+E3MjAyMiw4MTEyODI4OTMsMTg4NjUzMjg3OF19
 -->
