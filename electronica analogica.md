@@ -232,14 +232,16 @@ Por ejemplo, si una fuente esta diseñada para entregar $12V$ y un maximo de $6A
 
 $\frac{12V}{2\Omega}=6A$
 
+Imaginemos que nuestra fuente tiene una $R_g=0.05 \Omega$ y a la fuente le conectamos una resistencia pequeña de $0.1 \O$
+
 $\frac{12v}{R_g}=6A$
 osea que la resistencia interna es $R_g=\frac{12}{6}=2\Omega$
 Imaginemos ahora que nosotros le exigimos mas corriente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk4NjM1OSw0MzgzMTg1MTAsMTc2OD
-IyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwy
-MDg3NDY0OTMyLDY0MDk1NzA4NywxOTc4ODg0MzY4LDUzNjUxOT
-E4NiwtNjYzNjMxMzk4LC0yMzAxMjM0MTQsMjA2MzQwNzg4NCwt
-MTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtODcwMDk1NDE1LDEyNT
-kxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4NzhdfQ==
+eyJoaXN0b3J5IjpbOTAyNzg4MDIsNDM4MzE4NTEwLDE3NjgyMj
+Y4NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4
+NzQ2NDkzMiw2NDA5NTcwODcsMTk3ODg4NDM2OCw1MzY1MTkxOD
+YsLTY2MzYzMTM5OCwtMjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEz
+OTIxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMjU5MT
+cyMDIyLDgxMTI4Mjg5MywxODg2NTMyODc4XX0=
 -->
