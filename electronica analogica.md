@@ -212,13 +212,20 @@ Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas q
 ![](https://i.imgur.com/035We3a.png)
 # Fuentes
 
+### Generalidades
 Las fuentes se dividen de la siguente forma
 * Magnitud que proveen
 	* Voltaje
 	* Tension
-* 
+* Idealizacion
+	* Fuentes ideales
+	* Fuentes reales
+
+### Fuentes reales
+
+Las fuentes reales son fuentes ideales a las que se les coloca una resistencia para 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxOTk0Mjk5LDE3NjgyMjY4NjcsNDA4Nj
+eyJoaXN0b3J5IjpbMzk0OTAxNzI0LDE3NjgyMjY4NjcsNDA4Nj
 I4NTk1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4NzQ2NDkzMiw2
 NDA5NTcwODcsMTk3ODg4NDM2OCw1MzY1MTkxODYsLTY2MzYzMT
 M5OCwtMjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcs
