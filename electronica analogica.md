@@ -233,13 +233,14 @@ Tengo una fuente real de $12v$ con una resistencia interna $R_g=0.1\Omega$
 Si le pongo una resistencia externa grande ($R=12\Omega$) veo que tengo una caida de tension en $R$ de $11.9V$ y una caida en $R_g$ de $0.1V$. Osea que desde la perspectiva de **afuera de la fuente, el voltaje cayo 0.1v** (esto por ley de ohm)
 
 ![](https://i.imgur.com/UjLbxje.png)
-En cambio de pongo una **resistencia chica en comparacion con $R_g$**, por ejemplo $R=1\Omega$
+En cambio de pongo una **resistencia chica en comparacion con $R_g$**, por ejemplo $R=0.5 \Omega$, vemos que **caen $2V$ en la resistencia interna** y solo quedan $10V$ para la **carga externa**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxOTU3MzIzLC0xODMyMjU3NDg2LDQzOD
-MxODUxMCwxNzY4MjI2ODY3LDQwODYyODU5NSwtNDYyODUzNjM5
-LDgwMjM1NTE1LDIwODc0NjQ5MzIsNjQwOTU3MDg3LDE5Nzg4OD
-QzNjgsNTM2NTE5MTg2LC02NjM2MzEzOTgsLTIzMDEyMzQxNCwy
-MDYzNDA3ODg0LC0xMzkyMTAxMzc3LC0xMzE5NzYwMDcxLC04Nz
-AwOTU0MTUsMTI1OTE3MjAyMiw4MTEyODI4OTMsMTg4NjUzMjg3
-OF19
+eyJoaXN0b3J5IjpbLTg1OTEwNDEwOSwtMTgzMjI1NzQ4Niw0Mz
+gzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYz
+OSw4MDIzNTUxNSwyMDg3NDY0OTMyLDY0MDk1NzA4NywxOTc4OD
+g0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMzAxMjM0MTQs
+MjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtOD
+cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
+NzhdfQ==
 -->
