@@ -265,6 +265,7 @@ A su vez, la carga almacenada depende de la tension y la capacidad
 Un capacitor real se concibe añadiendo en paralelo la resistencia del dielectrico. esta es **inmensa** y entonces el 99% de las veces es despreciable, pero sirve para determinar por ejemplo La cantidad de calor que va a disipar el capacitor
 
 ![](https://i.imgur.com/z1KbjXC.png =250x)
+### Capacitores reales vs ideales
 
 # Circuitos comunes
 
@@ -292,11 +293,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODAxMDkxNiwxNjAwOTM3NTQzLDE3MD
-YyMjA4MDksLTE5MDEzOTYwODQsMTQxNDAyODIyOSwtMTMzMDU3
-NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4NTEwLD
-E3NjgyMjY4NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMzU1
-MTUsMjA4NzQ2NDkzMiw2NDA5NTcwODcsMTk3ODg4NDM2OCw1Mz
-Y1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0LDIwNjM0MDc4
-ODRdfQ==
+eyJoaXN0b3J5IjpbMTIyMjc2NTA3MSwtOTQ4MDEwOTE2LDE2MD
+A5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0MDI4
+MjI5LC0xMzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1NzQ4Ni
+w0MzgzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1
+MzYzOSw4MDIzNTUxNSwyMDg3NDY0OTMyLDY0MDk1NzA4NywxOT
+c4ODg0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMzAxMjM0
+MTRdfQ==
 -->
