@@ -239,15 +239,15 @@ En cambio de pongo una **resistencia chica en comparacion con $R_g$**, por ejemp
 **ENTONCES:**
 Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en $R$. Como $R_g$ esta diseñada para darte una corriente especifica "estable", Cuando pedis mas corriente, mas voltaje cae en $Rg$ y menos voltaje tenes disponible para usar.
 
-# Constructos comunes
+# Circuitos comunes
 
 
 ### Estrella-triangulo - WIP
-
+Se trata de dos circuitos equivalentes de resistencias 
 
 ### Wheatstone bridge - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTcyMjk1Nyw4OTM0NjM5MjIsLTE4Mz
+eyJoaXN0b3J5IjpbMjAzNDk5NDQ1NSw4OTM0NjM5MjIsLTE4Mz
 IyNTc0ODYsNDM4MzE4NTEwLDE3NjgyMjY4NjcsNDA4NjI4NTk1
 LC00NjI4NTM2MzksODAyMzU1MTUsMjA4NzQ2NDkzMiw2NDA5NT
 cwODcsMTk3ODg4NDM2OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwt
