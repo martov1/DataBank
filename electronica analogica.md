@@ -228,15 +228,17 @@ Las fuentes reales son fuentes ideales a las que se les coloca una resistencia i
 ![](https://i.imgur.com/9jciDfn.png =250x)
 **Cuanto mas corriente exigis, menos voltaje tenes**
 ![](https://i.imgur.com/hg0oRhV.png =250x)
-Ejemplo:
+**Ejemplo intuitivo:**
 Tengo una fuente real de $12v$ con una resistencia interna $R_g=0.1\Omega$
-Si le pongo una resistencia grande ($R=12\Omega) ![](https://i.imgur.com/UjLbxje.png)
+Si le pongo una resistencia externa grande ($R=12\Omega$) veo que tengo una caida de tension en $R$ de $11.9V$ y una caida en $R_g$ de $0.1V$. Osea que desde la perspectiva de **afuera de la fuente, el voltaje cayo 0.1v**
+
+![](https://i.imgur.com/UjLbxje.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzcxOTQ0MTgsLTE4MzIyNTc0ODYsND
-M4MzE4NTEwLDE3NjgyMjY4NjcsNDA4NjI4NTk1LC00NjI4NTM2
-MzksODAyMzU1MTUsMjA4NzQ2NDkzMiw2NDA5NTcwODcsMTk3OD
-g4NDM2OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0
-LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLT
-g3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5MywxODg2NTMy
-ODc4XX0=
+eyJoaXN0b3J5IjpbMTk0ODA1Mzk2NiwtMTgzMjI1NzQ4Niw0Mz
+gzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYz
+OSw4MDIzNTUxNSwyMDg3NDY0OTMyLDY0MDk1NzA4NywxOTc4OD
+g0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMzAxMjM0MTQs
+MjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtOD
+cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
+NzhdfQ==
 -->
