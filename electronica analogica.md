@@ -5,10 +5,12 @@ Quede en clase 17 (vid 26) minuto 6
 
 
 **VER aplicacion en reparacion de notebooks**
-https://www.youtube.com/watch?v=1XGun_-06aA&list=PLHk1hZEmw3_zlUPRfVeBHLSUviVNfR4pN
+https://www.youtube.com/watch?v=1XGun_-06aA&list=PLHk1hZEmw3_zlUPRfVeBHLSUviVNfR4pNvideo 3 minuto 7
+
+# Componentes
 
 
-# Resistores
+## Resistores
 
 ### Clasificaciones
 Son elementos diseñados para ofrecer una resistencia al paso de la corriente
@@ -293,12 +295,15 @@ Las equaciones quedan asi
 ### Wheatstone bridge - WIP
 
 
+### Potenciometro
+
+Es una resistencia variable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOT
-Q4MDEwOTE2LDE2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5
-NjA4NCwxNDE0MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2MzkyMi
-wtMTgzMjI1NzQ4Niw0MzgzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2
-Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3NDY0OTMyLD
-Y0MDk1NzA4NywxOTc4ODg0MzY4LDUzNjUxOTE4NiwtNjYzNjMx
-Mzk4XX0=
+eyJoaXN0b3J5IjpbLTYyMjA5MDY1NiwtMTAwODYzNTQ0MSwxOT
+g2MDEyMzY3LC05NDgwMTA5MTYsMTYwMDkzNzU0MywxNzA2MjIw
+ODA5LC0xOTAxMzk2MDg0LDE0MTQwMjgyMjksLTEzMzA1NzY0NT
+ksODkzNDYzOTIyLC0xODMyMjU3NDg2LDQzODMxODUxMCwxNzY4
+MjI2ODY3LDQwODYyODU5NSwtNDYyODUzNjM5LDgwMjM1NTE1LD
+IwODc0NjQ5MzIsNjQwOTU3MDg3LDE5Nzg4ODQzNjgsNTM2NTE5
+MTg2XX0=
 -->
