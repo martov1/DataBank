@@ -259,6 +259,7 @@ La capacidad es una funcion de la superficie de las placas, su distancia y la pe
 ![](https://i.imgur.com/wIG4MKz.png =250x)
 A su vez, la carga almacenada depende de la tension y la capacidad
 ![](https://i.imgur.com/mzMl5uX.png)
+### Calculo de capacidad
 # Circuitos comunes
 
 
@@ -285,11 +286,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDkzNzU0MywxNzA2MjIwODA5LC0xOT
-AxMzk2MDg0LDE0MTQwMjgyMjksLTEzMzA1NzY0NTksODkzNDYz
-OTIyLC0xODMyMjU3NDg2LDQzODMxODUxMCwxNzY4MjI2ODY3LD
-QwODYyODU5NSwtNDYyODUzNjM5LDgwMjM1NTE1LDIwODc0NjQ5
-MzIsNjQwOTU3MDg3LDE5Nzg4ODQzNjgsNTM2NTE5MTg2LC02Nj
-M2MzEzOTgsLTIzMDEyMzQxNCwyMDYzNDA3ODg0LC0xMzkyMTAx
-Mzc3XX0=
+eyJoaXN0b3J5IjpbMTc4OTM4NTEyOCwxNjAwOTM3NTQzLDE3MD
+YyMjA4MDksLTE5MDEzOTYwODQsMTQxNDAyODIyOSwtMTMzMDU3
+NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4NTEwLD
+E3NjgyMjY4NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMzU1
+MTUsMjA4NzQ2NDkzMiw2NDA5NTcwODcsMTk3ODg4NDM2OCw1Mz
+Y1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0LDIwNjM0MDc4
+ODRdfQ==
 -->
