@@ -1,9 +1,8 @@
 **Nivel técnico electrónico**
 https://www.youtube.com/watch?v=KkoudrHOpGE&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo
 
-Quede en clase 6
-**VER BIEN FUENTES REALES Y CAIDA DE TENSION!**
-https://www.youtube.com/watch?v=JSnm1vGaWBE
+Quede en clase 17 (vid 26) minuto 6
+
 
 **VER aplicacion en reparacion de notebooks**
 https://www.youtube.com/watch?v=1XGun_-06aA&list=PLHk1hZEmw3_zlUPRfVeBHLSUviVNfR4pN
@@ -265,8 +264,8 @@ A su vez, la carga almacenada depende de la tension y la capacidad
 Un capacitor real se concibe añadiendo en paralelo la resistencia del dielectrico. esta es **inmensa** y entonces el 99% de las veces es despreciable, pero sirve para determinar por ejemplo La cantidad de calor que va a disipar el capacitor
 
 ![](https://i.imgur.com/z1KbjXC.png =250x)
-### Energia almacenada en un capacitor
-
+### Energia almacenada en un capacitor - WIP
+[Explicacion piola](https://www.youtube.com/watch?v=SIU_9SMd5q0)
 
 
 # Circuitos comunes
@@ -295,11 +294,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjAxMjM2NywtOTQ4MDEwOTE2LDE2MD
-A5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0MDI4
-MjI5LC0xMzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1NzQ4Ni
-w0MzgzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1
-MzYzOSw4MDIzNTUxNSwyMDg3NDY0OTMyLDY0MDk1NzA4NywxOT
-c4ODg0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMzAxMjM0
-MTRdfQ==
+eyJoaXN0b3J5IjpbLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOT
+Q4MDEwOTE2LDE2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5
+NjA4NCwxNDE0MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2MzkyMi
+wtMTgzMjI1NzQ4Niw0MzgzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2
+Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3NDY0OTMyLD
+Y0MDk1NzA4NywxOTc4ODg0MzY4LDUzNjUxOTE4NiwtNjYzNjMx
+Mzk4XX0=
 -->
