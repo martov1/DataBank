@@ -248,13 +248,15 @@ Son componentes que pueden guardar energia
 Los condensadores tienen los siguientes valores
 * Capacitancia
 * Tension maxima entre extremos
-	* Si se supera, se perfora el dielectrico, generando un arco, calor y finalmente la explosion del capacito
+	* Si se supera, se perfora el dielectrico, generando un arco, calor y finalmente la explosion del capacitor
+* Polaridad (Con o sin)
 
 ### Calculo de capacidad
 La capacidad es una funcion de la superficie de las placas, su distancia y la permitividad del dielectrico entre ellas
 
 ![](https://i.imgur.com/wIG4MKz.png =250x)
-
+A su vez, la carga almacenada depende de la tension y la capacidad
+![](https://i.imgur.com/mzMl5uX.png)
 # Circuitos comunes
 
 
@@ -281,7 +283,7 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU2MTE0MTksMTcwNjIyMDgwOSwtMT
+eyJoaXN0b3J5IjpbLTE0MjUxNTAwMzEsMTcwNjIyMDgwOSwtMT
 kwMTM5NjA4NCwxNDE0MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2
 MzkyMiwtMTgzMjI1NzQ4Niw0MzgzMTg1MTAsMTc2ODIyNjg2Ny
 w0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3NDY0
