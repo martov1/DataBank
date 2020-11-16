@@ -250,6 +250,8 @@ Los condensadores tienen los siguientes valores
 * Tension maxima entre extremos
 	* Si se supera, se perfora el dielectrico, generando un arco, calor y finalmente la explosion del capacitor
 * Polaridad (Con o sin)
+* Tolerancia
+	* La posible variacion de capacidad, por ej $+-10\%$del valor indicado
 
 ### Calculo de capacidad
 La capacidad es una funcion de la superficie de las placas, su distancia y la permitividad del dielectrico entre ellas
@@ -283,11 +285,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjUxNTAwMzEsMTcwNjIyMDgwOSwtMT
-kwMTM5NjA4NCwxNDE0MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2
-MzkyMiwtMTgzMjI1NzQ4Niw0MzgzMTg1MTAsMTc2ODIyNjg2Ny
-w0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3NDY0
-OTMyLDY0MDk1NzA4NywxOTc4ODg0MzY4LDUzNjUxOTE4NiwtNj
-YzNjMxMzk4LC0yMzAxMjM0MTQsMjA2MzQwNzg4NCwtMTM5MjEw
-MTM3N119
+eyJoaXN0b3J5IjpbMTYwMDkzNzU0MywxNzA2MjIwODA5LC0xOT
+AxMzk2MDg0LDE0MTQwMjgyMjksLTEzMzA1NzY0NTksODkzNDYz
+OTIyLC0xODMyMjU3NDg2LDQzODMxODUxMCwxNzY4MjI2ODY3LD
+QwODYyODU5NSwtNDYyODUzNjM5LDgwMjM1NTE1LDIwODc0NjQ5
+MzIsNjQwOTU3MDg3LDE5Nzg4ODQzNjgsNTM2NTE5MTg2LC02Nj
+M2MzEzOTgsLTIzMDEyMzQxNCwyMDYzNDA3ODg0LC0xMzkyMTAx
+Mzc3XX0=
 -->
