@@ -244,6 +244,12 @@ Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en 
 
 Son componentes que pueden guardar energia
 
+### Valores
+Los condensadores tienen los siguientes valores
+* Capacitancia
+* Tension maxima entre extremos
+	* Si se supera, se perfora el dielectrico, generando un arco, calor y finalmente la explosion del capacito
+
 ### Calculo de capacidad
 La capacidad es una funcion de la superficie de las placas, su distancia y la permitividad del dielectrico entre ellas
 
@@ -275,7 +281,7 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjIyMzc3ODgsMTcwNjIyMDgwOSwtMT
+eyJoaXN0b3J5IjpbLTE3NTU2MTE0MTksMTcwNjIyMDgwOSwtMT
 kwMTM5NjA4NCwxNDE0MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2
 MzkyMiwtMTgzMjI1NzQ4Niw0MzgzMTg1MTAsMTc2ODIyNjg2Ny
 w0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3NDY0
