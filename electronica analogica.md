@@ -237,13 +237,13 @@ En cambio de pongo una **resistencia chica en comparacion con $R_g$**, por ejemp
 
 ![](https://i.imgur.com/nbKvsCn.png)
 **ENTONCES:**
-Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en $R$ y mas corriente la atraviesa (por que $\frac{V_r}{R}=I$)
+Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en $R$ y mas corriente la atraviesa (por que $\frac{V_r}{R}=I$) y como concecuencia la fuente te entrega cada vez menos tension hasta que se hace cero
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODEwMTQxOSwtMTgzMjI1NzQ4Niw0Mz
-gzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYz
-OSw4MDIzNTUxNSwyMDg3NDY0OTMyLDY0MDk1NzA4NywxOTc4OD
-g0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMzAxMjM0MTQs
-MjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2MDA3MSwtOD
-cwMDk1NDE1LDEyNTkxNzIwMjIsODExMjgyODkzLDE4ODY1MzI4
-NzhdfQ==
+eyJoaXN0b3J5IjpbLTM4MDQxMTk1LC0xODMyMjU3NDg2LDQzOD
+MxODUxMCwxNzY4MjI2ODY3LDQwODYyODU5NSwtNDYyODUzNjM5
+LDgwMjM1NTE1LDIwODc0NjQ5MzIsNjQwOTU3MDg3LDE5Nzg4OD
+QzNjgsNTM2NTE5MTg2LC02NjM2MzEzOTgsLTIzMDEyMzQxNCwy
+MDYzNDA3ODg0LC0xMzkyMTAxMzc3LC0xMzE5NzYwMDcxLC04Nz
+AwOTU0MTUsMTI1OTE3MjAyMiw4MTEyODI4OTMsMTg4NjUzMjg3
+OF19
 -->
