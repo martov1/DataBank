@@ -237,9 +237,9 @@ En cambio de pongo una **resistencia chica en comparacion con $R_g$**, por ejemp
 
 ![](https://i.imgur.com/nbKvsCn.png)
 **ENTONCES:**
-Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en $R$ y mas corriente la atraviesa (por que $\frac{V_r}{R}=I$) y como concecuencia la fuente te entrega cada vez menos tension hasta que se hace cero
+Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en $R$. Como $R_g$ esta diseñada para darte una corriente especifica "estable", Cuando pedis mas corriente, mas voltaje cae en $Rg$ y menos voltaje tenes disponible para usar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDQxMTk1LC0xODMyMjU3NDg2LDQzOD
+eyJoaXN0b3J5IjpbODkzNDYzOTIyLC0xODMyMjU3NDg2LDQzOD
 MxODUxMCwxNzY4MjI2ODY3LDQwODYyODU5NSwtNDYyODUzNjM5
 LDgwMjM1NTE1LDIwODc0NjQ5MzIsNjQwOTU3MDg3LDE5Nzg4OD
 QzNjgsNTM2NTE5MTg2LC02NjM2MzEzOTgsLTIzMDEyMzQxNCwy
