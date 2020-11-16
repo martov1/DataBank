@@ -238,12 +238,20 @@ En cambio de pongo una **resistencia chica en comparacion con $R_g$**, por ejemp
 ![](https://i.imgur.com/nbKvsCn.png)
 **ENTONCES:**
 Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en $R$. Como $R_g$ esta diseñada para darte una corriente especifica "estable", Cuando pedis mas corriente, mas voltaje cae en $Rg$ y menos voltaje tenes disponible para usar.
+
+# Constructos comunes
+
+
+### Estrella-triangulo - WIP
+
+
+### Wheatstone bridge - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNDYzOTIyLC0xODMyMjU3NDg2LDQzOD
-MxODUxMCwxNzY4MjI2ODY3LDQwODYyODU5NSwtNDYyODUzNjM5
-LDgwMjM1NTE1LDIwODc0NjQ5MzIsNjQwOTU3MDg3LDE5Nzg4OD
-QzNjgsNTM2NTE5MTg2LC02NjM2MzEzOTgsLTIzMDEyMzQxNCwy
-MDYzNDA3ODg0LC0xMzkyMTAxMzc3LC0xMzE5NzYwMDcxLC04Nz
-AwOTU0MTUsMTI1OTE3MjAyMiw4MTEyODI4OTMsMTg4NjUzMjg3
-OF19
+eyJoaXN0b3J5IjpbLTExNTcyMjk1Nyw4OTM0NjM5MjIsLTE4Mz
+IyNTc0ODYsNDM4MzE4NTEwLDE3NjgyMjY4NjcsNDA4NjI4NTk1
+LC00NjI4NTM2MzksODAyMzU1MTUsMjA4NzQ2NDkzMiw2NDA5NT
+cwODcsMTk3ODg4NDM2OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwt
+MjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMT
+k3NjAwNzEsLTg3MDA5NTQxNSwxMjU5MTcyMDIyLDgxMTI4Mjg5
+M119
 -->
