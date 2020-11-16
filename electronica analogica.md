@@ -249,11 +249,14 @@ Se puede llegar a estas formulas
 
 * Asumiendo que la corriente que sale por$A,B,C$ es la misma en cada circuito
 * Aplicando ley de kirchoff KCL para cada nodo
+* Asumiendo que el voltaje entre nodos $A,B,C$ es la misma en cada circuito
+* Aplicando KVC para cada nodo 
+* Reemplazando, obtengo una expresion para 
 ![](https://i.imgur.com/2uXZCsz.png)
 
 ### Wheatstone bridge - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDIyNjE3OSwtMTMzMDU3NjQ1OSw4OT
+eyJoaXN0b3J5IjpbMTgyMzMwNzg3OSwtMTMzMDU3NjQ1OSw4OT
 M0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4NTEwLDE3NjgyMjY4
 NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4Nz
 Q2NDkzMiw2NDA5NTcwODcsMTk3ODg4NDM2OCw1MzY1MTkxODYs
