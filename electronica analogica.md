@@ -244,15 +244,16 @@ Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en 
 
 ### Estrella-triangulo - WIP
 Se trata de dos circuitos equivalentes de resistencias.
+Mas que nada se trata de una 
 ![](https://i.imgur.com/2uXZCsz.png)
 
 ### Wheatstone bridge - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA1NzY0NTksODkzNDYzOTIyLC0xOD
-MyMjU3NDg2LDQzODMxODUxMCwxNzY4MjI2ODY3LDQwODYyODU5
-NSwtNDYyODUzNjM5LDgwMjM1NTE1LDIwODc0NjQ5MzIsNjQwOT
-U3MDg3LDE5Nzg4ODQzNjgsNTM2NTE5MTg2LC02NjM2MzEzOTgs
-LTIzMDEyMzQxNCwyMDYzNDA3ODg0LC0xMzkyMTAxMzc3LC0xMz
-E5NzYwMDcxLC04NzAwOTU0MTUsMTI1OTE3MjAyMiw4MTEyODI4
-OTNdfQ==
+eyJoaXN0b3J5IjpbNjc1MjkyMzY0LC0xMzMwNTc2NDU5LDg5Mz
+Q2MzkyMiwtMTgzMjI1NzQ4Niw0MzgzMTg1MTAsMTc2ODIyNjg2
+Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3ND
+Y0OTMyLDY0MDk1NzA4NywxOTc4ODg0MzY4LDUzNjUxOTE4Niwt
+NjYzNjMxMzk4LC0yMzAxMjM0MTQsMjA2MzQwNzg4NCwtMTM5Mj
+EwMTM3NywtMTMxOTc2MDA3MSwtODcwMDk1NDE1LDEyNTkxNzIw
+MjJdfQ==
 -->
