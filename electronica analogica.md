@@ -244,16 +244,19 @@ Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en 
 
 ### Estrella-triangulo - WIP
 Se trata de dos circuitos equivalentes de resistencias.
-Mas que nada se trata de una 
+Mas que nada se trata de una "regla" que resume esta situacion, que es muy comun.
+Se puede llegar a estas formulas 
+* usando simplemente leyes de kirchoff para cada circuito
+* Asumiendo que la corriente que sale por$A,B,C$ es la misma en cada circuito
 ![](https://i.imgur.com/2uXZCsz.png)
 
 ### Wheatstone bridge - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1MjkyMzY0LC0xMzMwNTc2NDU5LDg5Mz
-Q2MzkyMiwtMTgzMjI1NzQ4Niw0MzgzMTg1MTAsMTc2ODIyNjg2
-Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3ND
-Y0OTMyLDY0MDk1NzA4NywxOTc4ODg0MzY4LDUzNjUxOTE4Niwt
-NjYzNjMxMzk4LC0yMzAxMjM0MTQsMjA2MzQwNzg4NCwtMTM5Mj
-EwMTM3NywtMTMxOTc2MDA3MSwtODcwMDk1NDE1LDEyNTkxNzIw
-MjJdfQ==
+eyJoaXN0b3J5IjpbLTIwNjM3NTY2OTUsLTEzMzA1NzY0NTksOD
+kzNDYzOTIyLC0xODMyMjU3NDg2LDQzODMxODUxMCwxNzY4MjI2
+ODY3LDQwODYyODU5NSwtNDYyODUzNjM5LDgwMjM1NTE1LDIwOD
+c0NjQ5MzIsNjQwOTU3MDg3LDE5Nzg4ODQzNjgsNTM2NTE5MTg2
+LC02NjM2MzEzOTgsLTIzMDEyMzQxNCwyMDYzNDA3ODg0LC0xMz
+kyMTAxMzc3LC0xMzE5NzYwMDcxLC04NzAwOTU0MTUsMTI1OTE3
+MjAyMl19
 -->
