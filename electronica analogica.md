@@ -242,6 +242,12 @@ Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en 
 
 # Capacitores
 
+Son componentes que pueden guardar energia
+
+### Calculo de capacidad
+La capacidad es una funcion de la superficie de las placas, su distancia y la permitividad del dielectrico entre ellas
+
+![](https://i.imgur.com/wIG4MKz.png =250x)
 
 # Circuitos comunes
 
@@ -269,11 +275,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxND
-E0MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1
-NzQ4Niw0MzgzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLT
-Q2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3NDY0OTMyLDY0MDk1NzA4
-NywxOTc4ODg0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMz
-AxMjM0MTQsMjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2
-MDA3MV19
+eyJoaXN0b3J5IjpbLTExMjIyMzc3ODgsMTcwNjIyMDgwOSwtMT
+kwMTM5NjA4NCwxNDE0MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2
+MzkyMiwtMTgzMjI1NzQ4Niw0MzgzMTg1MTAsMTc2ODIyNjg2Ny
+w0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3NDY0
+OTMyLDY0MDk1NzA4NywxOTc4ODg0MzY4LDUzNjUxOTE4NiwtNj
+YzNjMxMzk4LC0yMzAxMjM0MTQsMjA2MzQwNzg4NCwtMTM5MjEw
+MTM3N119
 -->
