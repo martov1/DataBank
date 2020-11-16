@@ -246,17 +246,18 @@ Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en 
 Se trata de dos circuitos equivalentes de resistencias.
 Mas que nada se trata de una "regla" que resume esta situacion, que es muy comun.
 Se puede llegar a estas formulas 
-* usando simplemente leyes de kirchoff para cada circuito
+
 * Asumiendo que la corriente que sale por$A,B,C$ es la misma en cada circuito
+* Aplicando ley de kirchoff KCL para cada nodo
 ![](https://i.imgur.com/2uXZCsz.png)
 
 ### Wheatstone bridge - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM3NTY2OTUsLTEzMzA1NzY0NTksOD
-kzNDYzOTIyLC0xODMyMjU3NDg2LDQzODMxODUxMCwxNzY4MjI2
-ODY3LDQwODYyODU5NSwtNDYyODUzNjM5LDgwMjM1NTE1LDIwOD
-c0NjQ5MzIsNjQwOTU3MDg3LDE5Nzg4ODQzNjgsNTM2NTE5MTg2
-LC02NjM2MzEzOTgsLTIzMDEyMzQxNCwyMDYzNDA3ODg0LC0xMz
-kyMTAxMzc3LC0xMzE5NzYwMDcxLC04NzAwOTU0MTUsMTI1OTE3
-MjAyMl19
+eyJoaXN0b3J5IjpbLTQ4NDIyNjE3OSwtMTMzMDU3NjQ1OSw4OT
+M0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4NTEwLDE3NjgyMjY4
+NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4Nz
+Q2NDkzMiw2NDA5NTcwODcsMTk3ODg4NDM2OCw1MzY1MTkxODYs
+LTY2MzYzMTM5OCwtMjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEzOT
+IxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMjU5MTcy
+MDIyXX0=
 -->
