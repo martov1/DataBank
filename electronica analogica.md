@@ -256,17 +256,18 @@ Se puede llegar a estas formulas
 5. Aplicando KVC para cada nodo 
 6. Reemplazando, obtengo una expresion para $V_m$ (el voltaje en el centro de la estrella
 7. Tenemos todos los datos para obtener las resistencias 
+[Prueba](https://drive.google.com/file/d/130gNaUIwi_HZYXLLy_pG-38Okxu0oMrK/view)
 
 Las equaciones quedan asi
 ![](https://i.imgur.com/i2PZg5q.png)
 
 ### Wheatstone bridge - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDAyODIyOSwtMTMzMDU3NjQ1OSw4OT
-M0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4NTEwLDE3NjgyMjY4
-NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4Nz
-Q2NDkzMiw2NDA5NTcwODcsMTk3ODg4NDM2OCw1MzY1MTkxODYs
-LTY2MzYzMTM5OCwtMjMwMTIzNDE0LDIwNjM0MDc4ODQsLTEzOT
-IxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5NTQxNSwxMjU5MTcy
-MDIyXX0=
+eyJoaXN0b3J5IjpbLTE5MDEzOTYwODQsMTQxNDAyODIyOSwtMT
+MzMDU3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4
+NTEwLDE3NjgyMjY4NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksOD
+AyMzU1MTUsMjA4NzQ2NDkzMiw2NDA5NTcwODcsMTk3ODg4NDM2
+OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0LDIwNj
+M0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5
+NTQxNV19
 -->
