@@ -242,22 +242,27 @@ Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en 
 # Circuitos comunes
 
 
-### Estrella-triangulo - WIP
+### Estrella-triangulo 
 Se trata de dos circuitos equivalentes de resistencias.
 Mas que nada se trata de una "regla" que resume esta situacion, que es muy comun.
-Se puede llegar a estas formulas 
-* Teniendo los valores de resistencia de uno de los 
-* Asumiendo que la corriente que sale por$A,B,C$ es la misma en cada circuito
-* Aplicando ley de kirchoff KCL para cada nodo
-* Asumiendo que el voltaje entre nodos $A,B,C$ es la misma en cada circuito
-* Aplicando KVC para cada nodo 
-* Reemplazando, obtengo una expresion para $V_m$ (el voltaje en el centro de la estrella
-* Tenemos todos los datos para obtener las resistencias 
 ![](https://i.imgur.com/2uXZCsz.png)
+
+Se puede llegar a estas formulas 
+
+1. Teniendo los valores de resistencia de uno de los dos circuitos
+2. Asumiendo que la corriente que sale por$A,B,C$ es la misma en cada circuito
+3. Aplicando ley de kirchoff KCL para cada nodo
+4. Asumiendo que el voltaje entre nodos $A,B,C$ es la misma en cada circuito
+5. Aplicando KVC para cada nodo 
+6. Reemplazando, obtengo una expresion para $V_m$ (el voltaje en el centro de la estrella
+7. Tenemos todos los datos para obtener las resistencias 
+
+Las equaciones quedan asi
+![](https://i.imgur.com/i2PZg5q.png)
 
 ### Wheatstone bridge - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTY5NTcxOCwtMTMzMDU3NjQ1OSw4OT
+eyJoaXN0b3J5IjpbMTQxNDAyODIyOSwtMTMzMDU3NjQ1OSw4OT
 M0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4NTEwLDE3NjgyMjY4
 NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4Nz
 Q2NDkzMiw2NDA5NTcwODcsMTk3ODg4NDM2OCw1MzY1MTkxODYs
