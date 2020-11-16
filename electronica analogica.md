@@ -235,8 +235,11 @@ Si le pongo una resistencia externa grande ($R=12\Omega$) veo que tengo una caid
 ![](https://i.imgur.com/UjLbxje.png)
 En cambio de pongo una **resistencia chica en comparacion con $R_g$**, por ejemplo $R=0.5 \Omega$, vemos que **caen $2V$ en la resistencia interna** y solo quedan $10V$ para la **carga externa**
 
+![](https://i.imgur.com/nbKvsCn.png)
+**ENTONCES:**
+Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en $R$ y mas corriente la atraviesa (por que $\frac{V_r}{R}=I$)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTEwNDEwOSwtMTgzMjI1NzQ4Niw0Mz
+eyJoaXN0b3J5IjpbLTM0ODEwMTQxOSwtMTgzMjI1NzQ4Niw0Mz
 gzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYz
 OSw4MDIzNTUxNSwyMDg3NDY0OTMyLDY0MDk1NzA4NywxOTc4OD
 g0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMzAxMjM0MTQs
