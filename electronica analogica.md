@@ -259,7 +259,13 @@ La capacidad es una funcion de la superficie de las placas, su distancia y la pe
 ![](https://i.imgur.com/wIG4MKz.png =250x)
 A su vez, la carga almacenada depende de la tension y la capacidad
 ![](https://i.imgur.com/mzMl5uX.png)
-### Calculo de capacidad
+### Capacitores reales vs ideales
+
+
+Un capacitor real se concibe añadiendo en paralelo la resistencia del dielectrico. esta es **inmensa** y entonces el 99% de las veces es despreciable, pero sirve para determinar por ejemplo La cantidad de calor que va a disipar el capacitor
+
+![](https://i.imgur.com/z1KbjXC.png =250x)
+
 # Circuitos comunes
 
 
@@ -286,7 +292,7 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTM4NTEyOCwxNjAwOTM3NTQzLDE3MD
+eyJoaXN0b3J5IjpbLTk0ODAxMDkxNiwxNjAwOTM3NTQzLDE3MD
 YyMjA4MDksLTE5MDEzOTYwODQsMTQxNDAyODIyOSwtMTMzMDU3
 NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4NTEwLD
 E3NjgyMjY4NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMzU1
