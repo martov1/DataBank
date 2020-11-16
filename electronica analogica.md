@@ -239,6 +239,10 @@ En cambio de pongo una **resistencia chica en comparacion con $R_g$**, por ejemp
 **ENTONCES:**
 Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en $R$. Como $R_g$ esta diseñada para darte una corriente especifica "estable", Cuando pedis mas corriente, mas voltaje cae en $Rg$ y menos voltaje tenes disponible para usar.
 
+
+# Capacitores
+
+
 # Circuitos comunes
 
 
@@ -262,12 +266,14 @@ Las equaciones quedan asi
 ![](https://i.imgur.com/i2PZg5q.png)
 
 ### Wheatstone bridge - WIP
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDEzOTYwODQsMTQxNDAyODIyOSwtMT
-MzMDU3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4
-NTEwLDE3NjgyMjY4NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksOD
-AyMzU1MTUsMjA4NzQ2NDkzMiw2NDA5NTcwODcsMTk3ODg4NDM2
-OCw1MzY1MTkxODYsLTY2MzYzMTM5OCwtMjMwMTIzNDE0LDIwNj
-M0MDc4ODQsLTEzOTIxMDEzNzcsLTEzMTk3NjAwNzEsLTg3MDA5
-NTQxNV19
+eyJoaXN0b3J5IjpbMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxND
+E0MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1
+NzQ4Niw0MzgzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLT
+Q2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3NDY0OTMyLDY0MDk1NzA4
+NywxOTc4ODg0MzY4LDUzNjUxOTE4NiwtNjYzNjMxMzk4LC0yMz
+AxMjM0MTQsMjA2MzQwNzg4NCwtMTM5MjEwMTM3NywtMTMxOTc2
+MDA3MV19
 -->
