@@ -277,7 +277,9 @@ $$C_t=C_1+C_2+C_3$$
 
 ### Capacitores en serie
 
-Cada capacitor funciona como una pequeñ
+Cada capacitor funciona como una pequeña batería, sumando su diferencia de potencial al siguiente
+
+$$V_t=V_1+V_2+V_3$$
 
 # Circuitos comunes
 
@@ -305,11 +307,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjA5Nzc4NiwtMzUxNjIxNDIyLC0xMz
-I3MDAyODIxLC02MjIwOTA2NTYsLTEwMDg2MzU0NDEsMTk4NjAx
-MjM2NywtOTQ4MDEwOTE2LDE2MDA5Mzc1NDMsMTcwNjIyMDgwOS
-wtMTkwMTM5NjA4NCwxNDE0MDI4MjI5LC0xMzMwNTc2NDU5LDg5
-MzQ2MzkyMiwtMTgzMjI1NzQ4Niw0MzgzMTg1MTAsMTc2ODIyNj
-g2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3
-NDY0OTMyXX0=
+eyJoaXN0b3J5IjpbLTExNDYxODU1NTcsLTM1MTYyMTQyMiwtMT
+MyNzAwMjgyMSwtNjIyMDkwNjU2LC0xMDA4NjM1NDQxLDE5ODYw
+MTIzNjcsLTk0ODAxMDkxNiwxNjAwOTM3NTQzLDE3MDYyMjA4MD
+ksLTE5MDEzOTYwODQsMTQxNDAyODIyOSwtMTMzMDU3NjQ1OSw4
+OTM0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4NTEwLDE3NjgyMj
+Y4NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4
+NzQ2NDkzMl19
 -->
