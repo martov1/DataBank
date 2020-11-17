@@ -266,9 +266,9 @@ A su vez, la carga almacenada depende de la tension y la capacidad
 Un capacitor real se concibe añadiendo en paralelo la resistencia del dielectrico. esta es **inmensa** y entonces el 99% de las veces es despreciable, pero sirve para determinar por ejemplo La cantidad de calor que va a disipar el capacitor
 
 ![](https://i.imgur.com/z1KbjXC.png =250x)
-### Energia almacenada en un capacitor - WIP
-[Explicacion piola](https://www.youtube.com/watch?v=SIU_9SMd5q0)
-
+### Energia almacenada en un capacitor
+[Explicacion piola](https://www.youtube.com/watch?v=9T6HGC-m8zU&t=309s)
+![](https://i.imgur.com/dSANpS1.png)
 
 # Circuitos comunes
 
@@ -296,11 +296,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjcwMDI4MjEsLTYyMjA5MDY1NiwtMT
-AwODYzNTQ0MSwxOTg2MDEyMzY3LC05NDgwMTA5MTYsMTYwMDkz
-NzU0MywxNzA2MjIwODA5LC0xOTAxMzk2MDg0LDE0MTQwMjgyMj
-ksLTEzMzA1NzY0NTksODkzNDYzOTIyLC0xODMyMjU3NDg2LDQz
-ODMxODUxMCwxNzY4MjI2ODY3LDQwODYyODU5NSwtNDYyODUzNj
-M5LDgwMjM1NTE1LDIwODc0NjQ5MzIsNjQwOTU3MDg3LDE5Nzg4
-ODQzNjhdfQ==
+eyJoaXN0b3J5IjpbLTM1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNj
+IyMDkwNjU2LC0xMDA4NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAx
+MDkxNiwxNjAwOTM3NTQzLDE3MDYyMjA4MDksLTE5MDEzOTYwOD
+QsMTQxNDAyODIyOSwtMTMzMDU3NjQ1OSw4OTM0NjM5MjIsLTE4
+MzIyNTc0ODYsNDM4MzE4NTEwLDE3NjgyMjY4NjcsNDA4NjI4NT
+k1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4NzQ2NDkzMiw2NDA5
+NTcwODddfQ==
 -->
