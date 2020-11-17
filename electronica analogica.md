@@ -269,6 +269,15 @@ Un capacitor real se concibe añadiendo en paralelo la resistencia del dielectri
 ### Energia almacenada en un capacitor
 [Explicacion piola](https://www.youtube.com/watch?v=9T6HGC-m8zU&t=309s)
 ![](https://i.imgur.com/dSANpS1.png)
+### Capacitores en paralelo
+
+Los capacitores en paralelo suman su capacidad como si se tratara de un solo capacitor mas grande, ya que suman superficie de placas
+
+$$C_t=C_1+C_2+C_3$$
+
+### Capacitores en serie
+
+Cada capacitor funciona como una pequeñ
 
 # Circuitos comunes
 
@@ -296,11 +305,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNj
-IyMDkwNjU2LC0xMDA4NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAx
-MDkxNiwxNjAwOTM3NTQzLDE3MDYyMjA4MDksLTE5MDEzOTYwOD
-QsMTQxNDAyODIyOSwtMTMzMDU3NjQ1OSw4OTM0NjM5MjIsLTE4
-MzIyNTc0ODYsNDM4MzE4NTEwLDE3NjgyMjY4NjcsNDA4NjI4NT
-k1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4NzQ2NDkzMiw2NDA5
-NTcwODddfQ==
+eyJoaXN0b3J5IjpbMTk2MjA5Nzc4NiwtMzUxNjIxNDIyLC0xMz
+I3MDAyODIxLC02MjIwOTA2NTYsLTEwMDg2MzU0NDEsMTk4NjAx
+MjM2NywtOTQ4MDEwOTE2LDE2MDA5Mzc1NDMsMTcwNjIyMDgwOS
+wtMTkwMTM5NjA4NCwxNDE0MDI4MjI5LC0xMzMwNTc2NDU5LDg5
+MzQ2MzkyMiwtMTgzMjI1NzQ4Niw0MzgzMTg1MTAsMTc2ODIyNj
+g2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4MDIzNTUxNSwyMDg3
+NDY0OTMyXX0=
 -->
