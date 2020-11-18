@@ -262,6 +262,11 @@ Los **valores de tension maxima** estan normalizados, son $$6.3-10-16-25-40-63-1
 
 #### Leer valores
 
+Para los capacitores con valores que **no estan claramente marcados**, existen estos codigos
+
+* Capacitores $<1 \mu F$
+* ![](https://i.imgur.com/wpB4p5I.png x=)
+
 ### Calculo de capacidad
 La capacidad es una funcion de la superficie de las placas, su distancia y la permitividad del dielectrico entre ellas
 
@@ -421,11 +426,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTI0MjQ4NiwtMTEyOTMwOTc0NiwtMj
-A2ODA5NDI5MCwtMzEwNTQ0NzYsLTExNDYxODU1NTcsLTM1MTYy
-MTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkwNjU2LC0xMDA4NjM1ND
-QxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNiwxNjAwOTM3NTQzLDE3
-MDYyMjA4MDksLTE5MDEzOTYwODQsMTQxNDAyODIyOSwtMTMzMD
-U3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4NTEw
-LDE3NjgyMjY4NjddfQ==
+eyJoaXN0b3J5IjpbNzc4NTUwMzE1LC0xMTI5MzA5NzQ2LC0yMD
+Y4MDk0MjkwLC0zMTA1NDQ3NiwtMTE0NjE4NTU1NywtMzUxNjIx
+NDIyLC0xMzI3MDAyODIxLC02MjIwOTA2NTYsLTEwMDg2MzU0ND
+EsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LDE2MDA5Mzc1NDMsMTcw
+NjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0MDI4MjI5LC0xMzMwNT
+c2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1NzQ4Niw0MzgzMTg1MTAs
+MTc2ODIyNjg2N119
 -->
