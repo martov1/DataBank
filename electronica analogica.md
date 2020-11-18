@@ -355,9 +355,15 @@ Usan como dielectrico una ceramica
 	* ![](https://i.imgur.com/H8CPSyw.png)
 * **Multicapa**
 	* $1pF$ (pico) hasta $10 \mu F$
+	* ![](https://i.imgur.com/rKBPABS.png)
 * * **Mica**
 	* Estables, precisos, caros
 	* $1pF$ (pico) hasta $0.1 \mu F$
+	* ![](https://i.imgur.com/cibP3Jg.png)
+
+### CAEV (Cap alta eficiencia volumetrica)
+
+S
 
 # Circuitos comunes
 
@@ -385,11 +391,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDYyNTU0NiwtMzEwNTQ0NzYsLTExND
-YxODU1NTcsLTM1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkw
-NjU2LC0xMDA4NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNi
-wxNjAwOTM3NTQzLDE3MDYyMjA4MDksLTE5MDEzOTYwODQsMTQx
-NDAyODIyOSwtMTMzMDU3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNT
-c0ODYsNDM4MzE4NTEwLDE3NjgyMjY4NjcsNDA4NjI4NTk1LC00
-NjI4NTM2MzldfQ==
+eyJoaXN0b3J5IjpbOTgxMTE5NDgyLC0zMTA1NDQ3NiwtMTE0Nj
+E4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2
+NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LD
+E2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0
+MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1Nz
+Q4Niw0MzgzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2
+Mjg1MzYzOV19
 -->
