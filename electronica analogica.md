@@ -322,7 +322,7 @@ Generalmente se clasifican por el **tipo de dielectrico con el que son fabricado
 * Tolerancias entre $+-10\% ;+30\%;+50\%$
 * Generan explosiones al cortocircuitarse
 *	**Fallan en circuito abierto**
- ![](https://i.imgur.com/EMTzV3t.png =100x)
+ ![](https://i.imgur.com/EMTzV3t.png =200x)
 
 ![](https://i.imgur.com/apJATix.png =200x)
 
@@ -332,7 +332,7 @@ Generalmente se clasifican por el **tipo de dielectrico con el que son fabricado
 *	Tolerancias $+-5\% ;+-20\%$
 *	Generan explosiones **violentas** y **arden** al cortocircuitarse
 *	**Fallan en circuito cerrado**
-![](https://i.imgur.com/ZBFTjHt.png)
+![](https://i.imgur.com/HvFEVAJ.png)
 
 ![](https://i.imgur.com/2CJc1jl.png =150x)
 
@@ -427,11 +427,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzA2ODA3OSwtMTEyOTMwOTc0NiwtMj
-A2ODA5NDI5MCwtMzEwNTQ0NzYsLTExNDYxODU1NTcsLTM1MTYy
-MTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkwNjU2LC0xMDA4NjM1ND
-QxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNiwxNjAwOTM3NTQzLDE3
-MDYyMjA4MDksLTE5MDEzOTYwODQsMTQxNDAyODIyOSwtMTMzMD
-U3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4NTEw
-LDE3NjgyMjY4NjddfQ==
+eyJoaXN0b3J5IjpbMTk2NDk1ODE3NCwxODIzMDY4MDc5LC0xMT
+I5MzA5NzQ2LC0yMDY4MDk0MjkwLC0zMTA1NDQ3NiwtMTE0NjE4
+NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2NT
+YsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LDE2
+MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0MD
+I4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1NzQ4
+Niw0MzgzMTg1MTBdfQ==
 -->
