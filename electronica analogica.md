@@ -289,6 +289,11 @@ $$V_t=V_1+V_2+V_3$$
 
 ## Tipos
 
+### Comparacion 
+Aqui podemos ver una comparacion de la **capacitancia** de los diferentes tipos de capacitores
+
+![](https://i.imgur.com/Eva4FMo.png)
+
 ### Electroliticos
 
 Generalmente se clasifican por el **tipo de dielectrico con el que son fabricados**
@@ -371,7 +376,7 @@ Tienen como caracteristica tener una superalta capacidad con respecto a su volum
 ![](https://i.imgur.com/FycgPL2.png)
 
 
-### Variables
+### Capacitores variables
 
 Son capacitores que pueden variar su capacitancia, algunos ejemplos son
 
@@ -408,11 +413,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzM5MzkzNywtMzEwNTQ0NzYsLTExND
-YxODU1NTcsLTM1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkw
-NjU2LC0xMDA4NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNi
-wxNjAwOTM3NTQzLDE3MDYyMjA4MDksLTE5MDEzOTYwODQsMTQx
-NDAyODIyOSwtMTMzMDU3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNT
-c0ODYsNDM4MzE4NTEwLDE3NjgyMjY4NjcsNDA4NjI4NTk1LC00
-NjI4NTM2MzldfQ==
+eyJoaXN0b3J5IjpbLTIwNjgwOTQyOTAsLTMxMDU0NDc2LC0xMT
+Q2MTg1NTU3LC0zNTE2MjE0MjIsLTEzMjcwMDI4MjEsLTYyMjA5
+MDY1NiwtMTAwODYzNTQ0MSwxOTg2MDEyMzY3LC05NDgwMTA5MT
+YsMTYwMDkzNzU0MywxNzA2MjIwODA5LC0xOTAxMzk2MDg0LDE0
+MTQwMjgyMjksLTEzMzA1NzY0NTksODkzNDYzOTIyLC0xODMyMj
+U3NDg2LDQzODMxODUxMCwxNzY4MjI2ODY3LDQwODYyODU5NSwt
+NDYyODUzNjM5XX0=
 -->
