@@ -246,13 +246,18 @@ Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en 
 Son componentes que pueden guardar energia
 
 ### Valores
+#### Mas importantes
 Los condensadores tienen los siguientes valores
-* Capacitancia
-* Tension maxima entre extremos
+* **Capacitancia**
+* **Tension maxima** entre extremos
 	* Si se supera, se perfora el dielectrico, generando un arco, calor y finalmente la explosion del capacitor
-* Polaridad (Con o sin)
-* Tolerancia
+* **Polaridad** (Con o sin)
+* **Tolerancia**
 	* La posible variacion de capacidad, por ej $+-10\%$del valor indicado
+
+#### Normalizacion
+
+Los valores de tension maxima estan normalizados, son $$6.3-10-16-25-40-63-100-160-250-350-358-450$$
 
 ### Calculo de capacidad
 La capacidad es una funcion de la superficie de las placas, su distancia y la permitividad del dielectrico entre ellas
@@ -288,7 +293,7 @@ Generalmente se clasifican por el **tipo de dielectrico con el que son fabricado
 * Electroliticos
 	* Son los de mejorratio capacitancia-volumen
 	* Son dos placas enrolladas metalicas con un papel impregnado en un electrolito entre ellas
-	* 
+	* Tienen **polaridad**
 	* ![](https://i.imgur.com/EMTzV3t.png =150x)
 
 
@@ -319,11 +324,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQyNjY4MzYsLTExNDYxODU1NTcsLT
-M1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkwNjU2LC0xMDA4
-NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNiwxNjAwOTM3NT
-QzLDE3MDYyMjA4MDksLTE5MDEzOTYwODQsMTQxNDAyODIyOSwt
-MTMzMDU3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNTc0ODYsNDM4Mz
-E4NTEwLDE3NjgyMjY4NjcsNDA4NjI4NTk1LC00NjI4NTM2Mzks
-ODAyMzU1MTVdfQ==
+eyJoaXN0b3J5IjpbLTkwNzkyMzYxNCwtMTE0NjE4NTU1NywtMz
+UxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2NTYsLTEwMDg2
+MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LDE2MDA5Mzc1ND
+MsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0MDI4MjI5LC0x
+MzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1NzQ4Niw0MzgzMT
+g1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4
+MDIzNTUxNV19
 -->
