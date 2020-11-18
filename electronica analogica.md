@@ -370,6 +370,15 @@ Tienen como caracteristica tener una superalta capacidad con respecto a su volum
 * Capacidades gigantes, por ejemplo $1F$
 ![](https://i.imgur.com/FycgPL2.png)
 
+
+### Variables
+
+Son capacitores que pueden variar su capacitancia, algunos ejemplos son
+
+* **Trimmers con dielectrico**
+	* De ajuste, para 
+* **Trimmers de aire**
+
 # Circuitos comunes
 
 
@@ -396,7 +405,7 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5MjI5NDQ2LC0zMTA1NDQ3NiwtMTE0Nj
+eyJoaXN0b3J5IjpbODMzMDAyODg4LC0zMTA1NDQ3NiwtMTE0Nj
 E4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2
 NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LD
 E2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0
