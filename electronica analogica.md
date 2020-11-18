@@ -289,19 +289,29 @@ $$V_t=V_1+V_2+V_3$$
 
 ### Tipos
 
+#### Electroliticos
+
 Generalmente se clasifican por el **tipo de dielectrico con el que son fabricados**
 
 * Electroliticos
 	* Son los de mejorratio capacitancia-volumen
 	* Son dos placas enrolladas metalicas con un papel impregnado en un electrolito entre ellas
 	* Tienen **polaridad**
-	* ![](https://i.imgur.com/EMTzV3t.png =150x)
+	* ![](https://i.imgur.com/EMTzV3t.png =100x)
+	* Pueden ser de:
+		* **Aluminio** Tienen una armadura externa de aluminio
 
-### Aplicaciones
-
+**APLICACIONES**
 Se pueden usar como
 * Reservorios de energia
-* Retardado
+* Retardadores para temporizadores
+* Filtrado de señales
+* Acoplamiento entre etapas de amplificacion
+
+
+
+
+
 
 
 
@@ -331,11 +341,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDA2MDM2NSwtMTE0NjE4NTU1NywtMz
-UxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2NTYsLTEwMDg2
-MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LDE2MDA5Mzc1ND
-MsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0MDI4MjI5LC0x
-MzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1NzQ4Niw0MzgzMT
-g1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4
-MDIzNTUxNV19
+eyJoaXN0b3J5IjpbLTMxMDU0NDc2LC0xMTQ2MTg1NTU3LC0zNT
+E2MjE0MjIsLTEzMjcwMDI4MjEsLTYyMjA5MDY1NiwtMTAwODYz
+NTQ0MSwxOTg2MDEyMzY3LC05NDgwMTA5MTYsMTYwMDkzNzU0My
+wxNzA2MjIwODA5LC0xOTAxMzk2MDg0LDE0MTQwMjgyMjksLTEz
+MzA1NzY0NTksODkzNDYzOTIyLC0xODMyMjU3NDg2LDQzODMxOD
+UxMCwxNzY4MjI2ODY3LDQwODYyODU5NSwtNDYyODUzNjM5LDgw
+MjM1NTE1XX0=
 -->
