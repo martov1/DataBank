@@ -305,6 +305,7 @@ Generalmente se clasifican por el **tipo de dielectrico con el que son fabricado
 	* Pueden ser de:
 		* **Aluminio**
 		* **Tántalo**
+
 #### Aluminio
 
 
@@ -314,6 +315,9 @@ Generalmente se clasifican por el **tipo de dielectrico con el que son fabricado
 * Generan explosiones al cortocircuitarse
 *	**Fallan en circuito abierto**
  ![](https://i.imgur.com/EMTzV3t.png =100x)
+
+![](https://i.imgur.com/apJATix.png =200x)
+
 #### Tántalo
 
 *	Tienen mayor capacidad  $0.1 \mu F$ y $1200 \mu F$
@@ -321,6 +325,8 @@ Generalmente se clasifican por el **tipo de dielectrico con el que son fabricado
 *	Generan explosiones **violentas** y **arden** al cortocircuitarse
 *	**Fallan en circuito cerrado**
 ![](https://i.imgur.com/ZBFTjHt.png)
+
+![](https://i.imgur.com/2CJc1jl.png =150x)
 
 **APLICACIONES**
 Se pueden usar como
@@ -413,11 +419,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjgwOTQyOTAsLTMxMDU0NDc2LC0xMT
-Q2MTg1NTU3LC0zNTE2MjE0MjIsLTEzMjcwMDI4MjEsLTYyMjA5
-MDY1NiwtMTAwODYzNTQ0MSwxOTg2MDEyMzY3LC05NDgwMTA5MT
-YsMTYwMDkzNzU0MywxNzA2MjIwODA5LC0xOTAxMzk2MDg0LDE0
-MTQwMjgyMjksLTEzMzA1NzY0NTksODkzNDYzOTIyLC0xODMyMj
-U3NDg2LDQzODMxODUxMCwxNzY4MjI2ODY3LDQwODYyODU5NSwt
-NDYyODUzNjM5XX0=
+eyJoaXN0b3J5IjpbLTExMjkzMDk3NDYsLTIwNjgwOTQyOTAsLT
+MxMDU0NDc2LC0xMTQ2MTg1NTU3LC0zNTE2MjE0MjIsLTEzMjcw
+MDI4MjEsLTYyMjA5MDY1NiwtMTAwODYzNTQ0MSwxOTg2MDEyMz
+Y3LC05NDgwMTA5MTYsMTYwMDkzNzU0MywxNzA2MjIwODA5LC0x
+OTAxMzk2MDg0LDE0MTQwMjgyMjksLTEzMzA1NzY0NTksODkzND
+YzOTIyLC0xODMyMjU3NDg2LDQzODMxODUxMCwxNzY4MjI2ODY3
+LDQwODYyODU5NV19
 -->
