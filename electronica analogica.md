@@ -426,11 +426,13 @@ Las equaciones quedan asi
 
 ### Wheatstone bridge - WIP
 
-### Circuito RC
+### Circuito Resistor-Capacitor (RC) - WIP
 
+Se trata de un circuito con un capacitor y un resistor
+![](https://i.imgur.com/xR2LR4r.png =200x)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzIxOTcxOCwtMTExNzk0NjYwNywyMD
+eyJoaXN0b3J5IjpbLTIyODA3NjgyNiwtMTExNzk0NjYwNywyMD
 Q2Mjg5MzE5LDE4MjMwNjgwNzksLTExMjkzMDk3NDYsLTIwNjgw
 OTQyOTAsLTMxMDU0NDc2LC0xMTQ2MTg1NTU3LC0zNTE2MjE0Mj
 IsLTEzMjcwMDI4MjEsLTYyMjA5MDY1NiwtMTAwODYzNTQ0MSwx
