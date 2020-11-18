@@ -254,10 +254,11 @@ Los condensadores tienen los siguientes valores
 * **Polaridad** (Con o sin)
 * **Tolerancia**
 	* La posible variacion de capacidad, por ej $+-10\%$del valor indicado
+* **Tension de pico** es la maxima tension que soporta el capacitor en un pico brve de tension
 
-#### Normalizacion
+#### Normalizacion y valores marcados
 
-Los valores de tension maxima estan normalizados, son $$6.3-10-16-25-40-63-100-160-250-350-358-450$$
+Los **valores de tension maxima** estan normalizados, son $$6.3-10-16-25-40-63-100-160-250-350-358-450$$
 
 ### Calculo de capacidad
 La capacidad es una funcion de la superficie de las placas, su distancia y la permitividad del dielectrico entre ellas
@@ -296,6 +297,12 @@ Generalmente se clasifican por el **tipo de dielectrico con el que son fabricado
 	* Tienen **polaridad**
 	* ![](https://i.imgur.com/EMTzV3t.png =150x)
 
+### Aplicaciones
+
+Se pueden usar como
+* Reservorios de energia
+* Retardado
+
 
 
 # Circuitos comunes
@@ -324,7 +331,7 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzkyMzYxNCwtMTE0NjE4NTU1NywtMz
+eyJoaXN0b3J5IjpbLTg1NDA2MDM2NSwtMTE0NjE4NTU1NywtMz
 UxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2NTYsLTEwMDg2
 MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LDE2MDA5Mzc1ND
 MsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0MDI4MjI5LC0x
