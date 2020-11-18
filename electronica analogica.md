@@ -245,7 +245,7 @@ Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en 
 
 Son componentes que pueden guardar energia
 
-### Valores
+## Valores
 #### Mas importantes
 Los condensadores tienen los siguientes valores
 * **Capacitancia**
@@ -269,7 +269,7 @@ Para los capacitores con valores que **no estan claramente marcados**, existen e
 * ![](https://i.imgur.com/RdD4wOw.png)
 * * Los de **plastico metalizado** a su vez suelen tener la siguiente nomenclatura
 * ![](https://i.imgur.com/MdDP5Gr.png)
-
+## Calculos
 ### Calculo de capacidad
 La capacidad es una funcion de la superficie de las placas, su distancia y la permitividad del dielectrico entre ellas
 
@@ -426,13 +426,15 @@ Las equaciones quedan asi
 
 ### Wheatstone bridge - WIP
 
+### Circuito RC
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc5NDY2MDcsMjA0NjI4OTMxOSwxOD
-IzMDY4MDc5LC0xMTI5MzA5NzQ2LC0yMDY4MDk0MjkwLC0zMTA1
-NDQ3NiwtMTE0NjE4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyOD
-IxLC02MjIwOTA2NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2Nywt
-OTQ4MDEwOTE2LDE2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMT
-M5NjA4NCwxNDE0MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2Mzky
-MiwtMTgzMjI1NzQ4Nl19
+eyJoaXN0b3J5IjpbLTM1MzIxOTcxOCwtMTExNzk0NjYwNywyMD
+Q2Mjg5MzE5LDE4MjMwNjgwNzksLTExMjkzMDk3NDYsLTIwNjgw
+OTQyOTAsLTMxMDU0NDc2LC0xMTQ2MTg1NTU3LC0zNTE2MjE0Mj
+IsLTEzMjcwMDI4MjEsLTYyMjA5MDY1NiwtMTAwODYzNTQ0MSwx
+OTg2MDEyMzY3LC05NDgwMTA5MTYsMTYwMDkzNzU0MywxNzA2Mj
+IwODA5LC0xOTAxMzk2MDg0LDE0MTQwMjgyMjksLTEzMzA1NzY0
+NTksODkzNDYzOTIyXX0=
 -->
