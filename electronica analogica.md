@@ -349,7 +349,9 @@ Usan como dielectrico una ceramica
 
 **Los hay**
 * **Monocapa**
-	* d
+	* Es una lamina de ceramica recubierta de amos lados con metal
+	* Capacitancia desde $2.2pF$ (pico) hasta $0.22 \mu F$
+	* Maxim
 
 # Circuitos comunes
 
@@ -377,11 +379,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjg3ODg3ODMsLTMxMDU0NDc2LC0xMT
-Q2MTg1NTU3LC0zNTE2MjE0MjIsLTEzMjcwMDI4MjEsLTYyMjA5
-MDY1NiwtMTAwODYzNTQ0MSwxOTg2MDEyMzY3LC05NDgwMTA5MT
-YsMTYwMDkzNzU0MywxNzA2MjIwODA5LC0xOTAxMzk2MDg0LDE0
-MTQwMjgyMjksLTEzMzA1NzY0NTksODkzNDYzOTIyLC0xODMyMj
-U3NDg2LDQzODMxODUxMCwxNzY4MjI2ODY3LDQwODYyODU5NSwt
-NDYyODUzNjM5XX0=
+eyJoaXN0b3J5IjpbMTQwMjEwMzM2NywtMzEwNTQ0NzYsLTExND
+YxODU1NTcsLTM1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkw
+NjU2LC0xMDA4NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNi
+wxNjAwOTM3NTQzLDE3MDYyMjA4MDksLTE5MDEzOTYwODQsMTQx
+NDAyODIyOSwtMTMzMDU3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNT
+c0ODYsNDM4MzE4NTEwLDE3NjgyMjY4NjcsNDA4NjI4NTk1LC00
+NjI4NTM2MzldfQ==
 -->
