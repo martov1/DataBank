@@ -322,9 +322,8 @@ Generalmente se clasifican por el **tipo de dielectrico con el que son fabricado
 * Tolerancias entre $+-10\% ;+30\%;+50\%$
 * Generan explosiones al cortocircuitarse
 *	**Fallan en circuito abierto**
- ![](https://i.imgur.com/EMTzV3t.png =200x)
-
-![](https://i.imgur.com/apJATix.png =200x)
+ 
+![](https://i.imgur.com/qMZwaSY.png)
 
 #### Tántalo
 
@@ -427,7 +426,7 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDk1ODE3NCwxODIzMDY4MDc5LC0xMT
+eyJoaXN0b3J5IjpbMjA0NjI4OTMxOSwxODIzMDY4MDc5LC0xMT
 I5MzA5NzQ2LC0yMDY4MDk0MjkwLC0zMTA1NDQ3NiwtMTE0NjE4
 NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2NT
 YsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LDE2
