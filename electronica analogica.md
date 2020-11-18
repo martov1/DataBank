@@ -286,7 +286,11 @@ $$V_t=V_1+V_2+V_3$$
 Generalmente se clasifican por el **tipo de dielectrico con el que son fabricados**
 
 * Electroliticos
-	* Son los de m
+	* Son los de mejorratio capacitancia-volumen
+	* Son dos placas enrolladas metalicas con un papel impregnado en un electrolito entre ellas
+	* 
+	* ![](https://i.imgur.com/EMTzV3t.png =150x)
+
 
 
 # Circuitos comunes
@@ -315,11 +319,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Nzk4NDUwMiwtMTE0NjE4NTU1NywtMz
-UxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2NTYsLTEwMDg2
-MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LDE2MDA5Mzc1ND
-MsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0MDI4MjI5LC0x
-MzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1NzQ4Niw0MzgzMT
-g1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4
-MDIzNTUxNV19
+eyJoaXN0b3J5IjpbLTE5NjQyNjY4MzYsLTExNDYxODU1NTcsLT
+M1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkwNjU2LC0xMDA4
+NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNiwxNjAwOTM3NT
+QzLDE3MDYyMjA4MDksLTE5MDEzOTYwODQsMTQxNDAyODIyOSwt
+MTMzMDU3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNTc0ODYsNDM4Mz
+E4NTEwLDE3NjgyMjY4NjcsNDA4NjI4NTk1LC00NjI4NTM2Mzks
+ODAyMzU1MTVdfQ==
 -->
