@@ -297,11 +297,14 @@ Generalmente se clasifican por el **tipo de dielectrico con el que son fabricado
 	* Son los de mejorratio capacitancia-volumen
 	* Son dos placas enrolladas metalicas con un papel impregnado en un electrolito entre ellas
 	* Tienen **polaridad**
-	* ![](https://i.imgur.com/EMTzV3t.png =100x)
 	* Pueden ser de:
 		* **Aluminio** Tienen una armadura externa de aluminio
 			* Capacidad entre  $0.1 \mu F$ y $100 \mu F$
-			* Tolerancias entre +$-10\% ;+30\%;+50\%$
+			* Tolerancias entre $+-10\% ;+30\%;+50\%$
+			* ![](https://i.imgur.com/EMTzV3t.png =100x)
+		*	**Tántalo** 
+			*	Tienen mayor capacidad  $0.1 \mu F$ y $1200 \mu F$
+			*	Tolerancias $+-5\% ;+-20\%$
 
 **APLICACIONES**
 Se pueden usar como
@@ -343,11 +346,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTA2NDAxMiwtMzEwNTQ0NzYsLTExND
-YxODU1NTcsLTM1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkw
-NjU2LC0xMDA4NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNi
-wxNjAwOTM3NTQzLDE3MDYyMjA4MDksLTE5MDEzOTYwODQsMTQx
-NDAyODIyOSwtMTMzMDU3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNT
-c0ODYsNDM4MzE4NTEwLDE3NjgyMjY4NjcsNDA4NjI4NTk1LC00
-NjI4NTM2MzldfQ==
+eyJoaXN0b3J5IjpbNjE3NDE1NjMyLC0zMTA1NDQ3NiwtMTE0Nj
+E4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2
+NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LD
+E2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0
+MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1Nz
+Q4Niw0MzgzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2
+Mjg1MzYzOV19
 -->
