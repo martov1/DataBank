@@ -298,13 +298,19 @@ Generalmente se clasifican por el **tipo de dielectrico con el que son fabricado
 	* Son dos placas enrolladas metalicas con un papel impregnado en un electrolito entre ellas
 	* Tienen **polaridad**
 	* Pueden ser de:
-		* **Aluminio** Tienen una armadura externa de aluminio
-			* Capacidad entre  $0.1 \mu F$ y $100 \mu F$
+		* **Aluminio**
+		* **Tántalo**
+##### Aluminio
+
+
+**Aluminio** Tienen una armadura externa de aluminio
+* Capacidad entre  $0.1 \mu F$ y $100 \mu F$
 			* Tolerancias entre $+-10\% ;+30\%;+50\%$
 			* ![](https://i.imgur.com/EMTzV3t.png =100x)
 		*	**Tántalo** 
 			*	Tienen mayor capacidad  $0.1 \mu F$ y $1200 \mu F$
 			*	Tolerancias $+-5\% ;+-20\%$
+			*	![](https://i.imgur.com/ZBFTjHt.png)
 
 **APLICACIONES**
 Se pueden usar como
@@ -346,7 +352,7 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NDE1NjMyLC0zMTA1NDQ3NiwtMTE0Nj
+eyJoaXN0b3J5IjpbOTQwMDcwNjQzLC0zMTA1NDQ3NiwtMTE0Nj
 E4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2
 NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LD
 E2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0
