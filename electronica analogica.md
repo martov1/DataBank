@@ -326,15 +326,23 @@ Se pueden usar como
 
 ###  Plastico metalizados
 
-Son capacitores mas robustos y con menos probabilidad de explosion, son placas separadas por plastico, los hay
+Son capacitores mas robustos y con menos probabilidad de explosion, son placas separadas por plastico.
 
+Tienen como caracteristicas principales
+* Grandes **tensiones** de funcionamiento
+* Funcionan a gran **variedad de temperaturas**
+
+
+
+
+**Los hay:**
 * **Tipo K** Armadura de laminas de metal
 	* Alta precision, muchas veces para audio y osciladores
 	* **KS** Poliestireno como dielectrico
 	* **KP** Dielectrico de polipropileno
 * **Tipo MK** Armadura de laminas de metal vaporizado
 ![](https://i.imgur.com/UvilDyl.png)
-
+![](https://i.imgur.com/x7l0HXu.png)
 
 
 
@@ -364,7 +372,7 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODc0OTQ0NCwtMzEwNTQ0NzYsLTExND
+eyJoaXN0b3J5IjpbMTg0MTMwNzE2OSwtMzEwNTQ0NzYsLTExND
 YxODU1NTcsLTM1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkw
 NjU2LC0xMDA4NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNi
 wxNjAwOTM3NTQzLDE3MDYyMjA4MDksLTE5MDEzOTYwODQsMTQx
