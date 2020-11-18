@@ -267,8 +267,9 @@ Para los capacitores con valores que **no estan claramente marcados**, existen e
 * Capacitores $<1 p F$ se expresa en picofaradios, por ejemplo este capacitor tiene $10000pF$
 * ![](https://i.imgur.com/wpB4p5I.png =x150)
 * Puede tener una tolerancia marcada por una letra que a su vez responde a una tabla, algunas son **asimetricas**
-* ![](https://i.imgur.com/IAS6hEr.png =250x)
-* Tambien 
+* ![](https://i.imgur.com/IAS6hEr.png =300x)
+* Tambien pueden venir con **Tension maxima**
+* ![](https://i.imgur.com/dHgWXw8.png =400x)
 
 ### Calculo de capacidad
 La capacidad es una funcion de la superficie de las placas, su distancia y la permitividad del dielectrico entre ellas
@@ -429,7 +430,7 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDk0OTUzNCwtMTEyOTMwOTc0NiwtMj
+eyJoaXN0b3J5IjpbLTE3Mzg1OTU1NywtMTEyOTMwOTc0NiwtMj
 A2ODA5NDI5MCwtMzEwNTQ0NzYsLTExNDYxODU1NTcsLTM1MTYy
 MTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkwNjU2LC0xMDA4NjM1ND
 QxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNiwxNjAwOTM3NTQzLDE3
