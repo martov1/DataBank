@@ -1,7 +1,7 @@
 **Nivel técnico electrónico**
 https://www.youtube.com/watch?v=KkoudrHOpGE&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo
 
-Quede en clase 17 (vid 26) minuto 6
+Quede en clase 18
 
 
 **VER aplicacion en reparacion de notebooks**
@@ -432,11 +432,11 @@ Se trata de un circuito con un capacitor y un resistor
 ![](https://i.imgur.com/xR2LR4r.png =200x)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODA3NjgyNiwtMTExNzk0NjYwNywyMD
-Q2Mjg5MzE5LDE4MjMwNjgwNzksLTExMjkzMDk3NDYsLTIwNjgw
-OTQyOTAsLTMxMDU0NDc2LC0xMTQ2MTg1NTU3LC0zNTE2MjE0Mj
-IsLTEzMjcwMDI4MjEsLTYyMjA5MDY1NiwtMTAwODYzNTQ0MSwx
-OTg2MDEyMzY3LC05NDgwMTA5MTYsMTYwMDkzNzU0MywxNzA2Mj
-IwODA5LC0xOTAxMzk2MDg0LDE0MTQwMjgyMjksLTEzMzA1NzY0
-NTksODkzNDYzOTIyXX0=
+eyJoaXN0b3J5IjpbLTcwMjQwNzYwNSwtMjI4MDc2ODI2LC0xMT
+E3OTQ2NjA3LDIwNDYyODkzMTksMTgyMzA2ODA3OSwtMTEyOTMw
+OTc0NiwtMjA2ODA5NDI5MCwtMzEwNTQ0NzYsLTExNDYxODU1NT
+csLTM1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkwNjU2LC0x
+MDA4NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNiwxNjAwOT
+M3NTQzLDE3MDYyMjA4MDksLTE5MDEzOTYwODQsMTQxNDAyODIy
+OSwtMTMzMDU3NjQ1OV19
 -->
