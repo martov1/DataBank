@@ -363,7 +363,10 @@ Usan como dielectrico una ceramica
 
 ### CAEV (Cap alta eficiencia volumetrica)
 
-S
+Tienen como caracteristica tener una superalta capacidad con respecto a su volumen,
+* Capacitancias de  **10 a 50 veces mas que los electroliticos**
+* Manejan **bajas tensiones (ej $5V$)**
+* No utiliz
 
 # Circuitos comunes
 
@@ -391,7 +394,7 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMTE5NDgyLC0zMTA1NDQ3NiwtMTE0Nj
+eyJoaXN0b3J5IjpbLTQwNTc1MzA4LC0zMTA1NDQ3NiwtMTE0Nj
 E4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2
 NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LD
 E2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0
