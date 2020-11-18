@@ -281,6 +281,14 @@ Cada capacitor funciona como una pequeña batería, sumando su diferencia de pot
 
 $$V_t=V_1+V_2+V_3$$
 
+### Tipos
+
+Generalmente se clasifican por el **tipo de dielectrico con el que son fabricados**
+
+* Electroliticos
+	* Son los de m
+
+
 # Circuitos comunes
 
 
@@ -307,11 +315,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYxODU1NTcsLTM1MTYyMTQyMiwtMT
-MyNzAwMjgyMSwtNjIyMDkwNjU2LC0xMDA4NjM1NDQxLDE5ODYw
-MTIzNjcsLTk0ODAxMDkxNiwxNjAwOTM3NTQzLDE3MDYyMjA4MD
-ksLTE5MDEzOTYwODQsMTQxNDAyODIyOSwtMTMzMDU3NjQ1OSw4
-OTM0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4NTEwLDE3NjgyMj
-Y4NjcsNDA4NjI4NTk1LC00NjI4NTM2MzksODAyMzU1MTUsMjA4
-NzQ2NDkzMl19
+eyJoaXN0b3J5IjpbMTc2Nzk4NDUwMiwtMTE0NjE4NTU1NywtMz
+UxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2NTYsLTEwMDg2
+MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LDE2MDA5Mzc1ND
+MsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0MDI4MjI5LC0x
+MzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1NzQ4Niw0MzgzMT
+g1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2Mjg1MzYzOSw4
+MDIzNTUxNV19
 -->
