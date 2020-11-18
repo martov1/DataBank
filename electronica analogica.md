@@ -287,9 +287,9 @@ Cada capacitor funciona como una pequeña batería, sumando su diferencia de pot
 
 $$V_t=V_1+V_2+V_3$$
 
-### Tipos
+## Tipos
 
-#### Electroliticos
+### Electroliticos
 
 Generalmente se clasifican por el **tipo de dielectrico con el que son fabricados**
 
@@ -300,17 +300,22 @@ Generalmente se clasifican por el **tipo de dielectrico con el que son fabricado
 	* Pueden ser de:
 		* **Aluminio**
 		* **Tántalo**
-##### Aluminio
+#### Aluminio
 
 
 **Aluminio** Tienen una armadura externa de aluminio
 * Capacidad entre  $0.1 \mu F$ y $100 \mu F$
-			* Tolerancias entre $+-10\% ;+30\%;+50\%$
-			* ![](https://i.imgur.com/EMTzV3t.png =100x)
-		*	**Tántalo** 
-			*	Tienen mayor capacidad  $0.1 \mu F$ y $1200 \mu F$
-			*	Tolerancias $+-5\% ;+-20\%$
-			*	![](https://i.imgur.com/ZBFTjHt.png)
+* Tolerancias entre $+-10\% ;+30\%;+50\%$
+* Generan explosiones al cortocircuitarse
+*	**Fallan en circuito abierto**
+ ![](https://i.imgur.com/EMTzV3t.png =100x)
+#### Tántalo
+
+*	Tienen mayor capacidad  $0.1 \mu F$ y $1200 \mu F$
+*	Tolerancias $+-5\% ;+-20\%$
+*	Generan explosiones **violentas** y **arden** al cortocircuitarse
+*	**Fallan en circuito cerrado**
+![](https://i.imgur.com/ZBFTjHt.png)
 
 **APLICACIONES**
 Se pueden usar como
@@ -352,11 +357,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwMDcwNjQzLC0zMTA1NDQ3NiwtMTE0Nj
-E4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2
-NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LD
-E2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0
-MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1Nz
-Q4Niw0MzgzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2
-Mjg1MzYzOV19
+eyJoaXN0b3J5IjpbLTEzMDY5MTMwMTIsLTMxMDU0NDc2LC0xMT
+Q2MTg1NTU3LC0zNTE2MjE0MjIsLTEzMjcwMDI4MjEsLTYyMjA5
+MDY1NiwtMTAwODYzNTQ0MSwxOTg2MDEyMzY3LC05NDgwMTA5MT
+YsMTYwMDkzNzU0MywxNzA2MjIwODA5LC0xOTAxMzk2MDg0LDE0
+MTQwMjgyMjksLTEzMzA1NzY0NTksODkzNDYzOTIyLC0xODMyMj
+U3NDg2LDQzODMxODUxMCwxNzY4MjI2ODY3LDQwODYyODU5NSwt
+NDYyODUzNjM5XX0=
 -->
