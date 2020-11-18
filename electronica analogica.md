@@ -328,7 +328,10 @@ Se pueden usar como
 
 Son capacitores mas robustos y con menos probabilidad de explosion, son placas separadas por plastico, los hay
 
-* **Tipo K** ()
+* **Tipo K** (armadura de laminas de metal)
+	* **KS** Poliestireno como dielectrico
+	* **KP** Dielectrico de polipropileno
+		* Alta precision, muchas veces para audio y osciladores
 
 
 
@@ -359,7 +362,7 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDkzNzAxLC0zMTA1NDQ3NiwtMTE0Nj
+eyJoaXN0b3J5IjpbMzEwMzAzNzM3LC0zMTA1NDQ3NiwtMTE0Nj
 E4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2
 NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LD
 E2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0
