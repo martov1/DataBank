@@ -260,6 +260,8 @@ Los condensadores tienen los siguientes valores
 
 Los **valores de tension maxima** estan normalizados, son $$6.3-10-16-25-40-63-100-160-250-350-358-450$$
 
+#### Leer valores
+
 ### Calculo de capacidad
 La capacidad es una funcion de la superficie de las placas, su distancia y la permitividad del dielectrico entre ellas
 
@@ -419,11 +421,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjkzMDk3NDYsLTIwNjgwOTQyOTAsLT
-MxMDU0NDc2LC0xMTQ2MTg1NTU3LC0zNTE2MjE0MjIsLTEzMjcw
-MDI4MjEsLTYyMjA5MDY1NiwtMTAwODYzNTQ0MSwxOTg2MDEyMz
-Y3LC05NDgwMTA5MTYsMTYwMDkzNzU0MywxNzA2MjIwODA5LC0x
-OTAxMzk2MDg0LDE0MTQwMjgyMjksLTEzMzA1NzY0NTksODkzND
-YzOTIyLC0xODMyMjU3NDg2LDQzODMxODUxMCwxNzY4MjI2ODY3
-LDQwODYyODU5NV19
+eyJoaXN0b3J5IjpbLTU4NTI0MjQ4NiwtMTEyOTMwOTc0NiwtMj
+A2ODA5NDI5MCwtMzEwNTQ0NzYsLTExNDYxODU1NTcsLTM1MTYy
+MTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkwNjU2LC0xMDA4NjM1ND
+QxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNiwxNjAwOTM3NTQzLDE3
+MDYyMjA4MDksLTE5MDEzOTYwODQsMTQxNDAyODIyOSwtMTMzMD
+U3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4NTEw
+LDE3NjgyMjY4NjddfQ==
 -->
