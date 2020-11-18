@@ -300,6 +300,8 @@ Generalmente se clasifican por el **tipo de dielectrico con el que son fabricado
 	* ![](https://i.imgur.com/EMTzV3t.png =100x)
 	* Pueden ser de:
 		* **Aluminio** Tienen una armadura externa de aluminio
+			* Capacidad entre  $0.1 \mu F$ y $100 \mu F$
+			* Tolerancias entre +$-10\% ;+30\%;+50\%$
 
 **APLICACIONES**
 Se pueden usar como
@@ -341,11 +343,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDU0NDc2LC0xMTQ2MTg1NTU3LC0zNT
-E2MjE0MjIsLTEzMjcwMDI4MjEsLTYyMjA5MDY1NiwtMTAwODYz
-NTQ0MSwxOTg2MDEyMzY3LC05NDgwMTA5MTYsMTYwMDkzNzU0My
-wxNzA2MjIwODA5LC0xOTAxMzk2MDg0LDE0MTQwMjgyMjksLTEz
-MzA1NzY0NTksODkzNDYzOTIyLC0xODMyMjU3NDg2LDQzODMxOD
-UxMCwxNzY4MjI2ODY3LDQwODYyODU5NSwtNDYyODUzNjM5LDgw
-MjM1NTE1XX0=
+eyJoaXN0b3J5IjpbMTc5MTA2NDAxMiwtMzEwNTQ0NzYsLTExND
+YxODU1NTcsLTM1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkw
+NjU2LC0xMDA4NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNi
+wxNjAwOTM3NTQzLDE3MDYyMjA4MDksLTE5MDEzOTYwODQsMTQx
+NDAyODIyOSwtMTMzMDU3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNT
+c0ODYsNDM4MzE4NTEwLDE3NjgyMjY4NjcsNDA4NjI4NTk1LC00
+NjI4NTM2MzldfQ==
 -->
