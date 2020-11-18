@@ -376,8 +376,11 @@ Tienen como caracteristica tener una superalta capacidad con respecto a su volum
 Son capacitores que pueden variar su capacitancia, algunos ejemplos son
 
 * **Trimmers con dielectrico**
-	* De ajuste, para 
+	* De ajuste, para variar su capacitancia durante el uso del circuito o si hace falta ajustarla durante la fabricacion
+	* ![](https://i.imgur.com/2h9LRm9.png)
 * **Trimmers de aire**
+	* Antiguos y se usan poco, su dielectrico es el mismo aire
+	* ![](https://i.imgur.com/JMyoRea.png)
 
 # Circuitos comunes
 
@@ -405,11 +408,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzMDAyODg4LC0zMTA1NDQ3NiwtMTE0Nj
-E4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2
-NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LD
-E2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0
-MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1Nz
-Q4Niw0MzgzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2
-Mjg1MzYzOV19
+eyJoaXN0b3J5IjpbMTI1NzM5MzkzNywtMzEwNTQ0NzYsLTExND
+YxODU1NTcsLTM1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkw
+NjU2LC0xMDA4NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNi
+wxNjAwOTM3NTQzLDE3MDYyMjA4MDksLTE5MDEzOTYwODQsMTQx
+NDAyODIyOSwtMTMzMDU3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNT
+c0ODYsNDM4MzE4NTEwLDE3NjgyMjY4NjcsNDA4NjI4NTk1LC00
+NjI4NTM2MzldfQ==
 -->
