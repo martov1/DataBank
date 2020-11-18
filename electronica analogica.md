@@ -264,8 +264,9 @@ Los **valores de tension maxima** estan normalizados, son $$6.3-10-16-25-40-63-1
 
 Para los capacitores con valores que **no estan claramente marcados**, existen estos codigos
 
-* Capacitores $<1 p F$ se expresa en picofaradios, por ejemplo este capacitor tiene $100000pF$, a su ve
-* ![](https://i.imgur.com/dHgWXw8.png =400x)
+* Capacitores $<1 p F$ se expresa en picofaradios, por ejemplo este capacitor tiene $100000pF$, a su vez pueden o no tener **tension y tolerancia**
+* ![](https://i.imgur.com/dHgWXw8.png =400x)* Los de **plastico metalizado** a su vez suelen tener la siguiente nomenclatura
+* ![](https://i.imgur.com/MdDP5Gr.png)
 
 ### Calculo de capacidad
 La capacidad es una funcion de la superficie de las placas, su distancia y la permitividad del dielectrico entre ellas
@@ -426,11 +427,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk4MTU3MjQsLTExMjkzMDk3NDYsLT
-IwNjgwOTQyOTAsLTMxMDU0NDc2LC0xMTQ2MTg1NTU3LC0zNTE2
-MjE0MjIsLTEzMjcwMDI4MjEsLTYyMjA5MDY1NiwtMTAwODYzNT
-Q0MSwxOTg2MDEyMzY3LC05NDgwMTA5MTYsMTYwMDkzNzU0Mywx
-NzA2MjIwODA5LC0xOTAxMzk2MDg0LDE0MTQwMjgyMjksLTEzMz
-A1NzY0NTksODkzNDYzOTIyLC0xODMyMjU3NDg2LDQzODMxODUx
-MCwxNzY4MjI2ODY3XX0=
+eyJoaXN0b3J5IjpbMTgyMzA2ODA3OSwtMTEyOTMwOTc0NiwtMj
+A2ODA5NDI5MCwtMzEwNTQ0NzYsLTExNDYxODU1NTcsLTM1MTYy
+MTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkwNjU2LC0xMDA4NjM1ND
+QxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNiwxNjAwOTM3NTQzLDE3
+MDYyMjA4MDksLTE5MDEzOTYwODQsMTQxNDAyODIyOSwtMTMzMD
+U3NjQ1OSw4OTM0NjM5MjIsLTE4MzIyNTc0ODYsNDM4MzE4NTEw
+LDE3NjgyMjY4NjddfQ==
 -->
