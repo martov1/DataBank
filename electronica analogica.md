@@ -331,6 +331,7 @@ Son capacitores mas robustos y con menos probabilidad de explosion, son placas s
 Tienen como caracteristicas principales
 * Grandes **tensiones** de funcionamiento
 * Funcionan a gran **variedad de temperaturas**
+* **Capacidad autoregenerativa** si el dielectrico se rompe, la temperatura del arco que se genera vaporiza el metal del otro lado y se extingue el arco, la perdida de capacitancia es despreciable, e
 
 
 
@@ -372,7 +373,7 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTMwNzE2OSwtMzEwNTQ0NzYsLTExND
+eyJoaXN0b3J5IjpbMTM4NzcxMDQwNywtMzEwNTQ0NzYsLTExND
 YxODU1NTcsLTM1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkw
 NjU2LC0xMDA4NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNi
 wxNjAwOTM3NTQzLDE3MDYyMjA4MDksLTE5MDEzOTYwODQsMTQx
