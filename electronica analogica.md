@@ -351,7 +351,13 @@ Usan como dielectrico una ceramica
 * **Monocapa**
 	* Es una lamina de ceramica recubierta de amos lados con metal
 	* Capacitancia desde $2.2pF$ (pico) hasta $0.22 \mu F$
-	* Maxim
+	* Maxima tension de aprox $63V$
+	* ![](https://i.imgur.com/H8CPSyw.png)
+* **Multicapa**
+	* $1pF$ (pico) hasta $10 \mu F$
+* * **Mica**
+	* Estables, precisos, caros
+	* $1pF$ (pico) hasta $0.1 \mu F$
 
 # Circuitos comunes
 
@@ -379,7 +385,7 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjEwMzM2NywtMzEwNTQ0NzYsLTExND
+eyJoaXN0b3J5IjpbMTcyNDYyNTU0NiwtMzEwNTQ0NzYsLTExND
 YxODU1NTcsLTM1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkw
 NjU2LC0xMDA4NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNi
 wxNjAwOTM3NTQzLDE3MDYyMjA4MDksLTE5MDEzOTYwODQsMTQx
