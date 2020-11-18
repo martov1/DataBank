@@ -1,8 +1,10 @@
 **Nivel técnico electrónico**
 https://www.youtube.com/watch?v=KkoudrHOpGE&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo
 
-Quede en clase 18
+Quede en clase 18 - RC circuits
 
+https://www.youtube.com/watch?v=w3cqkMkte2w&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=10
+**BREAK para ver desde capacity factor**
 
 **VER aplicacion en reparacion de notebooks**
 https://www.youtube.com/watch?v=1XGun_-06aA&list=PLHk1hZEmw3_zlUPRfVeBHLSUviVNfR4pNvideo 3 minuto 7
@@ -432,11 +434,11 @@ Se trata de un circuito con un capacitor y un resistor
 ![](https://i.imgur.com/xR2LR4r.png =200x)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjQwNzYwNSwtMjI4MDc2ODI2LC0xMT
-E3OTQ2NjA3LDIwNDYyODkzMTksMTgyMzA2ODA3OSwtMTEyOTMw
-OTc0NiwtMjA2ODA5NDI5MCwtMzEwNTQ0NzYsLTExNDYxODU1NT
-csLTM1MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkwNjU2LC0x
-MDA4NjM1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNiwxNjAwOT
-M3NTQzLDE3MDYyMjA4MDksLTE5MDEzOTYwODQsMTQxNDAyODIy
-OSwtMTMzMDU3NjQ1OV19
+eyJoaXN0b3J5IjpbLTQ4NzE2MjM2NCwtNzAyNDA3NjA1LC0yMj
+gwNzY4MjYsLTExMTc5NDY2MDcsMjA0NjI4OTMxOSwxODIzMDY4
+MDc5LC0xMTI5MzA5NzQ2LC0yMDY4MDk0MjkwLC0zMTA1NDQ3Ni
+wtMTE0NjE4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02
+MjIwOTA2NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MD
+EwOTE2LDE2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4
+NCwxNDE0MDI4MjI5XX0=
 -->
