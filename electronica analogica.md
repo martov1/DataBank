@@ -324,9 +324,11 @@ Se pueden usar como
 * Filtrado de señales
 * Acoplamiento entre etapas de amplificacion
 
+###  Plastico metalizados
 
+Son capacitores mas robustos y con menos probabilidad de explosion, son placas separadas por plastico, los hay
 
-
+* **Tipo K** ()
 
 
 
@@ -357,11 +359,11 @@ Las equaciones quedan asi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY5MTMwMTIsLTMxMDU0NDc2LC0xMT
-Q2MTg1NTU3LC0zNTE2MjE0MjIsLTEzMjcwMDI4MjEsLTYyMjA5
-MDY1NiwtMTAwODYzNTQ0MSwxOTg2MDEyMzY3LC05NDgwMTA5MT
-YsMTYwMDkzNzU0MywxNzA2MjIwODA5LC0xOTAxMzk2MDg0LDE0
-MTQwMjgyMjksLTEzMzA1NzY0NTksODkzNDYzOTIyLC0xODMyMj
-U3NDg2LDQzODMxODUxMCwxNzY4MjI2ODY3LDQwODYyODU5NSwt
-NDYyODUzNjM5XX0=
+eyJoaXN0b3J5IjpbLTc3NDkzNzAxLC0zMTA1NDQ3NiwtMTE0Nj
+E4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2
+NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2LD
+E2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4NCwxNDE0
+MDI4MjI5LC0xMzMwNTc2NDU5LDg5MzQ2MzkyMiwtMTgzMjI1Nz
+Q4Niw0MzgzMTg1MTAsMTc2ODIyNjg2Nyw0MDg2Mjg1OTUsLTQ2
+Mjg1MzYzOV19
 -->
