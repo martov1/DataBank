@@ -293,7 +293,9 @@ Los capacitores en paralelo suman su capacidad como si se tratara de un solo cap
 
 $$C_t=C_1+C_2+C_3$$
 
-Ademas en paralelo, es obvio que la suma de las corrientes es la corriente tot
+Ademas en paralelo, es obvio que la suma de las corrientes es la corriente total
+
+$$I_t=I_1+I_2+I_3$$
 
 ### Capacitores en serie
 
@@ -439,7 +441,7 @@ Se trata de un circuito con un capacitor y un resistor
 ![](https://i.imgur.com/xR2LR4r.png =200x)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTkyOTQ0NSwtNDg3MTYyMzY0LC03MD
+eyJoaXN0b3J5IjpbMTc4OTczMzAzMSwtNDg3MTYyMzY0LC03MD
 I0MDc2MDUsLTIyODA3NjgyNiwtMTExNzk0NjYwNywyMDQ2Mjg5
 MzE5LDE4MjMwNjgwNzksLTExMjkzMDk3NDYsLTIwNjgwOTQyOT
 AsLTMxMDU0NDc2LC0xMTQ2MTg1NTU3LC0zNTE2MjE0MjIsLTEz
