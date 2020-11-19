@@ -293,11 +293,16 @@ Los capacitores en paralelo suman su capacidad como si se tratara de un solo cap
 
 $$C_t=C_1+C_2+C_3$$
 
+Ademas en paralelo, es obvio que la suma de las corrientes es la corriente tot
+
 ### Capacitores en serie
 
 Cada capacitor funciona como una pequeña batería, sumando su diferencia de potencial al siguiente
 
 $$V_t=V_1+V_2+V_3$$
+
+Y su capacitancia
+$C_t=\frac{C_1.C_2}{C_1+C_2}$
 
 ## Tipos
 
@@ -434,11 +439,11 @@ Se trata de un circuito con un capacitor y un resistor
 ![](https://i.imgur.com/xR2LR4r.png =200x)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzE2MjM2NCwtNzAyNDA3NjA1LC0yMj
-gwNzY4MjYsLTExMTc5NDY2MDcsMjA0NjI4OTMxOSwxODIzMDY4
-MDc5LC0xMTI5MzA5NzQ2LC0yMDY4MDk0MjkwLC0zMTA1NDQ3Ni
-wtMTE0NjE4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02
-MjIwOTA2NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MD
-EwOTE2LDE2MDA5Mzc1NDMsMTcwNjIyMDgwOSwtMTkwMTM5NjA4
-NCwxNDE0MDI4MjI5XX0=
+eyJoaXN0b3J5IjpbMTY1NTkyOTQ0NSwtNDg3MTYyMzY0LC03MD
+I0MDc2MDUsLTIyODA3NjgyNiwtMTExNzk0NjYwNywyMDQ2Mjg5
+MzE5LDE4MjMwNjgwNzksLTExMjkzMDk3NDYsLTIwNjgwOTQyOT
+AsLTMxMDU0NDc2LC0xMTQ2MTg1NTU3LC0zNTE2MjE0MjIsLTEz
+MjcwMDI4MjEsLTYyMjA5MDY1NiwtMTAwODYzNTQ0MSwxOTg2MD
+EyMzY3LC05NDgwMTA5MTYsMTYwMDkzNzU0MywxNzA2MjIwODA5
+LC0xOTAxMzk2MDg0XX0=
 -->
