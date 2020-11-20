@@ -450,6 +450,8 @@ Las magnitudes en el capacitor **durante su carga** se modelan con
 * $\large{V_{cap}(t)=V_f+(V_i-V_fe^{\frac{-t}{\tau}})}$ exponential growth function
 * Donde $\tau=R.C$ es aprox un quinto $\frac{1}{5}$ del tiempo que tardara el capacitor en llenarse, es decir se llenara el cap en $5\tau$
 
+Derivacion de esas equaciones
+
 A su vez, podemos analizar lo que sucede en el resistor $R$
 * Notamos que $I_R=I_{cap}(t)$ por que esta en serie con el capacitor y entonces pasara la misma corriente.
 *  Por ley de ohm $\large{\frac{v_{R}(t)}{R}=I_{cap}(t)}$
@@ -488,11 +490,11 @@ La linea roja es la potencia total, y es igual a la suma de las dos lineas morad
 
 ![](https://i.imgur.com/CyfeQps.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzODM3NjcxLC0xODIwNjE2MTM3LC02MD
-M3ODk0OTIsODIzNjgzMzAwLDE2NDEzMzEzNjQsLTE0MTQwODYz
-NzIsMTI1Njg2NDkzMiwtMTg5MTA2NjM4NSwtODEyOTE1NzI1LD
-IxMTQ5MzMwODYsLTE2Mzk3OTMwNjMsMTgxMTk4ODYxNywtODg4
-NjkwMDIyLDE1MzM2OTgwNjMsMTQxNDI3Mzc1NywtNTc5OTgzMj
-U1LC0zOTcyNjEyNTMsMTc4OTczMzAzMSwtNDg3MTYyMzY0LC03
-MDI0MDc2MDVdfQ==
+eyJoaXN0b3J5IjpbLTE0MzIxMDE4MTMsNjgzODM3NjcxLC0xOD
+IwNjE2MTM3LC02MDM3ODk0OTIsODIzNjgzMzAwLDE2NDEzMzEz
+NjQsLTE0MTQwODYzNzIsMTI1Njg2NDkzMiwtMTg5MTA2NjM4NS
+wtODEyOTE1NzI1LDIxMTQ5MzMwODYsLTE2Mzk3OTMwNjMsMTgx
+MTk4ODYxNywtODg4NjkwMDIyLDE1MzM2OTgwNjMsMTQxNDI3Mz
+c1NywtNTc5OTgzMjU1LC0zOTcyNjEyNTMsMTc4OTczMzAzMSwt
+NDg3MTYyMzY0XX0=
 -->
