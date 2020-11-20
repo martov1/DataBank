@@ -445,6 +445,7 @@ Las magnitudes en el capacitor **durante su carga** se modelan con
 
 * $\large{I_{cap}(t)=Ie^{\frac{-t}{\tau}}}$ general decay function
 * $\large{V_{cap}(t)=V_f+(V_i-V_fe^{\frac{-t}{\tau}})}$ exponential growth function
+* Donde $\tau=R.C$
 
 A su vez, podemos analizar lo que sucede en el resistor $R$
 * Notamos que $I_R=I_{cap}(t)$ por que esta en serie con el capacitor y entonces pasara la misma corriente.
@@ -453,11 +454,11 @@ A su vez, podemos analizar lo que sucede en el resistor $R$
 
 ![](https://i.imgur.com/FUy3unc.png =600x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDI3Mzc1NywtNTc5OTgzMjU1LC0zOT
-cyNjEyNTMsMTc4OTczMzAzMSwtNDg3MTYyMzY0LC03MDI0MDc2
-MDUsLTIyODA3NjgyNiwtMTExNzk0NjYwNywyMDQ2Mjg5MzE5LD
-E4MjMwNjgwNzksLTExMjkzMDk3NDYsLTIwNjgwOTQyOTAsLTMx
-MDU0NDc2LC0xMTQ2MTg1NTU3LC0zNTE2MjE0MjIsLTEzMjcwMD
-I4MjEsLTYyMjA5MDY1NiwtMTAwODYzNTQ0MSwxOTg2MDEyMzY3
-LC05NDgwMTA5MTZdfQ==
+eyJoaXN0b3J5IjpbMTUzMzY5ODA2MywxNDE0MjczNzU3LC01Nz
+k5ODMyNTUsLTM5NzI2MTI1MywxNzg5NzMzMDMxLC00ODcxNjIz
+NjQsLTcwMjQwNzYwNSwtMjI4MDc2ODI2LC0xMTE3OTQ2NjA3LD
+IwNDYyODkzMTksMTgyMzA2ODA3OSwtMTEyOTMwOTc0NiwtMjA2
+ODA5NDI5MCwtMzEwNTQ0NzYsLTExNDYxODU1NTcsLTM1MTYyMT
+QyMiwtMTMyNzAwMjgyMSwtNjIyMDkwNjU2LC0xMDA4NjM1NDQx
+LDE5ODYwMTIzNjddfQ==
 -->
