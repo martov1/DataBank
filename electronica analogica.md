@@ -460,13 +460,15 @@ A su vez, podemos analizar lo que sucede en el resistor $R$
 ### Aplicación
 Esto se usa para circuitos que necesitan cambios de tension lentos y no abruptos, cambiando la combinacion de $R$ y $C$ cambio $\tau$ y eso cambia la cantidad de tiempo que tarda el circuito en elevar su tension hasta la tension maxima.
 
+**los capacitores amortiguan rapidos cambios en voltaje**
+
 ### Descarga
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTEwNjYzODUsLTgxMjkxNTcyNSwyMT
-E0OTMzMDg2LC0xNjM5NzkzMDYzLDE4MTE5ODg2MTcsLTg4ODY5
-MDAyMiwxNTMzNjk4MDYzLDE0MTQyNzM3NTcsLTU3OTk4MzI1NS
-wtMzk3MjYxMjUzLDE3ODk3MzMwMzEsLTQ4NzE2MjM2NCwtNzAy
-NDA3NjA1LC0yMjgwNzY4MjYsLTExMTc5NDY2MDcsMjA0NjI4OT
-MxOSwxODIzMDY4MDc5LC0xMTI5MzA5NzQ2LC0yMDY4MDk0Mjkw
-LC0zMTA1NDQ3Nl19
+eyJoaXN0b3J5IjpbMTI1Njg2NDkzMiwtMTg5MTA2NjM4NSwtOD
+EyOTE1NzI1LDIxMTQ5MzMwODYsLTE2Mzk3OTMwNjMsMTgxMTk4
+ODYxNywtODg4NjkwMDIyLDE1MzM2OTgwNjMsMTQxNDI3Mzc1Ny
+wtNTc5OTgzMjU1LC0zOTcyNjEyNTMsMTc4OTczMzAzMSwtNDg3
+MTYyMzY0LC03MDI0MDc2MDUsLTIyODA3NjgyNiwtMTExNzk0Nj
+YwNywyMDQ2Mjg5MzE5LDE4MjMwNjgwNzksLTExMjkzMDk3NDYs
+LTIwNjgwOTQyOTBdfQ==
 -->
