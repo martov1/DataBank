@@ -476,13 +476,18 @@ A su vez ahora el resistor (en serie, no el de carga) disipa esa potencia acumul
 
 Durante la descarga
 * El **resistor disipa potencia**
-* El **c**
+* El **Capacitor absorbe energia**, que desde la perspectiva de la fuente es como si disipara potencia
+
+Durante la descarga
+* Un resistor disipa potencia
+* El capacitor provee potencia (o disipa potencia negativa, depende de como lo veas)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY4OTYsODIzNjgzMzAwLDE2NDEzMz
-EzNjQsLTE0MTQwODYzNzIsMTI1Njg2NDkzMiwtMTg5MTA2NjM4
-NSwtODEyOTE1NzI1LDIxMTQ5MzMwODYsLTE2Mzk3OTMwNjMsMT
-gxMTk4ODYxNywtODg4NjkwMDIyLDE1MzM2OTgwNjMsMTQxNDI3
-Mzc1NywtNTc5OTgzMjU1LC0zOTcyNjEyNTMsMTc4OTczMzAzMS
-wtNDg3MTYyMzY0LC03MDI0MDc2MDUsLTIyODA3NjgyNiwtMTEx
-Nzk0NjYwN119
+eyJoaXN0b3J5IjpbLTYwMzc4OTQ5Miw4MjM2ODMzMDAsMTY0MT
+MzMTM2NCwtMTQxNDA4NjM3MiwxMjU2ODY0OTMyLC0xODkxMDY2
+Mzg1LC04MTI5MTU3MjUsMjExNDkzMzA4NiwtMTYzOTc5MzA2My
+wxODExOTg4NjE3LC04ODg2OTAwMjIsMTUzMzY5ODA2MywxNDE0
+MjczNzU3LC01Nzk5ODMyNTUsLTM5NzI2MTI1MywxNzg5NzMzMD
+MxLC00ODcxNjIzNjQsLTcwMjQwNzYwNSwtMjI4MDc2ODI2LC0x
+MTE3OTQ2NjA3XX0=
 -->
