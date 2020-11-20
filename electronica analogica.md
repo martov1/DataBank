@@ -443,14 +443,14 @@ Se analiza usando una tecnica denominado **Transient analisis**, que estudia el 
 
 Las magnitudes en el capacitor **durante su carga** se modelan con
 
-$\large{I(t)=Ie^{\frac{-t}{\tau}}}$ ecuacion general de degradacion
-$\large{V(t)=V_f+(V_i-V_fe^{\frac{-t}{\tau}})}$
+$\large{I(t)=Ie^{\frac{-t}{\tau}}}$ general decay function
+$\large{V(t)=V_f+(V_i-V_fe^{\frac{-t}{\tau}})}$ exponential growth function
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTk4MzI1NSwtMzk3MjYxMjUzLDE3OD
-k3MzMwMzEsLTQ4NzE2MjM2NCwtNzAyNDA3NjA1LC0yMjgwNzY4
-MjYsLTExMTc5NDY2MDcsMjA0NjI4OTMxOSwxODIzMDY4MDc5LC
-0xMTI5MzA5NzQ2LC0yMDY4MDk0MjkwLC0zMTA1NDQ3NiwtMTE0
-NjE4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOT
-A2NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2
-LDE2MDA5Mzc1NDNdfQ==
+eyJoaXN0b3J5IjpbLTEzODQwNTg5NTAsLTU3OTk4MzI1NSwtMz
+k3MjYxMjUzLDE3ODk3MzMwMzEsLTQ4NzE2MjM2NCwtNzAyNDA3
+NjA1LC0yMjgwNzY4MjYsLTExMTc5NDY2MDcsMjA0NjI4OTMxOS
+wxODIzMDY4MDc5LC0xMTI5MzA5NzQ2LC0yMDY4MDk0MjkwLC0z
+MTA1NDQ3NiwtMTE0NjE4NTU1NywtMzUxNjIxNDIyLC0xMzI3MD
+AyODIxLC02MjIwOTA2NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2
+NywtOTQ4MDEwOTE2XX0=
 -->
