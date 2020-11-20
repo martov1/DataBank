@@ -445,8 +445,10 @@ Las magnitudes en el capacitor **durante su carga** se modelan con
 
 $\large{I(t)=Ie^{\frac{-t}{\tau}}}$ general decay function
 $\large{V(t)=V_f+(V_i-V_fe^{\frac{-t}{\tau}})}$ exponential growth function
+
+A su vez, podemos analizar usando ley de ohm lo que sucede en el resistor $R$, notamos que por el pasara la misma corriente que por el capacitor por que estan en serie, osea $I(t)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQwNTg5NTAsLTU3OTk4MzI1NSwtMz
+eyJoaXN0b3J5IjpbLTE5MjAyMjA4NDgsLTU3OTk4MzI1NSwtMz
 k3MjYxMjUzLDE3ODk3MzMwMzEsLTQ4NzE2MjM2NCwtNzAyNDA3
 NjA1LC0yMjgwNzY4MjYsLTExMTc5NDY2MDcsMjA0NjI4OTMxOS
 wxODIzMDY4MDc5LC0xMTI5MzA5NzQ2LC0yMDY4MDk0MjkwLC0z
