@@ -450,8 +450,10 @@ A su vez, podemos analizar lo que sucede en el resistor $R$
 * Notamos que $I_R=I_{cap}(t)$ por que esta en serie con el capacitor y entonces pasara la misma corriente.
 *  Por ley de ohm $\large{\frac{v_{R}(t)}{R}=I_{cap}(t)}$
 	* Entonces en el resistor $V_{R}(t)=I_{cap}(t)R$
+
+![](https://i.imgur.com/FUy3unc.png =600x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDM2NzgwNCwtNTc5OTgzMjU1LC0zOT
+eyJoaXN0b3J5IjpbMTQxNDI3Mzc1NywtNTc5OTgzMjU1LC0zOT
 cyNjEyNTMsMTc4OTczMzAzMSwtNDg3MTYyMzY0LC03MDI0MDc2
 MDUsLTIyODA3NjgyNiwtMTExNzk0NjYwNywyMDQ2Mjg5MzE5LD
 E4MjMwNjgwNzksLTExMjkzMDk3NDYsLTIwNjgwOTQyOTAsLTMx
