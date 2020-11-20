@@ -464,15 +464,20 @@ Esto se usa para circuitos que necesitan cambios de tension lentos y no abruptos
 
 ### Descarga
 
+Similar e inversamente
+* $\large{I_{cap}(t)=-Ie^{\frac{-t}{\tau}}}$ general decay function
+* $\large{V_{cap}(t)=V_f+(V_i-V_fe^{\frac{-t}{\tau}})}$ exponential growth function
+* Donde $\tau=R.C$ es aprox un quinto $\frac{1}{5}$ del tiempo que tardara el capacitor en llenarse, es decir se llenara el cap en $5\tau$
+
 ### Carga y Descarga
 
 Durante la descarga, **tanto el voltaje como la corriente bajan desde un pico hasta cero** y se disipan por un resistor en serie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzNjgzMzAwLDE2NDEzMzEzNjQsLTE0MT
-QwODYzNzIsMTI1Njg2NDkzMiwtMTg5MTA2NjM4NSwtODEyOTE1
-NzI1LDIxMTQ5MzMwODYsLTE2Mzk3OTMwNjMsMTgxMTk4ODYxNy
-wtODg4NjkwMDIyLDE1MzM2OTgwNjMsMTQxNDI3Mzc1NywtNTc5
-OTgzMjU1LC0zOTcyNjEyNTMsMTc4OTczMzAzMSwtNDg3MTYyMz
-Y0LC03MDI0MDc2MDUsLTIyODA3NjgyNiwtMTExNzk0NjYwNywy
-MDQ2Mjg5MzE5XX0=
+eyJoaXN0b3J5IjpbLTE1NzU5NTgyNTgsODIzNjgzMzAwLDE2ND
+EzMzEzNjQsLTE0MTQwODYzNzIsMTI1Njg2NDkzMiwtMTg5MTA2
+NjM4NSwtODEyOTE1NzI1LDIxMTQ5MzMwODYsLTE2Mzk3OTMwNj
+MsMTgxMTk4ODYxNywtODg4NjkwMDIyLDE1MzM2OTgwNjMsMTQx
+NDI3Mzc1NywtNTc5OTgzMjU1LC0zOTcyNjEyNTMsMTc4OTczMz
+AzMSwtNDg3MTYyMzY0LC03MDI0MDc2MDUsLTIyODA3NjgyNiwt
+MTExNzk0NjYwN119
 -->
