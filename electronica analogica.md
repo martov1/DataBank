@@ -439,13 +439,18 @@ Las equaciones quedan asi
 
 Se trata de un circuito con un capacitor y un resistor
 ![](https://i.imgur.com/xR2LR4r.png =200x)
+Se analiza usando una tecnica denominado **Transient analisis**, que estudia el circuito a lo largo del **tiempo**
 
+Las magnitudes en el capacitor durante su cse modelan con
+
+$\huge{I(t)=Ie^{\frac{-t}{\tau}}}$
+$\huge{I(t)=Ie^{\frac{-t}{\tau}}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzI2MTI1MywxNzg5NzMzMDMxLC00OD
-cxNjIzNjQsLTcwMjQwNzYwNSwtMjI4MDc2ODI2LC0xMTE3OTQ2
-NjA3LDIwNDYyODkzMTksMTgyMzA2ODA3OSwtMTEyOTMwOTc0Ni
-wtMjA2ODA5NDI5MCwtMzEwNTQ0NzYsLTExNDYxODU1NTcsLTM1
-MTYyMTQyMiwtMTMyNzAwMjgyMSwtNjIyMDkwNjU2LC0xMDA4Nj
-M1NDQxLDE5ODYwMTIzNjcsLTk0ODAxMDkxNiwxNjAwOTM3NTQz
-LDE3MDYyMjA4MDldfQ==
+eyJoaXN0b3J5IjpbNzQ4MjEwMDc4LC0zOTcyNjEyNTMsMTc4OT
+czMzAzMSwtNDg3MTYyMzY0LC03MDI0MDc2MDUsLTIyODA3Njgy
+NiwtMTExNzk0NjYwNywyMDQ2Mjg5MzE5LDE4MjMwNjgwNzksLT
+ExMjkzMDk3NDYsLTIwNjgwOTQyOTAsLTMxMDU0NDc2LC0xMTQ2
+MTg1NTU3LC0zNTE2MjE0MjIsLTEzMjcwMDI4MjEsLTYyMjA5MD
+Y1NiwtMTAwODYzNTQ0MSwxOTg2MDEyMzY3LC05NDgwMTA5MTYs
+MTYwMDkzNzU0M119
 -->
