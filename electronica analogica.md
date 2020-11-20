@@ -460,12 +460,13 @@ A su vez, podemos analizar lo que sucede en el resistor $R$
 ### Aplicacion
 Esto se usa para circuitos que necesitan cambios de tension lentos y no abruptos, cambiando la combinacion de $R$ y $C$ cambio $\tau$ y eso cambia la cantidad de tiempo que tarda el circuito en elevar su tension hasta la tension maxima.
 
+### Descarga
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDkzMzA4NiwtMTYzOTc5MzA2MywxOD
-ExOTg4NjE3LC04ODg2OTAwMjIsMTUzMzY5ODA2MywxNDE0Mjcz
-NzU3LC01Nzk5ODMyNTUsLTM5NzI2MTI1MywxNzg5NzMzMDMxLC
-00ODcxNjIzNjQsLTcwMjQwNzYwNSwtMjI4MDc2ODI2LC0xMTE3
-OTQ2NjA3LDIwNDYyODkzMTksMTgyMzA2ODA3OSwtMTEyOTMwOT
-c0NiwtMjA2ODA5NDI5MCwtMzEwNTQ0NzYsLTExNDYxODU1NTcs
-LTM1MTYyMTQyMl19
+eyJoaXN0b3J5IjpbLTgxMjkxNTcyNSwyMTE0OTMzMDg2LC0xNj
+M5NzkzMDYzLDE4MTE5ODg2MTcsLTg4ODY5MDAyMiwxNTMzNjk4
+MDYzLDE0MTQyNzM3NTcsLTU3OTk4MzI1NSwtMzk3MjYxMjUzLD
+E3ODk3MzMwMzEsLTQ4NzE2MjM2NCwtNzAyNDA3NjA1LC0yMjgw
+NzY4MjYsLTExMTc5NDY2MDcsMjA0NjI4OTMxOSwxODIzMDY4MD
+c5LC0xMTI5MzA5NzQ2LC0yMDY4MDk0MjkwLC0zMTA1NDQ3Niwt
+MTE0NjE4NTU1N119
 -->
