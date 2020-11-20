@@ -457,16 +457,16 @@ A su vez, podemos analizar lo que sucede en el resistor $R$
 * Tambien podes usar **KVL** o/y **KCL**
 
 ![](https://i.imgur.com/FUy3unc.png =600x)
-### Aplicacion
+### Aplicación
 Esto se usa para circuitos que necesitan cambios de tension lentos y no abruptos, cambiando la combinacion de $R$ y $C$ cambio $\tau$ y eso cambia la cantidad de tiempo que tarda el circuito en elevar su tension hasta la tension maxima.
 
 ### Descarga
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjkxNTcyNSwyMTE0OTMzMDg2LC0xNj
-M5NzkzMDYzLDE4MTE5ODg2MTcsLTg4ODY5MDAyMiwxNTMzNjk4
-MDYzLDE0MTQyNzM3NTcsLTU3OTk4MzI1NSwtMzk3MjYxMjUzLD
-E3ODk3MzMwMzEsLTQ4NzE2MjM2NCwtNzAyNDA3NjA1LC0yMjgw
-NzY4MjYsLTExMTc5NDY2MDcsMjA0NjI4OTMxOSwxODIzMDY4MD
-c5LC0xMTI5MzA5NzQ2LC0yMDY4MDk0MjkwLC0zMTA1NDQ3Niwt
-MTE0NjE4NTU1N119
+eyJoaXN0b3J5IjpbLTE4OTEwNjYzODUsLTgxMjkxNTcyNSwyMT
+E0OTMzMDg2LC0xNjM5NzkzMDYzLDE4MTE5ODg2MTcsLTg4ODY5
+MDAyMiwxNTMzNjk4MDYzLDE0MTQyNzM3NTcsLTU3OTk4MzI1NS
+wtMzk3MjYxMjUzLDE3ODk3MzMwMzEsLTQ4NzE2MjM2NCwtNzAy
+NDA3NjA1LC0yMjgwNzY4MjYsLTExMTc5NDY2MDcsMjA0NjI4OT
+MxOSwxODIzMDY4MDc5LC0xMTI5MzA5NzQ2LC0yMDY4MDk0Mjkw
+LC0zMTA1NDQ3Nl19
 -->
