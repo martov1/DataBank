@@ -472,7 +472,7 @@ Similarmente
 A su vez ahora el resistor (en serie, no el de carga) disipa esa potencia acumulada en el capacitor usando ese mismo voltaje $I_{cap}(t)$ y amperaje $V_{cap}(t)$
 ![](https://i.imgur.com/3Yy3x0V.png)
 
-### Potensia disipada
+### Potencia disipada
 
 Durante la descarga
 * El **resistor disipa potencia**
@@ -483,15 +483,16 @@ Durante la descarga
 * El capacitor provee potencia (o disipa potencia negativa, depende de como lo veas)
 
 ![](https://i.imgur.com/5iRtEh4.png)
-Vemos que la potencia total consumida en la carga va a ser la suma de la potencia absorbida por el capacitor y la disipada por el resistor
+Vemos que la potencia total consumida en la carga va a ser la suma de la potencia absorbida por el capacitor y la disipada por el resistor.
+La linea roja es la potencia total, y es igual a la suma de las dos lineas moradas que son la potencia disipada por el resistor y la potencia absorbida por el capacitor.
 
 ![](https://i.imgur.com/CyfeQps.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA2MTYxMzcsLTYwMzc4OTQ5Miw4Mj
-M2ODMzMDAsMTY0MTMzMTM2NCwtMTQxNDA4NjM3MiwxMjU2ODY0
-OTMyLC0xODkxMDY2Mzg1LC04MTI5MTU3MjUsMjExNDkzMzA4Ni
-wtMTYzOTc5MzA2MywxODExOTg4NjE3LC04ODg2OTAwMjIsMTUz
-MzY5ODA2MywxNDE0MjczNzU3LC01Nzk5ODMyNTUsLTM5NzI2MT
-I1MywxNzg5NzMzMDMxLC00ODcxNjIzNjQsLTcwMjQwNzYwNSwt
-MjI4MDc2ODI2XX0=
+eyJoaXN0b3J5IjpbNjgzODM3NjcxLC0xODIwNjE2MTM3LC02MD
+M3ODk0OTIsODIzNjgzMzAwLDE2NDEzMzEzNjQsLTE0MTQwODYz
+NzIsMTI1Njg2NDkzMiwtMTg5MTA2NjM4NSwtODEyOTE1NzI1LD
+IxMTQ5MzMwODYsLTE2Mzk3OTMwNjMsMTgxMTk4ODYxNywtODg4
+NjkwMDIyLDE1MzM2OTgwNjMsMTQxNDI3Mzc1NywtNTc5OTgzMj
+U1LC0zOTcyNjEyNTMsMTc4OTczMzAzMSwtNDg3MTYyMzY0LC03
+MDI0MDc2MDVdfQ==
 -->
