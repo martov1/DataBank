@@ -463,12 +463,15 @@ Esto se usa para circuitos que necesitan cambios de tension lentos y no abruptos
 **los capacitores amortiguan rapidos cambios en voltaje**
 
 ### Descarga
+
+### Carga y Descarga
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Njg2NDkzMiwtMTg5MTA2NjM4NSwtOD
-EyOTE1NzI1LDIxMTQ5MzMwODYsLTE2Mzk3OTMwNjMsMTgxMTk4
-ODYxNywtODg4NjkwMDIyLDE1MzM2OTgwNjMsMTQxNDI3Mzc1Ny
-wtNTc5OTgzMjU1LC0zOTcyNjEyNTMsMTc4OTczMzAzMSwtNDg3
-MTYyMzY0LC03MDI0MDc2MDUsLTIyODA3NjgyNiwtMTExNzk0Nj
-YwNywyMDQ2Mjg5MzE5LDE4MjMwNjgwNzksLTExMjkzMDk3NDYs
-LTIwNjgwOTQyOTBdfQ==
+eyJoaXN0b3J5IjpbLTE0MTQwODYzNzIsMTI1Njg2NDkzMiwtMT
+g5MTA2NjM4NSwtODEyOTE1NzI1LDIxMTQ5MzMwODYsLTE2Mzk3
+OTMwNjMsMTgxMTk4ODYxNywtODg4NjkwMDIyLDE1MzM2OTgwNj
+MsMTQxNDI3Mzc1NywtNTc5OTgzMjU1LC0zOTcyNjEyNTMsMTc4
+OTczMzAzMSwtNDg3MTYyMzY0LC03MDI0MDc2MDUsLTIyODA3Nj
+gyNiwtMTExNzk0NjYwNywyMDQ2Mjg5MzE5LDE4MjMwNjgwNzks
+LTExMjkzMDk3NDZdfQ==
 -->
