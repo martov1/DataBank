@@ -483,13 +483,15 @@ Durante la descarga
 * El capacitor provee potencia (o disipa potencia negativa, depende de como lo veas)
 
 ![](https://i.imgur.com/5iRtEh4.png)
-Vemos que la potencia total consumida en la carga
+Vemos que la potencia total consumida en la carga va a ser la suma de la potencia absorbida por el capacitor y la disipada por el resistor
+
+![](https://i.imgur.com/CyfeQps.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NjUyMzM0LC02MDM3ODk0OTIsODIzNj
-gzMzAwLDE2NDEzMzEzNjQsLTE0MTQwODYzNzIsMTI1Njg2NDkz
-MiwtMTg5MTA2NjM4NSwtODEyOTE1NzI1LDIxMTQ5MzMwODYsLT
-E2Mzk3OTMwNjMsMTgxMTk4ODYxNywtODg4NjkwMDIyLDE1MzM2
-OTgwNjMsMTQxNDI3Mzc1NywtNTc5OTgzMjU1LC0zOTcyNjEyNT
-MsMTc4OTczMzAzMSwtNDg3MTYyMzY0LC03MDI0MDc2MDUsLTIy
-ODA3NjgyNl19
+eyJoaXN0b3J5IjpbLTE4MjA2MTYxMzcsLTYwMzc4OTQ5Miw4Mj
+M2ODMzMDAsMTY0MTMzMTM2NCwtMTQxNDA4NjM3MiwxMjU2ODY0
+OTMyLC0xODkxMDY2Mzg1LC04MTI5MTU3MjUsMjExNDkzMzA4Ni
+wtMTYzOTc5MzA2MywxODExOTg4NjE3LC04ODg2OTAwMjIsMTUz
+MzY5ODA2MywxNDE0MjczNzU3LC01Nzk5ODMyNTUsLTM5NzI2MT
+I1MywxNzg5NzMzMDMxLC00ODcxNjIzNjQsLTcwMjQwNzYwNSwt
+MjI4MDc2ODI2XX0=
 -->
