@@ -437,6 +437,8 @@ Las equaciones quedan asi
 
 ### Circuito Resistor-Capacitor (RC) en CC
 
+[fuente](https://www.youtube.com/watch?v=IAD3OK7i-pM&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=72)
+
 Se trata de un circuito con un capacitor y un resistor
 ![](https://i.imgur.com/xR2LR4r.png =200x)
 Se analiza usando una tecnica denominado **Transient analisis**, que estudia el circuito a lo largo del **tiempo**
@@ -451,14 +453,15 @@ A su vez, podemos analizar lo que sucede en el resistor $R$
 * Notamos que $I_R=I_{cap}(t)$ por que esta en serie con el capacitor y entonces pasara la misma corriente.
 *  Por ley de ohm $\large{\frac{v_{R}(t)}{R}=I_{cap}(t)}$
 	* Entonces en el resistor $V_{R}(t)=I_{cap}(t)R$
+* Tambien podes usar **KVL** o/y **KCL**
 
 ![](https://i.imgur.com/FUy3unc.png =600x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODY5MDAyMiwxNTMzNjk4MDYzLDE0MT
-QyNzM3NTcsLTU3OTk4MzI1NSwtMzk3MjYxMjUzLDE3ODk3MzMw
-MzEsLTQ4NzE2MjM2NCwtNzAyNDA3NjA1LC0yMjgwNzY4MjYsLT
-ExMTc5NDY2MDcsMjA0NjI4OTMxOSwxODIzMDY4MDc5LC0xMTI5
-MzA5NzQ2LC0yMDY4MDk0MjkwLC0zMTA1NDQ3NiwtMTE0NjE4NT
-U1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOTA2NTYs
-LTEwMDg2MzU0NDFdfQ==
+eyJoaXN0b3J5IjpbMTgxMTk4ODYxNywtODg4NjkwMDIyLDE1Mz
+M2OTgwNjMsMTQxNDI3Mzc1NywtNTc5OTgzMjU1LC0zOTcyNjEy
+NTMsMTc4OTczMzAzMSwtNDg3MTYyMzY0LC03MDI0MDc2MDUsLT
+IyODA3NjgyNiwtMTExNzk0NjYwNywyMDQ2Mjg5MzE5LDE4MjMw
+NjgwNzksLTExMjkzMDk3NDYsLTIwNjgwOTQyOTAsLTMxMDU0ND
+c2LC0xMTQ2MTg1NTU3LC0zNTE2MjE0MjIsLTEzMjcwMDI4MjEs
+LTYyMjA5MDY1Nl19
 -->
