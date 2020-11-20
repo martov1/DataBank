@@ -469,18 +469,20 @@ Similarmente
 * $\large{V_{cap}(t)=V_i.e^{\frac{-t}{\tau}}}$ exponential growth function
 * Donde $\tau=R.C$ es aprox un quinto $\frac{1}{5}$ del tiempo que tardara el capacitor en llenarse, es decir se llenara el cap en $5\tau$
 
-A su vez ahora el resistor (en serie, no el de carga) disipa esa potencia acumulada en el capacitor usando ese mismo voltaje $v($
+A su vez ahora el resistor (en serie, no el de carga) disipa esa potencia acumulada en el capacitor usando ese mismo voltaje $I_{cap}(t)$ y amperaje $V_{cap}(t)$
 ![](https://i.imgur.com/3Yy3x0V.png)
 
-### Carga y Descarga
+### Potensia disipada
 
-Durante la descarga, **tanto el voltaje como la corriente bajan desde un pico hasta cero** y se disipan por un resistor en serie
+Durante la descarga
+* El **resistor disipa potencia**
+* El **c**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3OTE5MzA5LDgyMzY4MzMwMCwxNjQxMz
-MxMzY0LC0xNDE0MDg2MzcyLDEyNTY4NjQ5MzIsLTE4OTEwNjYz
-ODUsLTgxMjkxNTcyNSwyMTE0OTMzMDg2LC0xNjM5NzkzMDYzLD
-E4MTE5ODg2MTcsLTg4ODY5MDAyMiwxNTMzNjk4MDYzLDE0MTQy
-NzM3NTcsLTU3OTk4MzI1NSwtMzk3MjYxMjUzLDE3ODk3MzMwMz
-EsLTQ4NzE2MjM2NCwtNzAyNDA3NjA1LC0yMjgwNzY4MjYsLTEx
-MTc5NDY2MDddfQ==
+eyJoaXN0b3J5IjpbLTE2OTY4OTYsODIzNjgzMzAwLDE2NDEzMz
+EzNjQsLTE0MTQwODYzNzIsMTI1Njg2NDkzMiwtMTg5MTA2NjM4
+NSwtODEyOTE1NzI1LDIxMTQ5MzMwODYsLTE2Mzk3OTMwNjMsMT
+gxMTk4ODYxNywtODg4NjkwMDIyLDE1MzM2OTgwNjMsMTQxNDI3
+Mzc1NywtNTc5OTgzMjU1LC0zOTcyNjEyNTMsMTc4OTczMzAzMS
+wtNDg3MTYyMzY0LC03MDI0MDc2MDUsLTIyODA3NjgyNiwtMTEx
+Nzk0NjYwN119
 -->
