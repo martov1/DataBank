@@ -414,7 +414,7 @@ Son capacitores que pueden variar su capacitancia, algunos ejemplos son
 # Circuitos comunes
 
 
-### Estrella-triangulo 
+## Estrella-triangulo 
 Se trata de dos circuitos equivalentes de resistencias.
 Mas que nada se trata de una "regla" que resume esta situacion, que es muy comun.
 ![](https://i.imgur.com/2uXZCsz.png)
@@ -433,9 +433,9 @@ Se puede llegar a estas formulas
 Las equaciones quedan asi
 ![](https://i.imgur.com/i2PZg5q.png)
 
-### Wheatstone bridge - WIP
+## Wheatstone bridge - WIP
 
-### Circuito Resistor-Capacitor (RC) en CC
+## Circuito Resistor-Capacitor (RC) en CC
 
 [fuente](https://www.youtube.com/watch?v=IAD3OK7i-pM&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=72)
 
@@ -443,6 +443,7 @@ Se trata de un circuito con un capacitor y un resistor
 ![](https://i.imgur.com/xR2LR4r.png =200x)
 Se analiza usando una tecnica denominado **Transient analisis**, que estudia el circuito a lo largo del **tiempo**
 
+### Carga
 Las magnitudes en el capacitor **durante su carga** se modelan con
 
 * $\large{I_{cap}(t)=Ie^{\frac{-t}{\tau}}}$ general decay function
@@ -457,11 +458,11 @@ A su vez, podemos analizar lo que sucede en el resistor $R$
 
 ![](https://i.imgur.com/FUy3unc.png =600x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTk4ODYxNywtODg4NjkwMDIyLDE1Mz
-M2OTgwNjMsMTQxNDI3Mzc1NywtNTc5OTgzMjU1LC0zOTcyNjEy
-NTMsMTc4OTczMzAzMSwtNDg3MTYyMzY0LC03MDI0MDc2MDUsLT
-IyODA3NjgyNiwtMTExNzk0NjYwNywyMDQ2Mjg5MzE5LDE4MjMw
-NjgwNzksLTExMjkzMDk3NDYsLTIwNjgwOTQyOTAsLTMxMDU0ND
-c2LC0xMTQ2MTg1NTU3LC0zNTE2MjE0MjIsLTEzMjcwMDI4MjEs
-LTYyMjA5MDY1Nl19
+eyJoaXN0b3J5IjpbLTE2Mzk3OTMwNjMsMTgxMTk4ODYxNywtOD
+g4NjkwMDIyLDE1MzM2OTgwNjMsMTQxNDI3Mzc1NywtNTc5OTgz
+MjU1LC0zOTcyNjEyNTMsMTc4OTczMzAzMSwtNDg3MTYyMzY0LC
+03MDI0MDc2MDUsLTIyODA3NjgyNiwtMTExNzk0NjYwNywyMDQ2
+Mjg5MzE5LDE4MjMwNjgwNzksLTExMjkzMDk3NDYsLTIwNjgwOT
+QyOTAsLTMxMDU0NDc2LC0xMTQ2MTg1NTU3LC0zNTE2MjE0MjIs
+LTEzMjcwMDI4MjFdfQ==
 -->
