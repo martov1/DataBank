@@ -483,12 +483,13 @@ Durante la descarga
 * El capacitor provee potencia (o disipa potencia negativa, depende de como lo veas)
 
 ![](https://i.imgur.com/5iRtEh4.png)
+Vemos que la potencia total consumida en la carga
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDYxODAwMiwtNjAzNzg5NDkyLDgyMz
-Y4MzMwMCwxNjQxMzMxMzY0LC0xNDE0MDg2MzcyLDEyNTY4NjQ5
-MzIsLTE4OTEwNjYzODUsLTgxMjkxNTcyNSwyMTE0OTMzMDg2LC
-0xNjM5NzkzMDYzLDE4MTE5ODg2MTcsLTg4ODY5MDAyMiwxNTMz
-Njk4MDYzLDE0MTQyNzM3NTcsLTU3OTk4MzI1NSwtMzk3MjYxMj
-UzLDE3ODk3MzMwMzEsLTQ4NzE2MjM2NCwtNzAyNDA3NjA1LC0y
-MjgwNzY4MjZdfQ==
+eyJoaXN0b3J5IjpbNDQ4NjUyMzM0LC02MDM3ODk0OTIsODIzNj
+gzMzAwLDE2NDEzMzEzNjQsLTE0MTQwODYzNzIsMTI1Njg2NDkz
+MiwtMTg5MTA2NjM4NSwtODEyOTE1NzI1LDIxMTQ5MzMwODYsLT
+E2Mzk3OTMwNjMsMTgxMTk4ODYxNywtODg4NjkwMDIyLDE1MzM2
+OTgwNjMsMTQxNDI3Mzc1NywtNTc5OTgzMjU1LC0zOTcyNjEyNT
+MsMTc4OTczMzAzMSwtNDg3MTYyMzY0LC03MDI0MDc2MDUsLTIy
+ODA3NjgyNl19
 -->
