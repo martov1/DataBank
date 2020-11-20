@@ -466,13 +466,13 @@ Esto se usa para circuitos que necesitan cambios de tension lentos y no abruptos
 
 ### Carga y Descarga
 
-Durante la descarga, tanto el voltaje como la corriente bajan desde un pico hasta cero y se disipan por un resistor en serie
+Durante la descarga, **tanto el voltaje como la corriente bajan desde un pico hasta cero** y se disipan por un resistor en serie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTMzMTM2NCwtMTQxNDA4NjM3MiwxMj
-U2ODY0OTMyLC0xODkxMDY2Mzg1LC04MTI5MTU3MjUsMjExNDkz
-MzA4NiwtMTYzOTc5MzA2MywxODExOTg4NjE3LC04ODg2OTAwMj
-IsMTUzMzY5ODA2MywxNDE0MjczNzU3LC01Nzk5ODMyNTUsLTM5
-NzI2MTI1MywxNzg5NzMzMDMxLC00ODcxNjIzNjQsLTcwMjQwNz
-YwNSwtMjI4MDc2ODI2LC0xMTE3OTQ2NjA3LDIwNDYyODkzMTks
-MTgyMzA2ODA3OV19
+eyJoaXN0b3J5IjpbODIzNjgzMzAwLDE2NDEzMzEzNjQsLTE0MT
+QwODYzNzIsMTI1Njg2NDkzMiwtMTg5MTA2NjM4NSwtODEyOTE1
+NzI1LDIxMTQ5MzMwODYsLTE2Mzk3OTMwNjMsMTgxMTk4ODYxNy
+wtODg4NjkwMDIyLDE1MzM2OTgwNjMsMTQxNDI3Mzc1NywtNTc5
+OTgzMjU1LC0zOTcyNjEyNTMsMTc4OTczMzAzMSwtNDg3MTYyMz
+Y0LC03MDI0MDc2MDUsLTIyODA3NjgyNiwtMTExNzk0NjYwNywy
+MDQ2Mjg5MzE5XX0=
 -->
