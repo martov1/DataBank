@@ -443,19 +443,19 @@ Se analiza usando una tecnica denominado **Transient analisis**, que estudia el 
 
 Las magnitudes en el capacitor **durante su carga** se modelan con
 
-$\large{I(t)=Ie^{\frac{-t}{\tau}}}$ general decay function
-$\large{V(t)=V_f+(V_i-V_fe^{\frac{-t}{\tau}})}$ exponential growth function
+ $\large{I_{cap}(t)=Ie^{\frac{-t}{\tau}}}$ general decay function
+$\large{V_{cap}(t)=V_f+(V_i-V_fe^{\frac{-t}{\tau}})}$ exponential growth function
 
 A su vez, podemos analizar lo que sucede en el resistor $R$
-* Notamos que $I_R=I(t)$ por que esta en serie con el capacitor y entonces pasara la misma corriente.
-*  Ppor ley de ohm $\large{\frac{v(t)}{R}=I(t)}$
-* Entonces en el resistor $V(t)=I(t)R$$
+* Notamos que $I_R=I_{cap}(t)$ por que esta en serie con el capacitor y entonces pasara la misma corriente.
+*  Ppor ley de ohm $\large{\frac{v_{R}(t)}{R}=I_{cap}(t)}$
+	* Entonces en el resistor $V_{R}(t)=I_{cap}(t)R$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4Mzc4NjU3LC01Nzk5ODMyNTUsLTM5Nz
-I2MTI1MywxNzg5NzMzMDMxLC00ODcxNjIzNjQsLTcwMjQwNzYw
-NSwtMjI4MDc2ODI2LC0xMTE3OTQ2NjA3LDIwNDYyODkzMTksMT
-gyMzA2ODA3OSwtMTEyOTMwOTc0NiwtMjA2ODA5NDI5MCwtMzEw
-NTQ0NzYsLTExNDYxODU1NTcsLTM1MTYyMTQyMiwtMTMyNzAwMj
-gyMSwtNjIyMDkwNjU2LC0xMDA4NjM1NDQxLDE5ODYwMTIzNjcs
-LTk0ODAxMDkxNl19
+eyJoaXN0b3J5IjpbLTE0Mjg1Mjg2NDgsLTU3OTk4MzI1NSwtMz
+k3MjYxMjUzLDE3ODk3MzMwMzEsLTQ4NzE2MjM2NCwtNzAyNDA3
+NjA1LC0yMjgwNzY4MjYsLTExMTc5NDY2MDcsMjA0NjI4OTMxOS
+wxODIzMDY4MDc5LC0xMTI5MzA5NzQ2LC0yMDY4MDk0MjkwLC0z
+MTA1NDQ3NiwtMTE0NjE4NTU1NywtMzUxNjIxNDIyLC0xMzI3MD
+AyODIxLC02MjIwOTA2NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2
+NywtOTQ4MDEwOTE2XX0=
 -->
