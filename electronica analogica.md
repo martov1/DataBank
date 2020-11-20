@@ -441,16 +441,16 @@ Se trata de un circuito con un capacitor y un resistor
 ![](https://i.imgur.com/xR2LR4r.png =200x)
 Se analiza usando una tecnica denominado **Transient analisis**, que estudia el circuito a lo largo del **tiempo**
 
-Las magnitudes en el capacitor durante su cse modelan con
+Las magnitudes en el capacitor **durante su carga** se modelan con
 
-$\huge{I(t)=Ie^{\frac{-t}{\tau}}}$
-$\huge{I(t)=Ie^{\frac{-t}{\tau}}}$
+$\large{I(t)=Ie^{\frac{-t}{\tau}}}$ ecuacion general de degradacion
+$\large{V(t)=V_f+(V_i-V_fe^{\frac{-t}{\tau}})}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4MjEwMDc4LC0zOTcyNjEyNTMsMTc4OT
-czMzAzMSwtNDg3MTYyMzY0LC03MDI0MDc2MDUsLTIyODA3Njgy
-NiwtMTExNzk0NjYwNywyMDQ2Mjg5MzE5LDE4MjMwNjgwNzksLT
-ExMjkzMDk3NDYsLTIwNjgwOTQyOTAsLTMxMDU0NDc2LC0xMTQ2
-MTg1NTU3LC0zNTE2MjE0MjIsLTEzMjcwMDI4MjEsLTYyMjA5MD
-Y1NiwtMTAwODYzNTQ0MSwxOTg2MDEyMzY3LC05NDgwMTA5MTYs
-MTYwMDkzNzU0M119
+eyJoaXN0b3J5IjpbLTU3OTk4MzI1NSwtMzk3MjYxMjUzLDE3OD
+k3MzMwMzEsLTQ4NzE2MjM2NCwtNzAyNDA3NjA1LC0yMjgwNzY4
+MjYsLTExMTc5NDY2MDcsMjA0NjI4OTMxOSwxODIzMDY4MDc5LC
+0xMTI5MzA5NzQ2LC0yMDY4MDk0MjkwLC0zMTA1NDQ3NiwtMTE0
+NjE4NTU1NywtMzUxNjIxNDIyLC0xMzI3MDAyODIxLC02MjIwOT
+A2NTYsLTEwMDg2MzU0NDEsMTk4NjAxMjM2NywtOTQ4MDEwOTE2
+LDE2MDA5Mzc1NDNdfQ==
 -->
