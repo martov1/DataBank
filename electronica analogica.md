@@ -494,9 +494,9 @@ La linea roja es la potencia total, y es igual a la suma de las dos lineas morad
 
 Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar el circuito como un RC
 
-
+![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTkyMDM3NjMsNDgzNzQyODUzLDY4Mz
+eyJoaXN0b3J5IjpbLTE3MzcwNTcyMzQsNDgzNzQyODUzLDY4Mz
 gzNzY3MSwtMTgyMDYxNjEzNywtNjAzNzg5NDkyLDgyMzY4MzMw
 MCwxNjQxMzMxMzY0LC0xNDE0MDg2MzcyLDEyNTY4NjQ5MzIsLT
 E4OTEwNjYzODUsLTgxMjkxNTcyNSwyMTE0OTMzMDg2LC0xNjM5
