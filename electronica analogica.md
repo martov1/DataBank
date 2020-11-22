@@ -491,12 +491,16 @@ La linea roja es la potencia total, y es igual a la suma de las dos lineas morad
 ![](https://i.imgur.com/CyfeQps.png)
 
 ### Analisis con thevenin
+
+Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar el circuito como un RC
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzE0NDgyMSw0ODM3NDI4NTMsNjgzOD
-M3NjcxLC0xODIwNjE2MTM3LC02MDM3ODk0OTIsODIzNjgzMzAw
-LDE2NDEzMzEzNjQsLTE0MTQwODYzNzIsMTI1Njg2NDkzMiwtMT
-g5MTA2NjM4NSwtODEyOTE1NzI1LDIxMTQ5MzMwODYsLTE2Mzk3
-OTMwNjMsMTgxMTk4ODYxNywtODg4NjkwMDIyLDE1MzM2OTgwNj
-MsMTQxNDI3Mzc1NywtNTc5OTgzMjU1LC0zOTcyNjEyNTMsMTc4
-OTczMzAzMV19
+eyJoaXN0b3J5IjpbLTEyMTkyMDM3NjMsNDgzNzQyODUzLDY4Mz
+gzNzY3MSwtMTgyMDYxNjEzNywtNjAzNzg5NDkyLDgyMzY4MzMw
+MCwxNjQxMzMxMzY0LC0xNDE0MDg2MzcyLDEyNTY4NjQ5MzIsLT
+E4OTEwNjYzODUsLTgxMjkxNTcyNSwyMTE0OTMzMDg2LC0xNjM5
+NzkzMDYzLDE4MTE5ODg2MTcsLTg4ODY5MDAyMiwxNTMzNjk4MD
+YzLDE0MTQyNzM3NTcsLTU3OTk4MzI1NSwtMzk3MjYxMjUzLDE3
+ODk3MzMwMzFdfQ==
 -->
