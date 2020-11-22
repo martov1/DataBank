@@ -303,7 +303,7 @@ Cada capacitor funciona como una pequeña batería, sumando su diferencia de pot
 
 $$V_t=V_1+V_2+V_3$$
 
-Y su capacitancia
+Y su capacitancia, como si fueran resistencias en paralelo
 $C_t=\frac{C_1.C_2}{C_1+C_2}$
 
 ## Tipos
@@ -496,11 +496,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcwNTcyMzQsNDgzNzQyODUzLDY4Mz
-gzNzY3MSwtMTgyMDYxNjEzNywtNjAzNzg5NDkyLDgyMzY4MzMw
-MCwxNjQxMzMxMzY0LC0xNDE0MDg2MzcyLDEyNTY4NjQ5MzIsLT
-E4OTEwNjYzODUsLTgxMjkxNTcyNSwyMTE0OTMzMDg2LC0xNjM5
-NzkzMDYzLDE4MTE5ODg2MTcsLTg4ODY5MDAyMiwxNTMzNjk4MD
-YzLDE0MTQyNzM3NTcsLTU3OTk4MzI1NSwtMzk3MjYxMjUzLDE3
-ODk3MzMwMzFdfQ==
+eyJoaXN0b3J5IjpbLTEyODc0NzkxOSwtMTczNzA1NzIzNCw0OD
+M3NDI4NTMsNjgzODM3NjcxLC0xODIwNjE2MTM3LC02MDM3ODk0
+OTIsODIzNjgzMzAwLDE2NDEzMzEzNjQsLTE0MTQwODYzNzIsMT
+I1Njg2NDkzMiwtMTg5MTA2NjM4NSwtODEyOTE1NzI1LDIxMTQ5
+MzMwODYsLTE2Mzk3OTMwNjMsMTgxMTk4ODYxNywtODg4NjkwMD
+IyLDE1MzM2OTgwNjMsMTQxNDI3Mzc1NywtNTc5OTgzMjU1LC0z
+OTcyNjEyNTNdfQ==
 -->
