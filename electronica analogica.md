@@ -489,12 +489,14 @@ Vemos que la potencia total consumida en la carga va a ser la suma de la potenci
 La linea roja es la potencia total, y es igual a la suma de las dos lineas moradas que son la potencia disipada por el resistor y la potencia absorbida por el capacitor.
 
 ![](https://i.imgur.com/CyfeQps.png)
+
+### Analisis con thevenin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzNzQyODUzLDY4MzgzNzY3MSwtMTgyMD
-YxNjEzNywtNjAzNzg5NDkyLDgyMzY4MzMwMCwxNjQxMzMxMzY0
-LC0xNDE0MDg2MzcyLDEyNTY4NjQ5MzIsLTE4OTEwNjYzODUsLT
-gxMjkxNTcyNSwyMTE0OTMzMDg2LC0xNjM5NzkzMDYzLDE4MTE5
-ODg2MTcsLTg4ODY5MDAyMiwxNTMzNjk4MDYzLDE0MTQyNzM3NT
-csLTU3OTk4MzI1NSwtMzk3MjYxMjUzLDE3ODk3MzMwMzEsLTQ4
-NzE2MjM2NF19
+eyJoaXN0b3J5IjpbLTMwNzE0NDgyMSw0ODM3NDI4NTMsNjgzOD
+M3NjcxLC0xODIwNjE2MTM3LC02MDM3ODk0OTIsODIzNjgzMzAw
+LDE2NDEzMzEzNjQsLTE0MTQwODYzNzIsMTI1Njg2NDkzMiwtMT
+g5MTA2NjM4NSwtODEyOTE1NzI1LDIxMTQ5MzMwODYsLTE2Mzk3
+OTMwNjMsMTgxMTk4ODYxNywtODg4NjkwMDIyLDE1MzM2OTgwNj
+MsMTQxNDI3Mzc1NywtNTc5OTgzMjU1LC0zOTcyNjEyNTMsMTc4
+OTczMzAzMV19
 -->
