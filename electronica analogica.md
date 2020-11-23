@@ -481,6 +481,10 @@ $$\tau = \frac{l}{r}$$
 Inversamente a un capacitor, un inductor se comporta como un circuito abierto en $t=0$ y como un corto en $t=5\tau$
 
 ![](https://i.imgur.com/xBwKf8i.png =250x)
+### Aplicaciones
+
+Son elementos de control de corriente, nunca permiten un cambio bruzco de corriente
+
 # Circuitos comunes
 
 
@@ -566,11 +570,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLDkzMj
-Q5NDk4NiwzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2OTQx
-NzQsMTUzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLD
-UzNzk5ODM2MywtMTI4NzQ3OTE5LC0xNzM3MDU3MjM0LDQ4Mzc0
-Mjg1Myw2ODM4Mzc2NzEsLTE4MjA2MTYxMzcsLTYwMzc4OTQ5Mi
-w4MjM2ODMzMDAsMTY0MTMzMTM2NCwtMTQxNDA4NjM3MiwxMjU2
-ODY0OTMyXX0=
+eyJoaXN0b3J5IjpbMTY3MDQ3NzE3NSwtOTA1NDU5NjA1LC02NT
+I1NjMzOTIsOTMyNDk0OTg2LDM4NDE2NTI2OCwtMTU4Mjg5NDE3
+NCwtMTUzNTY5NDE3NCwxNTMzMzg0MzgyLDE4OTc5MjQ1NDYsLT
+EzOTQwNjI2NDAsNTM3OTk4MzYzLC0xMjg3NDc5MTksLTE3Mzcw
+NTcyMzQsNDgzNzQyODUzLDY4MzgzNzY3MSwtMTgyMDYxNjEzNy
+wtNjAzNzg5NDkyLDgyMzY4MzMwMCwxNjQxMzMxMzY0LC0xNDE0
+MDg2MzcyXX0=
 -->
