@@ -473,6 +473,12 @@ Usan las mismas equaciones de carga y descarga que el capacitor.
 
 $$\large{V_l(t)=V_ie^{\frac{-t}{\tau}}}$$
 $$\large{i_l(t)=i_f+(i_i-i_f)e^{\frac{-t}{\tau}}}$$
+
+A su vez
+
+$$\tau = \frac{l}{r}$$
+
+Inversamente a un capacitor, un inductor se comporta como un circuito abierto en $t=0$ y como un corto en $t_f$
 # Circuitos comunes
 
 
@@ -558,11 +564,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjU2MzM5Miw5MzI0OTQ5ODYsMzg0MT
-Y1MjY4LC0xNTgyODk0MTc0LC0xNTM1Njk0MTc0LDE1MzMzODQz
-ODIsMTg5NzkyNDU0NiwtMTM5NDA2MjY0MCw1Mzc5OTgzNjMsLT
-EyODc0NzkxOSwtMTczNzA1NzIzNCw0ODM3NDI4NTMsNjgzODM3
-NjcxLC0xODIwNjE2MTM3LC02MDM3ODk0OTIsODIzNjgzMzAwLD
-E2NDEzMzEzNjQsLTE0MTQwODYzNzIsMTI1Njg2NDkzMiwtMTg5
-MTA2NjM4NV19
+eyJoaXN0b3J5IjpbMTUyMTI2Nzc2NiwtNjUyNTYzMzkyLDkzMj
+Q5NDk4NiwzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2OTQx
+NzQsMTUzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLD
+UzNzk5ODM2MywtMTI4NzQ3OTE5LC0xNzM3MDU3MjM0LDQ4Mzc0
+Mjg1Myw2ODM4Mzc2NzEsLTE4MjA2MTYxMzcsLTYwMzc4OTQ5Mi
+w4MjM2ODMzMDAsMTY0MTMzMTM2NCwtMTQxNDA4NjM3MiwxMjU2
+ODY0OTMyXX0=
 -->
