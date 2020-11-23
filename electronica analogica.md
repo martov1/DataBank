@@ -420,11 +420,16 @@ Son capacitores que pueden variar su capacitancia, algunos ejemplos son
 	* ![](https://i.imgur.com/JMyoRea.png)
 
 # Inductores
+### Que son
 Son dispositivos que generan campos **magneticos** mediante una corriente que los atraviesa.
 * Cualquier conductor es un inductor que genera un campo a su alrededor según el **maxwell corkscrew law**
 * Si enrollas el conductor, entonces los campos se continuan entre si.
 
 ![](https://i.imgur.com/lV8XhnG.png)
+### Ley de faraday
+
+El **Voltaje** entre las terminales de un inductor es directamente proporcional a la cantidad de vueltas y a la velocidad de cambio del campo magnetico
+
 
 # Circuitos comunes
 
@@ -511,11 +516,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzkyNDU0NiwtMTM5NDA2MjY0MCw1Mz
-c5OTgzNjMsLTEyODc0NzkxOSwtMTczNzA1NzIzNCw0ODM3NDI4
-NTMsNjgzODM3NjcxLC0xODIwNjE2MTM3LC02MDM3ODk0OTIsOD
-IzNjgzMzAwLDE2NDEzMzEzNjQsLTE0MTQwODYzNzIsMTI1Njg2
-NDkzMiwtMTg5MTA2NjM4NSwtODEyOTE1NzI1LDIxMTQ5MzMwOD
-YsLTE2Mzk3OTMwNjMsMTgxMTk4ODYxNywtODg4NjkwMDIyLDE1
-MzM2OTgwNjNdfQ==
+eyJoaXN0b3J5IjpbLTExMjgzNTcyMjIsMTg5NzkyNDU0NiwtMT
+M5NDA2MjY0MCw1Mzc5OTgzNjMsLTEyODc0NzkxOSwtMTczNzA1
+NzIzNCw0ODM3NDI4NTMsNjgzODM3NjcxLC0xODIwNjE2MTM3LC
+02MDM3ODk0OTIsODIzNjgzMzAwLDE2NDEzMzEzNjQsLTE0MTQw
+ODYzNzIsMTI1Njg2NDkzMiwtMTg5MTA2NjM4NSwtODEyOTE1Nz
+I1LDIxMTQ5MzMwODYsLTE2Mzk3OTMwNjMsMTgxMTk4ODYxNywt
+ODg4NjkwMDIyXX0=
 -->
