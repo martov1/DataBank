@@ -486,6 +486,12 @@ Se puede apreciar aca como inicialmente el inductor opone una reistencia $T=0$ y
 ![](https://i.imgur.com/ud11as3.png)
 ### Descarga
 
+Inversamente, cuando se deshace el campo magnetico este mantiene brevemente un voltaje que empuja corriente a traves del inductor
+
+
+
+
+
 ### Aplicaciones
 
 Son elementos de control de corriente, nunca permiten un cambio bruzco de corriente
@@ -575,11 +581,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODk5NjI3MCwyMDUxMjkwMTg2LDExNT
-gxMTYyNTEsMTY3MDQ3NzE3NSwtOTA1NDU5NjA1LC02NTI1NjMz
-OTIsOTMyNDk0OTg2LDM4NDE2NTI2OCwtMTU4Mjg5NDE3NCwtMT
-UzNTY5NDE3NCwxNTMzMzg0MzgyLDE4OTc5MjQ1NDYsLTEzOTQw
-NjI2NDAsNTM3OTk4MzYzLC0xMjg3NDc5MTksLTE3MzcwNTcyMz
-QsNDgzNzQyODUzLDY4MzgzNzY3MSwtMTgyMDYxNjEzNywtNjAz
-Nzg5NDkyXX0=
+eyJoaXN0b3J5IjpbMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNT
+EyOTAxODYsMTE1ODExNjI1MSwxNjcwNDc3MTc1LC05MDU0NTk2
+MDUsLTY1MjU2MzM5Miw5MzI0OTQ5ODYsMzg0MTY1MjY4LC0xNT
+gyODk0MTc0LC0xNTM1Njk0MTc0LDE1MzMzODQzODIsMTg5Nzky
+NDU0NiwtMTM5NDA2MjY0MCw1Mzc5OTgzNjMsLTEyODc0NzkxOS
+wtMTczNzA1NzIzNCw0ODM3NDI4NTMsNjgzODM3NjcxLC0xODIw
+NjE2MTM3XX0=
 -->
