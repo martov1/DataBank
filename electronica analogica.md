@@ -426,6 +426,12 @@ Son dispositivos que generan campos **magneticos** mediante una corriente que lo
 * Si enrollas el conductor, entonces los campos se continuan entre si.
 
 ![](https://i.imgur.com/lV8XhnG.png)
+### El Henrry
+
+Es la unidad de inductancia
+
+$$L=\frac{V}{\}$$
+
 ### Ley de faraday - WIP
 
 El **Voltaje** entre las terminales de un inductor es directamente proporcional a la **cantidad de vueltas** y a la **velocidad de cambio del campo magnetico**
@@ -518,11 +524,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2NzUzNzEzLC0xNTM1Njk0MTc0LDE1Mz
-MzODQzODIsMTg5NzkyNDU0NiwtMTM5NDA2MjY0MCw1Mzc5OTgz
-NjMsLTEyODc0NzkxOSwtMTczNzA1NzIzNCw0ODM3NDI4NTMsNj
-gzODM3NjcxLC0xODIwNjE2MTM3LC02MDM3ODk0OTIsODIzNjgz
-MzAwLDE2NDEzMzEzNjQsLTE0MTQwODYzNzIsMTI1Njg2NDkzMi
-wtMTg5MTA2NjM4NSwtODEyOTE1NzI1LDIxMTQ5MzMwODYsLTE2
-Mzk3OTMwNjNdfQ==
+eyJoaXN0b3J5IjpbLTE4MzQ3NTg2NzYsLTE1MzU2OTQxNzQsMT
+UzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLDUzNzk5
+ODM2MywtMTI4NzQ3OTE5LC0xNzM3MDU3MjM0LDQ4Mzc0Mjg1My
+w2ODM4Mzc2NzEsLTE4MjA2MTYxMzcsLTYwMzc4OTQ5Miw4MjM2
+ODMzMDAsMTY0MTMzMTM2NCwtMTQxNDA4NjM3MiwxMjU2ODY0OT
+MyLC0xODkxMDY2Mzg1LC04MTI5MTU3MjUsMjExNDkzMzA4Niwt
+MTYzOTc5MzA2M119
 -->
