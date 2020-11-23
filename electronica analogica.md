@@ -452,8 +452,10 @@ Un inductor real tiene una cierta resistencia debido a la resistencia del cable,
 
 Se calculan como si fueran resistencias
 
-**Serie**
-$$L_t=L_1+L_2+L_3$$
+**Serie:**
+$$\boxed{L_t=L_1+L_2+L_3}$$
+
+**Paralelo:**
 
 ### Ley de faraday - WIP
 
@@ -547,11 +549,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjkxMzUwMSwzODQxNjUyNjgsLTE1OD
-I4OTQxNzQsLTE1MzU2OTQxNzQsMTUzMzM4NDM4MiwxODk3OTI0
-NTQ2LC0xMzk0MDYyNjQwLDUzNzk5ODM2MywtMTI4NzQ3OTE5LC
-0xNzM3MDU3MjM0LDQ4Mzc0Mjg1Myw2ODM4Mzc2NzEsLTE4MjA2
-MTYxMzcsLTYwMzc4OTQ5Miw4MjM2ODMzMDAsMTY0MTMzMTM2NC
-wtMTQxNDA4NjM3MiwxMjU2ODY0OTMyLC0xODkxMDY2Mzg1LC04
-MTI5MTU3MjVdfQ==
+eyJoaXN0b3J5IjpbLTE2MDMzNzE4ODEsMzg0MTY1MjY4LC0xNT
+gyODk0MTc0LC0xNTM1Njk0MTc0LDE1MzMzODQzODIsMTg5Nzky
+NDU0NiwtMTM5NDA2MjY0MCw1Mzc5OTgzNjMsLTEyODc0NzkxOS
+wtMTczNzA1NzIzNCw0ODM3NDI4NTMsNjgzODM3NjcxLC0xODIw
+NjE2MTM3LC02MDM3ODk0OTIsODIzNjgzMzAwLDE2NDEzMzEzNj
+QsLTE0MTQwODYzNzIsMTI1Njg2NDkzMiwtMTg5MTA2NjM4NSwt
+ODEyOTE1NzI1XX0=
 -->
