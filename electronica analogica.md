@@ -306,6 +306,8 @@ $$V_t=V_1+V_2+V_3$$
 Y su capacitancia, como si fueran resistencias en paralelo
 $C_t=\frac{C_1.C_2}{C_1+C_2}$
 
+Es **critico** notar que la cantidad de carga en cada capacitor en serie es la misma ($Q_1$), y a su vez 
+
 ## Tipos
 
 ### Comparacion 
@@ -496,11 +498,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODc0NzkxOSwtMTczNzA1NzIzNCw0OD
-M3NDI4NTMsNjgzODM3NjcxLC0xODIwNjE2MTM3LC02MDM3ODk0
-OTIsODIzNjgzMzAwLDE2NDEzMzEzNjQsLTE0MTQwODYzNzIsMT
-I1Njg2NDkzMiwtMTg5MTA2NjM4NSwtODEyOTE1NzI1LDIxMTQ5
-MzMwODYsLTE2Mzk3OTMwNjMsMTgxMTk4ODYxNywtODg4NjkwMD
-IyLDE1MzM2OTgwNjMsMTQxNDI3Mzc1NywtNTc5OTgzMjU1LC0z
-OTcyNjEyNTNdfQ==
+eyJoaXN0b3J5IjpbNTAxNDY4Nzk1LC0xMjg3NDc5MTksLTE3Mz
+cwNTcyMzQsNDgzNzQyODUzLDY4MzgzNzY3MSwtMTgyMDYxNjEz
+NywtNjAzNzg5NDkyLDgyMzY4MzMwMCwxNjQxMzMxMzY0LC0xND
+E0MDg2MzcyLDEyNTY4NjQ5MzIsLTE4OTEwNjYzODUsLTgxMjkx
+NTcyNSwyMTE0OTMzMDg2LC0xNjM5NzkzMDYzLDE4MTE5ODg2MT
+csLTg4ODY5MDAyMiwxNTMzNjk4MDYzLDE0MTQyNzM3NTcsLTU3
+OTk4MzI1NV19
 -->
