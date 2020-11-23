@@ -421,7 +421,10 @@ Son capacitores que pueden variar su capacitancia, algunos ejemplos son
 
 # Inductores
 Son dispositivos que generan campos **magneticos** mediante una corriente que los atraviesa.
+* Cualquier conductor es un inductor que genera un campo a su alrededor según el **maxwell corkscrew law**
+* Si enrollas el conductor, entonces los campos se continuan entre si.
 
+![](https://i.imgur.com/lV8XhnG.png)
 
 # Circuitos comunes
 
@@ -508,7 +511,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTgxNDYwOCwtMTM5NDA2MjY0MCw1Mz
+eyJoaXN0b3J5IjpbMTg5NzkyNDU0NiwtMTM5NDA2MjY0MCw1Mz
 c5OTgzNjMsLTEyODc0NzkxOSwtMTczNzA1NzIzNCw0ODM3NDI4
 NTMsNjgzODM3NjcxLC0xODIwNjE2MTM3LC02MDM3ODk0OTIsOD
 IzNjgzMzAwLDE2NDEzMzEzNjQsLTE0MTQwODYzNzIsMTI1Njg2
