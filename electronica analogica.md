@@ -467,8 +467,11 @@ El **Voltaje** entre las terminales de un inductor es directamente proporcional 
 
 ### Carga-descarga
 
-El proceso de **"carga y descarga"** es muy similar al de un capacitor, con la salvedad de que en vez de **acumular carga** estamos **acumulando campo magnetico**
+El proceso de **"carga y descarga"** es muy similar al de un capacitor, con la salvedad de que en vez de **acumular carga** estamos **acumulando campo magnético**
 
+Usan las mismas equaciones de carga y descarga que el capacitor.
+
+$$\huge{V_l(t)=V_ie^{\frac{-t}{\tau}}}$$
 
 # Circuitos comunes
 
@@ -555,11 +558,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTQyMDQ2NSw5MzI0OTQ5ODYsMzg0MT
-Y1MjY4LC0xNTgyODk0MTc0LC0xNTM1Njk0MTc0LDE1MzMzODQz
-ODIsMTg5NzkyNDU0NiwtMTM5NDA2MjY0MCw1Mzc5OTgzNjMsLT
-EyODc0NzkxOSwtMTczNzA1NzIzNCw0ODM3NDI4NTMsNjgzODM3
-NjcxLC0xODIwNjE2MTM3LC02MDM3ODk0OTIsODIzNjgzMzAwLD
-E2NDEzMzEzNjQsLTE0MTQwODYzNzIsMTI1Njg2NDkzMiwtMTg5
-MTA2NjM4NV19
+eyJoaXN0b3J5IjpbODgyNDM4NjA5LDkzMjQ5NDk4NiwzODQxNj
+UyNjgsLTE1ODI4OTQxNzQsLTE1MzU2OTQxNzQsMTUzMzM4NDM4
+MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLDUzNzk5ODM2MywtMT
+I4NzQ3OTE5LC0xNzM3MDU3MjM0LDQ4Mzc0Mjg1Myw2ODM4Mzc2
+NzEsLTE4MjA2MTYxMzcsLTYwMzc4OTQ5Miw4MjM2ODMzMDAsMT
+Y0MTMzMTM2NCwtMTQxNDA4NjM3MiwxMjU2ODY0OTMyLC0xODkx
+MDY2Mzg1XX0=
 -->
