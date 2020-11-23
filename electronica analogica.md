@@ -478,7 +478,9 @@ A su vez
 
 $$\tau = \frac{l}{r}$$
 
-Inversamente a un capacitor, un inductor se comporta como un circuito abierto en $t=0$ y como un corto en $t_f$
+Inversamente a un capacitor, un inductor se comporta como un circuito abierto en $t=0$ y como un corto en $t=5\tau$
+
+![](https://i.imgur.com/xBwKf8i.png =250x)
 # Circuitos comunes
 
 
@@ -564,7 +566,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTI2Nzc2NiwtNjUyNTYzMzkyLDkzMj
+eyJoaXN0b3J5IjpbLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLDkzMj
 Q5NDk4NiwzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2OTQx
 NzQsMTUzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLD
 UzNzk5ODM2MywtMTI4NzQ3OTE5LC0xNzM3MDU3MjM0LDQ4Mzc0
