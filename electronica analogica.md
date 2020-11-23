@@ -437,7 +437,7 @@ La inductancia de un inductr esta definida por algunas caracteristicas fisicas
 $$L=\frac{Vueltas^2.Area.M_r.M_o}{largo}$$
 Donde
 * $Vueltas$ del conductor, al estar **al cuadrado** es el parametro mas importante
-* $M_r$ es la permitividad relativa del material
+* $M_r$ es la permitividad relativa del nucleo
 * $M_o$ es la permitividad del free space (una constante)
 * $Area$ o seccion del conductor
 * $Largo$ del conductor
@@ -534,7 +534,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDQ0NjQ0NCwtMTU4Mjg5NDE3NCwtMT
+eyJoaXN0b3J5IjpbMTg1NjY0ODk5MSwtMTU4Mjg5NDE3NCwtMT
 UzNTY5NDE3NCwxNTMzMzg0MzgyLDE4OTc5MjQ1NDYsLTEzOTQw
 NjI2NDAsNTM3OTk4MzYzLC0xMjg3NDc5MTksLTE3MzcwNTcyMz
 QsNDgzNzQyODUzLDY4MzgzNzY3MSwtMTgyMDYxNjEzNywtNjAz
