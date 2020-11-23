@@ -419,6 +419,10 @@ Son capacitores que pueden variar su capacitancia, algunos ejemplos son
 	* Antiguos y se usan poco, su dielectrico es el mismo aire
 	* ![](https://i.imgur.com/JMyoRea.png)
 
+# Inductores
+Son dispositivos que generan campos **magneticos** mediante una corriente que los atraviesa.
+
+
 # Circuitos comunes
 
 
@@ -504,11 +508,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQwNjI2NDAsNTM3OTk4MzYzLC0xMj
-g3NDc5MTksLTE3MzcwNTcyMzQsNDgzNzQyODUzLDY4MzgzNzY3
-MSwtMTgyMDYxNjEzNywtNjAzNzg5NDkyLDgyMzY4MzMwMCwxNj
-QxMzMxMzY0LC0xNDE0MDg2MzcyLDEyNTY4NjQ5MzIsLTE4OTEw
-NjYzODUsLTgxMjkxNTcyNSwyMTE0OTMzMDg2LC0xNjM5NzkzMD
-YzLDE4MTE5ODg2MTcsLTg4ODY5MDAyMiwxNTMzNjk4MDYzLDE0
-MTQyNzM3NTddfQ==
+eyJoaXN0b3J5IjpbMTAxMTgxNDYwOCwtMTM5NDA2MjY0MCw1Mz
+c5OTgzNjMsLTEyODc0NzkxOSwtMTczNzA1NzIzNCw0ODM3NDI4
+NTMsNjgzODM3NjcxLC0xODIwNjE2MTM3LC02MDM3ODk0OTIsOD
+IzNjgzMzAwLDE2NDEzMzEzNjQsLTE0MTQwODYzNzIsMTI1Njg2
+NDkzMiwtMTg5MTA2NjM4NSwtODEyOTE1NzI1LDIxMTQ5MzMwOD
+YsLTE2Mzk3OTMwNjMsMTgxMTk4ODYxNywtODg4NjkwMDIyLDE1
+MzM2OTgwNjNdfQ==
 -->
