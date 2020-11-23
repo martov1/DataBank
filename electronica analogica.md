@@ -426,11 +426,11 @@ Son dispositivos que generan campos **magneticos** mediante una corriente que lo
 * Si enrollas el conductor, entonces los campos se continuan entre si.
 
 ![](https://i.imgur.com/lV8XhnG.png)
-### Ley de faraday
+### Ley de faraday - WIP
 
 El **Voltaje** entre las terminales de un inductor es directamente proporcional a la **cantidad de vueltas** y a la **velocidad de cambio del campo magnetico**
 
-
+## Ley de Lenz - WIP
 
 
 # Circuitos comunes
@@ -518,11 +518,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMz
-k0MDYyNjQwLDUzNzk5ODM2MywtMTI4NzQ3OTE5LC0xNzM3MDU3
-MjM0LDQ4Mzc0Mjg1Myw2ODM4Mzc2NzEsLTE4MjA2MTYxMzcsLT
-YwMzc4OTQ5Miw4MjM2ODMzMDAsMTY0MTMzMTM2NCwtMTQxNDA4
-NjM3MiwxMjU2ODY0OTMyLC0xODkxMDY2Mzg1LC04MTI5MTU3Mj
-UsMjExNDkzMzA4NiwtMTYzOTc5MzA2MywxODExOTg4NjE3LC04
-ODg2OTAwMjJdfQ==
+eyJoaXN0b3J5IjpbLTE1MzU2OTQxNzQsMTUzMzM4NDM4MiwxOD
+k3OTI0NTQ2LC0xMzk0MDYyNjQwLDUzNzk5ODM2MywtMTI4NzQ3
+OTE5LC0xNzM3MDU3MjM0LDQ4Mzc0Mjg1Myw2ODM4Mzc2NzEsLT
+E4MjA2MTYxMzcsLTYwMzc4OTQ5Miw4MjM2ODMzMDAsMTY0MTMz
+MTM2NCwtMTQxNDA4NjM3MiwxMjU2ODY0OTMyLC0xODkxMDY2Mz
+g1LC04MTI5MTU3MjUsMjExNDkzMzA4NiwtMTYzOTc5MzA2Mywx
+ODExOTg4NjE3XX0=
 -->
