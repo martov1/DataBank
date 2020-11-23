@@ -428,7 +428,9 @@ Son dispositivos que generan campos **magneticos** mediante una corriente que lo
 ![](https://i.imgur.com/lV8XhnG.png)
 ### Ley de faraday
 
-El **Voltaje** entre las terminales de un inductor es directamente proporcional a la cantidad de vueltas y a la velocidad de cambio del campo magnetico
+El **Voltaje** entre las terminales de un inductor es directamente proporcional a la **cantidad de vueltas** y a la **velocidad de cambio del campo magnetico**
+
+
 
 
 # Circuitos comunes
@@ -516,11 +518,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgzNTcyMjIsMTg5NzkyNDU0NiwtMT
-M5NDA2MjY0MCw1Mzc5OTgzNjMsLTEyODc0NzkxOSwtMTczNzA1
-NzIzNCw0ODM3NDI4NTMsNjgzODM3NjcxLC0xODIwNjE2MTM3LC
-02MDM3ODk0OTIsODIzNjgzMzAwLDE2NDEzMzEzNjQsLTE0MTQw
-ODYzNzIsMTI1Njg2NDkzMiwtMTg5MTA2NjM4NSwtODEyOTE1Nz
-I1LDIxMTQ5MzMwODYsLTE2Mzk3OTMwNjMsMTgxMTk4ODYxNywt
-ODg4NjkwMDIyXX0=
+eyJoaXN0b3J5IjpbMTUzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMz
+k0MDYyNjQwLDUzNzk5ODM2MywtMTI4NzQ3OTE5LC0xNzM3MDU3
+MjM0LDQ4Mzc0Mjg1Myw2ODM4Mzc2NzEsLTE4MjA2MTYxMzcsLT
+YwMzc4OTQ5Miw4MjM2ODMzMDAsMTY0MTMzMTM2NCwtMTQxNDA4
+NjM3MiwxMjU2ODY0OTMyLC0xODkxMDY2Mzg1LC04MTI5MTU3Mj
+UsMjExNDkzMzA4NiwtMTYzOTc5MzA2MywxODExOTg4NjE3LC04
+ODg2OTAwMjJdfQ==
 -->
