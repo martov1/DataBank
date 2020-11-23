@@ -438,6 +438,7 @@ $$L=\frac{Vueltas^2.Area.M_r.M_o}{largo}$$
 Donde
 * $Vueltas$ del conductor, al estar **al cuadrado** es el parametro mas importante
 * $M_r$ es la permitividad relativa del nucleo
+	* Un nucleo mas permeable (hierro) aumenta mucho mas la inductancia que un nucleo poco permeable (aire)
 * $M_o$ es la permitividad del free space (una constante)
 * $Area$ o seccion del conductor
 * $Largo$ del conductor
@@ -534,11 +535,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjY0ODk5MSwtMTU4Mjg5NDE3NCwtMT
-UzNTY5NDE3NCwxNTMzMzg0MzgyLDE4OTc5MjQ1NDYsLTEzOTQw
-NjI2NDAsNTM3OTk4MzYzLC0xMjg3NDc5MTksLTE3MzcwNTcyMz
-QsNDgzNzQyODUzLDY4MzgzNzY3MSwtMTgyMDYxNjEzNywtNjAz
-Nzg5NDkyLDgyMzY4MzMwMCwxNjQxMzMxMzY0LC0xNDE0MDg2Mz
-cyLDEyNTY4NjQ5MzIsLTE4OTEwNjYzODUsLTgxMjkxNTcyNSwy
-MTE0OTMzMDg2XX0=
+eyJoaXN0b3J5IjpbMzg0MTY1MjY4LC0xNTgyODk0MTc0LC0xNT
+M1Njk0MTc0LDE1MzMzODQzODIsMTg5NzkyNDU0NiwtMTM5NDA2
+MjY0MCw1Mzc5OTgzNjMsLTEyODc0NzkxOSwtMTczNzA1NzIzNC
+w0ODM3NDI4NTMsNjgzODM3NjcxLC0xODIwNjE2MTM3LC02MDM3
+ODk0OTIsODIzNjgzMzAwLDE2NDEzMzEzNjQsLTE0MTQwODYzNz
+IsMTI1Njg2NDkzMiwtMTg5MTA2NjM4NSwtODEyOTE1NzI1LDIx
+MTQ5MzMwODZdfQ==
 -->
