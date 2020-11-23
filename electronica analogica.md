@@ -426,7 +426,7 @@ Son dispositivos que generan campos **magneticos** mediante una corriente que lo
 * Si enrollas el conductor, entonces los campos se continuan entre si.
 
 ![](https://i.imgur.com/lV8XhnG.png)
-### El Henrry
+### El Henrrio
 
 Es la unidad de inductancia, que indica cuantos volts genera el inductor cuando la corriente **cambia** un amper por segundo
 
@@ -436,8 +436,11 @@ La inductancia de un inductr esta definida por algunas caracteristicas fisicas
 
 $$L=\frac{Vueltas^2.Area.M_r.M_o}{largo}$$
 Donde
-$M_r$ es la permitividad relativa del material
-$M_o$ es la permitividad del free space (una constante)
+* $Vueltas$ del conductor, al estar **al cuadrado** es el parametro mas importante
+* $M_r$ es la permitividad relativa del material
+* $M_o$ es la permitividad del free space (una constante)
+* $Area$ o seccion del conductor
+* $Largo$ del conductor
 
 ### Ley de faraday - WIP
 
@@ -531,11 +534,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI4OTQxNzQsLTE1MzU2OTQxNzQsMT
-UzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLDUzNzk5
-ODM2MywtMTI4NzQ3OTE5LC0xNzM3MDU3MjM0LDQ4Mzc0Mjg1My
-w2ODM4Mzc2NzEsLTE4MjA2MTYxMzcsLTYwMzc4OTQ5Miw4MjM2
-ODMzMDAsMTY0MTMzMTM2NCwtMTQxNDA4NjM3MiwxMjU2ODY0OT
-MyLC0xODkxMDY2Mzg1LC04MTI5MTU3MjUsMjExNDkzMzA4Niwt
-MTYzOTc5MzA2M119
+eyJoaXN0b3J5IjpbMTgzMDQ0NjQ0NCwtMTU4Mjg5NDE3NCwtMT
+UzNTY5NDE3NCwxNTMzMzg0MzgyLDE4OTc5MjQ1NDYsLTEzOTQw
+NjI2NDAsNTM3OTk4MzYzLC0xMjg3NDc5MTksLTE3MzcwNTcyMz
+QsNDgzNzQyODUzLDY4MzgzNzY3MSwtMTgyMDYxNjEzNywtNjAz
+Nzg5NDkyLDgyMzY4MzMwMCwxNjQxMzMxMzY0LC0xNDE0MDg2Mz
+cyLDEyNTY4NjQ5MzIsLTE4OTEwNjYzODUsLTgxMjkxNTcyNSwy
+MTE0OTMzMDg2XX0=
 -->
