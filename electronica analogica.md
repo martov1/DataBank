@@ -445,8 +445,9 @@ Donde
 
 ### El inductor real
 
-Un inductor real tiene una cierta resistencia debido a la resistencia del
+Un inductor real tiene una cierta resistencia debido a la resistencia del cable, para modelar un **inductor real** entonces usamos un **inductor ideal** en paralelo con una **resistencia**.
 
+![](https://i.imgur.com/twBMtc0.png)
 ### Ley de faraday - WIP
 
 El **Voltaje** entre las terminales de un inductor es directamente proporcional a la **cantidad de vueltas** y a la **velocidad de cambio del campo magnetico**
@@ -539,11 +540,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3ODUzODM4LDM4NDE2NTI2OCwtMTU4Mj
-g5NDE3NCwtMTUzNTY5NDE3NCwxNTMzMzg0MzgyLDE4OTc5MjQ1
-NDYsLTEzOTQwNjI2NDAsNTM3OTk4MzYzLC0xMjg3NDc5MTksLT
-E3MzcwNTcyMzQsNDgzNzQyODUzLDY4MzgzNzY3MSwtMTgyMDYx
-NjEzNywtNjAzNzg5NDkyLDgyMzY4MzMwMCwxNjQxMzMxMzY0LC
-0xNDE0MDg2MzcyLDEyNTY4NjQ5MzIsLTE4OTEwNjYzODUsLTgx
-MjkxNTcyNV19
+eyJoaXN0b3J5IjpbMTc1Mjc3NjU4NiwzODQxNjUyNjgsLTE1OD
+I4OTQxNzQsLTE1MzU2OTQxNzQsMTUzMzM4NDM4MiwxODk3OTI0
+NTQ2LC0xMzk0MDYyNjQwLDUzNzk5ODM2MywtMTI4NzQ3OTE5LC
+0xNzM3MDU3MjM0LDQ4Mzc0Mjg1Myw2ODM4Mzc2NzEsLTE4MjA2
+MTYxMzcsLTYwMzc4OTQ5Miw4MjM2ODMzMDAsMTY0MTMzMTM2NC
+wtMTQxNDA4NjM3MiwxMjU2ODY0OTMyLC0xODkxMDY2Mzg1LC04
+MTI5MTU3MjVdfQ==
 -->
