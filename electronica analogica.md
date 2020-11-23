@@ -428,9 +428,12 @@ Son dispositivos que generan campos **magneticos** mediante una corriente que lo
 ![](https://i.imgur.com/lV8XhnG.png)
 ### El Henrry
 
-Es la unidad de inductancia
+Es la unidad de inductancia, que indica cuantos volts genera el inductor cuando la corriente **cambia** un amper por segundo
 
-$$L=\frac{V}{\}$$
+$$L=\frac{V}{\Delta A}$$
+
+La 
+
 
 ### Ley de faraday - WIP
 
@@ -524,7 +527,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ3NTg2NzYsLTE1MzU2OTQxNzQsMT
+eyJoaXN0b3J5IjpbLTIwMjgyNDAyNDAsLTE1MzU2OTQxNzQsMT
 UzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLDUzNzk5
 ODM2MywtMTI4NzQ3OTE5LC0xNzM3MDU3MjM0LDQ4Mzc0Mjg1My
 w2ODM4Mzc2NzEsLTE4MjA2MTYxMzcsLTYwMzc4OTQ5Miw4MjM2
