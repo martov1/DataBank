@@ -465,7 +465,7 @@ El **Voltaje** entre las terminales de un inductor es directamente proporcional 
 
 ### Ley de Lenz - WIP
 
-### Carga-descarga
+### Carga
 
 El proceso de **"carga y descarga"** es muy similar al de un capacitor, con la salvedad de que en vez de **acumular carga** estamos **acumulando campo magnético**
 
@@ -484,6 +484,7 @@ Inversamente a un capacitor, un inductor se comporta como un circuito abierto en
 Se puede apreciar aca como inicialmente el inductor opone una reistencia $T=0$ y va cediendo a medida que se genera el campo magnetico $t=5\tau$
 
 ![](https://i.imgur.com/ud11as3.png)
+### Descarga
 
 ### Aplicaciones
 
@@ -574,11 +575,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTI5MDE4NiwxMTU4MTE2MjUxLDE2Nz
-A0NzcxNzUsLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLDkzMjQ5NDk4
-NiwzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2OTQxNzQsMT
-UzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLDUzNzk5
-ODM2MywtMTI4NzQ3OTE5LC0xNzM3MDU3MjM0LDQ4Mzc0Mjg1My
-w2ODM4Mzc2NzEsLTE4MjA2MTYxMzcsLTYwMzc4OTQ5Miw4MjM2
-ODMzMDBdfQ==
+eyJoaXN0b3J5IjpbMjEzODk5NjI3MCwyMDUxMjkwMTg2LDExNT
+gxMTYyNTEsMTY3MDQ3NzE3NSwtOTA1NDU5NjA1LC02NTI1NjMz
+OTIsOTMyNDk0OTg2LDM4NDE2NTI2OCwtMTU4Mjg5NDE3NCwtMT
+UzNTY5NDE3NCwxNTMzMzg0MzgyLDE4OTc5MjQ1NDYsLTEzOTQw
+NjI2NDAsNTM3OTk4MzYzLC0xMjg3NDc5MTksLTE3MzcwNTcyMz
+QsNDgzNzQyODUzLDY4MzgzNzY3MSwtMTgyMDYxNjEzNywtNjAz
+Nzg5NDkyXX0=
 -->
