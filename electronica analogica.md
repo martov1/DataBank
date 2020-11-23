@@ -428,11 +428,11 @@ Son dispositivos que generan campos **magneticos** mediante una corriente que lo
 ![](https://i.imgur.com/lV8XhnG.png)
 ### El Henrrio
 
-Es la unidad de inductancia, que indica cuantos volts genera el inductor cuando la corriente **cambia** un amper por segundo
+Es la unidad de inductancia, que indica cuantos volts genera el inductor cuando la corriente **cambia** un ampere por segundo
 
 $$L=\frac{V}{\Delta A}$$
 
-La inductancia de un inductr esta definida por algunas caracteristicas fisicas
+La inductancia de un inductor esta definida por algunas características físicas
 
 $$L=\frac{Vueltas^2.Area.M_r.M_o}{largo}$$
 Donde
@@ -442,6 +442,10 @@ Donde
 * $M_o$ es la permitividad del free space (una constante)
 * $Area$ o seccion del conductor
 * $Largo$ del conductor
+
+### El inductor real
+
+Un inductor real tiene una cierta resistencia debido a la resistencia del
 
 ### Ley de faraday - WIP
 
@@ -535,11 +539,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0MTY1MjY4LC0xNTgyODk0MTc0LC0xNT
-M1Njk0MTc0LDE1MzMzODQzODIsMTg5NzkyNDU0NiwtMTM5NDA2
-MjY0MCw1Mzc5OTgzNjMsLTEyODc0NzkxOSwtMTczNzA1NzIzNC
-w0ODM3NDI4NTMsNjgzODM3NjcxLC0xODIwNjE2MTM3LC02MDM3
-ODk0OTIsODIzNjgzMzAwLDE2NDEzMzEzNjQsLTE0MTQwODYzNz
-IsMTI1Njg2NDkzMiwtMTg5MTA2NjM4NSwtODEyOTE1NzI1LDIx
-MTQ5MzMwODZdfQ==
+eyJoaXN0b3J5IjpbNTE3ODUzODM4LDM4NDE2NTI2OCwtMTU4Mj
+g5NDE3NCwtMTUzNTY5NDE3NCwxNTMzMzg0MzgyLDE4OTc5MjQ1
+NDYsLTEzOTQwNjI2NDAsNTM3OTk4MzYzLC0xMjg3NDc5MTksLT
+E3MzcwNTcyMzQsNDgzNzQyODUzLDY4MzgzNzY3MSwtMTgyMDYx
+NjEzNywtNjAzNzg5NDkyLDgyMzY4MzMwMCwxNjQxMzMxMzY0LC
+0xNDE0MDg2MzcyLDEyNTY4NjQ5MzIsLTE4OTEwNjYzODUsLTgx
+MjkxNTcyNV19
 -->
