@@ -432,8 +432,12 @@ Es la unidad de inductancia, que indica cuantos volts genera el inductor cuando 
 
 $$L=\frac{V}{\Delta A}$$
 
-La 
+La inductancia de un inductr esta definida por algunas caracteristicas fisicas
 
+$$L=\frac{Vueltas^2.Area.M_r.M_o}{largo}$$
+Donde
+$M_r$ es la permitividad relativa del material
+$M_o$ es la permitividad del free space (una constante)
 
 ### Ley de faraday - WIP
 
@@ -527,7 +531,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjgyNDAyNDAsLTE1MzU2OTQxNzQsMT
+eyJoaXN0b3J5IjpbLTE1ODI4OTQxNzQsLTE1MzU2OTQxNzQsMT
 UzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLDUzNzk5
 ODM2MywtMTI4NzQ3OTE5LC0xNzM3MDU3MjM0LDQ4Mzc0Mjg1My
 w2ODM4Mzc2NzEsLTE4MjA2MTYxMzcsLTYwMzc4OTQ5Miw4MjM2
