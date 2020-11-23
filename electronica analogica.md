@@ -306,7 +306,11 @@ $$V_t=V_1+V_2+V_3$$
 Y su capacitancia, como si fueran resistencias en paralelo
 $C_t=\frac{C_1.C_2}{C_1+C_2}$
 
-Es **critico** notar que la cantidad de carga en cada capacitor en serie es la misma ($Q_1=Q_2=Q_3$), y a su vez es la misma cantidad de carga que  el circuito ve como total $Q_1=Q_2=Q_3=Q_t$. Esto **no es un error**, la cantidad de carga **no es la suma de las cargas** [fuente](https://www.youtube.com/watch?v=SplgfBEJkPk&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=78)
+Es **critico** notar que 
+* la cantidad de carga en cada capacitor en serie es la misma ($Q_1=Q_2=Q_3$)
+* A su vez es la misma cantidad de carga que  el circuito ve como total $Q_1=Q_2=Q_3=Q_t$. Esto **no es un error**, la cantidad de carga **no es la suma de las cargas**
+* Cuanto **mas chico el capacitor**, este esta mas lleno y por ende **tiene mas voltaje**
+*  [fuente](https://www.youtube.com/watch?v=SplgfBEJkPk&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=78)
 
 
 
@@ -500,11 +504,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3OTk4MzYzLC0xMjg3NDc5MTksLTE3Mz
-cwNTcyMzQsNDgzNzQyODUzLDY4MzgzNzY3MSwtMTgyMDYxNjEz
-NywtNjAzNzg5NDkyLDgyMzY4MzMwMCwxNjQxMzMxMzY0LC0xND
-E0MDg2MzcyLDEyNTY4NjQ5MzIsLTE4OTEwNjYzODUsLTgxMjkx
-NTcyNSwyMTE0OTMzMDg2LC0xNjM5NzkzMDYzLDE4MTE5ODg2MT
-csLTg4ODY5MDAyMiwxNTMzNjk4MDYzLDE0MTQyNzM3NTcsLTU3
-OTk4MzI1NV19
+eyJoaXN0b3J5IjpbLTEzOTQwNjI2NDAsNTM3OTk4MzYzLC0xMj
+g3NDc5MTksLTE3MzcwNTcyMzQsNDgzNzQyODUzLDY4MzgzNzY3
+MSwtMTgyMDYxNjEzNywtNjAzNzg5NDkyLDgyMzY4MzMwMCwxNj
+QxMzMxMzY0LC0xNDE0MDg2MzcyLDEyNTY4NjQ5MzIsLTE4OTEw
+NjYzODUsLTgxMjkxNTcyNSwyMTE0OTMzMDg2LC0xNjM5NzkzMD
+YzLDE4MTE5ODg2MTcsLTg4ODY5MDAyMiwxNTMzNjk4MDYzLDE0
+MTQyNzM3NTddfQ==
 -->
