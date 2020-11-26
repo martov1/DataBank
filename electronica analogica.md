@@ -532,7 +532,7 @@ Se analiza usando una tecnica denominado **Transient analisis**, que estudia el 
 Las magnitudes en el capacitor **durante su carga** se modelan con
 
 * $\large{I_{cap}(t)=Ie^{\frac{-t}{\tau}}}$ general decay function
-* $\large{V_{cap}(t)=V_f+(V_i-V_fe^{\frac{-t}{\tau}})}$ exponential growth function
+* $\large{V_{cap}(t)=V_f+(V_i-V_f)e^{\frac{-t}{\tau}}}$ exponential growth function
 * Donde $\tau=R.C$ es aprox un quinto $\frac{1}{5}$ del tiempo que tardara el capacitor en llenarse, es decir se llenara el cap en $5\tau$
 
 [Derivacion de esas equaciones](https://www.youtube.com/watch?v=gd7caHXKtp8)
@@ -581,11 +581,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNT
-EyOTAxODYsMTE1ODExNjI1MSwxNjcwNDc3MTc1LC05MDU0NTk2
-MDUsLTY1MjU2MzM5Miw5MzI0OTQ5ODYsMzg0MTY1MjY4LC0xNT
-gyODk0MTc0LC0xNTM1Njk0MTc0LDE1MzMzODQzODIsMTg5Nzky
-NDU0NiwtMTM5NDA2MjY0MCw1Mzc5OTgzNjMsLTEyODc0NzkxOS
-wtMTczNzA1NzIzNCw0ODM3NDI4NTMsNjgzODM3NjcxLC0xODIw
-NjE2MTM3XX0=
+eyJoaXN0b3J5IjpbLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LDIxMz
+g5OTYyNzAsMjA1MTI5MDE4NiwxMTU4MTE2MjUxLDE2NzA0Nzcx
+NzUsLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLDkzMjQ5NDk4NiwzOD
+QxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2OTQxNzQsMTUzMzM4
+NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLDUzNzk5ODM2My
+wtMTI4NzQ3OTE5LC0xNzM3MDU3MjM0LDQ4Mzc0Mjg1Myw2ODM4
+Mzc2NzFdfQ==
 -->
