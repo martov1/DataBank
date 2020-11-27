@@ -531,6 +531,7 @@ Inversamente, cuando se deshace el campo magnetico este mantiene brevemente la c
 
 ## En AC
 
+[fuente](https://www.youtube.com/watch?v=AYQgpRUtLwU&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=38)
 En AC la bobina tiene una impedancia igual a
 
 $$\Omega impedance = (w).L=(2\pi f)L$$
@@ -540,8 +541,12 @@ Es decir, cuanta **mayor frecuencia**, **mayor impedancia**
 Ademas sabemos que para la bobina
 $$\boxed{\large{i_l(t)=\frac{1}{L}\int V_l(t)dt}}$$
 
-Sabemos que en AC $V(t)=V_{pico}.sin(w)tdt$
+Sabemos que en AC 
+$V(t)=V_{pico}.sin(w)tdt$
 
+Reemplazano
+
+$$\boxed{\large{i_l(t)=\frac{1}{L}\int (V_{pico}.sin(w)tdt)dt}}$$
 
 ### Aplicaciones
 
@@ -679,11 +684,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzk2NDY4Niw4NDc2MDc4NjIsMTAwOD
-Q5NzI1MiwtMTc4MjE2MDE1NCw4NTUyMjgyMDAsMTM5MDY3NjU4
-OSwxMjg0ODgwOTQsLTE3NDYyMzI1MjAsMjA0MDc3NTQ4MCwxMj
-U2MjAwOTMyLDE3NTY4NDEwMjQsMjEzOTI3NzU4OCwtMjA0NTY1
-MzM4MCw4MjI3MzQ4NzUsLTExODUyNTIzMDEsLTQ2OTYzMzA4Mi
-wxNDE5NzA5NjM2LDIxMzg5OTYyNzAsMjA1MTI5MDE4NiwxMTU4
-MTE2MjUxXX0=
+eyJoaXN0b3J5IjpbLTIwMzcxMjY3MjIsODQ3NjA3ODYyLDEwMD
+g0OTcyNTIsLTE3ODIxNjAxNTQsODU1MjI4MjAwLDEzOTA2NzY1
+ODksMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLDIwNDA3NzU0ODAsMT
+I1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzkyNzc1ODgsLTIwNDU2
+NTMzODAsODIyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMwOD
+IsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxODYsMTE1
+ODExNjI1MV19
 -->
