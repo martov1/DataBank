@@ -510,6 +510,10 @@ Se puede apreciar aca como inicialmente el inductor opone una reistencia $T=0$ y
 
 $$\boxed{\huge{i_l(t)=\frac{1}{L}\int V_l(t)dt}}$$
 
+Si la corriente es constante, esto resuelve a (???)
+$$\boxed{\huge{i_l(t)=\frac{1}{L}i.t.V_i}}$$
+
+
 
 ### Descarga
 
@@ -655,7 +659,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDQxMzY3MywxMjg0ODgwOTQsLTE3ND
+eyJoaXN0b3J5IjpbMTMzNzU3NTM4OCwxMjg0ODgwOTQsLTE3ND
 YyMzI1MjAsMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4NDEw
 MjQsMjEzOTI3NzU4OCwtMjA0NTY1MzM4MCw4MjI3MzQ4NzUsLT
 ExODUyNTIzMDEsLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LDIxMzg5
