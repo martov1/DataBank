@@ -537,7 +537,7 @@ $$w.L=(2\pi f)L$$
 
 Es decir, cuanta **mayor frecuencia**, **mayor impedancia**
 
-
+A su vez entonces, 
 
 
 ### Aplicaciones
@@ -676,11 +676,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3NjA3ODYyLDEwMDg0OTcyNTIsLTE3OD
-IxNjAxNTQsODU1MjI4MjAwLDEzOTA2NzY1ODksMTI4NDg4MDk0
-LC0xNzQ2MjMyNTIwLDIwNDA3NzU0ODAsMTI1NjIwMDkzMiwxNz
-U2ODQxMDI0LDIxMzkyNzc1ODgsLTIwNDU2NTMzODAsODIyNzM0
-ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMwODIsMTQxOTcwOTYzNi
-wyMTM4OTk2MjcwLDIwNTEyOTAxODYsMTE1ODExNjI1MSwxNjcw
-NDc3MTc1XX0=
+eyJoaXN0b3J5IjpbLTE0NTc2NTI0MjEsODQ3NjA3ODYyLDEwMD
+g0OTcyNTIsLTE3ODIxNjAxNTQsODU1MjI4MjAwLDEzOTA2NzY1
+ODksMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLDIwNDA3NzU0ODAsMT
+I1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzkyNzc1ODgsLTIwNDU2
+NTMzODAsODIyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMwOD
+IsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxODYsMTE1
+ODExNjI1MV19
 -->
