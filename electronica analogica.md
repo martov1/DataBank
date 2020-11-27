@@ -478,6 +478,8 @@ $$\boxed{L_t=L_1+L_2+L_3}$$
 
 $$\boxed{L_t=\frac{1}{\frac{1}{L_1}+\frac{1}{L_2}+\frac{1}{L_3}}}$$
 
+
+
 ### Ley de faraday - WIP
 
 El **Voltaje** entre las terminales de un inductor es directamente proporcional a la **cantidad de vueltas** y a la **velocidad de cambio del campo magnetico**
@@ -648,11 +650,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Njg0MTAyNCwyMTM5Mjc3NTg4LC0yMD
-Q1NjUzMzgwLDgyMjczNDg3NSwtMTE4NTI1MjMwMSwtNDY5NjMz
-MDgyLDE0MTk3MDk2MzYsMjEzODk5NjI3MCwyMDUxMjkwMTg2LD
-ExNTgxMTYyNTEsMTY3MDQ3NzE3NSwtOTA1NDU5NjA1LC02NTI1
-NjMzOTIsOTMyNDk0OTg2LDM4NDE2NTI2OCwtMTU4Mjg5NDE3NC
-wtMTUzNTY5NDE3NCwxNTMzMzg0MzgyLDE4OTc5MjQ1NDYsLTEz
-OTQwNjI2NDBdfQ==
+eyJoaXN0b3J5IjpbMTI1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMz
+kyNzc1ODgsLTIwNDU2NTMzODAsODIyNzM0ODc1LC0xMTg1MjUy
+MzAxLC00Njk2MzMwODIsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLD
+IwNTEyOTAxODYsMTE1ODExNjI1MSwxNjcwNDc3MTc1LC05MDU0
+NTk2MDUsLTY1MjU2MzM5Miw5MzI0OTQ5ODYsMzg0MTY1MjY4LC
+0xNTgyODk0MTc0LC0xNTM1Njk0MTc0LDE1MzMzODQzODIsMTg5
+NzkyNDU0Nl19
 -->
