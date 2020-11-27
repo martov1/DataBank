@@ -525,9 +525,12 @@ Son bobinas con una inductancia fija, las hay de varios tipos
 * **Nucleo de aire**
 	* Baja inductancia por baja permitividad del aire
 	* Generalmente trabajan a alta frecuencia y en equipos de comunicacion
+	* ![](https://i.imgur.com/gb8EmPr.png =x50)
 * **Nucleo de hierro**
 	* Mayor inductancia por mejor permitividad del hierro
 	* Operan en bajas frecuencias, muchas veces en fuentes de alimentacion
+	* ![](https://i.imgur.com/jw7WAvy.png =x70)
+* **strong text**
 
 
 # Circuitos comunes
@@ -635,11 +638,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzE5MTg3NywyMTM5Mjc3NTg4LC0yMD
-Q1NjUzMzgwLDgyMjczNDg3NSwtMTE4NTI1MjMwMSwtNDY5NjMz
-MDgyLDE0MTk3MDk2MzYsMjEzODk5NjI3MCwyMDUxMjkwMTg2LD
-ExNTgxMTYyNTEsMTY3MDQ3NzE3NSwtOTA1NDU5NjA1LC02NTI1
-NjMzOTIsOTMyNDk0OTg2LDM4NDE2NTI2OCwtMTU4Mjg5NDE3NC
-wtMTUzNTY5NDE3NCwxNTMzMzg0MzgyLDE4OTc5MjQ1NDYsLTEz
-OTQwNjI2NDBdfQ==
+eyJoaXN0b3J5IjpbODEzNTY1NDk1LDIxMzkyNzc1ODgsLTIwND
+U2NTMzODAsODIyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMw
+ODIsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxODYsMT
+E1ODExNjI1MSwxNjcwNDc3MTc1LC05MDU0NTk2MDUsLTY1MjU2
+MzM5Miw5MzI0OTQ5ODYsMzg0MTY1MjY4LC0xNTgyODk0MTc0LC
+0xNTM1Njk0MTc0LDE1MzMzODQzODIsMTg5NzkyNDU0NiwtMTM5
+NDA2MjY0MF19
 -->
