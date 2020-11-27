@@ -465,7 +465,7 @@ El **Voltaje** entre las terminales de un inductor es directamente proporcional 
 
 ### Ley de Lenz - WIP
 
-### Carga
+### Carga a corriente variable
 
 El proceso de **"carga y descarga"** es muy similar al de un capacitor, con la salvedad de que en vez de **acumular carga** estamos **acumulando campo magnético**
 
@@ -484,6 +484,12 @@ Inversamente a un capacitor, un inductor se comporta como un circuito abierto en
 Se puede apreciar aca como inicialmente el inductor opone una reistencia $T=0$ y va cediendo a medida que se genera el campo magnetico $t=5\tau$
 
 ![](https://i.imgur.com/ud11as3.png)
+### Carga a corriente constante
+
+Si la carga del capacitor es a **corriente constante** (por que hay una **fuente de corriente**) entonces la carga obedece a
+
+$$\huge{v_c(t)=\frac{1}{c}\int}$$
+
 ### Descarga
 
 Inversamente, cuando se deshace el campo magnetico este mantiene brevemente un voltaje que empuja corriente a traves del inductor
@@ -581,11 +587,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LDIxMz
-g5OTYyNzAsMjA1MTI5MDE4NiwxMTU4MTE2MjUxLDE2NzA0Nzcx
-NzUsLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLDkzMjQ5NDk4NiwzOD
-QxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2OTQxNzQsMTUzMzM4
-NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLDUzNzk5ODM2My
-wtMTI4NzQ3OTE5LC0xNzM3MDU3MjM0LDQ4Mzc0Mjg1Myw2ODM4
-Mzc2NzFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTUwNDA1NTEsLTQ2OTYzMzA4MiwxND
+E5NzA5NjM2LDIxMzg5OTYyNzAsMjA1MTI5MDE4NiwxMTU4MTE2
+MjUxLDE2NzA0NzcxNzUsLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLD
+kzMjQ5NDk4NiwzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2
+OTQxNzQsMTUzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNj
+QwLDUzNzk5ODM2MywtMTI4NzQ3OTE5LC0xNzM3MDU3MjM0LDQ4
+Mzc0Mjg1M119
 -->
