@@ -551,7 +551,13 @@ $$\boxed{\large{i_l(t)=\frac{1}{L}\int (V_{pico}.sin(w)tdt)dt}}$$
 Acomodando
 
 
-$$\boxed{\large{i_l(t)=\frac{V_{pico}}{Lw}.sin(wt-90°)}}$$
+$$\boxed{\large{i_l(t)=\frac{V_{pico.sin(wt-90°)}}{Lw}}}$$
+
+Que implica
+$$\boxed{\large{i_l(t)=\frac{V_{pico.sin(wt-90°)}}{impedancia}}}$$
+Que implca
+$$\boxed{\large{i_l(t)=\frac{V(t)}{impedancia}}}$$
+Y eso es basicamente la deduccion de la ley de ohm en alterna!
 
 
 ### Aplicaciones
@@ -690,7 +696,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA3MjYwMjksLTIwMzcxMjY3MjIsOD
+eyJoaXN0b3J5IjpbLTEwNDE3NjU2MzIsLTIwMzcxMjY3MjIsOD
 Q3NjA3ODYyLDEwMDg0OTcyNTIsLTE3ODIxNjAxNTQsODU1MjI4
 MjAwLDEzOTA2NzY1ODksMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLD
 IwNDA3NzU0ODAsMTI1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzky
