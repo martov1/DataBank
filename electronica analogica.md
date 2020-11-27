@@ -536,7 +536,9 @@ Son bobinas con una inductancia fija, las hay de varios tipos
 
 ### Variables
 
-Son bobinas a las que se les mueve
+Son bobinas a las que se les mueve el nucleo, cambiando la inductancia, generalmente el nucleo es un tornillo que al girarlo se va metiendo en la bobina, aumentando la permitividad.
+![](https://i.imgur.com/dFvq1iq.png)
+
 
 # Circuitos comunes
 
@@ -643,11 +645,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0NTUxNDQzLDIxMzkyNzc1ODgsLTIwND
-U2NTMzODAsODIyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMw
-ODIsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxODYsMT
-E1ODExNjI1MSwxNjcwNDc3MTc1LC05MDU0NTk2MDUsLTY1MjU2
-MzM5Miw5MzI0OTQ5ODYsMzg0MTY1MjY4LC0xNTgyODk0MTc0LC
-0xNTM1Njk0MTc0LDE1MzMzODQzODIsMTg5NzkyNDU0NiwtMTM5
-NDA2MjY0MF19
+eyJoaXN0b3J5IjpbLTE5ODg1OTYzMTEsMjEzOTI3NzU4OCwtMj
+A0NTY1MzM4MCw4MjI3MzQ4NzUsLTExODUyNTIzMDEsLTQ2OTYz
+MzA4MiwxNDE5NzA5NjM2LDIxMzg5OTYyNzAsMjA1MTI5MDE4Ni
+wxMTU4MTE2MjUxLDE2NzA0NzcxNzUsLTkwNTQ1OTYwNSwtNjUy
+NTYzMzkyLDkzMjQ5NDk4NiwzODQxNjUyNjgsLTE1ODI4OTQxNz
+QsLTE1MzU2OTQxNzQsMTUzMzM4NDM4MiwxODk3OTI0NTQ2LC0x
+Mzk0MDYyNjQwXX0=
 -->
