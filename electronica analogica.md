@@ -425,6 +425,9 @@ Son capacitores que pueden variar su capacitancia, algunos ejemplos son
 	* ![](https://i.imgur.com/JMyoRea.png)
 
 # Inductores
+
+
+## Calculo
 ### Que son
 Son dispositivos que generan campos **magneticos** mediante una corriente que los atraviesa.
 * Cualquier conductor es un inductor que genera un campo a su alrededor según el **maxwell corkscrew law**
@@ -512,6 +515,13 @@ Inversamente, cuando se deshace el campo magnetico este mantiene brevemente un v
 ### Aplicaciones
 
 Son elementos de control de corriente, nunca permiten un cambio bruzco de corriente
+
+## Tipos
+
+### Fijas
+
+Son bobinas con una inductancia fija, l
+
 
 # Circuitos comunes
 
@@ -618,11 +628,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTI3NzU4OCwtMjA0NTY1MzM4MCw4Mj
-I3MzQ4NzUsLTExODUyNTIzMDEsLTQ2OTYzMzA4MiwxNDE5NzA5
-NjM2LDIxMzg5OTYyNzAsMjA1MTI5MDE4NiwxMTU4MTE2MjUxLD
-E2NzA0NzcxNzUsLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLDkzMjQ5
-NDk4NiwzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2OTQxNz
-QsMTUzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLDUz
-Nzk5ODM2M119
+eyJoaXN0b3J5IjpbLTcxMDc1MTMzOSwyMTM5Mjc3NTg4LC0yMD
+Q1NjUzMzgwLDgyMjczNDg3NSwtMTE4NTI1MjMwMSwtNDY5NjMz
+MDgyLDE0MTk3MDk2MzYsMjEzODk5NjI3MCwyMDUxMjkwMTg2LD
+ExNTgxMTYyNTEsMTY3MDQ3NzE3NSwtOTA1NDU5NjA1LC02NTI1
+NjMzOTIsOTMyNDk0OTg2LDM4NDE2NTI2OCwtMTU4Mjg5NDE3NC
+wtMTUzNTY5NDE3NCwxNTMzMzg0MzgyLDE4OTc5MjQ1NDYsLTEz
+OTQwNjI2NDBdfQ==
 -->
