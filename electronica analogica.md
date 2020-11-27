@@ -530,8 +530,13 @@ Son bobinas con una inductancia fija, las hay de varios tipos
 	* Mayor inductancia por mejor permitividad del hierro
 	* Operan en bajas frecuencias, muchas veces en fuentes de alimentacion
 	* ![](https://i.imgur.com/jw7WAvy.png =x70)
-* **strong text**
+* **Nucleo de ferrita**
+	* Mayor inductancia y menor tamaño que las de hierro
+	* ![](https://i.imgur.com/j9LtS4J.png =x70)
 
+### Variables
+
+Son bobinas a las que se les mueve
 
 # Circuitos comunes
 
@@ -638,7 +643,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzNTY1NDk1LDIxMzkyNzc1ODgsLTIwND
+eyJoaXN0b3J5IjpbMjk0NTUxNDQzLDIxMzkyNzc1ODgsLTIwND
 U2NTMzODAsODIyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMw
 ODIsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxODYsMT
 E1ODExNjI1MSwxNjcwNDc3MTc1LC05MDU0NTk2MDUsLTY1MjU2
