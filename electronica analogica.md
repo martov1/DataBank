@@ -540,7 +540,7 @@ Es decir, cuanta **mayor frecuencia**, **mayor impedancia**
 Ademas sabemos que para la bobina
 $$\boxed{\large{i_l(t)=\frac{1}{L}\int V_l(t)dt}}$$
 
-A su vez entonces, $$
+Sabemos que en AC $V(t)=V_{pico}.sin(w)tdt$
 
 
 ### Aplicaciones
@@ -679,7 +679,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTgxMzAzOSw4NDc2MDc4NjIsMTAwOD
+eyJoaXN0b3J5IjpbLTkwNzk2NDY4Niw4NDc2MDc4NjIsMTAwOD
 Q5NzI1MiwtMTc4MjE2MDE1NCw4NTUyMjgyMDAsMTM5MDY3NjU4
 OSwxMjg0ODgwOTQsLTE3NDYyMzI1MjAsMjA0MDc3NTQ4MCwxMj
 U2MjAwOTMyLDE3NTY4NDEwMjQsMjEzOTI3NzU4OCwtMjA0NTY1
