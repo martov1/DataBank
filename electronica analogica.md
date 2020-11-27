@@ -551,7 +551,7 @@ $$\boxed{\large{i_l(t)=\frac{1}{L}\int (V_{pico}.sin(w)tdt)dt}}$$
 Acomodando
 
 
-$$\boxed{\large{i_l(t)=\frac{V_{pico}{L}}$$
+$$\boxed{\large{i_l(t)=\frac{V_{pico}}{Lw}.sin(w)tdt)dt}}$$
 
 
 ### Aplicaciones
@@ -690,11 +690,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDYzODAwNiwtMjAzNzEyNjcyMiw4ND
-c2MDc4NjIsMTAwODQ5NzI1MiwtMTc4MjE2MDE1NCw4NTUyMjgy
-MDAsMTM5MDY3NjU4OSwxMjg0ODgwOTQsLTE3NDYyMzI1MjAsMj
-A0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4NDEwMjQsMjEzOTI3
-NzU4OCwtMjA0NTY1MzM4MCw4MjI3MzQ4NzUsLTExODUyNTIzMD
-EsLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LDIxMzg5OTYyNzAsMjA1
-MTI5MDE4Nl19
+eyJoaXN0b3J5IjpbMjM0MDcyMzc0LC0yMDM3MTI2NzIyLDg0Nz
+YwNzg2MiwxMDA4NDk3MjUyLC0xNzgyMTYwMTU0LDg1NTIyODIw
+MCwxMzkwNjc2NTg5LDEyODQ4ODA5NCwtMTc0NjIzMjUyMCwyMD
+QwNzc1NDgwLDEyNTYyMDA5MzIsMTc1Njg0MTAyNCwyMTM5Mjc3
+NTg4LC0yMDQ1NjUzMzgwLDgyMjczNDg3NSwtMTE4NTI1MjMwMS
+wtNDY5NjMzMDgyLDE0MTk3MDk2MzYsMjEzODk5NjI3MCwyMDUx
+MjkwMTg2XX0=
 -->
