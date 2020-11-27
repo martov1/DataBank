@@ -508,11 +508,18 @@ Se puede apreciar aca como inicialmente el inductor opone una reistencia $T=0$ y
 ![](https://i.imgur.com/ud11as3.png)
 ### Carga a tension constante
 [Fuente](https://www.youtube.com/watch?v=ZcSSSi6go7c&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=37)
+
+Desde la definicion
+$$L=\frac{V}{\Delta A}=\frac{V}{i(t)dt}$$
+
+Se desprende que
+
+
 $$\boxed{\huge{i_l(t)=\frac{1}{L}\int V_l(t)dt}}$$
 
 Si la corriente es constante, esto resuelve a (???)
 $$\boxed{\huge{i_l(t)=\frac{1}{L}V_l.t+I_i}}$$
-
+lo cual resulta en un cambio de corriente **lineal** y **NO EXPONENCIAL**
 
 
 ### Descarga
@@ -659,11 +666,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1MjI4MjAwLDEzOTA2NzY1ODksMTI4ND
-g4MDk0LC0xNzQ2MjMyNTIwLDIwNDA3NzU0ODAsMTI1NjIwMDkz
-MiwxNzU2ODQxMDI0LDIxMzkyNzc1ODgsLTIwNDU2NTMzODAsOD
-IyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMwODIsMTQxOTcw
-OTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxODYsMTE1ODExNjI1MS
-wxNjcwNDc3MTc1LC05MDU0NTk2MDUsLTY1MjU2MzM5Miw5MzI0
-OTQ5ODZdfQ==
+eyJoaXN0b3J5IjpbLTE3ODIxNjAxNTQsODU1MjI4MjAwLDEzOT
+A2NzY1ODksMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLDIwNDA3NzU0
+ODAsMTI1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzkyNzc1ODgsLT
+IwNDU2NTMzODAsODIyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2
+MzMwODIsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxOD
+YsMTE1ODExNjI1MSwxNjcwNDc3MTc1LC05MDU0NTk2MDUsLTY1
+MjU2MzM5Ml19
 -->
