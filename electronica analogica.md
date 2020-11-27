@@ -317,7 +317,7 @@ Es **critico** notar que
 * Cuanto **mas chico el capacitor**, este esta mas lleno y por ende **tiene mas voltaje**
 
 ## En AC
-
+[fuente](https://www.youtube.com/watch?v=17Fk2MN9c_Q&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=39)
 Forma una impedancia que se calcula como
 $$\Omega impedance = \frac{1}{(w).L}=\frac{1}{(2\pi f)L}$$
 
@@ -701,11 +701,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2NDM3OTAxLC0yMDM3MTI2NzIyLDg0Nz
-YwNzg2MiwxMDA4NDk3MjUyLC0xNzgyMTYwMTU0LDg1NTIyODIw
-MCwxMzkwNjc2NTg5LDEyODQ4ODA5NCwtMTc0NjIzMjUyMCwyMD
-QwNzc1NDgwLDEyNTYyMDA5MzIsMTc1Njg0MTAyNCwyMTM5Mjc3
-NTg4LC0yMDQ1NjUzMzgwLDgyMjczNDg3NSwtMTE4NTI1MjMwMS
-wtNDY5NjMzMDgyLDE0MTk3MDk2MzYsMjEzODk5NjI3MCwyMDUx
-MjkwMTg2XX0=
+eyJoaXN0b3J5IjpbLTExMTQ3MDM0MzUsLTIwMzcxMjY3MjIsOD
+Q3NjA3ODYyLDEwMDg0OTcyNTIsLTE3ODIxNjAxNTQsODU1MjI4
+MjAwLDEzOTA2NzY1ODksMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLD
+IwNDA3NzU0ODAsMTI1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzky
+Nzc1ODgsLTIwNDU2NTMzODAsODIyNzM0ODc1LC0xMTg1MjUyMz
+AxLC00Njk2MzMwODIsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIw
+NTEyOTAxODZdfQ==
 -->
