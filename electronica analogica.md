@@ -435,7 +435,7 @@ Son dispositivos que generan campos **magneticos** mediante una corriente que lo
 
 Es la unidad de inductancia, que indica cuantos volts genera el inductor cuando la corriente **cambia** un ampere por segundo
 
-$$L=\frac{V}{\Delta A}$$
+$$L=\frac{V}{\Delta A}=\frac{V}{i(t)dt}$$
 
 Tambien es la relacion entre el flujo magnetico creado ($ø$) y la corriente $i$
 
@@ -611,7 +611,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2MTIyODk3LC0yMDQ1NjUzMzgwLDgyMj
+eyJoaXN0b3J5IjpbLTcxODcwMjM0LC0yMDQ1NjUzMzgwLDgyMj
 czNDg3NSwtMTE4NTI1MjMwMSwtNDY5NjMzMDgyLDE0MTk3MDk2
 MzYsMjEzODk5NjI3MCwyMDUxMjkwMTg2LDExNTgxMTYyNTEsMT
 Y3MDQ3NzE3NSwtOTA1NDU5NjA1LC02NTI1NjMzOTIsOTMyNDk0
