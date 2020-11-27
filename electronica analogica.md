@@ -533,11 +533,11 @@ Inversamente, cuando se deshace el campo magnetico este mantiene brevemente la c
 
 En AC la bobina tiene una impedancia igual a
 
-$$w.L=(2\pi f)L$$
+$$\Omega impedance = (w).L=(2\pi f)L$$
 
 Es decir, cuanta **mayor frecuencia**, **mayor impedancia**
 
-A su vez entonces, 
+A su vez entonces, $$
 
 
 ### Aplicaciones
@@ -676,11 +676,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc2NTI0MjEsODQ3NjA3ODYyLDEwMD
-g0OTcyNTIsLTE3ODIxNjAxNTQsODU1MjI4MjAwLDEzOTA2NzY1
-ODksMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLDIwNDA3NzU0ODAsMT
-I1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzkyNzc1ODgsLTIwNDU2
-NTMzODAsODIyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMwOD
-IsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxODYsMTE1
-ODExNjI1MV19
+eyJoaXN0b3J5IjpbMzEyOTQyMTQ0LDg0NzYwNzg2MiwxMDA4ND
+k3MjUyLC0xNzgyMTYwMTU0LDg1NTIyODIwMCwxMzkwNjc2NTg5
+LDEyODQ4ODA5NCwtMTc0NjIzMjUyMCwyMDQwNzc1NDgwLDEyNT
+YyMDA5MzIsMTc1Njg0MTAyNCwyMTM5Mjc3NTg4LC0yMDQ1NjUz
+MzgwLDgyMjczNDg3NSwtMTE4NTI1MjMwMSwtNDY5NjMzMDgyLD
+E0MTk3MDk2MzYsMjEzODk5NjI3MCwyMDUxMjkwMTg2LDExNTgx
+MTYyNTFdfQ==
 -->
