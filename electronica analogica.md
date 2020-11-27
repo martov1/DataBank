@@ -498,6 +498,7 @@ $$\large{i_l(t)=i_f+(i_i-i_f)e^{\frac{-t}{\tau}}}$$
 A su vez
 
 $$\tau = \frac{l}{r}$$
+>Notamos que a diferencia del capacitor, la bobina se **descarga o carga mas rapido cuanto mayor resistencia** ya que $\tau$ sera menor
 
 Inversamente a un capacitor, un inductor se comporta como un circuito abierto en $t=0$ y como un corto en $t=5\tau$
 
@@ -650,11 +651,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMz
-kyNzc1ODgsLTIwNDU2NTMzODAsODIyNzM0ODc1LC0xMTg1MjUy
-MzAxLC00Njk2MzMwODIsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLD
-IwNTEyOTAxODYsMTE1ODExNjI1MSwxNjcwNDc3MTc1LC05MDU0
-NTk2MDUsLTY1MjU2MzM5Miw5MzI0OTQ5ODYsMzg0MTY1MjY4LC
-0xNTgyODk0MTc0LC0xNTM1Njk0MTc0LDE1MzMzODQzODIsMTg5
-NzkyNDU0Nl19
+eyJoaXN0b3J5IjpbMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NT
+Y4NDEwMjQsMjEzOTI3NzU4OCwtMjA0NTY1MzM4MCw4MjI3MzQ4
+NzUsLTExODUyNTIzMDEsLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LD
+IxMzg5OTYyNzAsMjA1MTI5MDE4NiwxMTU4MTE2MjUxLDE2NzA0
+NzcxNzUsLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLDkzMjQ5NDk4Ni
+wzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2OTQxNzQsMTUz
+MzM4NDM4Ml19
 -->
