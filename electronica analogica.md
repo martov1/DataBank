@@ -437,8 +437,8 @@ Es la unidad de inductancia, que indica cuantos volts genera el inductor cuando 
 
 $$L=\frac{V}{\Delta A}=\frac{V}{i(t)dt}$$
 
-$\boxed{\text{Osea que una bobina de un webber hacer aparecer
- un volt si la corriente que la atraviesa camia un amper por segundo}}$Osea que una 
+>Osea que una bobina de **1 webber** hacer aparecer
+ **1 volt** si la corriente que la atraviesa cambia **1 amper** por segundo
 
 Tambien es la relacion entre el flujo magnetico creado ($ø$) y la corriente $i$
 
@@ -460,6 +460,10 @@ Donde
 Un inductor real tiene una cierta resistencia debido a la resistencia del cable, para modelar un **inductor real** entonces usamos un **inductor ideal** en paralelo con una **resistencia**.
 
 ![](https://i.imgur.com/twBMtc0.png)
+### Energia almacenada por una bobina
+
+$E(t)=\frac$
+
 ### Inductores en serie y paralelo
 
 Se calculan como si fueran resistencias
@@ -614,11 +618,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTMzODk3MCwtMjA0NTY1MzM4MCw4Mj
-I3MzQ4NzUsLTExODUyNTIzMDEsLTQ2OTYzMzA4MiwxNDE5NzA5
-NjM2LDIxMzg5OTYyNzAsMjA1MTI5MDE4NiwxMTU4MTE2MjUxLD
-E2NzA0NzcxNzUsLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLDkzMjQ5
-NDk4NiwzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2OTQxNz
-QsMTUzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLDUz
-Nzk5ODM2M119
+eyJoaXN0b3J5IjpbLTIwNzA4MTEyMjQsLTIwNDU2NTMzODAsOD
+IyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMwODIsMTQxOTcw
+OTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxODYsMTE1ODExNjI1MS
+wxNjcwNDc3MTc1LC05MDU0NTk2MDUsLTY1MjU2MzM5Miw5MzI0
+OTQ5ODYsMzg0MTY1MjY4LC0xNTgyODk0MTc0LC0xNTM1Njk0MT
+c0LDE1MzMzODQzODIsMTg5NzkyNDU0NiwtMTM5NDA2MjY0MCw1
+Mzc5OTgzNjNdfQ==
 -->
