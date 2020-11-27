@@ -506,7 +506,7 @@ Inversamente a un capacitor, un inductor se comporta como un circuito abierto en
 Se puede apreciar aca como inicialmente el inductor opone una reistencia $T=0$ y va cediendo a medida que se genera el campo magnetico $t=5\tau$
 
 ![](https://i.imgur.com/ud11as3.png)
-### Carga a corriente constante
+### Carga a tension constante
 [Fuente](https://www.youtube.com/watch?v=ZcSSSi6go7c&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=37)
 $$\boxed{\huge{i_l(t)=\frac{1}{L}\int V_l(t)dt}}$$
 
@@ -659,11 +659,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDY3NjU4OSwxMjg0ODgwOTQsLTE3ND
-YyMzI1MjAsMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4NDEw
-MjQsMjEzOTI3NzU4OCwtMjA0NTY1MzM4MCw4MjI3MzQ4NzUsLT
-ExODUyNTIzMDEsLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LDIxMzg5
-OTYyNzAsMjA1MTI5MDE4NiwxMTU4MTE2MjUxLDE2NzA0NzcxNz
-UsLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLDkzMjQ5NDk4NiwzODQx
-NjUyNjhdfQ==
+eyJoaXN0b3J5IjpbODU1MjI4MjAwLDEzOTA2NzY1ODksMTI4ND
+g4MDk0LC0xNzQ2MjMyNTIwLDIwNDA3NzU0ODAsMTI1NjIwMDkz
+MiwxNzU2ODQxMDI0LDIxMzkyNzc1ODgsLTIwNDU2NTMzODAsOD
+IyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMwODIsMTQxOTcw
+OTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxODYsMTE1ODExNjI1MS
+wxNjcwNDc3MTc1LC05MDU0NTk2MDUsLTY1MjU2MzM5Miw5MzI0
+OTQ5ODZdfQ==
 -->
