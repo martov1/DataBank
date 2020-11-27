@@ -555,9 +555,6 @@ Esto se usa para circuitos que necesitan cambios de tension lentos y no abruptos
 Si la carga del capacitor es a **corriente constante** (por que hay una **fuente de corriente**) entonces la carga obedece a
 
 $$\boxed{\huge{v_c(t)=\frac{1}{c}\int i_c(t)dt}}$$
-
-Si la corriente es constante, esto resuelve a (???)
-$$\boxed{\huge{v_c(t)=\frac{1}{c}i.t.V_0}}$$
 Que tiene todo el sentido del mundo, por que es la suma de las cargas que se van depositando en el capacitor, osea la carga total en el capacitor, sobre la capacitancia. Osea obedece a 
 
 $Q=C.V$
@@ -566,6 +563,12 @@ $V=\frac{1}{C}Q$
 que es lo mismo que
 $V=\frac{1}{C}\int i_c(t)dt$
 ya que la carga total $Q$ es la suma de la corriente a lo largo del tiempo
+
+
+
+Si la corriente es constante, esto resuelve a (???)
+$$\boxed{\huge{v_c(t)=\frac{1}{c}i.t.V_i}}$$
+
 
 ### Descarga
 
@@ -599,11 +602,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjYzNTQ3OCwtMTE4NTI1MjMwMSwtND
-Y5NjMzMDgyLDE0MTk3MDk2MzYsMjEzODk5NjI3MCwyMDUxMjkw
-MTg2LDExNTgxMTYyNTEsMTY3MDQ3NzE3NSwtOTA1NDU5NjA1LC
-02NTI1NjMzOTIsOTMyNDk0OTg2LDM4NDE2NTI2OCwtMTU4Mjg5
-NDE3NCwtMTUzNTY5NDE3NCwxNTMzMzg0MzgyLDE4OTc5MjQ1ND
-YsLTEzOTQwNjI2NDAsNTM3OTk4MzYzLC0xMjg3NDc5MTksLTE3
-MzcwNTcyMzRdfQ==
+eyJoaXN0b3J5IjpbODIyNzM0ODc1LC0xMTg1MjUyMzAxLC00Nj
+k2MzMwODIsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAx
+ODYsMTE1ODExNjI1MSwxNjcwNDc3MTc1LC05MDU0NTk2MDUsLT
+Y1MjU2MzM5Miw5MzI0OTQ5ODYsMzg0MTY1MjY4LC0xNTgyODk0
+MTc0LC0xNTM1Njk0MTc0LDE1MzMzODQzODIsMTg5NzkyNDU0Ni
+wtMTM5NDA2MjY0MCw1Mzc5OTgzNjMsLTEyODc0NzkxOSwtMTcz
+NzA1NzIzNF19
 -->
