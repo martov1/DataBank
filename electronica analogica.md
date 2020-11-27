@@ -484,11 +484,6 @@ Inversamente a un capacitor, un inductor se comporta como un circuito abierto en
 Se puede apreciar aca como inicialmente el inductor opone una reistencia $T=0$ y va cediendo a medida que se genera el campo magnetico $t=5\tau$
 
 ![](https://i.imgur.com/ud11as3.png)
-### Carga a corriente constante
-
-Si la carga del capacitor es a **corriente constante** (por que hay una **fuente de corriente**) entonces la carga obedece a
-
-$$\huge{v_c(t)=\frac{1}{c}\int}$$
 
 ### Descarga
 
@@ -555,6 +550,15 @@ Esto se usa para circuitos que necesitan cambios de tension lentos y no abruptos
 
 **los capacitores amortiguan rapidos cambios en voltaje**
 
+### Carga a corriente constante
+
+Si la carga del capacitor es a **corriente constante** (por que hay una **fuente de corriente**) entonces la carga obedece a
+
+$$\boxed{\huge{v_c(t)=\frac{1}{c}\int i_c(t)dt}}$$
+
+Que tiene todo el sentido del mundo, por que es la suma de las cargas que se van depositando en el capacitor, osea la carga total en el capacitor, sobre la capacitancia. Osea obedece a 
+
+$C=$
 ### Descarga
 
 Similarmente
@@ -587,7 +591,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTUwNDA1NTEsLTQ2OTYzMzA4MiwxND
+eyJoaXN0b3J5IjpbLTIwMjY0MDIyNDUsLTQ2OTYzMzA4MiwxND
 E5NzA5NjM2LDIxMzg5OTYyNzAsMjA1MTI5MDE4NiwxMTU4MTE2
 MjUxLDE2NzA0NzcxNzUsLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLD
 kzMjQ5NDk4NiwzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2
