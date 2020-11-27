@@ -486,6 +486,7 @@ El **Voltaje** entre las terminales de un inductor es directamente proporcional 
 
 ### Ley de Lenz - WIP
 
+## En DC
 ### Carga a corriente variable
 
 El proceso de **"carga y descarga"** es muy similar al de un capacitor, con la salvedad de que en vez de **acumular carga** estamos **acumulando campo magnético**
@@ -528,7 +529,7 @@ Inversamente, cuando se deshace el campo magnetico este mantiene brevemente la c
 
 
 
-
+## En AC
 
 ### Aplicaciones
 
@@ -666,11 +667,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODIxNjAxNTQsODU1MjI4MjAwLDEzOT
-A2NzY1ODksMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLDIwNDA3NzU0
-ODAsMTI1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzkyNzc1ODgsLT
-IwNDU2NTMzODAsODIyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2
-MzMwODIsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxOD
-YsMTE1ODExNjI1MSwxNjcwNDc3MTc1LC05MDU0NTk2MDUsLTY1
-MjU2MzM5Ml19
+eyJoaXN0b3J5IjpbLTQ5NjMzMDEwNSwtMTc4MjE2MDE1NCw4NT
+UyMjgyMDAsMTM5MDY3NjU4OSwxMjg0ODgwOTQsLTE3NDYyMzI1
+MjAsMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4NDEwMjQsMj
+EzOTI3NzU4OCwtMjA0NTY1MzM4MCw4MjI3MzQ4NzUsLTExODUy
+NTIzMDEsLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LDIxMzg5OTYyNz
+AsMjA1MTI5MDE4NiwxMTU4MTE2MjUxLDE2NzA0NzcxNzUsLTkw
+NTQ1OTYwNV19
 -->
