@@ -556,6 +556,8 @@ Si la carga del capacitor es a **corriente constante** (por que hay una **fuente
 
 $$\boxed{\huge{v_c(t)=\frac{1}{c}\int i_c(t)dt}}$$
 
+Si la corriente es constante, esto resuelve a 
+$$\boxed{\huge{v_c(t)=\frac{1}{c}it()}}$$
 Que tiene todo el sentido del mundo, por que es la suma de las cargas que se van depositando en el capacitor, osea la carga total en el capacitor, sobre la capacitancia. Osea obedece a 
 
 $Q=C.V$
@@ -597,11 +599,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODUyNTIzMDEsLTQ2OTYzMzA4MiwxND
-E5NzA5NjM2LDIxMzg5OTYyNzAsMjA1MTI5MDE4NiwxMTU4MTE2
-MjUxLDE2NzA0NzcxNzUsLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLD
-kzMjQ5NDk4NiwzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2
-OTQxNzQsMTUzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNj
-QwLDUzNzk5ODM2MywtMTI4NzQ3OTE5LC0xNzM3MDU3MjM0LDQ4
-Mzc0Mjg1M119
+eyJoaXN0b3J5IjpbNDgwMDk1NzQ2LC0xMTg1MjUyMzAxLC00Nj
+k2MzMwODIsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAx
+ODYsMTE1ODExNjI1MSwxNjcwNDc3MTc1LC05MDU0NTk2MDUsLT
+Y1MjU2MzM5Miw5MzI0OTQ5ODYsMzg0MTY1MjY4LC0xNTgyODk0
+MTc0LC0xNTM1Njk0MTc0LDE1MzMzODQzODIsMTg5NzkyNDU0Ni
+wtMTM5NDA2MjY0MCw1Mzc5OTgzNjMsLTEyODc0NzkxOSwtMTcz
+NzA1NzIzNF19
 -->
