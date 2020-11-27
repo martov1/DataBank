@@ -509,7 +509,7 @@ Se puede apreciar aca como inicialmente el inductor opone una reistencia $T=0$ y
 
 ### Descarga
 
-Inversamente, cuando se deshace el campo magnetico este mantiene brevemente un voltaje que empuja corriente a traves del inductor
+Inversamente, cuando se deshace el campo magnetico este mantiene brevemente la corriente que empuja, **independientemente de la resistencia que tenga conectada**, esto implica que podemos generar **miles de voltios** si hacemos pasar esa corriente de descarga por funa resistencia muy grande [fuente](https://www.youtube.com/watch?v=SB4LfSd_tCI&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=81)
 
 
 
@@ -651,11 +651,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NT
-Y4NDEwMjQsMjEzOTI3NzU4OCwtMjA0NTY1MzM4MCw4MjI3MzQ4
-NzUsLTExODUyNTIzMDEsLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LD
-IxMzg5OTYyNzAsMjA1MTI5MDE4NiwxMTU4MTE2MjUxLDE2NzA0
-NzcxNzUsLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLDkzMjQ5NDk4Ni
-wzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2OTQxNzQsMTUz
-MzM4NDM4Ml19
+eyJoaXN0b3J5IjpbLTE3NDYyMzI1MjAsMjA0MDc3NTQ4MCwxMj
+U2MjAwOTMyLDE3NTY4NDEwMjQsMjEzOTI3NzU4OCwtMjA0NTY1
+MzM4MCw4MjI3MzQ4NzUsLTExODUyNTIzMDEsLTQ2OTYzMzA4Mi
+wxNDE5NzA5NjM2LDIxMzg5OTYyNzAsMjA1MTI5MDE4NiwxMTU4
+MTE2MjUxLDE2NzA0NzcxNzUsLTkwNTQ1OTYwNSwtNjUyNTYzMz
+kyLDkzMjQ5NDk4NiwzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1
+MzU2OTQxNzRdfQ==
 -->
