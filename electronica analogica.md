@@ -1,7 +1,7 @@
 **Nivel técnico electrónico**
-https://www.youtube.com/watch?v=KkoudrHOpGE&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo
+https://www.youtube.com/watch?v=ZcSSSi6go7c&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=37
 
-Quede en clase 18 - RC circuits
+Que hace una bobina en DC. Parte II
 
 https://www.youtube.com/watch?v=w3cqkMkte2w&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=10
 **BREAK para ver desde capacity factor**
@@ -651,11 +651,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYyMzI1MjAsMjA0MDc3NTQ4MCwxMj
-U2MjAwOTMyLDE3NTY4NDEwMjQsMjEzOTI3NzU4OCwtMjA0NTY1
-MzM4MCw4MjI3MzQ4NzUsLTExODUyNTIzMDEsLTQ2OTYzMzA4Mi
-wxNDE5NzA5NjM2LDIxMzg5OTYyNzAsMjA1MTI5MDE4NiwxMTU4
-MTE2MjUxLDE2NzA0NzcxNzUsLTkwNTQ1OTYwNSwtNjUyNTYzMz
-kyLDkzMjQ5NDk4NiwzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1
-MzU2OTQxNzRdfQ==
+eyJoaXN0b3J5IjpbMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLDIwND
+A3NzU0ODAsMTI1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzkyNzc1
+ODgsLTIwNDU2NTMzODAsODIyNzM0ODc1LC0xMTg1MjUyMzAxLC
+00Njk2MzMwODIsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNTEy
+OTAxODYsMTE1ODExNjI1MSwxNjcwNDc3MTc1LC05MDU0NTk2MD
+UsLTY1MjU2MzM5Miw5MzI0OTQ5ODYsMzg0MTY1MjY4LC0xNTgy
+ODk0MTc0XX0=
 -->
