@@ -558,7 +558,13 @@ $$\boxed{\huge{v_c(t)=\frac{1}{c}\int i_c(t)dt}}$$
 
 Que tiene todo el sentido del mundo, por que es la suma de las cargas que se van depositando en el capacitor, osea la carga total en el capacitor, sobre la capacitancia. Osea obedece a 
 
-$C=$
+$Q=C.V$
+osea
+$V=\frac{1}{C}Q$
+que es lo mismo que
+$V=\frac{1}{C}\int i_c(t)dt$
+ya que la carga total $Q$ es la suma de la corriente a lo largo del tiempo
+
 ### Descarga
 
 Similarmente
@@ -591,7 +597,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjY0MDIyNDUsLTQ2OTYzMzA4MiwxND
+eyJoaXN0b3J5IjpbLTExODUyNTIzMDEsLTQ2OTYzMzA4MiwxND
 E5NzA5NjM2LDIxMzg5OTYyNzAsMjA1MTI5MDE4NiwxMTU4MTE2
 MjUxLDE2NzA0NzcxNzUsLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLD
 kzMjQ5NDk4NiwzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2
