@@ -507,11 +507,11 @@ Se puede apreciar aca como inicialmente el inductor opone una reistencia $T=0$ y
 
 ![](https://i.imgur.com/ud11as3.png)
 ### Carga a corriente constante
-
+[Fuente](https://www.youtube.com/watch?v=ZcSSSi6go7c&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=37)
 $$\boxed{\huge{i_l(t)=\frac{1}{L}\int V_l(t)dt}}$$
 
 Si la corriente es constante, esto resuelve a (???)
-$$\boxed{\huge{i_l(t)=\frac{1}{L}i.t.V_i}}$$
+$$\boxed{\huge{i_l(t)=\frac{1}{L}V_l.t+I_i}}$$
 
 
 
@@ -659,7 +659,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzU3NTM4OCwxMjg0ODgwOTQsLTE3ND
+eyJoaXN0b3J5IjpbMTM5MDY3NjU4OSwxMjg0ODgwOTQsLTE3ND
 YyMzI1MjAsMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4NDEw
 MjQsMjEzOTI3NzU4OCwtMjA0NTY1MzM4MCw4MjI3MzQ4NzUsLT
 ExODUyNTIzMDEsLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LDIxMzg5
