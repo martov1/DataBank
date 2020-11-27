@@ -437,6 +437,8 @@ Es la unidad de inductancia, que indica cuantos volts genera el inductor cuando 
 
 $$L=\frac{V}{\Delta A}$$
 
+Tambien es la relacion entre el flujo magnetico creado $\o$
+
 La inductancia de un inductor esta definida por algunas características físicas
 
 $$L=\frac{Vueltas^2.Area.M_r.M_o}{largo}$$
@@ -607,11 +609,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU2NTMzODAsODIyNzM0ODc1LC0xMT
-g1MjUyMzAxLC00Njk2MzMwODIsMTQxOTcwOTYzNiwyMTM4OTk2
-MjcwLDIwNTEyOTAxODYsMTE1ODExNjI1MSwxNjcwNDc3MTc1LC
-05MDU0NTk2MDUsLTY1MjU2MzM5Miw5MzI0OTQ5ODYsMzg0MTY1
-MjY4LC0xNTgyODk0MTc0LC0xNTM1Njk0MTc0LDE1MzMzODQzOD
-IsMTg5NzkyNDU0NiwtMTM5NDA2MjY0MCw1Mzc5OTgzNjMsLTEy
-ODc0NzkxOV19
+eyJoaXN0b3J5IjpbLTE1MDYzMzgxNDksLTIwNDU2NTMzODAsOD
+IyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMwODIsMTQxOTcw
+OTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxODYsMTE1ODExNjI1MS
+wxNjcwNDc3MTc1LC05MDU0NTk2MDUsLTY1MjU2MzM5Miw5MzI0
+OTQ5ODYsMzg0MTY1MjY4LC0xNTgyODk0MTc0LC0xNTM1Njk0MT
+c0LDE1MzMzODQzODIsMTg5NzkyNDU0NiwtMTM5NDA2MjY0MCw1
+Mzc5OTgzNjNdfQ==
 -->
