@@ -520,7 +520,14 @@ Son elementos de control de corriente, nunca permiten un cambio bruzco de corrie
 
 ### Fijas
 
-Son bobinas con una inductancia fija, l
+Son bobinas con una inductancia fija, las hay de varios tipos
+
+* **Nucleo de aire**
+	* Baja inductancia por baja permitividad del aire
+	* Generalmente trabajan a alta frecuencia y en equipos de comunicacion
+* **Nucleo de hierro**
+	* Mayor inductancia por mejor permitividad del hierro
+	* Operan en bajas frecuencias, muchas veces en fuentes de alimentacion
 
 
 # Circuitos comunes
@@ -628,7 +635,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDc1MTMzOSwyMTM5Mjc3NTg4LC0yMD
+eyJoaXN0b3J5IjpbLTI1NzE5MTg3NywyMTM5Mjc3NTg4LC0yMD
 Q1NjUzMzgwLDgyMjczNDg3NSwtMTE4NTI1MjMwMSwtNDY5NjMz
 MDgyLDE0MTk3MDk2MzYsMjEzODk5NjI3MCwyMDUxMjkwMTg2LD
 ExNTgxMTYyNTEsMTY3MDQ3NzE3NSwtOTA1NDU5NjA1LC02NTI1
