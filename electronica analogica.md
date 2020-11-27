@@ -548,6 +548,12 @@ Reemplazano
 
 $$\boxed{\large{i_l(t)=\frac{1}{L}\int (V_{pico}.sin(w)tdt)dt}}$$
 
+Acomodando
+
+
+$$\boxed{\large{i_l(t)=\frac{V_{pico}{L}}$$
+
+
 ### Aplicaciones
 
 Son elementos de control de corriente, nunca permiten un cambio bruzco de corriente
@@ -684,11 +690,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzcxMjY3MjIsODQ3NjA3ODYyLDEwMD
-g0OTcyNTIsLTE3ODIxNjAxNTQsODU1MjI4MjAwLDEzOTA2NzY1
-ODksMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLDIwNDA3NzU0ODAsMT
-I1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzkyNzc1ODgsLTIwNDU2
-NTMzODAsODIyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMwOD
-IsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxODYsMTE1
-ODExNjI1MV19
+eyJoaXN0b3J5IjpbMjA4NDYzODAwNiwtMjAzNzEyNjcyMiw4ND
+c2MDc4NjIsMTAwODQ5NzI1MiwtMTc4MjE2MDE1NCw4NTUyMjgy
+MDAsMTM5MDY3NjU4OSwxMjg0ODgwOTQsLTE3NDYyMzI1MjAsMj
+A0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4NDEwMjQsMjEzOTI3
+NzU4OCwtMjA0NTY1MzM4MCw4MjI3MzQ4NzUsLTExODUyNTIzMD
+EsLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LDIxMzg5OTYyNzAsMjA1
+MTI5MDE4Nl19
 -->
