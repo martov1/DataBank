@@ -437,6 +437,9 @@ Es la unidad de inductancia, que indica cuantos volts genera el inductor cuando 
 
 $$L=\frac{V}{\Delta A}=\frac{V}{i(t)dt}$$
 
+$\boxed{\text{Osea que una bobina de un webber hacer aparecer
+ un volt si la corriente que la atraviesa camia un amper por segundo}}$Osea que una 
+
 Tambien es la relacion entre el flujo magnetico creado ($ø$) y la corriente $i$
 
 $L=\frac{ø}{i}$
@@ -611,11 +614,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODcwMjM0LC0yMDQ1NjUzMzgwLDgyMj
-czNDg3NSwtMTE4NTI1MjMwMSwtNDY5NjMzMDgyLDE0MTk3MDk2
-MzYsMjEzODk5NjI3MCwyMDUxMjkwMTg2LDExNTgxMTYyNTEsMT
-Y3MDQ3NzE3NSwtOTA1NDU5NjA1LC02NTI1NjMzOTIsOTMyNDk0
-OTg2LDM4NDE2NTI2OCwtMTU4Mjg5NDE3NCwtMTUzNTY5NDE3NC
-wxNTMzMzg0MzgyLDE4OTc5MjQ1NDYsLTEzOTQwNjI2NDAsNTM3
-OTk4MzYzXX0=
+eyJoaXN0b3J5IjpbMTAxOTMzODk3MCwtMjA0NTY1MzM4MCw4Mj
+I3MzQ4NzUsLTExODUyNTIzMDEsLTQ2OTYzMzA4MiwxNDE5NzA5
+NjM2LDIxMzg5OTYyNzAsMjA1MTI5MDE4NiwxMTU4MTE2MjUxLD
+E2NzA0NzcxNzUsLTkwNTQ1OTYwNSwtNjUyNTYzMzkyLDkzMjQ5
+NDk4NiwzODQxNjUyNjgsLTE1ODI4OTQxNzQsLTE1MzU2OTQxNz
+QsMTUzMzM4NDM4MiwxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLDUz
+Nzk5ODM2M119
 -->
