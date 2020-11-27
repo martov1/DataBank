@@ -297,6 +297,11 @@ Ademas en paralelo, es obvio que la suma de las corrientes es la corriente total
 
 $$I_t=I_1+I_2+I_3$$
 
+y la corriente en cada capacitor en capacitores en paralelo es proporcional a la capacitancia de ese capacitor comparado con la total
+
+$I_{c1}=v\frac$
+
+
 ### Capacitores en serie
 
 Cada capacitor funciona como una pequeña batería, sumando su diferencia de potencial al siguiente
@@ -602,11 +607,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNzM0ODc1LC0xMTg1MjUyMzAxLC00Nj
-k2MzMwODIsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAx
-ODYsMTE1ODExNjI1MSwxNjcwNDc3MTc1LC05MDU0NTk2MDUsLT
-Y1MjU2MzM5Miw5MzI0OTQ5ODYsMzg0MTY1MjY4LC0xNTgyODk0
-MTc0LC0xNTM1Njk0MTc0LDE1MzMzODQzODIsMTg5NzkyNDU0Ni
-wtMTM5NDA2MjY0MCw1Mzc5OTgzNjMsLTEyODc0NzkxOSwtMTcz
-NzA1NzIzNF19
+eyJoaXN0b3J5IjpbLTM1MjgxNjk3Myw4MjI3MzQ4NzUsLTExOD
+UyNTIzMDEsLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LDIxMzg5OTYy
+NzAsMjA1MTI5MDE4NiwxMTU4MTE2MjUxLDE2NzA0NzcxNzUsLT
+kwNTQ1OTYwNSwtNjUyNTYzMzkyLDkzMjQ5NDk4NiwzODQxNjUy
+NjgsLTE1ODI4OTQxNzQsLTE1MzU2OTQxNzQsMTUzMzM4NDM4Mi
+wxODk3OTI0NTQ2LC0xMzk0MDYyNjQwLDUzNzk5ODM2MywtMTI4
+NzQ3OTE5XX0=
 -->
