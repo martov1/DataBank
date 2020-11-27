@@ -462,7 +462,7 @@ Un inductor real tiene una cierta resistencia debido a la resistencia del cable,
 ![](https://i.imgur.com/twBMtc0.png)
 ### Energia almacenada por una bobina
 
-$E(t)=\frac$
+$E(t)=\frac{1}{2}L(i(t)^2)$
 
 ### Inductores en serie y paralelo
 
@@ -618,11 +618,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA4MTEyMjQsLTIwNDU2NTMzODAsOD
-IyNzM0ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMwODIsMTQxOTcw
-OTYzNiwyMTM4OTk2MjcwLDIwNTEyOTAxODYsMTE1ODExNjI1MS
-wxNjcwNDc3MTc1LC05MDU0NTk2MDUsLTY1MjU2MzM5Miw5MzI0
-OTQ5ODYsMzg0MTY1MjY4LC0xNTgyODk0MTc0LC0xNTM1Njk0MT
-c0LDE1MzMzODQzODIsMTg5NzkyNDU0NiwtMTM5NDA2MjY0MCw1
-Mzc5OTgzNjNdfQ==
+eyJoaXN0b3J5IjpbODY0NDY3Nzg4LC0yMDQ1NjUzMzgwLDgyMj
+czNDg3NSwtMTE4NTI1MjMwMSwtNDY5NjMzMDgyLDE0MTk3MDk2
+MzYsMjEzODk5NjI3MCwyMDUxMjkwMTg2LDExNTgxMTYyNTEsMT
+Y3MDQ3NzE3NSwtOTA1NDU5NjA1LC02NTI1NjMzOTIsOTMyNDk0
+OTg2LDM4NDE2NTI2OCwtMTU4Mjg5NDE3NCwtMTUzNTY5NDE3NC
+wxNTMzMzg0MzgyLDE4OTc5MjQ1NDYsLTEzOTQwNjI2NDAsNTM3
+OTk4MzYzXX0=
 -->
