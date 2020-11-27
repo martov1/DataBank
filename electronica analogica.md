@@ -317,7 +317,11 @@ Es **critico** notar que
 * Cuanto **mas chico el capacitor**, este esta mas lleno y por ende **tiene mas voltaje**
 *  [fuente](https://www.youtube.com/watch?v=SplgfBEJkPk&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=78)
 
+## En AC
 
+Forma una impedancia determinada por
+
+$
 
 ## Tipos
 
@@ -696,7 +700,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDE3NjU2MzIsLTIwMzcxMjY3MjIsOD
+eyJoaXN0b3J5IjpbLTE0NzIxMTM5NjYsLTIwMzcxMjY3MjIsOD
 Q3NjA3ODYyLDEwMDg0OTcyNTIsLTE3ODIxNjAxNTQsODU1MjI4
 MjAwLDEzOTA2NzY1ODksMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLD
 IwNDA3NzU0ODAsMTI1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzky
