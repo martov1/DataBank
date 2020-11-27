@@ -539,6 +539,7 @@ Es decir, cuanta **mayor frecuencia**, **mayor impedancia**
 
 
 
+
 ### Aplicaciones
 
 Son elementos de control de corriente, nunca permiten un cambio bruzco de corriente
@@ -675,11 +676,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODQ5NzI1MiwtMTc4MjE2MDE1NCw4NT
-UyMjgyMDAsMTM5MDY3NjU4OSwxMjg0ODgwOTQsLTE3NDYyMzI1
-MjAsMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4NDEwMjQsMj
-EzOTI3NzU4OCwtMjA0NTY1MzM4MCw4MjI3MzQ4NzUsLTExODUy
-NTIzMDEsLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LDIxMzg5OTYyNz
-AsMjA1MTI5MDE4NiwxMTU4MTE2MjUxLDE2NzA0NzcxNzUsLTkw
-NTQ1OTYwNV19
+eyJoaXN0b3J5IjpbODQ3NjA3ODYyLDEwMDg0OTcyNTIsLTE3OD
+IxNjAxNTQsODU1MjI4MjAwLDEzOTA2NzY1ODksMTI4NDg4MDk0
+LC0xNzQ2MjMyNTIwLDIwNDA3NzU0ODAsMTI1NjIwMDkzMiwxNz
+U2ODQxMDI0LDIxMzkyNzc1ODgsLTIwNDU2NTMzODAsODIyNzM0
+ODc1LC0xMTg1MjUyMzAxLC00Njk2MzMwODIsMTQxOTcwOTYzNi
+wyMTM4OTk2MjcwLDIwNTEyOTAxODYsMTE1ODExNjI1MSwxNjcw
+NDc3MTc1XX0=
 -->
