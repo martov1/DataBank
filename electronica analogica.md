@@ -321,6 +321,7 @@ Es **critico** notar que
 Forma una impedancia que se calcula como
 $$\Omega impedance = \frac{1}{(w).L}=\frac{1}{(2\pi f)L}$$
 
+osea que **a menos frecuencia, mas impedancia!**
 
 
 
@@ -701,11 +702,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ3MDM0MzUsLTIwMzcxMjY3MjIsOD
-Q3NjA3ODYyLDEwMDg0OTcyNTIsLTE3ODIxNjAxNTQsODU1MjI4
-MjAwLDEzOTA2NzY1ODksMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLD
-IwNDA3NzU0ODAsMTI1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzky
-Nzc1ODgsLTIwNDU2NTMzODAsODIyNzM0ODc1LC0xMTg1MjUyMz
-AxLC00Njk2MzMwODIsMTQxOTcwOTYzNiwyMTM4OTk2MjcwLDIw
-NTEyOTAxODZdfQ==
+eyJoaXN0b3J5IjpbLTgyODEwMjcxNSwtMTExNDcwMzQzNSwtMj
+AzNzEyNjcyMiw4NDc2MDc4NjIsMTAwODQ5NzI1MiwtMTc4MjE2
+MDE1NCw4NTUyMjgyMDAsMTM5MDY3NjU4OSwxMjg0ODgwOTQsLT
+E3NDYyMzI1MjAsMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4
+NDEwMjQsMjEzOTI3NzU4OCwtMjA0NTY1MzM4MCw4MjI3MzQ4Nz
+UsLTExODUyNTIzMDEsLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LDIx
+Mzg5OTYyNzBdfQ==
 -->
