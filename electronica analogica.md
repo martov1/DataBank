@@ -849,7 +849,7 @@ Por eso cuando pones un condensador tiene que estar pensado para la potencia que
 #### Frecuencia de resonancia paralelo
 [fuente](https://www.youtube.com/watch?v=vHFVBn3E3l4&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=50)
 
-
+A diferencia del circuito en serie, este tiene impedancia maxima cuando llegas a la frecuencia de resonancia $f_r$, eso significa que toda la corriente pasa por $R$
 
 ![](https://i.imgur.com/L7sg0WE.png)
 Si ponemos un capacitor y una bobina en serie, sabemos que
@@ -864,11 +864,11 @@ $$wC=\frac{1}{wL}$$
 Reemplazando con la definicion de $w$ igual que cuando lo hicimos en serie
 $$f_r=\frac{1}{c\pi \sqrt{LC}}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTc3MDA5MSwtMTc0MTg0MTg0MSwxMj
-AzMzkyNzA5LC0xMjkxNTYwNjYzLC03NTM4NDgyMzYsMTM4MzYw
-ODA3MywtMTk1NzM1NTExMiw1MDAzOTAxMTUsLTgxMTk4NTgxNy
-wtMTE0MDYxNzE0MywtMTEwMjQ2ODgxNiw5NzUyMzQyODIsMTgw
-OTM4NTIxNCwxNjg1OTAxMTAxLC0xMDQ0ODQyMzE1LDIwMzIwMD
-E3ODAsLTY1ODQzNTI5MywyMTcwNzc5MDYsLTc4Mjk3OTcyNSwt
-MTM2OTU5MTI4MV19
+eyJoaXN0b3J5IjpbLTIwNTM1NzEyMzcsLTE3NDE4NDE4NDEsMT
+IwMzM5MjcwOSwtMTI5MTU2MDY2MywtNzUzODQ4MjM2LDEzODM2
+MDgwNzMsLTE5NTczNTUxMTIsNTAwMzkwMTE1LC04MTE5ODU4MT
+csLTExNDA2MTcxNDMsLTExMDI0Njg4MTYsOTc1MjM0MjgyLDE4
+MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0NDg0MjMxNSwyMDMyMD
+AxNzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2LC03ODI5Nzk3MjUs
+LTEzNjk1OTEyODFdfQ==
 -->
