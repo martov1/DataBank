@@ -741,18 +741,19 @@ A este $f_c$ lo llamamos frecuencia de corte, y es cuando a este circuito en par
 
 Es súper similar, pero usando la formula de impedancia del capacitor en vez de el del inductor
 
- $Z=\frac{1}{w.L}=R_{th}$ con el capacitor descargado, la unica resistencia que hay es la de thevenin
- $Z=\frac{1}{2\pi f C}=R_th$
+ * $Z=\frac{1}{w.L}=R_{th}$ con el capacitor descargado, la unica resistencia que hay es la de thevenin
+ * $Z=\frac{1}{2\pi f C}=R_th$ reemplazando $w=2\pi f$
+ $f_c=\frac{2}{\pi R_{th}C}$ y esa es la frecuencia de corte
 
 
 ![](https://i.imgur.com/QCCi3E4.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MSwtMz
-g0MTM5MzE1LDU3NDc2MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYw
-NzcsLTgyODEwMjcxNSwtMTExNDcwMzQzNSwtMjAzNzEyNjcyMi
-w4NDc2MDc4NjIsMTAwODQ5NzI1MiwtMTc4MjE2MDE1NCw4NTUy
-MjgyMDAsMTM5MDY3NjU4OSwxMjg0ODgwOTQsLTE3NDYyMzI1Mj
-AsMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4NDEwMjQsMjEz
-OTI3NzU4OF19
+eyJoaXN0b3J5IjpbLTcyMTgzODQ0MiwtNzgyOTc5NzI1LC0xMz
+Y5NTkxMjgxLC0zODQxMzkzMTUsNTc0NzYxNTUsMTM4NDA0NzAw
+MSwtMTY1MDU1NjA3NywtODI4MTAyNzE1LC0xMTE0NzAzNDM1LC
+0yMDM3MTI2NzIyLDg0NzYwNzg2MiwxMDA4NDk3MjUyLC0xNzgy
+MTYwMTU0LDg1NTIyODIwMCwxMzkwNjc2NTg5LDEyODQ4ODA5NC
+wtMTc0NjIzMjUyMCwyMDQwNzc1NDgwLDEyNTYyMDA5MzIsMTc1
+Njg0MTAyNF19
 -->
