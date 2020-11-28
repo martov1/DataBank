@@ -781,12 +781,18 @@ En un parlante de 3 speakers que reproducen los sonidos graves, medios y agudos,
 Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 
 ![](https://i.imgur.com/d7MkbVD.png)![](https://i.imgur.com/gQrZG5G.png =200x)
+## Filtro de resonancia
+
+Es un filtro 
+* **alto-bajo**
+* **pasa-rechaza banda**
+Qu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1MjM0MjgyLDE4MDkzODUyMTQsMTY4NT
-kwMTEwMSwtMTA0NDg0MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUy
-OTMsMjE3MDc3OTA2LC03ODI5Nzk3MjUsLTEzNjk1OTEyODEsLT
-M4NDEzOTMxNSw1NzQ3NjE1NSwxMzg0MDQ3MDAxLC0xNjUwNTU2
-MDc3LC04MjgxMDI3MTUsLTExMTQ3MDM0MzUsLTIwMzcxMjY3Mj
-IsODQ3NjA3ODYyLDEwMDg0OTcyNTIsLTE3ODIxNjAxNTQsODU1
-MjI4MjAwXX0=
+eyJoaXN0b3J5IjpbLTE4OTkxNTQ2MDIsOTc1MjM0MjgyLDE4MD
+kzODUyMTQsMTY4NTkwMTEwMSwtMTA0NDg0MjMxNSwyMDMyMDAx
+NzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2LC03ODI5Nzk3MjUsLT
+EzNjk1OTEyODEsLTM4NDEzOTMxNSw1NzQ3NjE1NSwxMzg0MDQ3
+MDAxLC0xNjUwNTU2MDc3LC04MjgxMDI3MTUsLTExMTQ3MDM0Mz
+UsLTIwMzcxMjY3MjIsODQ3NjA3ODYyLDEwMDg0OTcyNTIsLTE3
+ODIxNjAxNTRdfQ==
 -->
