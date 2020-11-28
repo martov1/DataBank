@@ -720,17 +720,18 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 Es un filtro que filtra las **frecuencias altas** o las **frecuencias bajas**, esto se hace aprovechando que
 * la impedancia del capacitor es **mayor a mas frecuencia**
 	* Elimina las frecuencias altas
+	* Calculamos la **frecuencia de corte**
 * La impedancia del inductor es **mayor a menor frecuencia**
 	* Elimina las frecuencias bajas
 
 
 ![](https://i.imgur.com/vim2R55.png =x300)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDEzOTMxNSw1NzQ3NjE1NSwxMzg0MD
-Q3MDAxLC0xNjUwNTU2MDc3LC04MjgxMDI3MTUsLTExMTQ3MDM0
-MzUsLTIwMzcxMjY3MjIsODQ3NjA3ODYyLDEwMDg0OTcyNTIsLT
-E3ODIxNjAxNTQsODU1MjI4MjAwLDEzOTA2NzY1ODksMTI4NDg4
-MDk0LC0xNzQ2MjMyNTIwLDIwNDA3NzU0ODAsMTI1NjIwMDkzMi
-wxNzU2ODQxMDI0LDIxMzkyNzc1ODgsLTIwNDU2NTMzODAsODIy
-NzM0ODc1XX0=
+eyJoaXN0b3J5IjpbMTgzODUzNTAyNywtMzg0MTM5MzE1LDU3ND
+c2MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYwNzcsLTgyODEwMjcx
+NSwtMTExNDcwMzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4NjIsMT
+AwODQ5NzI1MiwtMTc4MjE2MDE1NCw4NTUyMjgyMDAsMTM5MDY3
+NjU4OSwxMjg0ODgwOTQsLTE3NDYyMzI1MjAsMjA0MDc3NTQ4MC
+wxMjU2MjAwOTMyLDE3NTY4NDEwMjQsMjEzOTI3NzU4OCwtMjA0
+NTY1MzM4MF19
 -->
