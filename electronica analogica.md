@@ -864,11 +864,12 @@ Ahora si intento buscar la resonancia, como hicimos antes, donde las impedancias
 $$wC=\frac{1}{wL}$$
 
 Indicando que 
-$$\frac{1}{Z}=\frac{1}{R}+\frac{jwL}{jwC}$$
+$$\frac{1}{Z}=\frac{1}{R}+\frac{jwL}{j\frac{1}{wL}}$$
 
+$$\frac{1}{Z}=\frac{1}{R}+jwL(wL)$$
 osea que a medida que $f \to \inf$, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3NDA2MzQ2LC0yMDUzNTcxMjM3LC0xNz
+eyJoaXN0b3J5IjpbNzA1ODc1MTcxLC0yMDUzNTcxMjM3LC0xNz
 QxODQxODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0
 ODIzNiwxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNS
 wtODExOTg1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2LDk3
