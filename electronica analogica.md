@@ -855,6 +855,8 @@ A diferencia del circuito en serie, este tiene impedancia maxima cuando llegas a
 
 >En **resonancia** toda la **corriente** pasa por $R$
 
+Lo que sucede en resonancia es que **el capacitor y el inductor INTERCAMBIAN CORRIENTE** entre si, pero no con el circuito
+
 
 ![](https://i.imgur.com/L7sg0WE.png)
 Si ponemos un capacitor y una bobina en paralelo, sabemos que
@@ -873,8 +875,9 @@ y por ende
 
 Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, toda lacorriente pasara por el resistor.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzgxMjYxOTksMjE4ODkzNjU4LC0yMD
+eyJoaXN0b3J5IjpbLTExNTg2NDQ0MDIsMjE4ODkzNjU4LC0yMD
 UzNTcxMjM3LC0xNzQxODQxODQxLDEyMDMzOTI3MDksLTEyOTE1
 NjA2NjMsLTc1Mzg0ODIzNiwxMzgzNjA4MDczLC0xOTU3MzU1MT
 EyLDUwMDM5MDExNSwtODExOTg1ODE3LC0xMTQwNjE3MTQzLC0x
