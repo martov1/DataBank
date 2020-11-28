@@ -907,14 +907,18 @@ La regla de la mano derecha te indica la polaridad de cada devanado del transfor
 
 Son transformadores que tienen varios cables saliendo de varios puntos del debanado, permitiendo sacar diferentes tensiones de ellos debido a que cambia la relación de conversión
 
-![](https://i.imgur.com/pRdOrVb.png)
-Esto funciona debido a que las tensiones
+![](https://i.imgur.com/jeGD3PL.png)
+
+Esto funciona debido a que las tensiones salientes tienen un desface de 90º para el caso de transformadores de dos fases o bifasicos. con un neutro en el medio. Entonces
+* **fase1-neutro** $12V$
+* * **fase2-neutro** $12V$
+* * **fase1-fase2** $24V$ por un desfajase de 90º
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTE0NTAyLC0xNTQyMDYxNDYyLC05OT
-k3NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0xNzQxODQx
-ODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0ODIzNi
-wxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNSwtODEx
-OTg1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2LDk3NTIzND
-I4MiwxODA5Mzg1MjE0LDE2ODU5MDExMDEsLTEwNDQ4NDIzMTUs
-MjAzMjAwMTc4MF19
+eyJoaXN0b3J5IjpbLTY0ODk4ODE4MCwtMTU0MjA2MTQ2MiwtOT
+k5NzYxNDM3LDIxODg5MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0
+MTg0MSwxMjAzMzkyNzA5LC0xMjkxNTYwNjYzLC03NTM4NDgyMz
+YsMTM4MzYwODA3MywtMTk1NzM1NTExMiw1MDAzOTAxMTUsLTgx
+MTk4NTgxNywtMTE0MDYxNzE0MywtMTEwMjQ2ODgxNiw5NzUyMz
+QyODIsMTgwOTM4NTIxNCwxNjg1OTAxMTAxLC0xMDQ0ODQyMzE1
+LDIwMzIwMDE3ODBdfQ==
 -->
