@@ -746,15 +746,19 @@ Es súper similar, pero usando la formula de impedancia del capacitor en vez de 
  * $Z=\frac{1}{2\pi f C}=R_{th}$ reemplazando $w=2\pi f$
  * $f_c=\frac{2}{\pi R_{th}C}$ y esa es la frecuencia de corte
 
+Podemos ver como los voltajes que estan por debajo de cierta frecuencia quedan reducidos de manera lineal, mientras que los que estan por encima pasan de forma plena
+
+![](https://i.imgur.com/wqqWBsx.png =300x)
+
 Puede ser en serie o en paralelo, lo que cambia es $R_{th}$
-![](https://i.imgur.com/QCCi3E4.png)
-![](https://i.imgur.com/8U0fXHI.png)
+![](https://i.imgur.com/QCCi3E4.png =300x)
+![](https://i.imgur.com/8U0fXHI.png =300x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODQzNTI5MywyMTcwNzc5MDYsLTc4Mj
-k3OTcyNSwtMTM2OTU5MTI4MSwtMzg0MTM5MzE1LDU3NDc2MTU1
-LDEzODQwNDcwMDEsLTE2NTA1NTYwNzcsLTgyODEwMjcxNSwtMT
-ExNDcwMzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4NjIsMTAwODQ5
-NzI1MiwtMTc4MjE2MDE1NCw4NTUyMjgyMDAsMTM5MDY3NjU4OS
-wxMjg0ODgwOTQsLTE3NDYyMzI1MjAsMjA0MDc3NTQ4MCwxMjU2
-MjAwOTMyXX0=
+eyJoaXN0b3J5IjpbMjAzMjAwMTc4MCwtNjU4NDM1MjkzLDIxNz
+A3NzkwNiwtNzgyOTc5NzI1LC0xMzY5NTkxMjgxLC0zODQxMzkz
+MTUsNTc0NzYxNTUsMTM4NDA0NzAwMSwtMTY1MDU1NjA3NywtOD
+I4MTAyNzE1LC0xMTE0NzAzNDM1LC0yMDM3MTI2NzIyLDg0NzYw
+Nzg2MiwxMDA4NDk3MjUyLC0xNzgyMTYwMTU0LDg1NTIyODIwMC
+wxMzkwNjc2NTg5LDEyODQ4ODA5NCwtMTc0NjIzMjUyMCwyMDQw
+Nzc1NDgwXX0=
 -->
