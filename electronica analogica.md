@@ -720,14 +720,16 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 Es un filtro que filtra las **frecuencias altas** o las **frecuencias bajas**, esto se hace aprovechando que
 * la impedancia del capacitor es **mayor a mas frecuencia**
 	* Elimina las frecuencias altas
-	* Calculamos la **frecuencia de corte**
 * La impedancia del inductor es **mayor a menor frecuencia**
 	* Elimina las frecuencias bajas
 
 
 ![](https://i.imgur.com/vim2R55.png =x300)
+### Frecuencia de corte
+
+Es la frecuancia a partir de la cual el filtro empieza a actuar  y la 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODUzNTAyNywtMzg0MTM5MzE1LDU3ND
+eyJoaXN0b3J5IjpbLTI3NzI5MDk4MiwtMzg0MTM5MzE1LDU3ND
 c2MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYwNzcsLTgyODEwMjcx
 NSwtMTExNDcwMzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4NjIsMT
 AwODQ5NzI1MiwtMTc4MjE2MDE1NCw4NTUyMjgyMDAsMTM5MDY3
