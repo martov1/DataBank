@@ -776,6 +776,10 @@ Es un filtro que deja pasar todas las frecuencias salvo las que estan en un rang
 
 #### Resonancia
 
+Llamamos resonancia a cuando le impedancia de un inductor se **cancela perfectamente** con la de un capacitor para una frecuencia de resonancia $f_r$ y se puede usar para los filtros **rechaza banda**
+
+
+
 
 ### Aplicaciones
 En un parlante de 3 speakers que reproducen los sonidos graves, medios y agudos, se usan 3 filtros. 
@@ -788,11 +792,11 @@ Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 ![](https://i.imgur.com/d7MkbVD.png)![](https://i.imgur.com/gQrZG5G.png =200x)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI0Njg4MTYsOTc1MjM0MjgyLDE4MD
-kzODUyMTQsMTY4NTkwMTEwMSwtMTA0NDg0MjMxNSwyMDMyMDAx
-NzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2LC03ODI5Nzk3MjUsLT
-EzNjk1OTEyODEsLTM4NDEzOTMxNSw1NzQ3NjE1NSwxMzg0MDQ3
-MDAxLC0xNjUwNTU2MDc3LC04MjgxMDI3MTUsLTExMTQ3MDM0Mz
-UsLTIwMzcxMjY3MjIsODQ3NjA3ODYyLDEwMDg0OTcyNTIsLTE3
-ODIxNjAxNTRdfQ==
+eyJoaXN0b3J5IjpbMTk2MjQwODAxMSwtMTEwMjQ2ODgxNiw5Nz
+UyMzQyODIsMTgwOTM4NTIxNCwxNjg1OTAxMTAxLC0xMDQ0ODQy
+MzE1LDIwMzIwMDE3ODAsLTY1ODQzNTI5MywyMTcwNzc5MDYsLT
+c4Mjk3OTcyNSwtMTM2OTU5MTI4MSwtMzg0MTM5MzE1LDU3NDc2
+MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYwNzcsLTgyODEwMjcxNS
+wtMTExNDcwMzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4NjIsMTAw
+ODQ5NzI1Ml19
 -->
