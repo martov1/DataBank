@@ -897,9 +897,9 @@ $$n=\frac{vueltas_1}{vueltas_2}=\frac{v_1}{v_2}=\frac{I_2}{I_1}$$
 
 * Tienen en cuenta el nucleo del transformador, que puede tener mejor o peor conductancia magnetica.
 * Tienen en cuenta la resistencia de cable del que esta costruido el transformador
-* En geneal
+* En general esas perdidas **se desprecian** ya que no son muy grandes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk4OTY1MTMsLTk5OTc2MTQzNywyMT
+eyJoaXN0b3J5IjpbLTE2ODUzNDAwMTQsLTk5OTc2MTQzNywyMT
 g4OTM2NTgsLTIwNTM1NzEyMzcsLTE3NDE4NDE4NDEsMTIwMzM5
 MjcwOSwtMTI5MTU2MDY2MywtNzUzODQ4MjM2LDEzODM2MDgwNz
 MsLTE5NTczNTUxMTIsNTAwMzkwMTE1LC04MTE5ODU4MTcsLTEx
