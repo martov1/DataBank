@@ -755,16 +755,21 @@ Puede ser en serie o en paralelo, lo que cambia es $R_{th}$
 ![](https://i.imgur.com/QCCi3E4.png =300x)
 ![](https://i.imgur.com/8U0fXHI.png =300x)
 
-### Filtro Pasa y rechaza banda
+### Filtro Paso y rechaza banda
+[Fuente](https://www.youtube.com/watch?v=4LhDcDaefzo&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=48)
 
-**Filtro pasa banda**
-Es muy similar al filtro alto-bajo, pero se compone de dos filtros, de tal manera que deja pasar **solo un rango de frecuencias** y elimina las demas
+**Filtro paso banda**
+Es muy similar al filtro alto-bajo, pero se compone de dos filtros, de tal manera que deja pasar **solo un rango de frecuencias** y elimina las demas.
+
+Se calcula como dos filtros alto-bajo separados 
+
+![](https://i.imgur.com/tcByJuD.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ4NDIzMTUsMjAzMjAwMTc4MCwtNj
-U4NDM1MjkzLDIxNzA3NzkwNiwtNzgyOTc5NzI1LC0xMzY5NTkx
-MjgxLC0zODQxMzkzMTUsNTc0NzYxNTUsMTM4NDA0NzAwMSwtMT
-Y1MDU1NjA3NywtODI4MTAyNzE1LC0xMTE0NzAzNDM1LC0yMDM3
-MTI2NzIyLDg0NzYwNzg2MiwxMDA4NDk3MjUyLC0xNzgyMTYwMT
-U0LDg1NTIyODIwMCwxMzkwNjc2NTg5LDEyODQ4ODA5NCwtMTc0
-NjIzMjUyMF19
+eyJoaXN0b3J5IjpbMjQxNDc5MDA2LC0xMDQ0ODQyMzE1LDIwMz
+IwMDE3ODAsLTY1ODQzNTI5MywyMTcwNzc5MDYsLTc4Mjk3OTcy
+NSwtMTM2OTU5MTI4MSwtMzg0MTM5MzE1LDU3NDc2MTU1LDEzOD
+QwNDcwMDEsLTE2NTA1NTYwNzcsLTgyODEwMjcxNSwtMTExNDcw
+MzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4NjIsMTAwODQ5NzI1Mi
+wtMTc4MjE2MDE1NCw4NTUyMjgyMDAsMTM5MDY3NjU4OSwxMjg0
+ODgwOTRdfQ==
 -->
