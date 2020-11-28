@@ -898,8 +898,10 @@ $$n=\frac{vueltas_1}{vueltas_2}=\frac{v_1}{v_2}=\frac{I_2}{I_1}$$
 
 * Tienen en cuenta el nucleo del transformador, que puede tener mejor o peor conductancia magnetica.
 * Tienen en cuenta la resistencia de cable del que esta costruido el transformador
-* En general esas perdidas **se desprecian** ya que no son muy grandes, pero **SU IMPEDANCIA INTERNA DETERMINARA LA CAIDA DE TENSION CUANDO LO ESTES USANDO!**
-	* Esto el fabricante t
+* 
+* **SU IMPEDANCIA INTERNA DETERMINARA LA CAIDA DE TENSION CUANDO LO ESTES USANDO!**
+* El transf
+	* Esto el fabricante te lo dice indirectamente diciendote la **maxima potencia aparente soportada**
 
 ![](https://i.imgur.com/UUWybFN.png =400x)
 
@@ -935,7 +937,7 @@ $$230/12/12 - A$$
 
 ![](https://i.imgur.com/cxilMNZ.png =150x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjEzMTU1MSwtMTU0MjA2MTQ2MiwtOT
+eyJoaXN0b3J5IjpbMTUzMDYxMzA3MSwtMTU0MjA2MTQ2MiwtOT
 k5NzYxNDM3LDIxODg5MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0
 MTg0MSwxMjAzMzkyNzA5LC0xMjkxNTYwNjYzLC03NTM4NDgyMz
 YsMTM4MzYwODA3MywtMTk1NzM1NTExMiw1MDAzOTAxMTUsLTgx
