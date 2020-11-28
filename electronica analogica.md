@@ -877,6 +877,7 @@ Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, t
 
 # Transformadores
 
+### Transformadores ideales
 Son elementos que transforman 
 * variacion de corriente y voltaje en variacion de campo electrico
 * La variacion de campo electrico nuevamente en corriente y voltaje
@@ -886,19 +887,23 @@ Son elementos que transforman
 Como la potencia en ambos del transformador es igual (leyes de conservacion)
 $$P_1=P_2 \\
 V_1.I_1=V_2.I_2\\
-\frac{v_1}{v_2}=\frac{I_2}{v_1}$$
+\frac{v_1}{v_2}=\frac{I_2}{I_1}$$
 
 Y ademas esto es igual a la relacion entre el numero de vueltas
 
-$$n=\frac{vueltas_1}{vueltas_2}=\frac{v_1}{v_2}=\frac{I_2}{v_1}$$
+$$n=\frac{vueltas_1}{vueltas_2}=\frac{v_1}{v_2}=\frac{I_2}{I_1}$$
 
+### Transformadores reales
 
+* Tienen en cuenta el nucleo del transformador, que puede tener mejor o peor conductancia magnetica.
+* Tienen en cuenta la resistencia de cable del que esta costruido el transformador
+* En geneal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzNjIzMDkzLC05OTk3NjE0MzcsMjE4OD
-kzNjU4LC0yMDUzNTcxMjM3LC0xNzQxODQxODQxLDEyMDMzOTI3
-MDksLTEyOTE1NjA2NjMsLTc1Mzg0ODIzNiwxMzgzNjA4MDczLC
-0xOTU3MzU1MTEyLDUwMDM5MDExNSwtODExOTg1ODE3LC0xMTQw
-NjE3MTQzLC0xMTAyNDY4ODE2LDk3NTIzNDI4MiwxODA5Mzg1Mj
-E0LDE2ODU5MDExMDEsLTEwNDQ4NDIzMTUsMjAzMjAwMTc4MCwt
-NjU4NDM1MjkzXX0=
+eyJoaXN0b3J5IjpbLTE0MDk4OTY1MTMsLTk5OTc2MTQzNywyMT
+g4OTM2NTgsLTIwNTM1NzEyMzcsLTE3NDE4NDE4NDEsMTIwMzM5
+MjcwOSwtMTI5MTU2MDY2MywtNzUzODQ4MjM2LDEzODM2MDgwNz
+MsLTE5NTczNTUxMTIsNTAwMzkwMTE1LC04MTE5ODU4MTcsLTEx
+NDA2MTcxNDMsLTExMDI0Njg4MTYsOTc1MjM0MjgyLDE4MDkzOD
+UyMTQsMTY4NTkwMTEwMSwtMTA0NDg0MjMxNSwyMDMyMDAxNzgw
+LC02NTg0MzUyOTNdfQ==
 -->
