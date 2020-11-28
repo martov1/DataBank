@@ -796,6 +796,8 @@ Es un filtro que solo deja parar una **frecuencia especifica** (no una banda, un
 [fuente](https://www.youtube.com/watch?v=KxDOmMMo6so&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=49)
 Llamamos resonancia a cuando le impedancia de un inductor se **cancela perfectamente** con la de un capacitor para una frecuencia de resonancia $f_r$ 
 
+En **RESONANCA** todo el **voltaje** pasa por $R$
+
 >Se usa mucho para **sintonizadores de radio** por ejemplo, para poder filtrar una sola frecuencia especifica
 
 ![](https://i.imgur.com/D64Zk9D.png)
@@ -851,7 +853,7 @@ Por eso cuando pones un condensador tiene que estar pensado para la potencia que
 
 A diferencia del circuito en serie, este tiene impedancia maxima cuando llegas a la frecuencia de resonancia $f_r$, eso significa que toda la corriente pasa por $R$.
 
-En **r**
+>En **resonancia** toda la **corriente** pasa por $R$
 
 
 ![](https://i.imgur.com/L7sg0WE.png)
@@ -872,11 +874,11 @@ y por ende
 Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, toda lacorriente pasara por el resistor.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjY3NzQ4MSwyMTg4OTM2NTgsLTIwNT
-M1NzEyMzcsLTE3NDE4NDE4NDEsMTIwMzM5MjcwOSwtMTI5MTU2
-MDY2MywtNzUzODQ4MjM2LDEzODM2MDgwNzMsLTE5NTczNTUxMT
-IsNTAwMzkwMTE1LC04MTE5ODU4MTcsLTExNDA2MTcxNDMsLTEx
-MDI0Njg4MTYsOTc1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMT
-EwMSwtMTA0NDg0MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUyOTMs
-MjE3MDc3OTA2XX0=
+eyJoaXN0b3J5IjpbLTEyMzgxMjYxOTksMjE4ODkzNjU4LC0yMD
+UzNTcxMjM3LC0xNzQxODQxODQxLDEyMDMzOTI3MDksLTEyOTE1
+NjA2NjMsLTc1Mzg0ODIzNiwxMzgzNjA4MDczLC0xOTU3MzU1MT
+EyLDUwMDM5MDExNSwtODExOTg1ODE3LC0xMTQwNjE3MTQzLC0x
+MTAyNDY4ODE2LDk3NTIzNDI4MiwxODA5Mzg1MjE0LDE2ODU5MD
+ExMDEsLTEwNDQ4NDIzMTUsMjAzMjAwMTc4MCwtNjU4NDM1Mjkz
+LDIxNzA3NzkwNl19
 -->
