@@ -792,6 +792,7 @@ Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 
 Es un filtro que solo deja parar una **frecuencia especifica** (no una banda, una frecuencia puntual).
 
+#### Frecuencia de resonancia
 Llamamos resonancia a cuando le impedancia de un inductor se **cancela perfectamente** con la de un capacitor para una frecuencia de resonancia $f_r$ 
 
 >Se usa mucho para **sintonizadores de radio** por ejemplo, para poder filtrar una sola frecuencia especifica
@@ -810,13 +811,15 @@ Reemplazando $w$ por su definicion $w=2\pi f$ y despejando $f$ obtengo $f_r$
 
 $$\boxed{f_r=\frac{1}{2\pi \sqrt{LC}}}$$
 
-A su vez observamos que 
+#### Frecuencia de corte
+
+A su vez observamos que a los costados de esa curva existe un lugar donde la potencia es la **mitad de la maxima**, esos puntos los vamos a considerar como "frecuencias de corte"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5OTgyNDgyLDUwMDM5MDExNSwtODExOT
-g1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2LDk3NTIzNDI4
-MiwxODA5Mzg1MjE0LDE2ODU5MDExMDEsLTEwNDQ4NDIzMTUsMj
-AzMjAwMTc4MCwtNjU4NDM1MjkzLDIxNzA3NzkwNiwtNzgyOTc5
-NzI1LC0xMzY5NTkxMjgxLC0zODQxMzkzMTUsNTc0NzYxNTUsMT
-M4NDA0NzAwMSwtMTY1MDU1NjA3NywtODI4MTAyNzE1LC0xMTE0
-NzAzNDM1XX0=
+eyJoaXN0b3J5IjpbMTE2MjA4NDI2OSw1MDAzOTAxMTUsLTgxMT
+k4NTgxNywtMTE0MDYxNzE0MywtMTEwMjQ2ODgxNiw5NzUyMzQy
+ODIsMTgwOTM4NTIxNCwxNjg1OTAxMTAxLC0xMDQ0ODQyMzE1LD
+IwMzIwMDE3ODAsLTY1ODQzNTI5MywyMTcwNzc5MDYsLTc4Mjk3
+OTcyNSwtMTM2OTU5MTI4MSwtMzg0MTM5MzE1LDU3NDc2MTU1LD
+EzODQwNDcwMDEsLTE2NTA1NTYwNzcsLTgyODEwMjcxNSwtMTEx
+NDcwMzQzNV19
 -->
