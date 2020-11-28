@@ -595,7 +595,13 @@ Son bobinas a las que se les mueve el nucleo, cambiando la inductancia, generalm
 El ajuste en un circuito encendido se hace con un **destornillador de plastico**, ya que el de metal aumenta la permitividad mientras lo ajustas
 
 ![](https://i.imgur.com/dFvq1iq.png =x100)
+# Potencia aparente y react
 
+Aca vemos la corriente y la potencia con un **desface**, como 
+$P=V.I$, vemos que en los momentos en los que
+* **Los dos son positivos:** potencia positiva (real)
+
+![](https://i.imgur.com/R3tgN40.png)
 
 # Circuitos comunes
 
@@ -702,11 +708,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODEwMjcxNSwtMTExNDcwMzQzNSwtMj
-AzNzEyNjcyMiw4NDc2MDc4NjIsMTAwODQ5NzI1MiwtMTc4MjE2
-MDE1NCw4NTUyMjgyMDAsMTM5MDY3NjU4OSwxMjg0ODgwOTQsLT
-E3NDYyMzI1MjAsMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4
-NDEwMjQsMjEzOTI3NzU4OCwtMjA0NTY1MzM4MCw4MjI3MzQ4Nz
-UsLTExODUyNTIzMDEsLTQ2OTYzMzA4MiwxNDE5NzA5NjM2LDIx
-Mzg5OTYyNzBdfQ==
+eyJoaXN0b3J5IjpbLTEzMzAyNjE1MTUsLTgyODEwMjcxNSwtMT
+ExNDcwMzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4NjIsMTAwODQ5
+NzI1MiwtMTc4MjE2MDE1NCw4NTUyMjgyMDAsMTM5MDY3NjU4OS
+wxMjg0ODgwOTQsLTE3NDYyMzI1MjAsMjA0MDc3NTQ4MCwxMjU2
+MjAwOTMyLDE3NTY4NDEwMjQsMjEzOTI3NzU4OCwtMjA0NTY1Mz
+M4MCw4MjI3MzQ4NzUsLTExODUyNTIzMDEsLTQ2OTYzMzA4Miwx
+NDE5NzA5NjM2XX0=
 -->
