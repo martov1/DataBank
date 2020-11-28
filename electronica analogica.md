@@ -792,7 +792,7 @@ Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 
 Es un filtro que solo deja parar una **frecuencia especifica** (no una banda, una frecuencia puntual).
 
-#### Frecuencia de resonancia
+#### Frecuencia de resonancia serie
 [fuente](https://www.youtube.com/watch?v=KxDOmMMo6so&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=49)
 Llamamos resonancia a cuando le impedancia de un inductor se **cancela perfectamente** con la de un capacitor para una frecuencia de resonancia $f_r$ 
 
@@ -845,12 +845,15 @@ $V_l=QV_r$
 Y asi mismo para el condensador
 $V_c=QV_r$
 Por eso cuando pones un condensador tiene que estar pensado para la potencia que ese factor de calidad te puede generar!
+
+#### Frecuencia de resonancia paralelo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTU4ODM0LC0xMjkxNTYwNjYzLC03NT
-M4NDgyMzYsMTM4MzYwODA3MywtMTk1NzM1NTExMiw1MDAzOTAx
-MTUsLTgxMTk4NTgxNywtMTE0MDYxNzE0MywtMTEwMjQ2ODgxNi
-w5NzUyMzQyODIsMTgwOTM4NTIxNCwxNjg1OTAxMTAxLC0xMDQ0
-ODQyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNTI5MywyMTcwNzc5MD
-YsLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MSwtMzg0MTM5MzE1LDU3
-NDc2MTU1XX0=
+eyJoaXN0b3J5IjpbLTIzODAzMTUzNSwtMTI5MTU2MDY2MywtNz
+UzODQ4MjM2LDEzODM2MDgwNzMsLTE5NTczNTUxMTIsNTAwMzkw
+MTE1LC04MTE5ODU4MTcsLTExNDA2MTcxNDMsLTExMDI0Njg4MT
+YsOTc1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0
+NDg0MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUyOTMsMjE3MDc3OT
+A2LC03ODI5Nzk3MjUsLTEzNjk1OTEyODEsLTM4NDEzOTMxNSw1
+NzQ3NjE1NV19
 -->
