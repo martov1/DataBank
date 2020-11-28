@@ -767,6 +767,11 @@ Se calcula como dos filtros alto-bajo separados
 
 **Filtro rechaza banda**
 
+Es un filtro que deja pasar todas las frecuencias salvo las que estan en un rango.
+
+
+
+
 ### Aplicaciones
 En un parlante de 3 speakers que reproducen los sonidos graves, medios y agudos, se usan 3 filtros. 
 * **paso bajo** para los bajos
@@ -777,11 +782,11 @@ Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 
 ![](https://i.imgur.com/d7MkbVD.png)![](https://i.imgur.com/gQrZG5G.png =200x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDk1MjIwLDE4MDkzODUyMTQsMTY4NT
-kwMTEwMSwtMTA0NDg0MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUy
-OTMsMjE3MDc3OTA2LC03ODI5Nzk3MjUsLTEzNjk1OTEyODEsLT
-M4NDEzOTMxNSw1NzQ3NjE1NSwxMzg0MDQ3MDAxLC0xNjUwNTU2
-MDc3LC04MjgxMDI3MTUsLTExMTQ3MDM0MzUsLTIwMzcxMjY3Mj
-IsODQ3NjA3ODYyLDEwMDg0OTcyNTIsLTE3ODIxNjAxNTQsODU1
-MjI4MjAwXX0=
+eyJoaXN0b3J5IjpbLTE3NzE0MDgzNTAsMTgwOTM4NTIxNCwxNj
+g1OTAxMTAxLC0xMDQ0ODQyMzE1LDIwMzIwMDE3ODAsLTY1ODQz
+NTI5MywyMTcwNzc5MDYsLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MS
+wtMzg0MTM5MzE1LDU3NDc2MTU1LDEzODQwNDcwMDEsLTE2NTA1
+NTYwNzcsLTgyODEwMjcxNSwtMTExNDcwMzQzNSwtMjAzNzEyNj
+cyMiw4NDc2MDc4NjIsMTAwODQ5NzI1MiwtMTc4MjE2MDE1NCw4
+NTUyMjgyMDBdfQ==
 -->
