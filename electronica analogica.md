@@ -855,7 +855,7 @@ A diferencia del circuito en serie, este tiene impedancia maxima cuando llegas a
 Si ponemos un capacitor y una bobina en serie, sabemos que
 
 
-$$\frac{1}{Z}=\frac{1}{R}+\frac{1}{jwL}+\frac{1}{jwC}$$
+$$\frac{1}{Z}=\frac{1}{R}+\frac{1}{\frac{1}{jwL}}+\frac{1}{jwC}$$
 Si obtengo el modulo
 $$(1) \frac{1}{Z}=\sqrt{(\frac{1}{R})^2+(\frac{1}{jwL}+wC)^2}$$
 $$(2)Z=\frac{1}{\sqrt{(\frac{1}{R})^2+(\frac{1}{jwL}+wC)^2}}$$
@@ -869,11 +869,11 @@ $$(2)Z=\frac{1}{\sqrt{(\frac{1}{R})^2+(\frac{1}{j(2\pi fL)^2})^2}}$$
 
 osea que a medida que $f \to \inf$, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzM1OTg2LC0yMDUzNTcxMjM3LC0xNz
-QxODQxODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0
-ODIzNiwxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNS
-wtODExOTg1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2LDk3
-NTIzNDI4MiwxODA5Mzg1MjE0LDE2ODU5MDExMDEsLTEwNDQ4ND
-IzMTUsMjAzMjAwMTc4MCwtNjU4NDM1MjkzLDIxNzA3NzkwNiwt
-NzgyOTc5NzI1XX0=
+eyJoaXN0b3J5IjpbLTE4MzUxMTAxMTksLTIwNTM1NzEyMzcsLT
+E3NDE4NDE4NDEsMTIwMzM5MjcwOSwtMTI5MTU2MDY2MywtNzUz
+ODQ4MjM2LDEzODM2MDgwNzMsLTE5NTczNTUxMTIsNTAwMzkwMT
+E1LC04MTE5ODU4MTcsLTExNDA2MTcxNDMsLTExMDI0Njg4MTYs
+OTc1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0ND
+g0MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2
+LC03ODI5Nzk3MjVdfQ==
 -->
