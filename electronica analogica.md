@@ -850,9 +850,12 @@ Por eso cuando pones un condensador tiene que estar pensado para la potencia que
 [fuente](https://www.youtube.com/watch?v=vHFVBn3E3l4&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=50)
 
 
-Si ponemos un capacitor y una bobina en 
+Si ponemos un capacitor y una bobina en serie, sabemos que
+
+$$\frac{1}{Z}=\frac{1}{R}+\frac{1}{jwL}+\frac{1}{jwC}$$
+Si obtengo el modulo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDAyMzgyNiwxMjAzMzkyNzA5LC0xMj
+eyJoaXN0b3J5IjpbLTI3MTE2OTYyOCwxMjAzMzkyNzA5LC0xMj
 kxNTYwNjYzLC03NTM4NDgyMzYsMTM4MzYwODA3MywtMTk1NzM1
 NTExMiw1MDAzOTAxMTUsLTgxMTk4NTgxNywtMTE0MDYxNzE0My
 wtMTEwMjQ2ODgxNiw5NzUyMzQyODIsMTgwOTM4NTIxNCwxNjg1
