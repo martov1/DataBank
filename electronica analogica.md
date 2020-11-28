@@ -794,7 +794,7 @@ Es un filtro que solo deja parar una **frecuencia especifica** (no una banda, un
 
 Llamamos resonancia a cuando le impedancia de un inductor se **cancela perfectamente** con la de un capacitor para una frecuencia de resonancia $f_r$ 
 
-Se usa mucho para **sintonizador**
+>Se usa mucho para **sintonizadores de radio** por ejemplo, para poder filtrar una sola frecuencia especifica
 
 ![](https://i.imgur.com/D64Zk9D.png)
 
@@ -808,11 +808,11 @@ Despejando $w$
 $w=\sqrt{\frac{1}{LC}}$
 Reemplazando $w$ por su definicion $w=2\pi f$ y despejando $f$ obtengo $f_r$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg2OTE3NTYsLTgxMTk4NTgxNywtMT
-E0MDYxNzE0MywtMTEwMjQ2ODgxNiw5NzUyMzQyODIsMTgwOTM4
-NTIxNCwxNjg1OTAxMTAxLC0xMDQ0ODQyMzE1LDIwMzIwMDE3OD
-AsLTY1ODQzNTI5MywyMTcwNzc5MDYsLTc4Mjk3OTcyNSwtMTM2
-OTU5MTI4MSwtMzg0MTM5MzE1LDU3NDc2MTU1LDEzODQwNDcwMD
-EsLTE2NTA1NTYwNzcsLTgyODEwMjcxNSwtMTExNDcwMzQzNSwt
-MjAzNzEyNjcyMl19
+eyJoaXN0b3J5IjpbNTAwMzkwMTE1LC04MTE5ODU4MTcsLTExND
+A2MTcxNDMsLTExMDI0Njg4MTYsOTc1MjM0MjgyLDE4MDkzODUy
+MTQsMTY4NTkwMTEwMSwtMTA0NDg0MjMxNSwyMDMyMDAxNzgwLC
+02NTg0MzUyOTMsMjE3MDc3OTA2LC03ODI5Nzk3MjUsLTEzNjk1
+OTEyODEsLTM4NDEzOTMxNSw1NzQ3NjE1NSwxMzg0MDQ3MDAxLC
+0xNjUwNTU2MDc3LC04MjgxMDI3MTUsLTExMTQ3MDM0MzUsLTIw
+MzcxMjY3MjJdfQ==
 -->
