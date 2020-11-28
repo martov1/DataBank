@@ -544,7 +544,9 @@ En AC la bobina tiene una impedancia igual a
 
 $$\Omega impedance = (w).L=(2\pi f)L$$
 
-Es decir, cuanta **mayor frecuencia**, **mayor impedancia**
+Es decir
+* Cuanta **mayor frecuencia**, **mayor impedancia**
+* Cuanta mayor 
 
 Ademas sabemos que para la bobina
 $$\boxed{\large{i_l(t)=\frac{1}{L}\int V_l(t)dt}}$$
@@ -713,11 +715,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDA0NzAwMSwtMTY1MDU1NjA3NywtOD
-I4MTAyNzE1LC0xMTE0NzAzNDM1LC0yMDM3MTI2NzIyLDg0NzYw
-Nzg2MiwxMDA4NDk3MjUyLC0xNzgyMTYwMTU0LDg1NTIyODIwMC
-wxMzkwNjc2NTg5LDEyODQ4ODA5NCwtMTc0NjIzMjUyMCwyMDQw
-Nzc1NDgwLDEyNTYyMDA5MzIsMTc1Njg0MTAyNCwyMTM5Mjc3NT
-g4LC0yMDQ1NjUzMzgwLDgyMjczNDg3NSwtMTE4NTI1MjMwMSwt
-NDY5NjMzMDgyXX0=
+eyJoaXN0b3J5IjpbLTgzMzMxNTMsMTM4NDA0NzAwMSwtMTY1MD
+U1NjA3NywtODI4MTAyNzE1LC0xMTE0NzAzNDM1LC0yMDM3MTI2
+NzIyLDg0NzYwNzg2MiwxMDA4NDk3MjUyLC0xNzgyMTYwMTU0LD
+g1NTIyODIwMCwxMzkwNjc2NTg5LDEyODQ4ODA5NCwtMTc0NjIz
+MjUyMCwyMDQwNzc1NDgwLDEyNTYyMDA5MzIsMTc1Njg0MTAyNC
+wyMTM5Mjc3NTg4LC0yMDQ1NjUzMzgwLDgyMjczNDg3NSwtMTE4
+NTI1MjMwMV19
 -->
