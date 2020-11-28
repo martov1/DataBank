@@ -847,9 +847,10 @@ $V_c=QV_r$
 Por eso cuando pones un condensador tiene que estar pensado para la potencia que ese factor de calidad te puede generar!
 
 #### Frecuencia de resonancia paralelo
+[fuente](https://www.youtube.com/watch?v=vHFVBn3E3l4&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=50)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODAzMTUzNSwtMTI5MTU2MDY2MywtNz
+eyJoaXN0b3J5IjpbMTIwMzM5MjcwOSwtMTI5MTU2MDY2MywtNz
 UzODQ4MjM2LDEzODM2MDgwNzMsLTE5NTczNTUxMTIsNTAwMzkw
 MTE1LC04MTE5ODU4MTcsLTExNDA2MTcxNDMsLTExMDI0Njg4MT
 YsOTc1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0
