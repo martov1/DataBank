@@ -546,7 +546,7 @@ $$\Omega impedance = (w).L=(2\pi f)L$$
 
 Es decir
 * Cuanta **mayor frecuencia**, **mayor impedancia**
-* Cuanta mayor 
+* Cuanta **mayor inductancia**, **mayor impedancia**
 
 Ademas sabemos que para la bobina
 $$\boxed{\large{i_l(t)=\frac{1}{L}\int V_l(t)dt}}$$
@@ -715,7 +715,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzMxNTMsMTM4NDA0NzAwMSwtMTY1MD
+eyJoaXN0b3J5IjpbNTc0NzYxNTUsMTM4NDA0NzAwMSwtMTY1MD
 U1NjA3NywtODI4MTAyNzE1LC0xMTE0NzAzNDM1LC0yMDM3MTI2
 NzIyLDg0NzYwNzg2MiwxMDA4NDk3MjUyLC0xNzgyMTYwMTU0LD
 g1NTIyODIwMCwxMzkwNjc2NTg5LDEyODQ4ODA5NCwtMTc0NjIz
