@@ -849,18 +849,24 @@ Por eso cuando pones un condensador tiene que estar pensado para la potencia que
 #### Frecuencia de resonancia paralelo
 [fuente](https://www.youtube.com/watch?v=vHFVBn3E3l4&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=50)
 
-
+![](https://i.imgur.com/L7sg0WE.png)
 Si ponemos un capacitor y una bobina en serie, sabemos que
+
 
 $$\frac{1}{Z}=\frac{1}{R}+\frac{1}{jwL}+\frac{1}{jwC}$$
 Si obtengo el modulo
 $$\frac{1}{Z}=\sqrt{(\frac{1}{R})^2+(\frac{1}{jwL}+wC)^2}$$
+
+Ahora si intento buscar la resonancia, como hicimos antes, donde las impedancias son iguales
+$$wC=\frac{1}{wL}$$
+Reemplazando con la definicion de $w$ igual que cuando lo hicimos en serie
+$f_r=\frac{1}{c\pi \sqrt{LC}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2NTA0MywxMjAzMzkyNzA5LC0xMjkxNT
-YwNjYzLC03NTM4NDgyMzYsMTM4MzYwODA3MywtMTk1NzM1NTEx
-Miw1MDAzOTAxMTUsLTgxMTk4NTgxNywtMTE0MDYxNzE0MywtMT
-EwMjQ2ODgxNiw5NzUyMzQyODIsMTgwOTM4NTIxNCwxNjg1OTAx
-MTAxLC0xMDQ0ODQyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNTI5My
-wyMTcwNzc5MDYsLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MSwtMzg0
-MTM5MzE1XX0=
+eyJoaXN0b3J5IjpbLTU1MDM2NjkyOSwxMjAzMzkyNzA5LC0xMj
+kxNTYwNjYzLC03NTM4NDgyMzYsMTM4MzYwODA3MywtMTk1NzM1
+NTExMiw1MDAzOTAxMTUsLTgxMTk4NTgxNywtMTE0MDYxNzE0My
+wtMTEwMjQ2ODgxNiw5NzUyMzQyODIsMTgwOTM4NTIxNCwxNjg1
+OTAxMTAxLC0xMDQ0ODQyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNT
+I5MywyMTcwNzc5MDYsLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MSwt
+Mzg0MTM5MzE1XX0=
 -->
