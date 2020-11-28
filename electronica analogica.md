@@ -849,7 +849,10 @@ Por eso cuando pones un condensador tiene que estar pensado para la potencia que
 #### Frecuencia de resonancia paralelo
 [fuente](https://www.youtube.com/watch?v=vHFVBn3E3l4&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=50)
 
-A diferencia del circuito en serie, este tiene impedancia maxima cuando llegas a la frecuencia de resonancia $f_r$, eso significa que toda la corriente pasa por $R$
+A diferencia del circuito en serie, este tiene impedancia maxima cuando llegas a la frecuencia de resonancia $f_r$, eso significa que toda la corriente pasa por $R$.
+
+En **r**
+
 
 ![](https://i.imgur.com/L7sg0WE.png)
 Si ponemos un capacitor y una bobina en paralelo, sabemos que
@@ -869,11 +872,11 @@ y por ende
 Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, toda lacorriente pasara por el resistor.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0xNz
-QxODQxODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0
-ODIzNiwxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNS
-wtODExOTg1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2LDk3
-NTIzNDI4MiwxODA5Mzg1MjE0LDE2ODU5MDExMDEsLTEwNDQ4ND
-IzMTUsMjAzMjAwMTc4MCwtNjU4NDM1MjkzLDIxNzA3NzkwNiwt
-NzgyOTc5NzI1XX0=
+eyJoaXN0b3J5IjpbMTYzNjY3NzQ4MSwyMTg4OTM2NTgsLTIwNT
+M1NzEyMzcsLTE3NDE4NDE4NDEsMTIwMzM5MjcwOSwtMTI5MTU2
+MDY2MywtNzUzODQ4MjM2LDEzODM2MDgwNzMsLTE5NTczNTUxMT
+IsNTAwMzkwMTE1LC04MTE5ODU4MTcsLTExNDA2MTcxNDMsLTEx
+MDI0Njg4MTYsOTc1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMT
+EwMSwtMTA0NDg0MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUyOTMs
+MjE3MDc3OTA2XX0=
 -->
