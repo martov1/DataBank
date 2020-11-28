@@ -731,13 +731,14 @@ Es la frecuencia a partir de la cual el filtro empieza a actuar  y el filtro com
 Se calcula como:
 * $w.L=R_{th}$ cuando la bobina no esta cargada, solo tiene como resistencia la $R_{thevenin}$, es decir, la bobina no presenta ninguna resistencia
 * como $w=2\pi f$, reemplazando y despejando $f$
-$f =\frac{r}{\pi L}$
+$f_c =\frac{r}{\pi L}$
+A este $f_c$ lo llamamos frecuencia de corte, y es cuando  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3MDU5NjUsLTEzNjk1OTEyODEsLTM4ND
-EzOTMxNSw1NzQ3NjE1NSwxMzg0MDQ3MDAxLC0xNjUwNTU2MDc3
-LC04MjgxMDI3MTUsLTExMTQ3MDM0MzUsLTIwMzcxMjY3MjIsOD
-Q3NjA3ODYyLDEwMDg0OTcyNTIsLTE3ODIxNjAxNTQsODU1MjI4
-MjAwLDEzOTA2NzY1ODksMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLD
-IwNDA3NzU0ODAsMTI1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzky
-Nzc1ODhdfQ==
+eyJoaXN0b3J5IjpbMTcwMzUwODgzNCwtMTM2OTU5MTI4MSwtMz
+g0MTM5MzE1LDU3NDc2MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYw
+NzcsLTgyODEwMjcxNSwtMTExNDcwMzQzNSwtMjAzNzEyNjcyMi
+w4NDc2MDc4NjIsMTAwODQ5NzI1MiwtMTc4MjE2MDE1NCw4NTUy
+MjgyMDAsMTM5MDY3NjU4OSwxMjg0ODgwOTQsLTE3NDYyMzI1Mj
+AsMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4NDEwMjQsMjEz
+OTI3NzU4OF19
 -->
