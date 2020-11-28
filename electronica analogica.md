@@ -735,15 +735,18 @@ Se calcula como:
 * como $w=2\pi f$, reemplazando y despejando $f$
 $\huge{\boxed{f_c =\frac{R_{th}}{\pi L}}}$
 A este $f_c$ lo llamamos frecuencia de corte, y es cuando a este circuito en particular le va a empezar a actuar el filtro de manera significativa
-
+![](https://i.imgur.com/ohxpW8r.png =300x)
 
 **Capacitor:**
+Es super similar, pero usando la formula de impedancia del capacitor en vez de el del inductor
+![](https://i.imgur.com/QCCi3E4.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3NTI0ODcyLC0xMzY5NTkxMjgxLC0zOD
-QxMzkzMTUsNTc0NzYxNTUsMTM4NDA0NzAwMSwtMTY1MDU1NjA3
-NywtODI4MTAyNzE1LC0xMTE0NzAzNDM1LC0yMDM3MTI2NzIyLD
-g0NzYwNzg2MiwxMDA4NDk3MjUyLC0xNzgyMTYwMTU0LDg1NTIy
-ODIwMCwxMzkwNjc2NTg5LDEyODQ4ODA5NCwtMTc0NjIzMjUyMC
-wyMDQwNzc1NDgwLDEyNTYyMDA5MzIsMTc1Njg0MTAyNCwyMTM5
-Mjc3NTg4XX0=
+eyJoaXN0b3J5IjpbLTM1MzQyNjI2NywtMTM2OTU5MTI4MSwtMz
+g0MTM5MzE1LDU3NDc2MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYw
+NzcsLTgyODEwMjcxNSwtMTExNDcwMzQzNSwtMjAzNzEyNjcyMi
+w4NDc2MDc4NjIsMTAwODQ5NzI1MiwtMTc4MjE2MDE1NCw4NTUy
+MjgyMDAsMTM5MDY3NjU4OSwxMjg0ODgwOTQsLTE3NDYyMzI1Mj
+AsMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4NDEwMjQsMjEz
+OTI3NzU4OF19
 -->
