@@ -826,13 +826,14 @@ Al rango de **frecuencias entre las frecuencias de corte** le decimos **ancho de
 El factor de calidad del circuito $Q$ es que tan grande es el ancho de banda que deja pasar mas alla de la frecuencia de resonancia $F_r$.
 
 En un circuito de un sintonizador de radio por ejemplo, cuanta mas calidad, menos de otras frecuencias escuchamos y mas de la frecuencia $f_r$.
-es decir $\absf_1-f_1$
+
+$\boxed{Q \to \inf \Rightarrow |f_1-f_2| \to 0}$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDIwNjg5NjMsLTE5NTczNTUxMTIsNT
-AwMzkwMTE1LC04MTE5ODU4MTcsLTExNDA2MTcxNDMsLTExMDI0
-Njg4MTYsOTc1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMS
-wtMTA0NDg0MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUyOTMsMjE3
-MDc3OTA2LC03ODI5Nzk3MjUsLTEzNjk1OTEyODEsLTM4NDEzOT
-MxNSw1NzQ3NjE1NSwxMzg0MDQ3MDAxLC0xNjUwNTU2MDc3LC04
-MjgxMDI3MTVdfQ==
+eyJoaXN0b3J5IjpbLTkwMTY1Mzc2LC0xOTU3MzU1MTEyLDUwMD
+M5MDExNSwtODExOTg1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4
+ODE2LDk3NTIzNDI4MiwxODA5Mzg1MjE0LDE2ODU5MDExMDEsLT
+EwNDQ4NDIzMTUsMjAzMjAwMTc4MCwtNjU4NDM1MjkzLDIxNzA3
+NzkwNiwtNzgyOTc5NzI1LC0xMzY5NTkxMjgxLC0zODQxMzkzMT
+UsNTc0NzYxNTUsMTM4NDA0NzAwMSwtMTY1MDU1NjA3NywtODI4
+MTAyNzE1XX0=
 -->
