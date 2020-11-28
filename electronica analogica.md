@@ -715,7 +715,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 
-## Filtros simples
+## Filtros pasivos
 
 ### Filtro alto-bajo
 Es un filtro que filtra las **frecuencias altas** o las **frecuencias bajas**, esto se hace aprovechando que
@@ -777,11 +777,11 @@ Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 
 ![](https://i.imgur.com/d7MkbVD.png)![](https://i.imgur.com/gQrZG5G.png =200x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTM4NTIxNCwxNjg1OTAxMTAxLC0xMD
-Q0ODQyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNTI5MywyMTcwNzc5
-MDYsLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MSwtMzg0MTM5MzE1LD
-U3NDc2MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYwNzcsLTgyODEw
-MjcxNSwtMTExNDcwMzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4Nj
-IsMTAwODQ5NzI1MiwtMTc4MjE2MDE1NCw4NTUyMjgyMDAsMTM5
-MDY3NjU4OV19
+eyJoaXN0b3J5IjpbLTU1NDk1MjIwLDE4MDkzODUyMTQsMTY4NT
+kwMTEwMSwtMTA0NDg0MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUy
+OTMsMjE3MDc3OTA2LC03ODI5Nzk3MjUsLTEzNjk1OTEyODEsLT
+M4NDEzOTMxNSw1NzQ3NjE1NSwxMzg0MDQ3MDAxLC0xNjUwNTU2
+MDc3LC04MjgxMDI3MTUsLTExMTQ3MDM0MzUsLTIwMzcxMjY3Mj
+IsODQ3NjA3ODYyLDEwMDg0OTcyNTIsLTE3ODIxNjAxNTQsODU1
+MjI4MjAwXX0=
 -->
