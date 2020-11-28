@@ -321,7 +321,9 @@ Es **critico** notar que
 Forma una impedancia que se calcula como
 $$\Omega impedance = \frac{1}{(w).L}=\frac{1}{(2\pi f)L}$$
 
-osea que **a menos frecuencia, mas impedancia!**
+* osea que **a menos frecuencia, mas impedancia!**
+* Cuanto **mas chico el capacitor, mas impedancia**
+	* Si es lo suficientemente grande tal vez ni notes un cambio
 
 
 
@@ -711,11 +713,11 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA1NTYwNzcsLTgyODEwMjcxNSwtMT
-ExNDcwMzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4NjIsMTAwODQ5
-NzI1MiwtMTc4MjE2MDE1NCw4NTUyMjgyMDAsMTM5MDY3NjU4OS
-wxMjg0ODgwOTQsLTE3NDYyMzI1MjAsMjA0MDc3NTQ4MCwxMjU2
-MjAwOTMyLDE3NTY4NDEwMjQsMjEzOTI3NzU4OCwtMjA0NTY1Mz
-M4MCw4MjI3MzQ4NzUsLTExODUyNTIzMDEsLTQ2OTYzMzA4Miwx
-NDE5NzA5NjM2XX0=
+eyJoaXN0b3J5IjpbMTM4NDA0NzAwMSwtMTY1MDU1NjA3NywtOD
+I4MTAyNzE1LC0xMTE0NzAzNDM1LC0yMDM3MTI2NzIyLDg0NzYw
+Nzg2MiwxMDA4NDk3MjUyLC0xNzgyMTYwMTU0LDg1NTIyODIwMC
+wxMzkwNjc2NTg5LDEyODQ4ODA5NCwtMTc0NjIzMjUyMCwyMDQw
+Nzc1NDgwLDEyNTYyMDA5MzIsMTc1Njg0MTAyNCwyMTM5Mjc3NT
+g4LC0yMDQ1NjUzMzgwLDgyMjczNDg3NSwtMTE4NTI1MjMwMSwt
+NDY5NjMzMDgyXX0=
 -->
