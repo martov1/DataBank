@@ -903,12 +903,18 @@ $$n=\frac{vueltas_1}{vueltas_2}=\frac{v_1}{v_2}=\frac{I_2}{I_1}$$
 La regla de la mano derecha te indica la polaridad de cada devanado del transformador. tenemos que tener en cuenta como la bobina enrrolla al campo magnetico
 
 ![](https://i.imgur.com/6cAVlOy.png)
+### Transformadores de varias salidas
+
+Son transformadores que tienen varios cables saliendo de varios puntos del debanado, permitiendo sacar diferentes tensiones de ellos debido a que cambia la relacion de conversion
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDIwNjE0NjIsLTk5OTc2MTQzNywyMT
-g4OTM2NTgsLTIwNTM1NzEyMzcsLTE3NDE4NDE4NDEsMTIwMzM5
-MjcwOSwtMTI5MTU2MDY2MywtNzUzODQ4MjM2LDEzODM2MDgwNz
-MsLTE5NTczNTUxMTIsNTAwMzkwMTE1LC04MTE5ODU4MTcsLTEx
-NDA2MTcxNDMsLTExMDI0Njg4MTYsOTc1MjM0MjgyLDE4MDkzOD
-UyMTQsMTY4NTkwMTEwMSwtMTA0NDg0MjMxNSwyMDMyMDAxNzgw
-LC02NTg0MzUyOTNdfQ==
+eyJoaXN0b3J5IjpbODY4NDIyMTkxLC0xNTQyMDYxNDYyLC05OT
+k3NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0xNzQxODQx
+ODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0ODIzNi
+wxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNSwtODEx
+OTg1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2LDk3NTIzND
+I4MiwxODA5Mzg1MjE0LDE2ODU5MDExMDEsLTEwNDQ4NDIzMTUs
+MjAzMjAwMTc4MF19
 -->
