@@ -830,14 +830,14 @@ En un circuito de un sintonizador de radio por ejemplo, cuanta mas calidad, meno
 $\boxed{Q \to \inf \Rightarrow |f_1-f_2| \to 0}$ 
 
 Esto se determina, logicamente, como
-
+$\boxed{Q =\frac{f_r}{|f_1-f_2|}}$ 
 $\boxed{Q =\frac{f_r}{|f_1-f_2|}}$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzYwODA3MywtMTk1NzM1NTExMiw1MD
-AzOTAxMTUsLTgxMTk4NTgxNywtMTE0MDYxNzE0MywtMTEwMjQ2
-ODgxNiw5NzUyMzQyODIsMTgwOTM4NTIxNCwxNjg1OTAxMTAxLC
-0xMDQ0ODQyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNTI5MywyMTcw
-Nzc5MDYsLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MSwtMzg0MTM5Mz
-E1LDU3NDc2MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYwNzcsLTgy
-ODEwMjcxNV19
+eyJoaXN0b3J5IjpbMTI1MTM3NjAwMiwxMzgzNjA4MDczLC0xOT
+U3MzU1MTEyLDUwMDM5MDExNSwtODExOTg1ODE3LC0xMTQwNjE3
+MTQzLC0xMTAyNDY4ODE2LDk3NTIzNDI4MiwxODA5Mzg1MjE0LD
+E2ODU5MDExMDEsLTEwNDQ4NDIzMTUsMjAzMjAwMTc4MCwtNjU4
+NDM1MjkzLDIxNzA3NzkwNiwtNzgyOTc5NzI1LC0xMzY5NTkxMj
+gxLC0zODQxMzkzMTUsNTc0NzYxNTUsMTM4NDA0NzAwMSwtMTY1
+MDU1NjA3N119
 -->
