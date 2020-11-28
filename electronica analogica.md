@@ -898,11 +898,12 @@ $$n=\frac{vueltas_1}{vueltas_2}=\frac{v_1}{v_2}=\frac{I_2}{I_1}$$
 
 * Tienen en cuenta el nucleo del transformador, que puede tener mejor o peor conductancia magnetica.
 * Tienen en cuenta la resistencia de cable del que esta costruido el transformador
-* Un transformador real tiene dos limitantes, las cuales el fabricante te las expresa diciendote
+* Un transformador real tiene dos limitantes
 	* **SU IMPEDANCIA INTERNA** 
 		* que genera una caida de tension, la cual crece cuanta mas corriente pedimos.
 	* **El ancho de sus cables**
 		* Que determina la maxima corriente que puede pasar por el transformador sin recalentarse por efecto joule
+* Estas limitaciones el fabricante te las expresa diciendote la maxima potencia aparente para la que el transformador esta diseñado
 
 ![](https://i.imgur.com/UUWybFN.png =400x)
 
@@ -938,11 +939,11 @@ $$230/12/12 - A$$
 
 ![](https://i.imgur.com/cxilMNZ.png =150x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI2NjgyMzYsLTE1NDIwNjE0NjIsLT
-k5OTc2MTQzNywyMTg4OTM2NTgsLTIwNTM1NzEyMzcsLTE3NDE4
-NDE4NDEsMTIwMzM5MjcwOSwtMTI5MTU2MDY2MywtNzUzODQ4Mj
-M2LDEzODM2MDgwNzMsLTE5NTczNTUxMTIsNTAwMzkwMTE1LC04
-MTE5ODU4MTcsLTExNDA2MTcxNDMsLTExMDI0Njg4MTYsOTc1Mj
-M0MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0NDg0MjMx
-NSwyMDMyMDAxNzgwXX0=
+eyJoaXN0b3J5IjpbLTY3MzQyNzY5NSwtMTU0MjA2MTQ2MiwtOT
+k5NzYxNDM3LDIxODg5MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0
+MTg0MSwxMjAzMzkyNzA5LC0xMjkxNTYwNjYzLC03NTM4NDgyMz
+YsMTM4MzYwODA3MywtMTk1NzM1NTExMiw1MDAzOTAxMTUsLTgx
+MTk4NTgxNywtMTE0MDYxNzE0MywtMTEwMjQ2ODgxNiw5NzUyMz
+QyODIsMTgwOTM4NTIxNCwxNjg1OTAxMTAxLC0xMDQ0ODQyMzE1
+LDIwMzIwMDE3ODBdfQ==
 -->
