@@ -765,11 +765,16 @@ Se calcula como dos filtros alto-bajo separados
 
 ![](https://i.imgur.com/tcByJuD.png)
 ### Aplicaciones
-En un parlante de 3 speakers que reproducen los sonidos graves, medios y agudos, se usan 3 filtros.
+En un parlante de 3 speakers que reproducen los sonidos graves, medios y agudos, se usan 3 filtros. 
+* **paso bajo** para los bajos
+* **paso alto** para los altos
+* **paso banda** para los medios
+
+Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 
 ![](https://i.imgur.com/d7MkbVD.png)![](https://i.imgur.com/gQrZG5G.png =200x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg2NTE3MDksLTEwNDQ4NDIzMTUsMj
+eyJoaXN0b3J5IjpbLTE2NjU0NjUyNjEsLTEwNDQ4NDIzMTUsMj
 AzMjAwMTc4MCwtNjU4NDM1MjkzLDIxNzA3NzkwNiwtNzgyOTc5
 NzI1LC0xMzY5NTkxMjgxLC0zODQxMzkzMTUsNTc0NzYxNTUsMT
 M4NDA0NzAwMSwtMTY1MDU1NjA3NywtODI4MTAyNzE1LC0xMTE0
