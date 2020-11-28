@@ -858,17 +858,20 @@ Si ponemos un capacitor y una bobina en serie, sabemos que
 $$\frac{1}{Z}=\frac{1}{R}+\frac{1}{jwL}+\frac{1}{jwC}$$
 Si obtengo el modulo
 $$(1) \frac{1}{Z}=\sqrt{(\frac{1}{R})^2+(\frac{1}{jwL}+wC)^2}$$
-
+$$(2)Z=\frac{1}{\sqrt{(\frac{1}{R})^2+(\frac{1}{jwL}+wC)^2}}$$
 Ahora si intento buscar la resonancia, como hicimos antes, donde las impedancias son iguales
 $$wC=\frac{1}{wL}$$
-Reemplazando con la definicion de $w$ igual que cuando lo hicimos en serie
-$$f_r=\frac{1}{c\pi \sqrt{LC}}$$
+
+Indicando que 
+
+$$(2)Z=\frac{1}{\sqrt{(\frac{1}{R})^2+(\frac{1}{jwL}C)^2}}$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM1NzEyMzcsLTE3NDE4NDE4NDEsMT
-IwMzM5MjcwOSwtMTI5MTU2MDY2MywtNzUzODQ4MjM2LDEzODM2
-MDgwNzMsLTE5NTczNTUxMTIsNTAwMzkwMTE1LC04MTE5ODU4MT
-csLTExNDA2MTcxNDMsLTExMDI0Njg4MTYsOTc1MjM0MjgyLDE4
-MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0NDg0MjMxNSwyMDMyMD
-AxNzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2LC03ODI5Nzk3MjUs
-LTEzNjk1OTEyODFdfQ==
+eyJoaXN0b3J5IjpbMTg1Mjg4NzYxMSwtMjA1MzU3MTIzNywtMT
+c0MTg0MTg0MSwxMjAzMzkyNzA5LC0xMjkxNTYwNjYzLC03NTM4
+NDgyMzYsMTM4MzYwODA3MywtMTk1NzM1NTExMiw1MDAzOTAxMT
+UsLTgxMTk4NTgxNywtMTE0MDYxNzE0MywtMTEwMjQ2ODgxNiw5
+NzUyMzQyODIsMTgwOTM4NTIxNCwxNjg1OTAxMTAxLC0xMDQ0OD
+QyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNTI5MywyMTcwNzc5MDYs
+LTc4Mjk3OTcyNV19
 -->
