@@ -777,7 +777,10 @@ Es un filtro que deja pasar todas las frecuencias salvo las que estan en un rang
 #### Resonancia
 
 Llamamos resonancia a cuando le impedancia de un inductor se **cancela perfectamente** con la de un capacitor para una frecuencia de resonancia $f_r$ y se puede usar para los filtros **rechaza banda**
-
+![](https://i.imgur.com/OORFrqa.png)
+Podemos calcular la resonancia en este circuito IRL en paralelo viendo cuando la impedancia del inductor es igual a la del capacitor.
+$text{In}=\frac{1}{wc}$
+$wl=\frac{1}{wc}$
 
 
 
@@ -792,11 +795,11 @@ Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 ![](https://i.imgur.com/d7MkbVD.png)![](https://i.imgur.com/gQrZG5G.png =200x)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjQwODAxMSwtMTEwMjQ2ODgxNiw5Nz
-UyMzQyODIsMTgwOTM4NTIxNCwxNjg1OTAxMTAxLC0xMDQ0ODQy
-MzE1LDIwMzIwMDE3ODAsLTY1ODQzNTI5MywyMTcwNzc5MDYsLT
-c4Mjk3OTcyNSwtMTM2OTU5MTI4MSwtMzg0MTM5MzE1LDU3NDc2
-MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYwNzcsLTgyODEwMjcxNS
-wtMTExNDcwMzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4NjIsMTAw
-ODQ5NzI1Ml19
+eyJoaXN0b3J5IjpbLTE2MjY5MzE1MzIsLTExMDI0Njg4MTYsOT
+c1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0NDg0
+MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2LC
+03ODI5Nzk3MjUsLTEzNjk1OTEyODEsLTM4NDEzOTMxNSw1NzQ3
+NjE1NSwxMzg0MDQ3MDAxLC0xNjUwNTU2MDc3LC04MjgxMDI3MT
+UsLTExMTQ3MDM0MzUsLTIwMzcxMjY3MjIsODQ3NjA3ODYyLDEw
+MDg0OTcyNTJdfQ==
 -->
