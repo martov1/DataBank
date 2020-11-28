@@ -877,6 +877,7 @@ Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, t
 
 # Transformadores
 
+
 ### Transformadores ideales
 Son elementos que transforman 
 * variacion de corriente y voltaje en variacion de campo electrico
@@ -913,8 +914,15 @@ Esto funciona debido a que las tensiones salientes tienen un desface de 90º par
 * **fase1-neutro** $12V$
 * * **fase2-neutro** $12V$
 * * **fase1-fase2** $24V$ por un desfajase de 90º
+
+### Valores
+
+Los valores principales de un transformador son en genera 
+* Voltaje de entrada
+* voltajes de salida
+* maximo amperaje de sali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODk4ODE4MCwtMTU0MjA2MTQ2MiwtOT
+eyJoaXN0b3J5IjpbMTYyMTQ0NzQ2MCwtMTU0MjA2MTQ2MiwtOT
 k5NzYxNDM3LDIxODg5MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0
 MTg0MSwxMjAzMzkyNzA5LC0xMjkxNTYwNjYzLC03NTM4NDgyMz
 YsMTM4MzYwODA3MywtMTk1NzM1NTExMiw1MDAzOTAxMTUsLTgx
