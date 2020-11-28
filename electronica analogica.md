@@ -729,14 +729,15 @@ Es un filtro que filtra las **frecuencias altas** o las **frecuencias bajas**, e
 
 Es la frecuencia a partir de la cual el filtro empieza a actuar  y el filtro comienza a no dejar pasar la tension.
 Se calcula como:
-$w.L=R_{th}$
+* $w.L=R_{th}$ cuando la bobina no esta cargada, solo tiene como resistencia la $R_{thevenin}$, es decir, la bobina no presenta ninguna resistencia
+* como $$
 $f_c=\frac{r}{\pi L}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTk4Mzc2MCwtMTM2OTU5MTI4MSwtMz
-g0MTM5MzE1LDU3NDc2MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYw
-NzcsLTgyODEwMjcxNSwtMTExNDcwMzQzNSwtMjAzNzEyNjcyMi
-w4NDc2MDc4NjIsMTAwODQ5NzI1MiwtMTc4MjE2MDE1NCw4NTUy
-MjgyMDAsMTM5MDY3NjU4OSwxMjg0ODgwOTQsLTE3NDYyMzI1Mj
-AsMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4NDEwMjQsMjEz
-OTI3NzU4OF19
+eyJoaXN0b3J5IjpbLTIxNDM3MDI1ODQsLTEzNjk1OTEyODEsLT
+M4NDEzOTMxNSw1NzQ3NjE1NSwxMzg0MDQ3MDAxLC0xNjUwNTU2
+MDc3LC04MjgxMDI3MTUsLTExMTQ3MDM0MzUsLTIwMzcxMjY3Mj
+IsODQ3NjA3ODYyLDEwMDg0OTcyNTIsLTE3ODIxNjAxNTQsODU1
+MjI4MjAwLDEzOTA2NzY1ODksMTI4NDg4MDk0LC0xNzQ2MjMyNT
+IwLDIwNDA3NzU0ODAsMTI1NjIwMDkzMiwxNzU2ODQxMDI0LDIx
+MzkyNzc1ODhdfQ==
 -->
