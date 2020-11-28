@@ -727,13 +727,16 @@ Es un filtro que filtra las **frecuencias altas** o las **frecuencias bajas**, e
 ![](https://i.imgur.com/vim2R55.png =x300)
 ### Frecuencia de corte
 
-Es la frecuancia a partir de la cual el filtro empieza a actuar  y la 
+Es la frecuencia a partir de la cual el filtro empieza a actuar  y el filtro comienza a no dejar pasar la tension.
+Se calcula como
+$w.L=$
+$f_c=\frac{r}{\pi L}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzI5MDk4MiwtMzg0MTM5MzE1LDU3ND
-c2MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYwNzcsLTgyODEwMjcx
-NSwtMTExNDcwMzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4NjIsMT
-AwODQ5NzI1MiwtMTc4MjE2MDE1NCw4NTUyMjgyMDAsMTM5MDY3
-NjU4OSwxMjg0ODgwOTQsLTE3NDYyMzI1MjAsMjA0MDc3NTQ4MC
-wxMjU2MjAwOTMyLDE3NTY4NDEwMjQsMjEzOTI3NzU4OCwtMjA0
-NTY1MzM4MF19
+eyJoaXN0b3J5IjpbLTEzNjk1OTEyODEsLTM4NDEzOTMxNSw1Nz
+Q3NjE1NSwxMzg0MDQ3MDAxLC0xNjUwNTU2MDc3LC04MjgxMDI3
+MTUsLTExMTQ3MDM0MzUsLTIwMzcxMjY3MjIsODQ3NjA3ODYyLD
+EwMDg0OTcyNTIsLTE3ODIxNjAxNTQsODU1MjI4MjAwLDEzOTA2
+NzY1ODksMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLDIwNDA3NzU0OD
+AsMTI1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzkyNzc1ODgsLTIw
+NDU2NTMzODBdfQ==
 -->
