@@ -796,8 +796,8 @@ Es un filtro que solo deja parar una frecuencia especifica.
 
 Llamamos resonancia a cuando le impedancia de un inductor se **cancela perfectamente** con la de un capacitor para una frecuencia de resonancia $f_r$ 
 
+![](https://i.imgur.com/D64Zk9D.png)
 
-![](https://i.imgur.com/OORFrqa.png)
 Podemos calcular la resonancia en este circuito IRL en paralelo viendo cuando la impedancia del inductor es igual a la del capacitor.
 
 $\text{Inductor } \Omega  =\text{Capacitor } \Omega$
@@ -808,7 +808,7 @@ Despejando $w$
 $w=\sqrt{\frac{1}{LC}}$
 Reemplazando $w$ por su definicion $w=2\pi f$ y despejando $f$ obtengo $f_r$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzU0NjA5NSwtMTE0MDYxNzE0MywtMT
+eyJoaXN0b3J5IjpbMTk2MDg1OTYxNSwtMTE0MDYxNzE0MywtMT
 EwMjQ2ODgxNiw5NzUyMzQyODIsMTgwOTM4NTIxNCwxNjg1OTAx
 MTAxLC0xMDQ0ODQyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNTI5My
 wyMTcwNzc5MDYsLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MSwtMzg0
