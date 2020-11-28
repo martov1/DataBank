@@ -714,12 +714,14 @@ La linea roja es la potencia total, y es igual a la suma de las dos lineas morad
 Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar el circuito como un RC
 
 ![](https://i.imgur.com/0OMngol.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NzYxNTUsMTM4NDA0NzAwMSwtMTY1MD
-U1NjA3NywtODI4MTAyNzE1LC0xMTE0NzAzNDM1LC0yMDM3MTI2
-NzIyLDg0NzYwNzg2MiwxMDA4NDk3MjUyLC0xNzgyMTYwMTU0LD
-g1NTIyODIwMCwxMzkwNjc2NTg5LDEyODQ4ODA5NCwtMTc0NjIz
-MjUyMCwyMDQwNzc1NDgwLDEyNTYyMDA5MzIsMTc1Njg0MTAyNC
-wyMTM5Mjc3NTg4LC0yMDQ1NjUzMzgwLDgyMjczNDg3NSwtMTE4
-NTI1MjMwMV19
+eyJoaXN0b3J5IjpbMTAzNDY2MzgzMSw1NzQ3NjE1NSwxMzg0MD
+Q3MDAxLC0xNjUwNTU2MDc3LC04MjgxMDI3MTUsLTExMTQ3MDM0
+MzUsLTIwMzcxMjY3MjIsODQ3NjA3ODYyLDEwMDg0OTcyNTIsLT
+E3ODIxNjAxNTQsODU1MjI4MjAwLDEzOTA2NzY1ODksMTI4NDg4
+MDk0LC0xNzQ2MjMyNTIwLDIwNDA3NzU0ODAsMTI1NjIwMDkzMi
+wxNzU2ODQxMDI0LDIxMzkyNzc1ODgsLTIwNDU2NTMzODAsODIy
+NzM0ODc1XX0=
 -->
