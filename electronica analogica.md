@@ -840,14 +840,17 @@ $\boxed{Q =\frac{f_r}{|f_1-f_2|}}$
 
 $Q=\frac{V_l}{V_r}=\frac{V_c}{V_r}$
 
-Esto implica como efecto secundario, si tengo un alto factor de calidad, tal vez tenga una muy alta
+Esto implica como efecto secundario, si tengo un alto factor de calidad, tal vez tenga una muy alta tension en la bobina
 $V_l=QV_r$
+Y asi mismo para el condensador
+$V_c=QV_r$
+Por eso cuando pones un condensador tiene que estar pensado para la potencia que ese factor de calidad te puede generar!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDM5NDg0MCwtMTI5MTU2MDY2MywtNz
-UzODQ4MjM2LDEzODM2MDgwNzMsLTE5NTczNTUxMTIsNTAwMzkw
-MTE1LC04MTE5ODU4MTcsLTExNDA2MTcxNDMsLTExMDI0Njg4MT
-YsOTc1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0
-NDg0MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUyOTMsMjE3MDc3OT
-A2LC03ODI5Nzk3MjUsLTEzNjk1OTEyODEsLTM4NDEzOTMxNSw1
-NzQ3NjE1NV19
+eyJoaXN0b3J5IjpbMTQ0MTU4ODM0LC0xMjkxNTYwNjYzLC03NT
+M4NDgyMzYsMTM4MzYwODA3MywtMTk1NzM1NTExMiw1MDAzOTAx
+MTUsLTgxMTk4NTgxNywtMTE0MDYxNzE0MywtMTEwMjQ2ODgxNi
+w5NzUyMzQyODIsMTgwOTM4NTIxNCwxNjg1OTAxMTAxLC0xMDQ0
+ODQyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNTI5MywyMTcwNzc5MD
+YsLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MSwtMzg0MTM5MzE1LDU3
+NDc2MTU1XX0=
 -->
