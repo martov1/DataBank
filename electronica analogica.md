@@ -830,10 +830,15 @@ En un circuito de un sintonizador de radio por ejemplo, cuanta mas calidad, meno
 $\boxed{Q \to \inf \Rightarrow |f_1-f_2| \to 0}$ 
 
 Esto se determina, logicamente, como
+$\boxed{|f_1-f_2|=\frac{f_r}{Q}}$ 
+ó
 $\boxed{Q =\frac{f_r}{|f_1-f_2|}}$ 
-$\boxed{Q =\frac{f_r}{|f_1-f_2|}}$ 
+
+
+**Como lo calculamos:**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTM3NjAwMiwxMzgzNjA4MDczLC0xOT
+eyJoaXN0b3J5IjpbLTc1Mzg0ODIzNiwxMzgzNjA4MDczLC0xOT
 U3MzU1MTEyLDUwMDM5MDExNSwtODExOTg1ODE3LC0xMTQwNjE3
 MTQzLC0xMTAyNDY4ODE2LDk3NTIzNDI4MiwxODA5Mzg1MjE0LD
 E2ODU5MDExMDEsLTEwNDQ4NDIzMTUsMjAzMjAwMTc4MCwtNjU4
