@@ -838,13 +838,16 @@ $\boxed{Q =\frac{f_r}{|f_1-f_2|}}$
 **Como lo calculamos:**
 [fuente, no se entiende exactamente de donde sale](https://www.youtube.com/watch?v=KxDOmMMo6so&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=49)
 
-$Q=\frac{V_l}{V_r}$
+$Q=\frac{V_l}{V_r}=\frac{V_c}{V_r}$
+
+Esto implica como efecto secundario, si tengo un alto factor de calidad, tal vez tenga una muy alta
+$V_l=QV_r$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE1NjA2NjMsLTc1Mzg0ODIzNiwxMz
-gzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNSwtODExOTg1
-ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2LDk3NTIzNDI4Mi
-wxODA5Mzg1MjE0LDE2ODU5MDExMDEsLTEwNDQ4NDIzMTUsMjAz
-MjAwMTc4MCwtNjU4NDM1MjkzLDIxNzA3NzkwNiwtNzgyOTc5Nz
-I1LC0xMzY5NTkxMjgxLC0zODQxMzkzMTUsNTc0NzYxNTUsMTM4
-NDA0NzAwMV19
+eyJoaXN0b3J5IjpbMTM3MDM5NDg0MCwtMTI5MTU2MDY2MywtNz
+UzODQ4MjM2LDEzODM2MDgwNzMsLTE5NTczNTUxMTIsNTAwMzkw
+MTE1LC04MTE5ODU4MTcsLTExNDA2MTcxNDMsLTExMDI0Njg4MT
+YsOTc1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0
+NDg0MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUyOTMsMjE3MDc3OT
+A2LC03ODI5Nzk3MjUsLTEzNjk1OTEyODEsLTM4NDEzOTMxNSw1
+NzQ3NjE1NV19
 -->
