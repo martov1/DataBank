@@ -857,11 +857,19 @@ Si ponemos un capacitor y una bobina en paralelo, sabemos que
 
 $$Z_{paralelo}=\frac{(Z_l)(-Z_c)}{Z_l+(-Z_c)}$$
 
-Cuando nos aproximamos a $$Z_l=Z_c$$, vemos que $Z_{paralelo} \to 0$ y po
+Cuando nos aproximamos a la frecuencia de resonancia, sucede que
+$$Z_l=Z_c$$
 
-osea que a medida que $f \to \inf$, 
+Entonces nos damos cuenta que
+ $Z_l+(-Z_c) \to 0$ 
+ 
+y por ende
+ $Z_{paralelo} \to \inf$
+
+Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, toda lacorriente pasara por el resistor.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNTYwMjAyLC0yMDUzNTcxMjM3LC0xNz
+eyJoaXN0b3J5IjpbMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0xNz
 QxODQxODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0
 ODIzNiwxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNS
 wtODExOTg1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2LDk3
