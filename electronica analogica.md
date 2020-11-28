@@ -599,7 +599,10 @@ El ajuste en un circuito encendido se hace con un **destornillador de plastico**
 
 Aca vemos la corriente y la potencia con un **desface**, como 
 $P=V.I$, vemos que en los momentos en los que
-* **Los dos son positivos:** potencia positiva (real)
+* **Los dos son positivos:** potencia positiva (activa)
+* **los dos son negativos:** Potencia positiva (activa)
+* **solo uno es negativo:** Potencia negativa (reactiva)
+	* La potencia vuelve al generador 
 
 ![](https://i.imgur.com/R3tgN40.png)
 
@@ -708,7 +711,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAyNjE1MTUsLTgyODEwMjcxNSwtMT
+eyJoaXN0b3J5IjpbLTE2NTA1NTYwNzcsLTgyODEwMjcxNSwtMT
 ExNDcwMzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4NjIsMTAwODQ5
 NzI1MiwtMTc4MjE2MDE1NCw4NTUyMjgyMDAsMTM5MDY3NjU4OS
 wxMjg0ODgwOTQsLTE3NDYyMzI1MjAsMjA0MDc3NTQ4MCwxMjU2
