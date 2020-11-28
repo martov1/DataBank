@@ -905,12 +905,12 @@ La regla de la mano derecha te indica la polaridad de cada devanado del transfor
 ![](https://i.imgur.com/6cAVlOy.png)
 ### Transformadores de varias salidas
 
-Son transformadores que tienen varios cables saliendo de varios puntos del debanado, permitiendo sacar diferentes tensiones de ellos debido a que cambia la relacion de conversion
+Son transformadores que tienen varios cables saliendo de varios puntos del debanado, permitiendo sacar diferentes tensiones de ellos debido a que cambia la relación de conversión
 
-
-
+![](https://i.imgur.com/pRdOrVb.png)
+Esto funciona debido a que las tensiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4NDIyMTkxLC0xNTQyMDYxNDYyLC05OT
+eyJoaXN0b3J5IjpbMTU4NTE0NTAyLC0xNTQyMDYxNDYyLC05OT
 k3NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0xNzQxODQx
 ODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0ODIzNi
 wxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNSwtODEx
