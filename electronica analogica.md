@@ -774,19 +774,8 @@ Es un filtro que deja pasar todas las frecuencias salvo las que estan en un rang
 
 ![](https://i.imgur.com/tIXxpWz.png)
 
-#### Resonancia
 
-Llamamos resonancia a cuando le impedancia de un inductor se **cancela perfectamente** con la de un capacitor para una frecuencia de resonancia $f_r$ y se puede usar para los filtros **rechaza banda**
-![](https://i.imgur.com/OORFrqa.png)
-Podemos calcular la resonancia en este circuito IRL en paralelo viendo cuando la impedancia del inductor es igual a la del capacitor.
 
-$\text{Inductor } \Omega  =\text{Capacitor } \Omega$
-osea
-$wL=\frac{1}{wc}$
-
-Despejando $w$
-$w=\sqrt{\frac{1}{LC}}$
-Reemplazando $w$ por su definicion $w=2\pi f$ y despejando $f$ obtengo $f_r$
 
 $$\large{\boxed{f_r=\frac{1}{2\pi \sqrt{LC}}}}$$
 
@@ -799,13 +788,31 @@ En un parlante de 3 speakers que reproducen los sonidos graves, medios y agudos,
 Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 
 ![](https://i.imgur.com/d7MkbVD.png)![](https://i.imgur.com/gQrZG5G.png =200x)
+### Filtro de  Resonancia
 
+Es un filtro que solo deja parar una frecuencia especifica.
+
+
+
+Llamamos resonancia a cuando le impedancia de un inductor se **cancela perfectamente** con la de un capacitor para una frecuencia de resonancia $f_r$ 
+
+
+![](https://i.imgur.com/OORFrqa.png)
+Podemos calcular la resonancia en este circuito IRL en paralelo viendo cuando la impedancia del inductor es igual a la del capacitor.
+
+$\text{Inductor } \Omega  =\text{Capacitor } \Omega$
+osea
+$wL=\frac{1}{wc}$
+
+Despejando $w$
+$w=\sqrt{\frac{1}{LC}}$
+Reemplazando $w$ por su definicion $w=2\pi f$ y despejando $f$ obtengo $f_r$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDA2MTcxNDMsLTExMDI0Njg4MTYsOT
-c1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0NDg0
-MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2LC
-03ODI5Nzk3MjUsLTEzNjk1OTEyODEsLTM4NDEzOTMxNSw1NzQ3
-NjE1NSwxMzg0MDQ3MDAxLC0xNjUwNTU2MDc3LC04MjgxMDI3MT
-UsLTExMTQ3MDM0MzUsLTIwMzcxMjY3MjIsODQ3NjA3ODYyLDEw
-MDg0OTcyNTJdfQ==
+eyJoaXN0b3J5IjpbMTA0MzU0NjA5NSwtMTE0MDYxNzE0MywtMT
+EwMjQ2ODgxNiw5NzUyMzQyODIsMTgwOTM4NTIxNCwxNjg1OTAx
+MTAxLC0xMDQ0ODQyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNTI5My
+wyMTcwNzc5MDYsLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MSwtMzg0
+MTM5MzE1LDU3NDc2MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYwNz
+csLTgyODEwMjcxNSwtMTExNDcwMzQzNSwtMjAzNzEyNjcyMiw4
+NDc2MDc4NjJdfQ==
 -->
