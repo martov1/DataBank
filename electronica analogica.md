@@ -758,6 +758,8 @@ Puede ser en serie o en paralelo, lo que cambia es $R_{th}$
 ### Filtro Paso y rechaza banda
 [Fuente](https://www.youtube.com/watch?v=4LhDcDaefzo&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=48)
 
+
+#### Pasa banda
 **Filtro paso banda**
 Es muy similar al filtro alto-bajo, pero se compone de dos filtros, de tal manera que deja pasar **solo un rango de frecuencias** y elimina las demas.
 
@@ -765,12 +767,15 @@ Se calcula como dos filtros alto-bajo separados
 
 ![](https://i.imgur.com/tcByJuD.png)
 
-**Filtro rechaza banda**
+#### Rechaza banda
 
 Es un filtro que deja pasar todas las frecuencias salvo las que estan en un rango, a la que llamamos la **frecuencia de resonancia**.
 
 
 ![](https://i.imgur.com/tIXxpWz.png)
+
+#### Resonancia
+
 
 ### Aplicaciones
 En un parlante de 3 speakers que reproducen los sonidos graves, medios y agudos, se usan 3 filtros. 
@@ -781,14 +786,9 @@ En un parlante de 3 speakers que reproducen los sonidos graves, medios y agudos,
 Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 
 ![](https://i.imgur.com/d7MkbVD.png)![](https://i.imgur.com/gQrZG5G.png =200x)
-## Filtro de resonancia
 
-Es un filtro 
-* **alto-bajo**
-* **pasa-rechaza banda**
-Qu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkxNTQ2MDIsOTc1MjM0MjgyLDE4MD
+eyJoaXN0b3J5IjpbLTExMDI0Njg4MTYsOTc1MjM0MjgyLDE4MD
 kzODUyMTQsMTY4NTkwMTEwMSwtMTA0NDg0MjMxNSwyMDMyMDAx
 NzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2LC03ODI5Nzk3MjUsLT
 EzNjk1OTEyODEsLTM4NDEzOTMxNSw1NzQ3NjE1NSwxMzg0MDQ3
