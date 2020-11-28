@@ -877,13 +877,23 @@ Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, t
 
 # Transformadores
 
-Son elementos que tranf
+Son elementos que transforman 
+* variacion de corriente y voltaje en variacion de campo electrico
+* La variacion de campo electrico nuevamente en corriente y voltaje
+* Y lo hacen con una relacion
+
+
+Como la potencia en ambos lados 
+
+$$n=\frac{vueltas_1}{vueltas_2}=\frac{v_1}{v_2}=\frac{I_2}{v_1}$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTYzMjAyNSwtOTk5NzYxNDM3LDIxOD
-g5MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0MTg0MSwxMjAzMzky
-NzA5LC0xMjkxNTYwNjYzLC03NTM4NDgyMzYsMTM4MzYwODA3My
-wtMTk1NzM1NTExMiw1MDAzOTAxMTUsLTgxMTk4NTgxNywtMTE0
-MDYxNzE0MywtMTEwMjQ2ODgxNiw5NzUyMzQyODIsMTgwOTM4NT
-IxNCwxNjg1OTAxMTAxLC0xMDQ0ODQyMzE1LDIwMzIwMDE3ODAs
-LTY1ODQzNTI5M119
+eyJoaXN0b3J5IjpbNDY2MjM2OTQ0LC05OTk3NjE0MzcsMjE4OD
+kzNjU4LC0yMDUzNTcxMjM3LC0xNzQxODQxODQxLDEyMDMzOTI3
+MDksLTEyOTE1NjA2NjMsLTc1Mzg0ODIzNiwxMzgzNjA4MDczLC
+0xOTU3MzU1MTEyLDUwMDM5MDExNSwtODExOTg1ODE3LC0xMTQw
+NjE3MTQzLC0xMTAyNDY4ODE2LDk3NTIzNDI4MiwxODA5Mzg1Mj
+E0LDE2ODU5MDExMDEsLTEwNDQ4NDIzMTUsMjAzMjAwMTc4MCwt
+NjU4NDM1MjkzXX0=
 -->
