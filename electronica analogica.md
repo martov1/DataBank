@@ -1,7 +1,7 @@
 **Nivel técnico electrónico**
-https://www.youtube.com/watch?v=ZcSSSi6go7c&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=37
+https://www.youtube.com/watch?v=4LhDcDaefzo&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=48
 
-Que hace una bobina en DC. Parte II
+CLase 27.1 Analisis Filtros pasivos paso banda y elimina banda
 
 https://www.youtube.com/watch?v=w3cqkMkte2w&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=10
 **BREAK para ver desde capacity factor**
@@ -777,11 +777,11 @@ Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 
 ![](https://i.imgur.com/d7MkbVD.png)![](https://i.imgur.com/gQrZG5G.png =200x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTkwMTEwMSwtMTA0NDg0MjMxNSwyMD
-MyMDAxNzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2LC03ODI5Nzk3
-MjUsLTEzNjk1OTEyODEsLTM4NDEzOTMxNSw1NzQ3NjE1NSwxMz
-g0MDQ3MDAxLC0xNjUwNTU2MDc3LC04MjgxMDI3MTUsLTExMTQ3
-MDM0MzUsLTIwMzcxMjY3MjIsODQ3NjA3ODYyLDEwMDg0OTcyNT
-IsLTE3ODIxNjAxNTQsODU1MjI4MjAwLDEzOTA2NzY1ODksMTI4
-NDg4MDk0XX0=
+eyJoaXN0b3J5IjpbMTgwOTM4NTIxNCwxNjg1OTAxMTAxLC0xMD
+Q0ODQyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNTI5MywyMTcwNzc5
+MDYsLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MSwtMzg0MTM5MzE1LD
+U3NDc2MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYwNzcsLTgyODEw
+MjcxNSwtMTExNDcwMzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4Nj
+IsMTAwODQ5NzI1MiwtMTc4MjE2MDE1NCw4NTUyMjgyMDAsMTM5
+MDY3NjU4OV19
 -->
