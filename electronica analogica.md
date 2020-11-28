@@ -821,12 +821,18 @@ La corriente en las frecuencias de corte $f_1$ y $f_2$ es $\frac{I_{resonancia}}
 Al rango de **frecuencias entre las frecuencias de corte** le decimos **ancho de banda** o **band-width**
 
 ![](https://i.imgur.com/62XQBG4.png)
+#### Factor de calidad
+
+El factor de calidad del circuito $Q$ es que tan grande es el ancho de banda que deja pasar mas alla de la frecuencia de resonancia $F_r$.
+
+En un circuito de un sintonizador de radio por ejemplo, cuanta mas calidad, menos de otras frecuencias escuchamos y mas de la frecuencia $f_r$.
+es decir $\absf_1-f_1$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTczNTUxMTIsNTAwMzkwMTE1LC04MT
-E5ODU4MTcsLTExNDA2MTcxNDMsLTExMDI0Njg4MTYsOTc1MjM0
-MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0NDg0MjMxNS
-wyMDMyMDAxNzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2LC03ODI5
-Nzk3MjUsLTEzNjk1OTEyODEsLTM4NDEzOTMxNSw1NzQ3NjE1NS
-wxMzg0MDQ3MDAxLC0xNjUwNTU2MDc3LC04MjgxMDI3MTUsLTEx
-MTQ3MDM0MzVdfQ==
+eyJoaXN0b3J5IjpbLTE1MDIwNjg5NjMsLTE5NTczNTUxMTIsNT
+AwMzkwMTE1LC04MTE5ODU4MTcsLTExNDA2MTcxNDMsLTExMDI0
+Njg4MTYsOTc1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMS
+wtMTA0NDg0MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUyOTMsMjE3
+MDc3OTA2LC03ODI5Nzk3MjUsLTEzNjk1OTEyODEsLTM4NDEzOT
+MxNSw1NzQ3NjE1NSwxMzg0MDQ3MDAxLC0xNjUwNTU2MDc3LC04
+MjgxMDI3MTVdfQ==
 -->
