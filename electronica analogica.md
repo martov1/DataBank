@@ -849,12 +849,14 @@ Por eso cuando pones un condensador tiene que estar pensado para la potencia que
 #### Frecuencia de resonancia paralelo
 [fuente](https://www.youtube.com/watch?v=vHFVBn3E3l4&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=50)
 
+
+Si ponemos un capacitor y una bobina en 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzM5MjcwOSwtMTI5MTU2MDY2MywtNz
-UzODQ4MjM2LDEzODM2MDgwNzMsLTE5NTczNTUxMTIsNTAwMzkw
-MTE1LC04MTE5ODU4MTcsLTExNDA2MTcxNDMsLTExMDI0Njg4MT
-YsOTc1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0
-NDg0MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUyOTMsMjE3MDc3OT
-A2LC03ODI5Nzk3MjUsLTEzNjk1OTEyODEsLTM4NDEzOTMxNSw1
-NzQ3NjE1NV19
+eyJoaXN0b3J5IjpbLTk2NDAyMzgyNiwxMjAzMzkyNzA5LC0xMj
+kxNTYwNjYzLC03NTM4NDgyMzYsMTM4MzYwODA3MywtMTk1NzM1
+NTExMiw1MDAzOTAxMTUsLTgxMTk4NTgxNywtMTE0MDYxNzE0My
+wtMTEwMjQ2ODgxNiw5NzUyMzQyODIsMTgwOTM4NTIxNCwxNjg1
+OTAxMTAxLC0xMDQ0ODQyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNT
+I5MywyMTcwNzc5MDYsLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MSwt
+Mzg0MTM5MzE1XX0=
 -->
