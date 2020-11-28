@@ -855,12 +855,13 @@ A diferencia del circuito en serie, este tiene impedancia maxima cuando llegas a
 Si ponemos un capacitor y una bobina en paralelo, sabemos que
 
 
-$$z=\frac{z_lZ:c}{}$$
+$$Z_{paralelo}=\frac{(Z_l)(-Z_c)}{Z_l+(-Z_c)}$$
 
+Cuando nos aproximamos a $$Z_l=Z_c$$, vemos que $Z_{paralelo} \to 0$ y po
 
 osea que a medida que $f \to \inf$, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2NDI0MTYzLC0yMDUzNTcxMjM3LC0xNz
+eyJoaXN0b3J5IjpbNjkzNTYwMjAyLC0yMDUzNTcxMjM3LC0xNz
 QxODQxODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0
 ODIzNiwxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNS
 wtODExOTg1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2LDk3
