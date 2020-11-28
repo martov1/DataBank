@@ -715,8 +715,9 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 
-## Filtro alto-bajo
+## Filtros simples
 
+### Filtro alto-bajo
 Es un filtro que filtra las **frecuencias altas** o las **frecuencias bajas**, esto se hace aprovechando que
 * la impedancia del capacitor es **mayor a mas frecuencia**
 	* Elimina las frecuencias altas
@@ -725,7 +726,7 @@ Es un filtro que filtra las **frecuencias altas** o las **frecuencias bajas**, e
 
 
 ![](https://i.imgur.com/vim2R55.png =x300)
-### Frecuencia de corte
+#### Frecuencia de corte
 
 [fuente](https://www.youtube.com/watch?v=KQvxdAlBj04&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=47)
 
@@ -753,12 +754,17 @@ Podemos ver como los voltajes que estan por debajo de cierta frecuencia quedan r
 Puede ser en serie o en paralelo, lo que cambia es $R_{th}$
 ![](https://i.imgur.com/QCCi3E4.png =300x)
 ![](https://i.imgur.com/8U0fXHI.png =300x)
+
+### Filtro Pasa y rechaza banda
+
+**Filtro pasa banda**
+Es muy similar al filtro alto-bajo, pero se compone de dos filtros, de tal manera que deja pasar **solo un rango de frecuencias** y elimina las demas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjAwMTc4MCwtNjU4NDM1MjkzLDIxNz
-A3NzkwNiwtNzgyOTc5NzI1LC0xMzY5NTkxMjgxLC0zODQxMzkz
-MTUsNTc0NzYxNTUsMTM4NDA0NzAwMSwtMTY1MDU1NjA3NywtOD
-I4MTAyNzE1LC0xMTE0NzAzNDM1LC0yMDM3MTI2NzIyLDg0NzYw
-Nzg2MiwxMDA4NDk3MjUyLC0xNzgyMTYwMTU0LDg1NTIyODIwMC
-wxMzkwNjc2NTg5LDEyODQ4ODA5NCwtMTc0NjIzMjUyMCwyMDQw
-Nzc1NDgwXX0=
+eyJoaXN0b3J5IjpbLTEwNDQ4NDIzMTUsMjAzMjAwMTc4MCwtNj
+U4NDM1MjkzLDIxNzA3NzkwNiwtNzgyOTc5NzI1LC0xMzY5NTkx
+MjgxLC0zODQxMzkzMTUsNTc0NzYxNTUsMTM4NDA0NzAwMSwtMT
+Y1MDU1NjA3NywtODI4MTAyNzE1LC0xMTE0NzAzNDM1LC0yMDM3
+MTI2NzIyLDg0NzYwNzg2MiwxMDA4NDk3MjUyLC0xNzgyMTYwMT
+U0LDg1NTIyODIwMCwxMzkwNjc2NTg5LDEyODQ4ODA5NCwtMTc0
+NjIzMjUyMF19
 -->
