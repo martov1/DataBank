@@ -854,12 +854,13 @@ Si ponemos un capacitor y una bobina en serie, sabemos que
 
 $$\frac{1}{Z}=\frac{1}{R}+\frac{1}{jwL}+\frac{1}{jwC}$$
 Si obtengo el modulo
+$$\frac{1}{Z}=\sqrt{(\frac{1}{R})^2+(\frac{1}{jwL}+wC)^2}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTE2OTYyOCwxMjAzMzkyNzA5LC0xMj
-kxNTYwNjYzLC03NTM4NDgyMzYsMTM4MzYwODA3MywtMTk1NzM1
-NTExMiw1MDAzOTAxMTUsLTgxMTk4NTgxNywtMTE0MDYxNzE0My
-wtMTEwMjQ2ODgxNiw5NzUyMzQyODIsMTgwOTM4NTIxNCwxNjg1
-OTAxMTAxLC0xMDQ0ODQyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNT
-I5MywyMTcwNzc5MDYsLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MSwt
-Mzg0MTM5MzE1XX0=
+eyJoaXN0b3J5IjpbNzA2NTA0MywxMjAzMzkyNzA5LC0xMjkxNT
+YwNjYzLC03NTM4NDgyMzYsMTM4MzYwODA3MywtMTk1NzM1NTEx
+Miw1MDAzOTAxMTUsLTgxMTk4NTgxNywtMTE0MDYxNzE0MywtMT
+EwMjQ2ODgxNiw5NzUyMzQyODIsMTgwOTM4NTIxNCwxNjg1OTAx
+MTAxLC0xMDQ0ODQyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNTI5My
+wyMTcwNzc5MDYsLTc4Mjk3OTcyNSwtMTM2OTU5MTI4MSwtMzg0
+MTM5MzE1XX0=
 -->
