@@ -722,12 +722,15 @@ Es un filtro que filtra las **frecuencias altas** o las **frecuencias bajas**, e
 	* Elimina las frecuencias altas
 * La impedancia del inductor es **mayor a menor frecuencia**
 	* Elimina las frecuencias bajas
+
+
+![](https://i.imgur.com/vim2R55.png =x300)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1Njc0MTMyLDU3NDc2MTU1LDEzODQwND
-cwMDEsLTE2NTA1NTYwNzcsLTgyODEwMjcxNSwtMTExNDcwMzQz
-NSwtMjAzNzEyNjcyMiw4NDc2MDc4NjIsMTAwODQ5NzI1MiwtMT
-c4MjE2MDE1NCw4NTUyMjgyMDAsMTM5MDY3NjU4OSwxMjg0ODgw
-OTQsLTE3NDYyMzI1MjAsMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLD
-E3NTY4NDEwMjQsMjEzOTI3NzU4OCwtMjA0NTY1MzM4MCw4MjI3
-MzQ4NzVdfQ==
+eyJoaXN0b3J5IjpbLTM4NDEzOTMxNSw1NzQ3NjE1NSwxMzg0MD
+Q3MDAxLC0xNjUwNTU2MDc3LC04MjgxMDI3MTUsLTExMTQ3MDM0
+MzUsLTIwMzcxMjY3MjIsODQ3NjA3ODYyLDEwMDg0OTcyNTIsLT
+E3ODIxNjAxNTQsODU1MjI4MjAwLDEzOTA2NzY1ODksMTI4NDg4
+MDk0LC0xNzQ2MjMyNTIwLDIwNDA3NzU0ODAsMTI1NjIwMDkzMi
+wxNzU2ODQxMDI0LDIxMzkyNzc1ODgsLTIwNDU2NTMzODAsODIy
+NzM0ODc1XX0=
 -->
