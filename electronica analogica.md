@@ -900,9 +900,11 @@ $$n=\frac{vueltas_1}{vueltas_2}=\frac{v_1}{v_2}=\frac{I_2}{I_1}$$
 * En general esas perdidas **se desprecian** ya que no son muy grandes
 ### Polaridad
 
-La regla de la mano derecha te indica la polaridad de cada devanado del transformador
+La regla de la mano derecha te indica la polaridad de cada devanado del transformador. tenemos que tener en cuenta como la bobina enrrolla al campo magnetico
+
+![](https://i.imgur.com/6cAVlOy.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAxODg2MDMsLTk5OTc2MTQzNywyMT
+eyJoaXN0b3J5IjpbLTE1NDIwNjE0NjIsLTk5OTc2MTQzNywyMT
 g4OTM2NTgsLTIwNTM1NzEyMzcsLTE3NDE4NDE4NDEsMTIwMzM5
 MjcwOSwtMTI5MTU2MDY2MywtNzUzODQ4MjM2LDEzODM2MDgwNz
 MsLTE5NTczNTUxMTIsNTAwMzkwMTE1LC04MTE5ODU4MTcsLTEx
