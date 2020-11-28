@@ -852,24 +852,15 @@ Por eso cuando pones un condensador tiene que estar pensado para la potencia que
 A diferencia del circuito en serie, este tiene impedancia maxima cuando llegas a la frecuencia de resonancia $f_r$, eso significa que toda la corriente pasa por $R$
 
 ![](https://i.imgur.com/L7sg0WE.png)
-Si ponemos un capacitor y una bobina en serie, sabemos que
+Si ponemos un capacitor y una bobina en paralelo, sabemos que
 
 
-$$\frac{1}{Z}=\frac{1}{R}+\frac{1}{\frac{1}{jwL}}+\frac{1}{jwC}$$
-$$\frac{1}{Z}=\frac{1}{R}+jwL+\frac{1}{jwC}$$
+$$z=\frac{z_lZ:c}{}$$
 
-$$\frac{1}{Z}=\frac{1}{R}+\frac{jwL}{jwC}$$
 
-Ahora si intento buscar la resonancia, como hicimos antes, donde las impedancias son iguales
-$$wC=\frac{1}{wL}$$
-
-Indicando que 
-$$\frac{1}{Z}=\frac{1}{R}+\frac{jwL}{j\frac{1}{wL}}$$
-
-$$\frac{1}{Z}=\frac{1}{R}+jwL(wL)$$
 osea que a medida que $f \to \inf$, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1ODc1MTcxLC0yMDUzNTcxMjM3LC0xNz
+eyJoaXN0b3J5IjpbNzc2NDI0MTYzLC0yMDUzNTcxMjM3LC0xNz
 QxODQxODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0
 ODIzNiwxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNS
 wtODExOTg1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2LDk3
