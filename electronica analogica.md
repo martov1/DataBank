@@ -779,10 +779,12 @@ Es un filtro que deja pasar todas las frecuencias salvo las que estan en un rang
 Llamamos resonancia a cuando le impedancia de un inductor se **cancela perfectamente** con la de un capacitor para una frecuencia de resonancia $f_r$ y se puede usar para los filtros **rechaza banda**
 ![](https://i.imgur.com/OORFrqa.png)
 Podemos calcular la resonancia en este circuito IRL en paralelo viendo cuando la impedancia del inductor es igual a la del capacitor.
-$text{In}=\frac{1}{wc}$
+
+$\text{Inductor } \Omega  =\text{Capacitor } \Omega$
+osea
 $wl=\frac{1}{wc}$
-
-
+Despejando $w$
+$w=\sqrt{\frac{1}{LC}}$
 
 ### Aplicaciones
 En un parlante de 3 speakers que reproducen los sonidos graves, medios y agudos, se usan 3 filtros. 
@@ -795,7 +797,7 @@ Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 ![](https://i.imgur.com/d7MkbVD.png)![](https://i.imgur.com/gQrZG5G.png =200x)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY5MzE1MzIsLTExMDI0Njg4MTYsOT
+eyJoaXN0b3J5IjpbLTIxMjIxODUwMjMsLTExMDI0Njg4MTYsOT
 c1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0NDg0
 MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2LC
 03ODI5Nzk3MjUsLTEzNjk1OTEyODEsLTM4NDEzOTMxNSw1NzQ3
