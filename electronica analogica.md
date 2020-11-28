@@ -728,15 +728,15 @@ Es un filtro que filtra las **frecuencias altas** o las **frecuencias bajas**, e
 ### Frecuencia de corte
 
 Es la frecuencia a partir de la cual el filtro empieza a actuar  y el filtro comienza a no dejar pasar la tension.
-Se calcula como
-$w.L=$
+Se calcula como:
+$w.L=R_{th}$
 $f_c=\frac{r}{\pi L}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjk1OTEyODEsLTM4NDEzOTMxNSw1Nz
-Q3NjE1NSwxMzg0MDQ3MDAxLC0xNjUwNTU2MDc3LC04MjgxMDI3
-MTUsLTExMTQ3MDM0MzUsLTIwMzcxMjY3MjIsODQ3NjA3ODYyLD
-EwMDg0OTcyNTIsLTE3ODIxNjAxNTQsODU1MjI4MjAwLDEzOTA2
-NzY1ODksMTI4NDg4MDk0LC0xNzQ2MjMyNTIwLDIwNDA3NzU0OD
-AsMTI1NjIwMDkzMiwxNzU2ODQxMDI0LDIxMzkyNzc1ODgsLTIw
-NDU2NTMzODBdfQ==
+eyJoaXN0b3J5IjpbLTk0OTk4Mzc2MCwtMTM2OTU5MTI4MSwtMz
+g0MTM5MzE1LDU3NDc2MTU1LDEzODQwNDcwMDEsLTE2NTA1NTYw
+NzcsLTgyODEwMjcxNSwtMTExNDcwMzQzNSwtMjAzNzEyNjcyMi
+w4NDc2MDc4NjIsMTAwODQ5NzI1MiwtMTc4MjE2MDE1NCw4NTUy
+MjgyMDAsMTM5MDY3NjU4OSwxMjg0ODgwOTQsLTE3NDYyMzI1Mj
+AsMjA0MDc3NTQ4MCwxMjU2MjAwOTMyLDE3NTY4NDEwMjQsMjEz
+OTI3NzU4OF19
 -->
