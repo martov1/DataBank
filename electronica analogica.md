@@ -764,12 +764,16 @@ Es muy similar al filtro alto-bajo, pero se compone de dos filtros, de tal maner
 Se calcula como dos filtros alto-bajo separados 
 
 ![](https://i.imgur.com/tcByJuD.png)
+**Aplicacion:**
+En un parlante de 3 speakers que reproducen los sonidos graves, medios y agudos, se usan 3 filtros.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxNDc5MDA2LC0xMDQ0ODQyMzE1LDIwMz
-IwMDE3ODAsLTY1ODQzNTI5MywyMTcwNzc5MDYsLTc4Mjk3OTcy
-NSwtMTM2OTU5MTI4MSwtMzg0MTM5MzE1LDU3NDc2MTU1LDEzOD
-QwNDcwMDEsLTE2NTA1NTYwNzcsLTgyODEwMjcxNSwtMTExNDcw
-MzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4NjIsMTAwODQ5NzI1Mi
-wtMTc4MjE2MDE1NCw4NTUyMjgyMDAsMTM5MDY3NjU4OSwxMjg0
-ODgwOTRdfQ==
+eyJoaXN0b3J5IjpbLTI5MDkxMDc2MywtMTA0NDg0MjMxNSwyMD
+MyMDAxNzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2LC03ODI5Nzk3
+MjUsLTEzNjk1OTEyODEsLTM4NDEzOTMxNSw1NzQ3NjE1NSwxMz
+g0MDQ3MDAxLC0xNjUwNTU2MDc3LC04MjgxMDI3MTUsLTExMTQ3
+MDM0MzUsLTIwMzcxMjY3MjIsODQ3NjA3ODYyLDEwMDg0OTcyNT
+IsLTE3ODIxNjAxNTQsODU1MjI4MjAwLDEzOTA2NzY1ODksMTI4
+NDg4MDk0XX0=
 -->
