@@ -883,13 +883,18 @@ Son elementos que transforman
 * Y lo hacen con una relacion
 
 
-Como la potencia en ambos lados 
+Como la potencia en ambos del transformador es igual (leyes de conservacion)
+$$P_1=P_2 \\
+V_1.I_1=V_2.I_2\\
+\frac{v_1}{v_2}=\frac{I_2}{v_1}$$
+
+Y ademas esto es igual a la relacion entre el numero de vueltas
 
 $$n=\frac{vueltas_1}{vueltas_2}=\frac{v_1}{v_2}=\frac{I_2}{v_1}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MjM2OTQ0LC05OTk3NjE0MzcsMjE4OD
+eyJoaXN0b3J5IjpbMzUzNjIzMDkzLC05OTk3NjE0MzcsMjE4OD
 kzNjU4LC0yMDUzNTcxMjM3LC0xNzQxODQxODQxLDEyMDMzOTI3
 MDksLTEyOTE1NjA2NjMsLTc1Mzg0ODIzNiwxMzgzNjA4MDczLC
 0xOTU3MzU1MTEyLDUwMDM5MDExNSwtODExOTg1ODE3LC0xMTQw
