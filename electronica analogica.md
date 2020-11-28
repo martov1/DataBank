@@ -782,9 +782,13 @@ Podemos calcular la resonancia en este circuito IRL en paralelo viendo cuando la
 
 $\text{Inductor } \Omega  =\text{Capacitor } \Omega$
 osea
-$wl=\frac{1}{wc}$
+$wL=\frac{1}{wc}$
+
 Despejando $w$
 $w=\sqrt{\frac{1}{LC}}$
+Reemplazando $w$ por su definicion $w=2\pi f$ y despejando $f$ obtengo $f_r$
+
+$$\large{\boxed{f_r=\frac{1}{2\pi \sqrt{LC}}}}$$
 
 ### Aplicaciones
 En un parlante de 3 speakers que reproducen los sonidos graves, medios y agudos, se usan 3 filtros. 
@@ -797,7 +801,7 @@ Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 ![](https://i.imgur.com/d7MkbVD.png)![](https://i.imgur.com/gQrZG5G.png =200x)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjIxODUwMjMsLTExMDI0Njg4MTYsOT
+eyJoaXN0b3J5IjpbLTExNDA2MTcxNDMsLTExMDI0Njg4MTYsOT
 c1MjM0MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0NDg0
 MjMxNSwyMDMyMDAxNzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2LC
 03ODI5Nzk3MjUsLTEzNjk1OTEyODEsLTM4NDEzOTMxNSw1NzQ3
