@@ -727,6 +727,7 @@ Es un filtro que filtra las **frecuencias altas** o las **frecuencias bajas**, e
 ![](https://i.imgur.com/vim2R55.png =x300)
 ### Frecuencia de corte
 
+[fuente](https://www.youtube.com/watch?v=KQvxdAlBj04&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=47)
 
 **Bobina:**
 Es la frecuencia a partir de la cual el filtro empieza a actuar  y el filtro comienza a no dejar pasar la tension.
@@ -747,9 +748,9 @@ Es súper similar, pero usando la formula de impedancia del capacitor en vez de 
 
 Puede ser en serie o en paralelo, lo que cambia es $R_{th}$
 ![](https://i.imgur.com/QCCi3E4.png)
-
+![](https://i.imgur.com/8U0fXHI.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTAwNjg4NCwyMTcwNzc5MDYsLTc4Mj
+eyJoaXN0b3J5IjpbLTY1ODQzNTI5MywyMTcwNzc5MDYsLTc4Mj
 k3OTcyNSwtMTM2OTU5MTI4MSwtMzg0MTM5MzE1LDU3NDc2MTU1
 LDEzODQwNDcwMDEsLTE2NTA1NTYwNzcsLTgyODEwMjcxNSwtMT
 ExNDcwMzQzNSwtMjAzNzEyNjcyMiw4NDc2MDc4NjIsMTAwODQ5
