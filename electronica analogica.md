@@ -816,11 +816,13 @@ $$\boxed{f_r=\frac{1}{2\pi \sqrt{LC}}}$$
 [fuente](https://www.youtube.com/watch?v=KxDOmMMo6so&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=49)
 A su vez observamos que a los costados de esa curva existe un lugar donde la potencia es la **mitad de la maxima**, esos puntos los vamos a considerar como "frecuencias de corte".
 
-La corriente en las frecuencias de corte es $\frac{I_{resonancia}}{}$
+La corriente en las frecuencias de corte $f_1$ y $f_2$ es $\frac{I_{resonancia}}{\sqrt{2}}$ ([deduccion](https://www.youtube.com/watch?v=KxDOmMMo6so&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=49))
+
+Al rango de **frecuencias entre las frecuencias de corte** le decimos **ancho de banda** o **band-width**
 
 ![](https://i.imgur.com/62XQBG4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTAyNTA4ODYsNTAwMzkwMTE1LC04MT
+eyJoaXN0b3J5IjpbLTE5NTczNTUxMTIsNTAwMzkwMTE1LC04MT
 E5ODU4MTcsLTExNDA2MTcxNDMsLTExMDI0Njg4MTYsOTc1MjM0
 MjgyLDE4MDkzODUyMTQsMTY4NTkwMTEwMSwtMTA0NDg0MjMxNS
 wyMDMyMDAxNzgwLC02NTg0MzUyOTMsMjE3MDc3OTA2LC03ODI5
