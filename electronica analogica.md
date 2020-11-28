@@ -864,14 +864,16 @@ $$wC=\frac{1}{wL}$$
 
 Indicando que 
 
-$$(2)Z=\frac{1}{\sqrt{(\frac{1}{R})^2+(\frac{1}{jwL}C)^2}}$$
+$$(2)Z=\frac{1}{\sqrt{(\frac{1}{R})^2+(\frac{1}{j(wL)^2})^2}}$$
+$$(2)Z=\frac{1}{\sqrt{(\frac{1}{R})^2+(\frac{1}{j(2\pi fL)^2})^2}}$$
 
+osea que a medida que $f \to \inf$, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Mjg4NzYxMSwtMjA1MzU3MTIzNywtMT
-c0MTg0MTg0MSwxMjAzMzkyNzA5LC0xMjkxNTYwNjYzLC03NTM4
-NDgyMzYsMTM4MzYwODA3MywtMTk1NzM1NTExMiw1MDAzOTAxMT
-UsLTgxMTk4NTgxNywtMTE0MDYxNzE0MywtMTEwMjQ2ODgxNiw5
-NzUyMzQyODIsMTgwOTM4NTIxNCwxNjg1OTAxMTAxLC0xMDQ0OD
-QyMzE1LDIwMzIwMDE3ODAsLTY1ODQzNTI5MywyMTcwNzc5MDYs
-LTc4Mjk3OTcyNV19
+eyJoaXN0b3J5IjpbMTkwMzM1OTg2LC0yMDUzNTcxMjM3LC0xNz
+QxODQxODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0
+ODIzNiwxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNS
+wtODExOTg1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2LDk3
+NTIzNDI4MiwxODA5Mzg1MjE0LDE2ODU5MDExMDEsLTEwNDQ4ND
+IzMTUsMjAzMjAwMTc4MCwtNjU4NDM1MjkzLDIxNzA3NzkwNiwt
+NzgyOTc5NzI1XX0=
 -->
