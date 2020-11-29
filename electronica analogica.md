@@ -950,15 +950,16 @@ Es un **semiconductor** que transmite la corriente en un solo sentido.
 	* Para diodos de **silicio** suele ser mas o menos $0.7V$
 	* Para otros la tension varia
 * **Detiene** la corriente en el otro sentido
+	*  hasta cierta tension llamada tension de r
 
 
    ![](https://i.imgur.com/7xDded4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkwMzg3NTAsLTE5OTg3MzMzMTcsLT
-Y3MzQyNzY5NSwtMTU0MjA2MTQ2MiwtOTk5NzYxNDM3LDIxODg5
-MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0MTg0MSwxMjAzMzkyNz
-A5LC0xMjkxNTYwNjYzLC03NTM4NDgyMzYsMTM4MzYwODA3Mywt
-MTk1NzM1NTExMiw1MDAzOTAxMTUsLTgxMTk4NTgxNywtMTE0MD
-YxNzE0MywtMTEwMjQ2ODgxNiw5NzUyMzQyODIsMTgwOTM4NTIx
-NCwxNjg1OTAxMTAxXX0=
+eyJoaXN0b3J5IjpbLTk3NDUxODUyMiwtMTgwOTAzODc1MCwtMT
+k5ODczMzMxNywtNjczNDI3Njk1LC0xNTQyMDYxNDYyLC05OTk3
+NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0xNzQxODQxOD
+QxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0ODIzNiwx
+MzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNSwtODExOT
+g1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2LDk3NTIzNDI4
+MiwxODA5Mzg1MjE0XX0=
 -->
