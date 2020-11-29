@@ -960,8 +960,10 @@ Es un **semiconductor** que transmite la corriente en un solo sentido.
 ### Circuito equivalente
 
 al ser un elemento **no-lineal** no lo puedo calcular con mis herramientas de analisis de circuitos normal. Tengo que hacer algunas simplificaciones.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxMjk0Mjk5LC0xODA5MDM4NzUwLC0xOT
+eyJoaXN0b3J5IjpbNDU3NjEyNTk5LC0xODA5MDM4NzUwLC0xOT
 k4NzMzMzE3LC02NzM0Mjc2OTUsLTE1NDIwNjE0NjIsLTk5OTc2
 MTQzNywyMTg4OTM2NTgsLTIwNTM1NzEyMzcsLTE3NDE4NDE4ND
 EsMTIwMzM5MjcwOSwtMTI5MTU2MDY2MywtNzUzODQ4MjM2LDEz
