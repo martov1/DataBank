@@ -950,16 +950,17 @@ Es un **semiconductor** que transmite la corriente en un solo sentido.
 	* Para diodos de **silicio** suele ser mas o menos $0.7V$
 	* Para otros la tension varia
 * **Detiene** la corriente en el otro sentido
-	*  hasta cierta tension llamada tension de r
+	*  hasta cierta tension llamada tension de ruptura $V_{rupt}$ y el diodo se destruye
+* **Soporta** hasta cierta corriente maxima
 
 
    ![](https://i.imgur.com/7xDded4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDUxODUyMiwtMTgwOTAzODc1MCwtMT
-k5ODczMzMxNywtNjczNDI3Njk1LC0xNTQyMDYxNDYyLC05OTk3
-NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0xNzQxODQxOD
-QxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0ODIzNiwx
-MzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNSwtODExOT
-g1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2LDk3NTIzNDI4
-MiwxODA5Mzg1MjE0XX0=
+eyJoaXN0b3J5IjpbLTE1NTMwODAxNDQsLTE4MDkwMzg3NTAsLT
+E5OTg3MzMzMTcsLTY3MzQyNzY5NSwtMTU0MjA2MTQ2MiwtOTk5
+NzYxNDM3LDIxODg5MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0MT
+g0MSwxMjAzMzkyNzA5LC0xMjkxNTYwNjYzLC03NTM4NDgyMzYs
+MTM4MzYwODA3MywtMTk1NzM1NTExMiw1MDAzOTAxMTUsLTgxMT
+k4NTgxNywtMTE0MDYxNzE0MywtMTEwMjQ2ODgxNiw5NzUyMzQy
+ODIsMTgwOTM4NTIxNF19
 -->
