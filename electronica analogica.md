@@ -946,10 +946,15 @@ $$230/12/12 - A$$
 
 Es un **semiconductor** que transmite la corriente en un solo sentido.
 
-* Transmite la corriente en un sentido a partir de un cierto $
+* **Transmite** la corriente en un sentido a partir de un cierto voltaje $V$
+	* Para diodos de **silicio** suele ser mas o menos $0.7V$
+	* Para otros la tension varia
+* **Detiene** la corriente en el otro sentido
+
+
    ![](https://i.imgur.com/7xDded4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTkzMzA2MzQsLTE5OTg3MzMzMTcsLT
+eyJoaXN0b3J5IjpbLTE4MDkwMzg3NTAsLTE5OTg3MzMzMTcsLT
 Y3MzQyNzY5NSwtMTU0MjA2MTQ2MiwtOTk5NzYxNDM3LDIxODg5
 MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0MTg0MSwxMjAzMzkyNz
 A5LC0xMjkxNTYwNjYzLC03NTM4NDgyMzYsMTM4MzYwODA3Mywt
