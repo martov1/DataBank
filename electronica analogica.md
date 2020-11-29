@@ -1,7 +1,7 @@
 **Nivel técnico electrónico**
 https://www.youtube.com/watch?v=4LhDcDaefzo&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=48
 
-CLase 27.1 Analisis Filtros pasivos paso banda y elimina banda
+Clase 30.2: Circuito limitador con dos diodos
 
 https://www.youtube.com/watch?v=w3cqkMkte2w&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=10
 **BREAK para ver desde capacity factor**
@@ -1000,11 +1000,11 @@ Posibles fallos:
 
 ## Circuito limitador
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzUxMDU0Miw5MzI4NzY0ODMsMTUyMT
-A3MDUxMSwxMjQ5NzI0NTM0LDIwNjQzMzA4NTcsMTA2NjE1OTQw
-LDQ1NzYxMjU5OSwtMTgwOTAzODc1MCwtMTk5ODczMzMxNywtNj
-czNDI3Njk1LC0xNTQyMDYxNDYyLC05OTk3NjE0MzcsMjE4ODkz
-NjU4LC0yMDUzNTcxMjM3LC0xNzQxODQxODQxLDEyMDMzOTI3MD
-ksLTEyOTE1NjA2NjMsLTc1Mzg0ODIzNiwxMzgzNjA4MDczLC0x
-OTU3MzU1MTEyXX0=
+eyJoaXN0b3J5IjpbLTExNjM3Mjg4NDcsMTM3MzUxMDU0Miw5Mz
+I4NzY0ODMsMTUyMTA3MDUxMSwxMjQ5NzI0NTM0LDIwNjQzMzA4
+NTcsMTA2NjE1OTQwLDQ1NzYxMjU5OSwtMTgwOTAzODc1MCwtMT
+k5ODczMzMxNywtNjczNDI3Njk1LC0xNTQyMDYxNDYyLC05OTk3
+NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0xNzQxODQxOD
+QxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0ODIzNiwx
+MzgzNjA4MDczXX0=
 -->
