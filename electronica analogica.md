@@ -979,7 +979,9 @@ Como el diodo genera
 ### Analisis de circuito
 
 * Haces el reemplazo del diodo por la fuente (su equivalente)
-* Usas las herramientas normales (mallas, etc). Si te da una tension $<0.7$ o negativa es que no pasa corriente por el diodo y volves a modelar el circuito como un circuito abierto
+* Usas las herramientas normales (mallas, etc)
+* **caso 1:** Si te da una tension $<0.7$ o negativa del catodo al anodo del diodo, es que no pasa corriente por el diodo 
+* **caso 2:** Lo volves a modelar el circuito como un circuito abierto t resolves
 
 
 ### Tipos
@@ -996,11 +998,11 @@ Posibles fallos:
 * **abierto** resistencia infinita en ambos sentidos
 * **fugas** Baja tension de codo, resistencia en polaridad inversa $<0.018M\Omega$ (mega omnios)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU5MTI5NTYsMTUyMTA3MDUxMSwxMj
-Q5NzI0NTM0LDIwNjQzMzA4NTcsMTA2NjE1OTQwLDQ1NzYxMjU5
-OSwtMTgwOTAzODc1MCwtMTk5ODczMzMxNywtNjczNDI3Njk1LC
-0xNTQyMDYxNDYyLC05OTk3NjE0MzcsMjE4ODkzNjU4LC0yMDUz
-NTcxMjM3LC0xNzQxODQxODQxLDEyMDMzOTI3MDksLTEyOTE1Nj
-A2NjMsLTc1Mzg0ODIzNiwxMzgzNjA4MDczLC0xOTU3MzU1MTEy
-LDUwMDM5MDExNV19
+eyJoaXN0b3J5IjpbOTMyODc2NDgzLDE1MjEwNzA1MTEsMTI0OT
+cyNDUzNCwyMDY0MzMwODU3LDEwNjYxNTk0MCw0NTc2MTI1OTks
+LTE4MDkwMzg3NTAsLTE5OTg3MzMzMTcsLTY3MzQyNzY5NSwtMT
+U0MjA2MTQ2MiwtOTk5NzYxNDM3LDIxODg5MzY1OCwtMjA1MzU3
+MTIzNywtMTc0MTg0MTg0MSwxMjAzMzkyNzA5LC0xMjkxNTYwNj
+YzLC03NTM4NDgyMzYsMTM4MzYwODA3MywtMTk1NzM1NTExMiw1
+MDAzOTAxMTVdfQ==
 -->
