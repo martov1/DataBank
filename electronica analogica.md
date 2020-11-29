@@ -964,24 +964,25 @@ al ser un elemento **no-lineal** no lo puedo calcular con mis herramientas de an
 Como el diodo genera
 * **En la polaridad normal**
 	* Una caida de potencial de $0.7V$
-		* Una fuente de tension con la polaridad al revez, tal que elimine $0.7v$
+		* **MODELO:** Una fuente de tension con la polaridad al revez, tal que elimine $0.7v$
 	* Una relacion casi lineal de $V$ y $I$ luego de los $0.7v$
-		* Un resistor que genere una relacion lineal entre $V$ e $I$
-		* En general es tan chico que ni se coloca
+		* **MODELO:** Un resistor que genere una relacion lineal entre $V$ e $I$
+		* **MODELO:** En general es tan chico que ni se coloca
 * **En la polaridad inversa**
 	* Una interrupcion de la corriente en polaridad normal
-		* Lo modelamos con un interuptor abierto
+		* **MODELO:** Interuptor abierto
 
 
 
 
 ![](https://i.imgur.com/6MOtKeJ.png)
+### Circuito equivalente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk4NTc3NjgsMTA2NjE1OTQwLDQ1Nz
-YxMjU5OSwtMTgwOTAzODc1MCwtMTk5ODczMzMxNywtNjczNDI3
-Njk1LC0xNTQyMDYxNDYyLC05OTk3NjE0MzcsMjE4ODkzNjU4LC
-0yMDUzNTcxMjM3LC0xNzQxODQxODQxLDEyMDMzOTI3MDksLTEy
-OTE1NjA2NjMsLTc1Mzg0ODIzNiwxMzgzNjA4MDczLC0xOTU3Mz
-U1MTEyLDUwMDM5MDExNSwtODExOTg1ODE3LC0xMTQwNjE3MTQz
-LC0xMTAyNDY4ODE2XX0=
+eyJoaXN0b3J5IjpbMTE3NzM0NDQ4NSwxMDY2MTU5NDAsNDU3Nj
+EyNTk5LC0xODA5MDM4NzUwLC0xOTk4NzMzMzE3LC02NzM0Mjc2
+OTUsLTE1NDIwNjE0NjIsLTk5OTc2MTQzNywyMTg4OTM2NTgsLT
+IwNTM1NzEyMzcsLTE3NDE4NDE4NDEsMTIwMzM5MjcwOSwtMTI5
+MTU2MDY2MywtNzUzODQ4MjM2LDEzODM2MDgwNzMsLTE5NTczNT
+UxMTIsNTAwMzkwMTE1LC04MTE5ODU4MTcsLTExNDA2MTcxNDMs
+LTExMDI0Njg4MTZdfQ==
 -->
