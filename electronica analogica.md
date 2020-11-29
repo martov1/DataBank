@@ -1009,6 +1009,8 @@ Es un circuito que recorta una onda o señal sinosoidal a una tension maxima o m
 Se usa un diodo con una fuente en oposcion al paso de la tension.
 Cuando $V_{sinusoidal}>V_{oposicion}+0.7v$ el diodo deja pasar el exceso de tension que este por encima de  $V_{oposicion}$.
 
+Siempre que la fuente de oposicion sea mas fuerte, o la onda este invertida, el diodo se comporta como un circuito abierto
+
 Esto mantiene como maximo $5V$ a la salida
 
 
@@ -1017,7 +1019,7 @@ Se puede usar el mismo circuito al revez para la otra mitad de la onda
 
 ![](https://i.imgur.com/Vkx7M23.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzA5NzMwNiwtMzA5MDkyNDM0LC0xMT
+eyJoaXN0b3J5IjpbMTEzNjczNjM1NiwtMzA5MDkyNDM0LC0xMT
 YzNzI4ODQ3LDEzNzM1MTA1NDIsOTMyODc2NDgzLDE1MjEwNzA1
 MTEsMTI0OTcyNDUzNCwyMDY0MzMwODU3LDEwNjYxNTk0MCw0NT
 c2MTI1OTksLTE4MDkwMzg3NTAsLTE5OTg3MzMzMTcsLTY3MzQy
