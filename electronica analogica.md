@@ -944,14 +944,16 @@ $$230/12/12 - A$$
 
 ## Diodo P-N
 
+Es un **semiconductor** que transmite la corriente en un solo sentido.
 
-   ![](https://i.imgur.com/qPmSLno.png)
+* Transmite la corriente en un sentido a partir de un cierto $
+   ![](https://i.imgur.com/7xDded4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNDQxMzA1LC0xOTk4NzMzMzE3LC02Nz
-M0Mjc2OTUsLTE1NDIwNjE0NjIsLTk5OTc2MTQzNywyMTg4OTM2
-NTgsLTIwNTM1NzEyMzcsLTE3NDE4NDE4NDEsMTIwMzM5MjcwOS
-wtMTI5MTU2MDY2MywtNzUzODQ4MjM2LDEzODM2MDgwNzMsLTE5
-NTczNTUxMTIsNTAwMzkwMTE1LC04MTE5ODU4MTcsLTExNDA2MT
-cxNDMsLTExMDI0Njg4MTYsOTc1MjM0MjgyLDE4MDkzODUyMTQs
-MTY4NTkwMTEwMV19
+eyJoaXN0b3J5IjpbLTE2NTkzMzA2MzQsLTE5OTg3MzMzMTcsLT
+Y3MzQyNzY5NSwtMTU0MjA2MTQ2MiwtOTk5NzYxNDM3LDIxODg5
+MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0MTg0MSwxMjAzMzkyNz
+A5LC0xMjkxNTYwNjYzLC03NTM4NDgyMzYsMTM4MzYwODA3Mywt
+MTk1NzM1NTExMiw1MDAzOTAxMTUsLTgxMTk4NTgxNywtMTE0MD
+YxNzE0MywtMTEwMjQ2ODgxNiw5NzUyMzQyODIsMTgwOTM4NTIx
+NCwxNjg1OTAxMTAxXX0=
 -->
