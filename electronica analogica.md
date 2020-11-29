@@ -984,12 +984,14 @@ Como el diodo genera
 Con un tester en modo diodo, que es similar al de conductividad pero con mas voltaje se mide **con polaridad**, si la invertis da **resistencia infinita**
 
 El tester mostrara la **tension de codo**, es decir **a partir de que tension el diodo es conductor**
+
+Posibles fallos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTcyNDUzNCwyMDY0MzMwODU3LDEwNj
-YxNTk0MCw0NTc2MTI1OTksLTE4MDkwMzg3NTAsLTE5OTg3MzMz
-MTcsLTY3MzQyNzY5NSwtMTU0MjA2MTQ2MiwtOTk5NzYxNDM3LD
-IxODg5MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0MTg0MSwxMjAz
-MzkyNzA5LC0xMjkxNTYwNjYzLC03NTM4NDgyMzYsMTM4MzYwOD
-A3MywtMTk1NzM1NTExMiw1MDAzOTAxMTUsLTgxMTk4NTgxNywt
-MTE0MDYxNzE0M119
+eyJoaXN0b3J5IjpbMTU2Mzk4MzM3NiwxMjQ5NzI0NTM0LDIwNj
+QzMzA4NTcsMTA2NjE1OTQwLDQ1NzYxMjU5OSwtMTgwOTAzODc1
+MCwtMTk5ODczMzMxNywtNjczNDI3Njk1LC0xNTQyMDYxNDYyLC
+05OTk3NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0xNzQx
+ODQxODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0OD
+IzNiwxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNSwt
+ODExOTg1ODE3XX0=
 -->
