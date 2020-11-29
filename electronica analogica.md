@@ -976,10 +976,16 @@ Como el diodo genera
 
 
 ![](https://i.imgur.com/6MOtKeJ.png)
+### Analisis de circuito
+
+* Haces el reemplazo del diodo por la fuente (su equivalente)
+* Usas las herramientas normales (mallas, etc). Si te da una tension $<0.7$ o negativa es que no pasa corriente por el diodo y volves a modelar el circuito como un circuito abierto
+
+
 ### Tipos
 
 ![](https://i.imgur.com/fW6B1eR.png)
-### Medicion
+### Prueba y medicion
 
 Con un tester en modo diodo, que es similar al de conductividad pero con mas voltaje se mide **con polaridad**, si la invertis da **resistencia infinita**
 
@@ -990,11 +996,11 @@ Posibles fallos:
 * **abierto** resistencia infinita en ambos sentidos
 * **fugas** Baja tension de codo, resistencia en polaridad inversa $<0.018M\Omega$ (mega omnios)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTA3MDUxMSwxMjQ5NzI0NTM0LDIwNj
-QzMzA4NTcsMTA2NjE1OTQwLDQ1NzYxMjU5OSwtMTgwOTAzODc1
-MCwtMTk5ODczMzMxNywtNjczNDI3Njk1LC0xNTQyMDYxNDYyLC
-05OTk3NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0xNzQx
-ODQxODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0OD
-IzNiwxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MDExNSwt
-ODExOTg1ODE3XX0=
+eyJoaXN0b3J5IjpbLTEzNDU5MTI5NTYsMTUyMTA3MDUxMSwxMj
+Q5NzI0NTM0LDIwNjQzMzA4NTcsMTA2NjE1OTQwLDQ1NzYxMjU5
+OSwtMTgwOTAzODc1MCwtMTk5ODczMzMxNywtNjczNDI3Njk1LC
+0xNTQyMDYxNDYyLC05OTk3NjE0MzcsMjE4ODkzNjU4LC0yMDUz
+NTcxMjM3LC0xNzQxODQxODQxLDEyMDMzOTI3MDksLTEyOTE1Nj
+A2NjMsLTc1Mzg0ODIzNiwxMzgzNjA4MDczLC0xOTU3MzU1MTEy
+LDUwMDM5MDExNV19
 -->
