@@ -985,9 +985,12 @@ Con un tester en modo diodo, que es similar al de conductividad pero con mas vol
 
 El tester mostrara la **tension de codo**, es decir **a partir de que tension el diodo es conductor**
 
-Posibles fallos
+Posibles fallos:
+* **corto** sin resistencia en ambos sentidos
+* **abierto** resistencia infinita en ambos sentidos
+* **fugas** Baja tension de codo, resistencia en polaridad inversa $<0.018M\Omega$ (mega omnios)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Mzk4MzM3NiwxMjQ5NzI0NTM0LDIwNj
+eyJoaXN0b3J5IjpbMTUyMTA3MDUxMSwxMjQ5NzI0NTM0LDIwNj
 QzMzA4NTcsMTA2NjE1OTQwLDQ1NzYxMjU5OSwtMTgwOTAzODc1
 MCwtMTk5ODczMzMxNywtNjczNDI3Njk1LC0xNTQyMDYxNDYyLC
 05OTk3NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0xNzQx
