@@ -968,17 +968,17 @@ Como el diodo genera
 Lo reemplazamos con
 * Una fuente de tension con la polaridad al revez, tal que elimine $0.7v$
 * Un resistor que genere una relacion lineal entre $V$ e $I$
-	* Muchas veces es tan chiquita que ni se coloca y puede quedar como en la figura 2
+	* Muchas veces es tan chiquita que ni se coloca 
 
 
-![](https://i.imgur.com/qDMRGIz.png)
-![](https://i.imgur.com/d6Ig5Tv.png)
+
+![](https://i.imgur.com/6MOtKeJ.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDkxOTM0MzgsNDU3NjEyNTk5LC0xOD
-A5MDM4NzUwLC0xOTk4NzMzMzE3LC02NzM0Mjc2OTUsLTE1NDIw
-NjE0NjIsLTk5OTc2MTQzNywyMTg4OTM2NTgsLTIwNTM1NzEyMz
-csLTE3NDE4NDE4NDEsMTIwMzM5MjcwOSwtMTI5MTU2MDY2Mywt
-NzUzODQ4MjM2LDEzODM2MDgwNzMsLTE5NTczNTUxMTIsNTAwMz
-kwMTE1LC04MTE5ODU4MTcsLTExNDA2MTcxNDMsLTExMDI0Njg4
-MTYsOTc1MjM0MjgyXX0=
+eyJoaXN0b3J5IjpbMTA2NjE1OTQwLDQ1NzYxMjU5OSwtMTgwOT
+AzODc1MCwtMTk5ODczMzMxNywtNjczNDI3Njk1LC0xNTQyMDYx
+NDYyLC05OTk3NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC
+0xNzQxODQxODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1
+Mzg0ODIzNiwxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MD
+ExNSwtODExOTg1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2
+LDk3NTIzNDI4Ml19
 -->
