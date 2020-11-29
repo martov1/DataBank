@@ -998,13 +998,13 @@ Posibles fallos:
 * **abierto** resistencia infinita en ambos sentidos
 * **fugas** Baja tension de codo, resistencia en polaridad inversa $<0.018M\Omega$ (mega omnios)
 
-### Circuito limitador (?)
+### Circuito limitador 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTA5MjQzNCwtMTE2MzcyODg0NywxMz
-czNTEwNTQyLDkzMjg3NjQ4MywxNTIxMDcwNTExLDEyNDk3MjQ1
-MzQsMjA2NDMzMDg1NywxMDY2MTU5NDAsNDU3NjEyNTk5LC0xOD
-A5MDM4NzUwLC0xOTk4NzMzMzE3LC02NzM0Mjc2OTUsLTE1NDIw
-NjE0NjIsLTk5OTc2MTQzNywyMTg4OTM2NTgsLTIwNTM1NzEyMz
-csLTE3NDE4NDE4NDEsMTIwMzM5MjcwOSwtMTI5MTU2MDY2Mywt
-NzUzODQ4MjM2XX0=
+eyJoaXN0b3J5IjpbMTQ3MjM3NDAwNCwtMzA5MDkyNDM0LC0xMT
+YzNzI4ODQ3LDEzNzM1MTA1NDIsOTMyODc2NDgzLDE1MjEwNzA1
+MTEsMTI0OTcyNDUzNCwyMDY0MzMwODU3LDEwNjYxNTk0MCw0NT
+c2MTI1OTksLTE4MDkwMzg3NTAsLTE5OTg3MzMzMTcsLTY3MzQy
+NzY5NSwtMTU0MjA2MTQ2MiwtOTk5NzYxNDM3LDIxODg5MzY1OC
+wtMjA1MzU3MTIzNywtMTc0MTg0MTg0MSwxMjAzMzkyNzA5LC0x
+MjkxNTYwNjYzXX0=
 -->
