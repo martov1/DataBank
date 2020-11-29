@@ -962,22 +962,22 @@ Es un **semiconductor** que transmite la corriente en un solo sentido.
 al ser un elemento **no-lineal** no lo puedo calcular con mis herramientas de analisis de circuitos normal. Tengo que hacer algunas simplificaciones.
 
 Como el diodo genera
-* Una caida de potencial de $0.7V$
-* Una relacion casi lineal de $V$ y $I$ luego de los $0.7v$
-
-Entonces
-
 * **En la polaridad normal**
-	* Una fuente de tension con la polaridad al revez, tal que elimine $0.7v$
-	* Un resistor que genere una relacion lineal entre $V$ e $I$
-		* Muchas veces es tan chiquita que ni se coloca 
+	* Una caida de potencial de $0.7V$
+		* Una fuente de tension con la polaridad al revez, tal que elimine $0.7v$
+	* Una relacion casi lineal de $V$ y $I$ luego de los $0.7v$
+		* Un resistor que genere una relacion lineal entre $V$ e $I$
+		* En general es tan chico que ni se coloca
 * **En la polaridad inversa**
+	* Una interrupcion de la corriente en polaridad normal
+		* Lo modelamos con un interuptor abierto
+
 
 
 
 ![](https://i.imgur.com/6MOtKeJ.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgxMzQzMTEsMTA2NjE1OTQwLDQ1Nz
+eyJoaXN0b3J5IjpbLTEwNjk4NTc3NjgsMTA2NjE1OTQwLDQ1Nz
 YxMjU5OSwtMTgwOTAzODc1MCwtMTk5ODczMzMxNywtNjczNDI3
 Njk1LC0xNTQyMDYxNDYyLC05OTk3NjE0MzcsMjE4ODkzNjU4LC
 0yMDUzNTcxMjM3LC0xNzQxODQxODQxLDEyMDMzOTI3MDksLTEy
