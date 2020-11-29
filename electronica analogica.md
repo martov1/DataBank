@@ -999,8 +999,12 @@ Posibles fallos:
 * **fugas** Baja tension de codo, resistencia en polaridad inversa $<0.018M\Omega$ (mega omnios)
 
 ### Circuito limitador 
+
+
+#### Clipper de media onda
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjM3NDAwNCwtMzA5MDkyNDM0LC0xMT
+eyJoaXN0b3J5IjpbLTYwODYxODY0OCwtMzA5MDkyNDM0LC0xMT
 YzNzI4ODQ3LDEzNzM1MTA1NDIsOTMyODc2NDgzLDE1MjEwNzA1
 MTEsMTI0OTcyNDUzNCwyMDY0MzMwODU3LDEwNjYxNTk0MCw0NT
 c2MTI1OTksLTE4MDkwMzg3NTAsLTE5OTg3MzMzMTcsLTY3MzQy
