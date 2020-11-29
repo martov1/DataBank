@@ -998,7 +998,7 @@ Posibles fallos:
 * **abierto** resistencia infinita en ambos sentidos
 * **fugas** Baja tension de codo, resistencia en polaridad inversa $<0.018M\Omega$ (mega omnios)
 
-### Circuito limitador 
+## Circuitos cpmunes
 
 
 #### Clipper de onda
@@ -1020,12 +1020,15 @@ Esto mantiene como maximo $5V$ a la salida
 Se puede usar el mismo circuito al revez para la otra mitad de la onda
 
 ![](https://i.imgur.com/Vkx7M23.png)
+#### Diodo antichispa protector de bobina
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY1OTk4MjAsMTEzNjczNjM1NiwtMz
-A5MDkyNDM0LC0xMTYzNzI4ODQ3LDEzNzM1MTA1NDIsOTMyODc2
-NDgzLDE1MjEwNzA1MTEsMTI0OTcyNDUzNCwyMDY0MzMwODU3LD
-EwNjYxNTk0MCw0NTc2MTI1OTksLTE4MDkwMzg3NTAsLTE5OTg3
-MzMzMTcsLTY3MzQyNzY5NSwtMTU0MjA2MTQ2MiwtOTk5NzYxND
-M3LDIxODg5MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0MTg0MSwx
-MjAzMzkyNzA5XX0=
+eyJoaXN0b3J5IjpbMzM5MDA0MjA1LC0xMjM2NTk5ODIwLDExMz
+Y3MzYzNTYsLTMwOTA5MjQzNCwtMTE2MzcyODg0NywxMzczNTEw
+NTQyLDkzMjg3NjQ4MywxNTIxMDcwNTExLDEyNDk3MjQ1MzQsMj
+A2NDMzMDg1NywxMDY2MTU5NDAsNDU3NjEyNTk5LC0xODA5MDM4
+NzUwLC0xOTk4NzMzMzE3LC02NzM0Mjc2OTUsLTE1NDIwNjE0Nj
+IsLTk5OTc2MTQzNywyMTg4OTM2NTgsLTIwNTM1NzEyMzcsLTE3
+NDE4NDE4NDFdfQ==
 -->
