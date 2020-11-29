@@ -983,9 +983,9 @@ Como el diodo genera
 
 Con un tester en modo diodo, que es similar al de conductividad pero con mas voltaje se mide **con polaridad**, si la invertis da **resistencia infinita**
 
-El tester mostrara la 
+El tester mostrara la **tension de codo**, es decir **a partir de que tension el diodo es conductor**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDQzNjA4NywyMDY0MzMwODU3LDEwNj
+eyJoaXN0b3J5IjpbMTI0OTcyNDUzNCwyMDY0MzMwODU3LDEwNj
 YxNTk0MCw0NTc2MTI1OTksLTE4MDkwMzg3NTAsLTE5OTg3MzMz
 MTcsLTY3MzQyNzY5NSwtMTU0MjA2MTQ2MiwtOTk5NzYxNDM3LD
 IxODg5MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0MTg0MSwxMjAz
