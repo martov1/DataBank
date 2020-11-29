@@ -986,9 +986,9 @@ Como el diodo genera
 
 ### Tipos
 
-![](https://i.imgur.com/fW6B1eR.png)
-### Prueba y medicion
-
+![](https://i.imgur.com/fW6B1eR.png) 
+### Prueba y medicion 
+ 
 Con un tester en modo diodo, que es similar al de conductividad pero con mas voltaje se mide **con polaridad**, si la invertis da **resistencia infinita**
 
 El tester mostrara la **tension de codo**, es decir **a partir de que tension el diodo es conductor**
@@ -998,13 +998,13 @@ Posibles fallos:
 * **abierto** resistencia infinita en ambos sentidos
 * **fugas** Baja tension de codo, resistencia en polaridad inversa $<0.018M\Omega$ (mega omnios)
 
-## Circuito limitador
+### Circuito limitador (?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM3Mjg4NDcsMTM3MzUxMDU0Miw5Mz
-I4NzY0ODMsMTUyMTA3MDUxMSwxMjQ5NzI0NTM0LDIwNjQzMzA4
-NTcsMTA2NjE1OTQwLDQ1NzYxMjU5OSwtMTgwOTAzODc1MCwtMT
-k5ODczMzMxNywtNjczNDI3Njk1LC0xNTQyMDYxNDYyLC05OTk3
-NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0xNzQxODQxOD
-QxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1Mzg0ODIzNiwx
-MzgzNjA4MDczXX0=
+eyJoaXN0b3J5IjpbLTMwOTA5MjQzNCwtMTE2MzcyODg0NywxMz
+czNTEwNTQyLDkzMjg3NjQ4MywxNTIxMDcwNTExLDEyNDk3MjQ1
+MzQsMjA2NDMzMDg1NywxMDY2MTU5NDAsNDU3NjEyNTk5LC0xOD
+A5MDM4NzUwLC0xOTk4NzMzMzE3LC02NzM0Mjc2OTUsLTE1NDIw
+NjE0NjIsLTk5OTc2MTQzNywyMTg4OTM2NTgsLTIwNTM1NzEyMz
+csLTE3NDE4NDE4NDEsMTIwMzM5MjcwOSwtMTI5MTU2MDY2Mywt
+NzUzODQ4MjM2XX0=
 -->
