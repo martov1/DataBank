@@ -944,10 +944,12 @@ $$230/12/12 - A$$
 
 ## Diodo P-N
 
+## Descripcion y valores
 Es un **semiconductor** que transmite la corriente en un solo sentido.
 
+
 * **Transmite** la corriente en un sentido a partir de un cierto voltaje $V$
-	* Para diodos de **silicio** suele ser mas o menos $0.7V$
+* Para diodos de **silicio** suele ser mas o menos $0.7V$
 	* Para otros la tension varia
 * **Detiene** la corriente en el otro sentido
 	*  hasta cierta tension llamada tension de ruptura $V_{rupt}$ y el diodo se destruye
@@ -955,12 +957,13 @@ Es un **semiconductor** que transmite la corriente en un solo sentido.
 
 
    ![](https://i.imgur.com/7xDded4.png)
+## Descripcion y valores
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMwODAxNDQsLTE4MDkwMzg3NTAsLT
-E5OTg3MzMzMTcsLTY3MzQyNzY5NSwtMTU0MjA2MTQ2MiwtOTk5
-NzYxNDM3LDIxODg5MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0MT
-g0MSwxMjAzMzkyNzA5LC0xMjkxNTYwNjYzLC03NTM4NDgyMzYs
-MTM4MzYwODA3MywtMTk1NzM1NTExMiw1MDAzOTAxMTUsLTgxMT
-k4NTgxNywtMTE0MDYxNzE0MywtMTEwMjQ2ODgxNiw5NzUyMzQy
-ODIsMTgwOTM4NTIxNF19
+eyJoaXN0b3J5IjpbODkwMDA4ODc0LC0xODA5MDM4NzUwLC0xOT
+k4NzMzMzE3LC02NzM0Mjc2OTUsLTE1NDIwNjE0NjIsLTk5OTc2
+MTQzNywyMTg4OTM2NTgsLTIwNTM1NzEyMzcsLTE3NDE4NDE4ND
+EsMTIwMzM5MjcwOSwtMTI5MTU2MDY2MywtNzUzODQ4MjM2LDEz
+ODM2MDgwNzMsLTE5NTczNTUxMTIsNTAwMzkwMTE1LC04MTE5OD
+U4MTcsLTExNDA2MTcxNDMsLTExMDI0Njg4MTYsOTc1MjM0Mjgy
+LDE4MDkzODUyMTRdfQ==
 -->
