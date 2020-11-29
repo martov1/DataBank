@@ -965,20 +965,23 @@ Como el diodo genera
 * Una caida de potencial de $0.7V$
 * Una relacion casi lineal de $V$ y $I$ luego de los $0.7v$
 
-Lo reemplazamos con
-* Una fuente de tension con la polaridad al revez, tal que elimine $0.7v$
-* Un resistor que genere una relacion lineal entre $V$ e $I$
-	* Muchas veces es tan chiquita que ni se coloca 
+Entonces
+
+* **En la polaridad normal**
+	* Una fuente de tension con la polaridad al revez, tal que elimine $0.7v$
+	* Un resistor que genere una relacion lineal entre $V$ e $I$
+		* Muchas veces es tan chiquita que ni se coloca 
+* **En la polaridad inversa**
 
 
 
 ![](https://i.imgur.com/6MOtKeJ.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjE1OTQwLDQ1NzYxMjU5OSwtMTgwOT
-AzODc1MCwtMTk5ODczMzMxNywtNjczNDI3Njk1LC0xNTQyMDYx
-NDYyLC05OTk3NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC
-0xNzQxODQxODQxLDEyMDMzOTI3MDksLTEyOTE1NjA2NjMsLTc1
-Mzg0ODIzNiwxMzgzNjA4MDczLC0xOTU3MzU1MTEyLDUwMDM5MD
-ExNSwtODExOTg1ODE3LC0xMTQwNjE3MTQzLC0xMTAyNDY4ODE2
-LDk3NTIzNDI4Ml19
+eyJoaXN0b3J5IjpbLTEwNzgxMzQzMTEsMTA2NjE1OTQwLDQ1Nz
+YxMjU5OSwtMTgwOTAzODc1MCwtMTk5ODczMzMxNywtNjczNDI3
+Njk1LC0xNTQyMDYxNDYyLC05OTk3NjE0MzcsMjE4ODkzNjU4LC
+0yMDUzNTcxMjM3LC0xNzQxODQxODQxLDEyMDMzOTI3MDksLTEy
+OTE1NjA2NjMsLTc1Mzg0ODIzNiwxMzgzNjA4MDczLC0xOTU3Mz
+U1MTEyLDUwMDM5MDExNSwtODExOTg1ODE3LC0xMTQwNjE3MTQz
+LC0xMTAyNDY4ODE2XX0=
 -->
