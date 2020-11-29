@@ -1004,6 +1004,8 @@ Posibles fallos:
 #### Clipper de onda
 
 [fuente](https://www.youtube.com/watch?v=S76CnEJMl5E)
+
+[Ejemplo falstad](https://tinyurl.com/yxocj8ru)
 Es un circuito que recorta una onda o señal sinosoidal a una tension maxima o minima.
 
 Se usa un diodo con una fuente en oposcion al paso de la tension.
@@ -1019,11 +1021,11 @@ Se puede usar el mismo circuito al revez para la otra mitad de la onda
 
 ![](https://i.imgur.com/Vkx7M23.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjczNjM1NiwtMzA5MDkyNDM0LC0xMT
-YzNzI4ODQ3LDEzNzM1MTA1NDIsOTMyODc2NDgzLDE1MjEwNzA1
-MTEsMTI0OTcyNDUzNCwyMDY0MzMwODU3LDEwNjYxNTk0MCw0NT
-c2MTI1OTksLTE4MDkwMzg3NTAsLTE5OTg3MzMzMTcsLTY3MzQy
-NzY5NSwtMTU0MjA2MTQ2MiwtOTk5NzYxNDM3LDIxODg5MzY1OC
-wtMjA1MzU3MTIzNywtMTc0MTg0MTg0MSwxMjAzMzkyNzA5LC0x
-MjkxNTYwNjYzXX0=
+eyJoaXN0b3J5IjpbLTEyMzY1OTk4MjAsMTEzNjczNjM1NiwtMz
+A5MDkyNDM0LC0xMTYzNzI4ODQ3LDEzNzM1MTA1NDIsOTMyODc2
+NDgzLDE1MjEwNzA1MTEsMTI0OTcyNDUzNCwyMDY0MzMwODU3LD
+EwNjYxNTk0MCw0NTc2MTI1OTksLTE4MDkwMzg3NTAsLTE5OTg3
+MzMzMTcsLTY3MzQyNzY5NSwtMTU0MjA2MTQ2MiwtOTk5NzYxND
+M3LDIxODg5MzY1OCwtMjA1MzU3MTIzNywtMTc0MTg0MTg0MSwx
+MjAzMzkyNzA5XX0=
 -->
