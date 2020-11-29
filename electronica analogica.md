@@ -1017,18 +1017,18 @@ Esto mantiene como maximo $5V$ a la salida
 
 
 ![](https://i.imgur.com/Q5uQYvi.png)
-Se puede usar el mismo circuito al revez para la otra mitad de la onda
+Se puede usar el mismo circuito al revés para la otra mitad de la onda
 
 ![](https://i.imgur.com/Vkx7M23.png)
 #### Diodo antichispa protector de bobina
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5MDA0MjA1LC0xMjM2NTk5ODIwLDExMz
-Y3MzYzNTYsLTMwOTA5MjQzNCwtMTE2MzcyODg0NywxMzczNTEw
-NTQyLDkzMjg3NjQ4MywxNTIxMDcwNTExLDEyNDk3MjQ1MzQsMj
-A2NDMzMDg1NywxMDY2MTU5NDAsNDU3NjEyNTk5LC0xODA5MDM4
-NzUwLC0xOTk4NzMzMzE3LC02NzM0Mjc2OTUsLTE1NDIwNjE0Nj
-IsLTk5OTc2MTQzNywyMTg4OTM2NTgsLTIwNTM1NzEyMzcsLTE3
-NDE4NDE4NDFdfQ==
+eyJoaXN0b3J5IjpbLTY2MjkwNTYzMCwtMTIzNjU5OTgyMCwxMT
+M2NzM2MzU2LC0zMDkwOTI0MzQsLTExNjM3Mjg4NDcsMTM3MzUx
+MDU0Miw5MzI4NzY0ODMsMTUyMTA3MDUxMSwxMjQ5NzI0NTM0LD
+IwNjQzMzA4NTcsMTA2NjE1OTQwLDQ1NzYxMjU5OSwtMTgwOTAz
+ODc1MCwtMTk5ODczMzMxNywtNjczNDI3Njk1LC0xNTQyMDYxND
+YyLC05OTk3NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0x
+NzQxODQxODQxXX0=
 -->
