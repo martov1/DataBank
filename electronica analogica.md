@@ -1022,13 +1022,21 @@ Se puede usar el mismo circuito al revés para la otra mitad de la onda
 ![](https://i.imgur.com/Vkx7M23.png)
 #### Diodo antichispa protector de bobina
 
+Son diodos usados para cortocircuitar una bobina cargada cuando a esta se le interrumpeel circuito.
 
+**El problema:**
+* La bobina cargada actua como fuente de corriente
+* Cuando se interrumpe su paso de corriente, esta lo toma como una resistencia infinita, generando tensiones gigantescas
+* esto genera un chispazo en el interruptor
+
+**Para evitarlo**
+* Coloco un diodo para
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjkwNTYzMCwtMTIzNjU5OTgyMCwxMT
-M2NzM2MzU2LC0zMDkwOTI0MzQsLTExNjM3Mjg4NDcsMTM3MzUx
-MDU0Miw5MzI4NzY0ODMsMTUyMTA3MDUxMSwxMjQ5NzI0NTM0LD
-IwNjQzMzA4NTcsMTA2NjE1OTQwLDQ1NzYxMjU5OSwtMTgwOTAz
-ODc1MCwtMTk5ODczMzMxNywtNjczNDI3Njk1LC0xNTQyMDYxND
-YyLC05OTk3NjE0MzcsMjE4ODkzNjU4LC0yMDUzNTcxMjM3LC0x
-NzQxODQxODQxXX0=
+eyJoaXN0b3J5IjpbNzk2MzcxMzk3LC02NjI5MDU2MzAsLTEyMz
+Y1OTk4MjAsMTEzNjczNjM1NiwtMzA5MDkyNDM0LC0xMTYzNzI4
+ODQ3LDEzNzM1MTA1NDIsOTMyODc2NDgzLDE1MjEwNzA1MTEsMT
+I0OTcyNDUzNCwyMDY0MzMwODU3LDEwNjYxNTk0MCw0NTc2MTI1
+OTksLTE4MDkwMzg3NTAsLTE5OTg3MzMzMTcsLTY3MzQyNzY5NS
+wtMTU0MjA2MTQ2MiwtOTk5NzYxNDM3LDIxODg5MzY1OCwtMjA1
+MzU3MTIzN119
 -->
