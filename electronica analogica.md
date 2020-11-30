@@ -1001,7 +1001,7 @@ Posibles fallos:
 ## Circuitos cpmunes
 
 
-#### Clipper de onda
+### Clipper de onda
 
 [fuente](https://www.youtube.com/watch?v=S76CnEJMl5E)
 
@@ -1020,7 +1020,7 @@ Esto mantiene como maximo $5V$ a la salida
 Se puede usar el mismo circuito al revés para la otra mitad de la onda
 
 ![](https://i.imgur.com/Vkx7M23.png)
-#### Diodo antichispa protector de bobina
+### Diodo anti-chispa protector de bobina
 
 Son diodos usados para cortocircuitar una bobina cargada cuando a esta se le interrumpeel circuito.
 
@@ -1041,14 +1041,15 @@ Son diodos usados para cortocircuitar una bobina cargada cuando a esta se le int
 
 ![](https://i.imgur.com/Q2HhM9d.png)
 
+### Rectificador
 
-
+**Rectificador de media onda:** Elimina la mitad de una onda sinusoidal con un diodo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NzEwNjQxLDE0OTQzNjMyNDUsMTI2Nj
-MwNTM0NSwtNDU3ODk0NDEzLC02NjI5MDU2MzAsLTEyMzY1OTk4
-MjAsMTEzNjczNjM1NiwtMzA5MDkyNDM0LC0xMTYzNzI4ODQ3LD
-EzNzM1MTA1NDIsOTMyODc2NDgzLDE1MjEwNzA1MTEsMTI0OTcy
-NDUzNCwyMDY0MzMwODU3LDEwNjYxNTk0MCw0NTc2MTI1OTksLT
-E4MDkwMzg3NTAsLTE5OTg3MzMzMTcsLTY3MzQyNzY5NSwtMTU0
-MjA2MTQ2Ml19
+eyJoaXN0b3J5IjpbNjYwOTI1Mzk5LDU2NTcxMDY0MSwxNDk0Mz
+YzMjQ1LDEyNjYzMDUzNDUsLTQ1Nzg5NDQxMywtNjYyOTA1NjMw
+LC0xMjM2NTk5ODIwLDExMzY3MzYzNTYsLTMwOTA5MjQzNCwtMT
+E2MzcyODg0NywxMzczNTEwNTQyLDkzMjg3NjQ4MywxNTIxMDcw
+NTExLDEyNDk3MjQ1MzQsMjA2NDMzMDg1NywxMDY2MTU5NDAsND
+U3NjEyNTk5LC0xODA5MDM4NzUwLC0xOTk4NzMzMzE3LC02NzM0
+Mjc2OTVdfQ==
 -->
