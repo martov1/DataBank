@@ -1070,12 +1070,12 @@ Es un rectificador que transforma los dos lados de la onda en voltajes positivos
 #### Rectificador en puente (full bridge rectifier)
 
 Es un rectificador de onda completa que usa 4 diodos
-
+[ejemplo](https://tinyurl.com/y5t5kot8)
 ![](https://i.imgur.com/1WOyQzj.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjAyNDIxMSwtNDA4NTQ3MTM1LDE1MD
+eyJoaXN0b3J5IjpbMTYzNDk3NzIxNSwtNDA4NTQ3MTM1LDE1MD
 AwNTUyMTksMTc3MTMzMzcyMiwxMTM3ODY4NDQxLDE5ODg1NzA1
 OTgsMTE0OTg1NjY3NiwxNTEzODAyNzE0LC0xMDYwNzE2NzM1LD
 U2NTcxMDY0MSwxNDk0MzYzMjQ1LDEyNjYzMDUzNDUsLTQ1Nzg5
