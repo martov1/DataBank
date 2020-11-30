@@ -1071,11 +1071,11 @@ Es un rectificador que transforma los dos lados de la onda en voltajes positivos
 
 Es un rectificador de onda completa que usa 4 diodos
 
-![](https://i.imgur.com/WD5I6Qj.png)
+![](https://i.imgur.com/1WOyQzj.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDk3MDI1NiwtNDA4NTQ3MTM1LDE1MD
+eyJoaXN0b3J5IjpbMjA4NjAyNDIxMSwtNDA4NTQ3MTM1LDE1MD
 AwNTUyMTksMTc3MTMzMzcyMiwxMTM3ODY4NDQxLDE5ODg1NzA1
 OTgsMTE0OTg1NjY3NiwxNTEzODAyNzE0LC0xMDYwNzE2NzM1LD
 U2NTcxMDY0MSwxNDk0MzYzMjQ1LDEyNjYzMDUzNDUsLTQ1Nzg5
