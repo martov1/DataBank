@@ -1,7 +1,7 @@
 **Nivel técnico electrónico**
 https://www.youtube.com/watch?v=4LhDcDaefzo&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=48
 
-Clase 30.2: Circuito limitador con dos diodos
+Clase 32.2  Rectificador en puente. Funcionamiento y comprobacion
 
 https://www.youtube.com/watch?v=w3cqkMkte2w&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=10
 **BREAK para ver desde capacity factor**
@@ -1075,11 +1075,11 @@ Es un rectificador de onda completa que usa 4 diodos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDk3NzIxNSwtNDA4NTQ3MTM1LDE1MD
-AwNTUyMTksMTc3MTMzMzcyMiwxMTM3ODY4NDQxLDE5ODg1NzA1
-OTgsMTE0OTg1NjY3NiwxNTEzODAyNzE0LC0xMDYwNzE2NzM1LD
-U2NTcxMDY0MSwxNDk0MzYzMjQ1LDEyNjYzMDUzNDUsLTQ1Nzg5
-NDQxMywtNjYyOTA1NjMwLC0xMjM2NTk5ODIwLDExMzY3MzYzNT
-YsLTMwOTA5MjQzNCwtMTE2MzcyODg0NywxMzczNTEwNTQyLDkz
-Mjg3NjQ4M119
+eyJoaXN0b3J5IjpbLTEzMTI1NDI2MDEsMTYzNDk3NzIxNSwtND
+A4NTQ3MTM1LDE1MDAwNTUyMTksMTc3MTMzMzcyMiwxMTM3ODY4
+NDQxLDE5ODg1NzA1OTgsMTE0OTg1NjY3NiwxNTEzODAyNzE0LC
+0xMDYwNzE2NzM1LDU2NTcxMDY0MSwxNDk0MzYzMjQ1LDEyNjYz
+MDUzNDUsLTQ1Nzg5NDQxMywtNjYyOTA1NjMwLC0xMjM2NTk5OD
+IwLDExMzY3MzYzNTYsLTMwOTA5MjQzNCwtMTE2MzcyODg0Nywx
+MzczNTEwNTQyXX0=
 -->
