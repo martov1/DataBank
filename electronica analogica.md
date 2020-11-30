@@ -1025,7 +1025,7 @@ Se puede usar el mismo circuito al revés para la otra mitad de la onda
 Son diodos usados para cortocircuitar una bobina cargada cuando a esta se le interrumpeel circuito.
 
 [fuente](https://www.youtube.com/watch?v=Euj7xa4WoVE&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=55)
-[ejemplo](https://tinyurl.com/yxz7vtv4)
+[ejemplo](https://tinyurl.com/y6ox6u3j)
 
 **El problema:**
 * La bobina cargada actua como fuente de corriente
@@ -1042,11 +1042,11 @@ Son diodos usados para cortocircuitar una bobina cargada cuando a esta se le int
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2NjMxODU3LDEyNjYzMDUzNDUsLTQ1Nz
-g5NDQxMywtNjYyOTA1NjMwLC0xMjM2NTk5ODIwLDExMzY3MzYz
-NTYsLTMwOTA5MjQzNCwtMTE2MzcyODg0NywxMzczNTEwNTQyLD
-kzMjg3NjQ4MywxNTIxMDcwNTExLDEyNDk3MjQ1MzQsMjA2NDMz
-MDg1NywxMDY2MTU5NDAsNDU3NjEyNTk5LC0xODA5MDM4NzUwLC
-0xOTk4NzMzMzE3LC02NzM0Mjc2OTUsLTE1NDIwNjE0NjIsLTk5
-OTc2MTQzN119
+eyJoaXN0b3J5IjpbMTQ5NDM2MzI0NSwxMjY2MzA1MzQ1LC00NT
+c4OTQ0MTMsLTY2MjkwNTYzMCwtMTIzNjU5OTgyMCwxMTM2NzM2
+MzU2LC0zMDkwOTI0MzQsLTExNjM3Mjg4NDcsMTM3MzUxMDU0Mi
+w5MzI4NzY0ODMsMTUyMTA3MDUxMSwxMjQ5NzI0NTM0LDIwNjQz
+MzA4NTcsMTA2NjE1OTQwLDQ1NzYxMjU5OSwtMTgwOTAzODc1MC
+wtMTk5ODczMzMxNywtNjczNDI3Njk1LC0xNTQyMDYxNDYyLC05
+OTk3NjE0MzddfQ==
 -->
