@@ -1044,18 +1044,21 @@ Son diodos usados para cortocircuitar una bobina cargada cuando a esta se le int
 ### Rectificador
 
 #### De media onda
+
 **Rectificador de media onda:** 
 * Elimina la mitad de una onda sinusoidal con un diodo
 * [ejemplo](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3AWAnC1b0DYQGYBM0B2AViIA4i4jdIEKSQikGQFsAoAExCSzA0hzZe-ELhAcApgDMAhgFcANgBc2AN27CBPUUSwCICAUSgmYRNgCdBm6zr3h4bAO63cujXahsA9qJAYEE0MUZhhINxMxMXYgA)
 * Se trata de un diodo en serie con una fuente alterna, de tal manera que **no deja pasar la parte negativa de la onda**
 
 ![](https://i.imgur.com/Nkcqxw1.png)
+**EJEMPLO PRACTICO:**
+Se puede limitar a la mitad la potencia de una resistencia calefactora decidiendo si hace
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjA3MTY3MzUsNTY1NzEwNjQxLDE0OT
-QzNjMyNDUsMTI2NjMwNTM0NSwtNDU3ODk0NDEzLC02NjI5MDU2
-MzAsLTEyMzY1OTk4MjAsMTEzNjczNjM1NiwtMzA5MDkyNDM0LC
-0xMTYzNzI4ODQ3LDEzNzM1MTA1NDIsOTMyODc2NDgzLDE1MjEw
-NzA1MTEsMTI0OTcyNDUzNCwyMDY0MzMwODU3LDEwNjYxNTk0MC
-w0NTc2MTI1OTksLTE4MDkwMzg3NTAsLTE5OTg3MzMzMTcsLTY3
-MzQyNzY5NV19
+eyJoaXN0b3J5IjpbLTE0MDc4MDgzNTksLTEwNjA3MTY3MzUsNT
+Y1NzEwNjQxLDE0OTQzNjMyNDUsMTI2NjMwNTM0NSwtNDU3ODk0
+NDEzLC02NjI5MDU2MzAsLTEyMzY1OTk4MjAsMTEzNjczNjM1Ni
+wtMzA5MDkyNDM0LC0xMTYzNzI4ODQ3LDEzNzM1MTA1NDIsOTMy
+ODc2NDgzLDE1MjEwNzA1MTEsMTI0OTcyNDUzNCwyMDY0MzMwOD
+U3LDEwNjYxNTk0MCw0NTc2MTI1OTksLTE4MDkwMzg3NTAsLTE5
+OTg3MzMzMTddfQ==
 -->
