@@ -1024,6 +1024,9 @@ Se puede usar el mismo circuito al revés para la otra mitad de la onda
 
 Son diodos usados para cortocircuitar una bobina cargada cuando a esta se le interrumpeel circuito.
 
+[fuente](https://www.youtube.com/watch?v=Euj7xa4WoVE&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=55)
+[ejemplo](https://tinyurl.com/yyvyfwqe)
+
 **El problema:**
 * La bobina cargada actua como fuente de corriente
 * Cuando se interrumpe su paso de corriente, esta lo toma como una resistencia infinita, generando tensiones gigantescas
@@ -1034,11 +1037,12 @@ Son diodos usados para cortocircuitar una bobina cargada cuando a esta se le int
 * Al tocar el interruptor, el diodo permite a la corriente recircular por la misma bobina (ya que esta misma esta generando una tension entre sus bornes)
 * La energia se disipa en forma de calor en la resistencia del bobinado 
 
+![](https://i.imgur.com/Q2HhM9d.png)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDM5NTY5MSwtNDU3ODk0NDEzLC02Nj
+eyJoaXN0b3J5IjpbMTI2NjMwNTM0NSwtNDU3ODk0NDEzLC02Nj
 I5MDU2MzAsLTEyMzY1OTk4MjAsMTEzNjczNjM1NiwtMzA5MDky
 NDM0LC0xMTYzNzI4ODQ3LDEzNzM1MTA1NDIsOTMyODc2NDgzLD
 E1MjEwNzA1MTEsMTI0OTcyNDUzNCwyMDY0MzMwODU3LDEwNjYx
