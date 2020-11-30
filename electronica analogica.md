@@ -1061,13 +1061,16 @@ Se puede limitar a la mitad la potencia de una resistencia calefactora decidiend
 
 [ejemplo](https://tinyurl.com/yxr7kslh)
 
+
+Es un rectificador que transforma los dos lados de la onda en voltajes positivos
+
 ![](https://i.imgur.com/8Ult2gW.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzg2ODQ0MSwxOTg4NTcwNTk4LDExND
-k4NTY2NzYsMTUxMzgwMjcxNCwtMTA2MDcxNjczNSw1NjU3MTA2
-NDEsMTQ5NDM2MzI0NSwxMjY2MzA1MzQ1LC00NTc4OTQ0MTMsLT
-Y2MjkwNTYzMCwtMTIzNjU5OTgyMCwxMTM2NzM2MzU2LC0zMDkw
-OTI0MzQsLTExNjM3Mjg4NDcsMTM3MzUxMDU0Miw5MzI4NzY0OD
-MsMTUyMTA3MDUxMSwxMjQ5NzI0NTM0LDIwNjQzMzA4NTcsMTA2
-NjE1OTQwXX0=
+eyJoaXN0b3J5IjpbMzczMTUzMDYxLDExMzc4Njg0NDEsMTk4OD
+U3MDU5OCwxMTQ5ODU2Njc2LDE1MTM4MDI3MTQsLTEwNjA3MTY3
+MzUsNTY1NzEwNjQxLDE0OTQzNjMyNDUsMTI2NjMwNTM0NSwtND
+U3ODk0NDEzLC02NjI5MDU2MzAsLTEyMzY1OTk4MjAsMTEzNjcz
+NjM1NiwtMzA5MDkyNDM0LC0xMTYzNzI4ODQ3LDEzNzM1MTA1ND
+IsOTMyODc2NDgzLDE1MjEwNzA1MTEsMTI0OTcyNDUzNCwyMDY0
+MzMwODU3XX0=
 -->
