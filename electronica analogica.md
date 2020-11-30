@@ -1035,18 +1035,20 @@ Son diodos usados para cortocircuitar una bobina cargada cuando a esta se le int
 **Para evitarlo**
 * Coloco un diodo paralelo a la bobina
 * Al tocar el interruptor, el diodo permite a la corriente recircular por la misma bobina (ya que esta misma esta generando una tension entre sus bornes)
-* La energia se disipa en forma de calor en la resistencia del bobinado 
+* La energia se disipa en forma de calor en 
+	* la resistencia del bobinado 
+	* El diodo
 
 ![](https://i.imgur.com/Q2HhM9d.png)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDM2MzI0NSwxMjY2MzA1MzQ1LC00NT
-c4OTQ0MTMsLTY2MjkwNTYzMCwtMTIzNjU5OTgyMCwxMTM2NzM2
-MzU2LC0zMDkwOTI0MzQsLTExNjM3Mjg4NDcsMTM3MzUxMDU0Mi
-w5MzI4NzY0ODMsMTUyMTA3MDUxMSwxMjQ5NzI0NTM0LDIwNjQz
-MzA4NTcsMTA2NjE1OTQwLDQ1NzYxMjU5OSwtMTgwOTAzODc1MC
-wtMTk5ODczMzMxNywtNjczNDI3Njk1LC0xNTQyMDYxNDYyLC05
-OTk3NjE0MzddfQ==
+eyJoaXN0b3J5IjpbNTY1NzEwNjQxLDE0OTQzNjMyNDUsMTI2Nj
+MwNTM0NSwtNDU3ODk0NDEzLC02NjI5MDU2MzAsLTEyMzY1OTk4
+MjAsMTEzNjczNjM1NiwtMzA5MDkyNDM0LC0xMTYzNzI4ODQ3LD
+EzNzM1MTA1NDIsOTMyODc2NDgzLDE1MjEwNzA1MTEsMTI0OTcy
+NDUzNCwyMDY0MzMwODU3LDEwNjYxNTk0MCw0NTc2MTI1OTksLT
+E4MDkwMzg3NTAsLTE5OTg3MzMzMTcsLTY3MzQyNzY5NSwtMTU0
+MjA2MTQ2Ml19
 -->
