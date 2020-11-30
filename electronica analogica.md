@@ -1065,12 +1065,17 @@ Se puede limitar a la mitad la potencia de una resistencia calefactora decidiend
 Es un rectificador que transforma los dos lados de la onda en voltajes positivos
 
 ![](https://i.imgur.com/QjIhfMq.png)
+
+
+#### Rectificador en puente (full bridge rectifier)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTMzMzcyMiwxMTM3ODY4NDQxLDE5OD
-g1NzA1OTgsMTE0OTg1NjY3NiwxNTEzODAyNzE0LC0xMDYwNzE2
-NzM1LDU2NTcxMDY0MSwxNDk0MzYzMjQ1LDEyNjYzMDUzNDUsLT
-Q1Nzg5NDQxMywtNjYyOTA1NjMwLC0xMjM2NTk5ODIwLDExMzY3
-MzYzNTYsLTMwOTA5MjQzNCwtMTE2MzcyODg0NywxMzczNTEwNT
-QyLDkzMjg3NjQ4MywxNTIxMDcwNTExLDEyNDk3MjQ1MzQsMjA2
-NDMzMDg1N119
+eyJoaXN0b3J5IjpbMTUwMDA1NTIxOSwxNzcxMzMzNzIyLDExMz
+c4Njg0NDEsMTk4ODU3MDU5OCwxMTQ5ODU2Njc2LDE1MTM4MDI3
+MTQsLTEwNjA3MTY3MzUsNTY1NzEwNjQxLDE0OTQzNjMyNDUsMT
+I2NjMwNTM0NSwtNDU3ODk0NDEzLC02NjI5MDU2MzAsLTEyMzY1
+OTk4MjAsMTEzNjczNjM1NiwtMzA5MDkyNDM0LC0xMTYzNzI4OD
+Q3LDEzNzM1MTA1NDIsOTMyODc2NDgzLDE1MjEwNzA1MTEsMTI0
+OTcyNDUzNF19
 -->
