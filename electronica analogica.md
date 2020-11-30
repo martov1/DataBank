@@ -1052,13 +1052,13 @@ Son diodos usados para cortocircuitar una bobina cargada cuando a esta se le int
 
 ![](https://i.imgur.com/Nkcqxw1.png)
 **EJEMPLO PRACTICO:**
-Se puede limitar a la mitad la potencia de una resistencia calefactora decidiendo si hace
+Se puede limitar a la mitad la potencia de una resistencia calefactora decidiendo si hacer pasar o no la potencia por un diodo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc4MDgzNTksLTEwNjA3MTY3MzUsNT
-Y1NzEwNjQxLDE0OTQzNjMyNDUsMTI2NjMwNTM0NSwtNDU3ODk0
-NDEzLC02NjI5MDU2MzAsLTEyMzY1OTk4MjAsMTEzNjczNjM1Ni
-wtMzA5MDkyNDM0LC0xMTYzNzI4ODQ3LDEzNzM1MTA1NDIsOTMy
-ODc2NDgzLDE1MjEwNzA1MTEsMTI0OTcyNDUzNCwyMDY0MzMwOD
-U3LDEwNjYxNTk0MCw0NTc2MTI1OTksLTE4MDkwMzg3NTAsLTE5
-OTg3MzMzMTddfQ==
+eyJoaXN0b3J5IjpbMTk2MjcwNjAzNywtMTA2MDcxNjczNSw1Nj
+U3MTA2NDEsMTQ5NDM2MzI0NSwxMjY2MzA1MzQ1LC00NTc4OTQ0
+MTMsLTY2MjkwNTYzMCwtMTIzNjU5OTgyMCwxMTM2NzM2MzU2LC
+0zMDkwOTI0MzQsLTExNjM3Mjg4NDcsMTM3MzUxMDU0Miw5MzI4
+NzY0ODMsMTUyMTA3MDUxMSwxMjQ5NzI0NTM0LDIwNjQzMzA4NT
+csMTA2NjE1OTQwLDQ1NzYxMjU5OSwtMTgwOTAzODc1MCwtMTk5
+ODczMzMxN119
 -->
