@@ -1059,9 +1059,11 @@ Se puede limitar a la mitad la potencia de una resistencia calefactora decidiend
 
 #### De onda completa
 
-ejemplo
+[ejemplo](https://tinyurl.com/yxr7kslh)
+
+![](https://i.imgur.com/8Ult2gW.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODA0NTM2NCwxOTg4NTcwNTk4LDExND
+eyJoaXN0b3J5IjpbMTEzNzg2ODQ0MSwxOTg4NTcwNTk4LDExND
 k4NTY2NzYsMTUxMzgwMjcxNCwtMTA2MDcxNjczNSw1NjU3MTA2
 NDEsMTQ5NDM2MzI0NSwxMjY2MzA1MzQ1LC00NTc4OTQ0MTMsLT
 Y2MjkwNTYzMCwtMTIzNjU5OTgyMCwxMTM2NzM2MzU2LC0zMDkw
