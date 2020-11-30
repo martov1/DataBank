@@ -1053,8 +1053,10 @@ Son diodos usados para cortocircuitar una bobina cargada cuando a esta se le int
 ![](https://i.imgur.com/Nkcqxw1.png)
 **EJEMPLO PRACTICO:**
 Se puede limitar a la mitad la potencia de una resistencia calefactora decidiendo si hacer pasar o no la potencia por un diodo
+[Ver circuito](https://tinyurl.com/y5zvdfjj)
+![](https://i.imgur.com/0ryYH8H.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjcwNjAzNywtMTA2MDcxNjczNSw1Nj
+eyJoaXN0b3J5IjpbMTUxMzgwMjcxNCwtMTA2MDcxNjczNSw1Nj
 U3MTA2NDEsMTQ5NDM2MzI0NSwxMjY2MzA1MzQ1LC00NTc4OTQ0
 MTMsLTY2MjkwNTYzMCwtMTIzNjU5OTgyMCwxMTM2NzM2MzU2LC
 0zMDkwOTI0MzQsLTExNjM3Mjg4NDcsMTM3MzUxMDU0Miw5MzI4
