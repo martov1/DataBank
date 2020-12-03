@@ -1083,12 +1083,21 @@ La codificacion suele ser la siguiente
 	* $1500ma$ sin disipador
 
 ![](https://i.imgur.com/cfhTzFg.png)
+
+### Duplicador de voltaje
+
+Este es un circuito que 
+* Rectifica media onda
+* Duplica su pico cargando un capacitor
+[Ejemplo](https://tinyurl.com/y4uhcvvr)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTAwNTY3NCwtMTMxMjU0MjYwMSwxNj
-M0OTc3MjE1LC00MDg1NDcxMzUsMTUwMDA1NTIxOSwxNzcxMzMz
-NzIyLDExMzc4Njg0NDEsMTk4ODU3MDU5OCwxMTQ5ODU2Njc2LD
-E1MTM4MDI3MTQsLTEwNjA3MTY3MzUsNTY1NzEwNjQxLDE0OTQz
-NjMyNDUsMTI2NjMwNTM0NSwtNDU3ODk0NDEzLC02NjI5MDU2Mz
-AsLTEyMzY1OTk4MjAsMTEzNjczNjM1NiwtMzA5MDkyNDM0LC0x
-MTYzNzI4ODQ3XX0=
+eyJoaXN0b3J5IjpbLTk1NzQxODg5MiwxMzM5MDA1Njc0LC0xMz
+EyNTQyNjAxLDE2MzQ5NzcyMTUsLTQwODU0NzEzNSwxNTAwMDU1
+MjE5LDE3NzEzMzM3MjIsMTEzNzg2ODQ0MSwxOTg4NTcwNTk4LD
+ExNDk4NTY2NzYsMTUxMzgwMjcxNCwtMTA2MDcxNjczNSw1NjU3
+MTA2NDEsMTQ5NDM2MzI0NSwxMjY2MzA1MzQ1LC00NTc4OTQ0MT
+MsLTY2MjkwNTYzMCwtMTIzNjU5OTgyMCwxMTM2NzM2MzU2LC0z
+MDkwOTI0MzRdfQ==
 -->
