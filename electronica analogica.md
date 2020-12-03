@@ -1084,7 +1084,7 @@ La codificacion suele ser la siguiente
 
 ![](https://i.imgur.com/cfhTzFg.png)
 
-### Duplicador de voltaje
+#### Duplicador de voltaje
 
 Este es un circuito que 
 * Rectifica media onda
@@ -1098,7 +1098,7 @@ Como el capacitor cargado tendra el voltaje de la fuente, y estan en serie, se s
 
 ![](https://i.imgur.com/NfbrKBU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTQ0OTc1OSwxMzM5MDA1Njc0LC0xMz
+eyJoaXN0b3J5IjpbMjEyMzAwODY3OCwxMzM5MDA1Njc0LC0xMz
 EyNTQyNjAxLDE2MzQ5NzcyMTUsLTQwODU0NzEzNSwxNTAwMDU1
 MjE5LDE3NzEzMzM3MjIsMTEzNzg2ODQ0MSwxOTg4NTcwNTk4LD
 ExNDk4NTY2NzYsMTUxMzgwMjcxNCwtMTA2MDcxNjczNSw1NjU3
