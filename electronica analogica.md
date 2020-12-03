@@ -1,7 +1,7 @@
 **Nivel técnico electrónico**
 https://www.youtube.com/watch?v=4LhDcDaefzo&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=48
 
-Clase 32.2  Rectificador en puente. Funcionamiento y comprobacion
+Como funciona el Sujetador y doblador de tension con diodos. (Clase 33.1)
 
 https://www.youtube.com/watch?v=w3cqkMkte2w&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=10
 **BREAK para ver desde capacity factor**
@@ -1104,11 +1104,11 @@ Se trata de un circuito que
 
 ![](https://i.imgur.com/NfbrKBU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY5MDcyNDgsMTMzOTAwNTY3NCwtMT
-MxMjU0MjYwMSwxNjM0OTc3MjE1LC00MDg1NDcxMzUsMTUwMDA1
-NTIxOSwxNzcxMzMzNzIyLDExMzc4Njg0NDEsMTk4ODU3MDU5OC
-wxMTQ5ODU2Njc2LDE1MTM4MDI3MTQsLTEwNjA3MTY3MzUsNTY1
-NzEwNjQxLDE0OTQzNjMyNDUsMTI2NjMwNTM0NSwtNDU3ODk0ND
-EzLC02NjI5MDU2MzAsLTEyMzY1OTk4MjAsMTEzNjczNjM1Niwt
-MzA5MDkyNDM0XX0=
+eyJoaXN0b3J5IjpbLTExNDg1Njg2NDgsLTEyMzY5MDcyNDgsMT
+MzOTAwNTY3NCwtMTMxMjU0MjYwMSwxNjM0OTc3MjE1LC00MDg1
+NDcxMzUsMTUwMDA1NTIxOSwxNzcxMzMzNzIyLDExMzc4Njg0ND
+EsMTk4ODU3MDU5OCwxMTQ5ODU2Njc2LDE1MTM4MDI3MTQsLTEw
+NjA3MTY3MzUsNTY1NzEwNjQxLDE0OTQzNjMyNDUsMTI2NjMwNT
+M0NSwtNDU3ODk0NDEzLC02NjI5MDU2MzAsLTEyMzY1OTk4MjAs
+MTEzNjczNjM1Nl19
 -->
