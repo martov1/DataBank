@@ -1091,13 +1091,16 @@ Este es un circuito que
 * Duplica su pico cargando un capacitor
 [Ejemplo](https://tinyurl.com/y4uhcvvr)
 
+Se trata de un circuito que con una mitad de la onda mantiene un capacitor cargado, mediante un diodo que se salta la resistencia, cargando el capacitor.
+En la media onda positiva, el voltaje de la fuente se suma al del capacitor,
 
+![](https://i.imgur.com/NfbrKBU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzQxODg5MiwxMzM5MDA1Njc0LC0xMz
-EyNTQyNjAxLDE2MzQ5NzcyMTUsLTQwODU0NzEzNSwxNTAwMDU1
-MjE5LDE3NzEzMzM3MjIsMTEzNzg2ODQ0MSwxOTg4NTcwNTk4LD
-ExNDk4NTY2NzYsMTUxMzgwMjcxNCwtMTA2MDcxNjczNSw1NjU3
-MTA2NDEsMTQ5NDM2MzI0NSwxMjY2MzA1MzQ1LC00NTc4OTQ0MT
-MsLTY2MjkwNTYzMCwtMTIzNjU5OTgyMCwxMTM2NzM2MzU2LC0z
-MDkwOTI0MzRdfQ==
+eyJoaXN0b3J5IjpbLTEyOTYwMzU4MzIsMTMzOTAwNTY3NCwtMT
+MxMjU0MjYwMSwxNjM0OTc3MjE1LC00MDg1NDcxMzUsMTUwMDA1
+NTIxOSwxNzcxMzMzNzIyLDExMzc4Njg0NDEsMTk4ODU3MDU5OC
+wxMTQ5ODU2Njc2LDE1MTM4MDI3MTQsLTEwNjA3MTY3MzUsNTY1
+NzEwNjQxLDE0OTQzNjMyNDUsMTI2NjMwNTM0NSwtNDU3ODk0ND
+EzLC02NjI5MDU2MzAsLTEyMzY1OTk4MjAsMTEzNjczNjM1Niwt
+MzA5MDkyNDM0XX0=
 -->
