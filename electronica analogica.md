@@ -1092,14 +1092,17 @@ Este es un circuito que
 [Ejemplo](https://tinyurl.com/y4uhcvvr)
 
 Se trata de un circuito que 
-* con una mitad de la onda mantiene un capacitor cargado, mediante un diodo que se salta la resistencia, cargando el capacitor. osea que desde la perspectiva de la resistencia no hay onda negativa
-En la media onda positiva, el voltaje de la fuente se suma al del capacitor, y al no poder pasar por el diodo, se disipa sobre la resistencia.
+* con una mitad de la onda mantiene un capacitor cargado, mediante un diodo que se salta la resistencia, cargando el capacitor. 
+	* osea que desde la perspectiva de la resistencia no hay onda negativa
+* En la media onda positiva, el voltaje de la fuente se suma al del capacitor, y al no poder pasar por el diodo, se disipa sobre la resistencia.
+	* Como el capacitor cargado tendra el voltaje de la fuente, y estan en serie, se suman, generando el doble de voltaje.
+	* Osea que la resistencia ve un pico del doble de voltaje que la fuente
 
-Como el capacitor cargado tendra el voltaje de la fuente, y estan en serie, se suman, generando el doble de voltaje.
+
 
 ![](https://i.imgur.com/NfbrKBU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTczMDgwNSwxMzM5MDA1Njc0LC0xMz
+eyJoaXN0b3J5IjpbMTc1MTQyMTc4MCwxMzM5MDA1Njc0LC0xMz
 EyNTQyNjAxLDE2MzQ5NzcyMTUsLTQwODU0NzEzNSwxNTAwMDU1
 MjE5LDE3NzEzMzM3MjIsMTEzNzg2ODQ0MSwxOTg4NTcwNTk4LD
 ExNDk4NTY2NzYsMTUxMzgwMjcxNCwtMTA2MDcxNjczNSw1NjU3
