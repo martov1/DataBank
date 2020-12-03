@@ -1086,6 +1086,8 @@ La codificacion suele ser la siguiente
 
 #### Duplicador de voltaje
 
+[fuente](https://www.youtube.com/watch?v=k2w1bMIf7mw&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=60)
+
 Este es un circuito que 
 * Rectifica media onda
 * Duplica su pico cargando un capacitor
@@ -1102,11 +1104,11 @@ Se trata de un circuito que
 
 ![](https://i.imgur.com/NfbrKBU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTQyMTc4MCwxMzM5MDA1Njc0LC0xMz
-EyNTQyNjAxLDE2MzQ5NzcyMTUsLTQwODU0NzEzNSwxNTAwMDU1
-MjE5LDE3NzEzMzM3MjIsMTEzNzg2ODQ0MSwxOTg4NTcwNTk4LD
-ExNDk4NTY2NzYsMTUxMzgwMjcxNCwtMTA2MDcxNjczNSw1NjU3
-MTA2NDEsMTQ5NDM2MzI0NSwxMjY2MzA1MzQ1LC00NTc4OTQ0MT
-MsLTY2MjkwNTYzMCwtMTIzNjU5OTgyMCwxMTM2NzM2MzU2LC0z
-MDkwOTI0MzRdfQ==
+eyJoaXN0b3J5IjpbLTEyMzY5MDcyNDgsMTMzOTAwNTY3NCwtMT
+MxMjU0MjYwMSwxNjM0OTc3MjE1LC00MDg1NDcxMzUsMTUwMDA1
+NTIxOSwxNzcxMzMzNzIyLDExMzc4Njg0NDEsMTk4ODU3MDU5OC
+wxMTQ5ODU2Njc2LDE1MTM4MDI3MTQsLTEwNjA3MTY3MzUsNTY1
+NzEwNjQxLDE0OTQzNjMyNDUsMTI2NjMwNTM0NSwtNDU3ODk0ND
+EzLC02NjI5MDU2MzAsLTEyMzY1OTk4MjAsMTEzNjczNjM1Niwt
+MzA5MDkyNDM0XX0=
 -->
