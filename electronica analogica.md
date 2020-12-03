@@ -1077,11 +1077,14 @@ Vienen en diferentes formas
 ![](https://i.imgur.com/IbXFOUC.png =500x)
 La codificacion suele ser la siguiente
 
-* $B80$ valor de tension eficaz soportada en Volti
+* $B80$ valor de tension eficaz soportada en Voltios (en esta caso $80 volts$)
+* $C2300-1500$ Cantidad de corriente soportada con y sin disipador de tension expresada en miliamperes
+	* $2300ma$ con disipador
+	* $1500ma$ sin disipador
 
 ![](https://i.imgur.com/cfhTzFg.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTI3OTEyNSwtMTMxMjU0MjYwMSwxNj
+eyJoaXN0b3J5IjpbMTMzOTAwNTY3NCwtMTMxMjU0MjYwMSwxNj
 M0OTc3MjE1LC00MDg1NDcxMzUsMTUwMDA1NTIxOSwxNzcxMzMz
 NzIyLDExMzc4Njg0NDEsMTk4ODU3MDU5OCwxMTQ5ODU2Njc2LD
 E1MTM4MDI3MTQsLTEwNjA3MTY3MzUsNTY1NzEwNjQxLDE0OTQz
