@@ -1073,13 +1073,19 @@ Es un rectificador de onda completa que usa 4 diodos
 [ejemplo](https://tinyurl.com/y5t5kot8)
 ![](https://i.imgur.com/1WOyQzj.png)
 
+Vienen en diferentes formas
+![](https://i.imgur.com/IbXFOUC.png =500x)
+La codificacion suele ser la siguiente
 
+* $B80$ valor de tension eficaz soportada en Volti
+
+![](https://i.imgur.com/cfhTzFg.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI1NDI2MDEsMTYzNDk3NzIxNSwtND
-A4NTQ3MTM1LDE1MDAwNTUyMTksMTc3MTMzMzcyMiwxMTM3ODY4
-NDQxLDE5ODg1NzA1OTgsMTE0OTg1NjY3NiwxNTEzODAyNzE0LC
-0xMDYwNzE2NzM1LDU2NTcxMDY0MSwxNDk0MzYzMjQ1LDEyNjYz
-MDUzNDUsLTQ1Nzg5NDQxMywtNjYyOTA1NjMwLC0xMjM2NTk5OD
-IwLDExMzY3MzYzNTYsLTMwOTA5MjQzNCwtMTE2MzcyODg0Nywx
-MzczNTEwNTQyXX0=
+eyJoaXN0b3J5IjpbMjEwOTI3OTEyNSwtMTMxMjU0MjYwMSwxNj
+M0OTc3MjE1LC00MDg1NDcxMzUsMTUwMDA1NTIxOSwxNzcxMzMz
+NzIyLDExMzc4Njg0NDEsMTk4ODU3MDU5OCwxMTQ5ODU2Njc2LD
+E1MTM4MDI3MTQsLTEwNjA3MTY3MzUsNTY1NzEwNjQxLDE0OTQz
+NjMyNDUsMTI2NjMwNTM0NSwtNDU3ODk0NDEzLC02NjI5MDU2Mz
+AsLTEyMzY1OTk4MjAsMTEzNjczNjM1NiwtMzA5MDkyNDM0LC0x
+MTYzNzI4ODQ3XX0=
 -->
