@@ -1008,7 +1008,7 @@ Esto se puede hacer
 * con un diodo simple
 	* Con la polaridad inversa, el circuito**no funciona pero no se quemara**
 *  con un Full bridge rectifier
-	* El circuito funcionara aun con p
+	* El circuito **funcionara aun con polaridad inversa**
 
 ![](https://i.imgur.com/1gqUItH.png)
 
@@ -1096,7 +1096,7 @@ La codificacion suele ser la siguiente
 
 ![](https://i.imgur.com/cfhTzFg.png)
 
-#### Duplicador de voltaje
+### Duplicador de voltaje
 
 [fuente](https://www.youtube.com/watch?v=k2w1bMIf7mw&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=60)
 
@@ -1115,7 +1115,7 @@ Se trata de un circuito que
 
 
 ![](https://i.imgur.com/NfbrKBU.png)
-#### Duplicador y sostenedor de voltaje
+### Duplicador y sostenedor de voltaje
 
 Es un circuito similar al anterior, la idea es que carga dos capacitores en serie pero mediante el uso de diodos no permite que se descarguen.
 
@@ -1124,11 +1124,11 @@ La suma de sus tensiones entonces es el doble de tension maxima de la onda origi
 [Ejemplo](https://tinyurl.com/y55npkhp)
 ![](https://i.imgur.com/BX6Fneu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4Nzk1NjM2LC01Mzc3MTczMTUsOTc4NT
-Y3Njk5LC0xNzcwMzg0Njc0LC0xMTQ4NTY4NjQ4LC0xMjM2OTA3
-MjQ4LDEzMzkwMDU2NzQsLTEzMTI1NDI2MDEsMTYzNDk3NzIxNS
-wtNDA4NTQ3MTM1LDE1MDAwNTUyMTksMTc3MTMzMzcyMiwxMTM3
-ODY4NDQxLDE5ODg1NzA1OTgsMTE0OTg1NjY3NiwxNTEzODAyNz
-E0LC0xMDYwNzE2NzM1LDU2NTcxMDY0MSwxNDk0MzYzMjQ1LDEy
-NjYzMDUzNDVdfQ==
+eyJoaXN0b3J5IjpbLTIzNDM0ODg3OCwtNTM3NzE3MzE1LDk3OD
+U2NzY5OSwtMTc3MDM4NDY3NCwtMTE0ODU2ODY0OCwtMTIzNjkw
+NzI0OCwxMzM5MDA1Njc0LC0xMzEyNTQyNjAxLDE2MzQ5NzcyMT
+UsLTQwODU0NzEzNSwxNTAwMDU1MjE5LDE3NzEzMzM3MjIsMTEz
+Nzg2ODQ0MSwxOTg4NTcwNTk4LDExNDk4NTY2NzYsMTUxMzgwMj
+cxNCwtMTA2MDcxNjczNSw1NjU3MTA2NDEsMTQ5NDM2MzI0NSwx
+MjY2MzA1MzQ1XX0=
 -->
