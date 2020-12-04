@@ -1004,7 +1004,13 @@ Posibles fallos:
 
 Hay varias formas de protejer un circuito DC contra una fuente con la polaridad invertida (por ejemplo, por que le colocan la pila al reves)
 
+Esto se puede hacer 
+* con un diodo simple
+	* Con la polaridad inversa, el circuito**no funciona pero no se quemara**
+*  con un Full bridge rectifier
+	* El circuito funcionara aun con p
 
+![](https://i.imgur.com/1gqUItH.png)
 
 
 ### Clipper de onda
@@ -1118,11 +1124,11 @@ La suma de sus tensiones entonces es el doble de tension maxima de la onda origi
 [Ejemplo](https://tinyurl.com/y55npkhp)
 ![](https://i.imgur.com/BX6Fneu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzcxNzMxNSw5Nzg1Njc2OTksLTE3Nz
-AzODQ2NzQsLTExNDg1Njg2NDgsLTEyMzY5MDcyNDgsMTMzOTAw
-NTY3NCwtMTMxMjU0MjYwMSwxNjM0OTc3MjE1LC00MDg1NDcxMz
-UsMTUwMDA1NTIxOSwxNzcxMzMzNzIyLDExMzc4Njg0NDEsMTk4
-ODU3MDU5OCwxMTQ5ODU2Njc2LDE1MTM4MDI3MTQsLTEwNjA3MT
-Y3MzUsNTY1NzEwNjQxLDE0OTQzNjMyNDUsMTI2NjMwNTM0NSwt
-NDU3ODk0NDEzXX0=
+eyJoaXN0b3J5IjpbMzQ4Nzk1NjM2LC01Mzc3MTczMTUsOTc4NT
+Y3Njk5LC0xNzcwMzg0Njc0LC0xMTQ4NTY4NjQ4LC0xMjM2OTA3
+MjQ4LDEzMzkwMDU2NzQsLTEzMTI1NDI2MDEsMTYzNDk3NzIxNS
+wtNDA4NTQ3MTM1LDE1MDAwNTUyMTksMTc3MTMzMzcyMiwxMTM3
+ODY4NDQxLDE5ODg1NzA1OTgsMTE0OTg1NjY3NiwxNTEzODAyNz
+E0LC0xMDYwNzE2NzM1LDU2NTcxMDY0MSwxNDk0MzYzMjQ1LDEy
+NjYzMDUzNDVdfQ==
 -->
