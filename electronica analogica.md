@@ -1130,11 +1130,11 @@ La suma de sus tensiones entonces es el doble de tension maxima de la onda origi
 
 Se trata de un diodo
 
-
+* Tiene una curva de funcionamiento similar  a un diodo normal
 
 ![](https://i.imgur.com/znAmbFr.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTA0MjEzNCwtMjM0MzQ4ODc4LC01Mz
+eyJoaXN0b3J5IjpbMTQ2NDI1OTE5NSwtMjM0MzQ4ODc4LC01Mz
 c3MTczMTUsOTc4NTY3Njk5LC0xNzcwMzg0Njc0LC0xMTQ4NTY4
 NjQ4LC0xMjM2OTA3MjQ4LDEzMzkwMDU2NzQsLTEzMTI1NDI2MD
 EsMTYzNDk3NzIxNSwtNDA4NTQ3MTM1LDE1MDAwNTUyMTksMTc3
