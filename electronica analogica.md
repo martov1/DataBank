@@ -1110,13 +1110,13 @@ Es un circuito similar al anterior, la idea es que carga dos capacitores en seri
 La suma de sus tensiones entonces es el doble de tension maxima de la onda original, y si los capacitores son lo suficientemente grandes  o la resistencia es muy grande, entonces mantienen la tension duplicada aun cuando la onda esta en lugares intermedios.
 
 [Ejemplo](https://tinyurl.com/y55npkhp)
-
+![](https://i.imgur.com/BX6Fneu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzAzODQ2NzQsLTExNDg1Njg2NDgsLT
-EyMzY5MDcyNDgsMTMzOTAwNTY3NCwtMTMxMjU0MjYwMSwxNjM0
-OTc3MjE1LC00MDg1NDcxMzUsMTUwMDA1NTIxOSwxNzcxMzMzNz
-IyLDExMzc4Njg0NDEsMTk4ODU3MDU5OCwxMTQ5ODU2Njc2LDE1
-MTM4MDI3MTQsLTEwNjA3MTY3MzUsNTY1NzEwNjQxLDE0OTQzNj
-MyNDUsMTI2NjMwNTM0NSwtNDU3ODk0NDEzLC02NjI5MDU2MzAs
-LTEyMzY1OTk4MjBdfQ==
+eyJoaXN0b3J5IjpbOTc4NTY3Njk5LC0xNzcwMzg0Njc0LC0xMT
+Q4NTY4NjQ4LC0xMjM2OTA3MjQ4LDEzMzkwMDU2NzQsLTEzMTI1
+NDI2MDEsMTYzNDk3NzIxNSwtNDA4NTQ3MTM1LDE1MDAwNTUyMT
+ksMTc3MTMzMzcyMiwxMTM3ODY4NDQxLDE5ODg1NzA1OTgsMTE0
+OTg1NjY3NiwxNTEzODAyNzE0LC0xMDYwNzE2NzM1LDU2NTcxMD
+Y0MSwxNDk0MzYzMjQ1LDEyNjYzMDUzNDUsLTQ1Nzg5NDQxMywt
+NjYyOTA1NjMwXX0=
 -->
