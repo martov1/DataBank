@@ -1000,6 +1000,12 @@ Posibles fallos:
 
 ## Circuitos cpmunes
 
+### Protector de polaridad inversa
+
+Hay varias formas de protejer un circuito DC contra una fuente con la polaridad invertida (por ejemplo, por que le colocan la pila al reves)
+
+
+
 
 ### Clipper de onda
 
@@ -1112,11 +1118,11 @@ La suma de sus tensiones entonces es el doble de tension maxima de la onda origi
 [Ejemplo](https://tinyurl.com/y55npkhp)
 ![](https://i.imgur.com/BX6Fneu.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NTY3Njk5LC0xNzcwMzg0Njc0LC0xMT
-Q4NTY4NjQ4LC0xMjM2OTA3MjQ4LDEzMzkwMDU2NzQsLTEzMTI1
-NDI2MDEsMTYzNDk3NzIxNSwtNDA4NTQ3MTM1LDE1MDAwNTUyMT
-ksMTc3MTMzMzcyMiwxMTM3ODY4NDQxLDE5ODg1NzA1OTgsMTE0
-OTg1NjY3NiwxNTEzODAyNzE0LC0xMDYwNzE2NzM1LDU2NTcxMD
-Y0MSwxNDk0MzYzMjQ1LDEyNjYzMDUzNDUsLTQ1Nzg5NDQxMywt
-NjYyOTA1NjMwXX0=
+eyJoaXN0b3J5IjpbLTUzNzcxNzMxNSw5Nzg1Njc2OTksLTE3Nz
+AzODQ2NzQsLTExNDg1Njg2NDgsLTEyMzY5MDcyNDgsMTMzOTAw
+NTY3NCwtMTMxMjU0MjYwMSwxNjM0OTc3MjE1LC00MDg1NDcxMz
+UsMTUwMDA1NTIxOSwxNzcxMzMzNzIyLDExMzc4Njg0NDEsMTk4
+ODU3MDU5OCwxMTQ5ODU2Njc2LDE1MTM4MDI3MTQsLTEwNjA3MT
+Y3MzUsNTY1NzEwNjQxLDE0OTQzNjMyNDUsMTI2NjMwNTM0NSwt
+NDU3ODk0NDEzXX0=
 -->
