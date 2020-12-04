@@ -1,7 +1,7 @@
 **Nivel técnico electrónico**
 https://www.youtube.com/watch?v=4LhDcDaefzo&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=48
 
-Como funciona el Sujetador y doblador de tension con diodos. (Clase 33.1)
+Como funciona un diodo zener en un circuito (Clase 35 curso electronica)
 
 https://www.youtube.com/watch?v=w3cqkMkte2w&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=10
 **BREAK para ver desde capacity factor**
@@ -1136,11 +1136,11 @@ Se trata de un diodo
 
 ![](https://i.imgur.com/znAmbFr.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM5MTk2ODksMTQ2NDI1OTE5NSwtMj
-M0MzQ4ODc4LC01Mzc3MTczMTUsOTc4NTY3Njk5LC0xNzcwMzg0
-Njc0LC0xMTQ4NTY4NjQ4LC0xMjM2OTA3MjQ4LDEzMzkwMDU2Nz
-QsLTEzMTI1NDI2MDEsMTYzNDk3NzIxNSwtNDA4NTQ3MTM1LDE1
-MDAwNTUyMTksMTc3MTMzMzcyMiwxMTM3ODY4NDQxLDE5ODg1Nz
-A1OTgsMTE0OTg1NjY3NiwxNTEzODAyNzE0LC0xMDYwNzE2NzM1
-LDU2NTcxMDY0MV19
+eyJoaXN0b3J5IjpbMjA5MDAwOTQ5NiwtMTAxMzkxOTY4OSwxND
+Y0MjU5MTk1LC0yMzQzNDg4NzgsLTUzNzcxNzMxNSw5Nzg1Njc2
+OTksLTE3NzAzODQ2NzQsLTExNDg1Njg2NDgsLTEyMzY5MDcyND
+gsMTMzOTAwNTY3NCwtMTMxMjU0MjYwMSwxNjM0OTc3MjE1LC00
+MDg1NDcxMzUsMTUwMDA1NTIxOSwxNzcxMzMzNzIyLDExMzc4Nj
+g0NDEsMTk4ODU3MDU5OCwxMTQ5ODU2Njc2LDE1MTM4MDI3MTQs
+LTEwNjA3MTY3MzVdfQ==
 -->
