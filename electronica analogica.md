@@ -1103,12 +1103,18 @@ Se trata de un circuito que
 
 
 ![](https://i.imgur.com/NfbrKBU.png)
+#### Duplicador y sostenedor de voltaje
+
+Es un circuito similar al anterior, la idea es que carga dos capacitores en serie pero mediante el uso de diodos no permite que se descarguen.
+
+La suma de sus tensiones entonces es el doble de tension maxima de la onda original, y si los capacitores son lo suficientement
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg1Njg2NDgsLTEyMzY5MDcyNDgsMT
-MzOTAwNTY3NCwtMTMxMjU0MjYwMSwxNjM0OTc3MjE1LC00MDg1
-NDcxMzUsMTUwMDA1NTIxOSwxNzcxMzMzNzIyLDExMzc4Njg0ND
-EsMTk4ODU3MDU5OCwxMTQ5ODU2Njc2LDE1MTM4MDI3MTQsLTEw
-NjA3MTY3MzUsNTY1NzEwNjQxLDE0OTQzNjMyNDUsMTI2NjMwNT
-M0NSwtNDU3ODk0NDEzLC02NjI5MDU2MzAsLTEyMzY1OTk4MjAs
-MTEzNjczNjM1Nl19
+eyJoaXN0b3J5IjpbMTgzNzM4MjczLC0xMTQ4NTY4NjQ4LC0xMj
+M2OTA3MjQ4LDEzMzkwMDU2NzQsLTEzMTI1NDI2MDEsMTYzNDk3
+NzIxNSwtNDA4NTQ3MTM1LDE1MDAwNTUyMTksMTc3MTMzMzcyMi
+wxMTM3ODY4NDQxLDE5ODg1NzA1OTgsMTE0OTg1NjY3NiwxNTEz
+ODAyNzE0LC0xMDYwNzE2NzM1LDU2NTcxMDY0MSwxNDk0MzYzMj
+Q1LDEyNjYzMDUzNDUsLTQ1Nzg5NDQxMywtNjYyOTA1NjMwLC0x
+MjM2NTk5ODIwXX0=
 -->
