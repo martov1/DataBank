@@ -1123,12 +1123,22 @@ La suma de sus tensiones entonces es el doble de tension maxima de la onda origi
 
 [Ejemplo](https://tinyurl.com/y55npkhp)
 ![](https://i.imgur.com/BX6Fneu.png)
+
+## Diodo Zenner
+
+### Descripcion y valores
+
+Se trata de un diodo
+
+
+
+![](https://i.imgur.com/znAmbFr.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDM0ODg3OCwtNTM3NzE3MzE1LDk3OD
-U2NzY5OSwtMTc3MDM4NDY3NCwtMTE0ODU2ODY0OCwtMTIzNjkw
-NzI0OCwxMzM5MDA1Njc0LC0xMzEyNTQyNjAxLDE2MzQ5NzcyMT
-UsLTQwODU0NzEzNSwxNTAwMDU1MjE5LDE3NzEzMzM3MjIsMTEz
-Nzg2ODQ0MSwxOTg4NTcwNTk4LDExNDk4NTY2NzYsMTUxMzgwMj
-cxNCwtMTA2MDcxNjczNSw1NjU3MTA2NDEsMTQ5NDM2MzI0NSwx
-MjY2MzA1MzQ1XX0=
+eyJoaXN0b3J5IjpbLTIyNTA0MjEzNCwtMjM0MzQ4ODc4LC01Mz
+c3MTczMTUsOTc4NTY3Njk5LC0xNzcwMzg0Njc0LC0xMTQ4NTY4
+NjQ4LC0xMjM2OTA3MjQ4LDEzMzkwMDU2NzQsLTEzMTI1NDI2MD
+EsMTYzNDk3NzIxNSwtNDA4NTQ3MTM1LDE1MDAwNTUyMTksMTc3
+MTMzMzcyMiwxMTM3ODY4NDQxLDE5ODg1NzA1OTgsMTE0OTg1Nj
+Y3NiwxNTEzODAyNzE0LC0xMDYwNzE2NzM1LDU2NTcxMDY0MSwx
+NDk0MzYzMjQ1XX0=
 -->
