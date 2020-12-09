@@ -961,9 +961,11 @@ En su forma ideal, la compresion (contrapeso del piston) y la expansion (explosi
 ![](https://i.imgur.com/Fc9U7bd.png)
 ## Ciclo de diesel
 
-Mas eficiente que el motor otto
+Mas eficiente que el motor otto, ya que la explosion es a **volumen constante**
+
+![](https://i.imgur.com/8aZaisl.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjI5OTIxMCwxMzkxNDE2NTcwLC00Mz
+eyJoaXN0b3J5IjpbLTI5MjczNDE3OCwxMzkxNDE2NTcwLC00Mz
 IyNDgzODQsLTIwMTg3MDgzNjgsLTYyMjAxNzIyLDI1Nzg5Mzcz
 MSwxMzY3MTg0MzExLC05ODUwODc5NTgsNzI1OTI3MDI4LDIzOT
 AwMzYwLC0xOTgwNDkyODE4LC0xNDgyMzc3MDg3LC0xNDgxMzY1
