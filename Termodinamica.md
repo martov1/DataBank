@@ -953,17 +953,21 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 ## Ciclo de otto
 
 
-En su forma ideal, la compresion (contrapeso del piston) y la expansion (explosion del combustible) son a
+En su forma ideal, la compresion (contrapeso del piston) y la expansion (explosion del combustible) son adiabaticas.
+
+
 
 
 ![](https://i.imgur.com/Fc9U7bd.png)
+## Ciclo de diesel
 
+Mas eficiente que el motor otto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0OTI0NzU4LDEzOTE0MTY1NzAsLTQzMj
-I0ODM4NCwtMjAxODcwODM2OCwtNjIyMDE3MjIsMjU3ODkzNzMx
-LDEzNjcxODQzMTEsLTk4NTA4Nzk1OCw3MjU5MjcwMjgsMjM5MD
-AzNjAsLTE5ODA0OTI4MTgsLTE0ODIzNzcwODcsLTE0ODEzNjU5
-NTUsLTgzMjI0MjI3LC01MjM5Nzk0ODcsLTEwNjI3NDYzMzEsMT
-gwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3MDAyMTUsLTIzOTc5
-MTQ3MF19
+eyJoaXN0b3J5IjpbMTgwMjI5OTIxMCwxMzkxNDE2NTcwLC00Mz
+IyNDgzODQsLTIwMTg3MDgzNjgsLTYyMjAxNzIyLDI1Nzg5Mzcz
+MSwxMzY3MTg0MzExLC05ODUwODc5NTgsNzI1OTI3MDI4LDIzOT
+AwMzYwLC0xOTgwNDkyODE4LC0xNDgyMzc3MDg3LC0xNDgxMzY1
+OTU1LC04MzIyNDIyNywtNTIzOTc5NDg3LC0xMDYyNzQ2MzMxLD
+E4MDg3MTQ4MzUsMTg5NDQ4MjUyMywxOTI1NzAwMjE1LC0yMzk3
+OTE0NzBdfQ==
 -->
