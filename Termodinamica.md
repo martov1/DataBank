@@ -965,17 +965,17 @@ Mas eficiente que el motor otto, ya que la explosion es a **volumen constante**.
 
 Diferencia con diesel:
 * No usa chispa, la combustion es espontanea por presion
-* Para mantener el volumen constante, se inyecta el diesel por etapas en el proceso de expansion (2-3)
 * El diesel se inyecta despues de la compresion, no antes
+* **Para mantener el volumen constante, se inyecta el diesel por etapas en el proceso de expansion (2-3)**
 * Se trata de una explosion mucho mas rapida que la gasolina
 
 ![](https://i.imgur.com/8aZaisl.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzNDE0MjcyLC0yOTI3MzQxNzgsMTM5MT
-QxNjU3MCwtNDMyMjQ4Mzg0LC0yMDE4NzA4MzY4LC02MjIwMTcy
-MiwyNTc4OTM3MzEsMTM2NzE4NDMxMSwtOTg1MDg3OTU4LDcyNT
-kyNzAyOCwyMzkwMDM2MCwtMTk4MDQ5MjgxOCwtMTQ4MjM3NzA4
-NywtMTQ4MTM2NTk1NSwtODMyMjQyMjcsLTUyMzk3OTQ4NywtMT
-A2Mjc0NjMzMSwxODA4NzE0ODM1LDE4OTQ0ODI1MjMsMTkyNTcw
-MDIxNV19
+eyJoaXN0b3J5IjpbNjEwMTYwNzM4LDg4MzQxNDI3MiwtMjkyNz
+M0MTc4LDEzOTE0MTY1NzAsLTQzMjI0ODM4NCwtMjAxODcwODM2
+OCwtNjIyMDE3MjIsMjU3ODkzNzMxLDEzNjcxODQzMTEsLTk4NT
+A4Nzk1OCw3MjU5MjcwMjgsMjM5MDAzNjAsLTE5ODA0OTI4MTgs
+LTE0ODIzNzcwODcsLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01Mj
+M5Nzk0ODcsLTEwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgy
+NTIzXX0=
 -->
