@@ -963,14 +963,18 @@ En su forma ideal, la compresion (contrapeso del piston) y la expansion (explosi
 
 Mas eficiente que el motor otto, ya que la explosion es a **volumen constante**.
 
+Diferencia con diesel:
+* No usa chispa, la combustion es espontanea por presion
+* Para mantener el volumen constante, se inyecta el diesel por etapas en el proceso de expansion (2-3)
+* Se trata de una explosion mucho mas rapida que la gasolina
 
 ![](https://i.imgur.com/8aZaisl.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Njc2MTg3NiwtMjkyNzM0MTc4LDEzOT
-E0MTY1NzAsLTQzMjI0ODM4NCwtMjAxODcwODM2OCwtNjIyMDE3
-MjIsMjU3ODkzNzMxLDEzNjcxODQzMTEsLTk4NTA4Nzk1OCw3Mj
-U5MjcwMjgsMjM5MDAzNjAsLTE5ODA0OTI4MTgsLTE0ODIzNzcw
-ODcsLTE0ODEzNjU5NTUsLTgzMjI0MjI3LC01MjM5Nzk0ODcsLT
-EwNjI3NDYzMzEsMTgwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3
-MDAyMTVdfQ==
+eyJoaXN0b3J5IjpbMjgxODk0NDY4LC0yOTI3MzQxNzgsMTM5MT
+QxNjU3MCwtNDMyMjQ4Mzg0LC0yMDE4NzA4MzY4LC02MjIwMTcy
+MiwyNTc4OTM3MzEsMTM2NzE4NDMxMSwtOTg1MDg3OTU4LDcyNT
+kyNzAyOCwyMzkwMDM2MCwtMTk4MDQ5MjgxOCwtMTQ4MjM3NzA4
+NywtMTQ4MTM2NTk1NSwtODMyMjQyMjcsLTUyMzk3OTQ4NywtMT
+A2Mjc0NjMzMSwxODA4NzE0ODM1LDE4OTQ0ODI1MjMsMTkyNTcw
+MDIxNV19
 -->
