@@ -950,12 +950,20 @@ $W_{out}-W_{in}=Q_{in}-Q_{out}$
 ## Ciclo refrigeracion por gas
 
 ![](https://i.imgur.com/kKIGpn4.png)
+## Ciclo de otto
+
+
+En su forma ideal, la compresion (contrapeso del piston) y la expansion (explosion del combustible) son a
+
+
+![](https://i.imgur.com/Fc9U7bd.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTQxNjU3MCwtNDMyMjQ4Mzg0LC0yMD
-E4NzA4MzY4LC02MjIwMTcyMiwyNTc4OTM3MzEsMTM2NzE4NDMx
-MSwtOTg1MDg3OTU4LDcyNTkyNzAyOCwyMzkwMDM2MCwtMTk4MD
-Q5MjgxOCwtMTQ4MjM3NzA4NywtMTQ4MTM2NTk1NSwtODMyMjQy
-MjcsLTUyMzk3OTQ4NywtMTA2Mjc0NjMzMSwxODA4NzE0ODM1LD
-E4OTQ0ODI1MjMsMTkyNTcwMDIxNSwtMjM5NzkxNDcwLC0xNTEw
-ODUwNzc5XX0=
+eyJoaXN0b3J5IjpbMjI0OTI0NzU4LDEzOTE0MTY1NzAsLTQzMj
+I0ODM4NCwtMjAxODcwODM2OCwtNjIyMDE3MjIsMjU3ODkzNzMx
+LDEzNjcxODQzMTEsLTk4NTA4Nzk1OCw3MjU5MjcwMjgsMjM5MD
+AzNjAsLTE5ODA0OTI4MTgsLTE0ODIzNzcwODcsLTE0ODEzNjU5
+NTUsLTgzMjI0MjI3LC01MjM5Nzk0ODcsLTEwNjI3NDYzMzEsMT
+gwODcxNDgzNSwxODk0NDgyNTIzLDE5MjU3MDAyMTUsLTIzOTc5
+MTQ3MF19
 -->
