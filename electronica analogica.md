@@ -1131,16 +1131,16 @@ La suma de sus tensiones entonces es el doble de tension maxima de la onda origi
 Se trata de un diodo
 
 * Tiene una curva de funcionamiento similar  a un diodo normal
-* En polaridad inversa, despues de cierto voltaje $V_z$, **conduce**
+* En polaridad inversa, despues de cierto voltaje $V_{zener}$, **conduce**
 	* Se consiguen diodos con diferentes valores de $V_z$
 
 ![](https://i.imgur.com/znAmbFr.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDAwOTQ5NiwtMTAxMzkxOTY4OSwxND
-Y0MjU5MTk1LC0yMzQzNDg4NzgsLTUzNzcxNzMxNSw5Nzg1Njc2
-OTksLTE3NzAzODQ2NzQsLTExNDg1Njg2NDgsLTEyMzY5MDcyND
-gsMTMzOTAwNTY3NCwtMTMxMjU0MjYwMSwxNjM0OTc3MjE1LC00
-MDg1NDcxMzUsMTUwMDA1NTIxOSwxNzcxMzMzNzIyLDExMzc4Nj
-g0NDEsMTk4ODU3MDU5OCwxMTQ5ODU2Njc2LDE1MTM4MDI3MTQs
-LTEwNjA3MTY3MzVdfQ==
+eyJoaXN0b3J5IjpbLTE1Njc2NjgwMjYsMjA5MDAwOTQ5NiwtMT
+AxMzkxOTY4OSwxNDY0MjU5MTk1LC0yMzQzNDg4NzgsLTUzNzcx
+NzMxNSw5Nzg1Njc2OTksLTE3NzAzODQ2NzQsLTExNDg1Njg2ND
+gsLTEyMzY5MDcyNDgsMTMzOTAwNTY3NCwtMTMxMjU0MjYwMSwx
+NjM0OTc3MjE1LC00MDg1NDcxMzUsMTUwMDA1NTIxOSwxNzcxMz
+MzNzIyLDExMzc4Njg0NDEsMTk4ODU3MDU5OCwxMTQ5ODU2Njc2
+LDE1MTM4MDI3MTRdfQ==
 -->
