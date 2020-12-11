@@ -1,7 +1,7 @@
 **Nivel técnico electrónico**
 https://www.youtube.com/watch?v=4LhDcDaefzo&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=48
 
-Como funciona un diodo zener en un circuito (Clase 35 curso electronica)
+Entender como calcular estabilizador con zener, entender fuente de tension establizada.
 
 https://www.youtube.com/watch?v=w3cqkMkte2w&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=10
 **BREAK para ver desde capacity factor**
@@ -1138,11 +1138,11 @@ Se trata de un diodo
 
 ![](https://i.imgur.com/znAmbFr.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTIwMTI1LC0xNTY3NjY4MDI2LDIwOT
-AwMDk0OTYsLTEwMTM5MTk2ODksMTQ2NDI1OTE5NSwtMjM0MzQ4
-ODc4LC01Mzc3MTczMTUsOTc4NTY3Njk5LC0xNzcwMzg0Njc0LC
-0xMTQ4NTY4NjQ4LC0xMjM2OTA3MjQ4LDEzMzkwMDU2NzQsLTEz
-MTI1NDI2MDEsMTYzNDk3NzIxNSwtNDA4NTQ3MTM1LDE1MDAwNT
-UyMTksMTc3MTMzMzcyMiwxMTM3ODY4NDQxLDE5ODg1NzA1OTgs
-MTE0OTg1NjY3Nl19
+eyJoaXN0b3J5IjpbLTY3ODU1NDM5OCwyMTM1MjAxMjUsLTE1Nj
+c2NjgwMjYsMjA5MDAwOTQ5NiwtMTAxMzkxOTY4OSwxNDY0MjU5
+MTk1LC0yMzQzNDg4NzgsLTUzNzcxNzMxNSw5Nzg1Njc2OTksLT
+E3NzAzODQ2NzQsLTExNDg1Njg2NDgsLTEyMzY5MDcyNDgsMTMz
+OTAwNTY3NCwtMTMxMjU0MjYwMSwxNjM0OTc3MjE1LC00MDg1ND
+cxMzUsMTUwMDA1NTIxOSwxNzcxMzMzNzIyLDExMzc4Njg0NDEs
+MTk4ODU3MDU5OF19
 -->
