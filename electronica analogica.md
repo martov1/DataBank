@@ -1137,12 +1137,17 @@ Se trata de un diodo
 * Tiene una **resistencia interna** $Z_{Zt}$ que en general es despreciable
 
 ![](https://i.imgur.com/znAmbFr.png)
+# Fuentes de alimentacion
+
+## Simple estabilizada con zener
+
+https://tinyurl.com/yxuvafdl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODU1NDM5OCwyMTM1MjAxMjUsLTE1Nj
-c2NjgwMjYsMjA5MDAwOTQ5NiwtMTAxMzkxOTY4OSwxNDY0MjU5
-MTk1LC0yMzQzNDg4NzgsLTUzNzcxNzMxNSw5Nzg1Njc2OTksLT
-E3NzAzODQ2NzQsLTExNDg1Njg2NDgsLTEyMzY5MDcyNDgsMTMz
-OTAwNTY3NCwtMTMxMjU0MjYwMSwxNjM0OTc3MjE1LC00MDg1ND
-cxMzUsMTUwMDA1NTIxOSwxNzcxMzMzNzIyLDExMzc4Njg0NDEs
-MTk4ODU3MDU5OF19
+eyJoaXN0b3J5IjpbLTE2MjQzNDczNjYsLTY3ODU1NDM5OCwyMT
+M1MjAxMjUsLTE1Njc2NjgwMjYsMjA5MDAwOTQ5NiwtMTAxMzkx
+OTY4OSwxNDY0MjU5MTk1LC0yMzQzNDg4NzgsLTUzNzcxNzMxNS
+w5Nzg1Njc2OTksLTE3NzAzODQ2NzQsLTExNDg1Njg2NDgsLTEy
+MzY5MDcyNDgsMTMzOTAwNTY3NCwtMTMxMjU0MjYwMSwxNjM0OT
+c3MjE1LC00MDg1NDcxMzUsMTUwMDA1NTIxOSwxNzcxMzMzNzIy
+LDExMzc4Njg0NDFdfQ==
 -->
