@@ -1133,14 +1133,16 @@ Se trata de un diodo
 * Tiene una curva de funcionamiento similar  a un diodo normal
 * En polaridad inversa, despues de cierto voltaje $V_{zener}$, **conduce**
 	* Se consiguen diodos con diferentes valores de $V_z$
+* **Soporta** una corriente maxima de $I_{zt}$
+* Tiene una **resistencia interna** $Z_{Zt}$ que en general es despreciable
 
 ![](https://i.imgur.com/znAmbFr.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc2NjgwMjYsMjA5MDAwOTQ5NiwtMT
-AxMzkxOTY4OSwxNDY0MjU5MTk1LC0yMzQzNDg4NzgsLTUzNzcx
-NzMxNSw5Nzg1Njc2OTksLTE3NzAzODQ2NzQsLTExNDg1Njg2ND
-gsLTEyMzY5MDcyNDgsMTMzOTAwNTY3NCwtMTMxMjU0MjYwMSwx
-NjM0OTc3MjE1LC00MDg1NDcxMzUsMTUwMDA1NTIxOSwxNzcxMz
-MzNzIyLDExMzc4Njg0NDEsMTk4ODU3MDU5OCwxMTQ5ODU2Njc2
-LDE1MTM4MDI3MTRdfQ==
+eyJoaXN0b3J5IjpbMjEzNTIwMTI1LC0xNTY3NjY4MDI2LDIwOT
+AwMDk0OTYsLTEwMTM5MTk2ODksMTQ2NDI1OTE5NSwtMjM0MzQ4
+ODc4LC01Mzc3MTczMTUsOTc4NTY3Njk5LC0xNzcwMzg0Njc0LC
+0xMTQ4NTY4NjQ4LC0xMjM2OTA3MjQ4LDEzMzkwMDU2NzQsLTEz
+MTI1NDI2MDEsMTYzNDk3NzIxNSwtNDA4NTQ3MTM1LDE1MDAwNT
+UyMTksMTc3MTMzMzcyMiwxMTM3ODY4NDQxLDE5ODg1NzA1OTgs
+MTE0OTg1NjY3Nl19
 -->
