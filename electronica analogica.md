@@ -1143,9 +1143,10 @@ Se trata de un diodo
 
 https://tinyurl.com/y6jont9a
 
-### Principios
+### Principios - WIP
+### Calculos - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzI5NjM2NCwxMTc5ODc3MTExLC0xNj
+eyJoaXN0b3J5IjpbMTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNj
 I0MzQ3MzY2LC02Nzg1NTQzOTgsMjEzNTIwMTI1LC0xNTY3NjY4
 MDI2LDIwOTAwMDk0OTYsLTEwMTM5MTk2ODksMTQ2NDI1OTE5NS
 wtMjM0MzQ4ODc4LC01Mzc3MTczMTUsOTc4NTY3Njk5LC0xNzcw
