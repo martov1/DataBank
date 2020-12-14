@@ -1158,17 +1158,19 @@ Añadiendo un capacitor que pueda **cargarse cuando la onda sube** y **descargar
 
 Como el **capacitor se puede cargar casi instantaneamente** eso significa que puede absorber mucha corriente junta. Para que no pase tanta corriente tan de golpe colocamos una resistencia que limite la corriente.
 
+**Notamos** como la resistencia permite que los picos sean mucho menos verticales.
+![](https://i.imgur.com/9aEcqeV.png)
 [Ejemplo](https://tinyurl.com/y7lv255h)
 
 ![](https://i.imgur.com/kYkS0KB.png)
 
 ### Calculos - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkwNzQ0MzUsNjE5MjM1NDMwLDc3MT
-QxNjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4NjksLTQ3NzM1NzI5
-MSwxNjQ2MzcxODMxLDExNzk4NzcxMTEsLTE2MjQzNDczNjYsLT
-Y3ODU1NDM5OCwyMTM1MjAxMjUsLTE1Njc2NjgwMjYsMjA5MDAw
-OTQ5NiwtMTAxMzkxOTY4OSwxNDY0MjU5MTk1LC0yMzQzNDg4Nz
-gsLTUzNzcxNzMxNSw5Nzg1Njc2OTksLTE3NzAzODQ2NzQsLTEx
-NDg1Njg2NDhdfQ==
+eyJoaXN0b3J5IjpbMTQ1NzkwNzg5MCw2MTkyMzU0MzAsNzcxND
+E2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OSwtNDc3MzU3Mjkx
+LDE2NDYzNzE4MzEsMTE3OTg3NzExMSwtMTYyNDM0NzM2NiwtNj
+c4NTU0Mzk4LDIxMzUyMDEyNSwtMTU2NzY2ODAyNiwyMDkwMDA5
+NDk2LC0xMDEzOTE5Njg5LDE0NjQyNTkxOTUsLTIzNDM0ODg3OC
+wtNTM3NzE3MzE1LDk3ODU2NzY5OSwtMTc3MDM4NDY3NCwtMTE0
+ODU2ODY0OF19
 -->
