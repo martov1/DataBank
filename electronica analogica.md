@@ -1141,8 +1141,12 @@ Se trata de un diodo
 
 ## Simple estabilizada con zener
 
-Se trata de una fuente sencilla, 
+Se trata de una fuente sencilla, tiene
+* **Un rectificador** que transforma la onda AC en una onda DC
 [https://tinyurl.com/y958utw7](ejemplo)
+* **Un filtro** que aplana la onda DC, que consta de
+	* **un capacitor** para liberar tension cuando la onda DC baje, y asi mantener una tension constante
+	* **Un re**
 
 
 ![](https://i.imgur.com/0xgLqpQ.png)
@@ -1150,7 +1154,7 @@ a
 ### Principios - WIP
 ### Calculos - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDkyMzUzNDgsMjUyNDA4ODY5LC00Nz
+eyJoaXN0b3J5IjpbLTIxMzc5NzY1MzYsMjUyNDA4ODY5LC00Nz
 czNTcyOTEsMTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNjI0MzQ3
 MzY2LC02Nzg1NTQzOTgsMjEzNTIwMTI1LC0xNTY3NjY4MDI2LD
 IwOTAwMDk0OTYsLTEwMTM5MTk2ODksMTQ2NDI1OTE5NSwtMjM0
