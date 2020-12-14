@@ -1238,10 +1238,10 @@ Si deseo que la diferencia de voltaje sea de $15.6V-14.4V$ es decir $1.2V$, reem
 
 $$1.2= \frac{0.1A}{2\pi 120 c}$$
 
->Puedo usar un capacitor mas grande y la brecha sera menor
+>**CRITICO:** Puedo usar un capacitor mas grande y la brecha sera menor
 >Es decir, **cuanto mas capacitancia, mejor**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTE1MzExNSwtMTQ3NjgwMDQ3NiwxNT
+eyJoaXN0b3J5IjpbLTY2OTkzOTAxMCwtMTQ3NjgwMDQ3NiwxNT
 IzNzU2NDI3LDE4ODMzNjA4MzYsNTA2OTU2Njk4LDYxOTIzNTQz
 MCw3NzE0MTYxODUsLTE1NDAxMDk0MzIsMjUyNDA4ODY5LC00Nz
 czNTcyOTEsMTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNjI0MzQ3
