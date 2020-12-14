@@ -1220,12 +1220,20 @@ $$17-2(0.7)=15.6v$$
 
 Pongamos como punto de partida que queremos que **el capacitor en su peor momento llegue a los** $14.4v$
 ![](https://i.imgur.com/0hI8K4H.png)
+se que la impedancia de un capacitor es
+
+$$\Omega = \frac{1}{2\pi f c}$$
+
+y la ley de ohm es
+$$\frac{V}{R}=I$$
+
+despejando y 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY4MDA0NzYsMTUyMzc1NjQyNywxOD
-gzMzYwODM2LDUwNjk1NjY5OCw2MTkyMzU0MzAsNzcxNDE2MTg1
-LC0xNTQwMTA5NDMyLDI1MjQwODg2OSwtNDc3MzU3MjkxLDE2ND
-YzNzE4MzEsMTE3OTg3NzExMSwtMTYyNDM0NzM2NiwtNjc4NTU0
-Mzk4LDIxMzUyMDEyNSwtMTU2NzY2ODAyNiwyMDkwMDA5NDk2LC
-0xMDEzOTE5Njg5LDE0NjQyNTkxOTUsLTIzNDM0ODg3OCwtNTM3
-NzE3MzE1XX0=
+eyJoaXN0b3J5IjpbMTAwNDg3MDkzNSwtMTQ3NjgwMDQ3NiwxNT
+IzNzU2NDI3LDE4ODMzNjA4MzYsNTA2OTU2Njk4LDYxOTIzNTQz
+MCw3NzE0MTYxODUsLTE1NDAxMDk0MzIsMjUyNDA4ODY5LC00Nz
+czNTcyOTEsMTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNjI0MzQ3
+MzY2LC02Nzg1NTQzOTgsMjEzNTIwMTI1LC0xNTY3NjY4MDI2LD
+IwOTAwMDk0OTYsLTEwMTM5MTk2ODksMTQ2NDI1OTE5NSwtMjM0
+MzQ4ODc4XX0=
 -->
