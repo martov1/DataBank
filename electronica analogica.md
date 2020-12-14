@@ -1141,9 +1141,10 @@ Se trata de un diodo
 
 ## Simple estabilizada con zener
 
+
+[ejemplo](https://tinyurl.com/y958utw7)
 Se trata de una fuente sencilla, tiene
 * **Un rectificador** que transforma la onda AC en una onda DC
-[https://tinyurl.com/y958utw7](ejemplo)
 * **Un filtro** que aplana la onda DC, que consta de
 * **Un estabilizados** que evita que la tension en DC sobrepase un valor determinado
 
@@ -1155,15 +1156,18 @@ La fuente sin el filtro tendria una onda de salida asi
 ![](https://i.imgur.com/U8EIh2W.png)
 Añadiendo un capacitor que pueda **cargarse cuando la onda sube** y **descargarse cuando la onda baja** permite mantener un voltaje mas constante
 
+Como el **capacitor se puede cargar casi instantaneamente** eso significa que puede absorber mucha corriente junta. Para que no pase tant
+[Ejemplo](https://tinyurl.com/y7lv255h)
+
 ![](https://i.imgur.com/kYkS0KB.png)
 
 ### Calculos - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTA3ODI0ODAsNjE5MjM1NDMwLDc3MT
-QxNjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4NjksLTQ3NzM1NzI5
-MSwxNjQ2MzcxODMxLDExNzk4NzcxMTEsLTE2MjQzNDczNjYsLT
-Y3ODU1NDM5OCwyMTM1MjAxMjUsLTE1Njc2NjgwMjYsMjA5MDAw
-OTQ5NiwtMTAxMzkxOTY4OSwxNDY0MjU5MTk1LC0yMzQzNDg4Nz
-gsLTUzNzcxNzMxNSw5Nzg1Njc2OTksLTE3NzAzODQ2NzQsLTEx
-NDg1Njg2NDhdfQ==
+eyJoaXN0b3J5IjpbLTc4MzI1ODI1OSw2MTkyMzU0MzAsNzcxND
+E2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OSwtNDc3MzU3Mjkx
+LDE2NDYzNzE4MzEsMTE3OTg3NzExMSwtMTYyNDM0NzM2NiwtNj
+c4NTU0Mzk4LDIxMzUyMDEyNSwtMTU2NzY2ODAyNiwyMDkwMDA5
+NDk2LC0xMDEzOTE5Njg5LDE0NjQyNTkxOTUsLTIzNDM0ODg3OC
+wtNTM3NzE3MzE1LDk3ODU2NzY5OSwtMTc3MDM4NDY3NCwtMTE0
+ODU2ODY0OF19
 -->
