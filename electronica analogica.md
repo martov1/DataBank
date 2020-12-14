@@ -1230,9 +1230,15 @@ $$\frac{V}{R}=I$$
 despejando y reemplazando
 $$V= \frac{I}{2\pi f c}$$
 
-Si deseo que la diferencia de voltaje sea de $15.6V-14.4V$ es decir $1.2V$, reemplazo y de
+Si deseo que la diferencia de voltaje sea de $15.6V-14.4V$ es decir $1.2V$, reemplazo y despejo la **capacitancia** sabiendo que 
+* la **frecuencia** es el doble que la de la red (por el rectificador)
+* la **corriente** es la **maxima para la que diseño** la fuente
+* el **voltaje** es la diferencia de voltaje que requiero
+
+
+$$1.2= \frac{0.1A}{2\pi 120 c}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTYyNjkwLC0xNDc2ODAwNDc2LDE1Mj
+eyJoaXN0b3J5IjpbOTYzMzY3Mzg5LC0xNDc2ODAwNDc2LDE1Mj
 M3NTY0MjcsMTg4MzM2MDgzNiw1MDY5NTY2OTgsNjE5MjM1NDMw
 LDc3MTQxNjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4NjksLTQ3Nz
 M1NzI5MSwxNjQ2MzcxODMxLDExNzk4NzcxMTEsLTE2MjQzNDcz
