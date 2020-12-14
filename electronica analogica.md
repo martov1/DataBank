@@ -1214,8 +1214,11 @@ $$12v * \sqrt{2} = 17v$$
 
 Si pensamos que los **diodos rectificadores** tienen una caida de $0.7v$ cada uno, entonces si pasa por los dos, el pico es de
 $$17-2(0.7)=15.6v$$
+
+
+#### Filtro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTEwOTkyOSwxODgzMzYwODM2LDUwNj
+eyJoaXN0b3J5IjpbMTUyMzc1NjQyNywxODgzMzYwODM2LDUwNj
 k1NjY5OCw2MTkyMzU0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMy
 LDI1MjQwODg2OSwtNDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3OT
 g3NzExMSwtMTYyNDM0NzM2NiwtNjc4NTU0Mzk4LDIxMzUyMDEy
