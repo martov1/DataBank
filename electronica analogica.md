@@ -1207,13 +1207,14 @@ A continuacion estan los  calculos que nos permitiran **elegir los componentes**
 
 #### Transformador
 
-Necesitamos un transformador que entregue 
+Necesitamos un transformador que entregue un **pico** de $15V$
+Un transformador de $12V$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzQ3MDY3MiwxODgzMzYwODM2LDUwNj
-k1NjY5OCw2MTkyMzU0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMy
-LDI1MjQwODg2OSwtNDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3OT
-g3NzExMSwtMTYyNDM0NzM2NiwtNjc4NTU0Mzk4LDIxMzUyMDEy
-NSwtMTU2NzY2ODAyNiwyMDkwMDA5NDk2LC0xMDEzOTE5Njg5LD
-E0NjQyNTkxOTUsLTIzNDM0ODg3OCwtNTM3NzE3MzE1LDk3ODU2
-NzY5OV19
+eyJoaXN0b3J5IjpbLTEzMTU1OTAyNDgsMTg4MzM2MDgzNiw1MD
+Y5NTY2OTgsNjE5MjM1NDMwLDc3MTQxNjE4NSwtMTU0MDEwOTQz
+MiwyNTI0MDg4NjksLTQ3NzM1NzI5MSwxNjQ2MzcxODMxLDExNz
+k4NzcxMTEsLTE2MjQzNDczNjYsLTY3ODU1NDM5OCwyMTM1MjAx
+MjUsLTE1Njc2NjgwMjYsMjA5MDAwOTQ5NiwtMTAxMzkxOTY4OS
+wxNDY0MjU5MTk1LC0yMzQzNDg4NzgsLTUzNzcxNzMxNSw5Nzg1
+Njc2OTldfQ==
 -->
