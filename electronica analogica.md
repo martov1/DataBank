@@ -1184,15 +1184,20 @@ Se mantiene la **tension constante en la salida** de la fuente independientement
 
 Para eso usamos
 * un **Diodo zener** que tenga su $V_z$ igual al voltaje que deseamos en la fuente
-* un **resistor**
+* un **resistor limitador de corriente** para que el zener nunca sobrepase su maxima corriente
+
+La estabilizacion funciona asi
+* El zener deja pasar la tension en exceso (la que es mayor que $V_z$)
+* Si no hay nada conectado a la fuente, la resistencia limitadora se encarga de que la corriente no exceda la corriente maxima del zener
+
 
 ### Calculos - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg1MzkyODAsNTA2OTU2Njk4LDYxOT
-IzNTQzMCw3NzE0MTYxODUsLTE1NDAxMDk0MzIsMjUyNDA4ODY5
-LC00NzczNTcyOTEsMTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNj
-I0MzQ3MzY2LC02Nzg1NTQzOTgsMjEzNTIwMTI1LC0xNTY3NjY4
-MDI2LDIwOTAwMDk0OTYsLTEwMTM5MTk2ODksMTQ2NDI1OTE5NS
-wtMjM0MzQ4ODc4LC01Mzc3MTczMTUsOTc4NTY3Njk5LC0xNzcw
-Mzg0Njc0XX0=
+eyJoaXN0b3J5IjpbMTAwNTc4ODg5MSw1MDY5NTY2OTgsNjE5Mj
+M1NDMwLDc3MTQxNjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4Njks
+LTQ3NzM1NzI5MSwxNjQ2MzcxODMxLDExNzk4NzcxMTEsLTE2Mj
+QzNDczNjYsLTY3ODU1NDM5OCwyMTM1MjAxMjUsLTE1Njc2Njgw
+MjYsMjA5MDAwOTQ5NiwtMTAxMzkxOTY4OSwxNDY0MjU5MTk1LC
+0yMzQzNDg4NzgsLTUzNzcxNzMxNSw5Nzg1Njc2OTksLTE3NzAz
+ODQ2NzRdfQ==
 -->
