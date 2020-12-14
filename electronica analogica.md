@@ -1152,6 +1152,8 @@ Se trata de una fuente sencilla, tiene
 ![](https://i.imgur.com/0xgLqpQ.png)
 
 ### El filtro
+
+
 La fuente sin el filtro tendria una onda de salida asi
 
 [Ejemplo](https://tinyurl.com/y7lv255h)
@@ -1166,22 +1168,22 @@ Como el **capacitor se puede cargar casi instantáneamente** eso significa que p
 ![](https://i.imgur.com/kYkS0KB.png)
 **Notamos** como la resistencia limita la cantidad de corriente
 [Ejemplo](https://tinyurl.com/ybhp4hqk).
-Por ley de ohm, si no hay un resistor, el capacitor se cargara muy rapido, es decir corriente casi infinita por un momento.
+Por ley de ohm, **si no hay un resistor, el capacitor se cargara muy rapido, es decir corriente casi infinita por un momento.**
 Si colocamos un resistor, el capacitor tardara un poco mas en cargar, osea que la corriente sera menor.
 >Recordamos que la carga de un capacitor esta definida por 
 >* $\large{I_{cap}(t)=Ie^{\frac{-t}{\tau}}}$ general decay function
 >* $\large{V_{cap}(t)=V_f+(V_i-V_f)e^{\frac{-t}{\tau}}}$ exponential growth function
 >* Donde $\tau=R.C$ 
->Osea que si $R\to 0$ entonces $I\to \infty$ y $V\to \infty$
+>Osea que si $R\to 0$ entonces $I\to \infty$ y $V \to V_f$
 
 ![](https://i.imgur.com/oU0Re4h.png)
 ### Calculos - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDA1NTcwOSw1MDY5NTY2OTgsNjE5Mj
-M1NDMwLDc3MTQxNjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4Njks
-LTQ3NzM1NzI5MSwxNjQ2MzcxODMxLDExNzk4NzcxMTEsLTE2Mj
-QzNDczNjYsLTY3ODU1NDM5OCwyMTM1MjAxMjUsLTE1Njc2Njgw
-MjYsMjA5MDAwOTQ5NiwtMTAxMzkxOTY4OSwxNDY0MjU5MTk1LC
-0yMzQzNDg4NzgsLTUzNzcxNzMxNSw5Nzg1Njc2OTksLTE3NzAz
-ODQ2NzRdfQ==
+eyJoaXN0b3J5IjpbODAxOTY4ODk0LDUwNjk1NjY5OCw2MTkyMz
+U0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OSwt
+NDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3OTg3NzExMSwtMTYyND
+M0NzM2NiwtNjc4NTU0Mzk4LDIxMzUyMDEyNSwtMTU2NzY2ODAy
+NiwyMDkwMDA5NDk2LC0xMDEzOTE5Njg5LDE0NjQyNTkxOTUsLT
+IzNDM0ODg3OCwtNTM3NzE3MzE1LDk3ODU2NzY5OSwtMTc3MDM4
+NDY3NF19
 -->
