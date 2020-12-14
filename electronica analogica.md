@@ -1198,9 +1198,15 @@ Para eso usamos
 
 [ejemplo](https://tinyurl.com/y958utw7)
 
-### Calculos - WIP
+### Calculos
+
+A continuacion estan los **calculos para una fuente de** $12V$ que nos permitiran **elegir los componentes**
+
+#### Transformador
+
+Necesitamos un transformador que entregue 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzQyOTA3MSw1MDY5NTY2OTgsNjE5Mj
+eyJoaXN0b3J5IjpbMTg4MzM2MDgzNiw1MDY5NTY2OTgsNjE5Mj
 M1NDMwLDc3MTQxNjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4Njks
 LTQ3NzM1NzI5MSwxNjQ2MzcxODMxLDExNzk4NzcxMTEsLTE2Mj
 QzNDczNjYsLTY3ODU1NDM5OCwyMTM1MjAxMjUsLTE1Njc2Njgw
