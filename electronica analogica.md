@@ -1145,16 +1145,17 @@ Se trata de una fuente sencilla, tiene
 * **Un rectificador** que transforma la onda AC en una onda DC
 [https://tinyurl.com/y958utw7](ejemplo)
 * **Un filtro** que aplana la onda DC, que consta de
-	* **un capacitor** para liberar tension cuando la onda DC baje, y asi mantener una tension constante
-	* **Un re**
+* **Un estabilizados** que evita que la tension en DC sobrepase un valor determinado
 
 
 ![](https://i.imgur.com/0xgLqpQ.png)
-a
-### Principios - WIP
+
+### El filtro
+La fuente sin el filtro tendria una onda de salida asi
+
 ### Calculos - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc5NzY1MzYsMjUyNDA4ODY5LC00Nz
+eyJoaXN0b3J5IjpbLTE1NDAxMDk0MzIsMjUyNDA4ODY5LC00Nz
 czNTcyOTEsMTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNjI0MzQ3
 MzY2LC02Nzg1NTQzOTgsMjEzNTIwMTI1LC0xNTY3NjY4MDI2LD
 IwOTAwMDk0OTYsLTEwMTM5MTk2ODksMTQ2NDI1OTE5NSwtMjM0
