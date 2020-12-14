@@ -1200,17 +1200,20 @@ Para eso usamos
 
 ### Calculos
 
-A continuacion estan los **calculos para una fuente de** $12V$ que nos permitiran **elegir los componentes**
+A continuacion estan los  calculos que nos permitiran **elegir los componentes** par auna fuente de
+* $15V$
+* $100ma$
+
 
 #### Transformador
 
 Necesitamos un transformador que entregue 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzM2MDgzNiw1MDY5NTY2OTgsNjE5Mj
-M1NDMwLDc3MTQxNjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4Njks
-LTQ3NzM1NzI5MSwxNjQ2MzcxODMxLDExNzk4NzcxMTEsLTE2Mj
-QzNDczNjYsLTY3ODU1NDM5OCwyMTM1MjAxMjUsLTE1Njc2Njgw
-MjYsMjA5MDAwOTQ5NiwtMTAxMzkxOTY4OSwxNDY0MjU5MTk1LC
-0yMzQzNDg4NzgsLTUzNzcxNzMxNSw5Nzg1Njc2OTksLTE3NzAz
-ODQ2NzRdfQ==
+eyJoaXN0b3J5IjpbMTAzNzQ3MDY3MiwxODgzMzYwODM2LDUwNj
+k1NjY5OCw2MTkyMzU0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMy
+LDI1MjQwODg2OSwtNDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3OT
+g3NzExMSwtMTYyNDM0NzM2NiwtNjc4NTU0Mzk4LDIxMzUyMDEy
+NSwtMTU2NzY2ODAyNiwyMDkwMDA5NDk2LC0xMDEzOTE5Njg5LD
+E0NjQyNTkxOTUsLTIzNDM0ODg3OCwtNTM3NzE3MzE1LDk3ODU2
+NzY5OV19
 -->
