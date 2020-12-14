@@ -1216,7 +1216,7 @@ Si pensamos que los **diodos rectificadores** tienen una caida de $0.7v$ cada un
 $$17-2(0.7)=15.6v$$
 
 
-#### Filtro
+#### Filtro - capacitor
 
 Pongamos como punto de partida que queremos que **el capacitor en su peor momento llegue a los** $14.4v$
 ![](https://i.imgur.com/0hI8K4H.png)
@@ -1240,12 +1240,14 @@ $$1.2= \frac{0.1A}{2\pi 120 c}$$
 
 >**CRITICO:** Puedo usar un capacitor mas grande y la brecha sera menor
 >Es decir, **cuanto mas capacitancia, mejor**
+
+#### Filtro - resistencia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTkzOTAxMCwtMTQ3NjgwMDQ3NiwxNT
-IzNzU2NDI3LDE4ODMzNjA4MzYsNTA2OTU2Njk4LDYxOTIzNTQz
-MCw3NzE0MTYxODUsLTE1NDAxMDk0MzIsMjUyNDA4ODY5LC00Nz
-czNTcyOTEsMTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNjI0MzQ3
-MzY2LC02Nzg1NTQzOTgsMjEzNTIwMTI1LC0xNTY3NjY4MDI2LD
-IwOTAwMDk0OTYsLTEwMTM5MTk2ODksMTQ2NDI1OTE5NSwtMjM0
-MzQ4ODc4XX0=
+eyJoaXN0b3J5IjpbMTI5MzczMDU3NCwtNjY5OTM5MDEwLC0xND
+c2ODAwNDc2LDE1MjM3NTY0MjcsMTg4MzM2MDgzNiw1MDY5NTY2
+OTgsNjE5MjM1NDMwLDc3MTQxNjE4NSwtMTU0MDEwOTQzMiwyNT
+I0MDg4NjksLTQ3NzM1NzI5MSwxNjQ2MzcxODMxLDExNzk4Nzcx
+MTEsLTE2MjQzNDczNjYsLTY3ODU1NDM5OCwyMTM1MjAxMjUsLT
+E1Njc2NjgwMjYsMjA5MDAwOTQ5NiwtMTAxMzkxOTY4OSwxNDY0
+MjU5MTk1XX0=
 -->
