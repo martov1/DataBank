@@ -1186,14 +1186,15 @@ Para eso usamos
 * un **Diodo zener** que tenga su $V_z$ igual al voltaje que deseamos en la fuente
 * un **resistor limitador de corriente** para que el zener nunca sobrepase su maxima corriente
 
-La estabilizacion funciona asi
-* El zener deja pasar la tension en exceso (la que es mayor que $V_z$)
-* Si no hay nada conectado a la fuente, la resistencia limitadora se encarga de que la corriente no exceda la corriente maxima del zener
+**La estabilizacion funciona asi**
+* El zener **deja pasar la tension en exceso** (la que es mayor que $V_z$), disipandola
+* La tension que no deja pasar ($V_z$) es la **tension estabilizada**
+* Si **no hay nada conectado a la fuente**, la resistencia limitadora se encarga de que la corriente **no exceda la corriente maxima del zener**
 
 
 ### Calculos - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTc4ODg5MSw1MDY5NTY2OTgsNjE5Mj
+eyJoaXN0b3J5IjpbMTkwOTQzMjE3OSw1MDY5NTY2OTgsNjE5Mj
 M1NDMwLDc3MTQxNjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4Njks
 LTQ3NzM1NzI5MSwxNjQ2MzcxODMxLDExNzk4NzcxMTEsLTE2Mj
 QzNDczNjYsLTY3ODU1NDM5OCwyMTM1MjAxMjUsLTE1Njc2Njgw
