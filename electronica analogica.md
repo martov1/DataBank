@@ -1153,15 +1153,17 @@ Se trata de una fuente sencilla, tiene
 ### El filtro
 La fuente sin el filtro tendria una onda de salida asi
 ![](https://i.imgur.com/U8EIh2W.png)
-Añadiendo un capacitor que pueda cargarse cuando la onda sube y descargarse cuando la onda baja permite mantener un voltaje mas constante
+Añadiendo un capacitor que pueda **cargarse cuando la onda sube** y **descargarse cuando la onda baja** permite mantener un voltaje mas constante
+
+![](https://i.imgur.com/kYkS0KB.png)
 
 ### Calculos - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5MjM1NDMwLDc3MTQxNjE4NSwtMTU0MD
-EwOTQzMiwyNTI0MDg4NjksLTQ3NzM1NzI5MSwxNjQ2MzcxODMx
-LDExNzk4NzcxMTEsLTE2MjQzNDczNjYsLTY3ODU1NDM5OCwyMT
-M1MjAxMjUsLTE1Njc2NjgwMjYsMjA5MDAwOTQ5NiwtMTAxMzkx
-OTY4OSwxNDY0MjU5MTk1LC0yMzQzNDg4NzgsLTUzNzcxNzMxNS
-w5Nzg1Njc2OTksLTE3NzAzODQ2NzQsLTExNDg1Njg2NDgsLTEy
-MzY5MDcyNDhdfQ==
+eyJoaXN0b3J5IjpbLTEzNTA3ODI0ODAsNjE5MjM1NDMwLDc3MT
+QxNjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4NjksLTQ3NzM1NzI5
+MSwxNjQ2MzcxODMxLDExNzk4NzcxMTEsLTE2MjQzNDczNjYsLT
+Y3ODU1NDM5OCwyMTM1MjAxMjUsLTE1Njc2NjgwMjYsMjA5MDAw
+OTQ5NiwtMTAxMzkxOTY4OSwxNDY0MjU5MTk1LC0yMzQzNDg4Nz
+gsLTUzNzcxNzMxNSw5Nzg1Njc2OTksLTE3NzAzODQ2NzQsLTEx
+NDg1Njg2NDhdfQ==
 -->
