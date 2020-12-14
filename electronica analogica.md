@@ -1158,21 +1158,21 @@ La fuente sin el filtro tendria una onda de salida asi
 ![](https://i.imgur.com/U8EIh2W.png)
 Añadiendo un capacitor que pueda **cargarse cuando la onda sube** y **descargarse cuando la onda baja** permite mantener un voltaje mas constante
 
-Como el **capacitor se puede cargar casi instantaneamente** eso significa que puede absorber mucha corriente junta. Para que no pase tanta corriente tan de golpe colocamos una resistencia que limite la corriente.
+Como el **capacitor se puede cargar casi instantáneamente** eso significa que puede absorber mucha corriente junta. Para que no pase tanta corriente tan de golpe colocamos una resistencia que limite la corriente.
 
 
 ![](https://i.imgur.com/9aEcqeV.png)
 
 ![](https://i.imgur.com/kYkS0KB.png)
-**Notamos** como la resistencia permite que los picos sean mucho menos verticales.
-
+**Notamos** como la resistencia limita la cantidad de corriente
+[Ejemplo](https://tinyurl.com/ybhp4hqk)
 ### Calculos - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2OTU2Njk4LDYxOTIzNTQzMCw3NzE0MT
-YxODUsLTE1NDAxMDk0MzIsMjUyNDA4ODY5LC00NzczNTcyOTEs
-MTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNjI0MzQ3MzY2LC02Nz
-g1NTQzOTgsMjEzNTIwMTI1LC0xNTY3NjY4MDI2LDIwOTAwMDk0
-OTYsLTEwMTM5MTk2ODksMTQ2NDI1OTE5NSwtMjM0MzQ4ODc4LC
-01Mzc3MTczMTUsOTc4NTY3Njk5LC0xNzcwMzg0Njc0LC0xMTQ4
-NTY4NjQ4XX0=
+eyJoaXN0b3J5IjpbMzU3MTE2NjQ3LDUwNjk1NjY5OCw2MTkyMz
+U0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OSwt
+NDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3OTg3NzExMSwtMTYyND
+M0NzM2NiwtNjc4NTU0Mzk4LDIxMzUyMDEyNSwtMTU2NzY2ODAy
+NiwyMDkwMDA5NDk2LC0xMDEzOTE5Njg5LDE0NjQyNTkxOTUsLT
+IzNDM0ODg3OCwtNTM3NzE3MzE1LDk3ODU2NzY5OSwtMTc3MDM4
+NDY3NF19
 -->
