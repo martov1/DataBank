@@ -1177,13 +1177,22 @@ Si colocamos un resistor, el capacitor tardara un poco mas en cargar, osea que l
 >Osea que si $R\to 0$ entonces $I\to \infty$ y $V \to V_f$
 
 ![](https://i.imgur.com/oU0Re4h.png)
+
+### El estabilizador
+
+Se mantiene la **tension constante en la salida** de la fuente independientemente de si la **tension de entrada sube**
+
+Para eso usamos
+* un **Diodo zener** que tenga su $V_z$ igual al voltaje que deseamos en la fuente
+* un **resistor**
+
 ### Calculos - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxOTY4ODk0LDUwNjk1NjY5OCw2MTkyMz
-U0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OSwt
-NDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3OTg3NzExMSwtMTYyND
-M0NzM2NiwtNjc4NTU0Mzk4LDIxMzUyMDEyNSwtMTU2NzY2ODAy
-NiwyMDkwMDA5NDk2LC0xMDEzOTE5Njg5LDE0NjQyNTkxOTUsLT
-IzNDM0ODg3OCwtNTM3NzE3MzE1LDk3ODU2NzY5OSwtMTc3MDM4
-NDY3NF19
+eyJoaXN0b3J5IjpbLTEwNDg1MzkyODAsNTA2OTU2Njk4LDYxOT
+IzNTQzMCw3NzE0MTYxODUsLTE1NDAxMDk0MzIsMjUyNDA4ODY5
+LC00NzczNTcyOTEsMTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNj
+I0MzQ3MzY2LC02Nzg1NTQzOTgsMjEzNTIwMTI1LC0xNTY3NjY4
+MDI2LDIwOTAwMDk0OTYsLTEwMTM5MTk2ODksMTQ2NDI1OTE5NS
+wtMjM0MzQ4ODc4LC01Mzc3MTczMTUsOTc4NTY3Njk5LC0xNzcw
+Mzg0Njc0XX0=
 -->
