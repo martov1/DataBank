@@ -1168,10 +1168,12 @@ Como el **capacitor se puede cargar casi instantáneamente** eso significa que p
 [Ejemplo](https://tinyurl.com/ybhp4hqk).
 Por ley de ohm, si no hay un resistor, el capacitor se cargara muy rapido, es decir corriente casi infinita por un momento.
 Si colocamos un resistor, el capacitor tardara un poco mas en cargar, osea que la corriente sera menor.
+Recordamos que la carga de un capacitor esta definida por 
+
 ![](https://i.imgur.com/oU0Re4h.png)
 ### Calculos - WIP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2MTI5NTkwLDUwNjk1NjY5OCw2MTkyMz
+eyJoaXN0b3J5IjpbMTM0NzM5OTY5LDUwNjk1NjY5OCw2MTkyMz
 U0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OSwt
 NDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3OTg3NzExMSwtMTYyND
 M0NzM2NiwtNjc4NTU0Mzk4LDIxMzUyMDEyNSwtMTU2NzY2ODAy
