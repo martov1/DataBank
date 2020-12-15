@@ -1279,20 +1279,21 @@ $I_{prom}=\frac{100ma}{2}20ms$
 $I_{prom}=\frac{100ma}{2}20ms$
 $I_{prom}=1000ma=1A/s$
 
-Pero la corriente no fluye continuamente, lo hace en forma de **picos** debido a **la carga del capacitor**
+Pero la corriente no fluye continuamente, lo hace en forma de **picos** debido a **al tiempo de carga del capacitor** $T_{carga}$
 
-Despejando el **tiempo de carga del capacitor** puedo saber en cuanto tiempo esa energia promedio de $1A/s$ de carga cantidad de carga se metera en el capacitor.
+Despejando el **tiempo de carga del capacitor** de su ecuacion, puedo saber en cuanto tiempo esa energia promedio de $1A/s$ de carga cantidad de carga se metera en el capacitor.
 
-Consideramos el **pico como un triangulo**, su area sera igual a la corriente promedio
+Consideramos el **pico como un triangulo**, su area **sera** igual a la **corriente promedio**
 
 $1A/S=\frac{I_{pico}.T_{carga}}{2}$
 
 Despejando $I_{pico}$ obtengo que el pico es de $0.77A$
 
-Los diodos deben soportar 
+Los diodos deben soportar mínimamente
 * Corriente promedio de $50ma$
+* Corriente de pico repetitiva $0.77A$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDc3ODgxMyw1MjM0ODU4OTYsLTIwMT
+eyJoaXN0b3J5IjpbMTc4MTA0NjA1OCw1MjM0ODU4OTYsLTIwMT
 gxNjcwMTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYy
 NzE4NiwxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0Nz
 YsMTUyMzc1NjQyNywxODgzMzYwODM2LDUwNjk1NjY5OCw2MTky
