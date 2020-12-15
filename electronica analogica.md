@@ -1281,13 +1281,15 @@ Pero la corriente no fluye continuamente, lo hace en forma de **picos** debido a
 
 Despejando el **tiempo de carga del capacitor** puedo saber en cuanto tiempo esa energia promedio de $1A/s$ de carga cantidad de carga se metera en el capacitor.
 
-1A/S=xA.T
+Consideramos el **pico como un triangulo**
+
+$1A/S=\frac{X.T_{carga}}{2}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzgzOTM5MCw1MjM0ODU4OTYsLTIwMT
-gxNjcwMTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYy
-NzE4NiwxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0Nz
-YsMTUyMzc1NjQyNywxODgzMzYwODM2LDUwNjk1NjY5OCw2MTky
-MzU0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OS
-wtNDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3OTg3NzExMSwtMTYy
-NDM0NzM2Nl19
+eyJoaXN0b3J5IjpbLTE3MTgzNjk0NzcsNTIzNDg1ODk2LC0yMD
+E4MTY3MDE1LC0xMTU4NzYxNTA0LC0xMzIzNzI3Nzc2LDE1NDI2
+MjcxODYsMTI5MzczMDU3NCwtNjY5OTM5MDEwLC0xNDc2ODAwND
+c2LDE1MjM3NTY0MjcsMTg4MzM2MDgzNiw1MDY5NTY2OTgsNjE5
+MjM1NDMwLDc3MTQxNjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4Nj
+ksLTQ3NzM1NzI5MSwxNjQ2MzcxODMxLDExNzk4NzcxMTEsLTE2
+MjQzNDczNjZdfQ==
 -->
