@@ -1309,7 +1309,7 @@ Los diodos deben soportar mínimamente
 
 Comenzamos eligiendo un **diodo zener** con
 *  un $V_z=15V$ para estabilizar la tension deseada.
-* Con 
+* Con $I_{max}>100ma$, ya que diseñamos la fuente para hasta $100ma$ y **cuando la carga este desconectada el zener absorbera esa potencia**
 
 **Resistencia minima:**
 *La que garantice que con $20V$ no se exceda la corriente maxima del zener, por ejemplo  $0.1A$, siendo $V_z=15$
@@ -1320,11 +1320,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA3NTUzMzMsLTE3NTYxOTMxMjQsMz
-Y3NDQzNjc5LDE1MDQwNjk0NzksNTIzNDg1ODk2LC0yMDE4MTY3
-MDE1LC0xMTU4NzYxNTA0LC0xMzIzNzI3Nzc2LDE1NDI2MjcxOD
-YsMTI5MzczMDU3NCwtNjY5OTM5MDEwLC0xNDc2ODAwNDc2LDE1
-MjM3NTY0MjcsMTg4MzM2MDgzNiw1MDY5NTY2OTgsNjE5MjM1ND
-MwLDc3MTQxNjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4NjksLTQ3
-NzM1NzI5MV19
+eyJoaXN0b3J5IjpbLTk0NzEyNTg5MCwtMTc1NjE5MzEyNCwzNj
+c0NDM2NzksMTUwNDA2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNjcw
+MTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4Ni
+wxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0NzYsMTUy
+Mzc1NjQyNywxODgzMzYwODM2LDUwNjk1NjY5OCw2MTkyMzU0Mz
+AsNzcxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OSwtNDc3
+MzU3MjkxXX0=
 -->
