@@ -1163,9 +1163,9 @@ Y tengo una fuente de $V_{fuente}=5V$ entonces
 	* por ley de ohm $2V/50=0.04A=40ma$
 	* **El diodo se quema** $40>I_{max}$
 * **Calculo resistencia**
-	* Deseo que pasen $20ma$ por la fuente 
-	* $2/R=20ma$
-	* $$
+	* Deseo que pasen $25ma$ por la fuente 
+	* $2/(R+R_{led})=0.020A$
+	* $R_{adicional}=50\Omega$
 
 # Fuentes de alimentacion
 
@@ -1350,11 +1350,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTgzNzQwMTgsLTYyNTMxNTMwOSwxMT
-IxNDI3NjkyLC0xNzU2MTkzMTI0LDM2NzQ0MzY3OSwxNTA0MDY5
-NDc5LDUyMzQ4NTg5NiwtMjAxODE2NzAxNSwtMTE1ODc2MTUwNC
-wtMTMyMzcyNzc3NiwxNTQyNjI3MTg2LDEyOTM3MzA1NzQsLTY2
-OTkzOTAxMCwtMTQ3NjgwMDQ3NiwxNTIzNzU2NDI3LDE4ODMzNj
-A4MzYsNTA2OTU2Njk4LDYxOTIzNTQzMCw3NzE0MTYxODUsLTE1
-NDAxMDk0MzJdfQ==
+eyJoaXN0b3J5IjpbNjM3MzY1ODU0LC02MjUzMTUzMDksMTEyMT
+QyNzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2NzksMTUwNDA2OTQ3
+OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3NjE1MDQsLT
+EzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0LC02Njk5
+MzkwMTAsLTE0NzY4MDA0NzYsMTUyMzc1NjQyNywxODgzMzYwOD
+M2LDUwNjk1NjY5OCw2MTkyMzU0MzAsNzcxNDE2MTg1LC0xNTQw
+MTA5NDMyXX0=
 -->
