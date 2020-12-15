@@ -1160,7 +1160,12 @@ Y tengo una fuente de $V_{fuente}=5V$ entonces
 * **Conexion directa**
 	* pasaran $2V$ a traves del diodo 
 		* $V_{fuente}-V_{codo}=2V$
-	* por ley de ohm $2V/50=0.04A=$
+	* por ley de ohm $2V/50=0.04A=40ma$
+	* **El diodo se quema** $40>I_{max}$
+* **Calculo resistencia**
+	* Deseo que pasen $20ma$ por la fuente 
+	* $2/R=20ma$
+	* $$
 
 # Fuentes de alimentacion
 
@@ -1345,11 +1350,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjczMjIyNywtNjI1MzE1MzA5LDExMj
-E0Mjc2OTIsLTE3NTYxOTMxMjQsMzY3NDQzNjc5LDE1MDQwNjk0
-NzksNTIzNDg1ODk2LC0yMDE4MTY3MDE1LC0xMTU4NzYxNTA0LC
-0xMzIzNzI3Nzc2LDE1NDI2MjcxODYsMTI5MzczMDU3NCwtNjY5
-OTM5MDEwLC0xNDc2ODAwNDc2LDE1MjM3NTY0MjcsMTg4MzM2MD
-gzNiw1MDY5NTY2OTgsNjE5MjM1NDMwLDc3MTQxNjE4NSwtMTU0
-MDEwOTQzMl19
+eyJoaXN0b3J5IjpbLTE2MTgzNzQwMTgsLTYyNTMxNTMwOSwxMT
+IxNDI3NjkyLC0xNzU2MTkzMTI0LDM2NzQ0MzY3OSwxNTA0MDY5
+NDc5LDUyMzQ4NTg5NiwtMjAxODE2NzAxNSwtMTE1ODc2MTUwNC
+wtMTMyMzcyNzc3NiwxNTQyNjI3MTg2LDEyOTM3MzA1NzQsLTY2
+OTkzOTAxMCwtMTQ3NjgwMDQ3NiwxNTIzNzU2NDI3LDE4ODMzNj
+A4MzYsNTA2OTU2Njk4LDYxOTIzNTQzMCw3NzE0MTYxODUsLTE1
+NDAxMDk0MzJdfQ==
 -->
