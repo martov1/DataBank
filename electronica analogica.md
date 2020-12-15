@@ -1308,15 +1308,17 @@ Los diodos deben soportar mínimamente
 Comenzamos eligiendo un **diodo zener** con un $V_z=15V$ para estabilizar la tension deseada.
 
 **Resistencia minima:**
-La que garantice que con $15V$ 
+La que garantice que con $20V$ no se exceda la corriente maxima del zener, por ejemplo  $0.1A$, siendo $V_z=15$
+
+$$R=V_i-15$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjM5NDM3MiwzNjc0NDM2NzksMTUwND
-A2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3NjE1
-MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0LC
-02Njk5MzkwMTAsLTE0NzY4MDA0NzYsMTUyMzc1NjQyNywxODgz
-MzYwODM2LDUwNjk1NjY5OCw2MTkyMzU0MzAsNzcxNDE2MTg1LC
-0xNTQwMTA5NDMyLDI1MjQwODg2OSwtNDc3MzU3MjkxLDE2NDYz
-NzE4MzFdfQ==
+eyJoaXN0b3J5IjpbLTE3MDk3NzY1MTgsMzY3NDQzNjc5LDE1MD
+QwNjk0NzksNTIzNDg1ODk2LC0yMDE4MTY3MDE1LC0xMTU4NzYx
+NTA0LC0xMzIzNzI3Nzc2LDE1NDI2MjcxODYsMTI5MzczMDU3NC
+wtNjY5OTM5MDEwLC0xNDc2ODAwNDc2LDE1MjM3NTY0MjcsMTg4
+MzM2MDgzNiw1MDY5NTY2OTgsNjE5MjM1NDMwLDc3MTQxNjE4NS
+wtMTU0MDEwOTQzMiwyNTI0MDg4NjksLTQ3NzM1NzI5MSwxNjQ2
+MzcxODMxXX0=
 -->
