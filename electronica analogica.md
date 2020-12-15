@@ -1144,6 +1144,7 @@ Se trata de un diodo
 Es un diodo que **en vez de disipar la potencia en calor, la disipa en luz**, generalmente
 *  Tienen una **tension de codo de** $1.5V-3.5V$
 * Tienen una **corriente maxima**, por lo que **a diferencia del diodo comun** no los podemos alimentar con **cualquier tension**
+* Soporta bajas **tensiones inversas**
 
 Hay tres metodos para distinguir el **anodo y catodo**, se aprecian en esta figura
 ![](https://i.imgur.com/c50sk6Y.png)
@@ -1152,7 +1153,7 @@ Hay tres metodos para distinguir el **anodo y catodo**, se aprecian en esta figu
 
 Si el diodo LED tiene 
 * Resistencia interna de $R_{LED}=50\Omega$
-* Resistencia interna de $I_{max}=30ma$
+* Corriente maxima de $I_{max}=30ma$
 * Voltaje de codo de $V_{codo}=3V$
 
 Y tengo una fuente de $V_{fuente}=5V$ entonces
@@ -1366,11 +1367,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDk5NTc3NiwxMzc4MTc1NTEwLC02Mj
-UzMTUzMDksMTEyMTQyNzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2
-NzksMTUwNDA2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLT
-ExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkz
-NzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0NzYsMTUyMzc1Nj
-QyNywxODgzMzYwODM2LDUwNjk1NjY5OCw2MTkyMzU0MzAsNzcx
-NDE2MTg1XX0=
+eyJoaXN0b3J5IjpbMTU2MjcxOTgzMywxMzEwOTk1Nzc2LDEzNz
+gxNzU1MTAsLTYyNTMxNTMwOSwxMTIxNDI3NjkyLC0xNzU2MTkz
+MTI0LDM2NzQ0MzY3OSwxNTA0MDY5NDc5LDUyMzQ4NTg5NiwtMj
+AxODE2NzAxNSwtMTE1ODc2MTUwNCwtMTMyMzcyNzc3NiwxNTQy
+NjI3MTg2LDEyOTM3MzA1NzQsLTY2OTkzOTAxMCwtMTQ3NjgwMD
+Q3NiwxNTIzNzU2NDI3LDE4ODMzNjA4MzYsNTA2OTU2Njk4LDYx
+OTIzNTQzMF19
 -->
