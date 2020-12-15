@@ -1248,18 +1248,19 @@ $$1.2= \frac{0.1A}{2\pi 120 c}$$
 Sin una resistencia, el capacitor nos genera algunos problemas
 
 * **CARGA INICIAL:** el capacitor, al no tener una resistencia que limite la corriente,  se cargara por **primera vez** con un **pico gigantesco de corriente casi instantaneo** de **MILES DE AMPERIOS**.  [ejemplo](https://tinyurl.com/yd5t4s54)
-* **EN REGIMEN PERMANENTE:** se cargar
+ ![](https://i.imgur.com/3gCkVdW.png)
+* **EN REGIMEN PERMANENTE:** se cargara muy rapido, generando picos de varios amperios.
 
 
-![](https://i.imgur.com/3gCkVdW.png)
+
 
 Para evitar esto, elegirmos una **resistencia pequeña** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTY3Nzk4NCwtMTE1ODc2MTUwNCwtMT
-MyMzcyNzc3NiwxNTQyNjI3MTg2LDEyOTM3MzA1NzQsLTY2OTkz
-OTAxMCwtMTQ3NjgwMDQ3NiwxNTIzNzU2NDI3LDE4ODMzNjA4Mz
-YsNTA2OTU2Njk4LDYxOTIzNTQzMCw3NzE0MTYxODUsLTE1NDAx
-MDk0MzIsMjUyNDA4ODY5LC00NzczNTcyOTEsMTY0NjM3MTgzMS
-wxMTc5ODc3MTExLC0xNjI0MzQ3MzY2LC02Nzg1NTQzOTgsMjEz
-NTIwMTI1XX0=
+eyJoaXN0b3J5IjpbLTEzNzYxNzY4MjksLTExNTg3NjE1MDQsLT
+EzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0LC02Njk5
+MzkwMTAsLTE0NzY4MDA0NzYsMTUyMzc1NjQyNywxODgzMzYwOD
+M2LDUwNjk1NjY5OCw2MTkyMzU0MzAsNzcxNDE2MTg1LC0xNTQw
+MTA5NDMyLDI1MjQwODg2OSwtNDc3MzU3MjkxLDE2NDYzNzE4Mz
+EsMTE3OTg3NzExMSwtMTYyNDM0NzM2NiwtNjc4NTU0Mzk4LDIx
+MzUyMDEyNV19
 -->
