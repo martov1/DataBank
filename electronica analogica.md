@@ -1290,14 +1290,18 @@ $1A/S=\frac{I_{pico}.T_{carga}}{2}$
 Despejando $I_{pico}$ obtengo que el pico es de $0.77A$
 
 Los diodos deben soportar mínimamente
-* Corriente promedio de $50ma$
-* Corriente de pico repetitiva $0.77A$
+* **Corriente promedio** de $50ma$
+	* Por valor de diseño de la fuente
+* **Corriente de pico repetitiva** $0.77A$
+	* por el capacitor elegido y su tiempo de carga
+* **Corriente de pico maxima** de $5A$
+	* Por la resistnecia elegida en el filtro para el pico inicial
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTA0NjA1OCw1MjM0ODU4OTYsLTIwMT
-gxNjcwMTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYy
-NzE4NiwxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0Nz
-YsMTUyMzc1NjQyNywxODgzMzYwODM2LDUwNjk1NjY5OCw2MTky
-MzU0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OS
-wtNDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3OTg3NzExMSwtMTYy
-NDM0NzM2Nl19
+eyJoaXN0b3J5IjpbNjc5NTUxMjk0LDUyMzQ4NTg5NiwtMjAxOD
+E2NzAxNSwtMTE1ODc2MTUwNCwtMTMyMzcyNzc3NiwxNTQyNjI3
+MTg2LDEyOTM3MzA1NzQsLTY2OTkzOTAxMCwtMTQ3NjgwMDQ3Ni
+wxNTIzNzU2NDI3LDE4ODMzNjA4MzYsNTA2OTU2Njk4LDYxOTIz
+NTQzMCw3NzE0MTYxODUsLTE1NDAxMDk0MzIsMjUyNDA4ODY5LC
+00NzczNTcyOTEsMTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNjI0
+MzQ3MzY2XX0=
 -->
