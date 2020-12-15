@@ -1184,11 +1184,11 @@ Entonces calcularemos una resistencia para este led usando la **ley de ohm**
 
 Son en realidad varios LEDs
 ![](https://i.imgur.com/diciLOp.png)
-### LED en AC 220v
+### LED en AC 
 
 Como los LED tienen **baja tolerancia a tencion inversa** hace falta protejerlos de esta. Se puede hacer **permitiendo el paso de la corriente con otro diodo**
 
-Para evitar que se queme el LED ademas,  usaremos una **resistencia** que reduzca de 220v al voltaje necesario
+Para evitar que se queme el LED ademas,  usaremos una **resistencia** que reduzca el voltaje a una cantidad adecuada
 
 ![](https://i.imgur.com/NkHf08B.png)
 
@@ -1375,11 +1375,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU5NzMyMzksMTMxMDk5NTc3NiwxMz
-c4MTc1NTEwLC02MjUzMTUzMDksMTEyMTQyNzY5MiwtMTc1NjE5
-MzEyNCwzNjc0NDM2NzksMTUwNDA2OTQ3OSw1MjM0ODU4OTYsLT
-IwMTgxNjcwMTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0
-MjYyNzE4NiwxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MD
-A0NzYsMTUyMzc1NjQyNywxODgzMzYwODM2LDUwNjk1NjY5OCw2
-MTkyMzU0MzBdfQ==
+eyJoaXN0b3J5IjpbLTEzNTUzOTk3MTAsLTEzNjU5NzMyMzksMT
+MxMDk5NTc3NiwxMzc4MTc1NTEwLC02MjUzMTUzMDksMTEyMTQy
+NzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2NzksMTUwNDA2OTQ3OS
+w1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3NjE1MDQsLTEz
+MjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0LC02Njk5Mz
+kwMTAsLTE0NzY4MDA0NzYsMTUyMzc1NjQyNywxODgzMzYwODM2
+LDUwNjk1NjY5OF19
 -->
