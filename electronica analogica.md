@@ -1,7 +1,7 @@
 **Nivel técnico electrónico**
 https://www.youtube.com/watch?v=4LhDcDaefzo&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=48
 
-Entender como calcular estabilizador con zener, entender fuente de tension establizada.
+Diodo LED: Todo lo que necesitas saber (Clase 39) **minuto 24**
 
 https://www.youtube.com/watch?v=w3cqkMkte2w&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=10
 **BREAK para ver desde capacity factor**
@@ -1389,11 +1389,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjA0NTQ0MywtMTM0NzcwNDI1NSwtMT
-M1NTM5OTcxMCwtMTM2NTk3MzIzOSwxMzEwOTk1Nzc2LDEzNzgx
-NzU1MTAsLTYyNTMxNTMwOSwxMTIxNDI3NjkyLC0xNzU2MTkzMT
-I0LDM2NzQ0MzY3OSwxNTA0MDY5NDc5LDUyMzQ4NTg5NiwtMjAx
-ODE2NzAxNSwtMTE1ODc2MTUwNCwtMTMyMzcyNzc3NiwxNTQyNj
-I3MTg2LDEyOTM3MzA1NzQsLTY2OTkzOTAxMCwtMTQ3NjgwMDQ3
-NiwxNTIzNzU2NDI3XX0=
+eyJoaXN0b3J5IjpbLTE3NjA4MDMyMTAsMTA3MjA0NTQ0MywtMT
+M0NzcwNDI1NSwtMTM1NTM5OTcxMCwtMTM2NTk3MzIzOSwxMzEw
+OTk1Nzc2LDEzNzgxNzU1MTAsLTYyNTMxNTMwOSwxMTIxNDI3Nj
+kyLC0xNzU2MTkzMTI0LDM2NzQ0MzY3OSwxNTA0MDY5NDc5LDUy
+MzQ4NTg5NiwtMjAxODE2NzAxNSwtMTE1ODc2MTUwNCwtMTMyMz
+cyNzc3NiwxNTQyNjI3MTg2LDEyOTM3MzA1NzQsLTY2OTkzOTAx
+MCwtMTQ3NjgwMDQ3Nl19
 -->
