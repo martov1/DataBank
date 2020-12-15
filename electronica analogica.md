@@ -1137,6 +1137,13 @@ Se trata de un diodo
 * Tiene una **resistencia interna** $Z_{Zt}$ que en general es despreciable
 
 ![](https://i.imgur.com/znAmbFr.png)
+
+## Diodo LED
+
+Es un diodo que **en vez de disipar la potencia en calor**
+
+
+
 # Fuentes de alimentacion
 
 ## Simple estabilizada con zener
@@ -1320,7 +1327,7 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzEyNTg5MCwtMTc1NjE5MzEyNCwzNj
+eyJoaXN0b3J5IjpbLTY2NzMzOTYxNCwtMTc1NjE5MzEyNCwzNj
 c0NDM2NzksMTUwNDA2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNjcw
 MTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4Ni
 wxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0NzYsMTUy
