@@ -1243,15 +1243,15 @@ $$1.2= \frac{0.1A}{2\pi 120 c}$$
 
 #### Filtro - resistencia
 
-Sin una resistencia, el capacitor se cargara con un pico muy rapido (ej **1.5ms**) y por ende muy intenso, estara **solo limitada por la resistencia de los diodos y del bobinado del transfo, que son minusculas**
+Sin una resistencia, el capacitor se cargara con un pico muy rapido (ej **1.5ms**) y por ende muy intenso, estará **solo limitada por la resistencia de los diodos y del bobinado del transfo, que son minusculas**
 
 Para evitar esto, elegirmos una **resistencia pequeña** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMj
-kzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0NzYsMTUyMzc1
-NjQyNywxODgzMzYwODM2LDUwNjk1NjY5OCw2MTkyMzU0MzAsNz
-cxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OSwtNDc3MzU3
-MjkxLDE2NDYzNzE4MzEsMTE3OTg3NzExMSwtMTYyNDM0NzM2Ni
-wtNjc4NTU0Mzk4LDIxMzUyMDEyNSwtMTU2NzY2ODAyNiwyMDkw
-MDA5NDk2XX0=
+eyJoaXN0b3J5IjpbLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMT
+U0MjYyNzE4NiwxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4
+MDA0NzYsMTUyMzc1NjQyNywxODgzMzYwODM2LDUwNjk1NjY5OC
+w2MTkyMzU0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQw
+ODg2OSwtNDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3OTg3NzExMS
+wtMTYyNDM0NzM2NiwtNjc4NTU0Mzk4LDIxMzUyMDEyNSwtMTU2
+NzY2ODAyNl19
 -->
