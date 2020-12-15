@@ -1267,6 +1267,8 @@ $$R_s=3$$
 
 
 #### Rectificador
+
+[fuente min 26](https://www.youtube.com/watch?v=eATKEOlqjkw&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=68)
 Tenemos que colocar diodos que soporten las corrientes para las especificaciones de la fuente.
 
 Como solo una pareja de diodos esta activa a la vez, cada pareja llevara la mitad de la corriente promedio del diseño.
@@ -1281,15 +1283,20 @@ Pero la corriente no fluye continuamente, lo hace en forma de **picos** debido a
 
 Despejando el **tiempo de carga del capacitor** puedo saber en cuanto tiempo esa energia promedio de $1A/s$ de carga cantidad de carga se metera en el capacitor.
 
-Consideramos el **pico como un triangulo**
+Consideramos el **pico como un triangulo**, su area sera igual a la corriente promedio
 
-$1A/S=\frac{X.T_{carga}}{2}$
+$1A/S=\frac{I_{pico}.T_{carga}}{2}$
+
+Despejando $I_{pico}$ obtengo que el pico es de $0.77A$
+
+Los diodos deben soportar 
+* Corriente promedio de $50ma$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgzNjk0NzcsNTIzNDg1ODk2LC0yMD
-E4MTY3MDE1LC0xMTU4NzYxNTA0LC0xMzIzNzI3Nzc2LDE1NDI2
-MjcxODYsMTI5MzczMDU3NCwtNjY5OTM5MDEwLC0xNDc2ODAwND
-c2LDE1MjM3NTY0MjcsMTg4MzM2MDgzNiw1MDY5NTY2OTgsNjE5
-MjM1NDMwLDc3MTQxNjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4Nj
-ksLTQ3NzM1NzI5MSwxNjQ2MzcxODMxLDExNzk4NzcxMTEsLTE2
-MjQzNDczNjZdfQ==
+eyJoaXN0b3J5IjpbMTMwMDc3ODgxMyw1MjM0ODU4OTYsLTIwMT
+gxNjcwMTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYy
+NzE4NiwxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0Nz
+YsMTUyMzc1NjQyNywxODgzMzYwODM2LDUwNjk1NjY5OCw2MTky
+MzU0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OS
+wtNDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3OTg3NzExMSwtMTYy
+NDM0NzM2Nl19
 -->
