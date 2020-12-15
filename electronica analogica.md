@@ -1310,11 +1310,13 @@ Comenzamos eligiendo un **diodo zener** con un $V_z=15V$ para estabilizar la ten
 **Resistencia minima:**
 La que garantice que con $20V$ no se exceda la corriente maxima del zener, por ejemplo  $0.1A$, siendo $V_z=15$
 
-$$R=V_i-15$$
+$$R=\frac{V_i-V_z}{I_z}$$
+$$R=\frac{20V-15V}{0.1A}$$
 
+$$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk3NzY1MTgsMzY3NDQzNjc5LDE1MD
+eyJoaXN0b3J5IjpbLTE3NTYxOTMxMjQsMzY3NDQzNjc5LDE1MD
 QwNjk0NzksNTIzNDg1ODk2LC0yMDE4MTY3MDE1LC0xMTU4NzYx
 NTA0LC0xMzIzNzI3Nzc2LDE1NDI2MjcxODYsMTI5MzczMDU3NC
 wtNjY5OTM5MDEwLC0xNDc2ODAwNDc2LDE1MjM3NTY0MjcsMTg4
