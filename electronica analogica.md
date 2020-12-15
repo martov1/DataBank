@@ -1140,6 +1140,7 @@ Se trata de un diodo
 
 ## Diodo LED
 
+### Generalidades
 Es un diodo que **en vez de disipar la potencia en calor, la disipa en luz**, generalmente
 *  Tienen una **tension de codo de** $1.5V-3.5V$
 * Tienen una **corriente maxima**, por lo que **a diferencia del diodo comun** no los podemos alimentar con **cualquier tension**
@@ -1147,7 +1148,10 @@ Es un diodo que **en vez de disipar la potencia en calor, la disipa en luz**, ge
 Hay tres metodos para distinguir el **anodo y catodo**, se aprecian en esta figura
 ![](https://i.imgur.com/c50sk6Y.png)
 
+### Calculo de Resistencia
 
+Si el diodo tiene 
+* Resistenci
 
 # Fuentes de alimentacion
 
@@ -1332,11 +1336,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTMxNTMwOSwxMTIxNDI3NjkyLC0xNz
-U2MTkzMTI0LDM2NzQ0MzY3OSwxNTA0MDY5NDc5LDUyMzQ4NTg5
-NiwtMjAxODE2NzAxNSwtMTE1ODc2MTUwNCwtMTMyMzcyNzc3Ni
-wxNTQyNjI3MTg2LDEyOTM3MzA1NzQsLTY2OTkzOTAxMCwtMTQ3
-NjgwMDQ3NiwxNTIzNzU2NDI3LDE4ODMzNjA4MzYsNTA2OTU2Nj
-k4LDYxOTIzNTQzMCw3NzE0MTYxODUsLTE1NDAxMDk0MzIsMjUy
-NDA4ODY5XX0=
+eyJoaXN0b3J5IjpbMTA0NTI4NzIzMywtNjI1MzE1MzA5LDExMj
+E0Mjc2OTIsLTE3NTYxOTMxMjQsMzY3NDQzNjc5LDE1MDQwNjk0
+NzksNTIzNDg1ODk2LC0yMDE4MTY3MDE1LC0xMTU4NzYxNTA0LC
+0xMzIzNzI3Nzc2LDE1NDI2MjcxODYsMTI5MzczMDU3NCwtNjY5
+OTM5MDEwLC0xNDc2ODAwNDc2LDE1MjM3NTY0MjcsMTg4MzM2MD
+gzNiw1MDY5NTY2OTgsNjE5MjM1NDMwLDc3MTQxNjE4NSwtMTU0
+MDEwOTQzMl19
 -->
