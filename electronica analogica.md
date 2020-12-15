@@ -1172,7 +1172,10 @@ Entonces calcularemos una resistencia para este led usando la **ley de ohm**
 
 ### LED en serie
 
-Se suman
+* Se suman los voltajes codo de cada led $V_{codoTotal}$
+* La fuente de alimentacion debe ser $V_{fuente}>V_{codoTotal}$
+* El voltaje que sobra de la fuente debe, por ley de ohm usando la resistencia interna de los led en serie,  **generar una corriente soportada por los led**
+	* Caso contrario, Calcular una resistencia que lo baje 
 
 # Fuentes de alimentacion
 
@@ -1357,11 +1360,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2MjI2NjYxLC02MjUzMTUzMDksMTEyMT
-QyNzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2NzksMTUwNDA2OTQ3
-OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3NjE1MDQsLT
-EzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0LC02Njk5
-MzkwMTAsLTE0NzY4MDA0NzYsMTUyMzc1NjQyNywxODgzMzYwOD
-M2LDUwNjk1NjY5OCw2MTkyMzU0MzAsNzcxNDE2MTg1LC0xNTQw
-MTA5NDMyXX0=
+eyJoaXN0b3J5IjpbLTExODg3ODgyOTAsLTYyNTMxNTMwOSwxMT
+IxNDI3NjkyLC0xNzU2MTkzMTI0LDM2NzQ0MzY3OSwxNTA0MDY5
+NDc5LDUyMzQ4NTg5NiwtMjAxODE2NzAxNSwtMTE1ODc2MTUwNC
+wtMTMyMzcyNzc3NiwxNTQyNjI3MTg2LDEyOTM3MzA1NzQsLTY2
+OTkzOTAxMCwtMTQ3NjgwMDQ3NiwxNTIzNzU2NDI3LDE4ODMzNj
+A4MzYsNTA2OTU2Njk4LDYxOTIzNTQzMCw3NzE0MTYxODUsLTE1
+NDAxMDk0MzJdfQ==
 -->
