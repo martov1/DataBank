@@ -1256,9 +1256,11 @@ Sin una resistencia, el capacitor nos genera algunos problemas
 
 Para evitar esto, elegirmos una **resistencia pequeña** en funcion a un **pico maximo de carga deseado** usando la **ley de ohm**
 
-$$R_s=\frac{}{}$$
+$$R_s=\frac{V_{transfo}-2V_{caidaDiodo}-V_{capacitor}}{I_{deseada}}$$
+$$R_s=\frac{15.6-2(0.7)-0}{5}$$
+$$R_s=3$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjkxMDQ0MSwtMTE1ODc2MTUwNCwtMT
+eyJoaXN0b3J5IjpbMTI1NDkyNjg5OSwtMTE1ODc2MTUwNCwtMT
 MyMzcyNzc3NiwxNTQyNjI3MTg2LDEyOTM3MzA1NzQsLTY2OTkz
 OTAxMCwtMTQ3NjgwMDQ3NiwxNTIzNzU2NDI3LDE4ODMzNjA4Mz
 YsNTA2OTU2Njk4LDYxOTIzNTQzMCw3NzE0MTYxODUsLTE1NDAx
