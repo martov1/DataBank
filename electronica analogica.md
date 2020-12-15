@@ -1252,6 +1252,8 @@ $$1.2= \frac{0.1A}{2\pi 120 c}$$
 
 Sin una resistencia, el capacitor nos genera algunos problemas
 
+![](https://i.imgur.com/pRQvdzy.png)
+
 * **CARGA INICIAL:** el capacitor, al no tener una resistencia que limite la corriente,  se cargara por **primera vez** con un **pico gigantesco de corriente casi instantaneo** de **MILES DE AMPERIOS**.  [ejemplo](https://tinyurl.com/yd5t4s54)
  ![](https://i.imgur.com/3gCkVdW.png)
 * **EN REGIMEN PERMANENTE:** se cargara muy rapido, generando picos de varios amperios.
@@ -1302,11 +1304,11 @@ Los diodos deben soportar mínimamente
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ0ODUwNTMsMTUwNDA2OTQ3OSw1Mj
-M0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3NjE1MDQsLTEzMjM3
-Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0LC02Njk5MzkwMT
-AsLTE0NzY4MDA0NzYsMTUyMzc1NjQyNywxODgzMzYwODM2LDUw
-Njk1NjY5OCw2MTkyMzU0MzAsNzcxNDE2MTg1LC0xNTQwMTA5ND
-MyLDI1MjQwODg2OSwtNDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3
-OTg3NzExMV19
+eyJoaXN0b3J5IjpbMTIxNTEyNDcyOCwxNTA0MDY5NDc5LDUyMz
+Q4NTg5NiwtMjAxODE2NzAxNSwtMTE1ODc2MTUwNCwtMTMyMzcy
+Nzc3NiwxNTQyNjI3MTg2LDEyOTM3MzA1NzQsLTY2OTkzOTAxMC
+wtMTQ3NjgwMDQ3NiwxNTIzNzU2NDI3LDE4ODMzNjA4MzYsNTA2
+OTU2Njk4LDYxOTIzNTQzMCw3NzE0MTYxODUsLTE1NDAxMDk0Mz
+IsMjUyNDA4ODY5LC00NzczNTcyOTEsMTY0NjM3MTgzMSwxMTc5
+ODc3MTExXX0=
 -->
