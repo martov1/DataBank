@@ -1189,6 +1189,7 @@ Son en realidad varios LEDs
 Como los LED tienen **baja tolerancia a tencion inversa** hace falta protejerlos de esta. Se puede hacer **permitiendo el paso de la corriente con otro diodo**
 
 Para evitar que se queme el LED ademas,  usaremos una **resistencia** que reduzca el voltaje a una cantidad adecuada
+[ejemplo](https://tinyurl.com/yddr2e7c)
 
 ![](https://i.imgur.com/NkHf08B.png)
 
@@ -1375,11 +1376,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTUzOTk3MTAsLTEzNjU5NzMyMzksMT
-MxMDk5NTc3NiwxMzc4MTc1NTEwLC02MjUzMTUzMDksMTEyMTQy
-NzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2NzksMTUwNDA2OTQ3OS
-w1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3NjE1MDQsLTEz
-MjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0LC02Njk5Mz
-kwMTAsLTE0NzY4MDA0NzYsMTUyMzc1NjQyNywxODgzMzYwODM2
-LDUwNjk1NjY5OF19
+eyJoaXN0b3J5IjpbLTEzNDc3MDQyNTUsLTEzNTUzOTk3MTAsLT
+EzNjU5NzMyMzksMTMxMDk5NTc3NiwxMzc4MTc1NTEwLC02MjUz
+MTUzMDksMTEyMTQyNzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2Nz
+ksMTUwNDA2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTEx
+NTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNz
+MwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0NzYsMTUyMzc1NjQy
+NywxODgzMzYwODM2XX0=
 -->
