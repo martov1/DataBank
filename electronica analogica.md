@@ -1218,8 +1218,8 @@ Si pensamos que los **diodos rectificadores** tienen una caida de $0.7v$ cada un
 $$17-2(0.7)=15.6v$$
 
 
-#### Rectificador
-Tenemos que colocar diodos que soporten las corrientes para las especificaciones de la fuente.
+
+
 
 
 
@@ -1266,13 +1266,18 @@ $$R_s=\frac{15.6-2(0.7)-0}{5}$$
 $$R_s=3$$
 
 
+#### Rectificador
+Tenemos que colocar diodos que soporten las corrientes para las especificaciones de la fuente.
 
+Como solo una pareja de diodos esta activa a la vez, cada pareja llevara la mitad de la corriente promedio del diseño.
+
+$I_{prom}=\frac{100ma}{2}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjI3MTQzOCw1MjM0ODU4OTYsLTIwMT
-gxNjcwMTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYy
-NzE4NiwxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0Nz
-YsMTUyMzc1NjQyNywxODgzMzYwODM2LDUwNjk1NjY5OCw2MTky
-MzU0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OS
-wtNDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3OTg3NzExMSwtMTYy
-NDM0NzM2Nl19
+eyJoaXN0b3J5IjpbLTEzOTc2Nzk4LDUyMzQ4NTg5NiwtMjAxOD
+E2NzAxNSwtMTE1ODc2MTUwNCwtMTMyMzcyNzc3NiwxNTQyNjI3
+MTg2LDEyOTM3MzA1NzQsLTY2OTkzOTAxMCwtMTQ3NjgwMDQ3Ni
+wxNTIzNzU2NDI3LDE4ODMzNjA4MzYsNTA2OTU2Njk4LDYxOTIz
+NTQzMCw3NzE0MTYxODUsLTE1NDAxMDk0MzIsMjUyNDA4ODY5LC
+00NzczNTcyOTEsMTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNjI0
+MzQ3MzY2XX0=
 -->
