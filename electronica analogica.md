@@ -1305,15 +1305,16 @@ Los diodos deben soportar mínimamente
 ![](https://i.imgur.com/dqPrJdb.png)
 
 Comenzamos eligiendo un **diodo zener** con un $V_z=15V$ para estabilizar la tension deseada.
-La fuente esta diseñada para te
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3NDQzNjc5LDE1MDQwNjk0NzksNTIzND
-g1ODk2LC0yMDE4MTY3MDE1LC0xMTU4NzYxNTA0LC0xMzIzNzI3
-Nzc2LDE1NDI2MjcxODYsMTI5MzczMDU3NCwtNjY5OTM5MDEwLC
-0xNDc2ODAwNDc2LDE1MjM3NTY0MjcsMTg4MzM2MDgzNiw1MDY5
-NTY2OTgsNjE5MjM1NDMwLDc3MTQxNjE4NSwtMTU0MDEwOTQzMi
-wyNTI0MDg4NjksLTQ3NzM1NzI5MSwxNjQ2MzcxODMxLDExNzk4
-NzcxMTFdfQ==
+eyJoaXN0b3J5IjpbMTUxNzI0MjA5MywzNjc0NDM2NzksMTUwND
+A2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3NjE1
+MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0LC
+02Njk5MzkwMTAsLTE0NzY4MDA0NzYsMTUyMzc1NjQyNywxODgz
+MzYwODM2LDUwNjk1NjY5OCw2MTkyMzU0MzAsNzcxNDE2MTg1LC
+0xNTQwMTA5NDMyLDI1MjQwODg2OSwtNDc3MzU3MjkxLDE2NDYz
+NzE4MzFdfQ==
 -->
