@@ -1148,6 +1148,8 @@ Se trata de una fuente sencilla, tiene
 * **Un filtro** que aplana la onda DC, que consta de
 * **Un estabilizados** que evita que la tension en DC sobrepase un valor determinado
 
+Como la **estabilizacion** se hace mediante **diodo zener**, nunca podra **proveer mas potencia que la que el diodo puede disipar**
+
 
 ![](https://i.imgur.com/0xgLqpQ.png)
 
@@ -1305,10 +1307,12 @@ Los diodos deben soportar mínimamente
 
 ![](https://i.imgur.com/dqPrJdb.png)
 
-Comenzamos eligiendo un **diodo zener** con un $V_z=15V$ para estabilizar la tension deseada.
+Comenzamos eligiendo un **diodo zener** con
+*  un $V_z=15V$ para estabilizar la tension deseada.
+* Con 
 
 **Resistencia minima:**
-La que garantice que con $20V$ no se exceda la corriente maxima del zener, por ejemplo  $0.1A$, siendo $V_z=15$
+*La que garantice que con $20V$ no se exceda la corriente maxima del zener, por ejemplo  $0.1A$, siendo $V_z=15$
 
 $$R=\frac{V_i-V_z}{I_z}$$
 $$R=\frac{20V-15V}{0.1A}$$
@@ -1316,11 +1320,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTYxOTMxMjQsMzY3NDQzNjc5LDE1MD
-QwNjk0NzksNTIzNDg1ODk2LC0yMDE4MTY3MDE1LC0xMTU4NzYx
-NTA0LC0xMzIzNzI3Nzc2LDE1NDI2MjcxODYsMTI5MzczMDU3NC
-wtNjY5OTM5MDEwLC0xNDc2ODAwNDc2LDE1MjM3NTY0MjcsMTg4
-MzM2MDgzNiw1MDY5NTY2OTgsNjE5MjM1NDMwLDc3MTQxNjE4NS
-wtMTU0MDEwOTQzMiwyNTI0MDg4NjksLTQ3NzM1NzI5MSwxNjQ2
-MzcxODMxXX0=
+eyJoaXN0b3J5IjpbLTE2MDA3NTUzMzMsLTE3NTYxOTMxMjQsMz
+Y3NDQzNjc5LDE1MDQwNjk0NzksNTIzNDg1ODk2LC0yMDE4MTY3
+MDE1LC0xMTU4NzYxNTA0LC0xMzIzNzI3Nzc2LDE1NDI2MjcxOD
+YsMTI5MzczMDU3NCwtNjY5OTM5MDEwLC0xNDc2ODAwNDc2LDE1
+MjM3NTY0MjcsMTg4MzM2MDgzNiw1MDY5NTY2OTgsNjE5MjM1ND
+MwLDc3MTQxNjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4NjksLTQ3
+NzM1NzI5MV19
 -->
