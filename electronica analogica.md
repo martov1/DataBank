@@ -1178,6 +1178,11 @@ Entonces calcularemos una resistencia para este led usando la **ley de ohm**
 	* Caso contrario, **Calcular una resistencia** que lo baje a la corriente soportada usando ley de ohm
 	* calcular la **potencia disipada por el resistor** para saber que comprar
 
+### Display numerico LED
+
+Son en realidad varios LEDs
+![](https://i.imgur.com/diciLOp.png)
+
 # Fuentes de alimentación
 
 ## Simple estabilizada con zener
@@ -1361,11 +1366,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODE3NTUxMCwtNjI1MzE1MzA5LDExMj
-E0Mjc2OTIsLTE3NTYxOTMxMjQsMzY3NDQzNjc5LDE1MDQwNjk0
-NzksNTIzNDg1ODk2LC0yMDE4MTY3MDE1LC0xMTU4NzYxNTA0LC
-0xMzIzNzI3Nzc2LDE1NDI2MjcxODYsMTI5MzczMDU3NCwtNjY5
-OTM5MDEwLC0xNDc2ODAwNDc2LDE1MjM3NTY0MjcsMTg4MzM2MD
-gzNiw1MDY5NTY2OTgsNjE5MjM1NDMwLDc3MTQxNjE4NSwtMTU0
-MDEwOTQzMl19
+eyJoaXN0b3J5IjpbMTMxMDk5NTc3NiwxMzc4MTc1NTEwLC02Mj
+UzMTUzMDksMTEyMTQyNzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2
+NzksMTUwNDA2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLT
+ExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkz
+NzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0NzYsMTUyMzc1Nj
+QyNywxODgzMzYwODM2LDUwNjk1NjY5OCw2MTkyMzU0MzAsNzcx
+NDE2MTg1XX0=
 -->
