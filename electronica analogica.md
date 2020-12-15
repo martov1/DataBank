@@ -1140,7 +1140,8 @@ Se trata de un diodo
 
 ## Diodo LED
 
-Es un diodo que **en vez de disipar la potencia en calor**
+Es un diodo que **en vez de disipar la potencia en calor, la disipa en luz**, generalmente
+*  tienen una **tension de codo de** $1.5V-3.5V$
 
 
 
@@ -1327,7 +1328,7 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzMzOTYxNCwtMTc1NjE5MzEyNCwzNj
+eyJoaXN0b3J5IjpbMTgzNTY0NTAwMSwtMTc1NjE5MzEyNCwzNj
 c0NDM2NzksMTUwNDA2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNjcw
 MTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4Ni
 wxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0NzYsMTUy
