@@ -1139,6 +1139,7 @@ Se trata de un diodo
 ![](https://i.imgur.com/znAmbFr.png)
 
 ## Diodo LED
+[fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
 
 ### Generalidades
 Es un diodo que **en vez de disipar la potencia en calor, la disipa en luz**, generalmente
@@ -1186,6 +1187,7 @@ Son en realidad varios LEDs
 ![](https://i.imgur.com/diciLOp.png)
 ### LED en AC  220v
 
+[Fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
 #### Metodo ineficiente
 Como los LED tienen **baja tolerancia a tencion inversa** hace falta protejerlos de esta. Se puede hacer **permitiendo el paso de la corriente con otro diodo**
 
@@ -1387,7 +1389,7 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzg4MDU0NywtMTM0NzcwNDI1NSwtMT
+eyJoaXN0b3J5IjpbMTA3MjA0NTQ0MywtMTM0NzcwNDI1NSwtMT
 M1NTM5OTcxMCwtMTM2NTk3MzIzOSwxMzEwOTk1Nzc2LDEzNzgx
 NzU1MTAsLTYyNTMxNTMwOSwxMTIxNDI3NjkyLC0xNzU2MTkzMT
 I0LDM2NzQ0MzY3OSwxNTA0MDY5NDc5LDUyMzQ4NTg5NiwtMjAx
