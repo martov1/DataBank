@@ -1275,13 +1275,15 @@ $I_{prom}=\frac{I_{diseño}}{2}p_{eriodo}$
 
 $I_{prom}=\frac{100ma}{2}20ms$
 $I_{prom}=\frac{100ma}{2}20ms$
-$I_{prom}=1000ma=1A$
+$I_{prom}=1000ma=1A/s$
 
 Pero la corriente no fluye continuamente, lo hace en forma de **picos** debido a **la carga del capacitor**
 
-Despejando el **tiempo de carga del capacitor** y calculando el **area** del pico 
+Despejando el **tiempo de carga del capacitor** puedo saber en cuanto tiempo esa energia promedio de $1A/s$ de carga cantidad de carga se metera en el capacitor.
+
+1A/S=xA.T
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODUzMDE3NCw1MjM0ODU4OTYsLTIwMT
+eyJoaXN0b3J5IjpbMjEzMzgzOTM5MCw1MjM0ODU4OTYsLTIwMT
 gxNjcwMTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYy
 NzE4NiwxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0Nz
 YsMTUyMzc1NjQyNywxODgzMzYwODM2LDUwNjk1NjY5OCw2MTky
