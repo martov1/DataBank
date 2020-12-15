@@ -1207,7 +1207,7 @@ A continuacion estan los  calculos que nos permitiran **elegir los componentes**
 * $100ma$
 
 
-#### Transformador y rectificador
+#### Transformador
 
 Necesitamos un transformador que entregue un **pico** de $15V$
 Un transformador de $12V$ **eficaces** tiene un pico de
@@ -1259,12 +1259,18 @@ Para evitar esto, elegirmos una **resistencia pequeña** en funcion a un **pico 
 $$R_s=\frac{V_{transfo}-2V_{caidaDiodo}-V_{capacitor}}{I_{deseada}}$$
 $$R_s=\frac{15.6-2(0.7)-0}{5}$$
 $$R_s=3$$
+
+
+
+#### Rectificador
+ 
+ Hay que elegir diodos que soportes los picos de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTgxNjcwMTUsLTExNTg3NjE1MDQsLT
-EzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0LC02Njk5
-MzkwMTAsLTE0NzY4MDA0NzYsMTUyMzc1NjQyNywxODgzMzYwOD
-M2LDUwNjk1NjY5OCw2MTkyMzU0MzAsNzcxNDE2MTg1LC0xNTQw
-MTA5NDMyLDI1MjQwODg2OSwtNDc3MzU3MjkxLDE2NDYzNzE4Mz
-EsMTE3OTg3NzExMSwtMTYyNDM0NzM2NiwtNjc4NTU0Mzk4LDIx
-MzUyMDEyNV19
+eyJoaXN0b3J5IjpbMTE0OTQwNjI0OCwtMjAxODE2NzAxNSwtMT
+E1ODc2MTUwNCwtMTMyMzcyNzc3NiwxNTQyNjI3MTg2LDEyOTM3
+MzA1NzQsLTY2OTkzOTAxMCwtMTQ3NjgwMDQ3NiwxNTIzNzU2ND
+I3LDE4ODMzNjA4MzYsNTA2OTU2Njk4LDYxOTIzNTQzMCw3NzE0
+MTYxODUsLTE1NDAxMDk0MzIsMjUyNDA4ODY5LC00NzczNTcyOT
+EsMTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNjI0MzQ3MzY2LC02
+Nzg1NTQzOThdfQ==
 -->
