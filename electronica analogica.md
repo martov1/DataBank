@@ -1151,14 +1151,16 @@ Hay tres metodos para distinguir el **anodo y catodo**, se aprecian en esta figu
 ### Calculo de Resistencia
 
 Si el diodo LED tiene 
-* Resistencia interna de $50\Omega$
+* Resistencia interna de $R_{LED}=50\Omega$
 * Resistencia interna de $I_{max}=30ma$
-* Voltaje de codo de $3V$
+* Voltaje de codo de $V_{codo}=3V$
 
-Y tengo una fuente de $5V$ entonces
+Y tengo una fuente de $V_{fuente}=5V$ entonces
 
 * **Conexion directa**
 	* pasaran $2V$ a traves del diodo 
+		* $V_{fuente}-V_{codo}=2V$
+	* por ley de ohm $2V/50=0.04A=$
 
 # Fuentes de alimentacion
 
@@ -1343,11 +1345,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMjIwNTMxLC02MjUzMTUzMDksMTEyMT
-QyNzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2NzksMTUwNDA2OTQ3
-OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3NjE1MDQsLT
-EzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0LC02Njk5
-MzkwMTAsLTE0NzY4MDA0NzYsMTUyMzc1NjQyNywxODgzMzYwOD
-M2LDUwNjk1NjY5OCw2MTkyMzU0MzAsNzcxNDE2MTg1LC0xNTQw
-MTA5NDMyXX0=
+eyJoaXN0b3J5IjpbLTk2MjczMjIyNywtNjI1MzE1MzA5LDExMj
+E0Mjc2OTIsLTE3NTYxOTMxMjQsMzY3NDQzNjc5LDE1MDQwNjk0
+NzksNTIzNDg1ODk2LC0yMDE4MTY3MDE1LC0xMTU4NzYxNTA0LC
+0xMzIzNzI3Nzc2LDE1NDI2MjcxODYsMTI5MzczMDU3NCwtNjY5
+OTM5MDEwLC0xNDc2ODAwNDc2LDE1MjM3NTY0MjcsMTg4MzM2MD
+gzNiw1MDY5NTY2OTgsNjE5MjM1NDMwLDc3MTQxNjE4NSwtMTU0
+MDEwOTQzMl19
 -->
