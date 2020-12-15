@@ -1143,7 +1143,8 @@ Se trata de un diodo
 ### Generalidades
 Es un diodo que **en vez de disipar la potencia en calor, la disipa en luz**, generalmente
 *  Tienen una **tension de codo de** $1.5V-3.5V$
-* Tienen una **corriente maxima**, por lo que **a diferencia del diodo comun** no los podemos alimentar con **cualquier tension**
+* Tienen una **corriente maxima**
+	*  por lo que **a diferencia del diodo comun** no los podemos alimentar con **cualquier tension**
 * Soporta bajas **tensiones inversas**
 
 Hay tres metodos para distinguir el **anodo y catodo**, se aprecian en esta figura
@@ -1183,6 +1184,9 @@ Entonces calcularemos una resistencia para este led usando la **ley de ohm**
 
 Son en realidad varios LEDs
 ![](https://i.imgur.com/diciLOp.png)
+### LED en AC
+
+Como los LED tienen **baja tolerancia a tencion inversa** hace falta protejerlos de esta. Se puede hacer **permitiendo el paso de la corriente con otro diodo**
 
 # Fuentes de alimentación
 
@@ -1367,7 +1371,7 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjcxOTgzMywxMzEwOTk1Nzc2LDEzNz
+eyJoaXN0b3J5IjpbMTE4OTU2MjIxMywxMzEwOTk1Nzc2LDEzNz
 gxNzU1MTAsLTYyNTMxNTMwOSwxMTIxNDI3NjkyLC0xNzU2MTkz
 MTI0LDM2NzQ0MzY3OSwxNTA0MDY5NDc5LDUyMzQ4NTg5NiwtMj
 AxODE2NzAxNSwtMTE1ODc2MTUwNCwtMTMyMzcyNzc3NiwxNTQy
