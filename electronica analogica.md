@@ -1262,11 +1262,8 @@ $$R_s=3$$
 
 
 
-#### Rectificador
- 
- Hay que elegir diodos que soportes los picos de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTQwNjI0OCwtMjAxODE2NzAxNSwtMT
+eyJoaXN0b3J5IjpbMTc2NjMxOTAxMSwtMjAxODE2NzAxNSwtMT
 E1ODc2MTUwNCwtMTMyMzcyNzc3NiwxNTQyNjI3MTg2LDEyOTM3
 MzA1NzQsLTY2OTkzOTAxMCwtMTQ3NjgwMDQ3NiwxNTIzNzU2ND
 I3LDE4ODMzNjA4MzYsNTA2OTU2Njk4LDYxOTIzNTQzMCw3NzE0
