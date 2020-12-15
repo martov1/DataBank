@@ -1271,15 +1271,18 @@ Tenemos que colocar diodos que soporten las corrientes para las especificaciones
 
 Como solo una pareja de diodos esta activa a la vez, cada pareja llevara la mitad de la corriente promedio del diseño.
 
-$I_{prom}=\frac{100ma}{2}p_{eriodo}$
+$I_{prom}=\frac{I_{diseño}}{2}p_{eriodo}$
 
+$I_{prom}=\frac{100ma}{2}20ms$
+$I_{prom}=\frac{100ma}{2}20ms$
 
+$I_{prom}=\frac{100ma}{2}20ms$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTA2NDQ5Nyw1MjM0ODU4OTYsLTIwMT
-gxNjcwMTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYy
-NzE4NiwxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0Nz
-YsMTUyMzc1NjQyNywxODgzMzYwODM2LDUwNjk1NjY5OCw2MTky
-MzU0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OS
-wtNDc3MzU3MjkxLDE2NDYzNzE4MzEsMTE3OTg3NzExMSwtMTYy
-NDM0NzM2Nl19
+eyJoaXN0b3J5IjpbMjkzNTcwMjYxLDUyMzQ4NTg5NiwtMjAxOD
+E2NzAxNSwtMTE1ODc2MTUwNCwtMTMyMzcyNzc3NiwxNTQyNjI3
+MTg2LDEyOTM3MzA1NzQsLTY2OTkzOTAxMCwtMTQ3NjgwMDQ3Ni
+wxNTIzNzU2NDI3LDE4ODMzNjA4MzYsNTA2OTU2Njk4LDYxOTIz
+NTQzMCw3NzE0MTYxODUsLTE1NDAxMDk0MzIsMjUyNDA4ODY5LC
+00NzczNTcyOTEsMTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNjI0
+MzQ3MzY2XX0=
 -->
