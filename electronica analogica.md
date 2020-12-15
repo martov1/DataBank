@@ -1143,6 +1143,7 @@ Se trata de un diodo
 Es un diodo que **en vez de disipar la potencia en calor, la disipa en luz**, generalmente
 *  Tienen una **tension de codo de** $1.5V-3.5V$
 * Tienen una **corriente maxima**, por lo que **a diferencia del diodo comun** no los podemos alimentar con **cualquier tension**
+![](https://i.imgur.com/c50sk6Y.png)
 
 
 
@@ -1329,11 +1330,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTQyNzY5MiwtMTc1NjE5MzEyNCwzNj
-c0NDM2NzksMTUwNDA2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNjcw
-MTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4Ni
-wxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0NzYsMTUy
-Mzc1NjQyNywxODgzMzYwODM2LDUwNjk1NjY5OCw2MTkyMzU0Mz
-AsNzcxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQwODg2OSwtNDc3
-MzU3MjkxXX0=
+eyJoaXN0b3J5IjpbMjAwMjc4NTYsMTEyMTQyNzY5MiwtMTc1Nj
+E5MzEyNCwzNjc0NDM2NzksMTUwNDA2OTQ3OSw1MjM0ODU4OTYs
+LTIwMTgxNjcwMTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMT
+U0MjYyNzE4NiwxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4
+MDA0NzYsMTUyMzc1NjQyNywxODgzMzYwODM2LDUwNjk1NjY5OC
+w2MTkyMzU0MzAsNzcxNDE2MTg1LC0xNTQwMTA5NDMyLDI1MjQw
+ODg2OV19
 -->
