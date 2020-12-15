@@ -1218,6 +1218,8 @@ Si pensamos que los **diodos rectificadores** tienen una caida de $0.7v$ cada un
 $$17-2(0.7)=15.6v$$
 
 
+#### Rectificador
+
 #### Filtro - capacitor
 
 Pongamos como punto de partida que queremos que **el capacitor en su peor momento llegue a los** $14.4v$
@@ -1263,11 +1265,11 @@ $$R_s=3$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjMxOTAxMSwtMjAxODE2NzAxNSwtMT
-E1ODc2MTUwNCwtMTMyMzcyNzc3NiwxNTQyNjI3MTg2LDEyOTM3
-MzA1NzQsLTY2OTkzOTAxMCwtMTQ3NjgwMDQ3NiwxNTIzNzU2ND
-I3LDE4ODMzNjA4MzYsNTA2OTU2Njk4LDYxOTIzNTQzMCw3NzE0
-MTYxODUsLTE1NDAxMDk0MzIsMjUyNDA4ODY5LC00NzczNTcyOT
-EsMTY0NjM3MTgzMSwxMTc5ODc3MTExLC0xNjI0MzQ3MzY2LC02
-Nzg1NTQzOThdfQ==
+eyJoaXN0b3J5IjpbNTIzNDg1ODk2LC0yMDE4MTY3MDE1LC0xMT
+U4NzYxNTA0LC0xMzIzNzI3Nzc2LDE1NDI2MjcxODYsMTI5Mzcz
+MDU3NCwtNjY5OTM5MDEwLC0xNDc2ODAwNDc2LDE1MjM3NTY0Mj
+csMTg4MzM2MDgzNiw1MDY5NTY2OTgsNjE5MjM1NDMwLDc3MTQx
+NjE4NSwtMTU0MDEwOTQzMiwyNTI0MDg4NjksLTQ3NzM1NzI5MS
+wxNjQ2MzcxODMxLDExNzk4NzcxMTEsLTE2MjQzNDczNjYsLTY3
+ODU1NDM5OF19
 -->
