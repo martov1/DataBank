@@ -1195,7 +1195,7 @@ Para evitar que se queme el LED ademas,  usaremos una **resistencia** que reduzc
 * La tension  **promedio** es de $\frac{220\sqrt{2}}{\pi}=104V$ (ya que la onda esta rectificada y es media onda)
 * La resistencia sera de $10k\Omega$ ya que $1200\Omega=\frac{104V-2V}{0.010A}$
 * Como los picos de **tension inversa** son breves por que estamos a $50Hz$ al led no le pasara nada
-* El led disipara $102V*0.010= 0.02W$ y la resistencia un promedio de $1w$
+* El led disipara $2V*0.020= 0.02W$ y la resistencia un promedio de $1w$
 
 ![](https://i.imgur.com/NkHf08B.png)
 
@@ -1382,11 +1382,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODIwNTEzLC0xMzQ3NzA0MjU1LC0xMz
-U1Mzk5NzEwLC0xMzY1OTczMjM5LDEzMTA5OTU3NzYsMTM3ODE3
-NTUxMCwtNjI1MzE1MzA5LDExMjE0Mjc2OTIsLTE3NTYxOTMxMj
-QsMzY3NDQzNjc5LDE1MDQwNjk0NzksNTIzNDg1ODk2LC0yMDE4
-MTY3MDE1LC0xMTU4NzYxNTA0LC0xMzIzNzI3Nzc2LDE1NDI2Mj
-cxODYsMTI5MzczMDU3NCwtNjY5OTM5MDEwLC0xNDc2ODAwNDc2
-LDE1MjM3NTY0MjddfQ==
+eyJoaXN0b3J5IjpbLTE4MzQ1MTc0NzMsLTEzNDc3MDQyNTUsLT
+EzNTUzOTk3MTAsLTEzNjU5NzMyMzksMTMxMDk5NTc3NiwxMzc4
+MTc1NTEwLC02MjUzMTUzMDksMTEyMTQyNzY5MiwtMTc1NjE5Mz
+EyNCwzNjc0NDM2NzksMTUwNDA2OTQ3OSw1MjM0ODU4OTYsLTIw
+MTgxNjcwMTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0Mj
+YyNzE4NiwxMjkzNzMwNTc0LC02Njk5MzkwMTAsLTE0NzY4MDA0
+NzYsMTUyMzc1NjQyN119
 -->
