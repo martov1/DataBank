@@ -1219,9 +1219,9 @@ Esta **resistencia** la calculamos con la ley de ohm para no sobrepasar la **cor
 >**CALCULO DE LA RESISTENCIA**
 >**Aplico ley de ohm** 
 >Considero que el capacitor esta vacio y me conecto a la red en el momento de maxima tension para calcular la resistencia necesaria para limitar el pico de corriente por el capacitor
-$$R=\frac{V_{eficax}\sqrt{2}-V_{caidaDeLed}-V_{capacitor}}{V_{picoDeLed}}$$
-$$R=\frac{220v\sqrt{2}-2V-0}{1}$$
-$$R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este valor.
+$$R=\frac{V_{eficax}\sqrt{2}-V_{caidaDeLed}-V_{capacitor}}{V_{picoDeLed}} \\
+R=\frac{220v\sqrt{2}-2V-0}{1}\\
+R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este valor.
 
 >**CALCULO DE CAPACITOR**
 >**Aplico ley de ohm** 
@@ -1230,12 +1230,11 @@ $$R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este 
 >Como tengo el valor de la resistencia, solo tengo que despejar la impedancia del capacitor que hace falta
 >$$Z=\sqrt{R^2+X_{cap}^2}\\
 >11500=\sqrt{323^2+X_{cap}^2}\\
->$$X_{cap}=11490\Omega$$
+>X_{cap}=11490\Omega$$
 >Que por la equacion de resistencia del capacitor, a $50hz$, sera
->$$X_{cap}=\frac{1}{2\pi f C}$$
->
->$$11490=\frac{1}{2\pi 50 C}$$
->$$C=2.77E-7 = 0.277\mu F$$
+>$$X_{cap}=\frac{1}{2\pi f C}\\
+11490=\frac{1}{2\pi 50 C}\\
+>C=2.77E-7 = 0.277\mu F$$
 
 
 # Fuentes de alimentación
@@ -1421,11 +1420,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE5NjI3NjMsLTE3NjA4MDMyMTAsMT
-A3MjA0NTQ0MywtMTM0NzcwNDI1NSwtMTM1NTM5OTcxMCwtMTM2
-NTk3MzIzOSwxMzEwOTk1Nzc2LDEzNzgxNzU1MTAsLTYyNTMxNT
-MwOSwxMTIxNDI3NjkyLC0xNzU2MTkzMTI0LDM2NzQ0MzY3OSwx
-NTA0MDY5NDc5LDUyMzQ4NTg5NiwtMjAxODE2NzAxNSwtMTE1OD
-c2MTUwNCwtMTMyMzcyNzc3NiwxNTQyNjI3MTg2LDEyOTM3MzA1
-NzQsLTY2OTkzOTAxMF19
+eyJoaXN0b3J5IjpbMTU0ODg5OTEyMSwtMTc2MDgwMzIxMCwxMD
+cyMDQ1NDQzLC0xMzQ3NzA0MjU1LC0xMzU1Mzk5NzEwLC0xMzY1
+OTczMjM5LDEzMTA5OTU3NzYsMTM3ODE3NTUxMCwtNjI1MzE1Mz
+A5LDExMjE0Mjc2OTIsLTE3NTYxOTMxMjQsMzY3NDQzNjc5LDE1
+MDQwNjk0NzksNTIzNDg1ODk2LC0yMDE4MTY3MDE1LC0xMTU4Nz
+YxNTA0LC0xMzIzNzI3Nzc2LDE1NDI2MjcxODYsMTI5MzczMDU3
+NCwtNjY5OTM5MDEwXX0=
 -->
