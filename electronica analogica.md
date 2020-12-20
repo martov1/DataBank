@@ -1238,6 +1238,8 @@ R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este va
 [fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
 Un boton luminoso que se enciende cuando la lampara principal esta apagada
 ![](https://i.imgur.com/XyElslP.png =250x)
+# Transistores
+
 
 # Fuentes de alimentación
 
@@ -1422,11 +1424,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzk1NDM5NjQsLTc0ODE5MjMxOCwtMj
-MwOTY1MDY5LDE1NDg4OTkxMjEsLTE3NjA4MDMyMTAsMTA3MjA0
-NTQ0MywtMTM0NzcwNDI1NSwtMTM1NTM5OTcxMCwtMTM2NTk3Mz
-IzOSwxMzEwOTk1Nzc2LDEzNzgxNzU1MTAsLTYyNTMxNTMwOSwx
-MTIxNDI3NjkyLC0xNzU2MTkzMTI0LDM2NzQ0MzY3OSwxNTA0MD
-Y5NDc5LDUyMzQ4NTg5NiwtMjAxODE2NzAxNSwtMTE1ODc2MTUw
-NCwtMTMyMzcyNzc3Nl19
+eyJoaXN0b3J5IjpbODM1NDI0NTI4LC03NDgxOTIzMTgsLTIzMD
+k2NTA2OSwxNTQ4ODk5MTIxLC0xNzYwODAzMjEwLDEwNzIwNDU0
+NDMsLTEzNDc3MDQyNTUsLTEzNTUzOTk3MTAsLTEzNjU5NzMyMz
+ksMTMxMDk5NTc3NiwxMzc4MTc1NTEwLC02MjUzMTUzMDksMTEy
+MTQyNzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2NzksMTUwNDA2OT
+Q3OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3NjE1MDQs
+LTEzMjM3Mjc3NzZdfQ==
 -->
