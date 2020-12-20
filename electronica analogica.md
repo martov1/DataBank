@@ -1216,8 +1216,11 @@ Para hacer uso mas eficiente de la electricidad podemos usar **la impedancia de 
 Igualmente es necesario colocar una resistencia para limitar el **pico de corriente** que se puede generar si al conectar el circuito estamos en el **pico de la onda**.
 Esta **resistencia** la calculamos con la ley de ohm para no sobrepasar la **corriente de pico maxima** del LED segun el datasheet
 
-$$R=\frac{V_{eficax}\sqrt{2}-V_{led}}{}$$
-$$R=\frac{220v\sqrt{2}-2V}{}$$
+>**Aplicando ley de ohm** 
+>Considero que el capacitor esta vacio y me conecto a la red en el momento de maxima tension para calcular la resistencia necesaria para limitar el pico de corriente por el capacitor
+$$R=\frac{V_{eficax}\sqrt{2}-V_{caidaDeLed}-V_{capacitor}}{V_{picoDeLed}}$$
+$$R=\frac{220v\sqrt{2}-2V-0}{1}$$
+$$R=470$$
 
 
 # Fuentes de alimentación
@@ -1403,7 +1406,7 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODQ2MzI1MiwtMTc2MDgwMzIxMCwxMD
+eyJoaXN0b3J5IjpbMTAxMTk3MDI0MSwtMTc2MDgwMzIxMCwxMD
 cyMDQ1NDQzLC0xMzQ3NzA0MjU1LC0xMzU1Mzk5NzEwLC0xMzY1
 OTczMjM5LDEzMTA5OTU3NzYsMTM3ODE3NTUxMCwtNjI1MzE1Mz
 A5LDExMjE0Mjc2OTIsLTE3NTYxOTMxMjQsMzY3NDQzNjc5LDE1
