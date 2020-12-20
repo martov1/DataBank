@@ -1226,7 +1226,11 @@ $$R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este 
 >**CALCULO DE CAPACITOR**
 >**Aplico ley de ohm** 
 >Si el led necesita $0.020A$, osea que la impedancia necesaria sera
->$$Z=\frac{230V}{0.02}$$
+>$$Z=\frac{230V}{0.02}=11500\Omega$$
+>Como tengo el valor de la resistencia, solo tengo que despejar la impedancia del capacitor que hace falta
+>$$Z=\sqrt{R^2+X_{cap}^2}$$
+>
+>$$Z=\sqrt{R^2+X_{cap}^2}$$
 
 
 # Fuentes de alimentación
@@ -1412,7 +1416,7 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ0MzcxMjksLTE3NjA4MDMyMTAsMT
+eyJoaXN0b3J5IjpbLTE2NTMzNzQ0MzQsLTE3NjA4MDMyMTAsMT
 A3MjA0NTQ0MywtMTM0NzcwNDI1NSwtMTM1NTM5OTcxMCwtMTM2
 NTk3MzIzOSwxMzEwOTk1Nzc2LDEzNzgxNzU1MTAsLTYyNTMxNT
 MwOSwxMTIxNDI3NjkyLC0xNzU2MTkzMTI0LDM2NzQ0MzY3OSwx
