@@ -1219,7 +1219,7 @@ Esta **resistencia** la calculamos con la ley de ohm para no sobrepasar la **cor
 >**CALCULO DE LA RESISTENCIA**
 >**Aplico ley de ohm** 
 >Considero que el capacitor esta vacio y me conecto a la red en el momento de maxima tension para calcular la resistencia necesaria para limitar el pico de corriente por el capacitor
-$$R=\frac{V_{eficax}\sqrt{2}-V_{caidaDeLed}-V_{capacitor}}{V_{picoDeLed}} \\
+$$R=\frac{V_{eficax}\sqrt{2}-V_{caidaDeLed}-V_{capacitor}}{V_{picoDeLed}} \\[10pt]
 R=\frac{220v\sqrt{2}-2V-0}{1}\\
 R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este valor.
 
@@ -1420,11 +1420,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODg5OTEyMSwtMTc2MDgwMzIxMCwxMD
-cyMDQ1NDQzLC0xMzQ3NzA0MjU1LC0xMzU1Mzk5NzEwLC0xMzY1
-OTczMjM5LDEzMTA5OTU3NzYsMTM3ODE3NTUxMCwtNjI1MzE1Mz
-A5LDExMjE0Mjc2OTIsLTE3NTYxOTMxMjQsMzY3NDQzNjc5LDE1
-MDQwNjk0NzksNTIzNDg1ODk2LC0yMDE4MTY3MDE1LC0xMTU4Nz
-YxNTA0LC0xMzIzNzI3Nzc2LDE1NDI2MjcxODYsMTI5MzczMDU3
-NCwtNjY5OTM5MDEwXX0=
+eyJoaXN0b3J5IjpbMTIyNDg0MzE1MiwxNTQ4ODk5MTIxLC0xNz
+YwODAzMjEwLDEwNzIwNDU0NDMsLTEzNDc3MDQyNTUsLTEzNTUz
+OTk3MTAsLTEzNjU5NzMyMzksMTMxMDk5NTc3NiwxMzc4MTc1NT
+EwLC02MjUzMTUzMDksMTEyMTQyNzY5MiwtMTc1NjE5MzEyNCwz
+Njc0NDM2NzksMTUwNDA2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNj
+cwMTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4
+NiwxMjkzNzMwNTc0XX0=
 -->
