@@ -1225,10 +1225,8 @@ $$R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este 
 
 >**CALCULO DE CAPACITOR**
 >**Aplico ley de ohm** 
->Considero que el capacitor esta vacio y me conecto a la red en el momento de maxima tension para calcular la resistencia necesaria para limitar el pico de corriente por el capacitor
-$$R=\frac{V_{eficax}\sqrt{2}-V_{caidaDeLed}-V_{capacitor}}{V_{picoDeLed}}$$
-$$R=\frac{220v\sqrt{2}-2V-0}{1}$$
-$$R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este valor.
+>Si el led necesita $0.020A$, osea que la impedancia necesaria sera
+>$$Z=\frac{230V}{0.02}$$
 
 
 # Fuentes de alimentación
@@ -1414,11 +1412,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1Mjc1NDE0LC0xNzYwODAzMjEwLDEwNz
-IwNDU0NDMsLTEzNDc3MDQyNTUsLTEzNTUzOTk3MTAsLTEzNjU5
-NzMyMzksMTMxMDk5NTc3NiwxMzc4MTc1NTEwLC02MjUzMTUzMD
-ksMTEyMTQyNzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2NzksMTUw
-NDA2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3Nj
-E1MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0
-LC02Njk5MzkwMTBdfQ==
+eyJoaXN0b3J5IjpbLTIxMjQ0MzcxMjksLTE3NjA4MDMyMTAsMT
+A3MjA0NTQ0MywtMTM0NzcwNDI1NSwtMTM1NTM5OTcxMCwtMTM2
+NTk3MzIzOSwxMzEwOTk1Nzc2LDEzNzgxNzU1MTAsLTYyNTMxNT
+MwOSwxMTIxNDI3NjkyLC0xNzU2MTkzMTI0LDM2NzQ0MzY3OSwx
+NTA0MDY5NDc5LDUyMzQ4NTg5NiwtMjAxODE2NzAxNSwtMTE1OD
+c2MTUwNCwtMTMyMzcyNzc3NiwxNTQyNjI3MTg2LDEyOTM3MzA1
+NzQsLTY2OTkzOTAxMF19
 -->
