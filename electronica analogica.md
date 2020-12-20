@@ -1237,7 +1237,8 @@ R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este va
 >C=2.77E-7 = 0.277\mu F$$
 
 #### Ejemplo practico
-
+[fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
+Un boton luminoso que se enciende cuando la lampara principal esta apagada
 ![](https://i.imgur.com/XyElslP.png =250x)
 
 # Fuentes de alimentación
@@ -1423,11 +1424,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2NTIwMzM2LC0yMzA5NjUwNjksMTU0OD
-g5OTEyMSwtMTc2MDgwMzIxMCwxMDcyMDQ1NDQzLC0xMzQ3NzA0
-MjU1LC0xMzU1Mzk5NzEwLC0xMzY1OTczMjM5LDEzMTA5OTU3Nz
-YsMTM3ODE3NTUxMCwtNjI1MzE1MzA5LDExMjE0Mjc2OTIsLTE3
-NTYxOTMxMjQsMzY3NDQzNjc5LDE1MDQwNjk0NzksNTIzNDg1OD
-k2LC0yMDE4MTY3MDE1LC0xMTU4NzYxNTA0LC0xMzIzNzI3Nzc2
-LDE1NDI2MjcxODZdfQ==
+eyJoaXN0b3J5IjpbLTc0ODE5MjMxOCwtMjMwOTY1MDY5LDE1ND
+g4OTkxMjEsLTE3NjA4MDMyMTAsMTA3MjA0NTQ0MywtMTM0Nzcw
+NDI1NSwtMTM1NTM5OTcxMCwtMTM2NTk3MzIzOSwxMzEwOTk1Nz
+c2LDEzNzgxNzU1MTAsLTYyNTMxNTMwOSwxMTIxNDI3NjkyLC0x
+NzU2MTkzMTI0LDM2NzQ0MzY3OSwxNTA0MDY5NDc5LDUyMzQ4NT
+g5NiwtMjAxODE2NzAxNSwtMTE1ODc2MTUwNCwtMTMyMzcyNzc3
+NiwxNTQyNjI3MTg2XX0=
 -->
