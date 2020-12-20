@@ -1236,6 +1236,9 @@ R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este va
 11490=\frac{1}{2\pi 50 C}\\[10pt]
 >C=2.77E-7 = 0.277\mu F$$
 
+#### Ejemplo practico
+
+![](https://i.imgur.com/XyElslP.png =250x)
 
 # Fuentes de alimentación
 
@@ -1420,11 +1423,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDk2NTA2OSwxNTQ4ODk5MTIxLC0xNz
-YwODAzMjEwLDEwNzIwNDU0NDMsLTEzNDc3MDQyNTUsLTEzNTUz
-OTk3MTAsLTEzNjU5NzMyMzksMTMxMDk5NTc3NiwxMzc4MTc1NT
-EwLC02MjUzMTUzMDksMTEyMTQyNzY5MiwtMTc1NjE5MzEyNCwz
-Njc0NDM2NzksMTUwNDA2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNj
-cwMTUsLTExNTg3NjE1MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4
-NiwxMjkzNzMwNTc0XX0=
+eyJoaXN0b3J5IjpbMzc2NTIwMzM2LC0yMzA5NjUwNjksMTU0OD
+g5OTEyMSwtMTc2MDgwMzIxMCwxMDcyMDQ1NDQzLC0xMzQ3NzA0
+MjU1LC0xMzU1Mzk5NzEwLC0xMzY1OTczMjM5LDEzMTA5OTU3Nz
+YsMTM3ODE3NTUxMCwtNjI1MzE1MzA5LDExMjE0Mjc2OTIsLTE3
+NTYxOTMxMjQsMzY3NDQzNjc5LDE1MDQwNjk0NzksNTIzNDg1OD
+k2LC0yMDE4MTY3MDE1LC0xMTU4NzYxNTA0LC0xMzIzNzI3Nzc2
+LDE1NDI2MjcxODZdfQ==
 -->
