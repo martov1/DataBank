@@ -1235,7 +1235,7 @@ $$R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este 
 >$$X_{cap}=\frac{1}{2\pi f C}$$
 >
 >$$11490=\frac{1}{2\pi 50 C}$$
->$$C=\frac{1}{2\pi 50 C}$$
+>$$C=2.77E-7 = 0.277\$$
 
 
 # Fuentes de alimentación
@@ -1421,7 +1421,7 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzM1Njg2NSwtMTc2MDgwMzIxMCwxMD
+eyJoaXN0b3J5IjpbMTg5ODU2MjYyNywtMTc2MDgwMzIxMCwxMD
 cyMDQ1NDQzLC0xMzQ3NzA0MjU1LC0xMzU1Mzk5NzEwLC0xMzY1
 OTczMjM5LDEzMTA5OTU3NzYsMTM3ODE3NTUxMCwtNjI1MzE1Mz
 A5LDExMjE0Mjc2OTIsLTE3NTYxOTMxMjQsMzY3NDQzNjc5LDE1
