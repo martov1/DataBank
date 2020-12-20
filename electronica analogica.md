@@ -1229,8 +1229,13 @@ $$R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este 
 >$$Z=\frac{230V}{0.02}=11500\Omega$$
 >Como tengo el valor de la resistencia, solo tengo que despejar la impedancia del capacitor que hace falta
 >$$Z=\sqrt{R^2+X_{cap}^2}$$
+>$$11500=\sqrt{323^2+X_{cap}^2}$$
+>$$X_{cap}=11490\Omega$$
+>Que por la equacion de resistencia del capacitor, a $50hz$, sera
+>$$X_{cap}=\frac{1}{2\pi f C}$$
 >
->$$Z=\sqrt{R^2+X_{cap}^2}$$
+>$$11490=\frac{1}{2\pi 50 C}$$
+>
 
 
 # Fuentes de alimentación
@@ -1416,11 +1421,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTMzNzQ0MzQsLTE3NjA4MDMyMTAsMT
-A3MjA0NTQ0MywtMTM0NzcwNDI1NSwtMTM1NTM5OTcxMCwtMTM2
-NTk3MzIzOSwxMzEwOTk1Nzc2LDEzNzgxNzU1MTAsLTYyNTMxNT
-MwOSwxMTIxNDI3NjkyLC0xNzU2MTkzMTI0LDM2NzQ0MzY3OSwx
-NTA0MDY5NDc5LDUyMzQ4NTg5NiwtMjAxODE2NzAxNSwtMTE1OD
-c2MTUwNCwtMTMyMzcyNzc3NiwxNTQyNjI3MTg2LDEyOTM3MzA1
-NzQsLTY2OTkzOTAxMF19
+eyJoaXN0b3J5IjpbNzA1MjIyNzM1LC0xNzYwODAzMjEwLDEwNz
+IwNDU0NDMsLTEzNDc3MDQyNTUsLTEzNTUzOTk3MTAsLTEzNjU5
+NzMyMzksMTMxMDk5NTc3NiwxMzc4MTc1NTEwLC02MjUzMTUzMD
+ksMTEyMTQyNzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2NzksMTUw
+NDA2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3Nj
+E1MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0
+LC02Njk5MzkwMTBdfQ==
 -->
