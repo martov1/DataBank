@@ -1204,7 +1204,7 @@ Para evitar que se queme el LED ademas,  usaremos una **resistencia** que reduzc
 
 ![](https://i.imgur.com/NkHf08B.png)
 #### Metodo eficiente
-fuent
+[fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
 ![](https://i.imgur.com/90im7sS.png =250x)
 
 **EL CAPACITOR**
@@ -1399,7 +1399,7 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY0MzU3OTMsLTE3NjA4MDMyMTAsMT
+eyJoaXN0b3J5IjpbLTE4MjA1ODc5NjUsLTE3NjA4MDMyMTAsMT
 A3MjA0NTQ0MywtMTM0NzcwNDI1NSwtMTM1NTM5OTcxMCwtMTM2
 NTk3MzIzOSwxMzEwOTk1Nzc2LDEzNzgxNzU1MTAsLTYyNTMxNT
 MwOSwxMTIxNDI3NjkyLC0xNzU2MTkzMTI0LDM2NzQ0MzY3OSwx
