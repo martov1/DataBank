@@ -1,10 +1,8 @@
 **Nivel técnico electrónico**
-https://www.youtube.com/watch?v=4LhDcDaefzo&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=48
+https://www.youtube.com/watch?v=sekdEc5wU6k&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=70
 
-Diodo LED: Todo lo que necesitas saber (Clase 39) **minuto 24**
+ Como calcular el valor promedio de señales DC mas utilizadas en electronica
 
-https://www.youtube.com/watch?v=w3cqkMkte2w&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=10
-**BREAK para ver desde capacity factor**
 
 **VER aplicacion en reparacion de notebooks**
 https://www.youtube.com/watch?v=1XGun_-06aA&list=PLHk1hZEmw3_zlUPRfVeBHLSUviVNfR4pNvideo 3 minuto 7
@@ -1424,11 +1422,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODE5MjMxOCwtMjMwOTY1MDY5LDE1ND
-g4OTkxMjEsLTE3NjA4MDMyMTAsMTA3MjA0NTQ0MywtMTM0Nzcw
-NDI1NSwtMTM1NTM5OTcxMCwtMTM2NTk3MzIzOSwxMzEwOTk1Nz
-c2LDEzNzgxNzU1MTAsLTYyNTMxNTMwOSwxMTIxNDI3NjkyLC0x
-NzU2MTkzMTI0LDM2NzQ0MzY3OSwxNTA0MDY5NDc5LDUyMzQ4NT
-g5NiwtMjAxODE2NzAxNSwtMTE1ODc2MTUwNCwtMTMyMzcyNzc3
-NiwxNTQyNjI3MTg2XX0=
+eyJoaXN0b3J5IjpbLTE5Mzk1NDM5NjQsLTc0ODE5MjMxOCwtMj
+MwOTY1MDY5LDE1NDg4OTkxMjEsLTE3NjA4MDMyMTAsMTA3MjA0
+NTQ0MywtMTM0NzcwNDI1NSwtMTM1NTM5OTcxMCwtMTM2NTk3Mz
+IzOSwxMzEwOTk1Nzc2LDEzNzgxNzU1MTAsLTYyNTMxNTMwOSwx
+MTIxNDI3NjkyLC0xNzU2MTkzMTI0LDM2NzQ0MzY3OSwxNTA0MD
+Y5NDc5LDUyMzQ4NTg5NiwtMjAxODE2NzAxNSwtMTE1ODc2MTUw
+NCwtMTMyMzcyNzc3Nl19
 -->
