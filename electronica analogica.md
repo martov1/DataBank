@@ -1216,7 +1216,8 @@ Para hacer uso mas eficiente de la electricidad podemos usar **la impedancia de 
 Igualmente es necesario colocar una resistencia para limitar el **pico de corriente** que se puede generar si al conectar el circuito estamos en el **pico de la onda**.
 Esta **resistencia** la calculamos con la ley de ohm para no sobrepasar la **corriente de pico maxima** del LED segun el datasheet
 
-$$R=\frac{220v\sqrt{2}-2}{}$$
+$$R=\frac{V_{eficax}\sqrt{2}-V_{led}}{}$$
+$$R=\frac{220v\sqrt{2}-2V}{}$$
 
 
 # Fuentes de alimentación
@@ -1402,11 +1403,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDE2OTQxLC0xNzYwODAzMjEwLDEwNz
-IwNDU0NDMsLTEzNDc3MDQyNTUsLTEzNTUzOTk3MTAsLTEzNjU5
-NzMyMzksMTMxMDk5NTc3NiwxMzc4MTc1NTEwLC02MjUzMTUzMD
-ksMTEyMTQyNzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2NzksMTUw
-NDA2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3Nj
-E1MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0
-LC02Njk5MzkwMTBdfQ==
+eyJoaXN0b3J5IjpbMTI0ODQ2MzI1MiwtMTc2MDgwMzIxMCwxMD
+cyMDQ1NDQzLC0xMzQ3NzA0MjU1LC0xMzU1Mzk5NzEwLC0xMzY1
+OTczMjM5LDEzMTA5OTU3NzYsMTM3ODE3NTUxMCwtNjI1MzE1Mz
+A5LDExMjE0Mjc2OTIsLTE3NTYxOTMxMjQsMzY3NDQzNjc5LDE1
+MDQwNjk0NzksNTIzNDg1ODk2LC0yMDE4MTY3MDE1LC0xMTU4Nz
+YxNTA0LC0xMzIzNzI3Nzc2LDE1NDI2MjcxODYsMTI5MzczMDU3
+NCwtNjY5OTM5MDEwXX0=
 -->
