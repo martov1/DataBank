@@ -1210,10 +1210,13 @@ Para evitar que se queme el LED ademas,  usaremos una **resistencia** que reduzc
 **EL CAPACITOR**
 Para hacer uso mas eficiente de la electricidad podemos usar **la impedancia de un capacitor** para limitar la corriente en lugar de hacerlo con una **resistencia**, ya que **los capacitores no disipan potencia pero si tienen una impedancia que limita la corriente**
 
+
+
 **LA RESISTENCIA**
 Igualmente es necesario colocar una resistencia para limitar el **pico de corriente** que se puede generar si al conectar el circuito estamos en el **pico de la onda**.
 Esta **resistencia** la calculamos con la ley de ohm para no sobrepasar la **corriente de pico maxima** del LED segun el datasheet
 
+$$R=\frac{220v\sqrt{2}-2}{}$$
 
 
 # Fuentes de alimentación
@@ -1399,11 +1402,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA1ODc5NjUsLTE3NjA4MDMyMTAsMT
-A3MjA0NTQ0MywtMTM0NzcwNDI1NSwtMTM1NTM5OTcxMCwtMTM2
-NTk3MzIzOSwxMzEwOTk1Nzc2LDEzNzgxNzU1MTAsLTYyNTMxNT
-MwOSwxMTIxNDI3NjkyLC0xNzU2MTkzMTI0LDM2NzQ0MzY3OSwx
-NTA0MDY5NDc5LDUyMzQ4NTg5NiwtMjAxODE2NzAxNSwtMTE1OD
-c2MTUwNCwtMTMyMzcyNzc3NiwxNTQyNjI3MTg2LDEyOTM3MzA1
-NzQsLTY2OTkzOTAxMF19
+eyJoaXN0b3J5IjpbLTMwMDE2OTQxLC0xNzYwODAzMjEwLDEwNz
+IwNDU0NDMsLTEzNDc3MDQyNTUsLTEzNTUzOTk3MTAsLTEzNjU5
+NzMyMzksMTMxMDk5NTc3NiwxMzc4MTc1NTEwLC02MjUzMTUzMD
+ksMTEyMTQyNzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2NzksMTUw
+NDA2OTQ3OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3Nj
+E1MDQsLTEzMjM3Mjc3NzYsMTU0MjYyNzE4NiwxMjkzNzMwNTc0
+LC02Njk5MzkwMTBdfQ==
 -->
