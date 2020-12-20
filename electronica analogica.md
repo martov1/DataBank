@@ -1220,7 +1220,7 @@ Esta **resistencia** la calculamos con la ley de ohm para no sobrepasar la **cor
 >**Aplico ley de ohm** 
 >Considero que el capacitor esta vacio y me conecto a la red en el momento de maxima tension para calcular la resistencia necesaria para limitar el pico de corriente por el capacitor
 $$R=\frac{V_{eficax}\sqrt{2}-V_{caidaDeLed}-V_{capacitor}}{V_{picoDeLed}} \\[10pt]
-R=\frac{220v\sqrt{2}-2V-0}{1}\\
+R=\frac{220v\sqrt{2}-2V-0}{1}\\[10pt]
 R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este valor.
 
 >**CALCULO DE CAPACITOR**
@@ -1228,12 +1228,12 @@ R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este va
 >Si el led necesita $0.020A$, osea que la impedancia necesaria sera
 >$$Z=\frac{230V}{0.02}=11500\Omega$$
 >Como tengo el valor de la resistencia, solo tengo que despejar la impedancia del capacitor que hace falta
->$$Z=\sqrt{R^2+X_{cap}^2}\\
->11500=\sqrt{323^2+X_{cap}^2}\\
+>$$Z=\sqrt{R^2+X_{cap}^2}\\[10pt]
+>11500=\sqrt{323^2+X_{cap}^2}\\[10pt]
 >X_{cap}=11490\Omega$$
 >Que por la equacion de resistencia del capacitor, a $50hz$, sera
->$$X_{cap}=\frac{1}{2\pi f C}\\
-11490=\frac{1}{2\pi 50 C}\\
+>$$X_{cap}=\frac{1}{2\pi f C}\\[10pt]
+11490=\frac{1}{2\pi 50 C}\\[10pt]
 >C=2.77E-7 = 0.277\mu F$$
 
 
@@ -1420,7 +1420,7 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDg0MzE1MiwxNTQ4ODk5MTIxLC0xNz
+eyJoaXN0b3J5IjpbLTIzMDk2NTA2OSwxNTQ4ODk5MTIxLC0xNz
 YwODAzMjEwLDEwNzIwNDU0NDMsLTEzNDc3MDQyNTUsLTEzNTUz
 OTk3MTAsLTEzNjU5NzMyMzksMTMxMDk5NTc3NiwxMzc4MTc1NT
 EwLC02MjUzMTUzMDksMTEyMTQyNzY5MiwtMTc1NjE5MzEyNCwz
