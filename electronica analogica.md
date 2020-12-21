@@ -3,6 +3,10 @@ https://www.youtube.com/watch?v=sekdEc5wU6k&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733
 
  Como calcular el valor promedio de señales DC mas utilizadas en electronica
 
+**transistores**
+https://www.youtube.com/watch?v=4rfMe_QVbDs&list=PLChMFns-GJssNBAo1xbJHSduZ0FXLer4T&index=2
+
+https://www.youtube.com/watch?v=-LPALAwcYkg&list=PL4651816D92AB6B2B&index=7
 
 **VER aplicacion en reparacion de notebooks**
 https://www.youtube.com/watch?v=1XGun_-06aA&list=PLHk1hZEmw3_zlUPRfVeBHLSUviVNfR4pNvideo 3 minuto 7
@@ -1424,11 +1428,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1NDI0NTI4LC03NDgxOTIzMTgsLTIzMD
-k2NTA2OSwxNTQ4ODk5MTIxLC0xNzYwODAzMjEwLDEwNzIwNDU0
-NDMsLTEzNDc3MDQyNTUsLTEzNTUzOTk3MTAsLTEzNjU5NzMyMz
-ksMTMxMDk5NTc3NiwxMzc4MTc1NTEwLC02MjUzMTUzMDksMTEy
-MTQyNzY5MiwtMTc1NjE5MzEyNCwzNjc0NDM2NzksMTUwNDA2OT
-Q3OSw1MjM0ODU4OTYsLTIwMTgxNjcwMTUsLTExNTg3NjE1MDQs
-LTEzMjM3Mjc3NzZdfQ==
+eyJoaXN0b3J5IjpbLTM5ODYyMjQ5Myw4MzU0MjQ1MjgsLTc0OD
+E5MjMxOCwtMjMwOTY1MDY5LDE1NDg4OTkxMjEsLTE3NjA4MDMy
+MTAsMTA3MjA0NTQ0MywtMTM0NzcwNDI1NSwtMTM1NTM5OTcxMC
+wtMTM2NTk3MzIzOSwxMzEwOTk1Nzc2LDEzNzgxNzU1MTAsLTYy
+NTMxNTMwOSwxMTIxNDI3NjkyLC0xNzU2MTkzMTI0LDM2NzQ0Mz
+Y3OSwxNTA0MDY5NDc5LDUyMzQ4NTg5NiwtMjAxODE2NzAxNSwt
+MTE1ODc2MTUwNF19
 -->
