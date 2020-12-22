@@ -1248,6 +1248,8 @@ Un boton luminoso que se enciende cuando la lampara principal esta apagada
 
 [Fuente de corriente estabilizada con transistor](https://tinyurl.com/y7c6umte)
 
+    enter code here
+
 # Fuentes de alimentación
 
 ## Simple estabilizada con zener
@@ -1431,11 +1433,11 @@ $$R=\frac{20V-15V}{0.1A}$$
 $$R=50\Omega$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU3ODQ5OCwtMTg0NzgxMDIzNSwxMT
-IyNTYzMzkxLDEwODE0MjMwMjMsLTM5ODYyMjQ5Myw4MzU0MjQ1
-MjgsLTc0ODE5MjMxOCwtMjMwOTY1MDY5LDE1NDg4OTkxMjEsLT
-E3NjA4MDMyMTAsMTA3MjA0NTQ0MywtMTM0NzcwNDI1NSwtMTM1
-NTM5OTcxMCwtMTM2NTk3MzIzOSwxMzEwOTk1Nzc2LDEzNzgxNz
-U1MTAsLTYyNTMxNTMwOSwxMTIxNDI3NjkyLC0xNzU2MTkzMTI0
-LDM2NzQ0MzY3OV19
+eyJoaXN0b3J5IjpbLTc4MTQ1OTAyOSwtMTk5NTc4NDk4LC0xOD
+Q3ODEwMjM1LDExMjI1NjMzOTEsMTA4MTQyMzAyMywtMzk4NjIy
+NDkzLDgzNTQyNDUyOCwtNzQ4MTkyMzE4LC0yMzA5NjUwNjksMT
+U0ODg5OTEyMSwtMTc2MDgwMzIxMCwxMDcyMDQ1NDQzLC0xMzQ3
+NzA0MjU1LC0xMzU1Mzk5NzEwLC0xMzY1OTczMjM5LDEzMTA5OT
+U3NzYsMTM3ODE3NTUxMCwtNjI1MzE1MzA5LDExMjE0Mjc2OTIs
+LTE3NTYxOTMxMjRdfQ==
 -->
