@@ -1082,14 +1082,16 @@ Se puede limitar a la mitad la potencia de una resistencia calefactora decidiend
 [ejemplo](https://tinyurl.com/yxr7kslh)
 
 
-Es un rectificador que transforma los dos lados de la onda en voltajes positivos
+Es un rectificador que transforma los dos lados de la onda en voltajes positivos. usa (por ejemplo) un transformador a $24V$ y obtiene una tension rectificada de $12V$
+
+Es 
 
 ![](https://i.imgur.com/QjIhfMq.png)
 
 
 #### Rectificador en puente (full bridge rectifier)
 
-Es un rectificador de onda completa que usa 4 diodos
+Es un rectificador de onda completa que usa 4 diodos. Usa (por ejemplo) un transformador de $220V-24V$ y obtiene una tension rectificada de $24V$
 [ejemplo](https://tinyurl.com/y5t5kot8)
 ![](https://i.imgur.com/1WOyQzj.png)
 
@@ -1455,11 +1457,11 @@ Notamos que:
 ![](https://i.imgur.com/7y5VSPw.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzYzMTc0MjcsLTExMDk2NDg4NjMsMT
-A1MjM5MzIzOSw5MDY4MDQwODQsMTcyMzUwOTIyMCwtODk5MjM2
-NDkzLC03ODE0NTkwMjksLTE5OTU3ODQ5OCwtMTg0NzgxMDIzNS
-wxMTIyNTYzMzkxLDEwODE0MjMwMjMsLTM5ODYyMjQ5Myw4MzU0
-MjQ1MjgsLTc0ODE5MjMxOCwtMjMwOTY1MDY5LDE1NDg4OTkxMj
-EsLTE3NjA4MDMyMTAsMTA3MjA0NTQ0MywtMTM0NzcwNDI1NSwt
-MTM1NTM5OTcxMF19
+eyJoaXN0b3J5IjpbODY3MjQ2MzE5LC0xMTA5NjQ4ODYzLDEwNT
+IzOTMyMzksOTA2ODA0MDg0LDE3MjM1MDkyMjAsLTg5OTIzNjQ5
+MywtNzgxNDU5MDI5LC0xOTk1Nzg0OTgsLTE4NDc4MTAyMzUsMT
+EyMjU2MzM5MSwxMDgxNDIzMDIzLC0zOTg2MjI0OTMsODM1NDI0
+NTI4LC03NDgxOTIzMTgsLTIzMDk2NTA2OSwxNTQ4ODk5MTIxLC
+0xNzYwODAzMjEwLDEwNzIwNDU0NDMsLTEzNDc3MDQyNTUsLTEz
+NTUzOTk3MTBdfQ==
 -->
