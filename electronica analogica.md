@@ -1196,7 +1196,7 @@ Son en realidad varios LEDs
 ### LED en AC  220v
 
 [Fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
-#### Metodo ineficiente
+#### Metodo ineficiente (Resistencia)
 Como los LED tienen **baja tolerancia a tencion inversa** hace falta protejerlos de esta. Se puede hacer **permitiendo el paso de la corriente con otro diodo**
 
 Para evitar que se queme el LED ademas,  usaremos una **resistencia** que reduzca el voltaje a una cantidad adecuada
@@ -1211,7 +1211,7 @@ Para evitar que se queme el LED ademas,  usaremos una **resistencia** que reduzc
 * **La resistencia** un promedio de $102V*0.010= 1W$
 
 ![](https://i.imgur.com/NkHf08B.png)
-#### Metodo eficiente
+#### Metodo eficiente (Capacitive dropper)
 [fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
 ![](https://i.imgur.com/90im7sS.png =250x)
 
@@ -1445,11 +1445,11 @@ Es la misma fuente, pero al tener que alimentarse de $220V$ para dispensar $5V$ 
 
 Hacerlo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4OTU5NTYsLTg5OTIzNjQ5MywtNzgxND
-U5MDI5LC0xOTk1Nzg0OTgsLTE4NDc4MTAyMzUsMTEyMjU2MzM5
-MSwxMDgxNDIzMDIzLC0zOTg2MjI0OTMsODM1NDI0NTI4LC03ND
-gxOTIzMTgsLTIzMDk2NTA2OSwxNTQ4ODk5MTIxLC0xNzYwODAz
-MjEwLDEwNzIwNDU0NDMsLTEzNDc3MDQyNTUsLTEzNTUzOTk3MT
-AsLTEzNjU5NzMyMzksMTMxMDk5NTc3NiwxMzc4MTc1NTEwLC02
-MjUzMTUzMDldfQ==
+eyJoaXN0b3J5IjpbLTExNDUxNDcyMTksLTg5OTIzNjQ5MywtNz
+gxNDU5MDI5LC0xOTk1Nzg0OTgsLTE4NDc4MTAyMzUsMTEyMjU2
+MzM5MSwxMDgxNDIzMDIzLC0zOTg2MjI0OTMsODM1NDI0NTI4LC
+03NDgxOTIzMTgsLTIzMDk2NTA2OSwxNTQ4ODk5MTIxLC0xNzYw
+ODAzMjEwLDEwNzIwNDU0NDMsLTEzNDc3MDQyNTUsLTEzNTUzOT
+k3MTAsLTEzNjU5NzMyMzksMTMxMDk5NTc3NiwxMzc4MTc1NTEw
+LC02MjUzMTUzMDldfQ==
 -->
