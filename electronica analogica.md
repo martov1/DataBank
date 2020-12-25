@@ -1084,7 +1084,9 @@ Se puede limitar a la mitad la potencia de una resistencia calefactora decidiend
 
 Es un rectificador que transforma los dos lados de la onda en voltajes positivos. usa (por ejemplo) un transformador a $24V$ y obtiene una tension rectificada de $12V$
 
-Es 
+Es mas **CARO** que el **full bridge rectifier** por que:
+*  necesita un **transformador del doble del voltaje objetivo** 
+* y con **salida intermedia**
 
 ![](https://i.imgur.com/QjIhfMq.png)
 
@@ -1457,7 +1459,7 @@ Notamos que:
 ![](https://i.imgur.com/7y5VSPw.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MjQ2MzE5LC0xMTA5NjQ4ODYzLDEwNT
+eyJoaXN0b3J5IjpbODc0Mjk3MDM5LC0xMTA5NjQ4ODYzLDEwNT
 IzOTMyMzksOTA2ODA0MDg0LDE3MjM1MDkyMjAsLTg5OTIzNjQ5
 MywtNzgxNDU5MDI5LC0xOTk1Nzg0OTgsLTE4NDc4MTAyMzUsMT
 EyMjU2MzM5MSwxMDgxNDIzMDIzLC0zOTg2MjI0OTMsODM1NDI0
