@@ -1127,6 +1127,12 @@ Se trata de un circuito que
 
 
 ![](https://i.imgur.com/NfbrKBU.png)
+### Multiplicador de voltaje
+
+Funciona con varios capacitores en serie con una fuente $AC$
+
+[ejemplo](https://tinyurl.com/y8gvnexs)
+
 ### Duplicador y sostenedor de voltaje
 
 Es un circuito similar al anterior, la idea es que carga dos capacitores en serie pero mediante el uso de diodos no permite que se descarguen.
@@ -1467,11 +1473,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMz
-I1MywzMzk2MDc1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OTA2OSw4
-NzQyOTcwMzksLTExMDk2NDg4NjMsMTA1MjM5MzIzOSw5MDY4MD
-QwODQsMTcyMzUwOTIyMCwtODk5MjM2NDkzLC03ODE0NTkwMjks
-LTE5OTU3ODQ5OCwtMTg0NzgxMDIzNSwxMTIyNTYzMzkxLDEwOD
-E0MjMwMjMsLTM5ODYyMjQ5Myw4MzU0MjQ1MjgsLTc0ODE5MjMx
-OF19
+eyJoaXN0b3J5IjpbODM5MjU5ODY5LDg3MDU4OTA5MSwzMDAxNT
+U5NzIsNDQzMDMyNTMsMzM5NjA3NTI0LDE0ODcyOTYxNTUsLTEy
+Njk4ODkwNjksODc0Mjk3MDM5LC0xMTA5NjQ4ODYzLDEwNTIzOT
+MyMzksOTA2ODA0MDg0LDE3MjM1MDkyMjAsLTg5OTIzNjQ5Mywt
+NzgxNDU5MDI5LC0xOTk1Nzg0OTgsLTE4NDc4MTAyMzUsMTEyMj
+U2MzM5MSwxMDgxNDIzMDIzLC0zOTg2MjI0OTMsODM1NDI0NTI4
+XX0=
 -->
