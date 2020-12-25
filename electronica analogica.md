@@ -1457,13 +1457,17 @@ Notamos que:
 [Ejemplo](https://tinyurl.com/yabtonxn)
 
 ![](https://i.imgur.com/7y5VSPw.png)
+## Con transformador
 
+Identica a las anteriores, pero baja la tension con un transformador.
+* **Mas caro:** los transfos salen dineros
+* **Mas seguro:** te queda una tension siempre con respecto a tierra (no como en el capacitive dropper que marca $5V$ pero puede matarte igual)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0Mjk3MDM5LC0xMTA5NjQ4ODYzLDEwNT
-IzOTMyMzksOTA2ODA0MDg0LDE3MjM1MDkyMjAsLTg5OTIzNjQ5
-MywtNzgxNDU5MDI5LC0xOTk1Nzg0OTgsLTE4NDc4MTAyMzUsMT
-EyMjU2MzM5MSwxMDgxNDIzMDIzLC0zOTg2MjI0OTMsODM1NDI0
-NTI4LC03NDgxOTIzMTgsLTIzMDk2NTA2OSwxNTQ4ODk5MTIxLC
-0xNzYwODAzMjEwLDEwNzIwNDU0NDMsLTEzNDc3MDQyNTUsLTEz
-NTUzOTk3MTBdfQ==
+eyJoaXN0b3J5IjpbLTEyNjk4ODkwNjksODc0Mjk3MDM5LC0xMT
+A5NjQ4ODYzLDEwNTIzOTMyMzksOTA2ODA0MDg0LDE3MjM1MDky
+MjAsLTg5OTIzNjQ5MywtNzgxNDU5MDI5LC0xOTk1Nzg0OTgsLT
+E4NDc4MTAyMzUsMTEyMjU2MzM5MSwxMDgxNDIzMDIzLC0zOTg2
+MjI0OTMsODM1NDI0NTI4LC03NDgxOTIzMTgsLTIzMDk2NTA2OS
+wxNTQ4ODk5MTIxLC0xNzYwODAzMjEwLDEwNzIwNDU0NDMsLTEz
+NDc3MDQyNTVdfQ==
 -->
