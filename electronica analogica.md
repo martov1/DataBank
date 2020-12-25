@@ -1443,13 +1443,16 @@ $$R=50\Omega$$
 
 Es la misma fuente, pero al tener que alimentarse de $220V$ para dispensar $5V$ es necesario bajar un monton el voltaje.
 
-Hacerlo 
+Para eso podemos usar un **Capacitive dropper** es decir **usar la impedancia de un capacitor como resistencia**. De esta forma **es como usar una resistencia para bajar el voltaje, pero no lo perdemos en forma de calor, ya que los capacitores no dis**
+
+[Ejemplo](https://tinyurl.com/ycbcw8uf)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUxNDcyMTksLTg5OTIzNjQ5MywtNz
-gxNDU5MDI5LC0xOTk1Nzg0OTgsLTE4NDc4MTAyMzUsMTEyMjU2
-MzM5MSwxMDgxNDIzMDIzLC0zOTg2MjI0OTMsODM1NDI0NTI4LC
-03NDgxOTIzMTgsLTIzMDk2NTA2OSwxNTQ4ODk5MTIxLC0xNzYw
-ODAzMjEwLDEwNzIwNDU0NDMsLTEzNDc3MDQyNTUsLTEzNTUzOT
-k3MTAsLTEzNjU5NzMyMzksMTMxMDk5NTc3NiwxMzc4MTc1NTEw
-LC02MjUzMTUzMDldfQ==
+eyJoaXN0b3J5IjpbMTI2MTcyMzg0MSwtODk5MjM2NDkzLC03OD
+E0NTkwMjksLTE5OTU3ODQ5OCwtMTg0NzgxMDIzNSwxMTIyNTYz
+MzkxLDEwODE0MjMwMjMsLTM5ODYyMjQ5Myw4MzU0MjQ1MjgsLT
+c0ODE5MjMxOCwtMjMwOTY1MDY5LDE1NDg4OTkxMjEsLTE3NjA4
+MDMyMTAsMTA3MjA0NTQ0MywtMTM0NzcwNDI1NSwtMTM1NTM5OT
+cxMCwtMTM2NTk3MzIzOSwxMzEwOTk1Nzc2LDEzNzgxNzU1MTAs
+LTYyNTMxNTMwOV19
 -->
