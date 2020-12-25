@@ -1454,7 +1454,7 @@ Notamos que:
 * **PELIGRO:** El capacitive dropper puede tener $5V$ entre sus terminales pero $215V$ entre una terminal y tierra (dependiendo de la polaridad con la que lo conectes a $220v$)
 * Con el capacitor bajamos la tension a algo cercano a la tension de salida, entonces **el zener tiene que disipar poquita potencia**
 * **BARATA:** no necesita transfo, es mas barata!
-[Ejemplo](https://tinyurl.com/yd75jd6p)
+[Ejemplo](https://tinyurl.com/y86k2r4l)
 
 ![](https://i.imgur.com/7y5VSPw.png)
 ## Con transformador
@@ -1466,11 +1466,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5NjA3NTI0LDE0ODcyOTYxNTUsLTEyNj
-k4ODkwNjksODc0Mjk3MDM5LC0xMTA5NjQ4ODYzLDEwNTIzOTMy
-MzksOTA2ODA0MDg0LDE3MjM1MDkyMjAsLTg5OTIzNjQ5MywtNz
-gxNDU5MDI5LC0xOTk1Nzg0OTgsLTE4NDc4MTAyMzUsMTEyMjU2
-MzM5MSwxMDgxNDIzMDIzLC0zOTg2MjI0OTMsODM1NDI0NTI4LC
-03NDgxOTIzMTgsLTIzMDk2NTA2OSwxNTQ4ODk5MTIxLC0xNzYw
-ODAzMjEwXX0=
+eyJoaXN0b3J5IjpbNDQzMDMyNTMsMzM5NjA3NTI0LDE0ODcyOT
+YxNTUsLTEyNjk4ODkwNjksODc0Mjk3MDM5LC0xMTA5NjQ4ODYz
+LDEwNTIzOTMyMzksOTA2ODA0MDg0LDE3MjM1MDkyMjAsLTg5OT
+IzNjQ5MywtNzgxNDU5MDI5LC0xOTk1Nzg0OTgsLTE4NDc4MTAy
+MzUsMTEyMjU2MzM5MSwxMDgxNDIzMDIzLC0zOTg2MjI0OTMsOD
+M1NDI0NTI4LC03NDgxOTIzMTgsLTIzMDk2NTA2OSwxNTQ4ODk5
+MTIxXX0=
 -->
