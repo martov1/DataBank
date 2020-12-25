@@ -1266,6 +1266,7 @@ Un boton luminoso que se enciende cuando la lampara principal esta apagada
 
 
 [ejemplo](https://tinyurl.com/y958utw7)
+
 Se trata de una fuente sencilla, tiene
 * **Un rectificador** que transforma la onda AC en una onda DC
 * **Un filtro** que aplana la onda DC, que consta de
@@ -1466,11 +1467,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzMDMyNTMsMzM5NjA3NTI0LDE0ODcyOT
-YxNTUsLTEyNjk4ODkwNjksODc0Mjk3MDM5LC0xMTA5NjQ4ODYz
-LDEwNTIzOTMyMzksOTA2ODA0MDg0LDE3MjM1MDkyMjAsLTg5OT
-IzNjQ5MywtNzgxNDU5MDI5LC0xOTk1Nzg0OTgsLTE4NDc4MTAy
-MzUsMTEyMjU2MzM5MSwxMDgxNDIzMDIzLC0zOTg2MjI0OTMsOD
-M1NDI0NTI4LC03NDgxOTIzMTgsLTIzMDk2NTA2OSwxNTQ4ODk5
-MTIxXX0=
+eyJoaXN0b3J5IjpbMTY2Njg5ODU5OSw0NDMwMzI1MywzMzk2MD
+c1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OTA2OSw4NzQyOTcwMzks
+LTExMDk2NDg4NjMsMTA1MjM5MzIzOSw5MDY4MDQwODQsMTcyMz
+UwOTIyMCwtODk5MjM2NDkzLC03ODE0NTkwMjksLTE5OTU3ODQ5
+OCwtMTg0NzgxMDIzNSwxMTIyNTYzMzkxLDEwODE0MjMwMjMsLT
+M5ODYyMjQ5Myw4MzU0MjQ1MjgsLTc0ODE5MjMxOCwtMjMwOTY1
+MDY5XX0=
 -->
