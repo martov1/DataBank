@@ -1441,16 +1441,18 @@ $$R=50\Omega$$
 
 ## Con capacitive dropper
 
+[fuente](https://www.youtube.com/watch?v=-n22cqZkxNQ)
 Es la misma fuente, pero al tener que alimentarse de $220V$ para dispensar $5V$ es necesario bajar un monton el voltaje.
 
 Para eso podemos usar un **Capacitive dropper** es decir **usar la impedancia de un capacitor como resistencia**. De esta forma **es como usar una resistencia para bajar el voltaje, pero no lo perdemos en forma de calor, ya que los capacitores no disipan potencia**
 
 Notamos que:
-* **PELIGRO:**El capacitive dropper puede tener $5V$ entre sus terminales pero $215V$ entre una terminal y tierra (dependiendo de como lo conectes a $220v$)
+* **PELIGRO:** El capacitive dropper puede tener $5V$ entre sus terminales pero $215V$ entre una terminal y tierra (dependiendo de la polaridad con la que lo conectes a $220v$)
+* 
 [Ejemplo](https://tinyurl.com/y9v8a7wn)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODA4NDQxMiwtODk5MjM2NDkzLC03OD
+eyJoaXN0b3J5IjpbMTcyMzUwOTIyMCwtODk5MjM2NDkzLC03OD
 E0NTkwMjksLTE5OTU3ODQ5OCwtMTg0NzgxMDIzNSwxMTIyNTYz
 MzkxLDEwODE0MjMwMjMsLTM5ODYyMjQ5Myw4MzU0MjQ1MjgsLT
 c0ODE5MjMxOCwtMjMwOTY1MDY5LDE1NDg4OTkxMjEsLTE3NjA4
