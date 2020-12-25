@@ -1449,16 +1449,16 @@ Para eso podemos usar un **Capacitive dropper** es decir **usar la impedancia de
 Notamos que:
 * **PELIGRO:** El capacitive dropper puede tener $5V$ entre sus terminales pero $215V$ entre una terminal y tierra (dependiendo de la polaridad con la que lo conectes a $220v$)
 * Con el capacitor bajamos la tension a algo cercano a la tension de salida, entonces **el zener tiene que disipar poquita potencia**
-[Ejemplo](https://tinyurl.com/y75u7ge9)
+[Ejemplo](https://tinyurl.com/ybfpnqjy)
 
 ![](https://i.imgur.com/7y5VSPw.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2ODA0MDg0LDE3MjM1MDkyMjAsLTg5OT
-IzNjQ5MywtNzgxNDU5MDI5LC0xOTk1Nzg0OTgsLTE4NDc4MTAy
-MzUsMTEyMjU2MzM5MSwxMDgxNDIzMDIzLC0zOTg2MjI0OTMsOD
-M1NDI0NTI4LC03NDgxOTIzMTgsLTIzMDk2NTA2OSwxNTQ4ODk5
-MTIxLC0xNzYwODAzMjEwLDEwNzIwNDU0NDMsLTEzNDc3MDQyNT
-UsLTEzNTUzOTk3MTAsLTEzNjU5NzMyMzksMTMxMDk5NTc3Niwx
-Mzc4MTc1NTEwXX0=
+eyJoaXN0b3J5IjpbMTA1MjM5MzIzOSw5MDY4MDQwODQsMTcyMz
+UwOTIyMCwtODk5MjM2NDkzLC03ODE0NTkwMjksLTE5OTU3ODQ5
+OCwtMTg0NzgxMDIzNSwxMTIyNTYzMzkxLDEwODE0MjMwMjMsLT
+M5ODYyMjQ5Myw4MzU0MjQ1MjgsLTc0ODE5MjMxOCwtMjMwOTY1
+MDY5LDE1NDg4OTkxMjEsLTE3NjA4MDMyMTAsMTA3MjA0NTQ0My
+wtMTM0NzcwNDI1NSwtMTM1NTM5OTcxMCwtMTM2NTk3MzIzOSwx
+MzEwOTk1Nzc2XX0=
 -->
