@@ -1130,8 +1130,12 @@ Se trata de un circuito que
 ### Multiplicador de voltaje
 
 Funciona con varios capacitores en serie con una fuente $AC$
-
 [ejemplo](https://tinyurl.com/y8gvnexs)
+
+La gracia de este circuito es que los capacitores solo pueden descargarse en una direccion, como estan en serie primero se cargan unos y estos **bloquean el paso de la corriente de los otros dos** por lo que **ahora estos tampoco se pueden descargar**
+![](https://i.imgur.com/qiOLtLi.png)
+
+
 
 ### Duplicador y sostenedor de voltaje
 
@@ -1473,11 +1477,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5MjU5ODY5LDg3MDU4OTA5MSwzMDAxNT
-U5NzIsNDQzMDMyNTMsMzM5NjA3NTI0LDE0ODcyOTYxNTUsLTEy
-Njk4ODkwNjksODc0Mjk3MDM5LC0xMTA5NjQ4ODYzLDEwNTIzOT
-MyMzksOTA2ODA0MDg0LDE3MjM1MDkyMjAsLTg5OTIzNjQ5Mywt
-NzgxNDU5MDI5LC0xOTk1Nzg0OTgsLTE4NDc4MTAyMzUsMTEyMj
-U2MzM5MSwxMDgxNDIzMDIzLC0zOTg2MjI0OTMsODM1NDI0NTI4
-XX0=
+eyJoaXN0b3J5IjpbLTU0OTEyODMwMCw4NzA1ODkwOTEsMzAwMT
+U1OTcyLDQ0MzAzMjUzLDMzOTYwNzUyNCwxNDg3Mjk2MTU1LC0x
+MjY5ODg5MDY5LDg3NDI5NzAzOSwtMTEwOTY0ODg2MywxMDUyMz
+kzMjM5LDkwNjgwNDA4NCwxNzIzNTA5MjIwLC04OTkyMzY0OTMs
+LTc4MTQ1OTAyOSwtMTk5NTc4NDk4LC0xODQ3ODEwMjM1LDExMj
+I1NjMzOTEsMTA4MTQyMzAyMywtMzk4NjIyNDkzLDgzNTQyNDUy
+OF19
 -->
