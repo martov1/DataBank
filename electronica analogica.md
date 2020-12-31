@@ -1262,11 +1262,17 @@ R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este va
 [fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
 Un boton luminoso que se enciende cuando la lampara principal esta apagada
 ![](https://i.imgur.com/XyElslP.png =250x)
-# Transistores
+# Transistores - WIP
 
+## Bipolares PNP/NPN - WIP
+
+
+### fuente entabilizada de tension con transistor
 [Fuente de tension  estabilizada con transistor](https://tinyurl.com/y7z3hu3a)
 
 [Fuente de corriente estabilizada con transistor](https://tinyurl.com/y7c6umte)
+### Amplificadores
+
 
 [JFET](https://tinyurl.com/ybj3947f)
 # Fuentes de alimentación
@@ -1476,11 +1482,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzMTQ0NTEsLTU0OTEyODMwMCw4NzA1OD
-kwOTEsMzAwMTU1OTcyLDQ0MzAzMjUzLDMzOTYwNzUyNCwxNDg3
-Mjk2MTU1LC0xMjY5ODg5MDY5LDg3NDI5NzAzOSwtMTEwOTY0OD
-g2MywxMDUyMzkzMjM5LDkwNjgwNDA4NCwxNzIzNTA5MjIwLC04
-OTkyMzY0OTMsLTc4MTQ1OTAyOSwtMTk5NTc4NDk4LC0xODQ3OD
-EwMjM1LDExMjI1NjMzOTEsMTA4MTQyMzAyMywtMzk4NjIyNDkz
+eyJoaXN0b3J5IjpbMTQ0MTI0NDI5OSw3MjMxNDQ1MSwtNTQ5MT
+I4MzAwLDg3MDU4OTA5MSwzMDAxNTU5NzIsNDQzMDMyNTMsMzM5
+NjA3NTI0LDE0ODcyOTYxNTUsLTEyNjk4ODkwNjksODc0Mjk3MD
+M5LC0xMTA5NjQ4ODYzLDEwNTIzOTMyMzksOTA2ODA0MDg0LDE3
+MjM1MDkyMjAsLTg5OTIzNjQ5MywtNzgxNDU5MDI5LC0xOTk1Nz
+g0OTgsLTE4NDc4MTAyMzUsMTEyMjU2MzM5MSwxMDgxNDIzMDIz
 XX0=
 -->
