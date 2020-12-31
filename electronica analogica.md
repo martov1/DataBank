@@ -1279,11 +1279,11 @@ Un boton luminoso que se enciende cuando la lampara principal esta apagada
 #### Amplificador  Clase AB - WIP
 #### Amplificador  Clase C - WIP
 
-## JFET
+## MOSFET - WIP
 
 
 
-## JFET
+## JFET - WIP
 
 [ver, explicacion y circuitos comunes aca](https://www.youtube.com/watch?v=PAsQYiWP7sg&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS)
 [Ver, explicacion y circuitos comunes 2](https://www.youtube.com/watch?v=dJx0VZfW6J8&list=PLC7117B136C379C6E&index=3)
@@ -1496,7 +1496,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDk2Nzg4MSwtMTQyMzEyNjk4OCw0Nz
+eyJoaXN0b3J5IjpbLTYyNjYyNjgwMCwtMTQyMzEyNjk4OCw0Nz
 A2MTQyNDAsNzIzMTQ0NTEsLTU0OTEyODMwMCw4NzA1ODkwOTEs
 MzAwMTU1OTcyLDQ0MzAzMjUzLDMzOTYwNzUyNCwxNDg3Mjk2MT
 U1LC0xMjY5ODg5MDY5LDg3NDI5NzAzOSwtMTEwOTY0ODg2Mywx
