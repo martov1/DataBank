@@ -1278,6 +1278,11 @@ Un boton luminoso que se enciende cuando la lampara principal esta apagada
 #### Amplificador  Clase B - WIP
 #### Amplificador  Clase AB - WIP
 #### Amplificador  Clase C - WIP
+
+## JFET
+
+
+
 ## JFET
 
 [ver, explicacion y circuitos comunes aca](https://www.youtube.com/watch?v=PAsQYiWP7sg&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS)
@@ -1491,11 +1496,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMz
-E0NDUxLC01NDkxMjgzMDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0
-NDMwMzI1MywzMzk2MDc1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OT
-A2OSw4NzQyOTcwMzksLTExMDk2NDg4NjMsMTA1MjM5MzIzOSw5
-MDY4MDQwODQsMTcyMzUwOTIyMCwtODk5MjM2NDkzLC03ODE0NT
-kwMjksLTE5OTU3ODQ5OCwtMTg0NzgxMDIzNSwxMTIyNTYzMzkx
+eyJoaXN0b3J5IjpbMTQzMDk2Nzg4MSwtMTQyMzEyNjk4OCw0Nz
+A2MTQyNDAsNzIzMTQ0NTEsLTU0OTEyODMwMCw4NzA1ODkwOTEs
+MzAwMTU1OTcyLDQ0MzAzMjUzLDMzOTYwNzUyNCwxNDg3Mjk2MT
+U1LC0xMjY5ODg5MDY5LDg3NDI5NzAzOSwtMTEwOTY0ODg2Mywx
+MDUyMzkzMjM5LDkwNjgwNDA4NCwxNzIzNTA5MjIwLC04OTkyMz
+Y0OTMsLTc4MTQ1OTAyOSwtMTk5NTc4NDk4LC0xODQ3ODEwMjM1
 XX0=
 -->
