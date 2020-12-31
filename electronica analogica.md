@@ -1281,6 +1281,7 @@ Un boton luminoso que se enciende cuando la lampara principal esta apagada
 ## JFET
 
 [ver, explicacion y circuitos comunes aca](https://www.youtube.com/watch?v=PAsQYiWP7sg&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS)
+[Ver, explicacion y circuitos comunes 2](https://www.youtube.com/watch?v=dJx0VZfW6J8&list=PLC7117B136C379C6E&index=3)
 
 [ejemplo JFET](https://tinyurl.com/ybj3947f)
 # Fuentes de alimentación
@@ -1490,11 +1491,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwNjE0MjQwLDcyMzE0NDUxLC01NDkxMj
-gzMDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMzI1MywzMzk2
-MDc1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OTA2OSw4NzQyOTcwMz
-ksLTExMDk2NDg4NjMsMTA1MjM5MzIzOSw5MDY4MDQwODQsMTcy
-MzUwOTIyMCwtODk5MjM2NDkzLC03ODE0NTkwMjksLTE5OTU3OD
-Q5OCwtMTg0NzgxMDIzNSwxMTIyNTYzMzkxLDEwODE0MjMwMjNd
-fQ==
+eyJoaXN0b3J5IjpbLTE0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMz
+E0NDUxLC01NDkxMjgzMDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0
+NDMwMzI1MywzMzk2MDc1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OT
+A2OSw4NzQyOTcwMzksLTExMDk2NDg4NjMsMTA1MjM5MzIzOSw5
+MDY4MDQwODQsMTcyMzUwOTIyMCwtODk5MjM2NDkzLC03ODE0NT
+kwMjksLTE5OTU3ODQ5OCwtMTg0NzgxMDIzNSwxMTIyNTYzMzkx
+XX0=
 -->
