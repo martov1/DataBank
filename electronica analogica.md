@@ -1266,15 +1266,18 @@ Un boton luminoso que se enciende cuando la lampara principal esta apagada
 
 ## Bipolares PNP/NPN - WIP
 
-
+[USAR COMO BASE DE TODO](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
 ### fuente entabilizada de tension con transistor
 [Fuente de tension  estabilizada con transistor](https://tinyurl.com/y7z3hu3a)
 
 [Fuente de corriente estabilizada con transistor](https://tinyurl.com/y7c6umte)
 ### Circuitos comunes - WIP
+[USAR COMO BASE DE TODO](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
+#### Par Darlington
 #### Amplificador Clase A - WIP
 #### Amplificador  Clase B - WIP
-
+#### Amplificador  Clase AB - WIP
+#### Amplificador  Clase C - WIP
 ## JFET
 
 [ver, explicacion y circuitos comunes aca](https://www.youtube.com/watch?v=PAsQYiWP7sg&list=PLveP8oiH14b5FbY_Aho6lfsi37AU-L7cS)
@@ -1487,7 +1490,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MDY4NDExLDcyMzE0NDUxLC01NDkxMj
+eyJoaXN0b3J5IjpbNDcwNjE0MjQwLDcyMzE0NDUxLC01NDkxMj
 gzMDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMzI1MywzMzk2
 MDc1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OTA2OSw4NzQyOTcwMz
 ksLTExMDk2NDg4NjMsMTA1MjM5MzIzOSw5MDY4MDQwODQsMTcy
