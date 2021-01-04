@@ -1329,6 +1329,7 @@ Para esta utilidad nos interesan la **ZONA DE CORTE** y la **ZONA DE SATURACION*
 * Añadimos una **resistencia** adecuada para **limitar la corriente** que sale del microcontrolador.
 * Cuando el microcontrolador deje de enviar esa señal booleana, el **LED se apaga**.
 
+[Ejemplo](https://tinyurl.com/y49wqczv)
 ![](https://i.imgur.com/gCvDjV3.png)
 
 #### Par Darlington
@@ -1563,11 +1564,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzY3NDUzMywyODUxODA3OTQsMjc2Mz
-Q5Mjk0LDExMDM1OTYxODcsLTQwODY2ODMzNSw0MDIzNzI0NjQs
-LTE4Nzc3Mzk1NDYsLTI4OTI2MTA5OSwxMjg3NDgzMjMxLDE4Nj
-M0MDQzNDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02MjY2MjY4
-MDAsLTE0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUxLC01ND
-kxMjgzMDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMzI1M119
-
+eyJoaXN0b3J5IjpbLTIwNDg3Njg5OTEsMTM5MzY3NDUzMywyOD
+UxODA3OTQsMjc2MzQ5Mjk0LDExMDM1OTYxODcsLTQwODY2ODMz
+NSw0MDIzNzI0NjQsLTE4Nzc3Mzk1NDYsLTI4OTI2MTA5OSwxMj
+g3NDgzMjMxLDE4NjM0MDQzNDIsMTgzNjMzMTE3NiwxNjUzMzMz
+MTkzLC02MjY2MjY4MDAsLTE0MjMxMjY5ODgsNDcwNjE0MjQwLD
+cyMzE0NDUxLC01NDkxMjgzMDAsODcwNTg5MDkxLDMwMDE1NTk3
+Ml19
 -->
