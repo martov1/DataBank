@@ -1274,6 +1274,8 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 	* Determina la corriente **Colector-Emisor** proporcionalmente a  la corriente **Base-Emisor**
 	* el vinculo **Base-Emisor** es un **DIODO** y entonces tiene una **caida de tension de ** $0.7V$ 
 
+>La **utilidad del transistor BJT** radica en que **permite controlar la corriente** $I_{emisor-colector}$ **de forma proporcional a una corriente mas chica** $I_{base-emisor}$ 
+
 ![](https://i.imgur.com/f0ZDUAS.png =250x)
 ### Zonas de trabajo
 
@@ -1519,7 +1521,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzIxMDExLDEyODc0ODMyMzEsMTg2Mz
+eyJoaXN0b3J5IjpbMzA2NTk3NzMzLDEyODc0ODMyMzEsMTg2Mz
 QwNDM0MiwxODM2MzMxMTc2LDE2NTMzMzMxOTMsLTYyNjYyNjgw
 MCwtMTQyMzEyNjk4OCw0NzA2MTQyNDAsNzIzMTQ0NTEsLTU0OT
 EyODMwMCw4NzA1ODkwOTEsMzAwMTU1OTcyLDQ0MzAzMjUzLDMz
