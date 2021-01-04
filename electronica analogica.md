@@ -1272,7 +1272,6 @@ La **utilidad del transistor BJT** radica en que **permite controlar una corrien
  El factor de proporcion se llama $Hfe$ 
 
 
-
 Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:**
 * **COLECTOR:**
 	* Por aqui entra la corriente al transistor
@@ -1288,6 +1287,14 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 ### Zonas de trabajo
 
 [ejemplo](https://tinyurl.com/y3ypu423)
+
+
+
+| Corte  |   |   |   |   |
+|---|---|---|---|---|
+| $I_{b}=0$  |   |   |   |   |
+| $I_{c}=0$   |   |   |   |   |
+|   |   |   |   |   |
 Los transistores BJT tienen 3 zonas de trabajo
 * **ZONA DE CORTE:** 
 	* Las corrientes de $I_{base}$ donde **no pasa corriente** por $I_{emisor}$ 
@@ -1532,11 +1539,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyMzcyNDY0LC0xODc3NzM5NTQ2LC0yOD
-kyNjEwOTksMTI4NzQ4MzIzMSwxODYzNDA0MzQyLDE4MzYzMzEx
-NzYsMTY1MzMzMzE5MywtNjI2NjI2ODAwLC0xNDIzMTI2OTg4LD
-Q3MDYxNDI0MCw3MjMxNDQ1MSwtNTQ5MTI4MzAwLDg3MDU4OTA5
-MSwzMDAxNTU5NzIsNDQzMDMyNTMsMzM5NjA3NTI0LDE0ODcyOT
-YxNTUsLTEyNjk4ODkwNjksODc0Mjk3MDM5LC0xMTA5NjQ4ODYz
-XX0=
+eyJoaXN0b3J5IjpbMjU1MjM3MTY3LDQwMjM3MjQ2NCwtMTg3Nz
+czOTU0NiwtMjg5MjYxMDk5LDEyODc0ODMyMzEsMTg2MzQwNDM0
+MiwxODM2MzMxMTc2LDE2NTMzMzMxOTMsLTYyNjYyNjgwMCwtMT
+QyMzEyNjk4OCw0NzA2MTQyNDAsNzIzMTQ0NTEsLTU0OTEyODMw
+MCw4NzA1ODkwOTEsMzAwMTU1OTcyLDQ0MzAzMjUzLDMzOTYwNz
+UyNCwxNDg3Mjk2MTU1LC0xMjY5ODg5MDY5LDg3NDI5NzAzOV19
+
 -->
