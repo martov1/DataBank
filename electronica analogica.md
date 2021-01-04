@@ -1287,7 +1287,7 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 ### Zonas de trabajo
 
 [ejemplo](https://tinyurl.com/y3ypu423)
-
+[fuente](https://www.youtube.com/watch?v=7Q79fhvoRSs&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=2)
 ![](https://i.imgur.com/CYzJxHv.png =300x)
 
 Los transistores BJT tienen 3 zonas de trabajo
@@ -1313,14 +1313,15 @@ Los transistores BJT tienen 3 zonas de trabajo
 
 
 
-### Circuitos comunes - WIP
-[USAR COMO BASE DE TODO](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
+### Circuitos comunes y aplicaciones
+#### Interruptor digital
+[fuente](https://www.youtube.com/watch?v=kVBHdR5V7MU&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=3) 
 #### Par Darlington
 #### Amplificador Clase A - WIP
 #### Amplificador  Clase B - WIP
 #### Amplificador  Clase AB - WIP
 #### Amplificador  Clase C - WIP
-### fuente entabilizada de tension con transistor - WIP
+#### fuente entabilizada de tension con transistor - WIP
 [Fuente de tension  estabilizada con transistor](https://tinyurl.com/y7z3hu3a)
 
 [Fuente de corriente estabilizada con transistor](https://tinyurl.com/y7c6umte)
@@ -1541,7 +1542,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjY0NDY2Myw0MDIzNzI0NjQsLTE4Nz
+eyJoaXN0b3J5IjpbLTQwMTIxNTk1NCw0MDIzNzI0NjQsLTE4Nz
 c3Mzk1NDYsLTI4OTI2MTA5OSwxMjg3NDgzMjMxLDE4NjM0MDQz
 NDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02MjY2MjY4MDAsLT
 E0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUxLC01NDkxMjgz
