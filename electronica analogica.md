@@ -1288,6 +1288,8 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 
 [ejemplo](https://tinyurl.com/y3ypu423)
 
+![](https://i.imgur.com/CYzJxHv.png =300x)
+
 Los transistores BJT tienen 3 zonas de trabajo
 * **ZONA DE CORTE:** 
 	* Las corrientes de $I_{base}$ donde **no pasa corriente** por $I_{emisor}$ 
@@ -1296,17 +1298,17 @@ Los transistores BJT tienen 3 zonas de trabajo
 * **ZONA ACTIVA:**
 	* Las corrientes de $I_{base}$ donde $I_{emisor}$ es **poroporcional** a $I_{base}$
 	*  $\boxed{I_{emisor}=hfe.I_{base}}$
-	* ![](https://i.imgur.com/CYzJxHv.png =300x) 
 * **ZONA DE SATURACION:**
 	* Las corrientes de $I_{base}$ donde $I_{emisor}$ es **maxima y no puede aumentar mas**
 	*  $\boxed{I_{emisor}=I_{\text{max del transistor}}}$
 
 
+
 | Zona Corte       | Zona Activa          | Zona saturacion        |
 |------------------|----------------------|------------------------|
 | $I_{b}=0$        | $I_c=\beta.I_b$      | $I_b = I_{saturacion}$ |
-| $I_{c}=0$        | $0<V_{ce}<V_{src}$   | $0<V_{ce}<V_{src}$     |
-| $0<V_{be}<0.7$   | $V_{be}\approx 0.7V$ |                        |
+| $I_{c}=0$        | $0<V_{ce}<V_{src}$   | $V_{ce}\approx 0$     |
+| $0<V_{be}<0.7$   | $V_{be}\approx 0.7V$ |   $V_{be}>0.7V$                     |
 | circuito ABIERTO | Amplificacion        | circuito CERRADO       |
 
 ### fuente entabilizada de tension con transistor
@@ -1538,7 +1540,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3ODEwNTU3LDQwMjM3MjQ2NCwtMTg3Nz
+eyJoaXN0b3J5IjpbMTU0ODQwNjUxLDQwMjM3MjQ2NCwtMTg3Nz
 czOTU0NiwtMjg5MjYxMDk5LDEyODc0ODMyMzEsMTg2MzQwNDM0
 MiwxODM2MzMxMTc2LDE2NTMzMzMxOTMsLTYyNjYyNjgwMCwtMT
 QyMzEyNjk4OCw0NzA2MTQyNDAsNzIzMTQ0NTEsLTU0OTEyODMw
