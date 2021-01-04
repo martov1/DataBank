@@ -1316,6 +1316,10 @@ Los transistores BJT tienen 3 zonas de trabajo
 ### Circuitos comunes y aplicaciones
 #### Interruptor digital
 [fuente](https://www.youtube.com/watch?v=kVBHdR5V7MU&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=3) 
+
+El transistor BJT se usa comunmente como interruptor, para que una **corriente de control** chiquita (de un arduino por ejemplo) active una **corriente de trabajo** (grande, para un motor o una lamapara)
+
+
 #### Par Darlington
 #### Amplificador Clase A - WIP
 #### Amplificador  Clase B - WIP
@@ -1542,7 +1546,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTIxNTk1NCw0MDIzNzI0NjQsLTE4Nz
+eyJoaXN0b3J5IjpbLTQwODY2ODMzNSw0MDIzNzI0NjQsLTE4Nz
 c3Mzk1NDYsLTI4OTI2MTA5OSwxMjg3NDgzMjMxLDE4NjM0MDQz
 NDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02MjY2MjY4MDAsLT
 E0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUxLC01NDkxMjgz
