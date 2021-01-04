@@ -1269,7 +1269,7 @@ Un boton luminoso que se enciende cuando la lampara principal esta apagada
 
 La **utilidad del transistor BJT** radica en que **permite controlar una corriente de forma proporcional a otra corriente mas chica**.
 
- El factor de proporcion se llama $Hfe$ 
+ El factor de proporcion se llama $Hfe$  o tambien $\beta$
 
 
 Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:**
@@ -1290,11 +1290,11 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 
 
 
-| Corte  |   |   |   |   |
+| Zona Corte  | Zona Activa  |   |   |   |
 |---|---|---|---|---|
-| $I_{b}=0$  |   |   |   |   |
+| $I_{b}=0$  | $I_c=\beta.I_b$   |   |   |   |
 | $I_{c}=0$   |   |   |   |   |
-|   |   |   |   |   |
+| $0<V_{be}<0.7$   |   |   |   |   |
 Los transistores BJT tienen 3 zonas de trabajo
 * **ZONA DE CORTE:** 
 	* Las corrientes de $I_{base}$ donde **no pasa corriente** por $I_{emisor}$ 
@@ -1539,11 +1539,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1MjM3MTY3LDQwMjM3MjQ2NCwtMTg3Nz
-czOTU0NiwtMjg5MjYxMDk5LDEyODc0ODMyMzEsMTg2MzQwNDM0
-MiwxODM2MzMxMTc2LDE2NTMzMzMxOTMsLTYyNjYyNjgwMCwtMT
-QyMzEyNjk4OCw0NzA2MTQyNDAsNzIzMTQ0NTEsLTU0OTEyODMw
-MCw4NzA1ODkwOTEsMzAwMTU1OTcyLDQ0MzAzMjUzLDMzOTYwNz
-UyNCwxNDg3Mjk2MTU1LC0xMjY5ODg5MDY5LDg3NDI5NzAzOV19
-
+eyJoaXN0b3J5IjpbLTM0NzcyODgwOSw0MDIzNzI0NjQsLTE4Nz
+c3Mzk1NDYsLTI4OTI2MTA5OSwxMjg3NDgzMjMxLDE4NjM0MDQz
+NDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02MjY2MjY4MDAsLT
+E0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUxLC01NDkxMjgz
+MDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMzI1MywzMzk2MD
+c1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OTA2OSw4NzQyOTcwMzld
+fQ==
 -->
