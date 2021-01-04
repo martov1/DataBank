@@ -1267,7 +1267,9 @@ Un boton luminoso que se enciende cuando la lampara principal esta apagada
 ## Bipolares PNP/NPN - WIP
 [fuente](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
 
-La **utilidad del transistor BJT** radica en que **permite controlar una corriente de forma proporcional a otra corriente mas chica** 
+La **utilidad del transistor BJT** radica en que **permite controlar una corriente de forma proporcional a otra corriente mas chica**.
+
+ el factor de proporcion se llama $Hfe$
 
 
 
@@ -1292,7 +1294,7 @@ Los transistores BJT tienen 3 zonas de trabajo
 * **ZONA ACTIVA:**
 	* Las corrientes de $I_{base-emisor}$ donde $I_{emisor-colector}$ es **poroporcional** a $I_{base-emisor}$
 	*  $\boxed{I_{emisor-colector}=hfe.I_{base-emisor}}$
-	* ![](https://i.imgur.com/CYzJxHv.png =250x) 
+	* ![](https://i.imgur.com/CYzJxHv.png =300x) 
 * **ZONA DE SATURACION:**
 	* Las corrientes de $I_{base-emisor}$ donde $I_{emisor-colector}$ es **maxima y no puede aumentar mas**
 	*  $\boxed{I_{emisor-colector}=I_{\text{max del transistor}}}$
@@ -1528,11 +1530,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjU1MjQ4MzYsLTI4OTI2MTA5OSwxMj
-g3NDgzMjMxLDE4NjM0MDQzNDIsMTgzNjMzMTE3NiwxNjUzMzMz
-MTkzLC02MjY2MjY4MDAsLTE0MjMxMjY5ODgsNDcwNjE0MjQwLD
-cyMzE0NDUxLC01NDkxMjgzMDAsODcwNTg5MDkxLDMwMDE1NTk3
-Miw0NDMwMzI1MywzMzk2MDc1MjQsMTQ4NzI5NjE1NSwtMTI2OT
-g4OTA2OSw4NzQyOTcwMzksLTExMDk2NDg4NjMsMTA1MjM5MzIz
-OV19
+eyJoaXN0b3J5IjpbLTg3OTgxNTgzOCwtMjg5MjYxMDk5LDEyOD
+c0ODMyMzEsMTg2MzQwNDM0MiwxODM2MzMxMTc2LDE2NTMzMzMx
+OTMsLTYyNjYyNjgwMCwtMTQyMzEyNjk4OCw0NzA2MTQyNDAsNz
+IzMTQ0NTEsLTU0OTEyODMwMCw4NzA1ODkwOTEsMzAwMTU1OTcy
+LDQ0MzAzMjUzLDMzOTYwNzUyNCwxNDg3Mjk2MTU1LC0xMjY5OD
+g5MDY5LDg3NDI5NzAzOSwtMTEwOTY0ODg2MywxMDUyMzkzMjM5
+XX0=
 -->
