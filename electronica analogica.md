@@ -1267,6 +1267,10 @@ Un boton luminoso que se enciende cuando la lampara principal esta apagada
 ## Bipolares PNP/NPN - WIP
 [fuente](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
 
+La **utilidad del transistor BJT** radica en que **permite controlar una corriente de forma proporcional a otra corriente mas chica** 
+
+
+
 Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:**
 * **COLECTOR:**
 * **EMISOR**
@@ -1274,7 +1278,7 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 	* Determina la corriente **Colector-Emisor** proporcionalmente a  la corriente **Base-Emisor**
 	* el vinculo **Base-Emisor** es un **DIODO** y entonces tiene una **caida de tension de ** $0.7V$ 
 
->La **utilidad del transistor BJT** radica en que **permite controlar la corriente** $I_{emisor-colector}$ **de forma proporcional a una corriente mas chica** $I_{base-emisor}$ 
+
 
 ![](https://i.imgur.com/f0ZDUAS.png =250x)
 ### Zonas de trabajo
@@ -1283,6 +1287,7 @@ Los transistores BJT tienen 3 zonas de trabajo
 * **ZONA DE CORTE:** 
 	* Las corrientes de $I_{base-emisor}$ donde **no pasa corriente** por $I_{emisor-colector}$ 
 	* $\boxed{I_{emisor-colector}=0}$ 
+	* $\boxed{V_{emisor-colector}>0.7}$ 
 * **ZONA ACTIVA:**
 	* Las corrientes de $I_{base-emisor}$ donde $I_{emisor-colector}$ es **poroporcional** a $I_{base-emisor}$
 	*  $\boxed{I_{emisor-colector}=k.I_{base-emisor}}$ 
@@ -1521,11 +1526,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2NTk3NzMzLDEyODc0ODMyMzEsMTg2Mz
-QwNDM0MiwxODM2MzMxMTc2LDE2NTMzMzMxOTMsLTYyNjYyNjgw
-MCwtMTQyMzEyNjk4OCw0NzA2MTQyNDAsNzIzMTQ0NTEsLTU0OT
-EyODMwMCw4NzA1ODkwOTEsMzAwMTU1OTcyLDQ0MzAzMjUzLDMz
-OTYwNzUyNCwxNDg3Mjk2MTU1LC0xMjY5ODg5MDY5LDg3NDI5Nz
-AzOSwtMTEwOTY0ODg2MywxMDUyMzkzMjM5LDkwNjgwNDA4NF19
-
+eyJoaXN0b3J5IjpbLTY2NDUwNDQyOSwxMjg3NDgzMjMxLDE4Nj
+M0MDQzNDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02MjY2MjY4
+MDAsLTE0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUxLC01ND
+kxMjgzMDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMzI1Mywz
+Mzk2MDc1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OTA2OSw4NzQyOT
+cwMzksLTExMDk2NDg4NjMsMTA1MjM5MzIzOSw5MDY4MDQwODRd
+fQ==
 -->
