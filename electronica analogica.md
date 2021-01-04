@@ -1272,6 +1272,7 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 * **EMISOR**
 * **BASE:**
 	* Determina la corriente **Colector-Emisor** proporcionalmente a  la corriente **Base-Emisor**
+	* el vinculo **Base-Emisor** es un **DIODO** y entonces tiene una **caida de tension de ** $0.7V$ 
 
 ![](https://i.imgur.com/f0ZDUAS.png =250x)
 ### Zonas de trabajo
@@ -1518,11 +1519,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzQ4MzIzMSwxODYzNDA0MzQyLDE4Mz
-YzMzExNzYsMTY1MzMzMzE5MywtNjI2NjI2ODAwLC0xNDIzMTI2
-OTg4LDQ3MDYxNDI0MCw3MjMxNDQ1MSwtNTQ5MTI4MzAwLDg3MD
-U4OTA5MSwzMDAxNTU5NzIsNDQzMDMyNTMsMzM5NjA3NTI0LDE0
-ODcyOTYxNTUsLTEyNjk4ODkwNjksODc0Mjk3MDM5LC0xMTA5Nj
-Q4ODYzLDEwNTIzOTMyMzksOTA2ODA0MDg0LDE3MjM1MDkyMjBd
-fQ==
+eyJoaXN0b3J5IjpbLTc0NzIxMDExLDEyODc0ODMyMzEsMTg2Mz
+QwNDM0MiwxODM2MzMxMTc2LDE2NTMzMzMxOTMsLTYyNjYyNjgw
+MCwtMTQyMzEyNjk4OCw0NzA2MTQyNDAsNzIzMTQ0NTEsLTU0OT
+EyODMwMCw4NzA1ODkwOTEsMzAwMTU1OTcyLDQ0MzAzMjUzLDMz
+OTYwNzUyNCwxNDg3Mjk2MTU1LC0xMjY5ODg5MDY5LDg3NDI5Nz
+AzOSwtMTEwOTY0ODg2MywxMDUyMzkzMjM5LDkwNjgwNDA4NF19
+
 -->
