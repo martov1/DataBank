@@ -1324,10 +1324,11 @@ El transistor BJT se usa comunmente como **interruptor**, para que una **corrien
 Para esta utilidad nos interesan la **ZONA DE CORTE** y la **ZONA DE SATURACION**. 
 
 **Por ejemplo:**
-*  un microcontrolador manda una tension de $5v$ pero solo puede emitir una corriente max de $1ma$, con un **transistor** enviamos $5v$ de la fuente para prender un LED.
-* Añadimos una resistencia adecuada para limitar la corriente que sale del microcontrolador.
-* Cuando el microcontrolador deje de enviar esa señal booleana, el LED se apaga.
-* 
+*  Un microcontrolador manda una tension de $5v$ pero solo puede emitir una **corriente max** de $1ma$
+	* Con un **transistor** enviamos $5v$ de la fuente para prender un LED con $100ma$
+* Añadimos una **resistencia** adecuada para **limitar la corriente** que sale del microcontrolador.
+* Cuando el microcontrolador deje de enviar esa señal booleana, el **LED se apaga**.
+
 ![](https://i.imgur.com/gCvDjV3.png)
 
 #### Par Darlington
@@ -1562,7 +1563,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDg5NzgxNCwyODUxODA3OTQsMjc2Mz
+eyJoaXN0b3J5IjpbMTM5MzY3NDUzMywyODUxODA3OTQsMjc2Mz
 Q5Mjk0LDExMDM1OTYxODcsLTQwODY2ODMzNSw0MDIzNzI0NjQs
 LTE4Nzc3Mzk1NDYsLTI4OTI2MTA5OSwxMjg3NDgzMjMxLDE4Nj
 M0MDQzNDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02MjY2MjY4
