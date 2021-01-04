@@ -1270,6 +1270,8 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 * **COLECTOR:**
 * **EMISOR**
 * **BASE:**
+	* Determina la corriente **Colector-Emisor** proporcionalmente a  la corriente **Base-Emisor**
+
 ![](https://i.imgur.com/f0ZDUAS.png =250x)
 
 [USAR COMO BASE DE TODO](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
@@ -1502,11 +1504,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE0MzEzOTEsMTY1MzMzMzE5MywtNj
-I2NjI2ODAwLC0xNDIzMTI2OTg4LDQ3MDYxNDI0MCw3MjMxNDQ1
-MSwtNTQ5MTI4MzAwLDg3MDU4OTA5MSwzMDAxNTU5NzIsNDQzMD
-MyNTMsMzM5NjA3NTI0LDE0ODcyOTYxNTUsLTEyNjk4ODkwNjks
-ODc0Mjk3MDM5LC0xMTA5NjQ4ODYzLDEwNTIzOTMyMzksOTA2OD
-A0MDg0LDE3MjM1MDkyMjAsLTg5OTIzNjQ5MywtNzgxNDU5MDI5
-XX0=
+eyJoaXN0b3J5IjpbMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02Mj
+Y2MjY4MDAsLTE0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUx
+LC01NDkxMjgzMDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMz
+I1MywzMzk2MDc1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OTA2OSw4
+NzQyOTcwMzksLTExMDk2NDg4NjMsMTA1MjM5MzIzOSw5MDY4MD
+QwODQsMTcyMzUwOTIyMCwtODk5MjM2NDkzLC03ODE0NTkwMjld
+fQ==
 -->
