@@ -1300,7 +1300,7 @@ Los transistores BJT tienen 3 zonas de trabajo
 	*  $\boxed{I_{emisor}=hfe.I_{base}}$
 * **ZONA DE SATURACION:**
 	* Las corrientes de $I_{base}$ donde $I_{emisor}$ es **maxima y no puede aumentar mas**
-	*  $\boxed{I_{emisor}=I_{\text{max del transistor}}}$
+	*  $\boxed{I_{emisor}=I_{\text{saturacion}}}$
 
 
 
@@ -1311,10 +1311,8 @@ Los transistores BJT tienen 3 zonas de trabajo
 | $0<V_{be}<0.7$   | $V_{be}\approx 0.7V$ |   $V_{be}>0.7V$                     |
 | circuito ABIERTO | Amplificacion        | circuito CERRADO       |
 
-### fuente entabilizada de tension con transistor
-[Fuente de tension  estabilizada con transistor](https://tinyurl.com/y7z3hu3a)
 
-[Fuente de corriente estabilizada con transistor](https://tinyurl.com/y7c6umte)
+
 ### Circuitos comunes - WIP
 [USAR COMO BASE DE TODO](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
 #### Par Darlington
@@ -1322,7 +1320,10 @@ Los transistores BJT tienen 3 zonas de trabajo
 #### Amplificador  Clase B - WIP
 #### Amplificador  Clase AB - WIP
 #### Amplificador  Clase C - WIP
+### fuente entabilizada de tension con transistor - WIP
+[Fuente de tension  estabilizada con transistor](https://tinyurl.com/y7z3hu3a)
 
+[Fuente de corriente estabilizada con transistor](https://tinyurl.com/y7c6umte)
 ## MOSFET - WIP
 
 
@@ -1540,11 +1541,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODQwNjUxLDQwMjM3MjQ2NCwtMTg3Nz
-czOTU0NiwtMjg5MjYxMDk5LDEyODc0ODMyMzEsMTg2MzQwNDM0
-MiwxODM2MzMxMTc2LDE2NTMzMzMxOTMsLTYyNjYyNjgwMCwtMT
-QyMzEyNjk4OCw0NzA2MTQyNDAsNzIzMTQ0NTEsLTU0OTEyODMw
-MCw4NzA1ODkwOTEsMzAwMTU1OTcyLDQ0MzAzMjUzLDMzOTYwNz
-UyNCwxNDg3Mjk2MTU1LC0xMjY5ODg5MDY5LDg3NDI5NzAzOV19
-
+eyJoaXN0b3J5IjpbLTM5NjY0NDY2Myw0MDIzNzI0NjQsLTE4Nz
+c3Mzk1NDYsLTI4OTI2MTA5OSwxMjg3NDgzMjMxLDE4NjM0MDQz
+NDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02MjY2MjY4MDAsLT
+E0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUxLC01NDkxMjgz
+MDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMzI1MywzMzk2MD
+c1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OTA2OSw4NzQyOTcwMzld
+fQ==
 -->
