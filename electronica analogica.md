@@ -1317,7 +1317,9 @@ Los transistores BJT tienen 3 zonas de trabajo
 #### Interruptor digital
 [fuente](https://www.youtube.com/watch?v=kVBHdR5V7MU&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=3) 
 
-El transistor BJT se usa comunmente como interruptor, para que una **corriente de control** chiquita (de un arduino por ejemplo) active una **corriente de trabajo** (grande, para un motor o una lamapara)
+El transistor BJT se usa comunmente como interruptor, para que una **corriente de control** chiquita (de un arduino por ejemplo) active una **corriente de trabajo** (grande, para un motor o una lamapara).
+
+Para esta utilidad nos interesan la **ZONA DE CORTE** y la **ZONA DE SATURACION**
 
 
 #### Par Darlington
@@ -1552,11 +1554,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzU5NjE4NywtNDA4NjY4MzM1LDQwMj
-M3MjQ2NCwtMTg3NzczOTU0NiwtMjg5MjYxMDk5LDEyODc0ODMy
-MzEsMTg2MzQwNDM0MiwxODM2MzMxMTc2LDE2NTMzMzMxOTMsLT
-YyNjYyNjgwMCwtMTQyMzEyNjk4OCw0NzA2MTQyNDAsNzIzMTQ0
-NTEsLTU0OTEyODMwMCw4NzA1ODkwOTEsMzAwMTU1OTcyLDQ0Mz
-AzMjUzLDMzOTYwNzUyNCwxNDg3Mjk2MTU1LC0xMjY5ODg5MDY5
-XX0=
+eyJoaXN0b3J5IjpbMjc2MzQ5Mjk0LDExMDM1OTYxODcsLTQwOD
+Y2ODMzNSw0MDIzNzI0NjQsLTE4Nzc3Mzk1NDYsLTI4OTI2MTA5
+OSwxMjg3NDgzMjMxLDE4NjM0MDQzNDIsMTgzNjMzMTE3NiwxNj
+UzMzMzMTkzLC02MjY2MjY4MDAsLTE0MjMxMjY5ODgsNDcwNjE0
+MjQwLDcyMzE0NDUxLC01NDkxMjgzMDAsODcwNTg5MDkxLDMwMD
+E1NTk3Miw0NDMwMzI1MywzMzk2MDc1MjQsMTQ4NzI5NjE1NV19
+
 -->
