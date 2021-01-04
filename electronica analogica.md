@@ -1275,10 +1275,12 @@ La **utilidad del transistor BJT** radica en que **permite controlar una corrien
 
 Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:**
 * **COLECTOR:**
+	* Por aqui entra la corriente al transistor
 * **EMISOR**
+	* Por aca **sale la corriente del transistor**, de forma **proporcional** a la corriente de la base
 * **BASE:**
 	* Determina la corriente **Colector-Emisor** proporcionalmente a  la corriente **Base-Emisor**
-	* el vinculo **Base-Emisor** es un **DIODO** y entonces tiene una **caida de tension de ** $0.7V$ 
+	* el vinculo **Base-Emisor** es un **DIODO** y entonces tiene una **caida de tension de** $0.7V$ 
 
 
 
@@ -1293,11 +1295,11 @@ Los transistores BJT tienen 3 zonas de trabajo
 	* $\boxed{V_{emisor-colector}<0.7}$ 
 * **ZONA ACTIVA:**
 	* Las corrientes de $I_{base}$ donde $I_{emisor}$ es **poroporcional** a $I_{base}$
-	*  $\boxed{I_{emisor-colector}=hfe.I_{base-emisor}}$
+	*  $\boxed{I_{emisor}=hfe.I_{base}}$
 	* ![](https://i.imgur.com/CYzJxHv.png =300x) 
 * **ZONA DE SATURACION:**
-	* Las corrientes de $I_{base-emisor}$ donde $I_{emisor-colector}$ es **maxima y no puede aumentar mas**
-	*  $\boxed{I_{emisor-colector}=I_{\text{max del transistor}}}$
+	* Las corrientes de $I_{base}$ donde $I_{emisor}$ es **maxima y no puede aumentar mas**
+	*  $\boxed{I_{emisor}=I_{\text{max del transistor}}}$
 
 
 
@@ -1530,7 +1532,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwMzU5Nzk2LC0xODc3NzM5NTQ2LC0yOD
+eyJoaXN0b3J5IjpbNDAyMzcyNDY0LC0xODc3NzM5NTQ2LC0yOD
 kyNjEwOTksMTI4NzQ4MzIzMSwxODYzNDA0MzQyLDE4MzYzMzEx
 NzYsMTY1MzMzMzE5MywtNjI2NjI2ODAwLC0xNDIzMTI2OTg4LD
 Q3MDYxNDI0MCw3MjMxNDQ1MSwtNTQ5MTI4MzAwLDg3MDU4OTA5
