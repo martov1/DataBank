@@ -1266,7 +1266,7 @@ Un boton luminoso que se enciende cuando la lampara principal esta apagada
 
 ## Bipolares PNP/NPN - WIP
 
-Es uno de los tipos de transist
+Es uno de los tipos de transistores mas comunes y mas basicos
 
 [USAR COMO BASE DE TODO](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
 ### fuente entabilizada de tension con transistor
@@ -1498,7 +1498,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjI0NjQ1NywtNjI2NjI2ODAwLC0xND
+eyJoaXN0b3J5IjpbMTY1MzMzMzE5MywtNjI2NjI2ODAwLC0xND
 IzMTI2OTg4LDQ3MDYxNDI0MCw3MjMxNDQ1MSwtNTQ5MTI4MzAw
 LDg3MDU4OTA5MSwzMDAxNTU5NzIsNDQzMDMyNTMsMzM5NjA3NT
 I0LDE0ODcyOTYxNTUsLTEyNjk4ODkwNjksODc0Mjk3MDM5LC0x
