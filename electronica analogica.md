@@ -1287,7 +1287,7 @@ Los transistores BJT tienen 3 zonas de trabajo
 * **ZONA DE CORTE:** 
 	* Las corrientes de $I_{base-emisor}$ donde **no pasa corriente** por $I_{emisor-colector}$ 
 	* $\boxed{I_{emisor-colector}=0}$ 
-	* $\boxed{V_{emisor-colector}>0.7}$ 
+	* $\boxed{V_{emisor-colector}<0.7}$ 
 * **ZONA ACTIVA:**
 	* Las corrientes de $I_{base-emisor}$ donde $I_{emisor-colector}$ es **poroporcional** a $I_{base-emisor}$
 	*  $\boxed{I_{emisor-colector}=k.I_{base-emisor}}$ 
@@ -1526,7 +1526,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDUwNDQyOSwxMjg3NDgzMjMxLDE4Nj
+eyJoaXN0b3J5IjpbLTI4OTI2MTA5OSwxMjg3NDgzMjMxLDE4Nj
 M0MDQzNDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02MjY2MjY4
 MDAsLTE0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUxLC01ND
 kxMjgzMDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMzI1Mywz
