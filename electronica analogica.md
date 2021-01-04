@@ -1339,6 +1339,12 @@ El transistor BJT se usa comunmente como interruptor, para que una **corriente d
 [Ver, explicacion y circuitos comunes 2](https://www.youtube.com/watch?v=dJx0VZfW6J8&list=PLC7117B136C379C6E&index=3)
 
 [ejemplo JFET](https://tinyurl.com/ybj3947f)
+
+
+# Amplificadores - WIP
+
+[ver](https://www.youtube.com/watch?v=vE_bQivEVuE&list=PLuzS0jdNRVvocxP2rQjT0EL0mqcoB1JLV)
+
 # Fuentes de alimentación
 
 ## Simple estabilizada con zener
@@ -1546,11 +1552,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODY2ODMzNSw0MDIzNzI0NjQsLTE4Nz
-c3Mzk1NDYsLTI4OTI2MTA5OSwxMjg3NDgzMjMxLDE4NjM0MDQz
-NDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02MjY2MjY4MDAsLT
-E0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUxLC01NDkxMjgz
-MDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMzI1MywzMzk2MD
-c1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OTA2OSw4NzQyOTcwMzld
-fQ==
+eyJoaXN0b3J5IjpbMTEwMzU5NjE4NywtNDA4NjY4MzM1LDQwMj
+M3MjQ2NCwtMTg3NzczOTU0NiwtMjg5MjYxMDk5LDEyODc0ODMy
+MzEsMTg2MzQwNDM0MiwxODM2MzMxMTc2LDE2NTMzMzMxOTMsLT
+YyNjYyNjgwMCwtMTQyMzEyNjk4OCw0NzA2MTQyNDAsNzIzMTQ0
+NTEsLTU0OTEyODMwMCw4NzA1ODkwOTEsMzAwMTU1OTcyLDQ0Mz
+AzMjUzLDMzOTYwNzUyNCwxNDg3Mjk2MTU1LC0xMjY5ODg5MDY5
+XX0=
 -->
