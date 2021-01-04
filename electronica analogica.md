@@ -1282,10 +1282,10 @@ Los transistores BJT tienen 3 zonas de trabajo
 	* $\boxed{I_{emisor-colector}=0}$ 
 * **ZONA ACTIVA:**
 	* Las corrientes de $I_{base-emisor}$ donde $I_{emisor-colector}$ es **poroporcional** a $I_{base-emisor}$
-	*  $\bpxed{I_{emisor-colector}=k.I_{base-emisor}}$ 
+	*  $\boxed{I_{emisor-colector}=k.I_{base-emisor}}$ 
 * **ZONA DE SATURACION:**
 	* Las corrientes de $I_{base-emisor}$ donde $I_{emisor-colector}$ es **maxima y no puede aumentar mas**
-	*  $I_{emisor-colector}=I_{\text{max del transistor}}$
+	*  $\boxed{I_{emisor-colector}=I_{\text{max del transistor}}}$
 
 
 
@@ -1518,7 +1518,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Mzg0OTg4OCwxODYzNDA0MzQyLDE4Mz
+eyJoaXN0b3J5IjpbMTI4NzQ4MzIzMSwxODYzNDA0MzQyLDE4Mz
 YzMzExNzYsMTY1MzMzMzE5MywtNjI2NjI2ODAwLC0xNDIzMTI2
 OTg4LDQ3MDYxNDI0MCw3MjMxNDQ1MSwtNTQ5MTI4MzAwLDg3MD
 U4OTA5MSwzMDAxNTU5NzIsNDQzMDMyNTMsMzM5NjA3NTI0LDE0
