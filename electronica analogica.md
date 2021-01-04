@@ -1331,8 +1331,8 @@ Para esta utilidad nos interesan la **ZONA DE CORTE** y la **ZONA DE SATURACION*
 
 [Ejemplo](https://tinyurl.com/y49wqczv)
 ![](https://i.imgur.com/gCvDjV3.png)
-
-#### Par Darlington
+#### Interruptor digital - Alta potencia - WIP
+#### Par Darlington - WIP
 #### Amplificador Clase A - WIP
 #### Amplificador  Clase B - WIP
 #### Amplificador  Clase AB - WIP
@@ -1564,11 +1564,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg3Njg5OTEsMTM5MzY3NDUzMywyOD
-UxODA3OTQsMjc2MzQ5Mjk0LDExMDM1OTYxODcsLTQwODY2ODMz
-NSw0MDIzNzI0NjQsLTE4Nzc3Mzk1NDYsLTI4OTI2MTA5OSwxMj
-g3NDgzMjMxLDE4NjM0MDQzNDIsMTgzNjMzMTE3NiwxNjUzMzMz
-MTkzLC02MjY2MjY4MDAsLTE0MjMxMjY5ODgsNDcwNjE0MjQwLD
-cyMzE0NDUxLC01NDkxMjgzMDAsODcwNTg5MDkxLDMwMDE1NTk3
-Ml19
+eyJoaXN0b3J5IjpbLTQzOTQzNjMzNSwtMjA0ODc2ODk5MSwxMz
+kzNjc0NTMzLDI4NTE4MDc5NCwyNzYzNDkyOTQsMTEwMzU5NjE4
+NywtNDA4NjY4MzM1LDQwMjM3MjQ2NCwtMTg3NzczOTU0NiwtMj
+g5MjYxMDk5LDEyODc0ODMyMzEsMTg2MzQwNDM0MiwxODM2MzMx
+MTc2LDE2NTMzMzMxOTMsLTYyNjYyNjgwMCwtMTQyMzEyNjk4OC
+w0NzA2MTQyNDAsNzIzMTQ0NTEsLTU0OTEyODMwMCw4NzA1ODkw
+OTFdfQ==
 -->
