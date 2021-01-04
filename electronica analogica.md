@@ -1334,6 +1334,7 @@ Para esta utilidad nos interesan la **ZONA DE CORTE** y la **ZONA DE SATURACION*
 #### Interruptor digital - Alta potencia - WIP
 #### Voltage-divider biasing
 https://tinyurl.com/y3gcgt2m
+https://www.youtube.com/watch?v=IkabRft5Sdk
 #### Par Darlington - WIP
 #### Amplificador Clase A - WIP
 #### Amplificador  Clase B - WIP
@@ -1566,11 +1567,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzI0NDU3OCwtMjA0ODc2ODk5MSwxMz
-kzNjc0NTMzLDI4NTE4MDc5NCwyNzYzNDkyOTQsMTEwMzU5NjE4
-NywtNDA4NjY4MzM1LDQwMjM3MjQ2NCwtMTg3NzczOTU0NiwtMj
-g5MjYxMDk5LDEyODc0ODMyMzEsMTg2MzQwNDM0MiwxODM2MzMx
-MTc2LDE2NTMzMzMxOTMsLTYyNjYyNjgwMCwtMTQyMzEyNjk4OC
-w0NzA2MTQyNDAsNzIzMTQ0NTEsLTU0OTEyODMwMCw4NzA1ODkw
-OTFdfQ==
+eyJoaXN0b3J5IjpbNDI2NTEyODU0LC0yMDQ4NzY4OTkxLDEzOT
+M2NzQ1MzMsMjg1MTgwNzk0LDI3NjM0OTI5NCwxMTAzNTk2MTg3
+LC00MDg2NjgzMzUsNDAyMzcyNDY0LC0xODc3NzM5NTQ2LC0yOD
+kyNjEwOTksMTI4NzQ4MzIzMSwxODYzNDA0MzQyLDE4MzYzMzEx
+NzYsMTY1MzMzMzE5MywtNjI2NjI2ODAwLC0xNDIzMTI2OTg4LD
+Q3MDYxNDI0MCw3MjMxNDQ1MSwtNTQ5MTI4MzAwLDg3MDU4OTA5
+MV19
 -->
