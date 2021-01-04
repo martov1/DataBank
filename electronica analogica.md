@@ -1319,8 +1319,10 @@ Los transistores BJT tienen 3 zonas de trabajo
 
 El transistor BJT se usa comunmente como interruptor, para que una **corriente de control** chiquita (de un arduino por ejemplo) active una **corriente de trabajo** (grande, para un motor o una lamapara).
 
-Para esta utilidad nos interesan la **ZONA DE CORTE** y la **ZONA DE SATURACION**
+Para esta utilidad nos interesan la **ZONA DE CORTE** y la **ZONA DE SATURACION**. 
 
+Un microcontrolador por ejemplo manda $5v$ o dejamos de mandar la corriente de saturacion en la base del transistor $I_b$ para que pase **o toda o nada de la corriente** $I_e$
+![](https://i.imgur.com/gCvDjV3.png)
 
 #### Par Darlington
 #### Amplificador Clase A - WIP
@@ -1554,11 +1556,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1MTgwNzk0LDI3NjM0OTI5NCwxMTAzNT
-k2MTg3LC00MDg2NjgzMzUsNDAyMzcyNDY0LC0xODc3NzM5NTQ2
-LC0yODkyNjEwOTksMTI4NzQ4MzIzMSwxODYzNDA0MzQyLDE4Mz
-YzMzExNzYsMTY1MzMzMzE5MywtNjI2NjI2ODAwLC0xNDIzMTI2
-OTg4LDQ3MDYxNDI0MCw3MjMxNDQ1MSwtNTQ5MTI4MzAwLDg3MD
-U4OTA5MSwzMDAxNTU5NzIsNDQzMDMyNTMsMzM5NjA3NTI0XX0=
+eyJoaXN0b3J5IjpbLTc2MjE2MTIxMiwyODUxODA3OTQsMjc2Mz
+Q5Mjk0LDExMDM1OTYxODcsLTQwODY2ODMzNSw0MDIzNzI0NjQs
+LTE4Nzc3Mzk1NDYsLTI4OTI2MTA5OSwxMjg3NDgzMjMxLDE4Nj
+M0MDQzNDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02MjY2MjY4
+MDAsLTE0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUxLC01ND
+kxMjgzMDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMzI1M119
 
 -->
