@@ -1290,12 +1290,12 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 
 
 
-| Zona Corte  | Zona Activa  |  Zona saturacion|     
-|---|---|---|---|---|
-| $I_{b}=0$  | $I_c=\beta.I_b$   |   |      
-| $I_{c}=0$   |  $0<V_{ce}<V_{src}$ |   |   
-| $0<V_{be}<0.7$   | $V_{be}\approx 0.7V$  |   |     
-| circuito ABIERTO   | Amplificacion  |   |   |   
+| Zona Corte       | Zona Activa          | Zona saturacion |
+|------------------|----------------------|-----------------|
+| $I_{b}=0$        | $I_c=\beta.I_b$      | $I_b = I_{saturacion}$  |
+| $I_{c}=0$        | $0<V_{ce}<V_{src}$   |                 |
+| $0<V_{be}<0.7$   | $V_{be}\approx 0.7V$ |                 |
+| circuito ABIERTO | Amplificacion        | circuito CERRADO   |  
 Los transistores BJT tienen 3 zonas de trabajo
 * **ZONA DE CORTE:** 
 	* Las corrientes de $I_{base}$ donde **no pasa corriente** por $I_{emisor}$ 
@@ -1540,11 +1540,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODgxMzQ2NCw0MDIzNzI0NjQsLTE4Nz
-c3Mzk1NDYsLTI4OTI2MTA5OSwxMjg3NDgzMjMxLDE4NjM0MDQz
-NDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02MjY2MjY4MDAsLT
-E0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUxLC01NDkxMjgz
-MDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMzI1MywzMzk2MD
-c1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OTA2OSw4NzQyOTcwMzld
-fQ==
+eyJoaXN0b3J5IjpbODMwMDI4NzIsNDAyMzcyNDY0LC0xODc3Nz
+M5NTQ2LC0yODkyNjEwOTksMTI4NzQ4MzIzMSwxODYzNDA0MzQy
+LDE4MzYzMzExNzYsMTY1MzMzMzE5MywtNjI2NjI2ODAwLC0xND
+IzMTI2OTg4LDQ3MDYxNDI0MCw3MjMxNDQ1MSwtNTQ5MTI4MzAw
+LDg3MDU4OTA5MSwzMDAxNTU5NzIsNDQzMDMyNTMsMzM5NjA3NT
+I0LDE0ODcyOTYxNTUsLTEyNjk4ODkwNjksODc0Mjk3MDM5XX0=
+
 -->
