@@ -1276,6 +1276,14 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 ![](https://i.imgur.com/f0ZDUAS.png =250x)
 ### Zonas de trabajo
 
+Los transistores BJT tienen 3 zonas de trabajo
+* **ZONA DE CORTE** 
+	* Los voltajes donde 
+* **ZONA ACTIVA**
+* **ZONA DE SATURACION**
+
+
+
 ### fuente entabilizada de tension con transistor
 [Fuente de tension  estabilizada con transistor](https://tinyurl.com/y7z3hu3a)
 
@@ -1505,11 +1513,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzQwNDM0MiwxODM2MzMxMTc2LDE2NT
-MzMzMxOTMsLTYyNjYyNjgwMCwtMTQyMzEyNjk4OCw0NzA2MTQy
-NDAsNzIzMTQ0NTEsLTU0OTEyODMwMCw4NzA1ODkwOTEsMzAwMT
-U1OTcyLDQ0MzAzMjUzLDMzOTYwNzUyNCwxNDg3Mjk2MTU1LC0x
-MjY5ODg5MDY5LDg3NDI5NzAzOSwtMTEwOTY0ODg2MywxMDUyMz
-kzMjM5LDkwNjgwNDA4NCwxNzIzNTA5MjIwLC04OTkyMzY0OTNd
+eyJoaXN0b3J5IjpbLTUzNTk3Njg3NiwxODYzNDA0MzQyLDE4Mz
+YzMzExNzYsMTY1MzMzMzE5MywtNjI2NjI2ODAwLC0xNDIzMTI2
+OTg4LDQ3MDYxNDI0MCw3MjMxNDQ1MSwtNTQ5MTI4MzAwLDg3MD
+U4OTA5MSwzMDAxNTU5NzIsNDQzMDMyNTMsMzM5NjA3NTI0LDE0
+ODcyOTYxNTUsLTEyNjk4ODkwNjksODc0Mjk3MDM5LC0xMTA5Nj
+Q4ODYzLDEwNTIzOTMyMzksOTA2ODA0MDg0LDE3MjM1MDkyMjBd
 fQ==
 -->
