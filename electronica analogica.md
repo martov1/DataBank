@@ -1265,6 +1265,7 @@ Un boton luminoso que se enciende cuando la lampara principal esta apagada
 # Transistores - WIP
 
 ## Bipolares PNP/NPN - WIP
+[fuente](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
 
 Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:**
 * **COLECTOR:**
@@ -1273,8 +1274,8 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 	* Determina la corriente **Colector-Emisor** proporcionalmente a  la corriente **Base-Emisor**
 
 ![](https://i.imgur.com/f0ZDUAS.png =250x)
+### Zonas de trabajo
 
-[USAR COMO BASE DE TODO](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
 ### fuente entabilizada de tension con transistor
 [Fuente de tension  estabilizada con transistor](https://tinyurl.com/y7z3hu3a)
 
@@ -1504,11 +1505,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02Mj
-Y2MjY4MDAsLTE0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUx
-LC01NDkxMjgzMDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMz
-I1MywzMzk2MDc1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OTA2OSw4
-NzQyOTcwMzksLTExMDk2NDg4NjMsMTA1MjM5MzIzOSw5MDY4MD
-QwODQsMTcyMzUwOTIyMCwtODk5MjM2NDkzLC03ODE0NTkwMjld
+eyJoaXN0b3J5IjpbMTg2MzQwNDM0MiwxODM2MzMxMTc2LDE2NT
+MzMzMxOTMsLTYyNjYyNjgwMCwtMTQyMzEyNjk4OCw0NzA2MTQy
+NDAsNzIzMTQ0NTEsLTU0OTEyODMwMCw4NzA1ODkwOTEsMzAwMT
+U1OTcyLDQ0MzAzMjUzLDMzOTYwNzUyNCwxNDg3Mjk2MTU1LC0x
+MjY5ODg5MDY5LDg3NDI5NzAzOSwtMTEwOTY0ODg2MywxMDUyMz
+kzMjM5LDkwNjgwNDA4NCwxNzIzNTA5MjIwLC04OTkyMzY0OTNd
 fQ==
 -->
