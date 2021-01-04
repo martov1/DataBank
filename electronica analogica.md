@@ -1266,6 +1266,8 @@ Un boton luminoso que se enciende cuando la lampara principal esta apagada
 
 ## Bipolares PNP/NPN - WIP
 
+Es uno de los tipos de transist
+
 [USAR COMO BASE DE TODO](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
 ### fuente entabilizada de tension con transistor
 [Fuente de tension  estabilizada con transistor](https://tinyurl.com/y7z3hu3a)
@@ -1496,11 +1498,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjYyNjgwMCwtMTQyMzEyNjk4OCw0Nz
-A2MTQyNDAsNzIzMTQ0NTEsLTU0OTEyODMwMCw4NzA1ODkwOTEs
-MzAwMTU1OTcyLDQ0MzAzMjUzLDMzOTYwNzUyNCwxNDg3Mjk2MT
-U1LC0xMjY5ODg5MDY5LDg3NDI5NzAzOSwtMTEwOTY0ODg2Mywx
-MDUyMzkzMjM5LDkwNjgwNDA4NCwxNzIzNTA5MjIwLC04OTkyMz
-Y0OTMsLTc4MTQ1OTAyOSwtMTk5NTc4NDk4LC0xODQ3ODEwMjM1
-XX0=
+eyJoaXN0b3J5IjpbLTg4MjI0NjQ1NywtNjI2NjI2ODAwLC0xND
+IzMTI2OTg4LDQ3MDYxNDI0MCw3MjMxNDQ1MSwtNTQ5MTI4MzAw
+LDg3MDU4OTA5MSwzMDAxNTU5NzIsNDQzMDMyNTMsMzM5NjA3NT
+I0LDE0ODcyOTYxNTUsLTEyNjk4ODkwNjksODc0Mjk3MDM5LC0x
+MTA5NjQ4ODYzLDEwNTIzOTMyMzksOTA2ODA0MDg0LDE3MjM1MD
+kyMjAsLTg5OTIzNjQ5MywtNzgxNDU5MDI5LC0xOTk1Nzg0OThd
+fQ==
 -->
