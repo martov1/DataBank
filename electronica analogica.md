@@ -1283,6 +1283,7 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 ![](https://i.imgur.com/f0ZDUAS.png =250x)
 ### Zonas de trabajo
 
+[ejemplo](https://tinyurl.com/y67rc4vd)
 Los transistores BJT tienen 3 zonas de trabajo
 * **ZONA DE CORTE:** 
 	* Las corrientes de $I_{base-emisor}$ donde **no pasa corriente** por $I_{emisor-colector}$ 
@@ -1526,11 +1527,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTI2MTA5OSwxMjg3NDgzMjMxLDE4Nj
-M0MDQzNDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02MjY2MjY4
-MDAsLTE0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUxLC01ND
-kxMjgzMDAsODcwNTg5MDkxLDMwMDE1NTk3Miw0NDMwMzI1Mywz
-Mzk2MDc1MjQsMTQ4NzI5NjE1NSwtMTI2OTg4OTA2OSw4NzQyOT
-cwMzksLTExMDk2NDg4NjMsMTA1MjM5MzIzOSw5MDY4MDQwODRd
-fQ==
+eyJoaXN0b3J5IjpbLTIxMzE3ODYxNDUsLTI4OTI2MTA5OSwxMj
+g3NDgzMjMxLDE4NjM0MDQzNDIsMTgzNjMzMTE3NiwxNjUzMzMz
+MTkzLC02MjY2MjY4MDAsLTE0MjMxMjY5ODgsNDcwNjE0MjQwLD
+cyMzE0NDUxLC01NDkxMjgzMDAsODcwNTg5MDkxLDMwMDE1NTk3
+Miw0NDMwMzI1MywzMzk2MDc1MjQsMTQ4NzI5NjE1NSwtMTI2OT
+g4OTA2OSw4NzQyOTcwMzksLTExMDk2NDg4NjMsMTA1MjM5MzIz
+OV19
 -->
