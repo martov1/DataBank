@@ -1385,6 +1385,7 @@ Se trata de dos transistores BJT en serie
 * **Muchas veces se vende hecho**
 	* Con resistencias para rapidez de conmutacion
 	* Con diodo de proteccion para control de motores DC
+	* ![](https://i.imgur.com/m74hL9Q.png =200x)
 
 
 
@@ -1627,11 +1628,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODcwNjQwNjEsMTk3MzM2OTMwMCwzND
-c0NzAzMTUsMTQ0MzE3MjU4NywtMTE4NDM5MjAyLC0zMzM3MzEw
-NDQsMTExOTc1NjAxOSwtMTU3ODQzNzQ1MSwtMTc3MjE5MTk1My
-wtMzEyODI2NTQwLC0xMTI0MTUzOTQsLTE1MzUyODk3NTEsLTE5
-MjU4MzMyNSwtMTYwMDM4MzE1Myw3Mzg3ODkzODMsLTY2OTE0Mz
-I3NywtMTY1MDU1MDkzMCwtNTI1NjM1ODQ0LDIwMzE2NDc3NTUs
-LTU2OTIyMTY4MV19
+eyJoaXN0b3J5IjpbMTQxMjI5NzI1LDE5NzMzNjkzMDAsMzQ3ND
+cwMzE1LDE0NDMxNzI1ODcsLTExODQzOTIwMiwtMzMzNzMxMDQ0
+LDExMTk3NTYwMTksLTE1Nzg0Mzc0NTEsLTE3NzIxOTE5NTMsLT
+MxMjgyNjU0MCwtMTEyNDE1Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1
+ODMzMjUsLTE2MDAzODMxNTMsNzM4Nzg5MzgzLC02NjkxNDMyNz
+csLTE2NTA1NTA5MzAsLTUyNTYzNTg0NCwyMDMxNjQ3NzU1LC01
+NjkyMjE2ODFdfQ==
 -->
