@@ -1302,7 +1302,7 @@ Los dos tipos de transistores son super similares, la diferencia principal es
 	* $I_{ce}$ esta definida por la corriente que **SALE** por la base $I_b$ y que viene desde el emisor, osea 
 		* $\boxed{I_c=I_b-I_e}$ 
 		* Hay una **CAIDA DE POTENCIAL** entre **emisor y base** de $0.7V$.
-			 * **critico:** asi que si emisor y base comparten el negativo de la fuente, CIRCULA CORRIENTE
+			 * **critico:** asi que si colector y base comparten el negativo de la fuente, CIRCULA CORRIENTE
 		* ![](https://i.imgur.com/V3vu9km.png )
 
 ### Zonas de trabajo
@@ -1367,6 +1367,7 @@ Similar al anterior, pero con las siguientes mejoras.
 ![](https://i.imgur.com/KxE9tEc.png)
 #### Interruptor digital inversible - puente H - WIP
 [fuente](https://www.youtube.com/watch?v=eWkXawMjDxQ&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=7)
+[ejemplo](https://tinyurl.com/y4sabml4)
 Se trata de una configuracion de transitores que permite revertir el paso de la corriente, por ejemplo para revertir el giro de un motor DC
 
 
@@ -1609,11 +1610,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3OTgxMDYwLC0xNTc4NDM3NDUxLC0xNz
-cyMTkxOTUzLC0zMTI4MjY1NDAsLTExMjQxNTM5NCwtMTUzNTI4
-OTc1MSwtMTkyNTgzMzI1LC0xNjAwMzgzMTUzLDczODc4OTM4My
-wtNjY5MTQzMjc3LC0xNjUwNTUwOTMwLC01MjU2MzU4NDQsMjAz
-MTY0Nzc1NSwtNTY5MjIxNjgxLDEzMDc5ODkxMjQsLTExMzM2MT
-A2NDEsLTM0MjQzNTk4MSwyMDc2NzE0MTEyLC0xMTIyOTEzNzUz
-LDczNDQ5NTA5OF19
+eyJoaXN0b3J5IjpbMTA3MjI1ODkzMSwtMTU3ODQzNzQ1MSwtMT
+c3MjE5MTk1MywtMzEyODI2NTQwLC0xMTI0MTUzOTQsLTE1MzUy
+ODk3NTEsLTE5MjU4MzMyNSwtMTYwMDM4MzE1Myw3Mzg3ODkzOD
+MsLTY2OTE0MzI3NywtMTY1MDU1MDkzMCwtNTI1NjM1ODQ0LDIw
+MzE2NDc3NTUsLTU2OTIyMTY4MSwxMzA3OTg5MTI0LC0xMTMzNj
+EwNjQxLC0zNDI0MzU5ODEsMjA3NjcxNDExMiwtMTEyMjkxMzc1
+Myw3MzQ0OTUwOThdfQ==
 -->
