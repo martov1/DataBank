@@ -1369,7 +1369,6 @@ Similar al anterior, pero con las siguientes mejoras.
 [fuente](https://www.youtube.com/watch?v=eWkXawMjDxQ&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=7)
 [ejemplo](https://tinyurl.com/yxms2tg3)
 Se trata de una configuracion de transitores que permite revertir el paso de la corriente, por ejemplo para revertir el giro de un motor DC.
-**NOTA:** Este circuito aprovecha el hecho de que el transistor genera una cada de tension pequeña entre emisor y colector
 ![](https://i.imgur.com/wodRsNV.png)
 
 
@@ -1611,7 +1610,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjc3NjczMywtMzMzNzMxMDQ0LDExMT
+eyJoaXN0b3J5IjpbLTExODQzOTIwMiwtMzMzNzMxMDQ0LDExMT
 k3NTYwMTksLTE1Nzg0Mzc0NTEsLTE3NzIxOTE5NTMsLTMxMjgy
 NjU0MCwtMTEyNDE1Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1ODMzMj
 UsLTE2MDAzODMxNTMsNzM4Nzg5MzgzLC02NjkxNDMyNzcsLTE2
