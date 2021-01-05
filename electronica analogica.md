@@ -1382,12 +1382,12 @@ Se trata de dos transistores BJT en serie
 
 * **Super sensibles** con poca corriente los saturas
 	* Con **MUY poca corriente** podes hacer pasar un monton de corriente
-	* 
+* Suelen **disipar mucha potencia**
 * **Caida de tension de saturacion** Tenes una caida de tension que es el doble a un solo transistor, osea en vez de $V_{ec}\approx 0.2v$ se ve mas como $V_{ec}\approx 0.6v$
 * **Muchas veces se vende hecho**
 	* Con resistencias para rapidez de conmutacion
 	* Con diodo de proteccion para control de motores DC
-	* ![](https://i.imgur.com/m74hL9Q.png =200x)
+	* ![](https://i.imgur.com/m74hL9Q.png =150x)
 
 
 
@@ -1630,7 +1630,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjYwNzEzMywxNDEyMjk3MjUsMTk3Mz
+eyJoaXN0b3J5IjpbLTI1MzA5NzYxMiwxNDEyMjk3MjUsMTk3Mz
 M2OTMwMCwzNDc0NzAzMTUsMTQ0MzE3MjU4NywtMTE4NDM5MjAy
 LC0zMzM3MzEwNDQsMTExOTc1NjAxOSwtMTU3ODQzNzQ1MSwtMT
 c3MjE5MTk1MywtMzEyODI2NTQwLC0xMTI0MTUzOTQsLTE1MzUy
