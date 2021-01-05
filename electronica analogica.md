@@ -1375,10 +1375,14 @@ Usa dos transistores NPN y dos PNP
 #### Par Darlington - WIP
 [fuente 1](https://www.youtube.com/watch?v=AO4faM1yhLw&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=10)
 
+
 Se trata de dos transistores BJT en serie
+
+![](https://i.imgur.com/OTt5rMV.png =200x)
+
 * **Super sensibles** con poca corriente los saturas
 * **Caida de tension de saturacion** Tenes una caida de tension que es el doble a un solo transistor, osea en vez de $V_{ec}\approx 0.2v$ se ve mas como $V_{ec}\approx 0.6v$
-* Muchas veces se vende hecho
+* **Muchas veces se vende hecho**
 	* Con resistencias para rapidez de conmutacion
 	* Con diodo de proteccion para control de motores DC
 
@@ -1623,11 +1627,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzM2OTMwMCwzNDc0NzAzMTUsMTQ0Mz
-E3MjU4NywtMTE4NDM5MjAyLC0zMzM3MzEwNDQsMTExOTc1NjAx
-OSwtMTU3ODQzNzQ1MSwtMTc3MjE5MTk1MywtMzEyODI2NTQwLC
-0xMTI0MTUzOTQsLTE1MzUyODk3NTEsLTE5MjU4MzMyNSwtMTYw
-MDM4MzE1Myw3Mzg3ODkzODMsLTY2OTE0MzI3NywtMTY1MDU1MD
-kzMCwtNTI1NjM1ODQ0LDIwMzE2NDc3NTUsLTU2OTIyMTY4MSwx
-MzA3OTg5MTI0XX0=
+eyJoaXN0b3J5IjpbLTEzODcwNjQwNjEsMTk3MzM2OTMwMCwzND
+c0NzAzMTUsMTQ0MzE3MjU4NywtMTE4NDM5MjAyLC0zMzM3MzEw
+NDQsMTExOTc1NjAxOSwtMTU3ODQzNzQ1MSwtMTc3MjE5MTk1My
+wtMzEyODI2NTQwLC0xMTI0MTUzOTQsLTE1MzUyODk3NTEsLTE5
+MjU4MzMyNSwtMTYwMDM4MzE1Myw3Mzg3ODkzODMsLTY2OTE0Mz
+I3NywtMTY1MDU1MDkzMCwtNTI1NjM1ODQ0LDIwMzE2NDc3NTUs
+LTU2OTIyMTY4MV19
 -->
