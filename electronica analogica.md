@@ -1391,7 +1391,8 @@ https://www.youtube.com/watch?v=IkabRft5Sdk
 
 [Fuente de corriente estabilizada con transistor](https://tinyurl.com/y7c6umte)
 
-### Par Darlington - WIP
+## Par Darlington 
+### Intro
 [fuente 1](https://www.youtube.com/watch?v=AO4faM1yhLw&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=10)
 
 
@@ -1408,8 +1409,9 @@ Se trata de dos transistores BJT en serie
 	* Con diodo de proteccion para control de motores DC
 	* ![](https://i.imgur.com/m74hL9Q.png =150x)
 
-
-
+### Aplicaciones
+#### Boton tactil
+#### Riego automatico
 
 
 ## MOSFET - WIP
@@ -1635,11 +1637,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE4NDU0OTUsLTI1MzA5NzYxMiwxND
-EyMjk3MjUsMTk3MzM2OTMwMCwzNDc0NzAzMTUsMTQ0MzE3MjU4
-NywtMTE4NDM5MjAyLC0zMzM3MzEwNDQsMTExOTc1NjAxOSwtMT
-U3ODQzNzQ1MSwtMTc3MjE5MTk1MywtMzEyODI2NTQwLC0xMTI0
-MTUzOTQsLTE1MzUyODk3NTEsLTE5MjU4MzMyNSwtMTYwMDM4Mz
-E1Myw3Mzg3ODkzODMsLTY2OTE0MzI3NywtMTY1MDU1MDkzMCwt
-NTI1NjM1ODQ0XX0=
+eyJoaXN0b3J5IjpbMTk4NjkzNjU5OSwtMjUzMDk3NjEyLDE0MT
+IyOTcyNSwxOTczMzY5MzAwLDM0NzQ3MDMxNSwxNDQzMTcyNTg3
+LC0xMTg0MzkyMDIsLTMzMzczMTA0NCwxMTE5NzU2MDE5LC0xNT
+c4NDM3NDUxLC0xNzcyMTkxOTUzLC0zMTI4MjY1NDAsLTExMjQx
+NTM5NCwtMTUzNTI4OTc1MSwtMTkyNTgzMzI1LC0xNjAwMzgzMT
+UzLDczODc4OTM4MywtNjY5MTQzMjc3LC0xNjUwNTUwOTMwLC01
+MjU2MzU4NDRdfQ==
 -->
