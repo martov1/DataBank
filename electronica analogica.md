@@ -1368,8 +1368,9 @@ Similar al anterior, pero con las siguientes mejoras.
 #### Interruptor digital inversible - puente H - WIP
 [fuente](https://www.youtube.com/watch?v=eWkXawMjDxQ&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=7)
 [ejemplo](https://tinyurl.com/yxms2tg3)
-Se trata de una configuracion de transitores que permite revertir el paso de la corriente, por ejemplo para revertir el giro de un motor DC
-
+Se trata de una configuracion de transitores que permite revertir el paso de la corriente, por ejemplo para revertir el giro de un motor DC.
+**NOTA:** Este circuito aprovecha el hecho de que el transistor genera una cada de tension pequeña entre emisor y colector
+![](https://i.imgur.com/wodRsNV.png)
 
 
 #### Voltage-divider biasing
@@ -1610,11 +1611,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzczMTA0NCwxMTE5NzU2MDE5LC0xNT
-c4NDM3NDUxLC0xNzcyMTkxOTUzLC0zMTI4MjY1NDAsLTExMjQx
-NTM5NCwtMTUzNTI4OTc1MSwtMTkyNTgzMzI1LC0xNjAwMzgzMT
-UzLDczODc4OTM4MywtNjY5MTQzMjc3LC0xNjUwNTUwOTMwLC01
-MjU2MzU4NDQsMjAzMTY0Nzc1NSwtNTY5MjIxNjgxLDEzMDc5OD
-kxMjQsLTExMzM2MTA2NDEsLTM0MjQzNTk4MSwyMDc2NzE0MTEy
-LC0xMTIyOTEzNzUzXX0=
+eyJoaXN0b3J5IjpbLTYxNjc3NjczMywtMzMzNzMxMDQ0LDExMT
+k3NTYwMTksLTE1Nzg0Mzc0NTEsLTE3NzIxOTE5NTMsLTMxMjgy
+NjU0MCwtMTEyNDE1Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1ODMzMj
+UsLTE2MDAzODMxNTMsNzM4Nzg5MzgzLC02NjkxNDMyNzcsLTE2
+NTA1NTA5MzAsLTUyNTYzNTg0NCwyMDMxNjQ3NzU1LC01NjkyMj
+E2ODEsMTMwNzk4OTEyNCwtMTEzMzYxMDY0MSwtMzQyNDM1OTgx
+LDIwNzY3MTQxMTJdfQ==
 -->
