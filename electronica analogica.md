@@ -1337,10 +1337,11 @@ Para esta utilidad nos interesan la **ZONA DE CORTE** y la **ZONA DE SATURACION*
 El concepto es similar, pero en lugar de usar un integrado para accionar un  transistor para alimentar algo, usamos el transistor para accionar un rele.
 ![](https://i.imgur.com/EH3Ahxy.png =700x)
 #### Interruptor digital octoacoplado - Alta potencia 
-
+[fuente](https://www.youtube.com/watch?v=slNPfrQaVlo&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=84)
 Similar al anterior, pero con las siguientes mejoras.
 * **Octoacoplacion:**  aisla fisicamene el circuito de control del circuito de corriente, esto evita que el circuito de control se dañe si algo sale mal con el circuito de corriente.
 * **led indicador** de funcionamiento (facil, simplemente un led y una resistencia)
+
 [Ejemplo](https://tinyurl.com/y3fnbdq9)
 ![](https://i.imgur.com/KxE9tEc.png)
 
@@ -1581,11 +1582,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTYzNTg0NCwyMDMxNjQ3NzU1LC01Nj
-kyMjE2ODEsMTMwNzk4OTEyNCwtMTEzMzYxMDY0MSwtMzQyNDM1
-OTgxLDIwNzY3MTQxMTIsLTExMjI5MTM3NTMsNzM0NDk1MDk4LC
-0yMDQ4NzY4OTkxLDEzOTM2NzQ1MzMsMjg1MTgwNzk0LDI3NjM0
-OTI5NCwxMTAzNTk2MTg3LC00MDg2NjgzMzUsNDAyMzcyNDY0LC
-0xODc3NzM5NTQ2LC0yODkyNjEwOTksMTI4NzQ4MzIzMSwxODYz
-NDA0MzQyXX0=
+eyJoaXN0b3J5IjpbLTE2NTA1NTA5MzAsLTUyNTYzNTg0NCwyMD
+MxNjQ3NzU1LC01NjkyMjE2ODEsMTMwNzk4OTEyNCwtMTEzMzYx
+MDY0MSwtMzQyNDM1OTgxLDIwNzY3MTQxMTIsLTExMjI5MTM3NT
+MsNzM0NDk1MDk4LC0yMDQ4NzY4OTkxLDEzOTM2NzQ1MzMsMjg1
+MTgwNzk0LDI3NjM0OTI5NCwxMTAzNTk2MTg3LC00MDg2NjgzMz
+UsNDAyMzcyNDY0LC0xODc3NzM5NTQ2LC0yODkyNjEwOTksMTI4
+NzQ4MzIzMV19
 -->
