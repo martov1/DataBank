@@ -1348,6 +1348,7 @@ Similar al anterior, pero con las siguientes mejoras.
 #### Voltage-divider biasing
 https://tinyurl.com/yyccztsx
 [ACAAAAA](https://www.youtube.com/watch?v=4kOVYORP1uo)
+[ACA TMB](https://www.youtube.com/watch?v=YQlbPGNB-ys)
 https://www.youtube.com/watch?v=t0UOSIUve9E&t=475s
 https://www.youtube.com/watch?v=IkabRft5Sdk
 #### Par Darlington - WIP
@@ -1582,11 +1583,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA1NTA5MzAsLTUyNTYzNTg0NCwyMD
-MxNjQ3NzU1LC01NjkyMjE2ODEsMTMwNzk4OTEyNCwtMTEzMzYx
-MDY0MSwtMzQyNDM1OTgxLDIwNzY3MTQxMTIsLTExMjI5MTM3NT
-MsNzM0NDk1MDk4LC0yMDQ4NzY4OTkxLDEzOTM2NzQ1MzMsMjg1
-MTgwNzk0LDI3NjM0OTI5NCwxMTAzNTk2MTg3LC00MDg2NjgzMz
-UsNDAyMzcyNDY0LC0xODc3NzM5NTQ2LC0yODkyNjEwOTksMTI4
-NzQ4MzIzMV19
+eyJoaXN0b3J5IjpbLTY2OTE0MzI3NywtMTY1MDU1MDkzMCwtNT
+I1NjM1ODQ0LDIwMzE2NDc3NTUsLTU2OTIyMTY4MSwxMzA3OTg5
+MTI0LC0xMTMzNjEwNjQxLC0zNDI0MzU5ODEsMjA3NjcxNDExMi
+wtMTEyMjkxMzc1Myw3MzQ0OTUwOTgsLTIwNDg3Njg5OTEsMTM5
+MzY3NDUzMywyODUxODA3OTQsMjc2MzQ5Mjk0LDExMDM1OTYxOD
+csLTQwODY2ODMzNSw0MDIzNzI0NjQsLTE4Nzc3Mzk1NDYsLTI4
+OTI2MTA5OV19
 -->
