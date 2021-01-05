@@ -1294,6 +1294,7 @@ Los dos tipos de transistores son super similares, la diferencia principal es
 	* La corriente va desde **colector a emisor** (conventional current)
 	* $I_{ce}$ esta definida por la corriente que **ENTRA** por la base $I_b$ y que va hacia el emisor, osea 
 		* $\boxed{I_e=I_b+I_c}$ 
+	* Hay una **CAIDA DE POTENCIAL** entre **base y emisor** de $0.7V$ 
 	* ![](https://i.imgur.com/HblVeUG.png =130x)
 * **PNP** 
 	* La corriente va desde **emisor a colector** (conventional current)
@@ -1605,11 +1606,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg0Mzc0NTEsLTE3NzIxOTE5NTMsLT
-MxMjgyNjU0MCwtMTEyNDE1Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1
-ODMzMjUsLTE2MDAzODMxNTMsNzM4Nzg5MzgzLC02NjkxNDMyNz
-csLTE2NTA1NTA5MzAsLTUyNTYzNTg0NCwyMDMxNjQ3NzU1LC01
-NjkyMjE2ODEsMTMwNzk4OTEyNCwtMTEzMzYxMDY0MSwtMzQyND
-M1OTgxLDIwNzY3MTQxMTIsLTExMjI5MTM3NTMsNzM0NDk1MDk4
-LC0yMDQ4NzY4OTkxXX0=
+eyJoaXN0b3J5IjpbLTEzNjk4MzY3MjgsLTE1Nzg0Mzc0NTEsLT
+E3NzIxOTE5NTMsLTMxMjgyNjU0MCwtMTEyNDE1Mzk0LC0xNTM1
+Mjg5NzUxLC0xOTI1ODMzMjUsLTE2MDAzODMxNTMsNzM4Nzg5Mz
+gzLC02NjkxNDMyNzcsLTE2NTA1NTA5MzAsLTUyNTYzNTg0NCwy
+MDMxNjQ3NzU1LC01NjkyMjE2ODEsMTMwNzk4OTEyNCwtMTEzMz
+YxMDY0MSwtMzQyNDM1OTgxLDIwNzY3MTQxMTIsLTExMjI5MTM3
+NTMsNzM0NDk1MDk4XX0=
 -->
