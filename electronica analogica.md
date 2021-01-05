@@ -1340,7 +1340,8 @@ El concepto es similar, pero en lugar de usar un integrado para accionar un  tra
 
 Similar al anterior, pero con las siguientes mejoras.
 * **Octoacoplacion:**  aisla fisicamene el circuito de control del circuito de corriente, esto evita que el circuito de control se dañe si algo sale mal con el circuito de corriente.
-
+* **led indicador** de f
+![](https://i.imgur.com/KxE9tEc.png)
 
 #### Voltage-divider biasing
 https://tinyurl.com/yyccztsx
@@ -1579,11 +1580,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTIyMTY4MSwxMzA3OTg5MTI0LC0xMT
-MzNjEwNjQxLC0zNDI0MzU5ODEsMjA3NjcxNDExMiwtMTEyMjkx
-Mzc1Myw3MzQ0OTUwOTgsLTIwNDg3Njg5OTEsMTM5MzY3NDUzMy
-wyODUxODA3OTQsMjc2MzQ5Mjk0LDExMDM1OTYxODcsLTQwODY2
-ODMzNSw0MDIzNzI0NjQsLTE4Nzc3Mzk1NDYsLTI4OTI2MTA5OS
-wxMjg3NDgzMjMxLDE4NjM0MDQzNDIsMTgzNjMzMTE3NiwxNjUz
-MzMzMTkzXX0=
+eyJoaXN0b3J5IjpbLTM4NTQ5NjM2MCwtNTY5MjIxNjgxLDEzMD
+c5ODkxMjQsLTExMzM2MTA2NDEsLTM0MjQzNTk4MSwyMDc2NzE0
+MTEyLC0xMTIyOTEzNzUzLDczNDQ5NTA5OCwtMjA0ODc2ODk5MS
+wxMzkzNjc0NTMzLDI4NTE4MDc5NCwyNzYzNDkyOTQsMTEwMzU5
+NjE4NywtNDA4NjY4MzM1LDQwMjM3MjQ2NCwtMTg3NzczOTU0Ni
+wtMjg5MjYxMDk5LDEyODc0ODMyMzEsMTg2MzQwNDM0MiwxODM2
+MzMxMTc2XX0=
 -->
