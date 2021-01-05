@@ -1332,6 +1332,10 @@ Para esta utilidad nos interesan la **ZONA DE CORTE** y la **ZONA DE SATURACION*
 [Ejemplo](https://tinyurl.com/y49wqczv)
 ![](https://i.imgur.com/gCvDjV3.png)
 #### Interruptor digital - Alta potencia - WIP
+[fuente](https://www.youtube.com/watch?v=TE_pQ8pyL80&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=83)
+
+
+
 #### Voltage-divider biasing
 https://tinyurl.com/yyccztsx
 [ACAAAAA](https://www.youtube.com/watch?v=4kOVYORP1uo)
@@ -1569,11 +1573,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NDk1MDk4LC0yMDQ4NzY4OTkxLDEzOT
-M2NzQ1MzMsMjg1MTgwNzk0LDI3NjM0OTI5NCwxMTAzNTk2MTg3
-LC00MDg2NjgzMzUsNDAyMzcyNDY0LC0xODc3NzM5NTQ2LC0yOD
-kyNjEwOTksMTI4NzQ4MzIzMSwxODYzNDA0MzQyLDE4MzYzMzEx
-NzYsMTY1MzMzMzE5MywtNjI2NjI2ODAwLC0xNDIzMTI2OTg4LD
-Q3MDYxNDI0MCw3MjMxNDQ1MSwtNTQ5MTI4MzAwLDg3MDU4OTA5
-MV19
+eyJoaXN0b3J5IjpbMTE5MDg3Mzk1Myw3MzQ0OTUwOTgsLTIwND
+g3Njg5OTEsMTM5MzY3NDUzMywyODUxODA3OTQsMjc2MzQ5Mjk0
+LDExMDM1OTYxODcsLTQwODY2ODMzNSw0MDIzNzI0NjQsLTE4Nz
+c3Mzk1NDYsLTI4OTI2MTA5OSwxMjg3NDgzMjMxLDE4NjM0MDQz
+NDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC02MjY2MjY4MDAsLT
+E0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0NDUxLC01NDkxMjgz
+MDBdfQ==
 -->
