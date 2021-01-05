@@ -1375,6 +1375,9 @@ Usa dos transistores NPN y dos PNP
 #### Par Darlington - WIP
 [fuente 1](https://www.youtube.com/watch?v=AO4faM1yhLw&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=10)
 
+Se trata de dos transistores BJT en serie
+* **Super sensibles** con poca corriente los saturas
+* **gran caida de tension**
 
 
 #### Voltage-divider biasing - WIP
@@ -1615,7 +1618,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzY5MTM1MiwzNDc0NzAzMTUsMTQ0Mz
+eyJoaXN0b3J5IjpbLTk5ODkzMDYxMCwzNDc0NzAzMTUsMTQ0Mz
 E3MjU4NywtMTE4NDM5MjAyLC0zMzM3MzEwNDQsMTExOTc1NjAx
 OSwtMTU3ODQzNzQ1MSwtMTc3MjE5MTk1MywtMzEyODI2NTQwLC
 0xMTI0MTUzOTQsLTE1MzUyODk3NTEsLTE5MjU4MzMyNSwtMTYw
