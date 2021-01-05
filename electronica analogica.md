@@ -1262,11 +1262,10 @@ R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este va
 [fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
 Un boton luminoso que se enciende cuando la lampara principal esta apagada
 ![](https://i.imgur.com/XyElslP.png =250x)
-# Transistores - WIP
 
-## Bipolares PNP/NPN - WIP
+# Transistores BJT PNP/NPN 
 
-### Intro
+## Intro
 [fuente](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
 
 La **utilidad del transistor BJT** radica en que **permite controlar una corriente de forma proporcional a otra corriente mas chica**.
@@ -1630,11 +1629,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzA5NzYxMiwxNDEyMjk3MjUsMTk3Mz
-M2OTMwMCwzNDc0NzAzMTUsMTQ0MzE3MjU4NywtMTE4NDM5MjAy
-LC0zMzM3MzEwNDQsMTExOTc1NjAxOSwtMTU3ODQzNzQ1MSwtMT
-c3MjE5MTk1MywtMzEyODI2NTQwLC0xMTI0MTUzOTQsLTE1MzUy
-ODk3NTEsLTE5MjU4MzMyNSwtMTYwMDM4MzE1Myw3Mzg3ODkzOD
-MsLTY2OTE0MzI3NywtMTY1MDU1MDkzMCwtNTI1NjM1ODQ0LDIw
-MzE2NDc3NTVdfQ==
+eyJoaXN0b3J5IjpbNjAwMTE0Mjk4LC0yNTMwOTc2MTIsMTQxMj
+I5NzI1LDE5NzMzNjkzMDAsMzQ3NDcwMzE1LDE0NDMxNzI1ODcs
+LTExODQzOTIwMiwtMzMzNzMxMDQ0LDExMTk3NTYwMTksLTE1Nz
+g0Mzc0NTEsLTE3NzIxOTE5NTMsLTMxMjgyNjU0MCwtMTEyNDE1
+Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1ODMzMjUsLTE2MDAzODMxNT
+MsNzM4Nzg5MzgzLC02NjkxNDMyNzcsLTE2NTA1NTA5MzAsLTUy
+NTYzNTg0NF19
 -->
