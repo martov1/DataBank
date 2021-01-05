@@ -1371,7 +1371,7 @@ Similar al anterior, pero con las siguientes mejoras.
 Se trata de una configuracion de transitores que permite **revertir el paso de la corriente**, por ejemplo para revertir el giro de un motor DC.
 
 Usa dos transistores NPN y dos PNP
-![](https://i.imgur.com/wodRsNV.png)
+![](https://i.imgur.com/QOMLzxP.png)
 #### Par Darlington - WIP
 
 
@@ -1615,11 +1615,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzE3MjU4NywtMTE4NDM5MjAyLC0zMz
-M3MzEwNDQsMTExOTc1NjAxOSwtMTU3ODQzNzQ1MSwtMTc3MjE5
-MTk1MywtMzEyODI2NTQwLC0xMTI0MTUzOTQsLTE1MzUyODk3NT
-EsLTE5MjU4MzMyNSwtMTYwMDM4MzE1Myw3Mzg3ODkzODMsLTY2
-OTE0MzI3NywtMTY1MDU1MDkzMCwtNTI1NjM1ODQ0LDIwMzE2ND
-c3NTUsLTU2OTIyMTY4MSwxMzA3OTg5MTI0LC0xMTMzNjEwNjQx
-LC0zNDI0MzU5ODFdfQ==
+eyJoaXN0b3J5IjpbMzQ3NDcwMzE1LDE0NDMxNzI1ODcsLTExOD
+QzOTIwMiwtMzMzNzMxMDQ0LDExMTk3NTYwMTksLTE1Nzg0Mzc0
+NTEsLTE3NzIxOTE5NTMsLTMxMjgyNjU0MCwtMTEyNDE1Mzk0LC
+0xNTM1Mjg5NzUxLC0xOTI1ODMzMjUsLTE2MDAzODMxNTMsNzM4
+Nzg5MzgzLC02NjkxNDMyNzcsLTE2NTA1NTA5MzAsLTUyNTYzNT
+g0NCwyMDMxNjQ3NzU1LC01NjkyMjE2ODEsMTMwNzk4OTEyNCwt
+MTEzMzYxMDY0MV19
 -->
