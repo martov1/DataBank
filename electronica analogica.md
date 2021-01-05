@@ -1295,14 +1295,14 @@ Los dos tipos de transistores son super similares, la diferencia principal es
 	* $I_{ce}$ esta definida por la corriente que **ENTRA** por la base $I_b$ y que va hacia el emisor, osea 
 		* $\boxed{I_e=I_b+I_c}$ 
 	* Hay una **CAIDA DE POTENCIAL** entre **base y emisor** de $0.7V$, 
-		* **critico:** asi que si colector y base comparten el positivo de la misma fuente, CIRCULA CORRIENTE
+		* **critico:** asi que si **colector y base comparten el positivo** de la misma fuente, **CIRCULA CORRIENTE**
 	* ![](https://i.imgur.com/HblVeUG.png =130x)
 * **PNP** 
 	* La corriente va desde **emisor a colector** (conventional current)
 	* $I_{ce}$ esta definida por la corriente que **SALE** por la base $I_b$ y que viene desde el emisor, osea 
 		* $\boxed{I_c=I_b-I_e}$ 
 		* Hay una **CAIDA DE POTENCIAL** entre **emisor y base** de $0.7V$.
-			 * **critico:** asi que si colector y base comparten el negativo de la fuente, CIRCULA CORRIENTE
+			 * **critico:** asi que si **colector y base comparten el negativo** de la fuente, **CIRCULA CORRIENTE**
 		* ![](https://i.imgur.com/V3vu9km.png )
 
 ### Zonas de trabajo
@@ -1610,7 +1610,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjI1ODkzMSwtMTU3ODQzNzQ1MSwtMT
+eyJoaXN0b3J5IjpbMTExOTc1NjAxOSwtMTU3ODQzNzQ1MSwtMT
 c3MjE5MTk1MywtMzEyODI2NTQwLC0xMTI0MTUzOTQsLTE1MzUy
 ODk3NTEsLTE5MjU4MzMyNSwtMTYwMDM4MzE1Myw3Mzg3ODkzOD
 MsLTY2OTE0MzI3NywtMTY1MDU1MDkzMCwtNTI1NjM1ODQ0LDIw
