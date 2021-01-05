@@ -1296,8 +1296,10 @@ Los dos tipos de transistores son super similares, la diferencia principal es
 		* $\boxed{I_e=I_b+I_c}$ 
 	* ![](https://i.imgur.com/HblVeUG.png =130x)
 * **PNP** 
+	* La corriente va desde **emisor a colector**
 	* $I_{ce}$ esta definida por la corriente que **SALE** por la base $I_b$ y que viene desde el emisor, osea 
 		* $\boxed{I_c=I_b-I_e}$ 
+		* ![](https://i.imgur.com/V3vu9km.png =130x)
 
 ### Zonas de trabajo
 
@@ -1603,7 +1605,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODQ0MDAyMCwtMTEyNDE1Mzk0LC0xNT
+eyJoaXN0b3J5IjpbLTMxMjgyNjU0MCwtMTEyNDE1Mzk0LC0xNT
 M1Mjg5NzUxLC0xOTI1ODMzMjUsLTE2MDAzODMxNTMsNzM4Nzg5
 MzgzLC02NjkxNDMyNzcsLTE2NTA1NTA5MzAsLTUyNTYzNTg0NC
 wyMDMxNjQ3NzU1LC01NjkyMjE2ODEsMTMwNzk4OTEyNCwtMTEz
