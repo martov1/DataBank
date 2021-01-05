@@ -1344,6 +1344,9 @@ Similar al anterior, pero con las siguientes mejoras.
 
 [Ejemplo](https://tinyurl.com/y3fnbdq9)
 ![](https://i.imgur.com/KxE9tEc.png)
+#### Interruptor digital inversible - puente H - WIP
+[fuente](https://www.youtube.com/watch?v=eWkXawMjDxQ&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=7)
+
 
 #### Voltage-divider biasing
 https://tinyurl.com/yyccztsx
@@ -1583,11 +1586,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTE0MzI3NywtMTY1MDU1MDkzMCwtNT
-I1NjM1ODQ0LDIwMzE2NDc3NTUsLTU2OTIyMTY4MSwxMzA3OTg5
-MTI0LC0xMTMzNjEwNjQxLC0zNDI0MzU5ODEsMjA3NjcxNDExMi
-wtMTEyMjkxMzc1Myw3MzQ0OTUwOTgsLTIwNDg3Njg5OTEsMTM5
-MzY3NDUzMywyODUxODA3OTQsMjc2MzQ5Mjk0LDExMDM1OTYxOD
-csLTQwODY2ODMzNSw0MDIzNzI0NjQsLTE4Nzc3Mzk1NDYsLTI4
-OTI2MTA5OV19
+eyJoaXN0b3J5IjpbNzM4Nzg5MzgzLC02NjkxNDMyNzcsLTE2NT
+A1NTA5MzAsLTUyNTYzNTg0NCwyMDMxNjQ3NzU1LC01NjkyMjE2
+ODEsMTMwNzk4OTEyNCwtMTEzMzYxMDY0MSwtMzQyNDM1OTgxLD
+IwNzY3MTQxMTIsLTExMjI5MTM3NTMsNzM0NDk1MDk4LC0yMDQ4
+NzY4OTkxLDEzOTM2NzQ1MzMsMjg1MTgwNzk0LDI3NjM0OTI5NC
+wxMTAzNTk2MTg3LC00MDg2NjgzMzUsNDAyMzcyNDY0LC0xODc3
+NzM5NTQ2XX0=
 -->
