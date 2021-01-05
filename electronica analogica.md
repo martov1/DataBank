@@ -1290,11 +1290,14 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 ### PNP vs NPN
 
 Los dos tipos de transistores son super similares, la diferencia principal es
-* **NPN:** $I_{ce}$ esta definida por la corriente que **ENTRA** por la base $I_b$ y que va hacia el emisor, osea 
-	* $\boxed{I_e=I_b+I_c}$ 
-	* ![](https://i.imgur.com/HblVeUG.png)
-* **PNP** $I_{ce}$ esta definida por la corriente que **SALE** por la base $I_b$ y que viene desde el colector, osea 
-	* $\boxed{I_e=I_b-I_c}$ 
+* **NPN:** 
+	* La corriente va desde **colector a emisor**
+	* $I_{ce}$ esta definida por la corriente que **ENTRA** por la base $I_b$ y que va hacia el emisor, osea 
+		* $\boxed{I_e=I_b+I_c}$ 
+	* ![](https://i.imgur.com/HblVeUG.png =130x)
+* **PNP** 
+	* $I_{ce}$ esta definida por la corriente que **SALE** por la base $I_b$ y que viene desde el emisor, osea 
+		* $\boxed{I_c=I_b-I_e}$ 
 
 ### Zonas de trabajo
 
@@ -1600,11 +1603,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQxNTM5NCwtMTUzNTI4OTc1MSwtMT
-kyNTgzMzI1LC0xNjAwMzgzMTUzLDczODc4OTM4MywtNjY5MTQz
-Mjc3LC0xNjUwNTUwOTMwLC01MjU2MzU4NDQsMjAzMTY0Nzc1NS
-wtNTY5MjIxNjgxLDEzMDc5ODkxMjQsLTExMzM2MTA2NDEsLTM0
-MjQzNTk4MSwyMDc2NzE0MTEyLC0xMTIyOTEzNzUzLDczNDQ5NT
-A5OCwtMjA0ODc2ODk5MSwxMzkzNjc0NTMzLDI4NTE4MDc5NCwy
-NzYzNDkyOTRdfQ==
+eyJoaXN0b3J5IjpbMTEzODQ0MDAyMCwtMTEyNDE1Mzk0LC0xNT
+M1Mjg5NzUxLC0xOTI1ODMzMjUsLTE2MDAzODMxNTMsNzM4Nzg5
+MzgzLC02NjkxNDMyNzcsLTE2NTA1NTA5MzAsLTUyNTYzNTg0NC
+wyMDMxNjQ3NzU1LC01NjkyMjE2ODEsMTMwNzk4OTEyNCwtMTEz
+MzYxMDY0MSwtMzQyNDM1OTgxLDIwNzY3MTQxMTIsLTExMjI5MT
+M3NTMsNzM0NDk1MDk4LC0yMDQ4NzY4OTkxLDEzOTM2NzQ1MzMs
+Mjg1MTgwNzk0XX0=
 -->
