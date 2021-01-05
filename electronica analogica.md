@@ -1291,7 +1291,7 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 
 Los dos tipos de transistores son super similares, la diferencia principal es
 * **NPN:** 
-	* La corriente va desde **colector a **
+	* La corriente va desde **colector a emisor**
 	* $I_{ce}$ esta definida por la corriente que **ENTRA** por la base $I_b$ y que va hacia el emisor, osea 
 		* $\boxed{I_e=I_b+I_c}$ 
 	* ![](https://i.imgur.com/HblVeUG.png =130x)
@@ -1299,7 +1299,7 @@ Los dos tipos de transistores son super similares, la diferencia principal es
 	* La corriente va desde **emisor a colector**
 	* $I_{ce}$ esta definida por la corriente que **SALE** por la base $I_b$ y que viene desde el emisor, osea 
 		* $\boxed{I_c=I_b-I_e}$ 
-		* ![](https://i.imgur.com/V3vu9km.png =130x)
+		* ![](https://i.imgur.com/V3vu9km.png )
 
 ### Zonas de trabajo
 
@@ -1605,7 +1605,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjYxNzkxNTksLTMxMjgyNjU0MCwtMT
+eyJoaXN0b3J5IjpbLTE3NzIxOTE5NTMsLTMxMjgyNjU0MCwtMT
 EyNDE1Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1ODMzMjUsLTE2MDAz
 ODMxNTMsNzM4Nzg5MzgzLC02NjkxNDMyNzcsLTE2NTA1NTA5Mz
 AsLTUyNTYzNTg0NCwyMDMxNjQ3NzU1LC01NjkyMjE2ODEsMTMw
