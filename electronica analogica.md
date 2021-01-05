@@ -1373,7 +1373,7 @@ Se trata de una configuracion de transitores que permite **revertir el paso de l
 Usa dos transistores NPN y dos PNP
 ![](https://i.imgur.com/QOMLzxP.png)
 #### Par Darlington - WIP
-
+[fuente 1](https://www.youtube.com/watch?v=AO4faM1yhLw&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=10)
 
 
 
@@ -1615,11 +1615,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3NDcwMzE1LDE0NDMxNzI1ODcsLTExOD
-QzOTIwMiwtMzMzNzMxMDQ0LDExMTk3NTYwMTksLTE1Nzg0Mzc0
-NTEsLTE3NzIxOTE5NTMsLTMxMjgyNjU0MCwtMTEyNDE1Mzk0LC
-0xNTM1Mjg5NzUxLC0xOTI1ODMzMjUsLTE2MDAzODMxNTMsNzM4
-Nzg5MzgzLC02NjkxNDMyNzcsLTE2NTA1NTA5MzAsLTUyNTYzNT
-g0NCwyMDMxNjQ3NzU1LC01NjkyMjE2ODEsMTMwNzk4OTEyNCwt
-MTEzMzYxMDY0MV19
+eyJoaXN0b3J5IjpbMTEwNzY5MTM1MiwzNDc0NzAzMTUsMTQ0Mz
+E3MjU4NywtMTE4NDM5MjAyLC0zMzM3MzEwNDQsMTExOTc1NjAx
+OSwtMTU3ODQzNzQ1MSwtMTc3MjE5MTk1MywtMzEyODI2NTQwLC
+0xMTI0MTUzOTQsLTE1MzUyODk3NTEsLTE5MjU4MzMyNSwtMTYw
+MDM4MzE1Myw3Mzg3ODkzODMsLTY2OTE0MzI3NywtMTY1MDU1MD
+kzMCwtNTI1NjM1ODQ0LDIwMzE2NDc3NTUsLTU2OTIyMTY4MSwx
+MzA3OTg5MTI0XX0=
 -->
