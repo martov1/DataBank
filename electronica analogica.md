@@ -1265,6 +1265,8 @@ Un boton luminoso que se enciende cuando la lampara principal esta apagada
 # Transistores - WIP
 
 ## Bipolares PNP/NPN - WIP
+
+### Intro
 [fuente](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
 
 La **utilidad del transistor BJT** radica en que **permite controlar una corriente de forma proporcional a otra corriente mas chica**.
@@ -1284,6 +1286,8 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 
 
 ![](https://i.imgur.com/f0ZDUAS.png =250x)
+
+### P
 ### Zonas de trabajo
 
 [ejemplo](https://tinyurl.com/y3ypu423)
@@ -1588,11 +1592,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDAzODMxNTMsNzM4Nzg5MzgzLC02Nj
-kxNDMyNzcsLTE2NTA1NTA5MzAsLTUyNTYzNTg0NCwyMDMxNjQ3
-NzU1LC01NjkyMjE2ODEsMTMwNzk4OTEyNCwtMTEzMzYxMDY0MS
-wtMzQyNDM1OTgxLDIwNzY3MTQxMTIsLTExMjI5MTM3NTMsNzM0
-NDk1MDk4LC0yMDQ4NzY4OTkxLDEzOTM2NzQ1MzMsMjg1MTgwNz
-k0LDI3NjM0OTI5NCwxMTAzNTk2MTg3LC00MDg2NjgzMzUsNDAy
-MzcyNDY0XX0=
+eyJoaXN0b3J5IjpbMTk1OTYwMjE4OSwtMTYwMDM4MzE1Myw3Mz
+g3ODkzODMsLTY2OTE0MzI3NywtMTY1MDU1MDkzMCwtNTI1NjM1
+ODQ0LDIwMzE2NDc3NTUsLTU2OTIyMTY4MSwxMzA3OTg5MTI0LC
+0xMTMzNjEwNjQxLC0zNDI0MzU5ODEsMjA3NjcxNDExMiwtMTEy
+MjkxMzc1Myw3MzQ0OTUwOTgsLTIwNDg3Njg5OTEsMTM5MzY3ND
+UzMywyODUxODA3OTQsMjc2MzQ5Mjk0LDExMDM1OTYxODcsLTQw
+ODY2ODMzNV19
 -->
