@@ -1291,12 +1291,12 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 
 Los dos tipos de transistores son super similares, la diferencia principal es
 * **NPN:** 
-	* La corriente va desde **colector a emisor**
+	* La corriente va desde **colector a emisor** (conventional current)
 	* $I_{ce}$ esta definida por la corriente que **ENTRA** por la base $I_b$ y que va hacia el emisor, osea 
 		* $\boxed{I_e=I_b+I_c}$ 
 	* ![](https://i.imgur.com/HblVeUG.png =130x)
 * **PNP** 
-	* La corriente va desde **emisor a colector**
+	* La corriente va desde **emisor a colector** (conventional current)
 	* $I_{ce}$ esta definida por la corriente que **SALE** por la base $I_b$ y que viene desde el emisor, osea 
 		* $\boxed{I_c=I_b-I_e}$ 
 		* ![](https://i.imgur.com/V3vu9km.png )
@@ -1605,11 +1605,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIxOTE5NTMsLTMxMjgyNjU0MCwtMT
-EyNDE1Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1ODMzMjUsLTE2MDAz
-ODMxNTMsNzM4Nzg5MzgzLC02NjkxNDMyNzcsLTE2NTA1NTA5Mz
-AsLTUyNTYzNTg0NCwyMDMxNjQ3NzU1LC01NjkyMjE2ODEsMTMw
-Nzk4OTEyNCwtMTEzMzYxMDY0MSwtMzQyNDM1OTgxLDIwNzY3MT
-QxMTIsLTExMjI5MTM3NTMsNzM0NDk1MDk4LC0yMDQ4NzY4OTkx
-LDEzOTM2NzQ1MzNdfQ==
+eyJoaXN0b3J5IjpbLTE1Nzg0Mzc0NTEsLTE3NzIxOTE5NTMsLT
+MxMjgyNjU0MCwtMTEyNDE1Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1
+ODMzMjUsLTE2MDAzODMxNTMsNzM4Nzg5MzgzLC02NjkxNDMyNz
+csLTE2NTA1NTA5MzAsLTUyNTYzNTg0NCwyMDMxNjQ3NzU1LC01
+NjkyMjE2ODEsMTMwNzk4OTEyNCwtMTEzMzYxMDY0MSwtMzQyND
+M1OTgxLDIwNzY3MTQxMTIsLTExMjI5MTM3NTMsNzM0NDk1MDk4
+LC0yMDQ4NzY4OTkxXX0=
 -->
