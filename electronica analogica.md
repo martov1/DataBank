@@ -1336,9 +1336,11 @@ Para esta utilidad nos interesan la **ZONA DE CORTE** y la **ZONA DE SATURACION*
 [Ejemplo](https://tinyurl.com/yy9qzgty)
 El concepto es similar, pero en lugar de usar un integrado para accionar un  transistor para alimentar algo, usamos el transistor para accionar un rele.
 ![](https://i.imgur.com/EH3Ahxy.png =700x)
-#### Interruptor digital por foto resistor - Alta potencia 
+#### Interruptor digital octoacoplado - Alta potencia 
 
-Similar al anterior, pero
+Similar al anterior, pero con las siguientes mejoras.
+* **Octoacoplacion:**  aisla fisicamene el circuito de control del circuito de corriente, esto evita que el circuito de control se dañe si algo sale mal con el circuito de corriente.
+
 
 #### Voltage-divider biasing
 https://tinyurl.com/yyccztsx
@@ -1577,7 +1579,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTE3Njc1NiwxMzA3OTg5MTI0LC0xMT
+eyJoaXN0b3J5IjpbLTU2OTIyMTY4MSwxMzA3OTg5MTI0LC0xMT
 MzNjEwNjQxLC0zNDI0MzU5ODEsMjA3NjcxNDExMiwtMTEyMjkx
 Mzc1Myw3MzQ0OTUwOTgsLTIwNDg3Njg5OTEsMTM5MzY3NDUzMy
 wyODUxODA3OTQsMjc2MzQ5Mjk0LDExMDM1OTYxODcsLTQwODY2
