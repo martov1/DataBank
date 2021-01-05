@@ -1335,7 +1335,7 @@ Para esta utilidad nos interesan la **ZONA DE CORTE** y la **ZONA DE SATURACION*
 [fuente](https://www.youtube.com/watch?v=TE_pQ8pyL80&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=83)
 [Ejemplo](https://tinyurl.com/y4btp7z6)
 El concepto es similar, pero en lugar de usar un integrado para accionar un  transistor para alimentar algo, usamos el transistor para accionar un rele
-
+![](https://i.imgur.com/EH3Ahxy.png =700x)
 
 #### Voltage-divider biasing
 https://tinyurl.com/yyccztsx
@@ -1574,11 +1574,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjcxNDExMiwtMTEyMjkxMzc1Myw3Mz
-Q0OTUwOTgsLTIwNDg3Njg5OTEsMTM5MzY3NDUzMywyODUxODA3
-OTQsMjc2MzQ5Mjk0LDExMDM1OTYxODcsLTQwODY2ODMzNSw0MD
-IzNzI0NjQsLTE4Nzc3Mzk1NDYsLTI4OTI2MTA5OSwxMjg3NDgz
-MjMxLDE4NjM0MDQzNDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC
-02MjY2MjY4MDAsLTE0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0
-NDUxXX0=
+eyJoaXN0b3J5IjpbLTM0MjQzNTk4MSwyMDc2NzE0MTEyLC0xMT
+IyOTEzNzUzLDczNDQ5NTA5OCwtMjA0ODc2ODk5MSwxMzkzNjc0
+NTMzLDI4NTE4MDc5NCwyNzYzNDkyOTQsMTEwMzU5NjE4NywtND
+A4NjY4MzM1LDQwMjM3MjQ2NCwtMTg3NzczOTU0NiwtMjg5MjYx
+MDk5LDEyODc0ODMyMzEsMTg2MzQwNDM0MiwxODM2MzMxMTc2LD
+E2NTMzMzMxOTMsLTYyNjYyNjgwMCwtMTQyMzEyNjk4OCw0NzA2
+MTQyNDBdfQ==
 -->
