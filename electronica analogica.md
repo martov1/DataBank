@@ -1262,10 +1262,11 @@ R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este va
 [fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
 Un boton luminoso que se enciende cuando la lampara principal esta apagada
 ![](https://i.imgur.com/XyElslP.png =250x)
+# Transistores - WIP
 
-# Transistores BJT PNP/NPN 
+## Bipolares PNP/NPN - WIP
 
-## Intro
+### Intro
 [fuente](https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O)
 
 La **utilidad del transistor BJT** radica en que **permite controlar una corriente de forma proporcional a otra corriente mas chica**.
@@ -1371,7 +1372,26 @@ Se trata de una configuracion de transitores que permite **revertir el paso de l
 
 Usa dos transistores NPN y dos PNP
 ![](https://i.imgur.com/QOMLzxP.png)
-#### Par Darlington - WIP
+
+
+
+#### Voltage-divider biasing - WIP
+https://tinyurl.com/yyccztsx
+[ACAAAAA](https://www.youtube.com/watch?v=4kOVYORP1uo)
+[ACA TMB](https://www.youtube.com/watch?v=YQlbPGNB-ys)
+https://www.youtube.com/watch?v=t0UOSIUve9E&t=475s
+https://www.youtube.com/watch?v=IkabRft5Sdk
+
+#### Amplificador Clase A - WIP
+#### Amplificador  Clase B - WIP
+#### Amplificador  Clase AB - WIP
+#### Amplificador  Clase C - WIP
+#### fuente entabilizada de tension con transistor - WIP
+[Fuente de tension  estabilizada con transistor](https://tinyurl.com/y7z3hu3a)
+
+[Fuente de corriente estabilizada con transistor](https://tinyurl.com/y7c6umte)
+
+### Par Darlington - WIP
 [fuente 1](https://www.youtube.com/watch?v=AO4faM1yhLw&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=10)
 
 
@@ -1391,21 +1411,7 @@ Se trata de dos transistores BJT en serie
 
 
 
-#### Voltage-divider biasing - WIP
-https://tinyurl.com/yyccztsx
-[ACAAAAA](https://www.youtube.com/watch?v=4kOVYORP1uo)
-[ACA TMB](https://www.youtube.com/watch?v=YQlbPGNB-ys)
-https://www.youtube.com/watch?v=t0UOSIUve9E&t=475s
-https://www.youtube.com/watch?v=IkabRft5Sdk
 
-#### Amplificador Clase A - WIP
-#### Amplificador  Clase B - WIP
-#### Amplificador  Clase AB - WIP
-#### Amplificador  Clase C - WIP
-#### fuente entabilizada de tension con transistor - WIP
-[Fuente de tension  estabilizada con transistor](https://tinyurl.com/y7z3hu3a)
-
-[Fuente de corriente estabilizada con transistor](https://tinyurl.com/y7c6umte)
 ## MOSFET - WIP
 
 
@@ -1629,11 +1635,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMTE0Mjk4LC0yNTMwOTc2MTIsMTQxMj
-I5NzI1LDE5NzMzNjkzMDAsMzQ3NDcwMzE1LDE0NDMxNzI1ODcs
-LTExODQzOTIwMiwtMzMzNzMxMDQ0LDExMTk3NTYwMTksLTE1Nz
-g0Mzc0NTEsLTE3NzIxOTE5NTMsLTMxMjgyNjU0MCwtMTEyNDE1
-Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1ODMzMjUsLTE2MDAzODMxNT
-MsNzM4Nzg5MzgzLC02NjkxNDMyNzcsLTE2NTA1NTA5MzAsLTUy
-NTYzNTg0NF19
+eyJoaXN0b3J5IjpbLTIxMDE4NDU0OTUsLTI1MzA5NzYxMiwxND
+EyMjk3MjUsMTk3MzM2OTMwMCwzNDc0NzAzMTUsMTQ0MzE3MjU4
+NywtMTE4NDM5MjAyLC0zMzM3MzEwNDQsMTExOTc1NjAxOSwtMT
+U3ODQzNzQ1MSwtMTc3MjE5MTk1MywtMzEyODI2NTQwLC0xMTI0
+MTUzOTQsLTE1MzUyODk3NTEsLTE5MjU4MzMyNSwtMTYwMDM4Mz
+E1Myw3Mzg3ODkzODMsLTY2OTE0MzI3NywtMTY1MDU1MDkzMCwt
+NTI1NjM1ODQ0XX0=
 -->
