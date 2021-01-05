@@ -1287,7 +1287,10 @@ Es uno de los tipos de transistores mas comunes y mas basicos, **tienen 3 patas:
 
 ![](https://i.imgur.com/f0ZDUAS.png =250x)
 
-### P
+### PNP vs NPN
+
+Los dos tipos de transistores son super similares
+
 ### Zonas de trabajo
 
 [ejemplo](https://tinyurl.com/y3ypu423)
@@ -1592,7 +1595,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTYwMjE4OSwtMTYwMDM4MzE1Myw3Mz
+eyJoaXN0b3J5IjpbLTE5MjU4MzMyNSwtMTYwMDM4MzE1Myw3Mz
 g3ODkzODMsLTY2OTE0MzI3NywtMTY1MDU1MDkzMCwtNTI1NjM1
 ODQ0LDIwMzE2NDc3NTUsLTU2OTIyMTY4MSwxMzA3OTg5MTI0LC
 0xMTMzNjEwNjQxLC0zNDI0MzU5ODEsMjA3NjcxNDExMiwtMTEy
