@@ -1381,6 +1381,8 @@ Se trata de dos transistores BJT en serie
 ![](https://i.imgur.com/OTt5rMV.png =200x)
 
 * **Super sensibles** con poca corriente los saturas
+	* Con **MUY poca corriente** podes hacer pasar un monton de corriente
+	* 
 * **Caida de tension de saturacion** Tenes una caida de tension que es el doble a un solo transistor, osea en vez de $V_{ec}\approx 0.2v$ se ve mas como $V_{ec}\approx 0.6v$
 * **Muchas veces se vende hecho**
 	* Con resistencias para rapidez de conmutacion
@@ -1628,11 +1630,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjI5NzI1LDE5NzMzNjkzMDAsMzQ3ND
-cwMzE1LDE0NDMxNzI1ODcsLTExODQzOTIwMiwtMzMzNzMxMDQ0
-LDExMTk3NTYwMTksLTE1Nzg0Mzc0NTEsLTE3NzIxOTE5NTMsLT
-MxMjgyNjU0MCwtMTEyNDE1Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1
-ODMzMjUsLTE2MDAzODMxNTMsNzM4Nzg5MzgzLC02NjkxNDMyNz
-csLTE2NTA1NTA5MzAsLTUyNTYzNTg0NCwyMDMxNjQ3NzU1LC01
-NjkyMjE2ODFdfQ==
+eyJoaXN0b3J5IjpbMTY4NjYwNzEzMywxNDEyMjk3MjUsMTk3Mz
+M2OTMwMCwzNDc0NzAzMTUsMTQ0MzE3MjU4NywtMTE4NDM5MjAy
+LC0zMzM3MzEwNDQsMTExOTc1NjAxOSwtMTU3ODQzNzQ1MSwtMT
+c3MjE5MTk1MywtMzEyODI2NTQwLC0xMTI0MTUzOTQsLTE1MzUy
+ODk3NTEsLTE5MjU4MzMyNSwtMTYwMDM4MzE1Myw3Mzg3ODkzOD
+MsLTY2OTE0MzI3NywtMTY1MDU1MDkzMCwtNTI1NjM1ODQ0LDIw
+MzE2NDc3NTVdfQ==
 -->
