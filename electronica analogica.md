@@ -1333,8 +1333,8 @@ Para esta utilidad nos interesan la **ZONA DE CORTE** y la **ZONA DE SATURACION*
 ![](https://i.imgur.com/gCvDjV3.png)
 #### Interruptor digital - Alta potencia - WIP
 [fuente](https://www.youtube.com/watch?v=TE_pQ8pyL80&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=83)
-[Ejemplo](https://tinyurl.com/yy6gcx7q)
-El concepto es similar, pero en lugar de usar un integrado para accionar un  transistor para alimentar algo, usamos el transistor para accionar un rele
+[Ejemplo](https://tinyurl.com/yy9qzgty)
+El concepto es similar, pero en lugar de usar un integrado para accionar un  transistor para alimentar algo, usamos el transistor para accionar un rele.
 ![](https://i.imgur.com/EH3Ahxy.png =700x)
 
 #### Voltage-divider biasing
@@ -1574,11 +1574,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzIwMzQ1OSwtMzQyNDM1OTgxLDIwNz
-Y3MTQxMTIsLTExMjI5MTM3NTMsNzM0NDk1MDk4LC0yMDQ4NzY4
-OTkxLDEzOTM2NzQ1MzMsMjg1MTgwNzk0LDI3NjM0OTI5NCwxMT
-AzNTk2MTg3LC00MDg2NjgzMzUsNDAyMzcyNDY0LC0xODc3NzM5
-NTQ2LC0yODkyNjEwOTksMTI4NzQ4MzIzMSwxODYzNDA0MzQyLD
-E4MzYzMzExNzYsMTY1MzMzMzE5MywtNjI2NjI2ODAwLC0xNDIz
-MTI2OTg4XX0=
+eyJoaXN0b3J5IjpbLTExMzM2MTA2NDEsLTM0MjQzNTk4MSwyMD
+c2NzE0MTEyLC0xMTIyOTEzNzUzLDczNDQ5NTA5OCwtMjA0ODc2
+ODk5MSwxMzkzNjc0NTMzLDI4NTE4MDc5NCwyNzYzNDkyOTQsMT
+EwMzU5NjE4NywtNDA4NjY4MzM1LDQwMjM3MjQ2NCwtMTg3Nzcz
+OTU0NiwtMjg5MjYxMDk5LDEyODc0ODMyMzEsMTg2MzQwNDM0Mi
+wxODM2MzMxMTc2LDE2NTMzMzMxOTMsLTYyNjYyNjgwMCwtMTQy
+MzEyNjk4OF19
 -->
