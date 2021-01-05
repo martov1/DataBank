@@ -1377,7 +1377,7 @@ Usa dos transistores NPN y dos PNP
 
 Se trata de dos transistores BJT en serie
 * **Super sensibles** con poca corriente los saturas
-* **gran caida de tension**
+* **Caida de tension de saturacion** Tenes una caida de tension que es el doble a un solo transistor, osea en vez de $V_{ec}\approx 0.2v$ se ve mas como $V_{ec}\approx 0.6v$
 
 
 #### Voltage-divider biasing - WIP
@@ -1618,7 +1618,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODkzMDYxMCwzNDc0NzAzMTUsMTQ0Mz
+eyJoaXN0b3J5IjpbMTU3ODQxMTMwMywzNDc0NzAzMTUsMTQ0Mz
 E3MjU4NywtMTE4NDM5MjAyLC0zMzM3MzEwNDQsMTExOTc1NjAx
 OSwtMTU3ODQzNzQ1MSwtMTc3MjE5MTk1MywtMzEyODI2NTQwLC
 0xMTI0MTUzOTQsLTE1MzUyODk3NTEsLTE5MjU4MzMyNSwtMTYw
