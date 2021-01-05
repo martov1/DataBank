@@ -1368,17 +1368,17 @@ Similar al anterior, pero con las siguientes mejoras.
 #### Interruptor digital inversible - puente H - WIP
 [fuente](https://www.youtube.com/watch?v=eWkXawMjDxQ&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=7)
 [ejemplo](https://tinyurl.com/yxms2tg3)
-Se trata de una configuracion de transitores que permite revertir el paso de la corriente, por ejemplo para revertir el giro de un motor DC.
+Se trata de una configuracion de transitores que permite **revertir el paso de la corriente**, por ejemplo para revertir el giro de un motor DC.
 ![](https://i.imgur.com/wodRsNV.png)
+#### Par Darlington - WIP
 
-
-#### Voltage-divider biasing
+#### Voltage-divider biasing - WIP
 https://tinyurl.com/yyccztsx
 [ACAAAAA](https://www.youtube.com/watch?v=4kOVYORP1uo)
 [ACA TMB](https://www.youtube.com/watch?v=YQlbPGNB-ys)
 https://www.youtube.com/watch?v=t0UOSIUve9E&t=475s
 https://www.youtube.com/watch?v=IkabRft5Sdk
-#### Par Darlington - WIP
+
 #### Amplificador Clase A - WIP
 #### Amplificador  Clase B - WIP
 #### Amplificador  Clase AB - WIP
@@ -1610,11 +1610,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQzOTIwMiwtMzMzNzMxMDQ0LDExMT
-k3NTYwMTksLTE1Nzg0Mzc0NTEsLTE3NzIxOTE5NTMsLTMxMjgy
-NjU0MCwtMTEyNDE1Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1ODMzMj
-UsLTE2MDAzODMxNTMsNzM4Nzg5MzgzLC02NjkxNDMyNzcsLTE2
-NTA1NTA5MzAsLTUyNTYzNTg0NCwyMDMxNjQ3NzU1LC01NjkyMj
-E2ODEsMTMwNzk4OTEyNCwtMTEzMzYxMDY0MSwtMzQyNDM1OTgx
-LDIwNzY3MTQxMTJdfQ==
+eyJoaXN0b3J5IjpbLTE4NzA0ODIxNjcsLTExODQzOTIwMiwtMz
+MzNzMxMDQ0LDExMTk3NTYwMTksLTE1Nzg0Mzc0NTEsLTE3NzIx
+OTE5NTMsLTMxMjgyNjU0MCwtMTEyNDE1Mzk0LC0xNTM1Mjg5Nz
+UxLC0xOTI1ODMzMjUsLTE2MDAzODMxNTMsNzM4Nzg5MzgzLC02
+NjkxNDMyNzcsLTE2NTA1NTA5MzAsLTUyNTYzNTg0NCwyMDMxNj
+Q3NzU1LC01NjkyMjE2ODEsMTMwNzk4OTEyNCwtMTEzMzYxMDY0
+MSwtMzQyNDM1OTgxXX0=
 -->
