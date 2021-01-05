@@ -1333,7 +1333,7 @@ Para esta utilidad nos interesan la **ZONA DE CORTE** y la **ZONA DE SATURACION*
 ![](https://i.imgur.com/gCvDjV3.png)
 #### Interruptor digital - Alta potencia - WIP
 [fuente](https://www.youtube.com/watch?v=TE_pQ8pyL80&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=83)
-
+[Ejemplo](https://tinyurl.com/y4btp7z6)
 El concepto es similar, pero en lugar de usar un integrado para accionar un  transistor para alimentar algo, usamos el transistor para accionar un rele
 
 
@@ -1574,11 +1574,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI5MTM3NTMsNzM0NDk1MDk4LC0yMD
-Q4NzY4OTkxLDEzOTM2NzQ1MzMsMjg1MTgwNzk0LDI3NjM0OTI5
-NCwxMTAzNTk2MTg3LC00MDg2NjgzMzUsNDAyMzcyNDY0LC0xOD
-c3NzM5NTQ2LC0yODkyNjEwOTksMTI4NzQ4MzIzMSwxODYzNDA0
-MzQyLDE4MzYzMzExNzYsMTY1MzMzMzE5MywtNjI2NjI2ODAwLC
-0xNDIzMTI2OTg4LDQ3MDYxNDI0MCw3MjMxNDQ1MSwtNTQ5MTI4
-MzAwXX0=
+eyJoaXN0b3J5IjpbMjA3NjcxNDExMiwtMTEyMjkxMzc1Myw3Mz
+Q0OTUwOTgsLTIwNDg3Njg5OTEsMTM5MzY3NDUzMywyODUxODA3
+OTQsMjc2MzQ5Mjk0LDExMDM1OTYxODcsLTQwODY2ODMzNSw0MD
+IzNzI0NjQsLTE4Nzc3Mzk1NDYsLTI4OTI2MTA5OSwxMjg3NDgz
+MjMxLDE4NjM0MDQzNDIsMTgzNjMzMTE3NiwxNjUzMzMzMTkzLC
+02MjY2MjY4MDAsLTE0MjMxMjY5ODgsNDcwNjE0MjQwLDcyMzE0
+NDUxXX0=
 -->
