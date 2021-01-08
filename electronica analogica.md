@@ -1374,6 +1374,8 @@ Usa dos transistores NPN y dos PNP
 ![](https://i.imgur.com/QOMLzxP.png)
 
 ### Aplicaciones en ZONA ACTIVA
+[Electronics II topic 1 BJT operation and biasing](https://www.youtube.com/watch?v=YdLhRpswMgc&list=PLZvLSclgk4yIxWlpkNfiJKG4eOxZUyvfi)
+[Electronics II-Topic 2: BJT Discrete Amplifiers](https://www.youtube.com/playlist?list=PLZvLSclgk4yJkRHB_eJ10zo2exTY_irR0)
 
 #### Voltage-divider biasing - WIP
 https://tinyurl.com/yyccztsx
@@ -1641,11 +1643,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTg1Mzc4MCwxMjA4MzU0MTc4LDE5OD
-cyNzU5NjIsMTcxODk2ODk1NywxOTg2OTM2NTk5LC0yNTMwOTc2
-MTIsMTQxMjI5NzI1LDE5NzMzNjkzMDAsMzQ3NDcwMzE1LDE0ND
-MxNzI1ODcsLTExODQzOTIwMiwtMzMzNzMxMDQ0LDExMTk3NTYw
-MTksLTE1Nzg0Mzc0NTEsLTE3NzIxOTE5NTMsLTMxMjgyNjU0MC
-wtMTEyNDE1Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1ODMzMjUsLTE2
-MDAzODMxNTNdfQ==
+eyJoaXN0b3J5IjpbMjA5NTkwMDM1MCwtNzk5ODUzNzgwLDEyMD
+gzNTQxNzgsMTk4NzI3NTk2MiwxNzE4OTY4OTU3LDE5ODY5MzY1
+OTksLTI1MzA5NzYxMiwxNDEyMjk3MjUsMTk3MzM2OTMwMCwzND
+c0NzAzMTUsMTQ0MzE3MjU4NywtMTE4NDM5MjAyLC0zMzM3MzEw
+NDQsMTExOTc1NjAxOSwtMTU3ODQzNzQ1MSwtMTc3MjE5MTk1My
+wtMzEyODI2NTQwLC0xMTI0MTUzOTQsLTE1MzUyODk3NTEsLTE5
+MjU4MzMyNV19
 -->
