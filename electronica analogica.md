@@ -1374,6 +1374,8 @@ Usa dos transistores NPN y dos PNP
 ![](https://i.imgur.com/QOMLzxP.png)
 
 ### Aplicaciones en ZONA ACTIVA
+ [Electronics I-Topic 6: BJT Transistors & DC Circuit Applications- TIENE EJEMPLOS CON LTsplice!](https://www.youtube.com/playlist?list=PLZvLSclgk4yIBuG4VN_iI2FLXL4SqQtZr)
+ 
 [Electronics II topic 1 BJT operation and biasing](https://www.youtube.com/watch?v=YdLhRpswMgc&list=PLZvLSclgk4yIxWlpkNfiJKG4eOxZUyvfi)
 [Electronics II-Topic 2: BJT Discrete Amplifiers](https://www.youtube.com/playlist?list=PLZvLSclgk4yJkRHB_eJ10zo2exTY_irR0)
 
@@ -1643,11 +1645,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTkwMDM1MCwtNzk5ODUzNzgwLDEyMD
-gzNTQxNzgsMTk4NzI3NTk2MiwxNzE4OTY4OTU3LDE5ODY5MzY1
-OTksLTI1MzA5NzYxMiwxNDEyMjk3MjUsMTk3MzM2OTMwMCwzND
-c0NzAzMTUsMTQ0MzE3MjU4NywtMTE4NDM5MjAyLC0zMzM3MzEw
-NDQsMTExOTc1NjAxOSwtMTU3ODQzNzQ1MSwtMTc3MjE5MTk1My
-wtMzEyODI2NTQwLC0xMTI0MTUzOTQsLTE1MzUyODk3NTEsLTE5
-MjU4MzMyNV19
+eyJoaXN0b3J5IjpbLTIxMTg5MDIxNjUsMjA5NTkwMDM1MCwtNz
+k5ODUzNzgwLDEyMDgzNTQxNzgsMTk4NzI3NTk2MiwxNzE4OTY4
+OTU3LDE5ODY5MzY1OTksLTI1MzA5NzYxMiwxNDEyMjk3MjUsMT
+k3MzM2OTMwMCwzNDc0NzAzMTUsMTQ0MzE3MjU4NywtMTE4NDM5
+MjAyLC0zMzM3MzEwNDQsMTExOTc1NjAxOSwtMTU3ODQzNzQ1MS
+wtMTc3MjE5MTk1MywtMzEyODI2NTQwLC0xMTI0MTUzOTQsLTE1
+MzUyODk3NTFdfQ==
 -->
