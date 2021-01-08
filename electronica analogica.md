@@ -1413,7 +1413,7 @@ Se trata de dos transistores BJT en serie
 	* Con diodo de proteccion para control de motores DC
 	* ![](https://i.imgur.com/m74hL9Q.png =150x)
 
-### Aplicaciones
+### Aplicaciones - WIP
 #### Boton tactil
 #### Riego automatico
 
@@ -1641,11 +1641,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjg1MDQ0MywxOTg3Mjc1OTYyLDE3MT
-g5Njg5NTcsMTk4NjkzNjU5OSwtMjUzMDk3NjEyLDE0MTIyOTcy
-NSwxOTczMzY5MzAwLDM0NzQ3MDMxNSwxNDQzMTcyNTg3LC0xMT
-g0MzkyMDIsLTMzMzczMTA0NCwxMTE5NzU2MDE5LC0xNTc4NDM3
-NDUxLC0xNzcyMTkxOTUzLC0zMTI4MjY1NDAsLTExMjQxNTM5NC
-wtMTUzNTI4OTc1MSwtMTkyNTgzMzI1LC0xNjAwMzgzMTUzLDcz
-ODc4OTM4M119
+eyJoaXN0b3J5IjpbLTE2MjYxMjEyNDgsMTk4NzI3NTk2MiwxNz
+E4OTY4OTU3LDE5ODY5MzY1OTksLTI1MzA5NzYxMiwxNDEyMjk3
+MjUsMTk3MzM2OTMwMCwzNDc0NzAzMTUsMTQ0MzE3MjU4NywtMT
+E4NDM5MjAyLC0zMzM3MzEwNDQsMTExOTc1NjAxOSwtMTU3ODQz
+NzQ1MSwtMTc3MjE5MTk1MywtMzEyODI2NTQwLC0xMTI0MTUzOT
+QsLTE1MzUyODk3NTEsLTE5MjU4MzMyNSwtMTYwMDM4MzE1Myw3
+Mzg3ODkzODNdfQ==
 -->
