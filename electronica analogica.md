@@ -1379,6 +1379,8 @@ Usa dos transistores NPN y dos PNP
 [Electronics II topic 1 BJT operation and biasing](https://www.youtube.com/watch?v=YdLhRpswMgc&list=PLZvLSclgk4yIxWlpkNfiJKG4eOxZUyvfi)
 [Electronics II-Topic 2: BJT Discrete Amplifiers](https://www.youtube.com/playlist?list=PLZvLSclgk4yJkRHB_eJ10zo2exTY_irR0)
 
+[EL PROBLEMA ERA NO TENER UN CAPACITOR](https://tinyurl.com/y5t6bv4e)
+
 #### Voltage-divider biasing - WIP
 https://tinyurl.com/yyccztsx
 [ACAAAAA](https://www.youtube.com/watch?v=4kOVYORP1uo)
@@ -1645,11 +1647,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg5MDIxNjUsMjA5NTkwMDM1MCwtNz
-k5ODUzNzgwLDEyMDgzNTQxNzgsMTk4NzI3NTk2MiwxNzE4OTY4
-OTU3LDE5ODY5MzY1OTksLTI1MzA5NzYxMiwxNDEyMjk3MjUsMT
-k3MzM2OTMwMCwzNDc0NzAzMTUsMTQ0MzE3MjU4NywtMTE4NDM5
-MjAyLC0zMzM3MzEwNDQsMTExOTc1NjAxOSwtMTU3ODQzNzQ1MS
-wtMTc3MjE5MTk1MywtMzEyODI2NTQwLC0xMTI0MTUzOTQsLTE1
-MzUyODk3NTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMzUyMDEyOTYsLTIxMTg5MDIxNjUsMj
+A5NTkwMDM1MCwtNzk5ODUzNzgwLDEyMDgzNTQxNzgsMTk4NzI3
+NTk2MiwxNzE4OTY4OTU3LDE5ODY5MzY1OTksLTI1MzA5NzYxMi
+wxNDEyMjk3MjUsMTk3MzM2OTMwMCwzNDc0NzAzMTUsMTQ0MzE3
+MjU4NywtMTE4NDM5MjAyLC0zMzM3MzEwNDQsMTExOTc1NjAxOS
+wtMTU3ODQzNzQ1MSwtMTc3MjE5MTk1MywtMzEyODI2NTQwLC0x
+MTI0MTUzOTRdfQ==
 -->
