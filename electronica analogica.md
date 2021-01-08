@@ -1383,6 +1383,7 @@ https://www.youtube.com/watch?v=t0UOSIUve9E&t=475s
 https://www.youtube.com/watch?v=IkabRft5Sdk
 
 #### Amplificador Clase A - WIP
+[ejemplo](https://tinyurl.com/y4gtbwcs)
 #### Amplificador  Clase B - WIP
 #### Amplificador  Clase AB - WIP
 #### Amplificador  Clase C - WIP
@@ -1637,11 +1638,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjkzNjU5OSwtMjUzMDk3NjEyLDE0MT
-IyOTcyNSwxOTczMzY5MzAwLDM0NzQ3MDMxNSwxNDQzMTcyNTg3
-LC0xMTg0MzkyMDIsLTMzMzczMTA0NCwxMTE5NzU2MDE5LC0xNT
-c4NDM3NDUxLC0xNzcyMTkxOTUzLC0zMTI4MjY1NDAsLTExMjQx
-NTM5NCwtMTUzNTI4OTc1MSwtMTkyNTgzMzI1LC0xNjAwMzgzMT
-UzLDczODc4OTM4MywtNjY5MTQzMjc3LC0xNjUwNTUwOTMwLC01
-MjU2MzU4NDRdfQ==
+eyJoaXN0b3J5IjpbMTcxODk2ODk1NywxOTg2OTM2NTk5LC0yNT
+MwOTc2MTIsMTQxMjI5NzI1LDE5NzMzNjkzMDAsMzQ3NDcwMzE1
+LDE0NDMxNzI1ODcsLTExODQzOTIwMiwtMzMzNzMxMDQ0LDExMT
+k3NTYwMTksLTE1Nzg0Mzc0NTEsLTE3NzIxOTE5NTMsLTMxMjgy
+NjU0MCwtMTEyNDE1Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1ODMzMj
+UsLTE2MDAzODMxNTMsNzM4Nzg5MzgzLC02NjkxNDMyNzcsLTE2
+NTA1NTA5MzBdfQ==
 -->
