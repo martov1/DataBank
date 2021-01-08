@@ -1334,7 +1334,7 @@ Los transistores BJT tienen 3 zonas de trabajo
 
 
 
-### Circuitos comunes y aplicaciones
+### Aplicaciones ON-OFF
 #### Interruptor digital - Baja potencia
 [fuente](https://www.youtube.com/watch?v=kVBHdR5V7MU&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=3) 
 
@@ -1373,7 +1373,7 @@ Se trata de una configuracion de transitores que permite **revertir el paso de l
 Usa dos transistores NPN y dos PNP
 ![](https://i.imgur.com/QOMLzxP.png)
 
-
+### Aplicaciones en ZONA ACTIVA
 
 #### Voltage-divider biasing - WIP
 https://tinyurl.com/yyccztsx
@@ -1641,11 +1641,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODM1NDE3OCwxOTg3Mjc1OTYyLDE3MT
-g5Njg5NTcsMTk4NjkzNjU5OSwtMjUzMDk3NjEyLDE0MTIyOTcy
-NSwxOTczMzY5MzAwLDM0NzQ3MDMxNSwxNDQzMTcyNTg3LC0xMT
-g0MzkyMDIsLTMzMzczMTA0NCwxMTE5NzU2MDE5LC0xNTc4NDM3
-NDUxLC0xNzcyMTkxOTUzLC0zMTI4MjY1NDAsLTExMjQxNTM5NC
-wtMTUzNTI4OTc1MSwtMTkyNTgzMzI1LC0xNjAwMzgzMTUzLDcz
-ODc4OTM4M119
+eyJoaXN0b3J5IjpbLTc5OTg1Mzc4MCwxMjA4MzU0MTc4LDE5OD
+cyNzU5NjIsMTcxODk2ODk1NywxOTg2OTM2NTk5LC0yNTMwOTc2
+MTIsMTQxMjI5NzI1LDE5NzMzNjkzMDAsMzQ3NDcwMzE1LDE0ND
+MxNzI1ODcsLTExODQzOTIwMiwtMzMzNzMxMDQ0LDExMTk3NTYw
+MTksLTE1Nzg0Mzc0NTEsLTE3NzIxOTE5NTMsLTMxMjgyNjU0MC
+wtMTEyNDE1Mzk0LC0xNTM1Mjg5NzUxLC0xOTI1ODMzMjUsLTE2
+MDAzODMxNTNdfQ==
 -->
