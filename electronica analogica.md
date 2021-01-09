@@ -1386,7 +1386,7 @@ Usa dos transistores NPN y dos PNP
 #### Voltage-divider biasing - WIP
 https://tinyurl.com/yyccztsx
 [ACAAAAA](https://www.youtube.com/watch?v=4kOVYORP1uo)
-[ACA TMB](https://www.youtube.com/watch?v=YQlbPGNB-ys)
+[EXPLICACION COMO BIASING EXTABILIZA BETA](https://www.youtube.com/watch?v=YQlbPGNB-ys)
 https://www.youtube.com/watch?v=t0UOSIUve9E&t=475s
 https://www.youtube.com/watch?v=IkabRft5Sdk
 
@@ -1649,11 +1649,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTc5NTc3MiwtMTIzNTIwMTI5NiwtMj
-ExODkwMjE2NSwyMDk1OTAwMzUwLC03OTk4NTM3ODAsMTIwODM1
-NDE3OCwxOTg3Mjc1OTYyLDE3MTg5Njg5NTcsMTk4NjkzNjU5OS
-wtMjUzMDk3NjEyLDE0MTIyOTcyNSwxOTczMzY5MzAwLDM0NzQ3
-MDMxNSwxNDQzMTcyNTg3LC0xMTg0MzkyMDIsLTMzMzczMTA0NC
-wxMTE5NzU2MDE5LC0xNTc4NDM3NDUxLC0xNzcyMTkxOTUzLC0z
-MTI4MjY1NDBdfQ==
+eyJoaXN0b3J5IjpbLTE1NjQxOTMzODMsMTUyOTc5NTc3MiwtMT
+IzNTIwMTI5NiwtMjExODkwMjE2NSwyMDk1OTAwMzUwLC03OTk4
+NTM3ODAsMTIwODM1NDE3OCwxOTg3Mjc1OTYyLDE3MTg5Njg5NT
+csMTk4NjkzNjU5OSwtMjUzMDk3NjEyLDE0MTIyOTcyNSwxOTcz
+MzY5MzAwLDM0NzQ3MDMxNSwxNDQzMTcyNTg3LC0xMTg0MzkyMD
+IsLTMzMzczMTA0NCwxMTE5NzU2MDE5LC0xNTc4NDM3NDUxLC0x
+NzcyMTkxOTUzXX0=
 -->
