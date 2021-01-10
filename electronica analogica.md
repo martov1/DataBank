@@ -1373,11 +1373,7 @@ Se trata de una configuracion de transitores que permite **revertir el paso de l
 Usa dos transistores NPN y dos PNP
 ![](https://i.imgur.com/QOMLzxP.png)
 
-### Aplicaciones en ZONA ACTIVA
-
-### Transistor biasing
-[Ejemplo](https://tinyurl.com/y69rv96c)
-[Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
+### Trabajo en ZONA ACTIVA
 
  [Electronics I-Topic 6: BJT Transistors & DC Circuit Applications- TIENE EJEMPLOS CON LTsplice!](https://www.youtube.com/playlist?list=PLZvLSclgk4yIBuG4VN_iI2FLXL4SqQtZr)
  
@@ -1385,6 +1381,11 @@ Usa dos transistores NPN y dos PNP
 [Electronics II-Topic 2: BJT Discrete Amplifiers](https://www.youtube.com/playlist?list=PLZvLSclgk4yJkRHB_eJ10zo2exTY_irR0)
 
 [EL PROBLEMA ERA NO TENER UN CAPACITOR](https://tinyurl.com/y263evcw)
+
+#### Transistor biasing
+[Ejemplo](https://tinyurl.com/y69rv96c)
+[Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
+
 
 **SE LLAMA DECOUPLING CAPACITOR!!!**
 
@@ -1395,6 +1396,7 @@ https://tinyurl.com/yyccztsx
 https://www.youtube.com/watch?v=t0UOSIUve9E&t=475s
 https://www.youtube.com/watch?v=IkabRft5Sdk
 
+### Aplicaciones en ZONA ACTIVA
 #### Amplificador Clase A - WIP
 [ejemplo](https://tinyurl.com/y4gtbwcs)
 [ver aca?](https://www.youtube.com/watch?v=xOTScrAPJDc)
@@ -1654,11 +1656,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDM2NzI1OCwtMTU2NDE5MzM4MywxNT
-I5Nzk1NzcyLC0xMjM1MjAxMjk2LC0yMTE4OTAyMTY1LDIwOTU5
-MDAzNTAsLTc5OTg1Mzc4MCwxMjA4MzU0MTc4LDE5ODcyNzU5Nj
-IsMTcxODk2ODk1NywxOTg2OTM2NTk5LC0yNTMwOTc2MTIsMTQx
-MjI5NzI1LDE5NzMzNjkzMDAsMzQ3NDcwMzE1LDE0NDMxNzI1OD
-csLTExODQzOTIwMiwtMzMzNzMxMDQ0LDExMTk3NTYwMTksLTE1
-Nzg0Mzc0NTFdfQ==
+eyJoaXN0b3J5IjpbNDM3MDI0ODE2LC0xNTY0MTkzMzgzLDE1Mj
+k3OTU3NzIsLTEyMzUyMDEyOTYsLTIxMTg5MDIxNjUsMjA5NTkw
+MDM1MCwtNzk5ODUzNzgwLDEyMDgzNTQxNzgsMTk4NzI3NTk2Mi
+wxNzE4OTY4OTU3LDE5ODY5MzY1OTksLTI1MzA5NzYxMiwxNDEy
+Mjk3MjUsMTk3MzM2OTMwMCwzNDc0NzAzMTUsMTQ0MzE3MjU4Ny
+wtMTE4NDM5MjAyLC0zMzM3MzEwNDQsMTExOTc1NjAxOSwtMTU3
+ODQzNzQ1MV19
 -->
