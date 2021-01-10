@@ -1383,7 +1383,7 @@ Usa dos transistores NPN y dos PNP
 [EL PROBLEMA ERA NO TENER UN CAPACITOR](https://tinyurl.com/y263evcw)
 
 #### Transistor biasing
-[Ejemplo](https://tinyurl.com/y69rv96c)
+[Ejemplo](https://tinyurl.com/y3xo2a7m)
 [Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
 
 
@@ -1656,11 +1656,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3MDI0ODE2LC0xNTY0MTkzMzgzLDE1Mj
-k3OTU3NzIsLTEyMzUyMDEyOTYsLTIxMTg5MDIxNjUsMjA5NTkw
-MDM1MCwtNzk5ODUzNzgwLDEyMDgzNTQxNzgsMTk4NzI3NTk2Mi
-wxNzE4OTY4OTU3LDE5ODY5MzY1OTksLTI1MzA5NzYxMiwxNDEy
-Mjk3MjUsMTk3MzM2OTMwMCwzNDc0NzAzMTUsMTQ0MzE3MjU4Ny
-wtMTE4NDM5MjAyLC0zMzM3MzEwNDQsMTExOTc1NjAxOSwtMTU3
-ODQzNzQ1MV19
+eyJoaXN0b3J5IjpbMTM1ODM1NTAwOCw0MzcwMjQ4MTYsLTE1Nj
+QxOTMzODMsMTUyOTc5NTc3MiwtMTIzNTIwMTI5NiwtMjExODkw
+MjE2NSwyMDk1OTAwMzUwLC03OTk4NTM3ODAsMTIwODM1NDE3OC
+wxOTg3Mjc1OTYyLDE3MTg5Njg5NTcsMTk4NjkzNjU5OSwtMjUz
+MDk3NjEyLDE0MTIyOTcyNSwxOTczMzY5MzAwLDM0NzQ3MDMxNS
+wxNDQzMTcyNTg3LC0xMTg0MzkyMDIsLTMzMzczMTA0NCwxMTE5
+NzU2MDE5XX0=
 -->
