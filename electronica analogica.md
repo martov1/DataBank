@@ -1392,6 +1392,7 @@ $\beta=40$
 $R_1=200\Omega$
 $R_2=100\Omega$
 $Vr1_{\text{ sin transistor}}=Vcc\frac{R_1}{R_1+R_2}=10\frac{200}{300}=6.66V$
+$V_e=3.33V$
 $Ib=\frac{3.3v-0.7-3.33}{100\Omega}=0.026A$
 $Ic=0.033\beta=0.033*40=1.32A$
 [ejemplo](https://tinyurl.com/y3twa57e)
@@ -1671,11 +1672,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTg2MDc5LDEyMTAwNjA2MTAsLTIwMD
-g2NjkxMjAsMTg0MjQzNDg0NSwxNjEwNzU0ODMsLTE0NDY2NTI2
-NjYsNzg2NjE2MTcyLDEzNTgzNTUwMDgsNDM3MDI0ODE2LC0xNT
-Y0MTkzMzgzLDE1Mjk3OTU3NzIsLTEyMzUyMDEyOTYsLTIxMTg5
-MDIxNjUsMjA5NTkwMDM1MCwtNzk5ODUzNzgwLDEyMDgzNTQxNz
-gsMTk4NzI3NTk2MiwxNzE4OTY4OTU3LDE5ODY5MzY1OTksLTI1
-MzA5NzYxMl19
+eyJoaXN0b3J5IjpbLTE5MjQ0NjgyMTEsLTIyOTg2MDc5LDEyMT
+AwNjA2MTAsLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwxNjEwNzU0
+ODMsLTE0NDY2NTI2NjYsNzg2NjE2MTcyLDEzNTgzNTUwMDgsND
+M3MDI0ODE2LC0xNTY0MTkzMzgzLDE1Mjk3OTU3NzIsLTEyMzUy
+MDEyOTYsLTIxMTg5MDIxNjUsMjA5NTkwMDM1MCwtNzk5ODUzNz
+gwLDEyMDgzNTQxNzgsMTk4NzI3NTk2MiwxNzE4OTY4OTU3LDE5
+ODY5MzY1OTldfQ==
 -->
