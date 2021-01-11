@@ -1320,14 +1320,15 @@ Los transistores BJT tienen 3 zonas de trabajo
 	* Las corrientes de $I_{base}$ donde $I_{emisor}$ es **poroporcional** a $I_{base}$
 	*  $\boxed{I_{emisor}=hfe.I_{base}}$
 * **ZONA DE SATURACION:**
-	* Las corrientes de $I_{base}$ donde $I_{emisor}$ es **maxima y no puede aumentar mas**
+	* El transistor no esta limitando la corriente $I_b$
+	* $V_{ce}\approx$
 	*  $\boxed{I_{emisor}=I_{\text{saturacion}}}$
 
 
 
 | Zona Corte       | Zona Activa          | Zona saturacion        |
 |------------------|----------------------|------------------------|
-| $I_{b}=0$        | $I_c=\beta.I_b$      |  |
+| $I_{b}=0$        | $I_c=\beta.I_b$      | $I_c=max$ |
 | $I_{c}=0$        | $0<V_{ce}<V_{src}$   | $V_{ce}\approx 0$     |
 | $0<V_{be}<0.7$   | $V_{be}\approx 0.7V$ |   $V_{be}>0.7V$                     |
 | circuito ABIERTO | Amplificacion        | circuito CERRADO       |
@@ -1656,11 +1657,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2NjE2MTcyLDEzNTgzNTUwMDgsNDM3MD
-I0ODE2LC0xNTY0MTkzMzgzLDE1Mjk3OTU3NzIsLTEyMzUyMDEy
-OTYsLTIxMTg5MDIxNjUsMjA5NTkwMDM1MCwtNzk5ODUzNzgwLD
-EyMDgzNTQxNzgsMTk4NzI3NTk2MiwxNzE4OTY4OTU3LDE5ODY5
-MzY1OTksLTI1MzA5NzYxMiwxNDEyMjk3MjUsMTk3MzM2OTMwMC
-wzNDc0NzAzMTUsMTQ0MzE3MjU4NywtMTE4NDM5MjAyLC0zMzM3
-MzEwNDRdfQ==
+eyJoaXN0b3J5IjpbLTY5MTAxNzkzOSw3ODY2MTYxNzIsMTM1OD
+M1NTAwOCw0MzcwMjQ4MTYsLTE1NjQxOTMzODMsMTUyOTc5NTc3
+MiwtMTIzNTIwMTI5NiwtMjExODkwMjE2NSwyMDk1OTAwMzUwLC
+03OTk4NTM3ODAsMTIwODM1NDE3OCwxOTg3Mjc1OTYyLDE3MTg5
+Njg5NTcsMTk4NjkzNjU5OSwtMjUzMDk3NjEyLDE0MTIyOTcyNS
+wxOTczMzY5MzAwLDM0NzQ3MDMxNSwxNDQzMTcyNTg3LC0xMTg0
+MzkyMDJdfQ==
 -->
