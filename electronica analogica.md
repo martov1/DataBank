@@ -1418,10 +1418,12 @@ Generalmente no tenemos una fuente independiente de tension que sea separada del
 Inicialmente uno se sentiria tentado a crear el siguiente circuito:
 
 ![](https://i.imgur.com/JdKZarY.png)
-Pero notamos que si resolvemos la malla 1
-$$9V=I_b*1.000.000\Omega+0.7V$$
-$$9V=I_b*1.000.000\Omega+0.7V$$
+Pero notamos que si resolvemos la malla 1 con KVL
+$9V=I_b*1.000.000\Omega+0.7V$
+$I_b=0.0000083A$
 
+El impacto de esto en la malla 2 dependera muchisimo de $\beta$
+$$9=$$
 
 [Ejemplo](https://tinyurl.com/y3xo2a7m)
 [Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
@@ -1696,11 +1698,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNDQ2NDA3LC0xMDIwNDY5NzI1LDk4ND
-g1Mzg5NiwxNjc1ODQ3NTY0LDI2Mzk3NDEzOCwyMTI3MzQyNDQs
-LTE4NDEwNTg0MTcsLTEyNzQ1MjMxNTAsLTE2MTY2NDAwNTYsLT
-E0NzU0MTc4OTMsMTMwMjc5ODY1NiwtNTA1NDkxMTkxLDgxNTcw
-NTQ2MSwxODc0OTQwNzc1LC0xOTI0NDY4MjExLC0yMjk4NjA3OS
-wxMjEwMDYwNjEwLC0yMDA4NjY5MTIwLDE4NDI0MzQ4NDUsMTYx
-MDc1NDgzXX0=
+eyJoaXN0b3J5IjpbOTk0NjQ3NywtMTAyMDQ2OTcyNSw5ODQ4NT
+M4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0LC0x
+ODQxMDU4NDE3LC0xMjc0NTIzMTUwLC0xNjE2NjQwMDU2LC0xND
+c1NDE3ODkzLDEzMDI3OTg2NTYsLTUwNTQ5MTE5MSw4MTU3MDU0
+NjEsMTg3NDk0MDc3NSwtMTkyNDQ2ODIxMSwtMjI5ODYwNzksMT
+IxMDA2MDYxMCwtMjAwODY2OTEyMCwxODQyNDM0ODQ1LDE2MTA3
+NTQ4M119
 -->
