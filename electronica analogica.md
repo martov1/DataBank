@@ -1427,7 +1427,9 @@ $9=Ic*3900\Omega+V_{ce}$
 _Reemplazo usando $I_c=I_b*\beta$_
 
 $9=I_b*\beta*3900\Omega+V_{ce}$
-$9=I_b*\beta*3900\Omega+V_{ce}$
+$9=0.0000083A*\beta*3900\Omega+V_{ce}$
+
+
 [Ejemplo](https://tinyurl.com/y3xo2a7m)
 [Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
 
@@ -1701,11 +1703,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4ODY1NTIzLC0xMDIwNDY5NzI1LDk4ND
-g1Mzg5NiwxNjc1ODQ3NTY0LDI2Mzk3NDEzOCwyMTI3MzQyNDQs
-LTE4NDEwNTg0MTcsLTEyNzQ1MjMxNTAsLTE2MTY2NDAwNTYsLT
-E0NzU0MTc4OTMsMTMwMjc5ODY1NiwtNTA1NDkxMTkxLDgxNTcw
-NTQ2MSwxODc0OTQwNzc1LC0xOTI0NDY4MjExLC0yMjk4NjA3OS
-wxMjEwMDYwNjEwLC0yMDA4NjY5MTIwLDE4NDI0MzQ4NDUsMTYx
-MDc1NDgzXX0=
+eyJoaXN0b3J5IjpbLTEwNjIzODg1ODMsLTEwMjA0Njk3MjUsOT
+g0ODUzODk2LDE2NzU4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0
+NCwtMTg0MTA1ODQxNywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1Ni
+wtMTQ3NTQxNzg5MywxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1
+NzA1NDYxLDE4NzQ5NDA3NzUsLTE5MjQ0NjgyMTEsLTIyOTg2MD
+c5LDEyMTAwNjA2MTAsLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwx
+NjEwNzU0ODNdfQ==
 -->
