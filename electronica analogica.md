@@ -1385,9 +1385,12 @@ Usa dos transistores NPN y dos PNP
 #### Fuente de corriente simple
 Puedo armar una fuente de corriente simple donde una carga $R_1$ tengo una corriente constante independientemente del valor de $R_1$.
 
+Estando en la region activa se da que $I_b\beta=Ic$ siempre que los resistores no hagan que la corriente este por debajo de $I$
+
+
 Para eso lo unico que tengo que hacer es que la corriente ($Ic_{max}$) que pasaria si el transistor no existiera sea mayor que la que permite el transistor ($I_b\beta$)
 
-Estando en la region activa $I_b\beta=Ic$
+, osea que mientras tenga $R_1$ y $R_2$ tales que permitan una corriente mayor que $Ic$ (por ejemplo $Ic_{max}$), siempre va a pasar unicamente una corriente fija  $Ic$
 
 [ejemplo](https://tinyurl.com/y3twa57e)
 
@@ -1666,11 +1669,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM3MjYxMTksLTIwMDg2NjkxMjAsMT
-g0MjQzNDg0NSwxNjEwNzU0ODMsLTE0NDY2NTI2NjYsNzg2NjE2
-MTcyLDEzNTgzNTUwMDgsNDM3MDI0ODE2LC0xNTY0MTkzMzgzLD
-E1Mjk3OTU3NzIsLTEyMzUyMDEyOTYsLTIxMTg5MDIxNjUsMjA5
-NTkwMDM1MCwtNzk5ODUzNzgwLDEyMDgzNTQxNzgsMTk4NzI3NT
-k2MiwxNzE4OTY4OTU3LDE5ODY5MzY1OTksLTI1MzA5NzYxMiwx
-NDEyMjk3MjVdfQ==
+eyJoaXN0b3J5IjpbLTE5MjcyNTM1OCwtMjAwODY2OTEyMCwxOD
+QyNDM0ODQ1LDE2MTA3NTQ4MywtMTQ0NjY1MjY2Niw3ODY2MTYx
+NzIsMTM1ODM1NTAwOCw0MzcwMjQ4MTYsLTE1NjQxOTMzODMsMT
+UyOTc5NTc3MiwtMTIzNTIwMTI5NiwtMjExODkwMjE2NSwyMDk1
+OTAwMzUwLC03OTk4NTM3ODAsMTIwODM1NDE3OCwxOTg3Mjc1OT
+YyLDE3MTg5Njg5NTcsMTk4NjkzNjU5OSwtMjUzMDk3NjEyLDE0
+MTIyOTcyNV19
 -->
