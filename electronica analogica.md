@@ -1384,7 +1384,7 @@ Usa dos transistores NPN y dos PNP
 [Electronics II-Topic 2: BJT Discrete Amplifiers](https://www.youtube.com/playlist?list=PLZvLSclgk4yJkRHB_eJ10zo2exTY_irR0)
 
 [EL PROBLEMA ERA NO TENER UN CAPACITOR](https://tinyurl.com/y263evcw)
-#### Fuente de corriente simple
+#### Fuente de corriente simple con dos fuentes de tension
 [fuente](https://www.youtube.com/watch?v=NDP0wIW1UDA&list=PLZvLSclgk4yIBuG4VN_iI2FLXL4SqQtZr&index=5)
 Puedo armar una fuente de corriente simple donde una carga $R_1$ tengo una corriente constante independientemente del valor de $R_1$.
 
@@ -1402,9 +1402,13 @@ Listo, el transistor esta forzado a tener $Vbe=1V$, lo cual hace que la caida de
 
 Mientras el divisor de tension pueda mantener una corriente mayor que $0.001A$, el transistor lo limitara a $0.001A$
 
-[ejemplo](https://tinyurl.com/y573s6c7)
+[ejemplo](https://tinyurl.com/y6o87np7)
 
 ![](https://i.imgur.com/DyFjpWk.png)
+#### Fuente de corriente simple con una fuente de tension
+
+
+
 #### Transistor biasing
 [Ejemplo](https://tinyurl.com/y3xo2a7m)
 [Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
@@ -1679,11 +1683,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDEwNTg0MTcsLTEyNzQ1MjMxNTAsLT
-E2MTY2NDAwNTYsLTE0NzU0MTc4OTMsMTMwMjc5ODY1NiwtNTA1
-NDkxMTkxLDgxNTcwNTQ2MSwxODc0OTQwNzc1LC0xOTI0NDY4Mj
-ExLC0yMjk4NjA3OSwxMjEwMDYwNjEwLC0yMDA4NjY5MTIwLDE4
-NDI0MzQ4NDUsMTYxMDc1NDgzLC0xNDQ2NjUyNjY2LDc4NjYxNj
-E3MiwxMzU4MzU1MDA4LDQzNzAyNDgxNiwtMTU2NDE5MzM4Mywx
-NTI5Nzk1NzcyXX0=
+eyJoaXN0b3J5IjpbLTIyODExMzEwOCwtMTg0MTA1ODQxNywtMT
+I3NDUyMzE1MCwtMTYxNjY0MDA1NiwtMTQ3NTQxNzg5MywxMzAy
+Nzk4NjU2LC01MDU0OTExOTEsODE1NzA1NDYxLDE4NzQ5NDA3Nz
+UsLTE5MjQ0NjgyMTEsLTIyOTg2MDc5LDEyMTAwNjA2MTAsLTIw
+MDg2NjkxMjAsMTg0MjQzNDg0NSwxNjEwNzU0ODMsLTE0NDY2NT
+I2NjYsNzg2NjE2MTcyLDEzNTgzNTUwMDgsNDM3MDI0ODE2LC0x
+NTY0MTkzMzgzXX0=
 -->
