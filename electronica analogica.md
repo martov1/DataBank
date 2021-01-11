@@ -1428,7 +1428,8 @@ _Reemplazo usando $I_c=I_b*\beta$_
 
 $9=I_b*\beta*3900\Omega+V_{ce}$
 $9=0.0000083A*\beta*3900\Omega+V_{ce}$
-
+Me queda que **hay una relacion lineal entre** $$
+$\boxed{V_{ce}=9-0.3237\beta}$
 
 [Ejemplo](https://tinyurl.com/y3xo2a7m)
 [Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
@@ -1703,11 +1704,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIzODg1ODMsLTEwMjA0Njk3MjUsOT
-g0ODUzODk2LDE2NzU4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0
-NCwtMTg0MTA1ODQxNywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1Ni
-wtMTQ3NTQxNzg5MywxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1
-NzA1NDYxLDE4NzQ5NDA3NzUsLTE5MjQ0NjgyMTEsLTIyOTg2MD
-c5LDEyMTAwNjA2MTAsLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwx
-NjEwNzU0ODNdfQ==
+eyJoaXN0b3J5IjpbMTc0NTk2NzI1OSwtMTAyMDQ2OTcyNSw5OD
+Q4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0
+LC0xODQxMDU4NDE3LC0xMjc0NTIzMTUwLC0xNjE2NjQwMDU2LC
+0xNDc1NDE3ODkzLDEzMDI3OTg2NTYsLTUwNTQ5MTE5MSw4MTU3
+MDU0NjEsMTg3NDk0MDc3NSwtMTkyNDQ2ODIxMSwtMjI5ODYwNz
+ksMTIxMDA2MDYxMCwtMjAwODY2OTEyMCwxODQyNDM0ODQ1LDE2
+MTA3NTQ4M119
 -->
