@@ -1393,10 +1393,9 @@ Estando en la region activa se da que $I_b\beta=Ic$ siempre que los resistores n
 $Ic=0.001A$
 2) Elegir un $Ve$ y $R_2$ para esa corriente elegida
 $Ve=1V$ y $R_2=1000\Omega$ entonces $1V/1000\Omega=0.001A$
-3) Veo que para que funcione el transistor, $Vbe>=0.7$
-	3.A Entonces por lo menso debe ser $Vbe=1.7$ con respecto a tierra, osea $0.7$ con respecto a $Ve$
-4) Calculo la corriente de base
-$I_b=(Vbe-0.7)/R_2=1.7-0.7/\Omega=0.01ma$
+3) Fuerzo $Ve$ al voltaje elegido de $1V$
+	3.A Administro$Vbe=1.7$ tal que al quitarle los $0.7V$ aun me queda $1V$
+
 
 [ejemplo](https://tinyurl.com/y3twa57e)
 
@@ -1675,11 +1674,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NzA1NDYxLDE4NzQ5NDA3NzUsLTE5Mj
-Q0NjgyMTEsLTIyOTg2MDc5LDEyMTAwNjA2MTAsLTIwMDg2Njkx
-MjAsMTg0MjQzNDg0NSwxNjEwNzU0ODMsLTE0NDY2NTI2NjYsNz
-g2NjE2MTcyLDEzNTgzNTUwMDgsNDM3MDI0ODE2LC0xNTY0MTkz
-MzgzLDE1Mjk3OTU3NzIsLTEyMzUyMDEyOTYsLTIxMTg5MDIxNj
-UsMjA5NTkwMDM1MCwtNzk5ODUzNzgwLDEyMDgzNTQxNzgsMTk4
-NzI3NTk2Ml19
+eyJoaXN0b3J5IjpbLTE4OTA5MjAyMjAsODE1NzA1NDYxLDE4Nz
+Q5NDA3NzUsLTE5MjQ0NjgyMTEsLTIyOTg2MDc5LDEyMTAwNjA2
+MTAsLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwxNjEwNzU0ODMsLT
+E0NDY2NTI2NjYsNzg2NjE2MTcyLDEzNTgzNTUwMDgsNDM3MDI0
+ODE2LC0xNTY0MTkzMzgzLDE1Mjk3OTU3NzIsLTEyMzUyMDEyOT
+YsLTIxMTg5MDIxNjUsMjA5NTkwMDM1MCwtNzk5ODUzNzgwLDEy
+MDgzNTQxNzhdfQ==
 -->
