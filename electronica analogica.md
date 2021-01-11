@@ -1402,7 +1402,7 @@ Listo, el transistor esta forzado a tener $Vbe=1V$, lo cual hace que la caida de
 
 Mientras el divisor de tension pueda mantener una corriente mayor que $0.001A$, el transistor lo limitara a $0.001A$
 
-[ejemplo](https://tinyurl.com/y2rdpjvf)
+[ejemplo](https://tinyurl.com/y573s6c7)
 
 ![](https://i.imgur.com/DyFjpWk.png)
 #### Transistor biasing
@@ -1679,11 +1679,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ1MjMxNTAsLTE2MTY2NDAwNTYsLT
-E0NzU0MTc4OTMsMTMwMjc5ODY1NiwtNTA1NDkxMTkxLDgxNTcw
-NTQ2MSwxODc0OTQwNzc1LC0xOTI0NDY4MjExLC0yMjk4NjA3OS
-wxMjEwMDYwNjEwLC0yMDA4NjY5MTIwLDE4NDI0MzQ4NDUsMTYx
-MDc1NDgzLC0xNDQ2NjUyNjY2LDc4NjYxNjE3MiwxMzU4MzU1MD
-A4LDQzNzAyNDgxNiwtMTU2NDE5MzM4MywxNTI5Nzk1NzcyLC0x
-MjM1MjAxMjk2XX0=
+eyJoaXN0b3J5IjpbMTEyNDcxNDQ1NiwtMTI3NDUyMzE1MCwtMT
+YxNjY0MDA1NiwtMTQ3NTQxNzg5MywxMzAyNzk4NjU2LC01MDU0
+OTExOTEsODE1NzA1NDYxLDE4NzQ5NDA3NzUsLTE5MjQ0NjgyMT
+EsLTIyOTg2MDc5LDEyMTAwNjA2MTAsLTIwMDg2NjkxMjAsMTg0
+MjQzNDg0NSwxNjEwNzU0ODMsLTE0NDY2NTI2NjYsNzg2NjE2MT
+cyLDEzNTgzNTUwMDgsNDM3MDI0ODE2LC0xNTY0MTkzMzgzLDE1
+Mjk3OTU3NzJdfQ==
 -->
