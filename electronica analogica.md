@@ -1382,26 +1382,19 @@ Usa dos transistores NPN y dos PNP
 [Electronics II-Topic 2: BJT Discrete Amplifiers](https://www.youtube.com/playlist?list=PLZvLSclgk4yJkRHB_eJ10zo2exTY_irR0)
 
 [EL PROBLEMA ERA NO TENER UN CAPACITOR](https://tinyurl.com/y263evcw)
-#### Fuente de corriente simple
+#### Fuente de corriente simple - WIP
+[fuente](https://www.youtube.com/watch?v=NDP0wIW1UDA&list=PLZvLSclgk4yIBuG4VN_iI2FLXL4SqQtZr&index=5)
 Puedo armar una fuente de corriente simple donde una carga $R_1$ tengo una corriente constante independientemente del valor de $R_1$.
 
 Estando en la region activa se da que $I_b\beta=Ic$ siempre que los resistores no hagan que la corriente este por debajo de $Ic$ por ley de ohm.
 
 **Calculo:**
-Elijo la corriente objetivo
+1) Elijo la corriente objetivo
 $Ic=0.001A$
-Elegir un $Ve$ y $R_2$ para esa corriente elegida
-$Ve=1V$ y $R_2=1000\Omega$ entonces $1V/1000\Omega 
+2) Elegir un $Ve$ y $R_2$ para esa corriente elegida
+$Ve=1V$ y $R_2=1000\Omega$ entonces $1V/1000\Omega$
+3) 
 
-=0.001A$
-EJ: 
-$\beta=40$
-$R_1=200\Omega$
-$R_2=100\Omega$
-$Vr1_{\text{ sin transistor}}=Vcc\frac{R_1}{R_1+R_2}=10\frac{200}{300}=6.66V$
-$V_e=3.33V$
-$Ib=\frac{3.3v-0.7-3.33}{100\Omega}=0.026A$
-$Ic=0.033\beta=0.033*40=1.32A$
 [ejemplo](https://tinyurl.com/y3twa57e)
 
 ![](https://i.imgur.com/DyFjpWk.png)
@@ -1679,7 +1672,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDYzOTA2MywtMTkyNDQ2ODIxMSwtMj
+eyJoaXN0b3J5IjpbLTY0NTc3OTIyMCwtMTkyNDQ2ODIxMSwtMj
 I5ODYwNzksMTIxMDA2MDYxMCwtMjAwODY2OTEyMCwxODQyNDM0
 ODQ1LDE2MTA3NTQ4MywtMTQ0NjY1MjY2Niw3ODY2MTYxNzIsMT
 M1ODM1NTAwOCw0MzcwMjQ4MTYsLTE1NjQxOTMzODMsMTUyOTc5
