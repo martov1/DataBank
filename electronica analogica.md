@@ -1396,6 +1396,7 @@ $Ve=1V$ y $R_2=1000\Omega$ entonces $1V/1000\Omega=0.001A$
 3) Fuerzo $Ve$ al voltaje elegido de $1V$
 	3.A Administro$Vbe=1.7$ tal que al quitarle los $0.7V$ aun me queda $1V$
 
+Listo, el transistor esta forzado a tener $Vbe=1V$, lo cual hace que la caida de tension en el resistor $R2$ sea de $1V$ y por ley de ohm su corriente sera $0.001A$
 
 [ejemplo](https://tinyurl.com/y3twa57e)
 
@@ -1674,11 +1675,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA5MjAyMjAsODE1NzA1NDYxLDE4Nz
-Q5NDA3NzUsLTE5MjQ0NjgyMTEsLTIyOTg2MDc5LDEyMTAwNjA2
-MTAsLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwxNjEwNzU0ODMsLT
-E0NDY2NTI2NjYsNzg2NjE2MTcyLDEzNTgzNTUwMDgsNDM3MDI0
-ODE2LC0xNTY0MTkzMzgzLDE1Mjk3OTU3NzIsLTEyMzUyMDEyOT
-YsLTIxMTg5MDIxNjUsMjA5NTkwMDM1MCwtNzk5ODUzNzgwLDEy
-MDgzNTQxNzhdfQ==
+eyJoaXN0b3J5IjpbOTk2NzEzOTQ4LDgxNTcwNTQ2MSwxODc0OT
+QwNzc1LC0xOTI0NDY4MjExLC0yMjk4NjA3OSwxMjEwMDYwNjEw
+LC0yMDA4NjY5MTIwLDE4NDI0MzQ4NDUsMTYxMDc1NDgzLC0xND
+Q2NjUyNjY2LDc4NjYxNjE3MiwxMzU4MzU1MDA4LDQzNzAyNDgx
+NiwtMTU2NDE5MzM4MywxNTI5Nzk1NzcyLC0xMjM1MjAxMjk2LC
+0yMTE4OTAyMTY1LDIwOTU5MDAzNTAsLTc5OTg1Mzc4MCwxMjA4
+MzU0MTc4XX0=
 -->
