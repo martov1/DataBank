@@ -1395,7 +1395,8 @@ $Ic=0.001A$
 $Ve=1V$ y $R_2=1000\Omega$ entonces $1V/1000\Omega=0.001A$
 3) Veo que para que funcione el transistor, $Vbe>=0.7$
 	3.A Entonces por lo menso debe ser $Vbe=1.7$ con respecto a tierra, osea $0.7$ con respecto a $Ve$
-4) $I_b=(Vbe-0.7)/R_2=1.7-0.7/\Omega=0.01ma$
+4) Calculo la corriente de base
+$I_b=(Vbe-0.7)/R_2=1.7-0.7/\Omega=0.01ma$
 
 [ejemplo](https://tinyurl.com/y3twa57e)
 
@@ -1674,7 +1675,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0ODE2ODY0LDE4NzQ5NDA3NzUsLTE5Mj
+eyJoaXN0b3J5IjpbODE1NzA1NDYxLDE4NzQ5NDA3NzUsLTE5Mj
 Q0NjgyMTEsLTIyOTg2MDc5LDEyMTAwNjA2MTAsLTIwMDg2Njkx
 MjAsMTg0MjQzNDg0NSwxNjEwNzU0ODMsLTE0NDY2NTI2NjYsNz
 g2NjE2MTcyLDEzNTgzNTUwMDgsNDM3MDI0ODE2LC0xNTY0MTkz
