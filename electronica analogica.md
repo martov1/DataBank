@@ -1393,7 +1393,7 @@ Estando en la region activa se da que $I_b\beta=Ic$ siempre que los resistores n
 $Ic=0.001A$
 2) Elegir un $Ve$ y $R_2$ para esa corriente elegida
 $Ve=1V$ y $R_2=1000\Omega$ entonces $1V/1000\Omega$
-3) 
+3) Veo que para que funcione el transistor, $Vbe>=0.7$ entonces por lo menso debe ser $$
 
 [ejemplo](https://tinyurl.com/y3twa57e)
 
@@ -1672,7 +1672,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTc3OTIyMCwtMTkyNDQ2ODIxMSwtMj
+eyJoaXN0b3J5IjpbMTgyMTgxNzAxNywtMTkyNDQ2ODIxMSwtMj
 I5ODYwNzksMTIxMDA2MDYxMCwtMjAwODY2OTEyMCwxODQyNDM0
 ODQ1LDE2MTA3NTQ4MywtMTQ0NjY1MjY2Niw3ODY2MTYxNzIsMT
 M1ODM1NTAwOCw0MzcwMjQ4MTYsLTE1NjQxOTMzODMsMTUyOTc5
