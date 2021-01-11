@@ -1385,13 +1385,13 @@ Usa dos transistores NPN y dos PNP
 #### Fuente de corriente simple
 Puedo armar una fuente de corriente simple donde una carga $R_1$ tengo una corriente constante independientemente del valor de $R_1$.
 
-Estando en la region activa se da que $I_b\beta=Ic$ siempre que los resistores no hagan que la corriente este por debajo de $I$
+Estando en la region activa se da que $I_b\beta=Ic$ siempre que los resistores no hagan que la corriente este por debajo de $Ic$ por ley de ohm
 
-
-Para eso lo unico que tengo que hacer es que la corriente ($Ic_{max}$) que pasaria si el transistor no existiera sea mayor que la que permite el transistor ($I_b\beta$)
-
-, osea que mientras tenga $R_1$ y $R_2$ tales que permitan una corriente mayor que $Ic$ (por ejemplo $Ic_{max}$), siempre va a pasar unicamente una corriente fija  $Ic$
-
+EJ: 
+$R_1=200\Omega$
+$R_2=100\Omega$
+$Ib=\frac{3.3v}{100\Omega}=0.033A$
+$Ic=0.033A\beta$
 [ejemplo](https://tinyurl.com/y3twa57e)
 
 ![](https://i.imgur.com/DyFjpWk.png)
@@ -1669,7 +1669,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjcyNTM1OCwtMjAwODY2OTEyMCwxOD
+eyJoaXN0b3J5IjpbLTEyODE4Nzc5OSwtMjAwODY2OTEyMCwxOD
 QyNDM0ODQ1LDE2MTA3NTQ4MywtMTQ0NjY1MjY2Niw3ODY2MTYx
 NzIsMTM1ODM1NTAwOCw0MzcwMjQ4MTYsLTE1NjQxOTMzODMsMT
 UyOTc5NTc3MiwtMTIzNTIwMTI5NiwtMjExODkwMjE2NSwyMDk1
