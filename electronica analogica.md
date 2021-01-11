@@ -1395,7 +1395,6 @@ Puedo armar una fuente de corriente simple donde una carga $R_1$ tengo una corri
 
 Estando en la region activa se da que $I_b\beta=Ic$ siempre que los resistores no hagan que la corriente este por debajo de $Ic$ por ley de ohm.
 
-En este caso estoy en la region activa y 
 
 **Calculo:**
 1) Elijo la corriente objetivo
@@ -1690,7 +1689,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDE2NDMxNSwyNjM5NzQxMzgsMjEyNz
+eyJoaXN0b3J5IjpbMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNz
 M0MjQ0LC0xODQxMDU4NDE3LC0xMjc0NTIzMTUwLC0xNjE2NjQw
 MDU2LC0xNDc1NDE3ODkzLDEzMDI3OTg2NTYsLTUwNTQ5MTE5MS
 w4MTU3MDU0NjEsMTg3NDk0MDc3NSwtMTkyNDQ2ODIxMSwtMjI5
