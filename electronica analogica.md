@@ -1383,7 +1383,11 @@ Usa dos transistores NPN y dos PNP
 
 [EL PROBLEMA ERA NO TENER UN CAPACITOR](https://tinyurl.com/y263evcw)
 #### Fuente de corriente simple
+Puedo armar una fuente de corriente simple donde una carga $R_1$ tengo una corriente constante independientemente del valor de $R_1$.
+
 [ejemplo](https://tinyurl.com/y3twa57e)
+
+![](https://i.imgur.com/DyFjpWk.png)
 #### Transistor biasing
 [Ejemplo](https://tinyurl.com/y3xo2a7m)
 [Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
@@ -1658,11 +1662,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwxNj
-EwNzU0ODMsLTE0NDY2NTI2NjYsNzg2NjE2MTcyLDEzNTgzNTUw
-MDgsNDM3MDI0ODE2LC0xNTY0MTkzMzgzLDE1Mjk3OTU3NzIsLT
-EyMzUyMDEyOTYsLTIxMTg5MDIxNjUsMjA5NTkwMDM1MCwtNzk5
-ODUzNzgwLDEyMDgzNTQxNzgsMTk4NzI3NTk2MiwxNzE4OTY4OT
-U3LDE5ODY5MzY1OTksLTI1MzA5NzYxMiwxNDEyMjk3MjUsMTk3
-MzM2OTMwMF19
+eyJoaXN0b3J5IjpbMTA2OTE1NzEzNSwtMjAwODY2OTEyMCwxOD
+QyNDM0ODQ1LDE2MTA3NTQ4MywtMTQ0NjY1MjY2Niw3ODY2MTYx
+NzIsMTM1ODM1NTAwOCw0MzcwMjQ4MTYsLTE1NjQxOTMzODMsMT
+UyOTc5NTc3MiwtMTIzNTIwMTI5NiwtMjExODkwMjE2NSwyMDk1
+OTAwMzUwLC03OTk4NTM3ODAsMTIwODM1NDE3OCwxOTg3Mjc1OT
+YyLDE3MTg5Njg5NTcsMTk4NjkzNjU5OSwtMjUzMDk3NjEyLDE0
+MTIyOTcyNV19
 -->
