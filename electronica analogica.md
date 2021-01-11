@@ -1382,7 +1382,8 @@ Usa dos transistores NPN y dos PNP
 [Electronics II-Topic 2: BJT Discrete Amplifiers](https://www.youtube.com/playlist?list=PLZvLSclgk4yJkRHB_eJ10zo2exTY_irR0)
 
 [EL PROBLEMA ERA NO TENER UN CAPACITOR](https://tinyurl.com/y263evcw)
-
+#### Fuente de corriente simple
+[ejemplo](https://tinyurl.com/y3twa57e)
 #### Transistor biasing
 [Ejemplo](https://tinyurl.com/y3xo2a7m)
 [Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
@@ -1657,11 +1658,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjQzNDg0NSwxNjEwNzU0ODMsLTE0ND
-Y2NTI2NjYsNzg2NjE2MTcyLDEzNTgzNTUwMDgsNDM3MDI0ODE2
-LC0xNTY0MTkzMzgzLDE1Mjk3OTU3NzIsLTEyMzUyMDEyOTYsLT
-IxMTg5MDIxNjUsMjA5NTkwMDM1MCwtNzk5ODUzNzgwLDEyMDgz
-NTQxNzgsMTk4NzI3NTk2MiwxNzE4OTY4OTU3LDE5ODY5MzY1OT
-ksLTI1MzA5NzYxMiwxNDEyMjk3MjUsMTk3MzM2OTMwMCwzNDc0
-NzAzMTVdfQ==
+eyJoaXN0b3J5IjpbLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwxNj
+EwNzU0ODMsLTE0NDY2NTI2NjYsNzg2NjE2MTcyLDEzNTgzNTUw
+MDgsNDM3MDI0ODE2LC0xNTY0MTkzMzgzLDE1Mjk3OTU3NzIsLT
+EyMzUyMDEyOTYsLTIxMTg5MDIxNjUsMjA5NTkwMDM1MCwtNzk5
+ODUzNzgwLDEyMDgzNTQxNzgsMTk4NzI3NTk2MiwxNzE4OTY4OT
+U3LDE5ODY5MzY1OTksLTI1MzA5NzYxMiwxNDEyMjk3MjUsMTk3
+MzM2OTMwMF19
 -->
