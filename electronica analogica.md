@@ -1389,7 +1389,7 @@ Usa dos transistores NPN y dos PNP
 [fuente](https://www.youtube.com/watch?v=NDP0wIW1UDA&list=PLZvLSclgk4yIBuG4VN_iI2FLXL4SqQtZr&index=5)
 
 Si  el valor de $V_{be}$ esta forzado por una fuente de tension separada de la alimentacion $V_{ce}$ entonces la corriente $I_e$ dependera unica y exclusivamente del resistor $R_2$
-
+![](https://i.imgur.com/CQIwohu.png)
 Puedo armar una fuente de corriente simple donde una carga $R_1$ tengo una corriente constante independientemente del valor de $R_1$.
 
 Estando en la region activa se da que $I_b\beta=Ic$ siempre que los resistores no hagan que la corriente este por debajo de $Ic$ por ley de ohm.
@@ -1687,11 +1687,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzM0MjQ0LC0xODQxMDU4NDE3LC0xMj
-c0NTIzMTUwLC0xNjE2NjQwMDU2LC0xNDc1NDE3ODkzLDEzMDI3
-OTg2NTYsLTUwNTQ5MTE5MSw4MTU3MDU0NjEsMTg3NDk0MDc3NS
-wtMTkyNDQ2ODIxMSwtMjI5ODYwNzksMTIxMDA2MDYxMCwtMjAw
-ODY2OTEyMCwxODQyNDM0ODQ1LDE2MTA3NTQ4MywtMTQ0NjY1Mj
-Y2Niw3ODY2MTYxNzIsMTM1ODM1NTAwOCw0MzcwMjQ4MTYsLTE1
-NjQxOTMzODNdfQ==
+eyJoaXN0b3J5IjpbNDc0MjUwNDM5LDIxMjczNDI0NCwtMTg0MT
+A1ODQxNywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1NiwtMTQ3NTQx
+Nzg5MywxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1NzA1NDYxLD
+E4NzQ5NDA3NzUsLTE5MjQ0NjgyMTEsLTIyOTg2MDc5LDEyMTAw
+NjA2MTAsLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwxNjEwNzU0OD
+MsLTE0NDY2NTI2NjYsNzg2NjE2MTcyLDEzNTgzNTUwMDgsNDM3
+MDI0ODE2XX0=
 -->
