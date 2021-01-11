@@ -1388,7 +1388,7 @@ Usa dos transistores NPN y dos PNP
 #### Con fuentes de tension independientes
 [fuente](https://www.youtube.com/watch?v=NDP0wIW1UDA&list=PLZvLSclgk4yIBuG4VN_iI2FLXL4SqQtZr&index=5)
 
-Si  el valor de $V_{be}$ esta forzado por una fuente de tension separada de la alimentacion $V_{ce}$ entonces la corriente $I_e$ dependera unica y exclusivamente del resistor $R_2$
+Si  el valor de $V_{be}$ esta forzado por una fuente de tension separada de la alimentacion $V_{ce}$ entonces la corriente $I_b$ e $I_c$ dependeran unica y exclusivamente del resistor $R_2$
 
 ![](https://i.imgur.com/gvKphfq.png)
 Puedo armar una fuente de corriente simple donde una carga $R_1$ tengo una corriente constante independientemente del valor de $R_1$.
@@ -1689,11 +1689,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNz
-M0MjQ0LC0xODQxMDU4NDE3LC0xMjc0NTIzMTUwLC0xNjE2NjQw
-MDU2LC0xNDc1NDE3ODkzLDEzMDI3OTg2NTYsLTUwNTQ5MTE5MS
-w4MTU3MDU0NjEsMTg3NDk0MDc3NSwtMTkyNDQ2ODIxMSwtMjI5
-ODYwNzksMTIxMDA2MDYxMCwtMjAwODY2OTEyMCwxODQyNDM0OD
-Q1LDE2MTA3NTQ4MywtMTQ0NjY1MjY2Niw3ODY2MTYxNzIsMTM1
-ODM1NTAwOF19
+eyJoaXN0b3J5IjpbLTczNTM2Nzg5MSwxNjc1ODQ3NTY0LDI2Mz
+k3NDEzOCwyMTI3MzQyNDQsLTE4NDEwNTg0MTcsLTEyNzQ1MjMx
+NTAsLTE2MTY2NDAwNTYsLTE0NzU0MTc4OTMsMTMwMjc5ODY1Ni
+wtNTA1NDkxMTkxLDgxNTcwNTQ2MSwxODc0OTQwNzc1LC0xOTI0
+NDY4MjExLC0yMjk4NjA3OSwxMjEwMDYwNjEwLC0yMDA4NjY5MT
+IwLDE4NDI0MzQ4NDUsMTYxMDc1NDgzLC0xNDQ2NjUyNjY2LDc4
+NjYxNjE3Ml19
 -->
