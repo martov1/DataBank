@@ -1398,6 +1398,8 @@ $Ve=1V$ y $R_2=1000\Omega$ entonces $1V/1000\Omega=0.001A$
 
 Listo, el transistor esta forzado a tener $Vbe=1V$, lo cual hace que la caida de tension en el resistor $R2$ sea de $1V$ y por ley de ohm su corriente sera $0.001A$
 
+Mientras el divisor de tension pueda mantener una corriente mayor que $0.001A$, el transistor lo limitara a $0.001A$
+
 [ejemplo](https://tinyurl.com/y3twa57e)
 
 ![](https://i.imgur.com/DyFjpWk.png)
@@ -1675,11 +1677,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2NzEzOTQ4LDgxNTcwNTQ2MSwxODc0OT
-QwNzc1LC0xOTI0NDY4MjExLC0yMjk4NjA3OSwxMjEwMDYwNjEw
-LC0yMDA4NjY5MTIwLDE4NDI0MzQ4NDUsMTYxMDc1NDgzLC0xND
-Q2NjUyNjY2LDc4NjYxNjE3MiwxMzU4MzU1MDA4LDQzNzAyNDgx
-NiwtMTU2NDE5MzM4MywxNTI5Nzk1NzcyLC0xMjM1MjAxMjk2LC
-0yMTE4OTAyMTY1LDIwOTU5MDAzNTAsLTc5OTg1Mzc4MCwxMjA4
-MzU0MTc4XX0=
+eyJoaXN0b3J5IjpbLTUwNTQ5MTE5MSw4MTU3MDU0NjEsMTg3ND
+k0MDc3NSwtMTkyNDQ2ODIxMSwtMjI5ODYwNzksMTIxMDA2MDYx
+MCwtMjAwODY2OTEyMCwxODQyNDM0ODQ1LDE2MTA3NTQ4MywtMT
+Q0NjY1MjY2Niw3ODY2MTYxNzIsMTM1ODM1NTAwOCw0MzcwMjQ4
+MTYsLTE1NjQxOTMzODMsMTUyOTc5NTc3MiwtMTIzNTIwMTI5Ni
+wtMjExODkwMjE2NSwyMDk1OTAwMzUwLC03OTk4NTM3ODAsMTIw
+ODM1NDE3OF19
 -->
