@@ -1413,7 +1413,7 @@ Mientras el divisor de tension pueda mantener una corriente mayor que $0.001A$, 
 ![](https://i.imgur.com/DyFjpWk.png)
 #### Transistor biasing
 
-Generalmente no tenemos una fuente independiente de tension que sea separada del resto del circuito, por lo que tenemos que hacer una red de resistores que nos permita proveer una corriente $I_b$ para controlar el capacitor.
+Generalmente no tenemos una fuente independiente de tension que sea separada del resto del circuito, por lo que tenemos que hacer una red de resistores que nos permita proveer una corriente $I_b$ para controlar el transi.
 
 Inicialmente uno se sentiria tentado a 
 
@@ -1690,11 +1690,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA1MDQ2MywxNjc1ODQ3NTY0LDI2Mz
-k3NDEzOCwyMTI3MzQyNDQsLTE4NDEwNTg0MTcsLTEyNzQ1MjMx
-NTAsLTE2MTY2NDAwNTYsLTE0NzU0MTc4OTMsMTMwMjc5ODY1Ni
-wtNTA1NDkxMTkxLDgxNTcwNTQ2MSwxODc0OTQwNzc1LC0xOTI0
-NDY4MjExLC0yMjk4NjA3OSwxMjEwMDYwNjEwLC0yMDA4NjY5MT
-IwLDE4NDI0MzQ4NDUsMTYxMDc1NDgzLC0xNDQ2NjUyNjY2LDc4
-NjYxNjE3Ml19
+eyJoaXN0b3J5IjpbLTIxNDY1NjY2NDQsMTY3NTg0NzU2NCwyNj
+M5NzQxMzgsMjEyNzM0MjQ0LC0xODQxMDU4NDE3LC0xMjc0NTIz
+MTUwLC0xNjE2NjQwMDU2LC0xNDc1NDE3ODkzLDEzMDI3OTg2NT
+YsLTUwNTQ5MTE5MSw4MTU3MDU0NjEsMTg3NDk0MDc3NSwtMTky
+NDQ2ODIxMSwtMjI5ODYwNzksMTIxMDA2MDYxMCwtMjAwODY2OT
+EyMCwxODQyNDM0ODQ1LDE2MTA3NTQ4MywtMTQ0NjY1MjY2Niw3
+ODY2MTYxNzJdfQ==
 -->
