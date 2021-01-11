@@ -1395,7 +1395,7 @@ $Ic=0.001A$
 $Ve=1V$ y $R_2=1000\Omega$ entonces $1V/1000\Omega=0.001A$
 3) Veo que para que funcione el transistor, $Vbe>=0.7$
 	3.A Entonces por lo menso debe ser $Vbe=1.7$ con respecto a tierra, osea $0.7$ con respecto a $Ve$
-
+4) $I_b=(Vbe-0.7)/R_2=1.7-0.7/\Omega=0.01ma$
 
 [ejemplo](https://tinyurl.com/y3twa57e)
 
@@ -1674,11 +1674,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDk0MDc3NSwtMTkyNDQ2ODIxMSwtMj
-I5ODYwNzksMTIxMDA2MDYxMCwtMjAwODY2OTEyMCwxODQyNDM0
-ODQ1LDE2MTA3NTQ4MywtMTQ0NjY1MjY2Niw3ODY2MTYxNzIsMT
-M1ODM1NTAwOCw0MzcwMjQ4MTYsLTE1NjQxOTMzODMsMTUyOTc5
-NTc3MiwtMTIzNTIwMTI5NiwtMjExODkwMjE2NSwyMDk1OTAwMz
-UwLC03OTk4NTM3ODAsMTIwODM1NDE3OCwxOTg3Mjc1OTYyLDE3
-MTg5Njg5NTddfQ==
+eyJoaXN0b3J5IjpbNzA0ODE2ODY0LDE4NzQ5NDA3NzUsLTE5Mj
+Q0NjgyMTEsLTIyOTg2MDc5LDEyMTAwNjA2MTAsLTIwMDg2Njkx
+MjAsMTg0MjQzNDg0NSwxNjEwNzU0ODMsLTE0NDY2NTI2NjYsNz
+g2NjE2MTcyLDEzNTgzNTUwMDgsNDM3MDI0ODE2LC0xNTY0MTkz
+MzgzLDE1Mjk3OTU3NzIsLTEyMzUyMDEyOTYsLTIxMTg5MDIxNj
+UsMjA5NTkwMDM1MCwtNzk5ODUzNzgwLDEyMDgzNTQxNzgsMTk4
+NzI3NTk2Ml19
 -->
