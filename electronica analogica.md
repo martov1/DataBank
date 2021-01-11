@@ -1390,7 +1390,10 @@ Estando en la region activa se da que $I_b\beta=Ic$ siempre que los resistores n
 **Calculo:**
 Elijo la corriente objetivo
 $Ic=0.001A$
+Elegir un $Ve$ y $R_2$ para esa corriente elegida
+$Ve=1V$ y $R_2=1000\Omega$ entonces $1V/1000\Omega 
 
+=0.001A$
 EJ: 
 $\beta=40$
 $R_1=200\Omega$
@@ -1676,11 +1679,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM4Mzg4NzAsLTE5MjQ0NjgyMTEsLT
-IyOTg2MDc5LDEyMTAwNjA2MTAsLTIwMDg2NjkxMjAsMTg0MjQz
-NDg0NSwxNjEwNzU0ODMsLTE0NDY2NTI2NjYsNzg2NjE2MTcyLD
-EzNTgzNTUwMDgsNDM3MDI0ODE2LC0xNTY0MTkzMzgzLDE1Mjk3
-OTU3NzIsLTEyMzUyMDEyOTYsLTIxMTg5MDIxNjUsMjA5NTkwMD
-M1MCwtNzk5ODUzNzgwLDEyMDgzNTQxNzgsMTk4NzI3NTk2Miwx
-NzE4OTY4OTU3XX0=
+eyJoaXN0b3J5IjpbMTIyNDYzOTA2MywtMTkyNDQ2ODIxMSwtMj
+I5ODYwNzksMTIxMDA2MDYxMCwtMjAwODY2OTEyMCwxODQyNDM0
+ODQ1LDE2MTA3NTQ4MywtMTQ0NjY1MjY2Niw3ODY2MTYxNzIsMT
+M1ODM1NTAwOCw0MzcwMjQ4MTYsLTE1NjQxOTMzODMsMTUyOTc5
+NTc3MiwtMTIzNTIwMTI5NiwtMjExODkwMjE2NSwyMDk1OTAwMz
+UwLC03OTk4NTM3ODAsMTIwODM1NDE3OCwxOTg3Mjc1OTYyLDE3
+MTg5Njg5NTddfQ==
 -->
