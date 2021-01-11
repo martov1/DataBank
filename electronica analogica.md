@@ -1413,23 +1413,25 @@ Mientras el divisor de tension pueda mantener una corriente mayor que $0.001A$, 
 ![](https://i.imgur.com/DyFjpWk.png)
 #### Transistor biasing
 
-Generalmente no tenemos una fuente independiente de tension que sea separada del resto del circuito, por lo que tenemos que hacer una red de resistores que nos permita proveer una corriente $I_b$ para controlar el transistor.
+Generalmente **no tenemos una fuente independiente de tension que sea separada del resto del circuito**, por lo que tenemos que hacer una **red de resistores que nos permita proveer una corriente** $I_b$ para controlar el transistor.
 
+#### Transistor biasing
 Inicialmente uno se sentiria tentado a crear el siguiente circuito:
 
 ![](https://i.imgur.com/JdKZarY.png)
-Pero notamos que si resolvemos la malla 1 con KVL
+Pero notamos que si resolvemos la **MALLA 1** con KVL
 $9V=I_b*1.000.000\Omega+0.7V$
 $I_b=0.0000083A$
 
-El impacto de esto en la malla 2 dependera muchisimo de $\beta$
+El impacto de esto en la **MALLA 2** dependera muchisimo de $\beta$
 $9=Ic*3900\Omega+V_{ce}$
 _Reemplazo usando $I_c=I_b*\beta$_
 
 $9=I_b*\beta*3900\Omega+V_{ce}$
 $9=0.0000083A*\beta*3900\Omega+V_{ce}$
-Me queda que **hay una relacion lineal entre** $$
+Me queda que **hay una relacion lineal entre** $V_{ce}$ y $\beta$
 $\boxed{V_{ce}=9-0.3237\beta}$
+**Esto es un gran problema, por que** $\beta$ varia muchisimo de transistor en transistor
 
 [Ejemplo](https://tinyurl.com/y3xo2a7m)
 [Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
@@ -1704,11 +1706,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTk2NzI1OSwtMTAyMDQ2OTcyNSw5OD
-Q4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0
-LC0xODQxMDU4NDE3LC0xMjc0NTIzMTUwLC0xNjE2NjQwMDU2LC
-0xNDc1NDE3ODkzLDEzMDI3OTg2NTYsLTUwNTQ5MTE5MSw4MTU3
-MDU0NjEsMTg3NDk0MDc3NSwtMTkyNDQ2ODIxMSwtMjI5ODYwNz
-ksMTIxMDA2MDYxMCwtMjAwODY2OTEyMCwxODQyNDM0ODQ1LDE2
-MTA3NTQ4M119
+eyJoaXN0b3J5IjpbLTE3NTQ4OTMyMjYsLTEwMjA0Njk3MjUsOT
+g0ODUzODk2LDE2NzU4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0
+NCwtMTg0MTA1ODQxNywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1Ni
+wtMTQ3NTQxNzg5MywxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1
+NzA1NDYxLDE4NzQ5NDA3NzUsLTE5MjQ0NjgyMTEsLTIyOTg2MD
+c5LDEyMTAwNjA2MTAsLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwx
+NjEwNzU0ODNdfQ==
 -->
