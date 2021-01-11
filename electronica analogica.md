@@ -1415,7 +1415,8 @@ Mientras el divisor de tension pueda mantener una corriente mayor que $0.001A$, 
 
 Generalmente no tenemos una fuente independiente de tension que sea separada del resto del circuito, por lo que tenemos que hacer una red de resistores que nos permita proveer una corriente $I_b$ para controlar el transistor.
 
-Inicialmente uno se sentiria tentado a 
+Inicialmente uno se sentiria tentado a crear el siguiente circuito:
+
 
 [Ejemplo](https://tinyurl.com/y3xo2a7m)
 [Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
@@ -1690,11 +1691,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0ODUzODk2LDE2NzU4NDc1NjQsMjYzOT
-c0MTM4LDIxMjczNDI0NCwtMTg0MTA1ODQxNywtMTI3NDUyMzE1
-MCwtMTYxNjY0MDA1NiwtMTQ3NTQxNzg5MywxMzAyNzk4NjU2LC
-01MDU0OTExOTEsODE1NzA1NDYxLDE4NzQ5NDA3NzUsLTE5MjQ0
-NjgyMTEsLTIyOTg2MDc5LDEyMTAwNjA2MTAsLTIwMDg2NjkxMj
-AsMTg0MjQzNDg0NSwxNjEwNzU0ODMsLTE0NDY2NTI2NjYsNzg2
-NjE2MTcyXX0=
+eyJoaXN0b3J5IjpbLTEwMjA0Njk3MjUsOTg0ODUzODk2LDE2Nz
+U4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0NCwtMTg0MTA1ODQx
+NywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1NiwtMTQ3NTQxNzg5My
+wxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1NzA1NDYxLDE4NzQ5
+NDA3NzUsLTE5MjQ0NjgyMTEsLTIyOTg2MDc5LDEyMTAwNjA2MT
+AsLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwxNjEwNzU0ODMsLTE0
+NDY2NTI2NjZdfQ==
 -->
