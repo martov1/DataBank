@@ -1310,7 +1310,7 @@ Los dos tipos de transistores son super similares, la diferencia principal es
 [ejemplo1](https://tinyurl.com/yy6cdr8y)
 [fuente](https://www.youtube.com/watch?v=7Q79fhvoRSs&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O&index=2)
 ![](https://i.imgur.com/CYzJxHv.png =300x)
-[Ejemplo 2](https://tinyurl.com/yxpcaj7r)
+[Ejemplo 2](https://tinyurl.com/y49vr8lw)
 ![](https://i.imgur.com/X6TluhY.png)
 Los transistores BJT tienen 3 zonas de trabajo
 * **ZONA DE CORTE:** 
@@ -1679,11 +1679,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU0MTc4OTMsMTMwMjc5ODY1NiwtNT
-A1NDkxMTkxLDgxNTcwNTQ2MSwxODc0OTQwNzc1LC0xOTI0NDY4
-MjExLC0yMjk4NjA3OSwxMjEwMDYwNjEwLC0yMDA4NjY5MTIwLD
-E4NDI0MzQ4NDUsMTYxMDc1NDgzLC0xNDQ2NjUyNjY2LDc4NjYx
-NjE3MiwxMzU4MzU1MDA4LDQzNzAyNDgxNiwtMTU2NDE5MzM4My
-wxNTI5Nzk1NzcyLC0xMjM1MjAxMjk2LC0yMTE4OTAyMTY1LDIw
-OTU5MDAzNTBdfQ==
+eyJoaXN0b3J5IjpbLTE2MTY2NDAwNTYsLTE0NzU0MTc4OTMsMT
+MwMjc5ODY1NiwtNTA1NDkxMTkxLDgxNTcwNTQ2MSwxODc0OTQw
+Nzc1LC0xOTI0NDY4MjExLC0yMjk4NjA3OSwxMjEwMDYwNjEwLC
+0yMDA4NjY5MTIwLDE4NDI0MzQ4NDUsMTYxMDc1NDgzLC0xNDQ2
+NjUyNjY2LDc4NjYxNjE3MiwxMzU4MzU1MDA4LDQzNzAyNDgxNi
+wtMTU2NDE5MzM4MywxNTI5Nzk1NzcyLC0xMjM1MjAxMjk2LC0y
+MTE4OTAyMTY1XX0=
 -->
