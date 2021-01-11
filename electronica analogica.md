@@ -1385,7 +1385,11 @@ Usa dos transistores NPN y dos PNP
 #### Fuente de corriente simple
 Puedo armar una fuente de corriente simple donde una carga $R_1$ tengo una corriente constante independientemente del valor de $R_1$.
 
-Estando en la region activa se da que $I_b\beta=Ic$ siempre que los resistores no hagan que la corriente este por debajo de $Ic$ por ley de ohm
+Estando en la region activa se da que $I_b\beta=Ic$ siempre que los resistores no hagan que la corriente este por debajo de $Ic$ por ley de ohm.
+
+**Calculo:**
+Elijo la corriente objetivo
+$Ic=0.001A$
 
 EJ: 
 $\beta=40$
@@ -1672,11 +1676,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQ0NjgyMTEsLTIyOTg2MDc5LDEyMT
-AwNjA2MTAsLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwxNjEwNzU0
-ODMsLTE0NDY2NTI2NjYsNzg2NjE2MTcyLDEzNTgzNTUwMDgsND
-M3MDI0ODE2LC0xNTY0MTkzMzgzLDE1Mjk3OTU3NzIsLTEyMzUy
-MDEyOTYsLTIxMTg5MDIxNjUsMjA5NTkwMDM1MCwtNzk5ODUzNz
-gwLDEyMDgzNTQxNzgsMTk4NzI3NTk2MiwxNzE4OTY4OTU3LDE5
-ODY5MzY1OTldfQ==
+eyJoaXN0b3J5IjpbLTEwNTM4Mzg4NzAsLTE5MjQ0NjgyMTEsLT
+IyOTg2MDc5LDEyMTAwNjA2MTAsLTIwMDg2NjkxMjAsMTg0MjQz
+NDg0NSwxNjEwNzU0ODMsLTE0NDY2NTI2NjYsNzg2NjE2MTcyLD
+EzNTgzNTUwMDgsNDM3MDI0ODE2LC0xNTY0MTkzMzgzLDE1Mjk3
+OTU3NzIsLTEyMzUyMDEyOTYsLTIxMTg5MDIxNjUsMjA5NTkwMD
+M1MCwtNzk5ODUzNzgwLDEyMDgzNTQxNzgsMTk4NzI3NTk2Miwx
+NzE4OTY4OTU3XX0=
 -->
