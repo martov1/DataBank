@@ -1388,7 +1388,7 @@ Usa dos transistores NPN y dos PNP
 #### Con fuentes de tension independientes
 [fuente](https://www.youtube.com/watch?v=NDP0wIW1UDA&list=PLZvLSclgk4yIBuG4VN_iI2FLXL4SqQtZr&index=5)
 
-Si  el valor de $V_{be}$ esta forzado por una fuente de tension independ 
+Si  el valor de $V_{be}$ esta forzado por una fuente de tension separada de la alimentacion $V_{ce}$ entonces la corriente $I_e$ dependera unica 
 
 Puedo armar una fuente de corriente simple donde una carga $R_1$ tengo una corriente constante independientemente del valor de $R_1$.
 
@@ -1687,7 +1687,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU5ODk1MDQsLTE4NDEwNTg0MTcsLT
+eyJoaXN0b3J5IjpbLTE3ODE4MjEyMDMsLTE4NDEwNTg0MTcsLT
 EyNzQ1MjMxNTAsLTE2MTY2NDAwNTYsLTE0NzU0MTc4OTMsMTMw
 Mjc5ODY1NiwtNTA1NDkxMTkxLDgxNTcwNTQ2MSwxODc0OTQwNz
 c1LC0xOTI0NDY4MjExLC0yMjk4NjA3OSwxMjEwMDYwNjEwLC0y
