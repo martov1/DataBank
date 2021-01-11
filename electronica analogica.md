@@ -1391,8 +1391,8 @@ EJ:
 $\beta=40$
 $R_1=200\Omega$
 $R_2=100\Omega$
-$Vc_{\text{ sin transistor}}=Vcc\frac{R_1}{R_1+R_2}$
-$Ib=\frac{3.3v-0.7}{100\Omega}=0.026A$
+$Vr1_{\text{ sin transistor}}=Vcc\frac{R_1}{R_1+R_2}=10\frac{200}{300}=6.66V$
+$Ib=\frac{3.3v-0.7-3.33}{100\Omega}=0.026A$
 $Ic=0.033\beta=0.033*40=1.32A$
 [ejemplo](https://tinyurl.com/y3twa57e)
 
@@ -1671,7 +1671,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDI0MzE5LDEyMTAwNjA2MTAsLTIwMD
+eyJoaXN0b3J5IjpbLTIyOTg2MDc5LDEyMTAwNjA2MTAsLTIwMD
 g2NjkxMjAsMTg0MjQzNDg0NSwxNjEwNzU0ODMsLTE0NDY2NTI2
 NjYsNzg2NjE2MTcyLDEzNTgzNTUwMDgsNDM3MDI0ODE2LC0xNT
 Y0MTkzMzgzLDE1Mjk3OTU3NzIsLTEyMzUyMDEyOTYsLTIxMTg5
