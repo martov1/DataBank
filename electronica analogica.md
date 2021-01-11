@@ -1417,6 +1417,8 @@ Generalmente no tenemos una fuente independiente de tension que sea separada del
 
 Inicialmente uno se sentiria tentado a crear el siguiente circuito:
 
+![](https://i.imgur.com/bAi5GET.png)
+Pero notamos que 
 
 [Ejemplo](https://tinyurl.com/y3xo2a7m)
 [Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
@@ -1691,11 +1693,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA0Njk3MjUsOTg0ODUzODk2LDE2Nz
-U4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0NCwtMTg0MTA1ODQx
-NywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1NiwtMTQ3NTQxNzg5My
-wxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1NzA1NDYxLDE4NzQ5
-NDA3NzUsLTE5MjQ0NjgyMTEsLTIyOTg2MDc5LDEyMTAwNjA2MT
-AsLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwxNjEwNzU0ODMsLTE0
-NDY2NTI2NjZdfQ==
+eyJoaXN0b3J5IjpbODQ1NDgyNDEsLTEwMjA0Njk3MjUsOTg0OD
+UzODk2LDE2NzU4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0NCwt
+MTg0MTA1ODQxNywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1NiwtMT
+Q3NTQxNzg5MywxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1NzA1
+NDYxLDE4NzQ5NDA3NzUsLTE5MjQ0NjgyMTEsLTIyOTg2MDc5LD
+EyMTAwNjA2MTAsLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwxNjEw
+NzU0ODNdfQ==
 -->
