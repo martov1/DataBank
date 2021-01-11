@@ -1384,7 +1384,7 @@ Usa dos transistores NPN y dos PNP
 [Electronics II-Topic 2: BJT Discrete Amplifiers](https://www.youtube.com/playlist?list=PLZvLSclgk4yJkRHB_eJ10zo2exTY_irR0)
 
 [EL PROBLEMA ERA NO TENER UN CAPACITOR](https://tinyurl.com/y263evcw)
-#### Fuente de corriente simple - WIP
+#### Fuente de corriente simple
 [fuente](https://www.youtube.com/watch?v=NDP0wIW1UDA&list=PLZvLSclgk4yIBuG4VN_iI2FLXL4SqQtZr&index=5)
 Puedo armar una fuente de corriente simple donde una carga $R_1$ tengo una corriente constante independientemente del valor de $R_1$.
 
@@ -1679,11 +1679,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzY5MjIyLDEzMDI3OTg2NTYsLTUwNT
-Q5MTE5MSw4MTU3MDU0NjEsMTg3NDk0MDc3NSwtMTkyNDQ2ODIx
-MSwtMjI5ODYwNzksMTIxMDA2MDYxMCwtMjAwODY2OTEyMCwxOD
-QyNDM0ODQ1LDE2MTA3NTQ4MywtMTQ0NjY1MjY2Niw3ODY2MTYx
-NzIsMTM1ODM1NTAwOCw0MzcwMjQ4MTYsLTE1NjQxOTMzODMsMT
-UyOTc5NTc3MiwtMTIzNTIwMTI5NiwtMjExODkwMjE2NSwyMDk1
-OTAwMzUwXX0=
+eyJoaXN0b3J5IjpbLTE0NzU0MTc4OTMsMTMwMjc5ODY1NiwtNT
+A1NDkxMTkxLDgxNTcwNTQ2MSwxODc0OTQwNzc1LC0xOTI0NDY4
+MjExLC0yMjk4NjA3OSwxMjEwMDYwNjEwLC0yMDA4NjY5MTIwLD
+E4NDI0MzQ4NDUsMTYxMDc1NDgzLC0xNDQ2NjUyNjY2LDc4NjYx
+NjE3MiwxMzU4MzU1MDA4LDQzNzAyNDgxNiwtMTU2NDE5MzM4My
+wxNTI5Nzk1NzcyLC0xMjM1MjAxMjk2LC0yMTE4OTAyMTY1LDIw
+OTU5MDAzNTBdfQ==
 -->
