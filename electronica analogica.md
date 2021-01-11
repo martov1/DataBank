@@ -1391,7 +1391,7 @@ EJ:
 $\beta=40$
 $R_1=200\Omega$
 $R_2=100\Omega$
-$Vc=I_c*R_1+I_c*R_2$
+$Vc_{\text{ sin transistor}}=I_c*R_1+I_c*R_2$
 $Ib=\frac{3.3v-0.7}{100\Omega}=0.026A$
 $Ic=0.033\beta=0.033*40=1.32A$
 [ejemplo](https://tinyurl.com/y3twa57e)
@@ -1671,11 +1671,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NTc2ODY0LDEyMTAwNjA2MTAsLTIwMD
-g2NjkxMjAsMTg0MjQzNDg0NSwxNjEwNzU0ODMsLTE0NDY2NTI2
-NjYsNzg2NjE2MTcyLDEzNTgzNTUwMDgsNDM3MDI0ODE2LC0xNT
-Y0MTkzMzgzLDE1Mjk3OTU3NzIsLTEyMzUyMDEyOTYsLTIxMTg5
-MDIxNjUsMjA5NTkwMDM1MCwtNzk5ODUzNzgwLDEyMDgzNTQxNz
-gsMTk4NzI3NTk2MiwxNzE4OTY4OTU3LDE5ODY5MzY1OTksLTI1
-MzA5NzYxMl19
+eyJoaXN0b3J5IjpbLTE4Njg4MjE0MDMsMTIxMDA2MDYxMCwtMj
+AwODY2OTEyMCwxODQyNDM0ODQ1LDE2MTA3NTQ4MywtMTQ0NjY1
+MjY2Niw3ODY2MTYxNzIsMTM1ODM1NTAwOCw0MzcwMjQ4MTYsLT
+E1NjQxOTMzODMsMTUyOTc5NTc3MiwtMTIzNTIwMTI5NiwtMjEx
+ODkwMjE2NSwyMDk1OTAwMzUwLC03OTk4NTM3ODAsMTIwODM1ND
+E3OCwxOTg3Mjc1OTYyLDE3MTg5Njg5NTcsMTk4NjkzNjU5OSwt
+MjUzMDk3NjEyXX0=
 -->
