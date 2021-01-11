@@ -1332,7 +1332,7 @@ Los transistores BJT tienen 3 zonas de trabajo
 | $I_{c}=0$        | $0<V_{ce}<V_{src}$   | $V_{ce}\approx 0$     |
 | $0<V_{be}<0.7$   | $V_{be}\approx 0.7V$ |   $V_{be}>0.7V$                     |
 | circuito ABIERTO | Amplificacion        | circuito CERRADO       |
-
+![](https://i.imgur.com/Wbirb00.png =500x)
 
 
 ### Aplicaciones ON-OFF
@@ -1657,11 +1657,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY2NTI2NjYsNzg2NjE2MTcyLDEzNT
-gzNTUwMDgsNDM3MDI0ODE2LC0xNTY0MTkzMzgzLDE1Mjk3OTU3
-NzIsLTEyMzUyMDEyOTYsLTIxMTg5MDIxNjUsMjA5NTkwMDM1MC
-wtNzk5ODUzNzgwLDEyMDgzNTQxNzgsMTk4NzI3NTk2MiwxNzE4
-OTY4OTU3LDE5ODY5MzY1OTksLTI1MzA5NzYxMiwxNDEyMjk3Mj
-UsMTk3MzM2OTMwMCwzNDc0NzAzMTUsMTQ0MzE3MjU4NywtMTE4
-NDM5MjAyXX0=
+eyJoaXN0b3J5IjpbMTYxMDc1NDgzLC0xNDQ2NjUyNjY2LDc4Nj
+YxNjE3MiwxMzU4MzU1MDA4LDQzNzAyNDgxNiwtMTU2NDE5MzM4
+MywxNTI5Nzk1NzcyLC0xMjM1MjAxMjk2LC0yMTE4OTAyMTY1LD
+IwOTU5MDAzNTAsLTc5OTg1Mzc4MCwxMjA4MzU0MTc4LDE5ODcy
+NzU5NjIsMTcxODk2ODk1NywxOTg2OTM2NTk5LC0yNTMwOTc2MT
+IsMTQxMjI5NzI1LDE5NzMzNjkzMDAsMzQ3NDcwMzE1LDE0NDMx
+NzI1ODddfQ==
 -->
