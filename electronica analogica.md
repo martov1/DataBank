@@ -1411,11 +1411,12 @@ Mientras el divisor de tension pueda mantener una corriente mayor que $0.001A$, 
 [ejemplo](https://tinyurl.com/y6o87np7)
 
 ![](https://i.imgur.com/DyFjpWk.png)
-#### Fuente de corriente simple con una fuente de tension
-
-
-
 #### Transistor biasing
+
+Generalmente no tenemos una fuente independiente de tension que sea separada del resto del circuito, por lo que tenemos que hacer una red de resistores que nos permita proveer una corriente $I_b$ para controlar el capacitor.
+
+
+
 [Ejemplo](https://tinyurl.com/y3xo2a7m)
 [Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
 
@@ -1689,7 +1690,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTM2Nzg5MSwxNjc1ODQ3NTY0LDI2Mz
+eyJoaXN0b3J5IjpbMjAzNTMwNDA3MCwxNjc1ODQ3NTY0LDI2Mz
 k3NDEzOCwyMTI3MzQyNDQsLTE4NDEwNTg0MTcsLTEyNzQ1MjMx
 NTAsLTE2MTY2NDAwNTYsLTE0NzU0MTc4OTMsMTMwMjc5ODY1Ni
 wtNTA1NDkxMTkxLDgxNTcwNTQ2MSwxODc0OTQwNzc1LC0xOTI0
