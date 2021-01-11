@@ -1413,9 +1413,11 @@ Mientras el divisor de tension pueda mantener una corriente mayor que $0.001A$, 
 ![](https://i.imgur.com/DyFjpWk.png)
 #### Transistor biasing
 
+[fuente](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
+##### Fixed biasing
 Generalmente **no tenemos una fuente independiente de tension que sea separada del resto del circuito**, por lo que tenemos que hacer una **red de resistores que nos permita proveer una corriente** $I_b$ para controlar el transistor.
 
-#### Transistor biasing
+
 Inicialmente uno se sentiria tentado a crear el siguiente circuito:
 
 ![](https://i.imgur.com/JdKZarY.png)
@@ -1429,12 +1431,14 @@ _Reemplazo usando $I_c=I_b*\beta$_
 
 $9=I_b*\beta*3900\Omega+V_{ce}$
 $9=0.0000083A*\beta*3900\Omega+V_{ce}$
+
 Me queda que **hay una relacion lineal entre** $V_{ce}$ y $\beta$
+
 $\boxed{V_{ce}=9-0.3237\beta}$
+
 **Esto es un gran problema, por que** $\beta$ varia muchisimo de transistor en transistor
 
 [Ejemplo](https://tinyurl.com/y3xo2a7m)
-[Explicacion](https://www.youtube.com/watch?v=YQlbPGNB-ys&t=849s)
 
 
 **SE LLAMA DECOUPLING CAPACITOR!!!**
@@ -1706,11 +1710,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ4OTMyMjYsLTEwMjA0Njk3MjUsOT
-g0ODUzODk2LDE2NzU4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0
-NCwtMTg0MTA1ODQxNywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1Ni
-wtMTQ3NTQxNzg5MywxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1
-NzA1NDYxLDE4NzQ5NDA3NzUsLTE5MjQ0NjgyMTEsLTIyOTg2MD
-c5LDEyMTAwNjA2MTAsLTIwMDg2NjkxMjAsMTg0MjQzNDg0NSwx
-NjEwNzU0ODNdfQ==
+eyJoaXN0b3J5IjpbOTM3MjExNjYwLC0xMDIwNDY5NzI1LDk4ND
+g1Mzg5NiwxNjc1ODQ3NTY0LDI2Mzk3NDEzOCwyMTI3MzQyNDQs
+LTE4NDEwNTg0MTcsLTEyNzQ1MjMxNTAsLTE2MTY2NDAwNTYsLT
+E0NzU0MTc4OTMsMTMwMjc5ODY1NiwtNTA1NDkxMTkxLDgxNTcw
+NTQ2MSwxODc0OTQwNzc1LC0xOTI0NDY4MjExLC0yMjk4NjA3OS
+wxMjEwMDYwNjEwLC0yMDA4NjY5MTIwLDE4NDI0MzQ4NDUsMTYx
+MDc1NDgzXX0=
 -->
