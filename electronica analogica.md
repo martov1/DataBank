@@ -659,6 +659,8 @@ Las magnitudes en el capacitor **durante su carga** se modelan con
 
 [Derivacion de esas equaciones](https://www.youtube.com/watch?v=gd7caHXKtp8)
 
+[Ejemplo](https://tinyurl.com/y4rg45cx)
+![](https://i.imgur.com/plca0rs.png)
 A su vez, podemos analizar lo que sucede en el resistor $R$
 * Notamos que $I_R=I_{cap}(t)$ por que esta en serie con el capacitor y entonces pasara la misma corriente.
 *  Por ley de ohm $\large{\frac{v_{R}(t)}{R}=I_{cap}(t)}$
@@ -1157,11 +1159,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDg2MjIwOSw5MzcyMTE2NjAsLTEwMj
-A0Njk3MjUsOTg0ODUzODk2LDE2NzU4NDc1NjQsMjYzOTc0MTM4
-LDIxMjczNDI0NCwtMTg0MTA1ODQxNywtMTI3NDUyMzE1MCwtMT
-YxNjY0MDA1NiwtMTQ3NTQxNzg5MywxMzAyNzk4NjU2LC01MDU0
-OTExOTEsODE1NzA1NDYxLDE4NzQ5NDA3NzUsLTE5MjQ0NjgyMT
-EsLTIyOTg2MDc5LDEyMTAwNjA2MTAsLTIwMDg2NjkxMjAsMTg0
-MjQzNDg0NV19
+eyJoaXN0b3J5IjpbLTUzMjk5MjMwLDEyMTA4NjIyMDksOTM3Mj
+ExNjYwLC0xMDIwNDY5NzI1LDk4NDg1Mzg5NiwxNjc1ODQ3NTY0
+LDI2Mzk3NDEzOCwyMTI3MzQyNDQsLTE4NDEwNTg0MTcsLTEyNz
+Q1MjMxNTAsLTE2MTY2NDAwNTYsLTE0NzU0MTc4OTMsMTMwMjc5
+ODY1NiwtNTA1NDkxMTkxLDgxNTcwNTQ2MSwxODc0OTQwNzc1LC
+0xOTI0NDY4MjExLC0yMjk4NjA3OSwxMjEwMDYwNjEwLC0yMDA4
+NjY5MTIwXX0=
 -->
