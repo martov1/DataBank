@@ -937,16 +937,17 @@ Podemos usar las propiedades del capacitor para **filtrar cambios rápidos de vo
 
 Esto es muy útil por que permite **proteger circuitos integrados que son sensibles al ruido**
 
-Funciona asi
+**FUNCIONAMIENTO:**
 * Coloco un **capacitor en paralelo** 
 * El capacitor **se carga hasta la tension de la fuente**
-* Cuando haya **ruido que eleve la tension** por breves nanosegundos
+* **Cuando haya ruido que ELEVE la tension** por breves nanosegundos
 	* El capacitor se **carga** un poquito **mas** por que hay una tension mayor entre sus bornes, **chupando corriente**
 	* Entonces la carga **nunca ve esa corriente de mas** por que la absorbe el capacitor, y por ley de ohm la **tension de la carga no cambia** 
 	* Es como si esa corriente del ruido "pasara a traves del capacitor"
-* Cuando haya **ruido que baje la tension** por breves nanosegundos
+* **Cuando haya ruido que BAJE la tension** por breves nanosegundos
 	* El capacitor se **descarga** un **poquito**, liberando corriente
-	* Entonces la carga **nunca ve corriente de menos** por que la provee el capacitor, 
+	* Entonces la carga **nunca ve corriente de menos** por que la provee el capacitor, entonces por ley de ohm **la tension de la carga no cambia**
+	* Es como si esa corriente del ruido “pasara a traves del capacitor”
 
 [Ejemplo](https://tinyurl.com/yxogcwjt)
 ![](https://i.imgur.com/NNiB6Qk.png)
@@ -1224,7 +1225,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjI1ODYyMCw4NTUwMjE2MDEsMTI2Mj
+eyJoaXN0b3J5IjpbLTg1NzE1MTI5OSw4NTUwMjE2MDEsMTI2Mj
 UyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIzMTEyLC01MzI5OTIz
 MCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5OD
 Q4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0
