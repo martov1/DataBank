@@ -933,9 +933,9 @@ Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, t
 [ver 3](https://www.youtube.com/watch?v=BcJ6UdDx1vg)
 
 
-Podemos usar las propiedades del capacitor para **filtrar cambios rapidos de voltaje** caracteristicos del **ruido y la interferencia**.
+Podemos usar las propiedades del capacitor para **filtrar cambios rápidos de voltaje** característicos del **ruido y la interferencia**.
 
-Esto es muy util por que permite **protejer circuitos integrados que son sensibles al ruido**
+Esto es muy útil por que permite **proteger circuitos integrados que son sensibles al ruido**
 [Ejemplo](https://tinyurl.com/yxogcwjt)
 ![](https://i.imgur.com/NNiB6Qk.png)
 # Transformadores
@@ -1212,7 +1212,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Nzc1NzY1MSw4NTUwMjE2MDEsMTI2Mj
+eyJoaXN0b3J5IjpbLTk2NTM4NjE1OSw4NTUwMjE2MDEsMTI2Mj
 UyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIzMTEyLC01MzI5OTIz
 MCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5OD
 Q4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0
