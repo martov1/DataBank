@@ -940,7 +940,9 @@ Podemos usar las propiedades del capacitor para **filtrar cambios rápidos de vo
 
 Esto es muy útil por que permite **proteger circuitos integrados que son sensibles al ruido**
 
-El funcionamiento es **conceptualmente identico a cuando usamos capacitores para alisar **
+El funcionamiento es **conceptualmente identico a cuando usamos capacitores para alisar la tension despues de un puente rectificador**
+
+
 
 **FUNCIONAMIENTO:**
 * Coloco un **capacitor en paralelo** 
@@ -1232,7 +1234,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDI3Mjk5Miw4NTUwMjE2MDEsMTI2Mj
+eyJoaXN0b3J5IjpbLTQ2MTk0NTc1MCw4NTUwMjE2MDEsMTI2Mj
 UyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIzMTEyLC01MzI5OTIz
 MCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5OD
 Q4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0
