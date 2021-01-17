@@ -932,7 +932,8 @@ Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, t
 [ver2](https://www.youtube.com/watch?v=1xicZF9glH0)
 [ver 3](https://www.youtube.com/watch?v=BcJ6UdDx1vg)
 [VER 4](https://www.youtube.com/watch?v=wi0sNgzgJHQ)
-
+[VER 5](https://www.youtube.com/watch?v=9EaTdc2mr34)
+[VER6](https://www.youtube.com/watch?v=xew-n9lrZ8E)
 Podemos usar las propiedades del capacitor para **filtrar cambios rápidos de voltaje** característicos del **ruido y la interferencia**.
 
 Esto es muy útil por que permite **proteger circuitos integrados que son sensibles al ruido**
@@ -1225,11 +1226,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1Njg0MjcsODU1MDIxNjAxLDEyNjI1Mj
-M0NDAsLTc0MzEwNzgzMSwtMTI4MzgyMzExMiwtNTMyOTkyMzAs
-MTIxMDg2MjIwOSw5MzcyMTE2NjAsLTEwMjA0Njk3MjUsOTg0OD
-UzODk2LDE2NzU4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0NCwt
-MTg0MTA1ODQxNywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1NiwtMT
-Q3NTQxNzg5MywxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1NzA1
-NDYxXX0=
+eyJoaXN0b3J5IjpbLTE4OTE3ODA0ODEsODU1MDIxNjAxLDEyNj
+I1MjM0NDAsLTc0MzEwNzgzMSwtMTI4MzgyMzExMiwtNTMyOTky
+MzAsMTIxMDg2MjIwOSw5MzcyMTE2NjAsLTEwMjA0Njk3MjUsOT
+g0ODUzODk2LDE2NzU4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0
+NCwtMTg0MTA1ODQxNywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1Ni
+wtMTQ3NTQxNzg5MywxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1
+NzA1NDYxXX0=
 -->
