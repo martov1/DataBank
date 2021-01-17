@@ -925,8 +925,9 @@ y por ende
 Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, toda lacorriente pasara por el resistor.
 
 ### Filtro de decoupling -  WIP
-### Filtro de ruido (decoupling) - WIP
+### Filtro de ruido - WIP
 
+#### Introduccion
 [Introduccion](https://www.youtube.com/watch?v=KKjHZpNMeik)
 [ver](https://www.youtube.com/watch?v=BpuCv4hfYZU)
 [ver2](https://www.youtube.com/watch?v=1xicZF9glH0)
@@ -952,6 +953,8 @@ Esto es muy útil por que permite **proteger circuitos integrados que son sensib
 
 [Ejemplo](https://tinyurl.com/yxogcwjt)
 ![](https://i.imgur.com/NNiB6Qk.png)
+#### Introduccion
+
 # Transformadores
 
 
@@ -1226,11 +1229,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTE3ODA0ODEsODU1MDIxNjAxLDEyNj
-I1MjM0NDAsLTc0MzEwNzgzMSwtMTI4MzgyMzExMiwtNTMyOTky
-MzAsMTIxMDg2MjIwOSw5MzcyMTE2NjAsLTEwMjA0Njk3MjUsOT
-g0ODUzODk2LDE2NzU4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0
-NCwtMTg0MTA1ODQxNywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1Ni
-wtMTQ3NTQxNzg5MywxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1
-NzA1NDYxXX0=
+eyJoaXN0b3J5IjpbLTQ4MTI5MzQzOCw4NTUwMjE2MDEsMTI2Mj
+UyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIzMTEyLC01MzI5OTIz
+MCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5OD
+Q4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0
+LC0xODQxMDU4NDE3LC0xMjc0NTIzMTUwLC0xNjE2NjQwMDU2LC
+0xNDc1NDE3ODkzLDEzMDI3OTg2NTYsLTUwNTQ5MTE5MSw4MTU3
+MDU0NjFdfQ==
 -->
