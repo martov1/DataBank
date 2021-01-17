@@ -725,7 +725,7 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 
-## Filtros pasivos de banda
+## Filtros pasivos
 
 ### Filtro alto-bajo
 Es un filtro que filtra las **frecuencias altas** o las **frecuencias bajas**, esto se hace aprovechando que
@@ -884,6 +884,11 @@ y por ende
  $Z_{paralelo} \to \inf$
 
 Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, toda lacorriente pasara por el resistor.
+
+### Filtro de ruido (decoupling) - WIP
+
+Este filtro
+
 
 # Transformadores
 
@@ -1159,7 +1164,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDAxNjc4MzMsLTUzMjk5MjMwLDEyMT
+eyJoaXN0b3J5IjpbLTEyODM4MjMxMTIsLTUzMjk5MjMwLDEyMT
 A4NjIyMDksOTM3MjExNjYwLC0xMDIwNDY5NzI1LDk4NDg1Mzg5
 NiwxNjc1ODQ3NTY0LDI2Mzk3NDEzOCwyMTI3MzQyNDQsLTE4ND
 EwNTg0MTcsLTEyNzQ1MjMxNTAsLTE2MTY2NDAwNTYsLTE0NzU0
