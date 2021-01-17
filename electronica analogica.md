@@ -956,9 +956,9 @@ Esto es muy útil por que permite **proteger circuitos integrados que son sensib
 	* Es como si esa corriente del ruido “pasara a traves del capacitor”
 
 [Ejemplo](https://tinyurl.com/yxogcwjt)
-![](https://i.imgur.com/NNiB6Qk.png)
+![](https://i.imgur.com/0VwKEB0.png)
 #### Ruido alta ó baja frecuencia
-[ver](https://www.youtube.com/watch?v=BpuCv4hfYZU)
+
 [ver2](https://www.youtube.com/watch?v=1xicZF9glH0)
 [ver 3](https://www.youtube.com/watch?v=BcJ6UdDx1vg)
 [VER 4](https://www.youtube.com/watch?v=wi0sNgzgJHQ)
@@ -1238,7 +1238,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDQyODQ4MSw4NTUwMjE2MDEsMTI2Mj
+eyJoaXN0b3J5IjpbMTY1NTIwMTEwNyw4NTUwMjE2MDEsMTI2Mj
 UyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIzMTEyLC01MzI5OTIz
 MCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5OD
 Q4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0
