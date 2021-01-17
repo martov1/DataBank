@@ -936,6 +936,13 @@ Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, t
 Podemos usar las propiedades del capacitor para **filtrar cambios rápidos de voltaje** característicos del **ruido y la interferencia**.
 
 Esto es muy útil por que permite **proteger circuitos integrados que son sensibles al ruido**
+
+Funciona asi
+* Coloco un **capacitor en paralelo** 
+* El capacitor **se carga hasta la tension de la fuente**
+* Cuando haya **ruido que eleve la tension**
+	* El capacitor se **carga** un poquito mas**, **absorbiendo corriente**
+
 [Ejemplo](https://tinyurl.com/yxogcwjt)
 ![](https://i.imgur.com/NNiB6Qk.png)
 # Transformadores
@@ -1212,11 +1219,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTM4NjE1OSw4NTUwMjE2MDEsMTI2Mj
-UyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIzMTEyLC01MzI5OTIz
-MCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5OD
-Q4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0
-LC0xODQxMDU4NDE3LC0xMjc0NTIzMTUwLC0xNjE2NjQwMDU2LC
-0xNDc1NDE3ODkzLDEzMDI3OTg2NTYsLTUwNTQ5MTE5MSw4MTU3
-MDU0NjFdfQ==
+eyJoaXN0b3J5IjpbMjQ3MzUzMjUyLDg1NTAyMTYwMSwxMjYyNT
+IzNDQwLC03NDMxMDc4MzEsLTEyODM4MjMxMTIsLTUzMjk5MjMw
+LDEyMTA4NjIyMDksOTM3MjExNjYwLC0xMDIwNDY5NzI1LDk4ND
+g1Mzg5NiwxNjc1ODQ3NTY0LDI2Mzk3NDEzOCwyMTI3MzQyNDQs
+LTE4NDEwNTg0MTcsLTEyNzQ1MjMxNTAsLTE2MTY2NDAwNTYsLT
+E0NzU0MTc4OTMsMTMwMjc5ODY1NiwtNTA1NDkxMTkxLDgxNTcw
+NTQ2MV19
 -->
