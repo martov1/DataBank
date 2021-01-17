@@ -726,19 +726,18 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 ![](https://i.imgur.com/0OMngol.png)
 ## Capacitive dropper
 
-El capacitive dropper es un circuito que te permite bajar la tension de una linea AC sin usar una resistencia, es **muy util** por que **el capacitor no disipa potencia, no se calienta y no desperdicia**.
+Para hacer uso mas eficiente de la electricidad podemos usar **la impedancia de un capacitor** para limitar la corriente en lugar de hacerlo con una **resistencia**, ya que **los capacitores no disipan potencia pero si tienen una impedancia que limita la corriente**
+
 
 Esto se loga por la **impedancia que presentan los capacitores en AC, eligiendo el valor del capacitor elegimos la impedancia**
 
-Algunas desventajas son
+**Algunas desventajas son:**
 * **PELIGROSO:** Como no estas aislado de la tierra, dependiendo de como conectes la polaridad de la fuente podes tener un voltaje bajo **entre bornes** ($5V$) pero uno **muy alto entre un borne y tierra** ($215V$)
-* **PESIMO POWER FACTOR:** Estas usando un capacitor para bajar la tension, implicando que vas a generar un gran desfasaje tension-corriente y tu power factor puede ser 
+* **PESIMO POWER FACTOR:** Estas usando un capacitor para bajar la tension, implicando que vas a generar un gran desfasaje tension-corriente y tu power factor puede ser muy bajo y malo ($\phi \approx90^º$)
 
 [fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
 ![](https://i.imgur.com/90im7sS.png =250x)
 
-**EL CAPACITOR**
-Para hacer uso mas eficiente de la electricidad podemos usar **la impedancia de un capacitor** para limitar la corriente en lugar de hacerlo con una **resistencia**, ya que **los capacitores no disipan potencia pero si tienen una impedancia que limita la corriente**
 
 
 
@@ -1204,7 +1203,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTQwMjE1OCwtMTI4MzgyMzExMiwtNT
+eyJoaXN0b3J5IjpbLTc0MzEwNzgzMSwtMTI4MzgyMzExMiwtNT
 MyOTkyMzAsMTIxMDg2MjIwOSw5MzcyMTE2NjAsLTEwMjA0Njk3
 MjUsOTg0ODUzODk2LDE2NzU4NDc1NjQsMjYzOTc0MTM4LDIxMj
 czNDI0NCwtMTg0MTA1ODQxNywtMTI3NDUyMzE1MCwtMTYxNjY0
