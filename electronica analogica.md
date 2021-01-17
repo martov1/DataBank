@@ -725,6 +725,8 @@ Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar
 
 ![](https://i.imgur.com/0OMngol.png)
 ## Capacitive dropper
+
+El capacitive dropper es un circuito que te permite bajar la tension de una linea AC sin usar una resistencia, es **muy util** por que **el capacitor no disipa potencia, no se caliente **
 [fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
 ![](https://i.imgur.com/90im7sS.png =250x)
 
@@ -1195,11 +1197,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTAyMTg2LC0xMjgzODIzMTEyLC01Mz
-I5OTIzMCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcy
-NSw5ODQ4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNz
-M0MjQ0LC0xODQxMDU4NDE3LC0xMjc0NTIzMTUwLC0xNjE2NjQw
-MDU2LC0xNDc1NDE3ODkzLDEzMDI3OTg2NTYsLTUwNTQ5MTE5MS
-w4MTU3MDU0NjEsMTg3NDk0MDc3NSwtMTkyNDQ2ODIxMSwtMjI5
-ODYwNzldfQ==
+eyJoaXN0b3J5IjpbLTE5MTk4OTI3MTUsLTEyODM4MjMxMTIsLT
+UzMjk5MjMwLDEyMTA4NjIyMDksOTM3MjExNjYwLC0xMDIwNDY5
+NzI1LDk4NDg1Mzg5NiwxNjc1ODQ3NTY0LDI2Mzk3NDEzOCwyMT
+I3MzQyNDQsLTE4NDEwNTg0MTcsLTEyNzQ1MjMxNTAsLTE2MTY2
+NDAwNTYsLTE0NzU0MTc4OTMsMTMwMjc5ODY1NiwtNTA1NDkxMT
+kxLDgxNTcwNTQ2MSwxODc0OTQwNzc1LC0xOTI0NDY4MjExLC0y
+Mjk4NjA3OV19
 -->
