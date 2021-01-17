@@ -724,7 +724,38 @@ La linea roja es la potencia total, y es igual a la suma de las dos lineas morad
 Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar el circuito como un RC
 
 ![](https://i.imgur.com/0OMngol.png)
+## Capacitive dropper
+[fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
+![](https://i.imgur.com/90im7sS.png =250x)
 
+**EL CAPACITOR**
+Para hacer uso mas eficiente de la electricidad podemos usar **la impedancia de un capacitor** para limitar la corriente en lugar de hacerlo con una **resistencia**, ya que **los capacitores no disipan potencia pero si tienen una impedancia que limita la corriente**
+
+
+
+**LA RESISTENCIA**
+Igualmente es necesario colocar una resistencia para limitar el **pico de corriente** que se puede generar si al conectar el circuito estamos en el **pico de la onda**.
+Esta **resistencia** la calculamos con la ley de ohm para no sobrepasar la **corriente de pico maxima** del LED segun el datasheet
+
+>**CALCULO DE LA RESISTENCIA**
+>**Aplico ley de ohm** 
+>Considero que el capacitor esta vacio y me conecto a la red en el momento de maxima tension para calcular la resistencia necesaria para limitar el pico de corriente por el capacitor
+$$R=\frac{V_{eficax}\sqrt{2}-V_{caidaDeLed}-V_{capacitor}}{V_{picoDeLed}} \\[10pt]
+R=\frac{220v\sqrt{2}-2V-0}{1}\\[10pt]
+R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este valor.
+
+>**CALCULO DE CAPACITOR**
+>**Aplico ley de ohm** 
+>Si el led necesita $0.020A$, osea que la impedancia necesaria sera
+>$$Z=\frac{230V}{0.02}=11500\Omega$$
+>Como tengo el valor de la resistencia, solo tengo que despejar la impedancia del capacitor que hace falta
+>$$Z=\sqrt{R^2+X_{cap}^2}\\[10pt]
+>11500=\sqrt{323^2+X_{cap}^2}\\[10pt]
+>X_{cap}=11490\Omega$$
+>Que por la equacion de resistencia del capacitor, a $50hz$, sera
+>$$X_{cap}=\frac{1}{2\pi f C}\\[10pt]
+11490=\frac{1}{2\pi 50 C}\\[10pt]
+>C=2.77E-7 = 0.277\mu F$$
 ## Filtros pasivos
 
 ### Filtro alto-bajo
@@ -1164,11 +1195,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM4MjMxMTIsLTUzMjk5MjMwLDEyMT
-A4NjIyMDksOTM3MjExNjYwLC0xMDIwNDY5NzI1LDk4NDg1Mzg5
-NiwxNjc1ODQ3NTY0LDI2Mzk3NDEzOCwyMTI3MzQyNDQsLTE4ND
-EwNTg0MTcsLTEyNzQ1MjMxNTAsLTE2MTY2NDAwNTYsLTE0NzU0
-MTc4OTMsMTMwMjc5ODY1NiwtNTA1NDkxMTkxLDgxNTcwNTQ2MS
-wxODc0OTQwNzc1LC0xOTI0NDY4MjExLC0yMjk4NjA3OSwxMjEw
-MDYwNjEwXX0=
+eyJoaXN0b3J5IjpbLTkxOTAyMTg2LC0xMjgzODIzMTEyLC01Mz
+I5OTIzMCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcy
+NSw5ODQ4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNz
+M0MjQ0LC0xODQxMDU4NDE3LC0xMjc0NTIzMTUwLC0xNjE2NjQw
+MDU2LC0xNDc1NDE3ODkzLDEzMDI3OTg2NTYsLTUwNTQ5MTE5MS
+w4MTU3MDU0NjEsMTg3NDk0MDc3NSwtMTkyNDQ2ODIxMSwtMjI5
+ODYwNzldfQ==
 -->
