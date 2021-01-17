@@ -927,7 +927,7 @@ Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, t
 ### Filtro de decoupling -  WIP
 ### Filtro de ruido - WIP
 
-#### Introduccion
+#### Introduccion y teoria
 [Introduccion](https://www.youtube.com/watch?v=KKjHZpNMeik)
 [ver](https://www.youtube.com/watch?v=BpuCv4hfYZU)
 [ver2](https://www.youtube.com/watch?v=1xicZF9glH0)
@@ -935,9 +935,12 @@ Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, t
 [VER 4](https://www.youtube.com/watch?v=wi0sNgzgJHQ)
 [VER 5](https://www.youtube.com/watch?v=9EaTdc2mr34)
 [VER6](https://www.youtube.com/watch?v=xew-n9lrZ8E)
+
 Podemos usar las propiedades del capacitor para **filtrar cambios rápidos de voltaje** característicos del **ruido y la interferencia**.
 
 Esto es muy útil por que permite **proteger circuitos integrados que son sensibles al ruido**
+
+El funcionamiento es **conceptualmente identico a cuando usamos capacitores para alisar **
 
 **FUNCIONAMIENTO:**
 * Coloco un **capacitor en paralelo** 
@@ -953,7 +956,7 @@ Esto es muy útil por que permite **proteger circuitos integrados que son sensib
 
 [Ejemplo](https://tinyurl.com/yxogcwjt)
 ![](https://i.imgur.com/NNiB6Qk.png)
-#### Introduccion
+#### Ruido alta ó baja frecuencia
 
 # Transformadores
 
@@ -1229,7 +1232,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTI5MzQzOCw4NTUwMjE2MDEsMTI2Mj
+eyJoaXN0b3J5IjpbLTY1NDI3Mjk5Miw4NTUwMjE2MDEsMTI2Mj
 UyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIzMTEyLC01MzI5OTIz
 MCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5OD
 Q4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0
