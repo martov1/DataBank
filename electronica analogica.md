@@ -731,7 +731,8 @@ El capacitive dropper es un circuito que te permite bajar la tension de una line
 Esto se loga por la **impedancia que presentan los capacitores en AC, eligiendo el valor del capacitor elegimos la impedancia**
 
 Algunas desventajas son
-* **PELIGROSO:** Como no estas aislado de la tierra, dependiendo de como conectes la polaridad de la fuente podes tener un voltaje bajo **entre bornes** pero uno **muy alto entre un bor**
+* **PELIGROSO:** Como no estas aislado de la tierra, dependiendo de como conectes la polaridad de la fuente podes tener un voltaje bajo **entre bornes** ($5V$) pero uno **muy alto entre un borne y tierra** ($215V$)
+* **PESIMO POWER FACTOR:** Estas usando un capacitor para bajar la tension, implicando que vas a generar un gran desfasaje tension-corriente y tu power factor puede ser 
 
 [fuente](https://www.youtube.com/watch?v=13rcRufDGGQ&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=69)
 ![](https://i.imgur.com/90im7sS.png =250x)
@@ -1203,7 +1204,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTE3NTA1MSwtMTI4MzgyMzExMiwtNT
+eyJoaXN0b3J5IjpbMTM1NTQwMjE1OCwtMTI4MzgyMzExMiwtNT
 MyOTkyMzAsMTIxMDg2MjIwOSw5MzcyMTE2NjAsLTEwMjA0Njk3
 MjUsOTg0ODUzODk2LDE2NzU4NDc1NjQsMjYzOTc0MTM4LDIxMj
 czNDI0NCwtMTg0MTA1ODQxNywtMTI3NDUyMzE1MCwtMTYxNjY0
