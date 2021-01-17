@@ -927,6 +927,7 @@ Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, t
 ### Filtro de decoupling -  WIP
 ### Filtro de ruido (decoupling) - WIP
 
+
 [Introduccion](https://www.youtube.com/watch?v=KKjHZpNMeik)
 [ver](https://www.youtube.com/watch?v=BpuCv4hfYZU)
 [ver2](https://www.youtube.com/watch?v=1xicZF9glH0)
@@ -1205,11 +1206,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1MDIxNjAxLDEyNjI1MjM0NDAsLTc0Mz
-EwNzgzMSwtMTI4MzgyMzExMiwtNTMyOTkyMzAsMTIxMDg2MjIw
-OSw5MzcyMTE2NjAsLTEwMjA0Njk3MjUsOTg0ODUzODk2LDE2Nz
-U4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0NCwtMTg0MTA1ODQx
-NywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1NiwtMTQ3NTQxNzg5My
-wxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1NzA1NDYxLDE4NzQ5
-NDA3NzVdfQ==
+eyJoaXN0b3J5IjpbMTY0NzMzMzM5MSw4NTUwMjE2MDEsMTI2Mj
+UyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIzMTEyLC01MzI5OTIz
+MCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5OD
+Q4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0
+LC0xODQxMDU4NDE3LC0xMjc0NTIzMTUwLC0xNjE2NjQwMDU2LC
+0xNDc1NDE3ODkzLDEzMDI3OTg2NTYsLTUwNTQ5MTE5MSw4MTU3
+MDU0NjFdfQ==
 -->
