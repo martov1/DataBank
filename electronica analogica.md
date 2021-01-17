@@ -940,8 +940,9 @@ Podemos usar las propiedades del capacitor para **filtrar cambios rápidos de vo
 
 Esto es muy útil por que permite **proteger circuitos integrados que son sensibles al ruido**
 
-El funcionamiento es **conceptualmente identico a cuando usamos capacitores para alisar la tension despues de un puente rectificador**
-
+El funcionamiento es **conceptualmente idéntico a cuando usamos capacitores para alisar la tension despues de un puente rectificador**
+[Ejemplo de fuente con filtro](https://tinyurl.com/y55mzuf5)
+![](https://i.imgur.com/XVfm3wW.png)
 
 
 **FUNCIONAMIENTO:**
@@ -1234,11 +1235,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTk0NTc1MCw4NTUwMjE2MDEsMTI2Mj
-UyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIzMTEyLC01MzI5OTIz
-MCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5OD
-Q4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0
-LC0xODQxMDU4NDE3LC0xMjc0NTIzMTUwLC0xNjE2NjQwMDU2LC
-0xNDc1NDE3ODkzLDEzMDI3OTg2NTYsLTUwNTQ5MTE5MSw4MTU3
-MDU0NjFdfQ==
+eyJoaXN0b3J5IjpbLTEyOTkzNDUwNTAsODU1MDIxNjAxLDEyNj
+I1MjM0NDAsLTc0MzEwNzgzMSwtMTI4MzgyMzExMiwtNTMyOTky
+MzAsMTIxMDg2MjIwOSw5MzcyMTE2NjAsLTEwMjA0Njk3MjUsOT
+g0ODUzODk2LDE2NzU4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0
+NCwtMTg0MTA1ODQxNywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1Ni
+wtMTQ3NTQxNzg5MywxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1
+NzA1NDYxXX0=
 -->
