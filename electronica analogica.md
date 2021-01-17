@@ -942,8 +942,9 @@ Esto es muy útil por que permite **proteger circuitos integrados que son sensib
 
 >El funcionamiento es **conceptualmente idéntico a cuando usamos capacitores para alisar la tension despues de un puente rectificador**
 [Ejemplo de fuente con filtro](https://tinyurl.com/y55mzuf5)
-![](https://i.imgur.com/XVfm3wW.png =500x)**LA DIFERENCIA:** En la fuente el capacitor es grande por que tiene que filtrar diferencias grandes de tension. 
-El ruido es rapido y con diferencias chiquitas, usamos un capacitor mas chico y con una respuesta mas rapida
+![](https://i.imgur.com/XVfm3wW.png =500x)**LA DIFERENCIA:** 
+>* En la fuente el capacitor es **grande** por que tiene que filtrar **diferencias grosas de tension**. 
+>* En cambio **EL RUIDO** es **rapido** y con **diferencias chiquitas de tension**. usamos un **capacitor** mas **chico** y con una **respuesta mas rapida**
 
 
 
@@ -1237,11 +1238,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODMzMTQ5LDg1NTAyMTYwMSwxMjYyNT
-IzNDQwLC03NDMxMDc4MzEsLTEyODM4MjMxMTIsLTUzMjk5MjMw
-LDEyMTA4NjIyMDksOTM3MjExNjYwLC0xMDIwNDY5NzI1LDk4ND
-g1Mzg5NiwxNjc1ODQ3NTY0LDI2Mzk3NDEzOCwyMTI3MzQyNDQs
-LTE4NDEwNTg0MTcsLTEyNzQ1MjMxNTAsLTE2MTY2NDAwNTYsLT
-E0NzU0MTc4OTMsMTMwMjc5ODY1NiwtNTA1NDkxMTkxLDgxNTcw
-NTQ2MV19
+eyJoaXN0b3J5IjpbMTQ0MzI0MjIxMSw4NTUwMjE2MDEsMTI2Mj
+UyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIzMTEyLC01MzI5OTIz
+MCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5OD
+Q4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0
+LC0xODQxMDU4NDE3LC0xMjc0NTIzMTUwLC0xNjE2NjQwMDU2LC
+0xNDc1NDE3ODkzLDEzMDI3OTg2NTYsLTUwNTQ5MTE5MSw4MTU3
+MDU0NjFdfQ==
 -->
