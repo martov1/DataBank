@@ -748,9 +748,11 @@ R=323\Omega$$ Necesitaremos por lo menos una resistencia igual o mayor a este va
 >$$X_{cap}=\frac{1}{2\pi f C}\\[10pt]
 11490=\frac{1}{2\pi 50 C}\\[10pt]
 >C=2.77E-7 = 0.277\mu F$$
-## Filtros pasivos
 
-### Filtro alto-bajo
+
+# Filtros pasivos
+
+## Filtro alto-bajo
 Es un filtro que filtra las **frecuencias altas** o las **frecuencias bajas**, esto se hace aprovechando que
 * la impedancia del capacitor es **mayor a mas frecuencia**
 	* Elimina las frecuencias altas
@@ -759,7 +761,7 @@ Es un filtro que filtra las **frecuencias altas** o las **frecuencias bajas**, e
 
 
 ![](https://i.imgur.com/vim2R55.png =x300)
-#### Frecuencia de corte
+### Frecuencia de corte
 
 [fuente](https://www.youtube.com/watch?v=KQvxdAlBj04&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=47)
 
@@ -788,11 +790,11 @@ Puede ser en serie o en paralelo, lo que cambia es $R_{th}$
 ![](https://i.imgur.com/QCCi3E4.png =300x)
 ![](https://i.imgur.com/8U0fXHI.png =300x)
 
-### Filtro Paso y rechaza banda
+## Filtro Paso y rechaza banda
 [Fuente](https://www.youtube.com/watch?v=4LhDcDaefzo&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=48)
 
 
-#### Pasa banda
+### Pasa banda
 **Filtro paso banda**
 Es muy similar al filtro alto-bajo, pero se compone de dos filtros, de tal manera que deja pasar **solo un rango de frecuencias** y elimina las demas.
 
@@ -800,7 +802,7 @@ Se calcula como dos filtros alto-bajo separados
 
 ![](https://i.imgur.com/tcByJuD.png)
 
-#### Rechaza banda
+### Rechaza banda
 
 Es un filtro que deja pasar todas las frecuencias salvo las que estan en un rango, a la que llamamos la **frecuencia de resonancia**.
 
@@ -821,7 +823,7 @@ En un parlante de 3 speakers que reproducen los sonidos graves, medios y agudos,
 Todos se pueden hacer con capacitores y/o inductores en serie y/o paralelo.
 
 ![](https://i.imgur.com/d7MkbVD.png)![](https://i.imgur.com/gQrZG5G.png =200x)
-### Filtro de  Resonancia
+## Filtro de  Resonancia
 
 Es un filtro que solo deja parar una **frecuencia especifica** (no una banda, una frecuencia puntual).
 
@@ -908,8 +910,9 @@ y por ende
 
 Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, toda lacorriente pasara por el resistor.
 
-### Filtro de decoupling -  WIP
-### Filtro de ruido - WIP
+## Filtro de decoupling -  WIP
+
+## Filtro de ruido - WIP
 
 #### Introduccion y teoria
 [fuente 1](https://www.youtube.com/watch?v=KKjHZpNMeik)
@@ -1222,7 +1225,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDU1MzMwMCwxMDk5NzkzNjg5LC0yMD
+eyJoaXN0b3J5IjpbMTc1Mzc2MDg4MywxMDk5NzkzNjg5LC0yMD
 E2MzgzOTcyLDg1NTAyMTYwMSwxMjYyNTIzNDQwLC03NDMxMDc4
 MzEsLTEyODM4MjMxMTIsLTUzMjk5MjMwLDEyMTA4NjIyMDksOT
 M3MjExNjYwLC0xMDIwNDY5NzI1LDk4NDg1Mzg5NiwxNjc1ODQ3
