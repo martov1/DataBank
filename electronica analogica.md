@@ -206,8 +206,8 @@ Generalmente se colocan en paralelo con una entrada de tension para cortocircuit
 Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas que te dicen de acuerdo a cuantos **lux** que resistencia tendran
 
 ![](https://i.imgur.com/035We3a.png)
-# Circuitos con resistores
-## Estrella-triangulo 
+## Circuitos con resistores
+### Estrella-triangulo 
 Se trata de dos circuitos equivalentes de resistencias.
 Mas que nada se trata de una "regla" que resume esta situacion, que es muy comun.
 ![](https://i.imgur.com/2uXZCsz.png)
@@ -226,7 +226,7 @@ Se puede llegar a estas formulas
 Las equaciones quedan asi
 ![](https://i.imgur.com/i2PZg5q.png)
 
-## Wheatstone bridge - WIP
+### Wheatstone bridge - WIP
 
 
 # Fuentes
@@ -257,6 +257,73 @@ En cambio de pongo una **resistencia chica en comparacion con $R_g$**, por ejemp
 ![](https://i.imgur.com/nbKvsCn.png)
 **ENTONCES:**
 Cuanto mas chica la resistencia $R$ comparada con $R_g$, menos voltaje tenes en $R$. Como $R_g$ esta diseñada para darte una corriente especifica "estable", Cuando pedis mas corriente, mas voltaje cae en $Rg$ y menos voltaje tenes disponible para usar.
+
+
+# Transformadores
+
+
+### Transformadores ideales
+Son elementos que transforman 
+* variacion de corriente y voltaje en variacion de campo electrico
+* La variacion de campo electrico nuevamente en corriente y voltaje
+* Y lo hacen con una relacion
+
+
+Como la potencia en ambos del transformador es igual (leyes de conservacion)
+$$P_1=P_2 \\
+V_1.I_1=V_2.I_2\\
+\frac{v_1}{v_2}=\frac{I_2}{I_1}$$
+
+Y ademas esto es igual a la relacion entre el numero de vueltas
+
+$$n=\frac{vueltas_1}{vueltas_2}=\frac{v_1}{v_2}=\frac{I_2}{I_1}$$
+
+### Transformadores reales
+
+* Tienen en cuenta el nucleo del transformador, que puede tener mejor o peor conductancia magnetica.
+* Tienen en cuenta la resistencia de cable del que esta costruido el transformador
+* Un transformador real tiene dos limitantes
+	* **SU IMPEDANCIA INTERNA** 
+		* que genera una caida de tension, la cual crece cuanta mas corriente pedimos.
+	* **El ancho de sus cables**
+		* Que determina la maxima corriente que puede pasar por el transformador sin recalentarse por efecto joule
+* Estas limitaciones el fabricante te las expresa diciendote la maxima potencia aparente para la que el transformador esta diseñado
+
+![](https://i.imgur.com/UUWybFN.png =400x)
+
+
+
+### Polaridad
+
+La regla de la mano derecha te indica la polaridad de cada devanado del transformador. tenemos que tener en cuenta como la bobina enrrolla al campo magnetico
+
+![](https://i.imgur.com/6cAVlOy.png)
+### Transformadores de varias salidas
+
+Son transformadores que tienen varios cables saliendo de varios puntos del debanado, permitiendo sacar diferentes tensiones de ellos debido a que cambia la relación de conversión
+
+![](https://i.imgur.com/jeGD3PL.png)
+
+Esto funciona debido a que las tensiones salientes tienen un desface de 90º para el caso de transformadores de dos fases o bifasicos. con un neutro en el medio. Entonces
+* **fase1-neutro** $12V$
+* * **fase2-neutro** $12V$
+* * **fase1-fase2** $24V$ por un desfajase de 90º
+
+### Valores
+
+Los valores principales de un transformador son en genera 
+* Voltaje de entrada
+* voltajes de salida
+* maximo amperaje de salida
+	* Para evitar efecto joule
+
+Por ejemplo
+
+$$230/12/12 - A$$
+
+![](https://i.imgur.com/cxilMNZ.png =150x)
+
+
 
 
 # Capacitores
@@ -951,69 +1018,6 @@ Esto es muy útil por que permite **proteger circuitos integrados que son sensib
 [VER 4](https://www.youtube.com/watch?v=wi0sNgzgJHQ)
 [VER 5](https://www.youtube.com/watch?v=9EaTdc2mr34)
 [VER6](https://www.youtube.com/watch?v=xew-n9lrZ8E)
-# Transformadores
-
-
-### Transformadores ideales
-Son elementos que transforman 
-* variacion de corriente y voltaje en variacion de campo electrico
-* La variacion de campo electrico nuevamente en corriente y voltaje
-* Y lo hacen con una relacion
-
-
-Como la potencia en ambos del transformador es igual (leyes de conservacion)
-$$P_1=P_2 \\
-V_1.I_1=V_2.I_2\\
-\frac{v_1}{v_2}=\frac{I_2}{I_1}$$
-
-Y ademas esto es igual a la relacion entre el numero de vueltas
-
-$$n=\frac{vueltas_1}{vueltas_2}=\frac{v_1}{v_2}=\frac{I_2}{I_1}$$
-
-### Transformadores reales
-
-* Tienen en cuenta el nucleo del transformador, que puede tener mejor o peor conductancia magnetica.
-* Tienen en cuenta la resistencia de cable del que esta costruido el transformador
-* Un transformador real tiene dos limitantes
-	* **SU IMPEDANCIA INTERNA** 
-		* que genera una caida de tension, la cual crece cuanta mas corriente pedimos.
-	* **El ancho de sus cables**
-		* Que determina la maxima corriente que puede pasar por el transformador sin recalentarse por efecto joule
-* Estas limitaciones el fabricante te las expresa diciendote la maxima potencia aparente para la que el transformador esta diseñado
-
-![](https://i.imgur.com/UUWybFN.png =400x)
-
-
-
-### Polaridad
-
-La regla de la mano derecha te indica la polaridad de cada devanado del transformador. tenemos que tener en cuenta como la bobina enrrolla al campo magnetico
-
-![](https://i.imgur.com/6cAVlOy.png)
-### Transformadores de varias salidas
-
-Son transformadores que tienen varios cables saliendo de varios puntos del debanado, permitiendo sacar diferentes tensiones de ellos debido a que cambia la relación de conversión
-
-![](https://i.imgur.com/jeGD3PL.png)
-
-Esto funciona debido a que las tensiones salientes tienen un desface de 90º para el caso de transformadores de dos fases o bifasicos. con un neutro en el medio. Entonces
-* **fase1-neutro** $12V$
-* * **fase2-neutro** $12V$
-* * **fase1-fase2** $24V$ por un desfajase de 90º
-
-### Valores
-
-Los valores principales de un transformador son en genera 
-* Voltaje de entrada
-* voltajes de salida
-* maximo amperaje de salida
-	* Para evitar efecto joule
-
-Por ejemplo
-
-$$230/12/12 - A$$
-
-![](https://i.imgur.com/cxilMNZ.png =150x)
 
 
 
@@ -1225,7 +1229,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Mzc2MDg4MywxMDk5NzkzNjg5LC0yMD
+eyJoaXN0b3J5IjpbLTg5MTkxMjQ5OCwxMDk5NzkzNjg5LC0yMD
 E2MzgzOTcyLDg1NTAyMTYwMSwxMjYyNTIzNDQwLC03NDMxMDc4
 MzEsLTEyODM4MjMxMTIsLTUzMjk5MjMwLDEyMTA4NjIyMDksOT
 M3MjExNjYwLC0xMDIwNDY5NzI1LDk4NDg1Mzg5NiwxNjc1ODQ3
