@@ -775,7 +775,7 @@ La linea roja es la potencia total, y es igual a la suma de las dos lineas morad
 Cuando tenes varios resistores, podes pensar el equivalente de thevenin y tratar el circuito como un RC
 
 ![](https://i.imgur.com/0OMngol.png)
-## Capacitive dropper
+# Capacitive dropper
 
 Para hacer uso mas eficiente de la electricidad podemos usar **la impedancia de un capacitor** para limitar la corriente en lugar de hacerlo con una **resistencia**, ya que **los capacitores no disipan potencia pero si tienen una impedancia que limita la corriente**
 
@@ -1229,11 +1229,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTkxMjQ5OCwxMDk5NzkzNjg5LC0yMD
-E2MzgzOTcyLDg1NTAyMTYwMSwxMjYyNTIzNDQwLC03NDMxMDc4
-MzEsLTEyODM4MjMxMTIsLTUzMjk5MjMwLDEyMTA4NjIyMDksOT
-M3MjExNjYwLC0xMDIwNDY5NzI1LDk4NDg1Mzg5NiwxNjc1ODQ3
-NTY0LDI2Mzk3NDEzOCwyMTI3MzQyNDQsLTE4NDEwNTg0MTcsLT
-EyNzQ1MjMxNTAsLTE2MTY2NDAwNTYsLTE0NzU0MTc4OTMsMTMw
-Mjc5ODY1Nl19
+eyJoaXN0b3J5IjpbLTE2NTM3MzUxNTcsMTA5OTc5MzY4OSwtMj
+AxNjM4Mzk3Miw4NTUwMjE2MDEsMTI2MjUyMzQ0MCwtNzQzMTA3
+ODMxLC0xMjgzODIzMTEyLC01MzI5OTIzMCwxMjEwODYyMjA5LD
+kzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5ODQ4NTM4OTYsMTY3NTg0
+NzU2NCwyNjM5NzQxMzgsMjEyNzM0MjQ0LC0xODQxMDU4NDE3LC
+0xMjc0NTIzMTUwLC0xNjE2NjQwMDU2LC0xNDc1NDE3ODkzLDEz
+MDI3OTg2NTZdfQ==
 -->
