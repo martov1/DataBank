@@ -1,19 +1,5 @@
 
 
-**Nivel técnico electrónico**
-https://www.youtube.com/watch?v=sekdEc5wU6k&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=70
-
- Como calcular el valor promedio de señales DC mas utilizadas en electronica
-
-**transistores**
-https://www.youtube.com/watch?v=dIV5l9cx_ck&list=PLuzS0jdNRVvpVTO-2va0jHcAyt5q8HV-O
-
-https://www.youtube.com/watch?v=4rfMe_QVbDs&list=PLChMFns-GJssNBAo1xbJHSduZ0FXLer4T&index=2
-
-https://www.youtube.com/watch?v=-LPALAwcYkg&list=PL4651816D92AB6B2B&index=7
-
-
-
 **VER aplicacion en reparacion de notebooks**
 https://www.youtube.com/watch?v=1XGun_-06aA&list=PLHk1hZEmw3_zlUPRfVeBHLSUviVNfR4pNvideo 3 minuto 7
 
@@ -1238,11 +1224,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYzODM5NzIsODU1MDIxNjAxLDEyNj
-I1MjM0NDAsLTc0MzEwNzgzMSwtMTI4MzgyMzExMiwtNTMyOTky
-MzAsMTIxMDg2MjIwOSw5MzcyMTE2NjAsLTEwMjA0Njk3MjUsOT
-g0ODUzODk2LDE2NzU4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0
-NCwtMTg0MTA1ODQxNywtMTI3NDUyMzE1MCwtMTYxNjY0MDA1Ni
-wtMTQ3NTQxNzg5MywxMzAyNzk4NjU2LC01MDU0OTExOTEsODE1
-NzA1NDYxXX0=
+eyJoaXN0b3J5IjpbMTA5OTc5MzY4OSwtMjAxNjM4Mzk3Miw4NT
+UwMjE2MDEsMTI2MjUyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIz
+MTEyLC01MzI5OTIzMCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMT
+AyMDQ2OTcyNSw5ODQ4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQx
+MzgsMjEyNzM0MjQ0LC0xODQxMDU4NDE3LC0xMjc0NTIzMTUwLC
+0xNjE2NjQwMDU2LC0xNDc1NDE3ODkzLDEzMDI3OTg2NTYsLTUw
+NTQ5MTE5MV19
 -->
