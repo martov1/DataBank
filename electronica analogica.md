@@ -981,7 +981,7 @@ Es decir, en $f_r$ninguna corriente pasara por el capacitor o por el inductor, t
 
 ## Filtro de ruido - WIP
 
-#### Introduccion y teoria
+### Introduccion y teoria
 [fuente 1](https://www.youtube.com/watch?v=KKjHZpNMeik)
 [fuente 2 - Especialmente el final](https://www.youtube.com/watch?v=BpuCv4hfYZU)
 
@@ -1011,7 +1011,7 @@ Esto es muy útil por que permite **proteger circuitos integrados que son sensib
 
 [Ejemplo](https://tinyurl.com/yxogcwjt)
 ![](https://i.imgur.com/0VwKEB0.png)
-#### Ruido alta ó baja frecuencia
+### Ruido alta ó baja frecuencia
 [ver1](https://www.youtube.com/watch?v=wwANKw36Mjw)
 [ver2](https://www.youtube.com/watch?v=1xicZF9glH0)
 [ver 3](https://www.youtube.com/watch?v=BcJ6UdDx1vg)
@@ -1229,7 +1229,7 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM3MzUxNTcsMTA5OTc5MzY4OSwtMj
+eyJoaXN0b3J5IjpbLTE4Njk1OTY1ODUsMTA5OTc5MzY4OSwtMj
 AxNjM4Mzk3Miw4NTUwMjE2MDEsMTI2MjUyMzQ0MCwtNzQzMTA3
 ODMxLC0xMjgzODIzMTEyLC01MzI5OTIzMCwxMjEwODYyMjA5LD
 kzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5ODQ4NTM4OTYsMTY3NTg0
