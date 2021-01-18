@@ -3,10 +3,9 @@
 **VER aplicacion en reparacion de notebooks**
 https://www.youtube.com/watch?v=1XGun_-06aA&list=PLHk1hZEmw3_zlUPRfVeBHLSUviVNfR4pNvideo 3 minuto 7
 
-# Componentes
 
 
-## Resistores
+# Resistores
 
 ### Clasificaciones
 Son elementos diseñados para ofrecer una resistencia al paso de la corriente
@@ -207,6 +206,29 @@ Generalmente se colocan en paralelo con una entrada de tension para cortocircuit
 Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas que te dicen de acuerdo a cuantos **lux** que resistencia tendran
 
 ![](https://i.imgur.com/035We3a.png)
+# Circuitos con resistores
+## Estrella-triangulo 
+Se trata de dos circuitos equivalentes de resistencias.
+Mas que nada se trata de una "regla" que resume esta situacion, que es muy comun.
+![](https://i.imgur.com/2uXZCsz.png)
+
+Se puede llegar a estas formulas 
+
+1. Teniendo los valores de resistencia de uno de los dos circuitos
+2. Asumiendo que la corriente que sale por$A,B,C$ es la misma en cada circuito
+3. Aplicando ley de kirchoff KCL para cada nodo
+4. Asumiendo que el voltaje entre nodos $A,B,C$ es la misma en cada circuito
+5. Aplicando KVC para cada nodo 
+6. Reemplazando, obtengo una expresion para $V_m$ (el voltaje en el centro de la estrella
+7. Tenemos todos los datos para obtener las resistencias 
+[Prueba](https://drive.google.com/file/d/130gNaUIwi_HZYXLLy_pG-38Okxu0oMrK/view)
+
+Las equaciones quedan asi
+![](https://i.imgur.com/i2PZg5q.png)
+
+## Wheatstone bridge - WIP
+
+
 # Fuentes
 
 ### Generalidades
@@ -604,31 +626,7 @@ $P=V.I$, vemos que en los momentos en los que
 
 ![](https://i.imgur.com/R3tgN40.png)
 
-# Circuitos comunes
-
-
-## Estrella-triangulo 
-Se trata de dos circuitos equivalentes de resistencias.
-Mas que nada se trata de una "regla" que resume esta situacion, que es muy comun.
-![](https://i.imgur.com/2uXZCsz.png)
-
-Se puede llegar a estas formulas 
-
-1. Teniendo los valores de resistencia de uno de los dos circuitos
-2. Asumiendo que la corriente que sale por$A,B,C$ es la misma en cada circuito
-3. Aplicando ley de kirchoff KCL para cada nodo
-4. Asumiendo que el voltaje entre nodos $A,B,C$ es la misma en cada circuito
-5. Aplicando KVC para cada nodo 
-6. Reemplazando, obtengo una expresion para $V_m$ (el voltaje en el centro de la estrella
-7. Tenemos todos los datos para obtener las resistencias 
-[Prueba](https://drive.google.com/file/d/130gNaUIwi_HZYXLLy_pG-38Okxu0oMrK/view)
-
-Las equaciones quedan asi
-![](https://i.imgur.com/i2PZg5q.png)
-
-## Wheatstone bridge - WIP
-
-## Circuito Resistor-Capacitor (RC) en CC
+# Circuito R-C en CC
 
 [fuente](https://www.youtube.com/watch?v=IAD3OK7i-pM&list=PLdnqjKaksr8qQ9w3XY5zFXQ2H-zXQFMlI&index=72)
 
@@ -1224,11 +1222,11 @@ Identica a las anteriores, pero baja la tension con un transformador.
 ![](https://i.imgur.com/N9o6kBE.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTc5MzY4OSwtMjAxNjM4Mzk3Miw4NT
-UwMjE2MDEsMTI2MjUyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIz
-MTEyLC01MzI5OTIzMCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMT
-AyMDQ2OTcyNSw5ODQ4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQx
-MzgsMjEyNzM0MjQ0LC0xODQxMDU4NDE3LC0xMjc0NTIzMTUwLC
-0xNjE2NjQwMDU2LC0xNDc1NDE3ODkzLDEzMDI3OTg2NTYsLTUw
-NTQ5MTE5MV19
+eyJoaXN0b3J5IjpbLTUxMDU1MzMwMCwxMDk5NzkzNjg5LC0yMD
+E2MzgzOTcyLDg1NTAyMTYwMSwxMjYyNTIzNDQwLC03NDMxMDc4
+MzEsLTEyODM4MjMxMTIsLTUzMjk5MjMwLDEyMTA4NjIyMDksOT
+M3MjExNjYwLC0xMDIwNDY5NzI1LDk4NDg1Mzg5NiwxNjc1ODQ3
+NTY0LDI2Mzk3NDEzOCwyMTI3MzQyNDQsLTE4NDEwNTg0MTcsLT
+EyNzQ1MjMxNTAsLTE2MTY2NDAwNTYsLTE0NzU0MTc4OTMsMTMw
+Mjc5ODY1Nl19
 -->
