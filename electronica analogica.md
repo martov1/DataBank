@@ -399,7 +399,7 @@ Es **critico** notar que
 * A su vez es la misma cantidad de carga que  el circuito ve como total $Q_1=Q_2=Q_3=Q_t$. Esto **no es un error**, la cantidad de carga **no es la suma de las cargas**
 * Cuanto **mas chico el capacitor**, este esta mas lleno y por ende **tiene mas voltaje**
 
-## En AC
+## En AC sinusoidal (impedancia)
 [fuente](https://www.youtube.com/watch?v=17Fk2MN9c_Q&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=39)
 Forma una impedancia que se calcula como
 $$\Omega impedance = \frac{1}{(w).L}=\frac{1}{(2\pi f)L}$$
@@ -620,7 +620,7 @@ Inversamente, cuando se deshace el campo magnetico este mantiene brevemente la c
 
 
 
-## En AC
+## En AC sinusoidal (impedancia)
 
 [fuente](https://www.youtube.com/watch?v=AYQgpRUtLwU&list=PLb_ph_WdlLDny2cGloFSxyRgO8B733jeo&index=38)
 En AC la bobina tiene una impedancia igual a
@@ -694,11 +694,11 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjEwMTE2MCwtNTU1NDg5NjU2LC0xOT
-YyOTQyNjkzLC0xODY5NTk2NTg1LDEwOTk3OTM2ODksLTIwMTYz
-ODM5NzIsODU1MDIxNjAxLDEyNjI1MjM0NDAsLTc0MzEwNzgzMS
-wtMTI4MzgyMzExMiwtNTMyOTkyMzAsMTIxMDg2MjIwOSw5Mzcy
-MTE2NjAsLTEwMjA0Njk3MjUsOTg0ODUzODk2LDE2NzU4NDc1Nj
-QsMjYzOTc0MTM4LDIxMjczNDI0NCwtMTg0MTA1ODQxNywtMTI3
-NDUyMzE1MF19
+eyJoaXN0b3J5IjpbLTEzODMxMjU1NDYsLTcwMjEwMTE2MCwtNT
+U1NDg5NjU2LC0xOTYyOTQyNjkzLC0xODY5NTk2NTg1LDEwOTk3
+OTM2ODksLTIwMTYzODM5NzIsODU1MDIxNjAxLDEyNjI1MjM0ND
+AsLTc0MzEwNzgzMSwtMTI4MzgyMzExMiwtNTMyOTkyMzAsMTIx
+MDg2MjIwOSw5MzcyMTE2NjAsLTEwMjA0Njk3MjUsOTg0ODUzOD
+k2LDE2NzU4NDc1NjQsMjYzOTc0MTM4LDIxMjczNDI0NCwtMTg0
+MTA1ODQxN119
 -->
