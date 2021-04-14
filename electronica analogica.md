@@ -211,7 +211,7 @@ Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas q
 ### Divisor de tension - WIP
 
 
-#### Hasta $0V$
+#### Hasta $0V$ 
 
 La tension se divide no uniformemente entre las dos resistencias, la tension que se divide es $V_1$. **siempre que por los dos resistores pase la misma corriente**
 
@@ -233,6 +233,7 @@ $$\frac{V_{R1}}{R_1}=\frac{V_{R2}}{R_2}$$
 $$\frac{V_1-V_{out}}{R_1}=\frac{V_{out}}{R_2}$$
 
 **Reordenando:**
+
 
 [ejemplo](https://tinyurl.com/yfawc4ap)
 ![](https://i.imgur.com/uSoPmwy.png)
@@ -731,11 +732,11 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0NDk1NDAwLC0xNTM2OTQ0NDkzLC0xNT
-U0ODE1NDgzLC0zODc5ODgyMDQsLTEzODMxMjU1NDYsLTcwMjEw
-MTE2MCwtNTU1NDg5NjU2LC0xOTYyOTQyNjkzLC0xODY5NTk2NT
-g1LDEwOTk3OTM2ODksLTIwMTYzODM5NzIsODU1MDIxNjAxLDEy
-NjI1MjM0NDAsLTc0MzEwNzgzMSwtMTI4MzgyMzExMiwtNTMyOT
-kyMzAsMTIxMDg2MjIwOSw5MzcyMTE2NjAsLTEwMjA0Njk3MjUs
-OTg0ODUzODk2XX0=
+eyJoaXN0b3J5IjpbNDE3NzEwMTI0LDQxNDQ5NTQwMCwtMTUzNj
+k0NDQ5MywtMTU1NDgxNTQ4MywtMzg3OTg4MjA0LC0xMzgzMTI1
+NTQ2LC03MDIxMDExNjAsLTU1NTQ4OTY1NiwtMTk2Mjk0MjY5My
+wtMTg2OTU5NjU4NSwxMDk5NzkzNjg5LC0yMDE2MzgzOTcyLDg1
+NTAyMTYwMSwxMjYyNTIzNDQwLC03NDMxMDc4MzEsLTEyODM4Mj
+MxMTIsLTUzMjk5MjMwLDEyMTA4NjIyMDksOTM3MjExNjYwLC0x
+MDIwNDY5NzI1XX0=
 -->
