@@ -211,7 +211,9 @@ Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas q
 ### Divisor de tension
 
 
+#### Hasta $0V$
 
+[ejemplo](https://tinyurl.com/yfawc4ap)
 
 ### Estrella-triangulo 
 Se trata de dos circuitos equivalentes de resistencias.
@@ -700,11 +702,11 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Nzk4ODIwNCwtMTM4MzEyNTU0NiwtNz
-AyMTAxMTYwLC01NTU0ODk2NTYsLTE5NjI5NDI2OTMsLTE4Njk1
-OTY1ODUsMTA5OTc5MzY4OSwtMjAxNjM4Mzk3Miw4NTUwMjE2MD
-EsMTI2MjUyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIzMTEyLC01
-MzI5OTIzMCwxMjEwODYyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OT
-cyNSw5ODQ4NTM4OTYsMTY3NTg0NzU2NCwyNjM5NzQxMzgsMjEy
-NzM0MjQ0XX0=
+eyJoaXN0b3J5IjpbLTE5OTYxNDM0MzksLTM4Nzk4ODIwNCwtMT
+M4MzEyNTU0NiwtNzAyMTAxMTYwLC01NTU0ODk2NTYsLTE5NjI5
+NDI2OTMsLTE4Njk1OTY1ODUsMTA5OTc5MzY4OSwtMjAxNjM4Mz
+k3Miw4NTUwMjE2MDEsMTI2MjUyMzQ0MCwtNzQzMTA3ODMxLC0x
+MjgzODIzMTEyLC01MzI5OTIzMCwxMjEwODYyMjA5LDkzNzIxMT
+Y2MCwtMTAyMDQ2OTcyNSw5ODQ4NTM4OTYsMTY3NTg0NzU2NCwy
+NjM5NzQxMzhdfQ==
 -->
