@@ -208,12 +208,20 @@ Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas q
 ![](https://i.imgur.com/035We3a.png)
 ## Circuitos con resistores
 
-### Divisor de tension
+### Divisor de tension - WIP
 
 
 #### Hasta $0V$
 
 [ejemplo](https://tinyurl.com/yfawc4ap)
+![](https://i.imgur.com/uSoPmwy.png)
+
+
+#### Hasta $V2$
+
+[ejemplo](https://tinyurl.com/yk6sffh7)
+![](https://i.imgur.com/ZpZf37w.png)
+
 
 ### Estrella-triangulo 
 Se trata de dos circuitos equivalentes de resistencias.
@@ -702,7 +710,7 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTYxNDM0MzksLTM4Nzk4ODIwNCwtMT
+eyJoaXN0b3J5IjpbLTE1NTQ4MTU0ODMsLTM4Nzk4ODIwNCwtMT
 M4MzEyNTU0NiwtNzAyMTAxMTYwLC01NTU0ODk2NTYsLTE5NjI5
 NDI2OTMsLTE4Njk1OTY1ODUsMTA5OTc5MzY4OSwtMjAxNjM4Mz
 k3Miw4NTUwMjE2MDEsMTI2MjUyMzQ0MCwtNzQzMTA3ODMxLC0x
