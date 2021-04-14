@@ -234,6 +234,8 @@ $$\frac{V_1-V_{out}}{R_1}=\frac{V_{out}}{R_2}$$
 
 **Reordenando:**
 
+$$\boxed{V_{out}=V_1\frac{R_2}{R_1+R_2}}$$
+
 
 [ejemplo](https://tinyurl.com/yfawc4ap)
 ![](https://i.imgur.com/uSoPmwy.png)
@@ -732,11 +734,11 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3NzEwMTI0LDQxNDQ5NTQwMCwtMTUzNj
-k0NDQ5MywtMTU1NDgxNTQ4MywtMzg3OTg4MjA0LC0xMzgzMTI1
-NTQ2LC03MDIxMDExNjAsLTU1NTQ4OTY1NiwtMTk2Mjk0MjY5My
-wtMTg2OTU5NjU4NSwxMDk5NzkzNjg5LC0yMDE2MzgzOTcyLDg1
-NTAyMTYwMSwxMjYyNTIzNDQwLC03NDMxMDc4MzEsLTEyODM4Mj
-MxMTIsLTUzMjk5MjMwLDEyMTA4NjIyMDksOTM3MjExNjYwLC0x
-MDIwNDY5NzI1XX0=
+eyJoaXN0b3J5IjpbLTE0ODc3NDYyNzcsNDE3NzEwMTI0LDQxND
+Q5NTQwMCwtMTUzNjk0NDQ5MywtMTU1NDgxNTQ4MywtMzg3OTg4
+MjA0LC0xMzgzMTI1NTQ2LC03MDIxMDExNjAsLTU1NTQ4OTY1Ni
+wtMTk2Mjk0MjY5MywtMTg2OTU5NjU4NSwxMDk5NzkzNjg5LC0y
+MDE2MzgzOTcyLDg1NTAyMTYwMSwxMjYyNTIzNDQwLC03NDMxMD
+c4MzEsLTEyODM4MjMxMTIsLTUzMjk5MjMwLDEyMTA4NjIyMDks
+OTM3MjExNjYwXX0=
 -->
