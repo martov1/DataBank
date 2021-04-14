@@ -232,7 +232,7 @@ $$\frac{V_{R1}}{R_1}=\frac{V_{R2}}{R_2}$$
 **Entonces reemplazando**
 $$\frac{V_1-V_{out}}{R_1}=\frac{V_{out}}{R_2}$$
 
-
+**Reordenando:**
 
 [ejemplo](https://tinyurl.com/yfawc4ap)
 ![](https://i.imgur.com/uSoPmwy.png)
@@ -731,11 +731,11 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY5NDQ0OTMsLTE1NTQ4MTU0ODMsLT
-M4Nzk4ODIwNCwtMTM4MzEyNTU0NiwtNzAyMTAxMTYwLC01NTU0
-ODk2NTYsLTE5NjI5NDI2OTMsLTE4Njk1OTY1ODUsMTA5OTc5Mz
-Y4OSwtMjAxNjM4Mzk3Miw4NTUwMjE2MDEsMTI2MjUyMzQ0MCwt
-NzQzMTA3ODMxLC0xMjgzODIzMTEyLC01MzI5OTIzMCwxMjEwOD
-YyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5ODQ4NTM4OTYs
-MTY3NTg0NzU2NF19
+eyJoaXN0b3J5IjpbNDE0NDk1NDAwLC0xNTM2OTQ0NDkzLC0xNT
+U0ODE1NDgzLC0zODc5ODgyMDQsLTEzODMxMjU1NDYsLTcwMjEw
+MTE2MCwtNTU1NDg5NjU2LC0xOTYyOTQyNjkzLC0xODY5NTk2NT
+g1LDEwOTk3OTM2ODksLTIwMTYzODM5NzIsODU1MDIxNjAxLDEy
+NjI1MjM0NDAsLTc0MzEwNzgzMSwtMTI4MzgyMzExMiwtNTMyOT
+kyMzAsMTIxMDg2MjIwOSw5MzcyMTE2NjAsLTEwMjA0Njk3MjUs
+OTg0ODUzODk2XX0=
 -->
