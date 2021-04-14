@@ -215,6 +215,9 @@ Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas q
 
 La tension se divide no uniformemente entre las dos resistencias, la tension que se divide es $V_1$. **siempre que por los dos resistores pase la misma corriente**
 
+[ejemplo](https://tinyurl.com/yfawc4ap)
+![](https://i.imgur.com/uSoPmwy.png)
+
 **sabemos que:**
 * Por ley de ohm
 	* $I_{R1}=\frac{V_{R1}}{R_1}$
@@ -237,11 +240,10 @@ $$\frac{V_1-V_{out}}{R_1}=\frac{V_{out}}{R_2}$$
 $$\boxed{V_{out}=V_1\frac{R_2}{R_1+R_2}}$$
 
 
-[ejemplo](https://tinyurl.com/yfawc4ap)
-![](https://i.imgur.com/uSoPmwy.png)
 
 
-#### Hasta $V2$
+
+#### Hasta $V2$ - WIP
 
 [ejemplo](https://tinyurl.com/yk6sffh7)
 ![](https://i.imgur.com/ZpZf37w.png)
@@ -734,11 +736,11 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODc3NDYyNzcsNDE3NzEwMTI0LDQxND
-Q5NTQwMCwtMTUzNjk0NDQ5MywtMTU1NDgxNTQ4MywtMzg3OTg4
-MjA0LC0xMzgzMTI1NTQ2LC03MDIxMDExNjAsLTU1NTQ4OTY1Ni
-wtMTk2Mjk0MjY5MywtMTg2OTU5NjU4NSwxMDk5NzkzNjg5LC0y
-MDE2MzgzOTcyLDg1NTAyMTYwMSwxMjYyNTIzNDQwLC03NDMxMD
-c4MzEsLTEyODM4MjMxMTIsLTUzMjk5MjMwLDEyMTA4NjIyMDks
-OTM3MjExNjYwXX0=
+eyJoaXN0b3J5IjpbMTE2MDQ1MTM4MiwtMTQ4Nzc0NjI3Nyw0MT
+c3MTAxMjQsNDE0NDk1NDAwLC0xNTM2OTQ0NDkzLC0xNTU0ODE1
+NDgzLC0zODc5ODgyMDQsLTEzODMxMjU1NDYsLTcwMjEwMTE2MC
+wtNTU1NDg5NjU2LC0xOTYyOTQyNjkzLC0xODY5NTk2NTg1LDEw
+OTk3OTM2ODksLTIwMTYzODM5NzIsODU1MDIxNjAxLDEyNjI1Mj
+M0NDAsLTc0MzEwNzgzMSwtMTI4MzgyMzExMiwtNTMyOTkyMzAs
+MTIxMDg2MjIwOV19
 -->
