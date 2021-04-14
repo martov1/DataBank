@@ -213,6 +213,8 @@ Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas q
 
 #### Hasta $0V$
 
+La tension se divide no uniformemente entre las dos resistencias, la tension que se divide es $$
+
 [ejemplo](https://tinyurl.com/yfawc4ap)
 ![](https://i.imgur.com/uSoPmwy.png)
 
@@ -710,11 +712,11 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQ4MTU0ODMsLTM4Nzk4ODIwNCwtMT
-M4MzEyNTU0NiwtNzAyMTAxMTYwLC01NTU0ODk2NTYsLTE5NjI5
-NDI2OTMsLTE4Njk1OTY1ODUsMTA5OTc5MzY4OSwtMjAxNjM4Mz
-k3Miw4NTUwMjE2MDEsMTI2MjUyMzQ0MCwtNzQzMTA3ODMxLC0x
-MjgzODIzMTEyLC01MzI5OTIzMCwxMjEwODYyMjA5LDkzNzIxMT
-Y2MCwtMTAyMDQ2OTcyNSw5ODQ4NTM4OTYsMTY3NTg0NzU2NCwy
-NjM5NzQxMzhdfQ==
+eyJoaXN0b3J5IjpbNzA5NDIzMzEwLC0xNTU0ODE1NDgzLC0zOD
+c5ODgyMDQsLTEzODMxMjU1NDYsLTcwMjEwMTE2MCwtNTU1NDg5
+NjU2LC0xOTYyOTQyNjkzLC0xODY5NTk2NTg1LDEwOTk3OTM2OD
+ksLTIwMTYzODM5NzIsODU1MDIxNjAxLDEyNjI1MjM0NDAsLTc0
+MzEwNzgzMSwtMTI4MzgyMzExMiwtNTMyOTkyMzAsMTIxMDg2Mj
+IwOSw5MzcyMTE2NjAsLTEwMjA0Njk3MjUsOTg0ODUzODk2LDE2
+NzU4NDc1NjRdfQ==
 -->
