@@ -220,11 +220,14 @@ La tension se divide no uniformemente entre las dos resistencias, la tension que
 	* $I_{R1}=\frac{V_{R1}}{R_1}$
 	* $I_{R2}=\frac{V_{R2}}{R_2}$
 * Como las resistencias estan en serie
-	* $I_1}=I_2$
+	* $I_{R1}=I_{R2}$
 
 **Entonces:**
 $$\frac{V_{R1}}{R_1}=\frac{V_{R2}}{R_2}$$
 
+Ademas vemos que
+* $V_{R1}=V_1-V_{out}$
+* $V_{R2}=V_{out}$
 
 [ejemplo](https://tinyurl.com/yfawc4ap)
 ![](https://i.imgur.com/uSoPmwy.png)
@@ -723,11 +726,11 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQzMjI2NjQsLTE1NTQ4MTU0ODMsLT
-M4Nzk4ODIwNCwtMTM4MzEyNTU0NiwtNzAyMTAxMTYwLC01NTU0
-ODk2NTYsLTE5NjI5NDI2OTMsLTE4Njk1OTY1ODUsMTA5OTc5Mz
-Y4OSwtMjAxNjM4Mzk3Miw4NTUwMjE2MDEsMTI2MjUyMzQ0MCwt
-NzQzMTA3ODMxLC0xMjgzODIzMTEyLC01MzI5OTIzMCwxMjEwOD
-YyMjA5LDkzNzIxMTY2MCwtMTAyMDQ2OTcyNSw5ODQ4NTM4OTYs
-MTY3NTg0NzU2NF19
+eyJoaXN0b3J5IjpbLTg2NDcyNjAxMSwtMTU1NDgxNTQ4MywtMz
+g3OTg4MjA0LC0xMzgzMTI1NTQ2LC03MDIxMDExNjAsLTU1NTQ4
+OTY1NiwtMTk2Mjk0MjY5MywtMTg2OTU5NjU4NSwxMDk5NzkzNj
+g5LC0yMDE2MzgzOTcyLDg1NTAyMTYwMSwxMjYyNTIzNDQwLC03
+NDMxMDc4MzEsLTEyODM4MjMxMTIsLTUzMjk5MjMwLDEyMTA4Nj
+IyMDksOTM3MjExNjYwLC0xMDIwNDY5NzI1LDk4NDg1Mzg5Niwx
+Njc1ODQ3NTY0XX0=
 -->
