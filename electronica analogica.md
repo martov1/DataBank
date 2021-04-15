@@ -268,6 +268,13 @@ $$\frac{V_{R1}}{R_1}=\frac{V_{R2}}{R_2}$$
 * $V_{R1}=V_1-V_{out}$
 * $V_{R2}=V_{out}-V_2$
 
+**Entonces reemplazando**
+$$\frac{V_1-V_{out}}{R_1}=\frac{V_{out}-V_2}{R_2}$$
+
+**Reordenando:**
+
+$$\boxed{V_{out}=V_1\frac{R_2}{R_1+R_2}}$$
+
 
 
 ### Estrella-triangulo 
@@ -757,11 +764,11 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDcwNTI2MTYsMTEyNjAyMzAwMCwxMT
-YwNDUxMzgyLC0xNDg3NzQ2Mjc3LDQxNzcxMDEyNCw0MTQ0OTU0
-MDAsLTE1MzY5NDQ0OTMsLTE1NTQ4MTU0ODMsLTM4Nzk4ODIwNC
-wtMTM4MzEyNTU0NiwtNzAyMTAxMTYwLC01NTU0ODk2NTYsLTE5
-NjI5NDI2OTMsLTE4Njk1OTY1ODUsMTA5OTc5MzY4OSwtMjAxNj
-M4Mzk3Miw4NTUwMjE2MDEsMTI2MjUyMzQ0MCwtNzQzMTA3ODMx
-LC0xMjgzODIzMTEyXX0=
+eyJoaXN0b3J5IjpbLTE4Nzg4OTUzMCwxMTI2MDIzMDAwLDExNj
+A0NTEzODIsLTE0ODc3NDYyNzcsNDE3NzEwMTI0LDQxNDQ5NTQw
+MCwtMTUzNjk0NDQ5MywtMTU1NDgxNTQ4MywtMzg3OTg4MjA0LC
+0xMzgzMTI1NTQ2LC03MDIxMDExNjAsLTU1NTQ4OTY1NiwtMTk2
+Mjk0MjY5MywtMTg2OTU5NjU4NSwxMDk5NzkzNjg5LC0yMDE2Mz
+gzOTcyLDg1NTAyMTYwMSwxMjYyNTIzNDQwLC03NDMxMDc4MzEs
+LTEyODM4MjMxMTJdfQ==
 -->
