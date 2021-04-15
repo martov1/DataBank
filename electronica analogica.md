@@ -266,7 +266,7 @@ $$\frac{V_{R1}}{R_1}=\frac{V_{R2}}{R_2}$$
 
 **Ademas vemos que:**
 * $V_{R1}=V_1-V_{out}$
-* $V_{R2}=V_{out}$
+* $V_{R2}=V_{out}-V_2$
 
 
 
@@ -757,7 +757,7 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM1OTQxMjQsMTEyNjAyMzAwMCwxMT
+eyJoaXN0b3J5IjpbLTEwNDcwNTI2MTYsMTEyNjAyMzAwMCwxMT
 YwNDUxMzgyLC0xNDg3NzQ2Mjc3LDQxNzcxMDEyNCw0MTQ0OTU0
 MDAsLTE1MzY5NDQ0OTMsLTE1NTQ4MTU0ODMsLTM4Nzk4ODIwNC
 wtMTM4MzEyNTU0NiwtNzAyMTAxMTYwLC01NTU0ODk2NTYsLTE5
