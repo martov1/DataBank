@@ -270,7 +270,7 @@ $$\frac{V_1-V_{out}}{R_1}=\frac{V_{out}-V_2}{R_2}$$
 
 **Reordenando:**
 
-$$\boxed{V_{out}=V_2+(V_1-V_2)V_1\frac{R_2}{R_1+R_2}}$$
+$$\boxed{V_{out}=V_2+(V_1-V_2)\frac{R_2}{R_1+R_2}}$$
 
 
 
@@ -761,7 +761,7 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyOTgxMzI3LC0xOTAwNDg5NDA4LC0xOD
+eyJoaXN0b3J5IjpbLTc5NDgxMjc3LC0xOTAwNDg5NDA4LC0xOD
 c4ODk1MzAsMTEyNjAyMzAwMCwxMTYwNDUxMzgyLC0xNDg3NzQ2
 Mjc3LDQxNzcxMDEyNCw0MTQ0OTU0MDAsLTE1MzY5NDQ0OTMsLT
 E1NTQ4MTU0ODMsLTM4Nzk4ODIwNCwtMTM4MzEyNTU0NiwtNzAy
