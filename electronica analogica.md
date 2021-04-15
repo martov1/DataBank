@@ -208,11 +208,11 @@ Varian su resistencia con la luz, generalmente **no son lineales**, hay tablas q
 ![](https://i.imgur.com/035We3a.png)
 ## Circuitos con resistores
 
-### Divisor de tension - WIP
+### Divisor de tension
 
 
 #### Hasta $GND$
-
+[fuente](https://electronics.stackexchange.com/questions/163347/voltage-divider-like-circuit-with-multiple-sources)
 La tension se divide no uniformemente entre las dos resistencias, la tension que se divide es $V_1$. **siempre que por los dos resistores pase la misma corriente**
 
 [ejemplo](https://tinyurl.com/yfawc4ap)
@@ -243,7 +243,7 @@ $$\boxed{V_{out}=V_1\frac{R_2}{R_1+R_2}}$$
 
 
 
-#### Hasta $V2$ - WIP
+#### Hasta $V2$
 
 [fuente](https://electronics.stackexchange.com/questions/163347/voltage-divider-like-circuit-with-multiple-sources)
 Otra posibilidad es hacer un divisor de tension en el que en lugar de caer desde $V_1$ a $GND$ en sus extremos, caiga desde $V_1$ hasta $V_2$
@@ -761,11 +761,11 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA0ODk0MDgsLTE4Nzg4OTUzMCwxMT
-I2MDIzMDAwLDExNjA0NTEzODIsLTE0ODc3NDYyNzcsNDE3NzEw
-MTI0LDQxNDQ5NTQwMCwtMTUzNjk0NDQ5MywtMTU1NDgxNTQ4My
-wtMzg3OTg4MjA0LC0xMzgzMTI1NTQ2LC03MDIxMDExNjAsLTU1
-NTQ4OTY1NiwtMTk2Mjk0MjY5MywtMTg2OTU5NjU4NSwxMDk5Nz
-kzNjg5LC0yMDE2MzgzOTcyLDg1NTAyMTYwMSwxMjYyNTIzNDQw
-LC03NDMxMDc4MzFdfQ==
+eyJoaXN0b3J5IjpbNDAyOTgxMzI3LC0xOTAwNDg5NDA4LC0xOD
+c4ODk1MzAsMTEyNjAyMzAwMCwxMTYwNDUxMzgyLC0xNDg3NzQ2
+Mjc3LDQxNzcxMDEyNCw0MTQ0OTU0MDAsLTE1MzY5NDQ0OTMsLT
+E1NTQ4MTU0ODMsLTM4Nzk4ODIwNCwtMTM4MzEyNTU0NiwtNzAy
+MTAxMTYwLC01NTU0ODk2NTYsLTE5NjI5NDI2OTMsLTE4Njk1OT
+Y1ODUsMTA5OTc5MzY4OSwtMjAxNjM4Mzk3Miw4NTUwMjE2MDEs
+MTI2MjUyMzQ0MF19
 -->
