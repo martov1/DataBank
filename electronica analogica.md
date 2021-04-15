@@ -245,13 +245,28 @@ $$\boxed{V_{out}=V_1\frac{R_2}{R_1+R_2}}$$
 
 #### Hasta $V2$ - WIP
 
-Otra posibilidad es hacer un divisor de tension que en lugar de caer desde $V_1$ a $GND$, caiga desde $V_1$ hasta $V_2$
+Otra posibilidad es hacer un divisor de tension en el que en lugar de caer desde $V_1$ a $GND$ en sus extremos, caiga desde $V_1$ hasta $V_2$
+
+
 
 
 
 [ejemplo](https://tinyurl.com/yk6sffh7)
 ![](https://i.imgur.com/ZpZf37w.png)
 
+**Sabemos que:**
+* Por ley de ohm
+	* $I_{R1}=\frac{V_{R1}}{R_1}$
+	* $I_{R2}=\frac{V_{R2}}{R_2}$
+* Como las resistencias estan en serie
+	* $I_{R1}=I_{R2}$
+
+**Entonces:**
+$$\frac{V_{R1}}{R_1}=\frac{V_{R2}}{R_2}$$
+
+**Ademas vemos que:**
+* $V_{R1}=V_1-V_{out}$
+* $V_{R2}=V_{out}$
 
 
 
@@ -742,11 +757,11 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjAyMzAwMCwxMTYwNDUxMzgyLC0xND
-g3NzQ2Mjc3LDQxNzcxMDEyNCw0MTQ0OTU0MDAsLTE1MzY5NDQ0
-OTMsLTE1NTQ4MTU0ODMsLTM4Nzk4ODIwNCwtMTM4MzEyNTU0Ni
-wtNzAyMTAxMTYwLC01NTU0ODk2NTYsLTE5NjI5NDI2OTMsLTE4
-Njk1OTY1ODUsMTA5OTc5MzY4OSwtMjAxNjM4Mzk3Miw4NTUwMj
-E2MDEsMTI2MjUyMzQ0MCwtNzQzMTA3ODMxLC0xMjgzODIzMTEy
-LC01MzI5OTIzMF19
+eyJoaXN0b3J5IjpbLTEwMzM1OTQxMjQsMTEyNjAyMzAwMCwxMT
+YwNDUxMzgyLC0xNDg3NzQ2Mjc3LDQxNzcxMDEyNCw0MTQ0OTU0
+MDAsLTE1MzY5NDQ0OTMsLTE1NTQ4MTU0ODMsLTM4Nzk4ODIwNC
+wtMTM4MzEyNTU0NiwtNzAyMTAxMTYwLC01NTU0ODk2NTYsLTE5
+NjI5NDI2OTMsLTE4Njk1OTY1ODUsMTA5OTc5MzY4OSwtMjAxNj
+M4Mzk3Miw4NTUwMjE2MDEsMTI2MjUyMzQ0MCwtNzQzMTA3ODMx
+LC0xMjgzODIzMTEyXX0=
 -->
