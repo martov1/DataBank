@@ -584,9 +584,11 @@ Son capacitores que pueden variar su capacitancia, algunos ejemplos son
 
 # Inductores
 
-
+[LA FUENTE GENIAL](https://www.youtube.com/watch?v=a21zh-obKWg)
 ## Calculo
 ### Que son
+
+[LA FUENTE GENIAL](https://www.youtube.com/watch?v=a21zh-obKWg)
 Son dispositivos que generan campos **magneticos** mediante una corriente que los atraviesa.
 * Cualquier conductor es un inductor que genera un campo a su alrededor según el **maxwell corkscrew law**
 * Si enrollas el conductor, entonces los campos se continuan entre si.
@@ -594,6 +596,7 @@ Son dispositivos que generan campos **magneticos** mediante una corriente que lo
 ![](https://i.imgur.com/lV8XhnG.png)
 ### El Henrrio
 
+[LA FUENTE GENIAL](https://www.youtube.com/watch?v=a21zh-obKWg)
 Es la unidad de inductancia, que indica cuantos volts genera el inductor cuando la corriente **cambia** un ampere por segundo
 
 $$L=\frac{V}{\Delta A}=\frac{V}{i(t)dt}$$
@@ -643,6 +646,10 @@ $$\boxed{L_t=\frac{1}{\frac{1}{L_1}+\frac{1}{L_2}+\frac{1}{L_3}}}$$
 El **Voltaje** entre las terminales de un inductor es directamente proporcional a la **cantidad de vueltas** y a la **velocidad de cambio del campo magnetico**
 
 ### Ley de Lenz - WIP
+
+### Ley de hopkinson y circuitos magneticos - WIP
+
+[LA FUENTE GENIAL](https://www.youtube.com/watch?v=a21zh-obKWg)
 
 ## En DC
 ### Carga a corriente variable
@@ -761,11 +768,11 @@ $P=V.I$, vemos que en los momentos en los que
 ![](https://i.imgur.com/R3tgN40.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDgxMjc3LC0xOTAwNDg5NDA4LC0xOD
-c4ODk1MzAsMTEyNjAyMzAwMCwxMTYwNDUxMzgyLC0xNDg3NzQ2
-Mjc3LDQxNzcxMDEyNCw0MTQ0OTU0MDAsLTE1MzY5NDQ0OTMsLT
-E1NTQ4MTU0ODMsLTM4Nzk4ODIwNCwtMTM4MzEyNTU0NiwtNzAy
-MTAxMTYwLC01NTU0ODk2NTYsLTE5NjI5NDI2OTMsLTE4Njk1OT
-Y1ODUsMTA5OTc5MzY4OSwtMjAxNjM4Mzk3Miw4NTUwMjE2MDEs
-MTI2MjUyMzQ0MF19
+eyJoaXN0b3J5IjpbMTMzMzYwNTI4MywtNzk0ODEyNzcsLTE5MD
+A0ODk0MDgsLTE4Nzg4OTUzMCwxMTI2MDIzMDAwLDExNjA0NTEz
+ODIsLTE0ODc3NDYyNzcsNDE3NzEwMTI0LDQxNDQ5NTQwMCwtMT
+UzNjk0NDQ5MywtMTU1NDgxNTQ4MywtMzg3OTg4MjA0LC0xMzgz
+MTI1NTQ2LC03MDIxMDExNjAsLTU1NTQ4OTY1NiwtMTk2Mjk0Mj
+Y5MywtMTg2OTU5NjU4NSwxMDk5NzkzNjg5LC0yMDE2MzgzOTcy
+LDg1NTAyMTYwMV19
 -->
