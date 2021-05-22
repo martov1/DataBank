@@ -61,7 +61,7 @@ Es decir, permite a **Un servidor pueda indicarle a un browser que es seguro rel
 >Notas sobre seguridad
 **Este protocolo solo sirve para protejer al usuario si el servidor implementa** 
 * El protocolo HTTP de forma correcta, es decir lo los verbos **GET y HEAD son safe**
-* Anty CSRF (tokens/nounces o otro mecanismo) para non-safe POSTS
+* Anti-CSRF (tokens/nounces o otro mecanismo) para non-safe POSTS
 * Sanitizacion del header `Origin` para evitar HTTP header inyection
 * Se limita el acceso a CORS a los origenes minimos necesarios (salvo que sea un public API) usando alguna base de datos o algun otro mecanismo
 
@@ -215,6 +215,6 @@ Access-Control-Allow-Credentials: true
 Access-Control-Max-Age: 10000
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTk3MTg3OCwtNDUxOTAxMzk3LDYxMD
-EwNjA3NV19
+eyJoaXN0b3J5IjpbOTcyNDM3MTYxLC00NTE5MDEzOTcsNjEwMT
+A2MDc1XX0=
 -->
