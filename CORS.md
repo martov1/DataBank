@@ -35,7 +35,7 @@ Se trata de una serie de politicas que evitan que se realicen acciones entre dos
 
 ## SOP y HTTP requests
 
-El browser rechaza el envio de requests HTTP al mismo dominio de origen como parte de la politica same-origin-policy. Se puede realizar excepciones usando el **protocolo CORS** 
+El browser rechaza el envio de requests HTTP a otro dominio diferente  del origen como parte de la politica same-origin-policy. Se puede realizar excepciones usando el **protocolo CORS** 
 
 >Cualquier solicitud a un dominio diferente al origen puede ser sujeta al **Protocolo CORS**, que permite la relajacion del same-origin-policy si el servidor da permiso
 
@@ -215,5 +215,6 @@ Access-Control-Allow-Credentials: true
 Access-Control-Max-Age: 10000
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTkwMTM5Nyw2MTAxMDYwNzVdfQ==
+eyJoaXN0b3J5IjpbMTA3OTk3MTg3OCwtNDUxOTAxMzk3LDYxMD
+EwNjA3NV19
 -->
