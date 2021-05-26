@@ -3,17 +3,8 @@
 
 ---
 
-<p><strong>Me quede en FLOATS</strong></p>
-<p>ATENCION:</p>
-<p>ritten th <a href="https://stackedit.io/">StackEdit</a>.<br>
-ATENCION:</p>
-<p><strong>Me quede en 8.4 padding</strong><br>
-<strong>Probablemente necesito leer  9 Visual formatting model para entender muchas cosas del cap. 8</strong></p>
-<p>Arranque con CSS2.1, Despues tengo que leer todas las otras specs</p>
-<p>CSS2.1:<br>
-<a href="https://www.w3.org/TR/CSS2/intro.html#q2.0">https://www.w3.org/TR/CSS2/intro.html#q2.0</a></p>
-<p>LAS DEMAS:<br>
-<a href="https://www.w3.org/TR/css-2018/">https://www.w3.org/TR/css-2018/</a></p>
+<p><strong>Quede en vertical algin por paja</strong><br>
+<strong>Tambien me qude en counters</strong></p>
 <h1 id="css-2.1">CSS 2.1</h1>
 <h2 id="ideologia">Ideologia</h2>
 <p>CSS es un lenguaje de estilos pero tambien intenta mantener ciertos ideales, estos son:</p>
@@ -138,7 +129,7 @@ h1 { font-size: 130% }
 </code></pre>
 <p>El <strong>valor computado y entonces heredado</strong> en el h1 es <strong>13pt</strong>, entonces el EM <strong>hereda el valor 13p y NO 130%</strong></p>
 <h3 id="the-cascade">The cascade</h3>
-<p>El user agent colocara un pero a cada regla declarada y luego seleccionara la regla con mayor peso. Se calculan con la siguiente prioridad.</p>
+<p>El user agent colocara un peo a cada regla declarada y luego seleccionara la regla con mayor peso. Se calculan con la siguiente prioridad.</p>
 <h4 id="calculo-de-cascada">Calculo de cascada</h4>
 <ul>
 <li><strong>Busqueda:</strong> Buscar todas las reglas que apliquen a un elemento.</li>
@@ -245,7 +236,7 @@ h1 { font-size: 130% }
 <h3 id="margen">Margen</h3>
 <ul>
 <li>Siempre es <strong>transparente</strong></li>
-<li>Su <strong>%</strong> se calcula en base al ancho del <strong>contianing blockenido</strong>.</li>
+<li>Su <strong>%</strong> se calcula en base al ancho del <strong>contianing block</strong>.</li>
 <li>Para elementos <strong>inline-block se ignoran</strong> los margenes <strong>Top y Bottom</strong></li>
 </ul>
 <p>Tiene las siguientes caracteristicas</p>
@@ -260,6 +251,28 @@ h1 { font-size: 130% }
 <li><strong>Computed value:</strong> the percentage as specified or the absolute length</li>
 </ul>
 </blockquote>
+<h4 id="valor-auto---wip">Valor auto - WIP</h4>
+<p><strong>AUTO</strong> tiene diferentes comportamientos dependiendo del tipo de elemento<br>
+<strong>PARA MARGIN-LEFT:AUTO Y/O MARGIN-RIGHT:AUTO</strong></p>
+<ul>
+<li><strong>inline/replaced inline/inline-block:</strong> Auto es el valor 0</li>
+<li><strong>block/replaced block</strong> si estas en <strong>normal flow</strong> y
+<ul>
+<li>los margenes + padding + borders+ content es <strong>mayor que el containing block</strong> entonces los <strong>margenes auto valen 0</strong></li>
+<li>Si los valores computados de width, padding y un margen estan calculados y el margen restante es auto, se añade el ancho faltante para completar el containing box</li>
+<li><strong>Si ambos son auto</strong> se centra horizontalmente el elemento</li>
+<li><strong>si el elemento es float</strong> los margenes auto son 0</li>
+</ul>
+</li>
+<li><strong>Absolutely positioned</strong>
+<ul>
+<li><strong>Si left, right y width tienen valores</strong>: Margenes auto centran el elemento<br>
+*<strong>Caso contrario</strong>: Margenes auto son cero</li>
+</ul>
+</li>
+</ul>
+<p><strong>PARA MARGIN-TOP:AUTO Y/O MARGIN-BOTTOM:AUTO</strong></p>
+<p>Resuelve siempre en 0</p>
 <h4 id="collapsing-margins">Collapsing margins</h4>
 <p><a href="https://www.youtube.com/watch?v=uEfH6qnFF6Y&amp;t=944s">VER VIDEO PARA ENTENDER BIEN</a></p>
 <p>Los margenes <strong>verticales</strong> colapsan en uno solo <strong>siempre que se tocan y son block o inline block elements Y participan del mismo BFC</strong>. para evitar que se toquen hay que colocar algo en el medio (ej border)<br>
@@ -270,7 +283,7 @@ h1 { font-size: 130% }
 <p><strong>Eso puede ocurrir con:</strong></p>
 <ul>
 <li><strong>Siblings</strong> si se toca el margin-bottom de uno con el margin-top de otro</li>
-<li><strong>parent-child/grandchild SUPER ANTI-INTUITIVO</strong> si los dos margenes top se tocan (no hay padding o border)
+<li><strong>parent-child/grandchild SUPER ANTI-INTUITIVO</strong> si los dos margenes top se tocan y estan en el mismo BFC (no hay padding o border)
 <ul>
 <li><strong>En este caso si el margen colapsado es el del child se genera un margen adentro del elemento hijo que empuja al parent y todos los children hacia abajo</strong></li>
 </ul>
@@ -337,7 +350,7 @@ Applies to:all elements</li>
 <h3 id="terminos-1">Terminos</h3>
 <ul>
 <li>
-<p><strong>containing block:</strong>  La caja dentro de la cual vive  un elemento, esta definida por la caja del elemento padre.</p>
+<p><strong>containing box:</strong>  La caja dentro de la cual vive  un elemento, generalmente definida por la caja del elemento padre.</p>
 </li>
 <li>
 <p><strong>Block-level boxes</strong> son boxes que participan del block formatting context</p>
@@ -353,6 +366,9 @@ Applies to:all elements</li>
 <li>
 <p><strong>Line box</strong> La caja que representa un renglon con uno o mas inline elements en su interior</p>
 </li>
+<li>
+<p><strong>positioned box</strong> Una caja con un valor de position diferente de static</p>
+</li>
 </ul>
 <h3 id="posicionamiento">Posicionamiento</h3>
 <p>Hay 3 formas de posicionamiento</p>
@@ -365,7 +381,31 @@ Applies to:all elements</li>
 </ul>
 </li>
 <li><strong>Floats:</strong> Se arma la caja como si estuviera en flow, luego se remueve de flow y se coloca a la izquierda/derecha del parent o float mas proximo</li>
-<li><strong>Absolute positioning:</strong> Se remueve la caja del flow y se coloca en una posicion con respecto al container block.</li>
+<li><strong>Absolute positioning:</strong> Se remueve la caja del flow y se coloca en una posicion con respecto al Containing box.
+<ul>
+<li><strong>Fixed:</strong> es un tipo de  Absolute positioning pero siempre con respecto al viewport</li>
+</ul>
+</li>
+</ul>
+<h3 id="containing-box">Containing box</h3>
+<p>El containing box es el lugar donde <strong>vive un elemento</strong> y <strong>apartir del cual se calculan los valores de</strong></p>
+<ul>
+<li><strong>Height y width</strong> al usar %</li>
+<li><strong>margin</strong> al usar %</li>
+<li><strong>top, bottom, left, right</strong> al usar %</li>
+</ul>
+<p>El containing box de un elemento depende del valor de posicion de ese objeto:</p>
+<ul>
+<li><strong>position: static | relative</strong>  el contennt box del elemento padre</li>
+<li><strong>position: absolute</strong> el padding box del ancestro mas proximo con
+<ul>
+<li><code>position: absolute|relative| fixed | sticky</code></li>
+<li><code>transform</code> ,  <code>perspective</code> o <code>filter</code> con valor diferente de <code>none</code></li>
+<li><code>contain</code> con valor igual a <code>paint</code></li>
+<li>Si ninguno de estos existe entonces es el ancestro mas proximo</li>
+</ul>
+</li>
+<li><strong>Position:fixed</strong> el viewport para screen o la hoja de papel para print</li>
 </ul>
 <h3 id="normal-flow">Normal Flow</h3>
 <p>En el normal flow <strong>cada elemento siempre pertenece a un y solo un formatting context</strong> que dictara cual es la posicion de ese elemento.</p>
@@ -392,7 +432,7 @@ Applies to:all elements</li>
 <li>Los elementos <strong>inline SE TRANFORMAN EN BLOCKS</strong> mediante <strong>anonymous box generation</strong></li>
 </ul>
 </li>
-<li><strong>COLLAPSING MARGINS:</strong> Solo los <strong>margenes</strong> de los elementos dentro del BFC pueden <strong>colapsar</strong> entre si</li>
+<li><strong>COLLAPSING MARGINS:</strong> Solo los <strong>margenes</strong> de los elementos dentro del mismo BFC pueden <strong>colapsar</strong> entre si</li>
 </ul>
 <p>Algunas propiedades de CSS hacen que un elemento pueda crear su propio BFC.</p>
 <ul>
@@ -411,17 +451,15 @@ Applies to:all elements</li>
 <li><strong>Su alto y ancho</strong> estan totalmente definidos por el contenido y <strong>NO PUEDEN MODIFICARSE</strong></li>
 <li><strong>Se distribuyen en renglones llamados line box</strong> que contienen uno o mas inline elements (ej texto y alguna palabra con negritas son line elements separados pero estan en el mismo renglon)</li>
 </ul>
-<p>Generalmente el texto y los links son inline elements</p>
-<ul>
-<li><strong>Inline-Block</strong> es un block colocado como si fuera un inline element.</li>
-</ul>
+<p>Generalmente el texto y los links son inline elements<br>
+<strong>Inline-Block</strong> es un block colocado como si fuera un inline element.</p>
 <h4 id="inline-formatting-context-ifc">Inline Formatting Context (IFC)</h4>
-<p>El IFCes <strong>el area donde varios inline elements estan contenidos e interactuan entre si</strong>. Se distribuye el contenido de derecha a izquierda hasta llegar al final del contenedor (o del contenido) y se lo coloca en un <strong>line box</strong>, luego se continua con ese proceso en un <strong>line box</strong> inmediatamente por debajo del al anterior .</p>
+<p>El IFCes <strong>el area donde varios inline elements estan contenidos e interactuan entre si</strong> se distribuyen de izquierda a derecha hasta llegar al final del contenedor (o del contenido) y se lo coloca en un <strong>line box</strong>, luego se continua con ese proceso en un <strong>line box</strong> inmediatamente por debajo del al anterior .</p>
 <p>Entonces <strong>un parrafo es una pila de line boxes</strong>.</p>
 <p><strong>En un IFC:</strong></p>
 <ul>
 <li><strong>Los elementos van uno a la derecha del otro</strong> en normal flow, comenzando desde el lado superior izquierdo del containing box.</li>
-<li><strong>Se agrupan en un LINE BOX por cada renglon</strong>. un Line box puede tener uno o mas inline elements (ej texto y negritas)
+<li><strong>Se agrupan en un LINE BOX por cada renglon</strong>. un Line box puede tener uno o mas inline elements (ej texto y negrita)
 <ul>
 <li><strong>Los elementos en un LINE BOX pueden ser alineados verticalmente</strong> de formas diferentes (ej: textos de diferentes tamaños alineados centrado quedan mal, los alineas en baseline para que queden en el mismo renglon)</li>
 </ul>
@@ -431,15 +469,14 @@ Applies to:all elements</li>
 <img src="https://lh3.googleusercontent.com/LF-qMyJATr4tKbLvzjCnab0L7Qv1kSLAusVHMn-apAwi9YuF-Nv0KQXtI-OifhH3Ycz5sWJ6pABn" alt="enter image description here"></p>
 <p>Cada <strong>line box</strong> tiene uno o varios <strong>inline elements</strong><br>
 <img src="https://lh3.googleusercontent.com/_a6ZSJrsRblNZx_mkxnYc0Vfz6b3tcUIOrg5gcgwoz1HDalJTFAqt-OFSY2MWb-5CwyM57aMByvF" alt="enter image description here"></p>
-<p>Algunas propiedades de CSS hacen que un elemento pueda crear su propio BFC.</p>
-<ul>
-<li><code>overflow: auto</code></li>
-<li><code>display: flow-root</code> - <a href="https://caniuse.com/#search=display:%20flow-root">ver support</a></li>
-</ul>
 <h3 id="relative-positioning">Relative positioning</h3>
-<p>El Relative positioning es una forma de posicionamiento que coloca los objetos <strong>de manera relativa al lugar donde irian en su normal flow</strong> pero esto <strong>No afecta la posicion de los elementos a su alrededor</strong> y <strong>preserva el lugar originalmente  destinado al elemento</strong></p>
+<p>El Relative positioning es una forma de posicionamiento que coloca los objetos de manera relativa al lugar donde irian en su posicion en normal flow conservando ademas el lugar originalmente reservado para ellos</p>
+<ul>
+<li>Mueve el elemento con respecto a su posicion en normal flow</li>
+<li>Preserva el lugar que ocuparia en el normal flow</li>
+</ul>
 <blockquote>
-<p><strong>El tamaño del elemento no puede cambiar cmo resultado del posicionamiento relativo!</strong></p>
+<p><strong>El tamaño del elemento no puede cambiar como resultado del posicionamiento relativo!</strong></p>
 </blockquote>
 <p><strong>Posicionamiento:</strong></p>
 <ul>
@@ -448,35 +485,300 @@ Applies to:all elements</li>
 <li>Usar <strong>auto</strong> como valor equivale a usar 0.</li>
 </ul>
 <h3 id="float">Float</h3>
-<p>El proposito de un float es que el contenido (blocks o inlines) pueda fluir a a lo largo de su altura.</p>
+<p>El proposito de un float es que el contenido (block sibling inmediato o inlines) pueda fluir a a lo largo de su altura.</p>
 <h4 id="funcionamiento">Funcionamiento</h4>
-<ul>
-<li>
+<p>Un float opera e interactua con otros elementos <strong>solo si estan en el mismo BFC</strong></p>
 <p><strong>Un float:</strong></p>
 <ul>
-<li><strong>Se corre</strong> a la derecha o izquierda hasta tocar el borde de su contenedor o del float mas proximo</li>
+<li><strong>Se corre a</strong> a la derecha o izquierda hasta
+<ul>
+<li>tocar el borde de su contenedor</li>
+<li>Tocar el borde de otro float</li>
 <li><strong>Si no entra a la derecha o izquierda del float mas proximo</strong>, se coloca debajo de este y tocando el borde del contenedor</li>
-<li>No forma parte del <strong>Normal flow</strong> pero tampoco <strong>sale del flow</strong> entonces <strong>El parent no puede deterinar su altura solo usando los floats</strong></li>
-<li><strong>Permite que el contenido fluya a su alrededor</strong> osea que los bloques o inline elements quedaran al costado del float (si entran)</li>
 </ul>
 </li>
-<li>
-<p><strong>El contenido circundante:</strong></p>
+<li>No forma parte del <strong>Normal flow</strong> entonces
+<ul>
+<li><strong>El parent no puede determinar su altura solo usando los floats</strong></li>
+<li><strong>Otros block elements se pueden posicionan debajo del float como si el float no existiera</strong></li>
+</ul>
+</li>
+<li>Aquellos blocks que <strong>queden detras del float ( parents, grandparents etc en el mismo BFC) acortan sus  line boxes</strong> para que queden <strong>entre el ultimo float y el borde del contenedor</strong> generando inline elements a su alededor, aunque esten en otro bloque</li>
+<li><strong>Los sibling inline elements</strong> acortan sus line boxes para  <em>fluir</em> al costado del float</li>
+</ul>
+<p><img src="https://lh3.googleusercontent.com/ErhVqPIW1uIV_EJKhx1CCpssJdVrAKpjlpyeOiiGyaWsqEcDYlpxrJ7hIIrlC4ZCh81we80j1C8p" alt="enter image description here"></p>
+<ul>
+<li><strong>El contenido circundante:</strong>
 <ul>
 <li>Su box siempre <strong>pasa por atras del float</strong> para estar <strong>tocando el left side del contenedor</strong> siempre que el ancho maximo del elemento lo permita (sino pasa a la siguiente linea).</li>
 <li>Los inline elements se colocan al costado del float siempre que formen parte del mismo BFC (no necesitan ser siblings grandparents, etc, se puede dar con cualquier jerarquia)</li>
 </ul>
 </li>
-<li>
-<p><strong>Cuaquiera de los dos</strong></p>
+</ul>
+<h4 id="clearing">Clearing</h4>
+<p>La propiedad <em>Clear</em> permite que un <strong>bloque</strong> que normalmente quedaria <strong>encimado por el float</strong> quede <strong>debajo del float</strong>.</p>
+<p>Lo hace mediante un <strong>margen invisible extendido</strong>  (ver imagen de arriba) que se genera <strong>despues del margen normal del elemento</strong> y se lo llama <strong>CLEARANCE</strong></p>
+<ul>
+<li><strong>Cuaquiera de los dos</strong>
 <ul>
 <li><strong>Si tiene clear left o right</strong> El elemento no puede estar a continuacion de un float (dentro del mismo BFC)</li>
 </ul>
 </li>
 </ul>
-<h4 id="el-famoso-clearfix---wip">El famoso clearfix --WIP</h4>
-<p><a href="https://www.youtube.com/watch?v=IiJzbXzOdHQ">https://www.youtube.com/watch?v=IiJzbXzOdHQ</a></p>
-<p><a href="https://www.youtube.com/watch?v=F86kgfhS-Vk">https://www.youtube.com/watch?v=F86kgfhS-Vk</a></p>
+<h3 id="absolute-positioning">Absolute positioning</h3>
+<p>En el modelo de absolute positioning:</p>
+<ul>
+<li>Se posiciona la caja con respecto a su <strong>containing block</strong>
+<ul>
+<li>El <strong>padding box</strong> del <strong>ancestro</strong> con <strong>position no static mas proximo</strong></li>
+</ul>
+</li>
+<li>Se lo remueve del <strong>normal flow</strong></li>
+<li>Establece un <strong>nuevo BFC en su interior</strong></li>
+<li><strong>Ignora page-breaks en printed media e imprime como si fuera un documento continuo</strong></li>
+<li>Se posicionan los lados de la <strong>margin box</strong> del elemento de acuerdo al <strong>padding box</strong> del elemento padre usando <strong>top, bottom, left, right</strong>, pudiendo usar las 4 a la vez</li>
+</ul>
+<blockquote>
+<p><strong>IMORTANTE:</strong> Para absolute positioning el <strong>containing block</strong> sigue varias relas, ver la seccion <strong>containing block</strong> para mas detalles</p>
+</blockquote>
+<h3 id="fixed-positioning">Fixed positioning</h3>
+<p>Fixed positioning:</p>
+<ul>
+<li>Es <strong>una subcategoria de absolute positioning</strong></li>
+<li>Su <strong>containing block</strong> es
+<ul>
+<li>el viewport en screen</li>
+<li>cada pagina en print</li>
+</ul>
+</li>
+<li><strong>En screen media:</strong> No se mueven cuando se scrollea el viewport</li>
+<li><strong>en print media:</strong> el elemento se repite para cada pagina.</li>
+</ul>
+<h3 id="stacking-context-y-layering">Stacking context y layering</h3>
+<p>Todas las cajas en CSS tienen una posicion Z que determina cual se pinta sobre cual. <strong>Para las positioned boxes es posible determinar la posicion z manualmente con la propiedad Z-index</strong> mientras que para las demas se coloca un <strong>valor Z defaut de 0</strong></p>
+<p>Los Z-index son valores en el eje z, pero se usan dentro de un <strong>stacking context</strong>,  es decir que <strong>no son valores absolutos</strong></p>
+<blockquote>
+<p>un elemento con z-index 99 puede <strong>estar abajo</strong> de un elemento con z-index 1 si <strong>no comparten el mismo stacking context</strong></p>
+</blockquote>
+<h4 id="terminos-2">Terminos</h4>
+<p>El <strong>Stacking context</strong> y los <strong>Stack levels</strong> determinan como se apilan aquellas cajas que se superponen gracias a que son <strong>positioned boxes (absolute, fixed o relative)</strong></p>
+<ul>
+<li><strong>Stacking context:</strong> Es el lugar donde interactuan y se ordenan los elementos que poseen un Stack level.
+<ul>
+<li><strong>Son atomicos</strong>
+<ul>
+<li>los elementos de un stacking context estan siempre atras o adelante de todos los elementos en otro static context</li>
+<li>Cada caja solo puede estar en un stacking context</li>
+</ul>
+</li>
+<li><strong>Se crean nuevos Stacking contexts con</strong>
+<ul>
+<li>caja con z-index, sus childs estan en otro stacking context</li>
+<li>Positioned box: sus childs tienen su propio stacking context</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Stack level:</strong> Es el orden en el cual se muestran los elementos que comparten un stack context
+<ul>
+<li><strong>Mayor stacking</strong> level es mas cerca del usuario</li>
+<li><strong>Stacking levels iguales</strong> implica que se usa el orden del documento HTML</li>
+</ul>
+</li>
+</ul>
+<h4 id="propiedad-z-index">Propiedad z-index</h4>
+<p>Para controlar estos parametros se usa la propiedad <strong>z-index</strong></p>
+<blockquote>
+<ul>
+<li><strong>Value:</strong>  int | auto | inherit</li>
+<li><strong>Initial:</strong> auto</li>
+<li><strong>Applies to:</strong>  SOLO POSITIONED ELEMENTS</li>
+<li><strong>Inherited:</strong> no</li>
+<li><strong>Percentages:</strong> N/A</li>
+<li><strong>Media:</strong> <a href="https://www.w3.org/TR/CSS2/media.html#visual-media-group">visual</a></li>
+<li><strong>Computed value:</strong> as specified</li>
+</ul>
+</blockquote>
+<ul>
+<li><strong>Intiger:</strong>
+<ul>
+<li>Es el <strong>stack level</strong> del elemento</li>
+<li>Especifica que dentro del elemento <strong>se generara un nuevo stacking context</strong></li>
+</ul>
+</li>
+<li><strong>auto:</strong>
+<ul>
+<li>El <strong>stack level</strong> es zero</li>
+<li>No se crea un nuevo <strong>stacking context</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="orden-de-apilado">Orden de apilado</h4>
+<p>El orden final de los elementos en el eje Z  <strong>DENTRO DE  un stacking context</strong> es el siguiente</p>
+<ol>
+<li>el background y borders del elemento que genera el stacking context</li>
+<li>Elementos de <code>z-index &lt;0</code></li>
+<li>elementos  <code>no-inline</code> con <code>position: static</code></li>
+<li><code>Floats</code> en position static.</li>
+<li>elementos <code>inline</code> con <code>position: static</code></li>
+<li>elementos con <code>z-index=0</code> o <code>posicion NO static</code></li>
+<li>Elementos con <code>z-index &gt;0</code></li>
+</ol>
+<p><img src="https://lh3.googleusercontent.com/Nz7JT7spqEsAI0CiLnQxW8b21jDDaan6UxvfD-B9byqi7Sb0H_jwwNJNBUXVBB4yXITfcRAHYKbB" alt="" title="stacking order"><br>
+A su vez los stacking contexts anidados no pueden cambiar su posicion con respecto a los stacking contexts por encima de ellos.</p>
+<blockquote>
+<p>Osea que <strong>los hijos de dos stacking contexts diferentes no cambiaran de posicion entre si</strong> aunque tengan z-index 0 y z-index 9999</p>
+</blockquote>
+<p><img src="https://lh3.googleusercontent.com/dlzr1P25LoDz5GCmfEm2-qNlYuPfryRTw4JmdVwpJ0jFvsQAXHEVfm3MVtOn_gBV2q_IYFUfEcO4" alt="" title="context"><br>
+<img src="https://lh3.googleusercontent.com/iJECytv2wy2PjY94nniKuV-PbtrnjfwY7eyXoVjc9nW3bphaTspapVtMKh04chaWz6TaIYsu44Rx" alt="" title="context2"></p>
+<h3 id="width-y-height">Width y height</h3>
+<h4 id="width">Width</h4>
+<p>Determina el ancho del <strong>content box</strong> de un elemento, <strong>no tiene efectos en inline elements</strong></p>
+<blockquote>
+<ul>
+<li><strong>Value:</strong>  length | v% | auto | inherit</li>
+<li><strong>Initial:</strong> auto</li>
+<li><strong>Applies to:</strong>  elementos no-inline, table rows y row groups</li>
+<li><strong>Inherited:</strong> no</li>
+<li><strong>Percentages:</strong> el ancho del containing block</li>
+<li><strong>Media:</strong> <a href="https://www.w3.org/TR/CSS2/media.html#visual-media-group">visual</a></li>
+<li><strong>Computed value:</strong> as specified</li>
+</ul>
+</blockquote>
+<ul>
+<li><strong>Length:</strong> ancho en unidades de medida</li>
+<li><strong>%</strong> porcetaje del ancho del *<em>containing block</em></li>
+<li><strong>auto</strong> depende del valor de otras propiedades
+<ul>
+<li><strong>inline</strong> No aplica, se usa el valor del contenido</li>
+<li><strong>inline replaced y block replaced elements</strong>
+<ul>
+<li><strong>width y height son auto</strong>: el ancho intrinseco del elemento (ej una imagen)</li>
+<li><strong>width auto y el elemento tiene ancho intrinseco</strong> ancho intrinseco del elemento</li>
+<li><strong>height tiene valor especificado o intrinseco, width auto y el elemento tiene un aspect ratio establecido</strong>: height * aspect ratio (ej una imagen consera su aspect ratio)</li>
+</ul>
+</li>
+<li><strong>block</strong>
+<ul>
+<li>Los valores <strong>auto</strong> para margins, paddings y borders pasan a 0 y se calcula el ancho con la equacion <strong>margins+widths+borders+paddings = containter box</strong></li>
+</ul>
+</li>
+<li><strong>inline block</strong>: shrink to fitt</li>
+<li><strong>Position absolute</strong>
+<ul>
+<li>Dada la siguiente equacion : <code>'left'+ 'right' + 'margins' + 'borders' + 'paddings' + 'width' = width of containing block</code></li>
+<li><strong>Si width es auto y no hay left Y right definidos</strong>: width es shrink-to-fit</li>
+<li><strong>Caso contrario</strong>: se usa la equacion para definir el width</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="height">Height</h4>
+<p>Permite especificar el alto de un elemento,  <strong>no sirve para los inline elements</strong></p>
+<blockquote>
+<p><em>Value:</em>   | auto | inherit<br>
+<em>Initial:</em> auto<br>
+<em>Applies to:</em> Todo salvo  non-replaced inline elements, table columns, and column groups<br>
+<em>Inherited:</em> no<br>
+<em>Percentages:</em> Ver detalles<br>
+<em>Media:</em> <a href="https://www.w3.org/TR/CSS2/media.html#visual-media-group">visual</a><br>
+<em>Computed value:</em> the percentage or ‘auto’ (see prose under <a href="https://www.w3.org/TR/CSS2/syndata.html#value-def-percentage"></a>) or the absolute length</p>
+</blockquote>
+<p><strong>Valores:</strong></p>
+<ul>
+<li><strong>Length:</strong> una cantidad en px, em, etc que determina el alto</li>
+<li><strong>%:</strong>
+<ul>
+<li><strong>Containing block tiene height explicito:</strong> Procentaje del containing block height</li>
+<li><strong>Containing block sin height:</strong> resuelve a <em>auto</em></li>
+</ul>
+</li>
+<li><strong>auto:</strong>
+<ul>
+<li><strong>inline</strong> no aplica, el alto es siempre el del contenido</li>
+<li><strong>replaced elements (Inline , block, inline-block, float):</strong>
+<ul>
+<li><strong>con intrinsic value y width auto</strong> se usa intrinsic value</li>
+<li><strong>con instrinsic ratio y width definido</strong> se usa <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext>width&nbsp;</mtext><mi>x</mi><mtext>&nbsp;ratio&nbsp;</mtext></mrow><annotation encoding="application/x-tex">\text{width } x \text{ ratio }</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.69444em; vertical-align: 0em;"></span><span class="mord text"><span class="mord">width&nbsp;</span></span><span class="mord mathnormal">x</span><span class="mord text"><span class="mord">&nbsp;ratio&nbsp;</span></span></span></span></span></span></li>
+</ul>
+</li>
+<li><strong>Blocks en  normal flow con ‘<code>overflow:visible</code>’</strong> tamaño en base al contenido
+<ul>
+<li>Ultimo line box (en IFC)</li>
+<li>Ultimo block element en flow (en BFC)</li>
+<li>zero  para los otros casos</li>
+</ul>
+</li>
+<li><strong>Absolutely positioned, non-replaced</strong>
+<ul>
+<li><strong>Top o bottom establecidos:</strong> se calcula height igual que en blocks en normal flow</li>
+<li><strong>Top y bottom establecidos</strong> El alto usado es el que falte para llenar el containing block</li>
+<li><strong>Top auto:</strong> se usa el top que se usaria en normal flow</li>
+<li><strong>Otros auto:</strong> se resuelve llevando el elemento al tamaño del container block usando la equacion <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>c</mi><mi>o</mi><mi>n</mi><mi>t</mi><mi>a</mi><mi>i</mi><mi>n</mi><mi>e</mi><mi>r</mi><mi>H</mi><mi>e</mi><mi>i</mi><mi>g</mi><mi>h</mi><mi>t</mi><mo>=</mo><mi>m</mi><mi>a</mi><mi>r</mi><mi>g</mi><mi>i</mi><mi>n</mi><mi>s</mi><mo>+</mo><mi>p</mi><mi>a</mi><mi>d</mi><mi>d</mi><mi>i</mi><mi>n</mi><mi>g</mi><mi>s</mi><mo>+</mo><mi>t</mi><mi>o</mi><mi>p</mi><mo>+</mo><mi>b</mi><mi>o</mi><mi>t</mi><mi>t</mi><mi>o</mi><mi>m</mi><mo>+</mo><mi>h</mi><mi>e</mi><mi>i</mi><mi>g</mi><mi>h</mi><mi>t</mi></mrow><annotation encoding="application/x-tex">containerHeight=margins+paddings+top+bottom+height</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathnormal">co</span><span class="mord mathnormal">n</span><span class="mord mathnormal">t</span><span class="mord mathnormal">ain</span><span class="mord mathnormal">erHe</span><span class="mord mathnormal">i</span><span style="margin-right: 0.03588em;" class="mord mathnormal">g</span><span class="mord mathnormal">h</span><span class="mord mathnormal">t</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.85396em; vertical-align: -0.19444em;"></span><span class="mord mathnormal">ma</span><span style="margin-right: 0.02778em;" class="mord mathnormal">r</span><span style="margin-right: 0.03588em;" class="mord mathnormal">g</span><span class="mord mathnormal">in</span><span class="mord mathnormal">s</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathnormal">p</span><span class="mord mathnormal">a</span><span class="mord mathnormal">dd</span><span class="mord mathnormal">in</span><span style="margin-right: 0.03588em;" class="mord mathnormal">g</span><span class="mord mathnormal">s</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 0.80952em; vertical-align: -0.19444em;"></span><span class="mord mathnormal">t</span><span class="mord mathnormal">o</span><span class="mord mathnormal">p</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 0.77777em; vertical-align: -0.08333em;"></span><span class="mord mathnormal">b</span><span class="mord mathnormal">o</span><span class="mord mathnormal">tt</span><span class="mord mathnormal">o</span><span class="mord mathnormal">m</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathnormal">h</span><span class="mord mathnormal">e</span><span class="mord mathnormal">i</span><span style="margin-right: 0.03588em;" class="mord mathnormal">g</span><span class="mord mathnormal">h</span><span class="mord mathnormal">t</span></span></span></span></span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="propiedades-de-inline-elements">Propiedades de inline elements</h2>
+<h3 id="line-height">Line-height</h3>
+<p>Line Height es el alto calculado de cada <strong>line box</strong> en un <strong>IFC</strong>.<br>
+La propiedad line-height indica <strong>el alto minimo del line box</strong></p>
+<p>El line height se basa en uno de los siguientes segun corresponda</p>
+<ul>
+<li><strong>inline</strong> Contenido / La fuente / tamaño intrinseco</li>
+<li><strong>inline-block</strong> Height property</li>
+</ul>
+<p><img src="https://lh3.googleusercontent.com/MrF_yNXGS5d398e0WZ6Iv5R7BbqcdwHQapAMB4yT15Ru88vTC9hRzyC4zEQ_ERGzGV_M0Y9LsNf3" alt="enter image description here"></p>
+<blockquote>
+<p><em>Value:</em>   | auto | inherit<br>
+<em>Initial:</em> normal<br>
+<em>Applies to:</em> Todo salvo  non-replaced inline elements, table columns, and column groups<br>
+<em>Inherited:</em> no<br>
+<em>Percentages:</em> porcentaje del font size<br>
+<em>Media:</em> <a href="https://www.w3.org/TR/CSS2/media.html#visual-media-group">visual</a><br>
+<em>Computed value:</em> absolute length o <em>normal</em></p>
+</blockquote>
+<h3 id="vertical-align---wip">Vertical-align - WIP</h3>
+<h2 id="visual-efects">Visual efects</h2>
+<h3 id="overflowing">Overflowing</h3>
+<p><strong>Overflowing:</strong> es cuando el contenido queda fuera su container box</p>
+<blockquote>
+<p><em>Value:</em> visible | hidden | scroll | auto | inherit<br>
+<em>Initial:</em> Visible<br>
+<em>Applies to:</em> block containers<br>
+<em>Inherited:</em> no<br>
+<em>Percentages:</em> N/A<br>
+<em>Media:</em> <a href="https://www.w3.org/TR/CSS2/media.html#visual-media-group">visual</a><br>
+<em>Computed value:</em>   Lo indicado en value</p>
+</blockquote>
+<ul>
+<li><strong>visible:</strong> EL contenido overflowea<br>
+<strong>hidden:</strong> No se overflowea<br>
+<strong>scroll:</strong> Muestra un scrollbar, no se overfowea<br>
+<strong>auto:</strong> depende del user agent, debe mostrar un scroll mechanism si hay overflow.</li>
+</ul>
+<blockquote>
+<p>El tamaño del scrollbar se usa de el <strong>width/height del elemento</strong> y el scrollbar <strong>se coloca entre el border y el padding</strong>.</p>
+</blockquote>
+<p>The behavior of the ‘auto’ value is user agent-dependent, but should cause a scrolling mechanism to be provided for overflowing boxes.</p>
+<h3 id="visibility">Visibility</h3>
+<p>Te permite ocultar un elemento, pero mantiene el espacio reservado para el</p>
+<h2 id="generated-content">Generated content</h2>
+<p>El <strong>Generated content</strong> es el contenido que es generado por CSS y no viene del source document. por ejemplo los bullets de una lista</p>
+<h3 id="content-y-before----after">Content y :before  - :After</h3>
+<p>Podes incertar contenido arbitrario a un elemento usando la propiedad <strong>content</strong> en conjunto con los pseudoelementos <strong>:before</strong> y <strong>:after</strong> que crean un elemento <strong>justo antes o despues del contenido del elemento en cuestion</strong></p>
+<ul>
+<li><strong>:Before y :After</strong> son pseudoelementos incertados antes o despues del contenido de un elemento y tendran el contenido que fue colocado en <strong>content</strong></li>
+<li><strong>Content:</strong> Un contenido arbitrario colocado en el pseudoelemento :Before o :After</li>
+</ul>
+<blockquote>
+<p>El contenido dinamico se inserta <strong>DENTRO</strong> del elemento en cuestion pero <strong>ANTES O DESPUES</strong> de su <strong>contenido</strong></p>
+</blockquote>
+<pre class=" language-css"><code class="prism  language-css"><span class="token selector">p<span class="token class">.note</span><span class="token pseudo-element">:before</span> </span><span class="token punctuation">{</span> <span class="token property">content</span><span class="token punctuation">:</span> <span class="token string">"Nota: "</span> <span class="token punctuation">}</span>
+</code></pre>
+<h3 id="counters---wip">Counters - WIP</h3>
 <h2 id="rules">Rules</h2>
 <h2 id="rules-1">@ Rules</h2>
 
