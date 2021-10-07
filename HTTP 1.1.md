@@ -781,5 +781,5 @@ WWW-Authenticate: Bearer ,
 * Los tokens deben expirar rapidamente (implmentado desde el server)
 * No transmitir token en la URI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjg5NTkxNl19
+eyJoaXN0b3J5IjpbLTE2NDQ0NzQ4NzYsMTUzMjg5NTkxNl19
 -->
