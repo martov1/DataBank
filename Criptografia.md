@@ -524,7 +524,7 @@ Como **nadie** va a lograr calcular $\phi(N)$ ni tampoco resolver $C^{D} \mod N 
  * Entre 1 y $\phi(N)$
  * **Coprimo** con $N$ y $\phi(N)$
  * Muchas veces se elige $65537$ por convencion, si es posible.
-* Se elije la **Clave 2** $C_2$ eligiendo algun  resultado valido de [alguna de estas equaciones](https://crypto.stackexchange.com/questions/56259/relationship-between-equivalent-ways-of-computing-rsa-private-key/56262# 56262):
+* Se elije la **Clave 2** $C_2$ eligiendo algun  resultado valido de [alguna de estas equaciones](https://crypto.stackexchange.com/questions/56259/relationship-between-equivalent-ways-of-computing-rsa-private-key/56262#56262):
 	*  $C_2={\phi(N)+1 \over C_1}$
 	*  $C_1* C_2=1 \mod \phi(N)$
 
@@ -1229,5 +1229,6 @@ Con cualquier **Asymetric key** un atacante puede interceptar la comunicacion y 
   https://www.youtube.com/watch?v=wlSG3pEiQdc
   https://tools.ietf.org/html/rfc2104
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ0MjEwMDcsLTk5ODY2ODU1MV19
+eyJoaXN0b3J5IjpbMTc4OTgyMDMwNSwtMjE0NDQyMTAwNywtOT
+k4NjY4NTUxXX0=
 -->
